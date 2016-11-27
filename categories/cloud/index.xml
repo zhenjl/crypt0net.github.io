@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 27 Nov 2016 13:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Nov 2016 15:00:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ansible 2.2 Delivers New Automation Capabilities for Containers, Networks</title>
+      <link>//cloudfeed.net/post/ansible-22-delivers-new-automation-capabilities-for-containers-networks/</link>
+      <pubDate>Sun, 27 Nov 2016 15:00:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/ansible-22-delivers-new-automation-capabilities-for-containers-networks/</guid>
+      <description>&lt;p&gt;Satellite PR News (press release) New functionality for cloud providers has been added, including: Amazon Web Services (AWS), Google Cloud Platform and OpenStack providers.  &lt;a href=&#34;http://satprnews.com/2016/11/27/ansible-2-2-delivers-new-automation-capabilities-for-containers-networks-and-cloud-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://satprnews.com/2016/11/27/ansible-2-2-delivers-new-automation-capabilities-for-containers-networks-and-cloud-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Azure Data Science Virtual Machine with Theano and Keras</title>
@@ -177,18 +189,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-releases-7-new-general-purpose-compute-vm-sizes-on-azure/</guid>
       <description>&lt;p&gt;Microsoft yesterday announced 7 new general purpose compute VM sizes on Azure. With the updated A-Series VM, they have increased the RAM per &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-releases-7-new-general-purpose-compute-vm-sizes-azure/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-releases-7-new-general-purpose-compute-vm-sizes-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How Does Technology Support Small Businesses?</title>
-      <link>//cloudfeed.net/post/how-does-technology-support-small-businesses/</link>
-      <pubDate>Thu, 24 Nov 2016 07:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/how-does-technology-support-small-businesses/</guid>
-      <description>&lt;p&gt;Dolphin&amp;rsquo;s Content Archive Service for Cloud is a Storage as a Service solution that connects to major public cloud providers like Google Cloud and &amp;hellip;  &lt;a href=&#34;https://techfeatured.com/2732/how-does-technology-support-small-businesses&#34; onclick=&#34;trackOutboundLink(&#39;https://techfeatured.com/2732/how-does-technology-support-small-businesses&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

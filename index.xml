@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 27 Nov 2016 13:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Nov 2016 15:00:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ansible 2.2 Delivers New Automation Capabilities for Containers, Networks</title>
+      <link>//cloudfeed.net/post/ansible-22-delivers-new-automation-capabilities-for-containers-networks/</link>
+      <pubDate>Sun, 27 Nov 2016 15:00:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/ansible-22-delivers-new-automation-capabilities-for-containers-networks/</guid>
+      <description>&lt;p&gt;Satellite PR News (press release) New functionality for cloud providers has been added, including: Amazon Web Services (AWS), Google Cloud Platform and OpenStack providers.  &lt;a href=&#34;http://satprnews.com/2016/11/27/ansible-2-2-delivers-new-automation-capabilities-for-containers-networks-and-cloud-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://satprnews.com/2016/11/27/ansible-2-2-delivers-new-automation-capabilities-for-containers-networks-and-cloud-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Azure Data Science Virtual Machine with Theano and Keras</title>
@@ -180,18 +192,6 @@
       
       <guid>//cloudfeed.net/post/advanced-micro-devices-inc-amd-stock-move-could-be-big/</guid>
       <description>&lt;p&gt;&amp;hellip; announced it would be using AMD&amp;rsquo;s advanced graphic processors called the AMD FirePro S9300 x2 Server GPU in its Google Cloud Platform.  &lt;a href=&#34;http://www.profitconfidential.com/stock/advanced-micro-devices-inc-amd-stock-move-big/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.profitconfidential.com/stock/advanced-micro-devices-inc-amd-stock-move-big/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Free Meetup on Building Cross Platform apps using Xamarin &amp; Microsoft Azure</title>
-      <link>//cloudfeed.net/post/free-meetup-on-building-cross-platform-apps-using-xamarin--microsoft-azure/</link>
-      <pubDate>Thu, 24 Nov 2016 13:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/free-meetup-on-building-cross-platform-apps-using-xamarin--microsoft-azure/</guid>
-      <description>&lt;p&gt;Community is collaborating exclusively with TecJaunt &amp;amp; Quaid-e-Azam &amp;hellip;  &lt;a href=&#34;https://blogs.msdn.microsoft.com/pakistan/2016/11/24/free-meetup-on-building-cross-platform-apps-using-xamarin-microsoft-azure/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.msdn.microsoft.com/pakistan/2016/11/24/free-meetup-on-building-cross-platform-apps-using-xamarin-microsoft-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

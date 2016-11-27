@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 27 Nov 2016 13:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Nov 2016 15:00:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ansible 2.2 Delivers New Automation Capabilities for Containers, Networks</title>
+      <link>//cloudfeed.net/post/ansible-22-delivers-new-automation-capabilities-for-containers-networks/</link>
+      <pubDate>Sun, 27 Nov 2016 15:00:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/ansible-22-delivers-new-automation-capabilities-for-containers-networks/</guid>
+      <description>&lt;p&gt;Satellite PR News (press release) New functionality for cloud providers has been added, including: Amazon Web Services (AWS), Google Cloud Platform and OpenStack providers.  &lt;a href=&#34;http://satprnews.com/2016/11/27/ansible-2-2-delivers-new-automation-capabilities-for-containers-networks-and-cloud-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://satprnews.com/2016/11/27/ansible-2-2-delivers-new-automation-capabilities-for-containers-networks-and-cloud-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Azure Data Science Virtual Machine with Theano and Keras</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/daily-api-roundup-google-cloud-stackdriver-tomtom-pyze-monzo-slimpay/</guid>
       <description>&lt;p&gt;Every day, the ProgrammableWeb team is busy, updating its three primary directories for APIs, clients (language-specific libraries or SDKs for &amp;hellip;  &lt;a href=&#34;http://www.programmableweb.com/news/daily-api-roundup-google-cloud-stackdriver-tomtom-pyze-monzo-slimpay/brief/2016/11/24&#34; onclick=&#34;trackOutboundLink(&#39;http://www.programmableweb.com/news/daily-api-roundup-google-cloud-stackdriver-tomtom-pyze-monzo-slimpay/brief/2016/11/24&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft partners with professional golfer Bryson DeChambeau in developing</title>
-      <link>//cloudfeed.net/post/microsoft-partners-with-professional-golfer-bryson-dechambeau-in-developing/</link>
-      <pubDate>Thu, 24 Nov 2016 11:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-partners-with-professional-golfer-bryson-dechambeau-in-developing/</guid>
-      <description>&lt;p&gt;MSPoweruser Microsoft partners with professional golfer Bryson DeChambeau in developing &amp;hellip; clubs and relays real-time data to Microsoft Azure intelligent systems.  &lt;a href=&#34;https://mspoweruser.com/microsoft-partners-professional-golfer-bryson-dechambeau-developing-smart-connected-golf-grip/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-partners-professional-golfer-bryson-dechambeau-developing-smart-connected-golf-grip/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
