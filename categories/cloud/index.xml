@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 27 Nov 2016 16:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Nov 2016 17:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Disk Encryption  How to recover BEK file from Azure Key Vault</title>
+      <link>//cloudfeed.net/post/azure-disk-encryption--how-to-recover-bek-file-from-azure-key-vault/</link>
+      <pubDate>Sun, 27 Nov 2016 17:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/azure-disk-encryption--how-to-recover-bek-file-from-azure-key-vault/</guid>
+      <description>&lt;p&gt;Extension and how it integrates with Key Vault and the Azure Platform to create &amp;hellip;  &lt;a href=&#34;https://blogs.msdn.microsoft.com/mast/2016/11/27/azure-disk-encryption-how-to-recover-bek-file-from-azure-key-vault/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.msdn.microsoft.com/mast/2016/11/27/azure-disk-encryption-how-to-recover-bek-file-from-azure-key-vault/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cloud compute pricing bakeoff: Google vs. AWS vs. Microsoft Azure</title>
@@ -177,18 +189,6 @@
       
       <guid>//cloudfeed.net/post/content-delivery-network-cdn-market-worth-2322-billion-usd-by-2021/</guid>
       <description>&lt;p&gt;WhaTech (California, U.S.), Level 3 Communications (Colorado, U.S.), Limelight Networks, Inc. (Arizona, U.S.), Amazon Web Services, Inc. (Washington, U.S.) &amp;hellip;  &lt;a href=&#34;https://www.whatech.com/market-research/energy/230804-content-delivery-network-cdn-market-worth-23-22-billion-usd-by-2021-according-to-new-research-report&#34; onclick=&#34;trackOutboundLink(&#39;https://www.whatech.com/market-research/energy/230804-content-delivery-network-cdn-market-worth-23-22-billion-usd-by-2021-according-to-new-research-report&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rumours claim Amazon has bought an online messaging startup</title>
-      <link>//cloudfeed.net/post/rumours-claim-amazon-has-bought-an-online-messaging-startup/</link>
-      <pubDate>Thu, 24 Nov 2016 08:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/rumours-claim-amazon-has-bought-an-online-messaging-startup/</guid>
-      <description>&lt;p&gt;Amazon Web Services is expected to make a number of announcements about its services at its re:invent conference in Las Vegas next week.  &lt;a href=&#34;http://www.dailymail.co.uk/sciencetech/article-3967938/Is-Amazon-launch-video-chat-app-Rumours-claim-firm-bought-online-messaging-startup.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dailymail.co.uk/sciencetech/article-3967938/Is-Amazon-launch-video-chat-app-Rumours-claim-firm-bought-online-messaging-startup.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
