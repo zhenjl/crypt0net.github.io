@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 28 Nov 2016 10:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 12:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Backup Protects Against Deliberate Attacks</title>
+      <link>//cloudfeed.net/post/azure-backup-protects-against-deliberate-attacks/</link>
+      <pubDate>Mon, 28 Nov 2016 12:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/azure-backup-protects-against-deliberate-attacks/</guid>
+      <description>&lt;p&gt;Microsoft&amp;rsquo;s cloud backup solution, Azure Backup, has added new protections to defend your data against deliberate attacks. This post will explain what &amp;hellip;  &lt;a href=&#34;https://www.petri.com/azure-backup-protections-deliberate-attacks&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/azure-backup-protections-deliberate-attacks&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft update left Azure Linux virtual machines open to hacking</title>
@@ -183,18 +195,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-update-servers-left-all-azure-rhel-instances-hackable/</guid>
       <description>&lt;p&gt;Microsoft has patched flaws that attackers could exploit to compromise all Azure Red Hat Enterprise Linux (RHEL) instances. Software engineer Ian &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/11/28/microsoft_update_servers_left_all_azure_rhel_instances_hackable/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/11/28/microsoft_update_servers_left_all_azure_rhel_instances_hackable/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure Disk Encryption  How to recover BEK file from Azure Key Vault</title>
-      <link>//cloudfeed.net/post/azure-disk-encryption--how-to-recover-bek-file-from-azure-key-vault/</link>
-      <pubDate>Sun, 27 Nov 2016 17:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/azure-disk-encryption--how-to-recover-bek-file-from-azure-key-vault/</guid>
-      <description>&lt;p&gt;Extension and how it integrates with Key Vault and the Azure Platform to create &amp;hellip;  &lt;a href=&#34;https://blogs.msdn.microsoft.com/mast/2016/11/27/azure-disk-encryption-how-to-recover-bek-file-from-azure-key-vault/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.msdn.microsoft.com/mast/2016/11/27/azure-disk-encryption-how-to-recover-bek-file-from-azure-key-vault/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

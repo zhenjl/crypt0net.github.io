@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 28 Nov 2016 11:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 12:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Backup Protects Against Deliberate Attacks</title>
+      <link>//cloudfeed.net/post/azure-backup-protects-against-deliberate-attacks/</link>
+      <pubDate>Mon, 28 Nov 2016 12:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/azure-backup-protects-against-deliberate-attacks/</guid>
+      <description>&lt;p&gt;Microsoft&amp;rsquo;s cloud backup solution, Azure Backup, has added new protections to defend your data against deliberate attacks. This post will explain what &amp;hellip;  &lt;a href=&#34;https://www.petri.com/azure-backup-protections-deliberate-attacks&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/azure-backup-protections-deliberate-attacks&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Digital Turbine Inc. (APPS) Rating Lowered to Sell at Zacks Investment</title>
+      <link>//cloudfeed.net/post/the-digital-turbine-inc-apps-rating-lowered-to-sell-at-zacks-investment/</link>
+      <pubDate>Mon, 28 Nov 2016 12:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/the-digital-turbine-inc-apps-rating-lowered-to-sell-at-zacks-investment/</guid>
+      <description>&lt;p&gt;DailyQuint The company&amp;rsquo;s product include DT Ignite&amp;trade;, a mobile device management solution with targeted app distribution capabilities, DT IQ&amp;trade;, &amp;hellip;  &lt;a href=&#34;http://dailyquint.com/2016-11-28-digital-turbine-inc-apps-rating-lowered-to-sell-at-zacks-investment-research/&#34; onclick=&#34;trackOutboundLink(&#39;http://dailyquint.com/2016-11-28-digital-turbine-inc-apps-rating-lowered-to-sell-at-zacks-investment-research/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/topmobilenews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topmobilenews&#39;); return false;&#34;&gt;@topmobilenews&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ProtectWise Partners with Gigamon to Deliver Superior Visibility, Threat</title>
@@ -161,30 +185,6 @@
       
       <guid>//cloudfeed.net/post/config-fumble-left-azure-red-hat-enterprise-linux-wide-open/</guid>
       <description>&lt;p&gt;Duffy also discovered that Microsoft&amp;rsquo;s Azure Linux Agent, a mandatory piece of software used for provisioning Linux and FreeBSD virtual machines, &amp;hellip;  &lt;a href=&#34;http://www.itnews.com.au/news/config-fumble-left-azure-red-hat-enterprise-linux-wide-open-442839&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itnews.com.au/news/config-fumble-left-azure-red-hat-enterprise-linux-wide-open-442839&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Managed Services for Microsoft Azure Introduces HP Enterprises</title>
-      <link>//cloudfeed.net/post/managed-services-for-microsoft-azure-introduces-hp-enterprises/</link>
-      <pubDate>Sun, 27 Nov 2016 23:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/managed-services-for-microsoft-azure-introduces-hp-enterprises/</guid>
-      <description>&lt;p&gt;Hewlett Packard Enterprise announced a comprehensive set of Managed services for Microsoft Azure to enable design, deployment, delivery and &amp;hellip;  &lt;a href=&#34;http://www.pcquest.com/managed-services-for-microsoft-azure-introduces-hp-enterprises/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcquest.com/managed-services-for-microsoft-azure-introduces-hp-enterprises/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft update servers left all Azure RHEL instances hackable</title>
-      <link>//cloudfeed.net/post/microsoft-update-servers-left-all-azure-rhel-instances-hackable/</link>
-      <pubDate>Sun, 27 Nov 2016 18:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-update-servers-left-all-azure-rhel-instances-hackable/</guid>
-      <description>&lt;p&gt;Microsoft has patched flaws that attackers could exploit to compromise all Azure Red Hat Enterprise Linux (RHEL) instances. Software engineer Ian &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/11/28/microsoft_update_servers_left_all_azure_rhel_instances_hackable/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/11/28/microsoft_update_servers_left_all_azure_rhel_instances_hackable/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
