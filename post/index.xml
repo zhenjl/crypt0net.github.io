@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 27 Nov 2016 17:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Nov 2016 18:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft update servers left all Azure RHEL instances hackable</title>
+      <link>//cloudfeed.net/post/microsoft-update-servers-left-all-azure-rhel-instances-hackable/</link>
+      <pubDate>Sun, 27 Nov 2016 18:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-update-servers-left-all-azure-rhel-instances-hackable/</guid>
+      <description>&lt;p&gt;Microsoft has patched flaws that attackers could exploit to compromise all Azure Red Hat Enterprise Linux (RHEL) instances. Software engineer Ian &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/11/28/microsoft_update_servers_left_all_azure_rhel_instances_hackable/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/11/28/microsoft_update_servers_left_all_azure_rhel_instances_hackable/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure Disk Encryption  How to recover BEK file from Azure Key Vault</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Community is collaborating exclusively with TecJaunt &amp;amp; Quaid-e-Azam &amp;hellip;  &lt;a href=&#34;https://blogs.msdn.microsoft.com/pakistan/2016/11/24/free-meetup-on-building-cross-platform-apps-using-xamarin-microsoft-azure/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.msdn.microsoft.com/pakistan/2016/11/24/free-meetup-on-building-cross-platform-apps-using-xamarin-microsoft-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Internet of Things will demand a step-change in search solutions</title>
-      <link>//cloudfeed.net/post/internet-of-things-will-demand-a-stepchange-in-search-solutions/</link>
-      <pubDate>Thu, 24 Nov 2016 13:10:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/internet-of-things-will-demand-a-stepchange-in-search-solutions/</guid>
-      <description>&lt;p&gt;&amp;hellip; searched for information on the web, the IoT will see more machine-to-machine searches which are automatically generated depending on location, &amp;hellip;  &lt;a href=&#34;https://www.sciencedaily.com/releases/2016/11/161124081753.htm&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sciencedaily.com/releases/2016/11/161124081753.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

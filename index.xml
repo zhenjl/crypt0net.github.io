@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 27 Nov 2016 17:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Nov 2016 18:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft update servers left all Azure RHEL instances hackable</title>
+      <link>//cloudfeed.net/post/microsoft-update-servers-left-all-azure-rhel-instances-hackable/</link>
+      <pubDate>Sun, 27 Nov 2016 18:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-update-servers-left-all-azure-rhel-instances-hackable/</guid>
+      <description>&lt;p&gt;Microsoft has patched flaws that attackers could exploit to compromise all Azure Red Hat Enterprise Linux (RHEL) instances. Software engineer Ian &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/11/28/microsoft_update_servers_left_all_azure_rhel_instances_hackable/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/11/28/microsoft_update_servers_left_all_azure_rhel_instances_hackable/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure Disk Encryption  How to recover BEK file from Azure Key Vault</title>
@@ -182,18 +194,6 @@
       <description>&lt;p&gt;Digital Journal The Mobile Device Management (MDM) market size is estimated to grow from USD 1.69 billion in 2016 to USD 5.32 billion by 2021, at a Compound &amp;hellip;  &lt;a href=&#34;http://www.digitaljournal.com/pr/3154700&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digitaljournal.com/pr/3154700&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/topmobilenews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topmobilenews&#39;); return false;&#34;&gt;@topmobilenews&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Crackdown 3 is still in development</title>
-      <link>//cloudfeed.net/post/crackdown-3-is-still-in-development/</link>
-      <pubDate>Thu, 24 Nov 2016 14:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/crackdown-3-is-still-in-development/</guid>
-      <description>&lt;p&gt;Multiplayer would use Microsoft Azure to enhance its capabilities, and there was tons of potential. Game development takes time, however, so we&amp;rsquo;ll &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/crackdown-3-still-development/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/crackdown-3-still-development/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

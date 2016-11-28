@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 27 Nov 2016 17:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Nov 2016 18:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft update servers left all Azure RHEL instances hackable</title>
+      <link>//cloudfeed.net/post/microsoft-update-servers-left-all-azure-rhel-instances-hackable/</link>
+      <pubDate>Sun, 27 Nov 2016 18:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-update-servers-left-all-azure-rhel-instances-hackable/</guid>
+      <description>&lt;p&gt;Microsoft has patched flaws that attackers could exploit to compromise all Azure Red Hat Enterprise Linux (RHEL) instances. Software engineer Ian &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/11/28/microsoft_update_servers_left_all_azure_rhel_instances_hackable/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/11/28/microsoft_update_servers_left_all_azure_rhel_instances_hackable/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure Disk Encryption  How to recover BEK file from Azure Key Vault</title>
@@ -177,18 +189,6 @@
       
       <guid>//cloudfeed.net/post/msft-stock-thanksgiving-arrives-early-for-microsoft-corporation/</guid>
       <description>&lt;p&gt;Last month, Microsoft had posted upbeat first quarter numbers. Its cloud business was gaining strength and the revenue from Microsoft Azure had &amp;hellip;  &lt;a href=&#34;http://www.profitconfidential.com/stock/msft-stock-thanksgiving-arrives-early-for-microsoft-corporation/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.profitconfidential.com/stock/msft-stock-thanksgiving-arrives-early-for-microsoft-corporation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Content delivery network (CDN) market worth 23.22 billion USD by 2021</title>
-      <link>//cloudfeed.net/post/content-delivery-network-cdn-market-worth-2322-billion-usd-by-2021/</link>
-      <pubDate>Thu, 24 Nov 2016 08:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/content-delivery-network-cdn-market-worth-2322-billion-usd-by-2021/</guid>
-      <description>&lt;p&gt;WhaTech (California, U.S.), Level 3 Communications (Colorado, U.S.), Limelight Networks, Inc. (Arizona, U.S.), Amazon Web Services, Inc. (Washington, U.S.) &amp;hellip;  &lt;a href=&#34;https://www.whatech.com/market-research/energy/230804-content-delivery-network-cdn-market-worth-23-22-billion-usd-by-2021-according-to-new-research-report&#34; onclick=&#34;trackOutboundLink(&#39;https://www.whatech.com/market-research/energy/230804-content-delivery-network-cdn-market-worth-23-22-billion-usd-by-2021-according-to-new-research-report&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
