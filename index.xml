@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 28 Nov 2016 01:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 03:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft update servers leave Azure RHEL instances hackable</title>
+      <link>//cloudfeed.net/post/microsoft-update-servers-leave-azure-rhel-instances-hackable/</link>
+      <pubDate>Mon, 28 Nov 2016 03:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-update-servers-leave-azure-rhel-instances-hackable/</guid>
+      <description>&lt;p&gt;Microsoft has patched a huge flaw that left Azure Red Hat Enterprise Linux (RHEL) compromised and sucseptible to attack. Software engineer Ian &amp;hellip;  &lt;a href=&#34;http://www.pcr-online.biz/news/read/microsoft-update-servers-leave-azure-rhel-instances-hackable/038906&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcr-online.biz/news/read/microsoft-update-servers-leave-azure-rhel-instances-hackable/038906&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BC Platforms to Provide Genomics Data Management Solution to Codigo46</title>
@@ -191,19 +203,6 @@
 
 &lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.digitaljournal.com/pr/3155327&#39;&gt;Internet of Things (IoT) and Machine-to-Machine (M2M) Communication Market:&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Digital Journal The global Internet of Things (IoT) and Machine-To-Machine (M2M) market is segmented into four major categories, on the basis of technology and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Mobile Computing News from @topmobilenews - Nov 26, 2016</title>
-      <link>//cloudfeed.net/daily/daily-mobile-news-2016-11-26/</link>
-      <pubDate>Sat, 26 Nov 2016 18:05:01 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/daily/daily-mobile-news-2016-11-26/</guid>
-      <description>&lt;p&gt;Daily Mobile Computing news from &lt;a href=&#34;http://twitter.com/topmobilenews&#34;&gt;@topmobilenews&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.aboutcruiseships.com/news/microsoft-releases-surface-phone-specs-run-qualcomm-snapdragon-835-1188/&#39;&gt;[ November 25, 2016 ] Microsoft Releases Surface Phone Specs to Run on&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;About Cruise Ships &amp;hellip; as the first processor to be produced in 10-nanometer process that promises more mobile computing power with increased efficiency of energy use. &lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
