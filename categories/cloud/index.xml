@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 28 Nov 2016 14:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 15:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RightScale Compares Pricing on AWS, Google and Microsoft</title>
+      <link>//cloudfeed.net/post/rightscale-compares-pricing-on-aws-google-and-microsoft/</link>
+      <pubDate>Mon, 28 Nov 2016 15:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/rightscale-compares-pricing-on-aws-google-and-microsoft/</guid>
+      <description>&lt;p&gt;RightScale serves as a front-end management platform for Amazon Web Services, Google Cloud Platform and Microsoft Azure. Many of its customers &amp;hellip;  &lt;a href=&#34;http://www.informationweek.com/cloud/infrastructure-as-a-service/rightscale-compares-pricing-on-aws-google-and-microsoft--/d/d-id/1327568?_mc=RSS_IWK_EDT&#34; onclick=&#34;trackOutboundLink(&#39;http://www.informationweek.com/cloud/infrastructure-as-a-service/rightscale-compares-pricing-on-aws-google-and-microsoft--/d/d-id/1327568?_mc=RSS_IWK_EDT&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>RightScale Compares Amazon AWS, Microsoft Azure And Google Cloud Pricing</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/alibaba-cloud-isnt-here-to-compete-with-amazon-microsoft-yet/</guid>
       <description>&lt;p&gt;Alibaba Cloud isn&amp;rsquo;t here to compete with Amazon, Microsoft yet &amp;hellip; giant says it isn&amp;rsquo;t here to take on Amazon Web Services or Microsoft Azure. Well &amp;hellip;  &lt;a href=&#34;http://which-50.com/alibaba-cloud-isnt-compete-amazon-microsoft-yet/&#34; onclick=&#34;trackOutboundLink(&#39;http://which-50.com/alibaba-cloud-isnt-compete-amazon-microsoft-yet/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Config fumble left Azure Red Hat Enterprise Linux wide open</title>
-      <link>//cloudfeed.net/post/config-fumble-left-azure-red-hat-enterprise-linux-wide-open/</link>
-      <pubDate>Mon, 28 Nov 2016 00:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/config-fumble-left-azure-red-hat-enterprise-linux-wide-open/</guid>
-      <description>&lt;p&gt;Duffy also discovered that Microsoft&amp;rsquo;s Azure Linux Agent, a mandatory piece of software used for provisioning Linux and FreeBSD virtual machines, &amp;hellip;  &lt;a href=&#34;http://www.itnews.com.au/news/config-fumble-left-azure-red-hat-enterprise-linux-wide-open-442839&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itnews.com.au/news/config-fumble-left-azure-red-hat-enterprise-linux-wide-open-442839&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
