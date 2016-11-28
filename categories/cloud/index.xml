@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 27 Nov 2016 15:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Nov 2016 16:20:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cloud compute pricing bakeoff: Google vs. AWS vs. Microsoft Azure</title>
+      <link>//cloudfeed.net/post/cloud-compute-pricing-bakeoff-google-vs-aws-vs-microsoft-azure/</link>
+      <pubDate>Sun, 27 Nov 2016 16:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/cloud-compute-pricing-bakeoff-google-vs-aws-vs-microsoft-azure/</guid>
+      <description>&lt;p&gt;Generally speaking AWS won&amp;rsquo;t be your cheapest option for compute. AWS typically lands in the middle between Microsoft Azure and Google Cloud.  &lt;a href=&#34;http://www.zdnet.com/article/cloud-compute-pricing-bakeoff-google-vs-aws-vs-microsoft-azure/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/cloud-compute-pricing-bakeoff-google-vs-aws-vs-microsoft-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ansible 2.2 Delivers New Automation Capabilities for Containers, Networks</title>
@@ -177,18 +189,6 @@
       
       <guid>//cloudfeed.net/post/rumours-claim-amazon-has-bought-an-online-messaging-startup/</guid>
       <description>&lt;p&gt;Amazon Web Services is expected to make a number of announcements about its services at its re:invent conference in Las Vegas next week.  &lt;a href=&#34;http://www.dailymail.co.uk/sciencetech/article-3967938/Is-Amazon-launch-video-chat-app-Rumours-claim-firm-bought-online-messaging-startup.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dailymail.co.uk/sciencetech/article-3967938/Is-Amazon-launch-video-chat-app-Rumours-claim-firm-bought-online-messaging-startup.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft releases 7 new general purpose compute VM sizes on Azure</title>
-      <link>//cloudfeed.net/post/microsoft-releases-7-new-general-purpose-compute-vm-sizes-on-azure/</link>
-      <pubDate>Thu, 24 Nov 2016 08:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-releases-7-new-general-purpose-compute-vm-sizes-on-azure/</guid>
-      <description>&lt;p&gt;Microsoft yesterday announced 7 new general purpose compute VM sizes on Azure. With the updated A-Series VM, they have increased the RAM per &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-releases-7-new-general-purpose-compute-vm-sizes-azure/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-releases-7-new-general-purpose-compute-vm-sizes-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
