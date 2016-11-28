@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 28 Nov 2016 13:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 14:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RightScale Compares Amazon AWS, Microsoft Azure And Google Cloud Pricing</title>
+      <link>//cloudfeed.net/post/rightscale-compares-amazon-aws-microsoft-azure-and-google-cloud-pricing/</link>
+      <pubDate>Mon, 28 Nov 2016 14:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/rightscale-compares-amazon-aws-microsoft-azure-and-google-cloud-pricing/</guid>
+      <description>&lt;p&gt;With the increasing number and sophistication of cloud instance types and pricing options, it can be painfully difficult to compare costs from the three &amp;hellip;  &lt;a href=&#34;http://m.crn.com/news/cloud/300082931/rightscale-compares-amazon-aws-microsoft-azure-and-google-cloud-pricing.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://m.crn.com/news/cloud/300082931/rightscale-compares-amazon-aws-microsoft-azure-and-google-cloud-pricing.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure Management Certificates and Publishing Setting file with CSP</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/it-services-firm-presidio-files-for-ipo-hopes-to-raise-400m/</guid>
       <description>&lt;p&gt;In addition, the company warned in its filing that public cloud service providers such as Amazon Web Services, Microsoft Azure and Google Cloud are &amp;hellip;  &lt;a href=&#34;http://siliconangle.com/blog/2016/11/27/services-firm-presidio-files-ipo-hopes-raise-400m/&#34; onclick=&#34;trackOutboundLink(&#39;http://siliconangle.com/blog/2016/11/27/services-firm-presidio-files-ipo-hopes-raise-400m/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft update servers leave Azure RHEL instances hackable</title>
-      <link>//cloudfeed.net/post/microsoft-update-servers-leave-azure-rhel-instances-hackable/</link>
-      <pubDate>Mon, 28 Nov 2016 03:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-update-servers-leave-azure-rhel-instances-hackable/</guid>
-      <description>&lt;p&gt;Microsoft has patched a huge flaw that left Azure Red Hat Enterprise Linux (RHEL) compromised and sucseptible to attack. Software engineer Ian &amp;hellip;  &lt;a href=&#34;http://www.pcr-online.biz/news/read/microsoft-update-servers-leave-azure-rhel-instances-hackable/038906&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcr-online.biz/news/read/microsoft-update-servers-leave-azure-rhel-instances-hackable/038906&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

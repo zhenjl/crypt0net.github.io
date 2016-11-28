@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 28 Nov 2016 13:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 14:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RightScale Compares Amazon AWS, Microsoft Azure And Google Cloud Pricing</title>
+      <link>//cloudfeed.net/post/rightscale-compares-amazon-aws-microsoft-azure-and-google-cloud-pricing/</link>
+      <pubDate>Mon, 28 Nov 2016 14:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/rightscale-compares-amazon-aws-microsoft-azure-and-google-cloud-pricing/</guid>
+      <description>&lt;p&gt;With the increasing number and sophistication of cloud instance types and pricing options, it can be painfully difficult to compare costs from the three &amp;hellip;  &lt;a href=&#34;http://m.crn.com/news/cloud/300082931/rightscale-compares-amazon-aws-microsoft-azure-and-google-cloud-pricing.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://m.crn.com/news/cloud/300082931/rightscale-compares-amazon-aws-microsoft-azure-and-google-cloud-pricing.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure Management Certificates and Publishing Setting file with CSP</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/config-fumble-left-azure-red-hat-enterprise-linux-wide-open/</guid>
       <description>&lt;p&gt;Duffy also discovered that Microsoft&amp;rsquo;s Azure Linux Agent, a mandatory piece of software used for provisioning Linux and FreeBSD virtual machines, &amp;hellip;  &lt;a href=&#34;http://www.itnews.com.au/news/config-fumble-left-azure-red-hat-enterprise-linux-wide-open-442839&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itnews.com.au/news/config-fumble-left-azure-red-hat-enterprise-linux-wide-open-442839&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Managed Services for Microsoft Azure Introduces HP Enterprises</title>
-      <link>//cloudfeed.net/post/managed-services-for-microsoft-azure-introduces-hp-enterprises/</link>
-      <pubDate>Sun, 27 Nov 2016 23:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/managed-services-for-microsoft-azure-introduces-hp-enterprises/</guid>
-      <description>&lt;p&gt;Hewlett Packard Enterprise announced a comprehensive set of Managed services for Microsoft Azure to enable design, deployment, delivery and &amp;hellip;  &lt;a href=&#34;http://www.pcquest.com/managed-services-for-microsoft-azure-introduces-hp-enterprises/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcquest.com/managed-services-for-microsoft-azure-introduces-hp-enterprises/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
