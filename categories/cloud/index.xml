@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 28 Nov 2016 12:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 13:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Management Certificates and Publishing Setting file with CSP</title>
+      <link>//cloudfeed.net/post/azure-management-certificates-and-publishing-setting-file-with-csp/</link>
+      <pubDate>Mon, 28 Nov 2016 13:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/azure-management-certificates-and-publishing-setting-file-with-csp/</guid>
+      <description>&lt;p&gt;In this post I will talk about a limitation of Azure CSP Subscriptions that makes users unable to work with Azure Management Certificates and &amp;hellip;  &lt;a href=&#34;https://blogs.msdn.microsoft.com/cie/2016/11/28/azure-management-certificates-and-publishing-setting-file-with-csp-subscriptions/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.msdn.microsoft.com/cie/2016/11/28/azure-management-certificates-and-publishing-setting-file-with-csp-subscriptions/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Announces Auto-Shutdown for VMs using Azure Resource Manager</title>
+      <link>//cloudfeed.net/post/microsoft-announces-autoshutdown-for-vms-using-azure-resource-manager/</link>
+      <pubDate>Mon, 28 Nov 2016 13:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-announces-autoshutdown-for-vms-using-azure-resource-manager/</guid>
+      <description>&lt;p&gt;This was a feature originally available only to VMs in Azure DevTest Labs: your self-service sandbox environment in Azure to quickly create Dev/Test &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/microsoft-announces-auto-shutdown-for-vms-using-azure-resource-manager/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/microsoft-announces-auto-shutdown-for-vms-using-azure-resource-manager/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure Backup Protects Against Deliberate Attacks</title>
@@ -161,40 +185,6 @@
       
       <guid>//cloudfeed.net/post/managed-services-for-microsoft-azure-introduces-hp-enterprises/</guid>
       <description>&lt;p&gt;Hewlett Packard Enterprise announced a comprehensive set of Managed services for Microsoft Azure to enable design, deployment, delivery and &amp;hellip;  &lt;a href=&#34;http://www.pcquest.com/managed-services-for-microsoft-azure-introduces-hp-enterprises/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcquest.com/managed-services-for-microsoft-azure-introduces-hp-enterprises/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Cloud Computing News from @cloudfeednet - Nov 27, 2016</title>
-      <link>//cloudfeed.net/daily/daily-cloud-news-2016-11-27/</link>
-      <pubDate>Sun, 27 Nov 2016 18:05:01 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/daily/daily-cloud-news-2016-11-27/</guid>
-      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/11/27/microsoft-azure-data-science-virtual-machine-with-theano-and-keras/&#39;&gt;Microsoft Azure Data Science Virtual Machine with Theano and Keras&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;2012, contains popular tools for data science modelling and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://satprnews.com/2016/11/27/ansible-2-2-delivers-new-automation-capabilities-for-containers-networks-and-cloud-services/&#39;&gt;Ansible 2.2 Delivers New Automation Capabilities for Containers, Networks&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Satellite PR News (press release) New functionality for cloud providers has been added, including: Amazon Web Services (AWS), Google Cloud Platform and OpenStack providers. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.zdnet.com/article/cloud-compute-pricing-bakeoff-google-vs-aws-vs-microsoft-azure/&#39;&gt;Cloud compute pricing bakeoff: Google vs. AWS vs. Microsoft Azure&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Generally speaking AWS won&amp;rsquo;t be your cheapest option for compute. AWS typically lands in the middle between Microsoft Azure and Google Cloud. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://blogs.msdn.microsoft.com/mast/2016/11/27/azure-disk-encryption-how-to-recover-bek-file-from-azure-key-vault/&#39;&gt;Azure Disk Encryption  How to recover BEK file from Azure Key Vault&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Extension and how it integrates with Key Vault and the Azure Platform to create &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft update servers left all Azure RHEL instances hackable</title>
-      <link>//cloudfeed.net/post/microsoft-update-servers-left-all-azure-rhel-instances-hackable/</link>
-      <pubDate>Sun, 27 Nov 2016 18:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-update-servers-left-all-azure-rhel-instances-hackable/</guid>
-      <description>&lt;p&gt;Microsoft has patched flaws that attackers could exploit to compromise all Azure Red Hat Enterprise Linux (RHEL) instances. Software engineer Ian &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/11/28/microsoft_update_servers_left_all_azure_rhel_instances_hackable/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/11/28/microsoft_update_servers_left_all_azure_rhel_instances_hackable/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
