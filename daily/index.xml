@@ -7,13 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 27 Nov 2016 11:24:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Nov 2016 18:05:01 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/daily/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Cloud Computing News from @cloudfeednet - Nov 27, 2016</title>
+      <link>//cloudfeed.net/daily/daily-cloud-news-2016-11-27/</link>
+      <pubDate>Sun, 27 Nov 2016 18:05:01 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/daily/daily-cloud-news-2016-11-27/</guid>
+      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/11/27/microsoft-azure-data-science-virtual-machine-with-theano-and-keras/&#39;&gt;Microsoft Azure Data Science Virtual Machine with Theano and Keras&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;2012, contains popular tools for data science modelling and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://satprnews.com/2016/11/27/ansible-2-2-delivers-new-automation-capabilities-for-containers-networks-and-cloud-services/&#39;&gt;Ansible 2.2 Delivers New Automation Capabilities for Containers, Networks&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Satellite PR News (press release) New functionality for cloud providers has been added, including: Amazon Web Services (AWS), Google Cloud Platform and OpenStack providers. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.zdnet.com/article/cloud-compute-pricing-bakeoff-google-vs-aws-vs-microsoft-azure/&#39;&gt;Cloud compute pricing bakeoff: Google vs. AWS vs. Microsoft Azure&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Generally speaking AWS won&amp;rsquo;t be your cheapest option for compute. AWS typically lands in the middle between Microsoft Azure and Google Cloud. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://blogs.msdn.microsoft.com/mast/2016/11/27/azure-disk-encryption-how-to-recover-bek-file-from-azure-key-vault/&#39;&gt;Azure Disk Encryption  How to recover BEK file from Azure Key Vault&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Extension and how it integrates with Key Vault and the Azure Platform to create &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily IoT/Blockchain News from @surgethings - Nov 27, 2016</title>
       <link>//cloudfeed.net/daily/daily-iot-news-2016-11-27/</link>
-      <pubDate>Sun, 27 Nov 2016 11:24:46 +0000</pubDate>
+      <pubDate>Sun, 27 Nov 2016 18:05:01 +0000</pubDate>
       
       <guid>//cloudfeed.net/daily/daily-iot-news-2016-11-27/</guid>
       <description>&lt;p&gt;Daily IoT/Blockchain news from &lt;a href=&#34;http://twitter.com/surgethings&#34;&gt;@surgethings&lt;/a&gt;.&lt;/p&gt;
@@ -972,196 +994,6 @@
 
 &lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.bizjournals.com/portland/news/2016/11/21/portlands-corios-brings-big-data-to-executives.html&#39;&gt;Portland&amp;rsquo;s Corios brings big data to executives&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Technology Association of Oregon president Skip Newberry talks big data with &amp;hellip; It&amp;rsquo;s much more exciting to talk about big data than, say, statistics and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Cloud Computing News from @cloudfeednet - Nov 21, 2016</title>
-      <link>//cloudfeed.net/daily/daily-cloud-news-2016-11-21/</link>
-      <pubDate>Mon, 21 Nov 2016 18:05:01 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/daily/daily-cloud-news-2016-11-21/</guid>
-      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://techpp.com/2016/11/21/lettersnap-ocr-app/&#39;&gt;LetterSnap is the Quickest OCR App for Extracting Text from Images&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;LetterSnap is a new iOS application for extracting text from images. It uses Google&amp;rsquo;s Cloud Vision APIs and is indeed, quite quick in processing files. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.theregister.co.uk/2016/11/21/amazon_video_global_expansion/&#39;&gt;Amazon&amp;rsquo;s Netflix-gnasher to hit top gear In December&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;And even though Amazon.com is rather close to a provider of the necessary infrastructure - sibling Amazon Web Services - it is hard to imagine it &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.dqindia.com/suse-and-pi-datacenters-partner-to-offer-cloud-and-sddc-services-in-india/&#39;&gt;SUSE and Pi DATACENTERS Partner to Offer Cloud and SDDC Services in India&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;SUSE OpenStack Cloud will power Pi to offer a robust platform on which independent and isolated Clouds could be provisioned as a part of its various &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.promotionworld.com/news/press/161121-agosto-aims-simplify-search-content-management-solutions-new-comprehensive-digital-signage-guide&#39;&gt;Agosto Aims to Simplify the Search for Content Management Solutions with&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Promotion World (press release) MINNEAPOLIS  Agosto Inc., a tier 1 premier Google Cloud partner and developer of Skykit, a born-in-the-cloud, chrome-based, digital signage &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.theregister.co.uk/2016/11/21/vmware_to_azure_backup/&#39;&gt;Microsoft kindly offers VMware-to-Azure backup&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Microsoft has a new offer for VMware users: agentless backup for vSphere VMs  to an on-premises target or Azure - made possible through a vCenter &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://thestack.com/data-centre/2016/11/21/amazon-plans-five-solar-projects-to-power-cloud-data-centres/&#39;&gt;Amazon plans five solar projects to power cloud data centres&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Amazon believes that these efforts combined will result in at least 50% of Amazon Web Services being powered using only sustainable energy by the &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://investdailynews.com/global-cloud-computing-market-microsoft-azure-oracle-rackspace-salesforce-sap/&#39;&gt;Global Cloud Computing Market- Microsoft Azure, Oracle, Rackspace,&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Invest Daily News: Market Research News by Market.Biz (press release) This report covers Cloud Computing in global market, mainly report includes North America Cloud Computing market, Europe Cloud Computing &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.cloudpro.co.uk/cloud-essentials/public-cloud/6469/google-and-intel-join-forces-to-accelerate-enterprise-cloud&#39;&gt;Google and Intel join forces to accelerate enterprise cloud&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; IoT and security, combining Google Cloud software capabilities with Intel&amp;rsquo;s advanced hardware,&amp;rdquo; Nan Boden, head of global technology partners at &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.cnbc.com/2016/11/21/alibaba-cloud-expands-data-centers-as-its-steps-up-challenge-to-amazon-microsoft.html&#39;&gt;Alibaba Cloud expands data centers as its steps up challenge to Amazon,&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;CNBC Alibaba is much smaller than Amazon Web Services (AWS) which leads the market, but is growing very quickly. In its latest fiscal quarter ended &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.kallanishenergy.com/2016/11/21/dominion-amazon-expanding-solar-alliance-virginia/&#39;&gt;Dominion, Amazon expanding solar alliance in Virginia&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Dominion last week announced a major expansion of its solar alliance with Amazon Web Services, an Amazon.com company. Every Story - Every &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://amigobulls.com/articles/amd-stock-google-deal-may-be-the-first-of-many-for-advanced-micro-devices-inc-amd&#39;&gt;AMD Stock: Google Deal May Be The First Of Many For Advanced Micro Devices,&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Amigobulls AMD recently struck a deal with Google to put its GPUs in the latter&amp;rsquo;s cloud platform. Google&amp;rsquo;s competitors like Amazon&amp;rsquo;s AWS and Microsoft&amp;rsquo;s Azure, &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://amigobulls.com/articles/amd-stock-google-deal-may-be-the-first-of-many-for-advanced-micro-devices-inc-amd&#39;&gt;AMD Stock: Google Deal May Be The First Of Many For Advanced Micro Devices,&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Amigobulls Sunnyvale, California based AMD (NSDQ:AMD) recently clinched a deal to put its GPUs in Google&amp;rsquo;s cloud platforms. Coming after AMD&amp;rsquo;s Alibaba &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.businesswire.com/news/home/20161121005329/en/Alfresco-Announces-Managed-Solution-Simplified-Deployment-Options&#39;&gt;Alfresco Announces Managed Solution and Simplified Deployment Options for&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Business Wire (press release) The announcement builds on Alfresco&amp;rsquo;s existing support of Amazon Web Services (AWS) as an increasing number of Alfresco&amp;rsquo;s enterprise customers &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.pv-tech.org/news/amazon-becomes-one-of-the-largest-corporate-backers-of-solar&#39;&gt;Amazon becomes one of the largest corporate backers of solar&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; goes onto the same electric grid that powers AWS data centres, said Peter DeSantis, vice president of infrastructure for Amazon Web Services. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://myhostnews.com/2016/11/leaseweb-joins-microsoft-cloud-partner-network-as-tier-1-provider/&#39;&gt;LeaseWeb Joins Microsoft Cloud partner network as Tier 1 Provider&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;The Microsoft Cloud Platform based on Azure like services can provide a consistent infrastructure across customer datacenters, Microsoft Azure and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.wired.com/2016/11/google-facebook-microsoft-remaking-around-ai/&#39;&gt;Google, Facebook, and Microsoft Are Remaking Themselves Around AI&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; will lead a team inside Google&amp;rsquo;s cloud computing operation, building online services that any coder or company can use to build their own AI. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://reviewfortune.com/2016/11/21/latest-amazon-com-inc-nasdaqamzn-target-price-suggests-stock-is-worth-920-85share/&#39;&gt;Latest Amazon.com, Inc. (NASDAQ:AMZN) Target Price Suggests Stock Is Worth&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Review Fortune A CEO Amazon Web Services at Amazon.com, Inc. (AMZN) sold shares in a trading activity completed on Tuesday November 15, 2016. Jassy Andrew &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://spendmatters.com/2016/11/21/evolving-landscape-workforce-sourcing-google-amazon-arrive/&#39;&gt;The Evolving Landscape of Workforce Sourcing: Google and Amazon Arrive&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Google Cloud Jobs API and Amazon AWS Educate provide two excellent recent examples of what we call digital services intermediation in the &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.solarnovus.com/amazon-web-services-steps-up-its-commitment-to-solar-energy_N10509.html&#39;&gt;Amazon Web Services Steps up its Commitment to Solar Energy&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Dominion announced a major expansion of its solar alliance with Amazon Web Services (AWS), Inc., an Amazon.com company, to add 180 megawatts &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://resources.cio.com/ccd/assets/124362/detail&#39;&gt;The Essential Guide to Licensing &amp;amp; Consuming Microsoft Azure&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Microsoft Azure is an agile, flexible and open global cloud platform, offering infrastructure, data and app services at a breadth and quality rivaling &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.utilitydive.com/news/amazon-dominion-to-build-5-new-solar-farms-in-virginia/430794/&#39;&gt;Amazon, Dominion to build 5 new solar farms in Virginia&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Amazon Web Services has announced five new solar farms in Virginia with a total capacity of 120 MW. The new projects include four 20 MW solar &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.itwire.com/telecoms-and-nbn/75842-fleetsu-comes-up-trumps-in-motorola-solutions-hackathon-staged-with-telstra,-aws.html&#39;&gt;Fleetsu comes up trumps in Motorola Solutions hackathon staged with&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;iTWire A 48-hour hackathon staged in Brisbane by Motorola Solutions in association with Telstra and Amazon Web Services attracted Australian IT &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.newsmaker.com.au/news/166318/openstack-in-apac-market-2016-analysis-and-opportunities-research-report-forecasts-to-2019&#39;&gt;OpenStack in APAC Market 2016 Analysis and Opportunities Research Report&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;NewsMaker (press release) WiseGuyReports.Com Publish a New Market Research Report On  OpenStack in APAC Market 2016 Analysis and Opportunities Research Report &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.universityherald.com/articles/50846/20161121/war-of-the-ai-microsoft-teams-up-with-elon-musk-against-google-and-amazon.htm&#39;&gt;War Of The AI: Microsoft Teams Up With Elon Musk Against Google And Amazon&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Microsoft Azure, on the other hand, has open-sourced the deep learning tools they used in developing Cortana and Skype Translate; thus giving other &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.lombardiletter.com/amd-wins-google-cloud-computing-server-gpu-deal/3158/&#39;&gt;AMD Stock Wins Big with Google Cloud-Computing Server GPU Deal&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Advanced Micro Devices, Inc. (NASDAQ:AMD) stock continues to rise as Alphabet Inc (NASDAQ:GOOGL) selects AMD chips to be used in Google&amp;rsquo;s &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://investorplace.com/2016/11/microsoft-corporation-msft-stock-due-bigger-gains/&#39;&gt;Microsoft Corporation (MSFT) Stock Is Due for Even BIGGER Gains&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As of the end of last year, Amazon Web Services controlled 31% of the public cloud market, versus MSFT&amp;rsquo;s 9% share. In the meantime, while Amazon &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://investorplace.com/2016/11/microsoft-corporation-msft-stock-due-bigger-gains/&#39;&gt;Microsoft Corporation (MSFT) Stock Is Due for Even BIGGER Gains&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Moreover, Bellini upped her price target on Microsoft stock to $68  &amp;hellip; Azure is the #2 market share vendor in the cloud space, and has grown 100 &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://rcpmag.com/articles/2016/11/21/sccm-update-1610-released.aspx&#39;&gt;Microsoft Advances SCCM Current Branch to 1610&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Other highlights, per Microsoft&amp;rsquo;s announcement, include the ability to use the Microsoft Azure Cloud Management Gateway service with SCCM 1610, &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://theamericangenius.com/tech-news/google-translate/&#39;&gt;Google Translate accuracy instantly improved with neural learning&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Along with the new system, which will eventually be expanded to include all 103 languages, they released Google Cloud Translation API which makes &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://military-technologies.net/2016/11/21/intermountain-medical-center-heart-institute-joins-precision-medicine-data-initiative-to-accelerate-heart-care-research/&#39;&gt;Intermountain Medical Center Heart Institute Joins Precision Medicine Data&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Military Technologies &amp;hellip; of other heart research centers across the nation in a strategic collaboration with Amazon Web Services to launch a global, secure cloud-based data &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://azure.microsoft.com/blog/introducing-the-azure-iot-hub-ip-filter/&#39;&gt;Introducing the Azure IoT Hub IP Filter&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Microsoft is to keep our customers&amp;rsquo; IoT solutions secure. As part of our ongoing &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.dclsearch.com/google-and-intel-join-forces-to-accelerate-enterprise-cloud-telecommunications-news/&#39;&gt;Google and Intel Join Forces to Accelerate Enterprise Cloud&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Intel&amp;rsquo;s advanced hardware, Nan Boden, head of global technology partners at &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.cnbc.com/2016/11/21/why-big-gains-could-be-ahead-for-amazon.html&#39;&gt;Why big gains could be ahead for Amazon&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; Amazon not because of its add-on streaming business but for its hand in two markets: e-commerce and its cloud feature, Amazon Web Services. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.crn.com.au/feature/csc-leads-australian-servicenow-implementations-441995&#39;&gt;The technology and tools that drive CSC&amp;rsquo;s Australian managed services&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; cloud configurations. We are a gold partner for Microsoft Azure and Amazon Web Services, while we also provide our own private Bizcloud services. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://telecomreseller.com/2016/11/21/teleware-achieves-a-microsoft-silver-cloud-platform-competency/&#39;&gt;TeleWare Achieves a Microsoft Silver Cloud Platform Competency&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;This year alone, the company achieved a world first in routing, recording and analysing a call completely through the Microsoft Azure platform, as well &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://pypi.python.org/pypi/django-openstack-auth-kerberos/0.3.0&#39;&gt;django-openstack-auth-kerberos 0.3.0&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;django-openstack-auth to allow kerberos login via S4U2 Proxy. It separates the code and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.geektime.com/2016/11/21/oracle-acquires-dyn-in-ongoing-offensive-against-amazon/&#39;&gt;Oracle acquires Dyn in ongoing offensive against Amazon&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Oracle is not as well established in these services as competitors Amazon Web Services (AWS), Google Cloud, IBM, Workday, and Microsoft Azure are &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.accountingtoday.com/accounting-technology/news/avalara-now-listed-on-amazon-web-services-marketplace-79919-1.html&#39;&gt;Avalara Now Listed on Amazon Web Services Marketplace&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Cloud-based tax compliance automation provider Avalara now lists its solution on the Amazon Web Services Marketplace. AWS is a suite of &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.geektime.com/2016/11/21/oracle-acquires-dyn-in-ongoing-offensive-against-amazon/&#39;&gt;Oracle acquires Dyn in ongoing offensive against Amazon&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Oracle is not as well established in these services as competitors Amazon Web Services (AWS), Google Cloud, IBM, Workday, and Microsoft Azure are &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.geekwire.com/2016/microsoft-azure-offers-bots-service-demand-rises-automated-online-interactions/&#39;&gt;Microsoft Azure offers &amp;lsquo;bots as a service&amp;rsquo; as demand rises for automated&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;GeekWire Microsoft said its Azure bot service is the first public-cloud offering to offer Microsoft&amp;rsquo;s bot framework, which works in conjunction with Azure&amp;rsquo;s &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.enterpriseirregulars.com/111644/google-getting-aggressive-cloud/&#39;&gt;Google Getting More Aggressive In The Cloud&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;google-cloud-platform Deutsche Bank estimates Google Cloud Platform (GCP) has a $750M revenue run-rate estimate today. The combined revenues &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.bizjournals.com/seattle/news/2016/11/21/amazon-solar-wind-data-farms-cloud-computing.html&#39;&gt;Amazon continues to turn to the sun and wind to power giant data centers&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;In Amazon&amp;rsquo;s latest move, Richmond, Virginia, power utility Dominion is expanding its solar alliance with Amazon Web Services, adding 180 megawatts &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.enterpriseirregulars.com/111644/google-getting-aggressive-cloud/&#39;&gt;Google Getting More Aggressive In The Cloud&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;The combined revenues of AWS, Microsoft Azure, and GCP are still less than $15B for a market penetration of just 1%-2% of the Total Available &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.mirantis.com/blog/best-practices-rabbitmq-openstack/&#39;&gt;Best practices for running RabbitMQ in OpenStack&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;best possible setup. Most deployments include RabbitMQ, so let&amp;rsquo;s take a &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.wsj.com/articles/oracle-to-buy-web-service-provider-dyn-1479736667&#39;&gt;Oracle to Buy Web Service Provider Dyn&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;That market was pioneered by Amazon Web Services, which remains the market leader. Oracle co-founder Larry Ellison said at the company&amp;rsquo;s annual &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.cio.com/article/3143653/open-source-tools/microsoft-embraces-open-source-in-the-cloud-and-on-premises.html&#39;&gt;Microsoft embraces open source in the cloud and on-premises&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;ldquo;Microsoft loves Linux,&amp;rdquo; Microsoft CEO Satya Nadella said during the 2014 announcement of new Azure services. &amp;ldquo;Twenty percent of Azure is already &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://blogs.msdn.microsoft.com/azuresecurity/2016/11/21/new-azure-iaas-security-best-practices/&#39;&gt;New: Azure IaaS Security Best Practices&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;collection of Azure security best practices articles. If you haven&amp;rsquo;t been watching &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.eweek.com/video/nvidia-openai-to-collaborate-with-microsofts-ai-efforts.html&#39;&gt;Nvidia, Open AI Joining Microsoft&amp;rsquo;s AI Development Efforts&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Google developed the Google Cloud Jobs API for enterprise career sites, applicant tracking systems and job boards. The API uses machine-learning &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://blogs.vmware.com/vcloud/2016/11/role-vcloud-air-vmwares-cloud-strategy.html&#39;&gt;The Role of vCloud Air in VMware&amp;rsquo;s Cloud Strategy&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;been delivering and continues to deliver through vCloud Air and the &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://fortune.com/2016/11/21/amazon-netflix-espn/&#39;&gt;Amazon Isn&amp;rsquo;t Just Gunning for Netflix, It&amp;rsquo;s Going After ESPN Too&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; and the massive river of cash that spins out of its Amazon Web Services division, where hundreds of Fortune 500 companies store their data. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.thestreet.com/story/13901514/1/amazon-takes-latest-shot-at-esports-with-casual-games-tournament.html&#39;&gt;Amazon Takes Latest Shot at eSports With Casual Games Tournament&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Earlier this year, the Seattle e-commerce company launched Lumberyard, a platform monetized through Amazon Web Services that allows users to &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.datacenterknowledge.com/archives/2016/11/21/hpe-helps-cios-navigate-cloud-managed-services-azure/&#39;&gt;HPE Helps CIOs Navigate the Cloud with Managed Services for Azure&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;HPE Managed Services for Microsoft Azure include management of virtual server, storage and network infrastructure; service provisioning and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://9to5google.com/2016/11/21/google-acquires-qwiklabs/&#39;&gt;In continued enterprise push, Google acquires cloud training startup&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;9 to 5 Google In a blog post, Google Cloud&amp;rsquo;s director of professional services, Jason Martin, explained that the Qwiklabs platform has helped over half a million users &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.eweek.com/cloud/google-acquires-qwiklabs-to-teach-hands-on-cloud-building.html&#39;&gt;Google Acquires Qwiklabs to Teach Hands-On Cloud Building&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; acquisition of Qwiklabs, which currently provides hands-on lab learning environments to infrastructure software vendors for Amazon Web Services. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://telecom.economictimes.indiatimes.com/news/pi-datacenters-suse-partner-to-offer-cloud-sddc-services-in-india/55543114&#39;&gt;Pi Datacenters, SUSE partner to offer cloud, SDDC services in India&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Pi Datacenters is the first 100 percent Software-Defined-Data-Center (SDDC) &amp;amp; Cloud Service Provider in India to have adopted SUSE OpenStack &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://azure.microsoft.com/blog/building-the-trustworthy-cloud-protect-your-users-privacy/&#39;&gt;Building the trustworthy cloud: Protect your users&amp;rsquo; privacy&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;There was no escaping this question last week at the CME&amp;rsquo;s Global Financial &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.zdnet.com/article/google-cloud-acquires-learning-platform-qwiklabs/&#39;&gt;Google Cloud acquires learning platform Qwiklabs&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Google Cloud announced Monday that it has acquired Qwiklabs, a startup that offers lab learning environments for cloud platforms and infrastructure &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://siliconangle.com/blog/2016/11/21/ibm-to-launch-four-new-u-k-data-centers/&#39;&gt;IBM to launch four new UK data centers, ahead of Amazon and others&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Amazon Web Services powered up three new data centers in Ohio just a few weeks ago as part of an effort to court companies from the Great Lakes &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.eweek.com/enterprise-apps/microsoft-releases-first-office-online-server-update.html&#39;&gt;Microsoft Releases First Office Online Server Update&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; major update since Microsoft released the server edition six months ago. &amp;hellip; from their own servers instead of Microsoft&amp;rsquo;s Azure Cloud infrastructure. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.geekwire.com/2016/oracle-bolsters-public-cloud-cred-buying-domain-name-service-firm-dyn/&#39;&gt;Oracle bolsters its public-cloud cred, buying domain-name service firm Dyn&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; cloud company Amazon Web Services offers customers its own DNS service, colorfully named Route 53, as do Microsoft Azure and Google Cloud. &lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
