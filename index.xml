@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 28 Nov 2016 08:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 10:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft update left Azure Linux virtual machines open to hacking</title>
+      <link>//cloudfeed.net/post/microsoft-update-left-azure-linux-virtual-machines-open-to-hacking/</link>
+      <pubDate>Mon, 28 Nov 2016 10:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-update-left-azure-linux-virtual-machines-open-to-hacking/</guid>
+      <description>&lt;p&gt;Microsoft has patched a massive vulnerability that left virtual machines on Azure running Red Hat Enterprise Linux (RHEL) open to attack. Software &amp;hellip;  &lt;a href=&#34;http://www.scmagazineuk.com/microsoft-update-left-azure-linux-virtual-machines-open-to-hacking/article/575219/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.scmagazineuk.com/microsoft-update-left-azure-linux-virtual-machines-open-to-hacking/article/575219/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Stanford Center for Genomics and Personalised Medicine adopts DNAnexus</title>
@@ -186,18 +198,6 @@
 
 &lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.fiscalstandard.com/2016/11/27/broker-outlook-for-the-week-ahead-acorn-energy-inc-acfn/&#39;&gt;Broker Outlook For The Week Ahead Acorn Energy, Inc. (ACFN)&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&amp;hellip; Security Sonar Solutions (DSIT), Smart Grid Distribution Automation (GridSense) and Machine-to-Machine Critical Asset Monitoring &amp;amp; Control (M2M) &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft update servers left all Azure RHEL instances hackable</title>
-      <link>//cloudfeed.net/post/microsoft-update-servers-left-all-azure-rhel-instances-hackable/</link>
-      <pubDate>Sun, 27 Nov 2016 18:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-update-servers-left-all-azure-rhel-instances-hackable/</guid>
-      <description>&lt;p&gt;Microsoft has patched flaws that attackers could exploit to compromise all Azure Red Hat Enterprise Linux (RHEL) instances. Software engineer Ian &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/11/28/microsoft_update_servers_left_all_azure_rhel_instances_hackable/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/11/28/microsoft_update_servers_left_all_azure_rhel_instances_hackable/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

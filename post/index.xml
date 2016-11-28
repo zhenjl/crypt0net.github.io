@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 28 Nov 2016 08:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 10:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft update left Azure Linux virtual machines open to hacking</title>
+      <link>//cloudfeed.net/post/microsoft-update-left-azure-linux-virtual-machines-open-to-hacking/</link>
+      <pubDate>Mon, 28 Nov 2016 10:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-update-left-azure-linux-virtual-machines-open-to-hacking/</guid>
+      <description>&lt;p&gt;Microsoft has patched a massive vulnerability that left virtual machines on Azure running Red Hat Enterprise Linux (RHEL) open to attack. Software &amp;hellip;  &lt;a href=&#34;http://www.scmagazineuk.com/microsoft-update-left-azure-linux-virtual-machines-open-to-hacking/article/575219/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.scmagazineuk.com/microsoft-update-left-azure-linux-virtual-machines-open-to-hacking/article/575219/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Stanford Center for Genomics and Personalised Medicine adopts DNAnexus</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/azure-disk-encryption--how-to-recover-bek-file-from-azure-key-vault/</guid>
       <description>&lt;p&gt;Extension and how it integrates with Key Vault and the Azure Platform to create &amp;hellip;  &lt;a href=&#34;https://blogs.msdn.microsoft.com/mast/2016/11/27/azure-disk-encryption-how-to-recover-bek-file-from-azure-key-vault/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.msdn.microsoft.com/mast/2016/11/27/azure-disk-encryption-how-to-recover-bek-file-from-azure-key-vault/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ansible 2.2 Delivers New Automation Capabilities for Containers, Networks</title>
-      <link>//cloudfeed.net/post/ansible-22-delivers-new-automation-capabilities-for-containers-networks/</link>
-      <pubDate>Sun, 27 Nov 2016 15:00:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/ansible-22-delivers-new-automation-capabilities-for-containers-networks/</guid>
-      <description>&lt;p&gt;Satellite PR News (press release) New functionality for cloud providers has been added, including: Amazon Web Services (AWS), Google Cloud Platform and OpenStack providers.  &lt;a href=&#34;http://satprnews.com/2016/11/27/ansible-2-2-delivers-new-automation-capabilities-for-containers-networks-and-cloud-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://satprnews.com/2016/11/27/ansible-2-2-delivers-new-automation-capabilities-for-containers-networks-and-cloud-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
