@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 29 Nov 2016 15:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2016 15:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Earth Timelapse update shows Earth from 1984-2016</title>
+      <link>//cloudfeed.net/post/google-earth-timelapse-update-shows-earth-from-19842016/</link>
+      <pubDate>Tue, 29 Nov 2016 15:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/google-earth-timelapse-update-shows-earth-from-19842016/</guid>
+      <description>&lt;p&gt;Thanks to the plethora of data and Google&amp;rsquo;s cloud-computing algorithms, you get all of this without any clouds blocking the view. The images are up on &amp;hellip;  &lt;a href=&#34;http://arstechnica.com/gadgets/2016/11/browse-three-decades-of-satellite-imagery-with-google-earth-timelapse/&#34; onclick=&#34;trackOutboundLink(&#39;http://arstechnica.com/gadgets/2016/11/browse-three-decades-of-satellite-imagery-with-google-earth-timelapse/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HPE Discover Spotlights &#39;The Machine,&#39; Synergy &amp; Azure</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-announces-paja-foundation-for-finnish-iot-startups/</guid>
       <description>&lt;p&gt;&amp;hellip; may do whatever they want with what they create, but they would indeed get access to Microsoft&amp;rsquo;s Azure platform to help build out their prototypes.  &lt;a href=&#34;http://www.geektime.com/2016/11/29/microsoft-announces-paja-foundation-for-finnish-startups-to-build-iot-prototypes/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geektime.com/2016/11/29/microsoft-announces-paja-foundation-for-finnish-startups-to-build-iot-prototypes/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>4 OpenStack guides to help you build your open source cloud</title>
-      <link>//cloudfeed.net/post/4-openstack-guides-to-help-you-build-your-open-source-cloud/</link>
-      <pubDate>Tue, 29 Nov 2016 10:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/4-openstack-guides-to-help-you-build-your-open-source-cloud/</guid>
-      <description>&lt;p&gt;In a fast-moving project like OpenStack, it seems like there&amp;rsquo;s more to learn with every day that passed. There are plenty of tools out there to help you &amp;hellip;  &lt;a href=&#34;https://opensource.com/article/16/11/openstack-tutorials-roundup&#34; onclick=&#34;trackOutboundLink(&#39;https://opensource.com/article/16/11/openstack-tutorials-roundup&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
