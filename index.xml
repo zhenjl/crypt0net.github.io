@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 29 Nov 2016 12:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2016 12:50:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>An Overview of Various Docker Registries</title>
+      <link>//cloudfeed.net/post/an-overview-of-various-docker-registries/</link>
+      <pubDate>Tue, 29 Nov 2016 12:50:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/an-overview-of-various-docker-registries/</guid>
+      <description>&lt;p&gt;AWS has the EC2 Container Registry (ECR) and Google Cloud Platform has its Google Container Registry. Amazon&amp;rsquo;s ECR integrates with its Elastic &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2016/11/overview-docker-registries&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2016/11/overview-docker-registries&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Justifying The Hybrid Cloud: It&#39;s All About The Application</title>
+      <link>//cloudfeed.net/post/justifying-the-hybrid-cloud-its-all-about-the-application/</link>
+      <pubDate>Tue, 29 Nov 2016 12:50:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/justifying-the-hybrid-cloud-its-all-about-the-application/</guid>
+      <description>&lt;p&gt;&amp;hellip; and collaboration applications while at the same time improving burst capabilities onto public clouds like Amazon S3 and Google Cloud Storage.  &lt;a href=&#34;http://www.itbusinessedge.com/blogs/infrastructure/justifying-the-hybrid-cloud-its-all-about-the-application.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itbusinessedge.com/blogs/infrastructure/justifying-the-hybrid-cloud-its-all-about-the-application.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>10 Cloud Computing Stats that Will Blow You Away</title>
@@ -163,30 +187,6 @@
       <description>&lt;p&gt;&amp;hellip; and e-commerce provisions under negotiation, arguing they don&amp;rsquo;t protect consumer privacy and leave people more vulnerable to data breaches.  &lt;a href=&#34;http://www.bna.com/tech-pins-trade-n73014447810/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bna.com/tech-pins-trade-n73014447810/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rapid7 Announces InsightOps, Pioneering Combination of Endpoint Visibility</title>
-      <link>//cloudfeed.net/post/rapid7-announces-insightops-pioneering-combination-of-endpoint-visibility/</link>
-      <pubDate>Tue, 29 Nov 2016 11:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/rapid7-announces-insightops-pioneering-combination-of-endpoint-visibility/</guid>
-      <description>&lt;p&gt;Yahoo Finance InsightOps represents the evolution of Logentries  a leading log management and analytics solution, used for infrastructure and application &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/rapid7-announces-insightops-pioneering-combination-140500505.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/rapid7-announces-insightops-pioneering-combination-140500505.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>KeyW Selected to Participate in Amazon Web Services&#39; (AWS)</title>
-      <link>//cloudfeed.net/post/keyw-selected-to-participate-in-amazon-web-services-aws/</link>
-      <pubDate>Tue, 29 Nov 2016 11:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/keyw-selected-to-participate-in-amazon-web-services-aws/</guid>
-      <description>&lt;p&gt;Corporation (NASDQ:KEYW) today announced that it was selected to &amp;hellip;  &lt;a href=&#34;http://www.euroinvestor.com/news/2016/11/29/keyw-selected-to-participate-in-amazon-web-services-aws-public-sector-partner-program/13489775&#34; onclick=&#34;trackOutboundLink(&#39;http://www.euroinvestor.com/news/2016/11/29/keyw-selected-to-participate-in-amazon-web-services-aws-public-sector-partner-program/13489775&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
