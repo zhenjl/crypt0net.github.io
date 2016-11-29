@@ -7,8 +7,120 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 28 Nov 2016 18:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 18:05:01 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Cloud Computing News from @cloudfeednet - Nov 28, 2016</title>
+      <link>//cloudfeed.net/daily/daily-cloud-news-2016-11-28/</link>
+      <pubDate>Mon, 28 Nov 2016 18:05:01 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/daily/daily-cloud-news-2016-11-28/</guid>
+      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.pcquest.com/managed-services-for-microsoft-azure-introduces-hp-enterprises/&#39;&gt;Managed Services for Microsoft Azure Introduces HP Enterprises&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Hewlett Packard Enterprise announced a comprehensive set of Managed services for Microsoft Azure to enable design, deployment, delivery and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.itnews.com.au/news/config-fumble-left-azure-red-hat-enterprise-linux-wide-open-442839&#39;&gt;Config fumble left Azure Red Hat Enterprise Linux wide open&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Duffy also discovered that Microsoft&amp;rsquo;s Azure Linux Agent, a mandatory piece of software used for provisioning Linux and FreeBSD virtual machines, &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://which-50.com/alibaba-cloud-isnt-compete-amazon-microsoft-yet/&#39;&gt;Alibaba Cloud isn&amp;rsquo;t here to compete with Amazon, Microsoft yet&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Alibaba Cloud isn&amp;rsquo;t here to compete with Amazon, Microsoft yet &amp;hellip; giant says it isn&amp;rsquo;t here to take on Amazon Web Services or Microsoft Azure. Well &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.prnewswire.co.uk/news-releases/bc-platforms-to-provide-genomics-data-management-solution-to-codigo46-powered-by-the-microsoft-azure-cloud-603315376.html&#39;&gt;BC Platforms to Provide Genomics Data Management Solution to Codigo46&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;PR Newswire UK (press release) &amp;hellip; collaboration with Microsoft, we have been optimizing our product offerings for Azure utilizing both advancements in software and cloud hardware. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.pcr-online.biz/news/read/microsoft-update-servers-leave-azure-rhel-instances-hackable/038906&#39;&gt;Microsoft update servers leave Azure RHEL instances hackable&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Microsoft has patched a huge flaw that left Azure Red Hat Enterprise Linux (RHEL) compromised and sucseptible to attack. Software engineer Ian &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.zdnet.com/article/cloud-compute-pricing-bakeoff-google-vs-aws-vs-microsoft-azure/&#39;&gt;Cloud compute pricing bakeoff: Google vs. AWS vs. Microsoft Azure&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Generally speaking AWS won&amp;rsquo;t be your cheapest option for compute. AWS typically lands in the middle between Microsoft Azure and Google Cloud. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://siliconangle.com/blog/2016/11/27/services-firm-presidio-files-ipo-hopes-raise-400m/&#39;&gt;IT services firm Presidio files for IPO, hopes to raise $400M&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;In addition, the company warned in its filing that public cloud service providers such as Amazon Web Services, Microsoft Azure and Google Cloud are &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.theinquirer.net/inquirer/news/2478534/microsoft-azure-glitch-allowed-attackers-to-gain-admin-rights-over-hosted-red-hat-linux-instances&#39;&gt;Azure glitch allowed attackers to gain admin rights over hosted Red Hat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Inquirer A VULNERABILITY in Microsoft&amp;rsquo;s Azure cloud platform could have been exploited by an attacker to gain admin rights to instances of Red Hat &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.v3.co.uk/v3-uk/news/2478544/microsoft-azure-bug-put-red-hat-instances-at-risk&#39;&gt;Microsoft Azure bug put Red Hat instances at risk&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;A flaw in Microsoft&amp;rsquo;s Azure cloud platform could have been exploited by an attacker to gain admin rights to instances of Red Hat Enterprise Linux &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.scientific-computing.com/news/stanford-center-genomics-and-personalised-medicine-adopts-dnanexus-platform&#39;&gt;Stanford Center for Genomics and Personalised Medicine adopts DNAnexus&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Scientific Computing World The Stanford Center for Genomics and Personalised Medicine (SCGPM) has adopted the DNAnexus Platform on the Microsoft Azure cloud in order to &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://marketrealist.com/2016/11/key-focus-areas-hewlett-packard-enterprise/&#39;&gt;What Are the Key Focus Areas for Hewlett-Packard Enterprise?&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;In 2015, HPE and Microsoft (MSFT) entered into a deal under which HPE would sell Microsoft Azure as its preferred cloud alternative. HPE plans to &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.scmagazineuk.com/microsoft-update-left-azure-linux-virtual-machines-open-to-hacking/article/575219/&#39;&gt;Microsoft update left Azure Linux virtual machines open to hacking&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Microsoft has patched a massive vulnerability that left virtual machines on Azure running Red Hat Enterprise Linux (RHEL) open to attack. Software &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.petri.com/azure-backup-protections-deliberate-attacks&#39;&gt;Azure Backup Protects Against Deliberate Attacks&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Microsoft&amp;rsquo;s cloud backup solution, Azure Backup, has added new protections to defend your data against deliberate attacks. This post will explain what &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.dabcc.com/microsoft-announces-auto-shutdown-for-vms-using-azure-resource-manager/&#39;&gt;Microsoft Announces Auto-Shutdown for VMs using Azure Resource Manager&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This was a feature originally available only to VMs in Azure DevTest Labs: your self-service sandbox environment in Azure to quickly create Dev/Test &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://blogs.msdn.microsoft.com/cie/2016/11/28/azure-management-certificates-and-publishing-setting-file-with-csp-subscriptions/&#39;&gt;Azure Management Certificates and Publishing Setting file with CSP&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;In this post I will talk about a limitation of Azure CSP Subscriptions that makes users unable to work with Azure Management Certificates and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://m.crn.com/news/cloud/300082931/rightscale-compares-amazon-aws-microsoft-azure-and-google-cloud-pricing.htm&#39;&gt;RightScale Compares Amazon AWS, Microsoft Azure And Google Cloud Pricing&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;With the increasing number and sophistication of cloud instance types and pricing options, it can be painfully difficult to compare costs from the three &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.informationweek.com/cloud/infrastructure-as-a-service/rightscale-compares-pricing-on-aws-google-and-microsoft--/d/d-id/1327568?_mc=RSS_IWK_EDT&#39;&gt;RightScale Compares Pricing on AWS, Google and Microsoft&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;RightScale serves as a front-end management platform for Amazon Web Services, Google Cloud Platform and Microsoft Azure. Many of its customers &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://rcpmag.com/articles/2016/11/28/microsoft-shutters-azure-datamarket.aspx&#39;&gt;After 6 Years, Microsoft Shutters Azure DataMarket&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Azure DataMarket, Microsoft&amp;rsquo;s app marketplace where developers could access data services to power apps and analytic projects, will be shut down &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://mspoweruser.com/microsoft-announces-azure-devtest-labs-support-creating-environment-arm-templates/&#39;&gt;Microsoft announces Azure DevTest Labs support for creating environment&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;MSPoweruser Azure DevTest Labs is an Azure service that lets you quickly create environments in Azure while minimizing waste and controlling costs. Microsoft &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily IoT/Blockchain News from @surgethings - Nov 28, 2016</title>
+      <link>//cloudfeed.net/daily/daily-iot-news-2016-11-28/</link>
+      <pubDate>Mon, 28 Nov 2016 18:05:01 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/daily/daily-iot-news-2016-11-28/</guid>
+      <description>&lt;p&gt;Daily IoT/Blockchain news from &lt;a href=&#34;http://twitter.com/surgethings&#34;&gt;@surgethings&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://iotbusinessnews.com/2016/11/28/30201-safran-identity-security-trusts-comprion-network-bridge-remote-sim-provisioning-testing/&#39;&gt;Safran Identity &amp;amp; Security Trusts in Comprion Network Bridge for Remote SIM&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;IoT Business News (press release) (blog) Comprion has announced today that they supply Safran Identity &amp;amp; Security with their &amp;hellip; As a global leader in security and identity solutions, Safran Identity &amp;hellip; This testing task is very complex as it involves a variety of components, like &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily Mobile Computing News from @topmobilenews - Nov 28, 2016</title>
+      <link>//cloudfeed.net/daily/daily-mobile-news-2016-11-28/</link>
+      <pubDate>Mon, 28 Nov 2016 18:05:01 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/daily/daily-mobile-news-2016-11-28/</guid>
+      <description>&lt;p&gt;Daily Mobile Computing news from &lt;a href=&#34;http://twitter.com/topmobilenews&#34;&gt;@topmobilenews&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://dailyquint.com/2016-11-28-digital-turbine-inc-apps-rating-lowered-to-sell-at-zacks-investment-research/&#39;&gt;The Digital Turbine Inc. (APPS) Rating Lowered to Sell at Zacks Investment&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;DailyQuint The company&amp;rsquo;s product include DT Ignite&amp;trade;, a mobile device management solution with targeted app distribution capabilities, DT IQ&amp;trade;, &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily Security News from @trustpath - Nov 28, 2016</title>
+      <link>//cloudfeed.net/daily/daily-trust-news-2016-11-28/</link>
+      <pubDate>Mon, 28 Nov 2016 18:05:01 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/daily/daily-trust-news-2016-11-28/</guid>
+      <description>&lt;p&gt;Daily Security news from &lt;a href=&#34;http://twitter.com/trustpath&#34;&gt;@trustpath&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.trustmarque.com/discover-a-completely-new-approach-to-endpoint-protection/&#39;&gt;Discover a completely new approach to endpoint protection&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;new approach to endpoint protection with Sophos Intercept X - Watch &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.businesswire.com/news/home/20161128005111/en/ProtectWise-Partners-Gigamon-Deliver-Superior-Visibility-Threat&#39;&gt;ProtectWise Partners with Gigamon to Deliver Superior Visibility, Threat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Business Wire (press release) &amp;hellip; for AWS to quickly and easily discover evidence of attacks in the cloud while retaining essentially unlimited forensics for threat hunting in the future.. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://marketrealist.com/2016/11/symantecs-dlp-business-benefiting-blue-coats-buyout/&#39;&gt;What Symantec&amp;rsquo;s Data Loss Prevention Could Gain from Blue Coat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;We also learned that Symantec was recognized as a leader in endpoint protection. Additionally, it launched SEP (Symantec Endpoint Protection) 14 &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS vs. Azure vs. Google Cloud: Prices depend on discounts and customer</title>
@@ -139,54 +251,6 @@
       <description>&lt;p&gt;IoT Business News (press release) (blog) Comprion has announced today that they supply Safran Identity &amp;amp; Security with their &amp;hellip; As a global leader in security and identity solutions, Safran Identity &amp;hellip; This testing task is very complex as it involves a variety of components, like &amp;hellip;  &lt;a href=&#34;http://iotbusinessnews.com/2016/11/28/30201-safran-identity-security-trusts-comprion-network-bridge-remote-sim-provisioning-testing/&#34; onclick=&#34;trackOutboundLink(&#39;http://iotbusinessnews.com/2016/11/28/30201-safran-identity-security-trusts-comprion-network-bridge-remote-sim-provisioning-testing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure Backup Protects Against Deliberate Attacks</title>
-      <link>//cloudfeed.net/post/azure-backup-protects-against-deliberate-attacks/</link>
-      <pubDate>Mon, 28 Nov 2016 12:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/azure-backup-protects-against-deliberate-attacks/</guid>
-      <description>&lt;p&gt;Microsoft&amp;rsquo;s cloud backup solution, Azure Backup, has added new protections to defend your data against deliberate attacks. This post will explain what &amp;hellip;  &lt;a href=&#34;https://www.petri.com/azure-backup-protections-deliberate-attacks&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/azure-backup-protections-deliberate-attacks&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Digital Turbine Inc. (APPS) Rating Lowered to Sell at Zacks Investment</title>
-      <link>//cloudfeed.net/post/the-digital-turbine-inc-apps-rating-lowered-to-sell-at-zacks-investment/</link>
-      <pubDate>Mon, 28 Nov 2016 12:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/the-digital-turbine-inc-apps-rating-lowered-to-sell-at-zacks-investment/</guid>
-      <description>&lt;p&gt;DailyQuint The company&amp;rsquo;s product include DT Ignite&amp;trade;, a mobile device management solution with targeted app distribution capabilities, DT IQ&amp;trade;, &amp;hellip;  &lt;a href=&#34;http://dailyquint.com/2016-11-28-digital-turbine-inc-apps-rating-lowered-to-sell-at-zacks-investment-research/&#34; onclick=&#34;trackOutboundLink(&#39;http://dailyquint.com/2016-11-28-digital-turbine-inc-apps-rating-lowered-to-sell-at-zacks-investment-research/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/topmobilenews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topmobilenews&#39;); return false;&#34;&gt;@topmobilenews&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ProtectWise Partners with Gigamon to Deliver Superior Visibility, Threat</title>
-      <link>//cloudfeed.net/post/protectwise-partners-with-gigamon-to-deliver-superior-visibility-threat/</link>
-      <pubDate>Mon, 28 Nov 2016 11:20:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/protectwise-partners-with-gigamon-to-deliver-superior-visibility-threat/</guid>
-      <description>&lt;p&gt;Business Wire (press release) &amp;hellip; for AWS to quickly and easily discover evidence of attacks in the cloud while retaining essentially unlimited forensics for threat hunting in the future..  &lt;a href=&#34;http://www.businesswire.com/news/home/20161128005111/en/ProtectWise-Partners-Gigamon-Deliver-Superior-Visibility-Threat&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20161128005111/en/ProtectWise-Partners-Gigamon-Deliver-Superior-Visibility-Threat&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft update left Azure Linux virtual machines open to hacking</title>
-      <link>//cloudfeed.net/post/microsoft-update-left-azure-linux-virtual-machines-open-to-hacking/</link>
-      <pubDate>Mon, 28 Nov 2016 10:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-update-left-azure-linux-virtual-machines-open-to-hacking/</guid>
-      <description>&lt;p&gt;Microsoft has patched a massive vulnerability that left virtual machines on Azure running Red Hat Enterprise Linux (RHEL) open to attack. Software &amp;hellip;  &lt;a href=&#34;http://www.scmagazineuk.com/microsoft-update-left-azure-linux-virtual-machines-open-to-hacking/article/575219/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.scmagazineuk.com/microsoft-update-left-azure-linux-virtual-machines-open-to-hacking/article/575219/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

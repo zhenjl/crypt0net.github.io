@@ -7,8 +7,120 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 27 Nov 2016 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 18:05:01 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/daily/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Cloud Computing News from @cloudfeednet - Nov 28, 2016</title>
+      <link>//cloudfeed.net/daily/daily-cloud-news-2016-11-28/</link>
+      <pubDate>Mon, 28 Nov 2016 18:05:01 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/daily/daily-cloud-news-2016-11-28/</guid>
+      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.pcquest.com/managed-services-for-microsoft-azure-introduces-hp-enterprises/&#39;&gt;Managed Services for Microsoft Azure Introduces HP Enterprises&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Hewlett Packard Enterprise announced a comprehensive set of Managed services for Microsoft Azure to enable design, deployment, delivery and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.itnews.com.au/news/config-fumble-left-azure-red-hat-enterprise-linux-wide-open-442839&#39;&gt;Config fumble left Azure Red Hat Enterprise Linux wide open&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Duffy also discovered that Microsoft&amp;rsquo;s Azure Linux Agent, a mandatory piece of software used for provisioning Linux and FreeBSD virtual machines, &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://which-50.com/alibaba-cloud-isnt-compete-amazon-microsoft-yet/&#39;&gt;Alibaba Cloud isn&amp;rsquo;t here to compete with Amazon, Microsoft yet&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Alibaba Cloud isn&amp;rsquo;t here to compete with Amazon, Microsoft yet &amp;hellip; giant says it isn&amp;rsquo;t here to take on Amazon Web Services or Microsoft Azure. Well &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.prnewswire.co.uk/news-releases/bc-platforms-to-provide-genomics-data-management-solution-to-codigo46-powered-by-the-microsoft-azure-cloud-603315376.html&#39;&gt;BC Platforms to Provide Genomics Data Management Solution to Codigo46&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;PR Newswire UK (press release) &amp;hellip; collaboration with Microsoft, we have been optimizing our product offerings for Azure utilizing both advancements in software and cloud hardware. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.pcr-online.biz/news/read/microsoft-update-servers-leave-azure-rhel-instances-hackable/038906&#39;&gt;Microsoft update servers leave Azure RHEL instances hackable&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Microsoft has patched a huge flaw that left Azure Red Hat Enterprise Linux (RHEL) compromised and sucseptible to attack. Software engineer Ian &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.zdnet.com/article/cloud-compute-pricing-bakeoff-google-vs-aws-vs-microsoft-azure/&#39;&gt;Cloud compute pricing bakeoff: Google vs. AWS vs. Microsoft Azure&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Generally speaking AWS won&amp;rsquo;t be your cheapest option for compute. AWS typically lands in the middle between Microsoft Azure and Google Cloud. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://siliconangle.com/blog/2016/11/27/services-firm-presidio-files-ipo-hopes-raise-400m/&#39;&gt;IT services firm Presidio files for IPO, hopes to raise $400M&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;In addition, the company warned in its filing that public cloud service providers such as Amazon Web Services, Microsoft Azure and Google Cloud are &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.theinquirer.net/inquirer/news/2478534/microsoft-azure-glitch-allowed-attackers-to-gain-admin-rights-over-hosted-red-hat-linux-instances&#39;&gt;Azure glitch allowed attackers to gain admin rights over hosted Red Hat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Inquirer A VULNERABILITY in Microsoft&amp;rsquo;s Azure cloud platform could have been exploited by an attacker to gain admin rights to instances of Red Hat &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.v3.co.uk/v3-uk/news/2478544/microsoft-azure-bug-put-red-hat-instances-at-risk&#39;&gt;Microsoft Azure bug put Red Hat instances at risk&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;A flaw in Microsoft&amp;rsquo;s Azure cloud platform could have been exploited by an attacker to gain admin rights to instances of Red Hat Enterprise Linux &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.scientific-computing.com/news/stanford-center-genomics-and-personalised-medicine-adopts-dnanexus-platform&#39;&gt;Stanford Center for Genomics and Personalised Medicine adopts DNAnexus&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Scientific Computing World The Stanford Center for Genomics and Personalised Medicine (SCGPM) has adopted the DNAnexus Platform on the Microsoft Azure cloud in order to &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://marketrealist.com/2016/11/key-focus-areas-hewlett-packard-enterprise/&#39;&gt;What Are the Key Focus Areas for Hewlett-Packard Enterprise?&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;In 2015, HPE and Microsoft (MSFT) entered into a deal under which HPE would sell Microsoft Azure as its preferred cloud alternative. HPE plans to &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.scmagazineuk.com/microsoft-update-left-azure-linux-virtual-machines-open-to-hacking/article/575219/&#39;&gt;Microsoft update left Azure Linux virtual machines open to hacking&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Microsoft has patched a massive vulnerability that left virtual machines on Azure running Red Hat Enterprise Linux (RHEL) open to attack. Software &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.petri.com/azure-backup-protections-deliberate-attacks&#39;&gt;Azure Backup Protects Against Deliberate Attacks&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Microsoft&amp;rsquo;s cloud backup solution, Azure Backup, has added new protections to defend your data against deliberate attacks. This post will explain what &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.dabcc.com/microsoft-announces-auto-shutdown-for-vms-using-azure-resource-manager/&#39;&gt;Microsoft Announces Auto-Shutdown for VMs using Azure Resource Manager&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This was a feature originally available only to VMs in Azure DevTest Labs: your self-service sandbox environment in Azure to quickly create Dev/Test &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://blogs.msdn.microsoft.com/cie/2016/11/28/azure-management-certificates-and-publishing-setting-file-with-csp-subscriptions/&#39;&gt;Azure Management Certificates and Publishing Setting file with CSP&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;In this post I will talk about a limitation of Azure CSP Subscriptions that makes users unable to work with Azure Management Certificates and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://m.crn.com/news/cloud/300082931/rightscale-compares-amazon-aws-microsoft-azure-and-google-cloud-pricing.htm&#39;&gt;RightScale Compares Amazon AWS, Microsoft Azure And Google Cloud Pricing&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;With the increasing number and sophistication of cloud instance types and pricing options, it can be painfully difficult to compare costs from the three &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.informationweek.com/cloud/infrastructure-as-a-service/rightscale-compares-pricing-on-aws-google-and-microsoft--/d/d-id/1327568?_mc=RSS_IWK_EDT&#39;&gt;RightScale Compares Pricing on AWS, Google and Microsoft&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;RightScale serves as a front-end management platform for Amazon Web Services, Google Cloud Platform and Microsoft Azure. Many of its customers &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://rcpmag.com/articles/2016/11/28/microsoft-shutters-azure-datamarket.aspx&#39;&gt;After 6 Years, Microsoft Shutters Azure DataMarket&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Azure DataMarket, Microsoft&amp;rsquo;s app marketplace where developers could access data services to power apps and analytic projects, will be shut down &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://mspoweruser.com/microsoft-announces-azure-devtest-labs-support-creating-environment-arm-templates/&#39;&gt;Microsoft announces Azure DevTest Labs support for creating environment&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;MSPoweruser Azure DevTest Labs is an Azure service that lets you quickly create environments in Azure while minimizing waste and controlling costs. Microsoft &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily IoT/Blockchain News from @surgethings - Nov 28, 2016</title>
+      <link>//cloudfeed.net/daily/daily-iot-news-2016-11-28/</link>
+      <pubDate>Mon, 28 Nov 2016 18:05:01 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/daily/daily-iot-news-2016-11-28/</guid>
+      <description>&lt;p&gt;Daily IoT/Blockchain news from &lt;a href=&#34;http://twitter.com/surgethings&#34;&gt;@surgethings&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://iotbusinessnews.com/2016/11/28/30201-safran-identity-security-trusts-comprion-network-bridge-remote-sim-provisioning-testing/&#39;&gt;Safran Identity &amp;amp; Security Trusts in Comprion Network Bridge for Remote SIM&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;IoT Business News (press release) (blog) Comprion has announced today that they supply Safran Identity &amp;amp; Security with their &amp;hellip; As a global leader in security and identity solutions, Safran Identity &amp;hellip; This testing task is very complex as it involves a variety of components, like &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily Mobile Computing News from @topmobilenews - Nov 28, 2016</title>
+      <link>//cloudfeed.net/daily/daily-mobile-news-2016-11-28/</link>
+      <pubDate>Mon, 28 Nov 2016 18:05:01 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/daily/daily-mobile-news-2016-11-28/</guid>
+      <description>&lt;p&gt;Daily Mobile Computing news from &lt;a href=&#34;http://twitter.com/topmobilenews&#34;&gt;@topmobilenews&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://dailyquint.com/2016-11-28-digital-turbine-inc-apps-rating-lowered-to-sell-at-zacks-investment-research/&#39;&gt;The Digital Turbine Inc. (APPS) Rating Lowered to Sell at Zacks Investment&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;DailyQuint The company&amp;rsquo;s product include DT Ignite&amp;trade;, a mobile device management solution with targeted app distribution capabilities, DT IQ&amp;trade;, &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily Security News from @trustpath - Nov 28, 2016</title>
+      <link>//cloudfeed.net/daily/daily-trust-news-2016-11-28/</link>
+      <pubDate>Mon, 28 Nov 2016 18:05:01 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/daily/daily-trust-news-2016-11-28/</guid>
+      <description>&lt;p&gt;Daily Security news from &lt;a href=&#34;http://twitter.com/trustpath&#34;&gt;@trustpath&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.trustmarque.com/discover-a-completely-new-approach-to-endpoint-protection/&#39;&gt;Discover a completely new approach to endpoint protection&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;new approach to endpoint protection with Sophos Intercept X - Watch &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.businesswire.com/news/home/20161128005111/en/ProtectWise-Partners-Gigamon-Deliver-Superior-Visibility-Threat&#39;&gt;ProtectWise Partners with Gigamon to Deliver Superior Visibility, Threat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Business Wire (press release) &amp;hellip; for AWS to quickly and easily discover evidence of attacks in the cloud while retaining essentially unlimited forensics for threat hunting in the future.. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://marketrealist.com/2016/11/symantecs-dlp-business-benefiting-blue-coats-buyout/&#39;&gt;What Symantec&amp;rsquo;s Data Loss Prevention Could Gain from Blue Coat&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;We also learned that Symantec was recognized as a leader in endpoint protection. Additionally, it launched SEP (Symantec Endpoint Protection) 14 &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Nov 27, 2016</title>
@@ -654,346 +766,6 @@
 
 &lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.siliconrepublic.com/machines/mindsphere-siemens-microsoft-azure&#39;&gt;Siemens&amp;rsquo; MindSphere IoT ecosystem is coming to Azure cloud&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Siemens&amp;rsquo; IoT ecosystem MindSphere is to arrive on Microsoft&amp;rsquo;s Azure cloud &amp;hellip; Integrating Siemens MindSphere and Microsoft Azure will fuel local &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily IoT/Blockchain News from @surgethings - Nov 22, 2016</title>
-      <link>//cloudfeed.net/daily/daily-iot-news-2016-11-22/</link>
-      <pubDate>Tue, 22 Nov 2016 18:05:01 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/daily/daily-iot-news-2016-11-22/</guid>
-      <description>&lt;p&gt;Daily IoT/Blockchain news from &lt;a href=&#34;http://twitter.com/surgethings&#34;&gt;@surgethings&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.cio.com/article/3142422/innovation/teleradiology-platforms-the-business-case-for-blockchain.html&#39;&gt;Teleradiology platforms: the business case for blockchain&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Teleradiology is ripe for blockchain. Healthcare image diagnosis and treatment is based on trust; It could be based on truth. Let&amp;rsquo;s explore how. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.executivegov.com/2016/11/air-force-chief-gen-david-goldfein-eyes-common-operating-system-for-data-collection-analysis/&#39;&gt;Air Force Chief Gen. David Goldfein Eyes Common Operating System for Data&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;ExecutiveGov We got to get into the next stage, which is machine-to-machine, human/machine teaming, and artificial intelligence  to turn all that data into &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.thedrum.com/news/2016/11/22/ibm-watson-launches-global-consulting-unit-internet-things&#39;&gt;IBM Watson launches global consulting unit for internet of things&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;IBM has launched its first global consulting practice for the internet of things (IoT), a part of its major artificial intelligence investment Watson. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.enterprisenetworkingplanet.com/datacenter/datacenter-blog/how-iot-will-change-the-enterprise.html&#39;&gt;How the IoT Will Change the Enterprise&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; says a good place to start is recognizing the fact that much of the IoT traffic load will consist of machine-to-machine (M2M) communications. This will &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://gadgets.ndtv.com/internet/news/oracle-to-buy-internet-infrastructure-provider-dyn-for-undisclosed-amount-1628501&#39;&gt;Oracle to Buy Internet Infrastructure Provider Dyn for Undisclosed Amount&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Using a powerful malicious program known as Mirai, the attacker harnessed some 150,000 &amp;ldquo;Internet of Things&amp;rdquo; (IoT) devices such as cameras, &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://money.livemint.com/news/equity/movers-today/hcl-infosystems-zooms-on-inking-mou-with-omantel-507711.aspx&#39;&gt;HCL Infosystems zooms on inking MoU with Omantel&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; of Things (IOT), Machine to Machine (M2M) services, enhance automation, accelerate efforts to optimise network capabilities and roll-out large-scale &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://nypost.com/2016/11/22/goldman-sachs-drops-out-of-controversial-r3-blockchain/&#39;&gt;Goldman Sachs drops out of controversial R3 blockchain&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Goldman Sachs has dropped its membership in an influential Wall Street blockchain consortium after losing a power struggle to influence the direction &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.theage.com.au/business/nbn-issues-multimillion-fttc-contract-to-netcomm-20161122-gsv0ax.html&#39;&gt;NBN issues multimillion FTTC contract to NetComm&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Its machine-to-machine revenue was up 74 per cent to $58.7 million, thanks to &amp;ldquo;substantial growth in the Ericsson/nbn fixed wireless project as its &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.irishtimes.com/business/technology/vodafone-rollout-set-to-aid-connections-to-internet-1.2877002&#39;&gt;Vodafone rollout set to aid connections to internet&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;The network is integral to the move towards the so-called Internet of Things (IoT), where devices such as smoke alarms, gas metres and even car park &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.satnews.com/story.php?number=400711540&#39;&gt;A Ranking Reward For ORBCOMM By Deloitte&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;ORBCOMM Inc. (Nasdaq: ORBC), a global provider of Machine-to-Machine (M2M) and Internet of Things (IoT) solutions, has announced that the &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.52-insights.com/inspirations/why-the-internet-of-things-remains-a-sleeping-zombie-technology/&#39;&gt;Why The Internet of Things Remains A Sleeping Zombie&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;major websites such as Twitter, Facebook, Netflix and news sites &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://allafrica.com/stories/201611220232.html&#39;&gt;East Africa: #WTIS2016 - Diamonds Will Live Forever but Data Will Remain&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;AllAfrica.com Embracing the Internet of Things and Machine to Machine Communication is critical. By 2020 there will be over 30 billion connected devices, therefore &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.rtinsights.com/blockchain-in-supply-chain-ibm-china-walmart/&#39;&gt;How&amp;rsquo;s the Bacon? Blockchain Hopes to Find Out&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Blockchain in supply chain: Walmart and IBM are using blockchain to track pork in China, but the effort will need to scale to realize business value. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.pandct.com/media/shownews.asp?ID=47393&#39;&gt;HONEYWELL AND SPARKS DYNAMICS COLLABORATE ON INDUSTRIAL INTERNET OF &amp;hellip;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; industrial customers leverage the power of the Industrial Internet of Things (IIoT) and make their operations safer, more efficient and more reliable. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://qz.com/843404/smappees-solarcoin-scheme-firms-are-testing-blockchain-tech-with-energy-generation/&#39;&gt;Blockchain technology is coming to the solar panels on your roof&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Where there&amp;rsquo;s a market with creaking infrastructure to be disrupted, blockchain technology will disrupt it. At least that&amp;rsquo;s what some proponents of &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://siliconangle.com/blog/2016/11/22/goldman-sachs-others-leave-fintech-blockchain-development-consortium-r3/&#39;&gt;Goldman Sachs, others leave fintech blockchain development consortium R3&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Fintech blockchain development group R3CEV LLC (R3) has taken a blow with a number of leading banks deciding to leave the consortium, limiting &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.linkedin.com/pulse/2016-2021-industrial-internet-things-iiot-market-solutions-kendle?published=t&#39;&gt;2016-2021 Industrial Internet of Things (IIoT) Market Opportunities for&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;The Industrial Internet of Things (IIoT) is poised to significantly improve reliability, production, and customer satisfaction. Initially focusing on improving &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://qz.com/843404/smappees-solarcoin-scheme-firms-are-testing-blockchain-tech-with-energy-generation/&#39;&gt;Blockchain technology is coming to the solar panels on your roof&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Where there&amp;rsquo;s a market with creaking infrastructure to be disrupted, blockchain technology will disrupt it. At least that&amp;rsquo;s what some proponents of &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.profitconfidential.com/bitcoin/blockchain-news-bitcoin-threatened-by-irs-investigation/&#39;&gt;Blockchain News: Bitcoin Threatened by IRS Investigation&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Discretion is one of the core appeals of Bitcoin and other blockchain currencies, but that freedom is coming under attack by government forces such as &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.econotimes.com/Goldman-Sachs-Santander-quit-R3-blockchain-consortium-413978&#39;&gt;Goldman Sachs Santander quit R3 blockchain consortium&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Two major members of the R3 blockchain consortium have called it quits. These include Goldman Sachs, which was one of the founding members of &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://tech.firstpost.com/news-analysis/ibm-launches-global-watson-internet-of-things-consulting-solutions-348916.html&#39;&gt;IBM launches Global Watson Internet of Things consulting solutions&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;IBM has announced a number of new services to help better integrate its AI Watson into the Internet of Things (IoT). The Watson IoT Consultation &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.mobileworldlive.com/asia/in-brief/asia-briefs-globes-mynt-selects-amdocs-thuraya-joins-lora-alliance-more/&#39;&gt;Asia Briefs: Globe&amp;rsquo;s Mynt selects Amdocs, Thuraya joins LoRa Alliance &amp;amp;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Mobile World Live This way of working will encourage the mass adoption of low cost, long range IoT/machine-to-machine connectivity, while extending the range of such &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.newsbtc.com/2016/11/22/santander-follows-goldman-sachs-out-r3/&#39;&gt;Santander Latest to Drop from R3CEV Blockchain Consortium&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Banco Santander (BME:SAN) has become the latest financial institution to exit R3CEV&amp;rsquo;s much marketed blockchain consortium. Only less than 24 &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.cityam.com/254124/goldman-sachs-and-santander-have-left-major-blockchain&#39;&gt;Goldman Sachs and Santander have left a major blockchain group&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Goldman Sachs and Santander have both exited one of tech&amp;rsquo;s top blockchain consortiums which is backed by some of the world&amp;rsquo;s biggest financial &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.capacitymedia.com/Article/3603755/News/UK-telcos-praise-government-investment-plans-for-5G-and-fibre.html&#39;&gt;UK telcos praise government investment plans for 5G and fibre&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; data rates and multilayer functionality that could power future IoT systems, new mobile services and machine-to-machine technology like smart cars. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.creativebloq.com/features/the-role-of-design-in-the-internet-of-things&#39;&gt;The role of design in the Internet of Things&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;many different professions and variants of design are needed. But most people &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://fusionstorm.com/internet-of-things-security-challenging-critical/&#39;&gt;Internet of Things Security: Challenging but Critical&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;and its impact on the enterprise IT infrastructure. First, we explained the need &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.efinancialnews.com/story/2016-11-21/goldman-sachs-drops-out-of-blockchain-group&#39;&gt;Goldman Sachs drops out of R3 blockchain group&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Goldman Sachs has dropped out of the R3 blockchain group. The investment bank was one of nine original members of R3, founded in 2014 to &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://coinjournal.net/smartrac-launches-document-authentication-solution-powered-blockchain/&#39;&gt;Smartrac Launches Document Authentication Solution Powered by Blockchain&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Called dLoc, the new solution combines NFC technology, IoT capabilities and blockchain&amp;rsquo;s security, allowing for the reliable authentication of any &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.newsmaker.com.au/news/167221/internet-of-things-iot-middleware-market-worth-115755-million-usd-by-2020-report-by-marketsandmarkets&#39;&gt;Internet of Things (IoT) Middleware Market worth 11575.5 Million USD by&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;NewsMaker (press release) According to a new market research report Internet of Things (IoT) Middleware Market by Type (IoT Application &amp;amp; Data Management), by IoT Platform &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.nytimes.com/2016/11/22/books/review/thomas-friedman-thank-you-for-being-late.html&#39;&gt;Book Review-The Message of Thomas Friedman&amp;rsquo;s New Book: It&amp;rsquo;s Going to Be OK&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; connected to the internet  but that is still less than 1 percent of the possible total as ever more cars, gadgets and bodies join the internet of things.. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.indiainfoline.com/article/news-top-story/omantel-partners-with-hcl-infosystems-for-digital-innovation-and-growth-in-oman-116112200303_1.html&#39;&gt;Omantel partners with HCL Infosystems for Digital Innovation and Growth in&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Indiainfoline &amp;hellip; India&amp;rsquo;s premier ICT Services and Solutions company to deliver Internet of Things (IOT), Machine to Machine (M2M) services, enhance automation, &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.coindesk.com/moneygram-doesnt-want-first-market-blockchain/&#39;&gt;Why Remittance Giant MoneyGram Won&amp;rsquo;t Be First With Blockchain&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;One year after we resolved to set an annual debate, Moneygram&amp;rsquo;s Peter Ohser remains right, the bitcoin blockchain hasn&amp;rsquo;t disrupted global &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.finextra.com/blogposting/13394/blockchain-may-fuel-the-energy-industry&#39;&gt;Blockchain may fuel the energy industry&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;When talking about blockchain, up till recently there was not much happening in the energy industry. At least not in the spotlights. But that is rapidly &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.devex.com/news/opinion-unlocking-human-potential-through-the-power-of-mobile-innovation-89203&#39;&gt;Opinion: Unlocking human potential through the power of mobile innovation&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;The companies that offer these innovative energy services often use GSM machine-to-machine monitoring to remotely control and monitor these &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.devex.com/news/opinion-unlocking-human-potential-through-the-power-of-mobile-innovation-89203&#39;&gt;Opinion: Unlocking human potential through the power of mobile innovation&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;The companies that offer these innovative energy services often use GSM machine-to-machine monitoring to remotely control and monitor these &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.pymnts.com/blockchain/2016/goldman-sachs-r3-blockchain-membership-lapse/&#39;&gt;Goldman Sachs&amp;rsquo; Membership In R3 Lapses&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Goldman Sachs has decided to drop out of the R3 CEV blockchain group, letting its membership lapse as of Oct. 31, reported The Wall Street Journal. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://mobile.royalgazette.com/technology/article/20161122/huge-blockchain-opportunity-seen-for-island&amp;template=mobileart&#39;&gt;Huge blockchain opportunity seen for island&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Bermuda has the potential to be a leading light in the development and implementation of blockchain technology. A high-profile company researching &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.coindesk.com/press-releases/korea-exchange-opens-korea-startup-market-blockchain-technology/&#39;&gt;Korea Exchange opens the Korea Startup Market with blockchain technology&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Blocko Inc., a local blockchain startup company, participated in the project and adopted the blockchain technology in authentication of identity and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.econotimes.com/Smartrac-launches-document-verification-solution-leveraging-Factoms-blockchain-414349&#39;&gt;Smartrac launches document verification solution leveraging Factom&amp;rsquo;s&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;EconoTimes dLoc is the first practical document authentication system that utilizes the Factom Blockchain to bridge the data integrity gap between the physical and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.digitaljournal.com/pr/3152146&#39;&gt;Healthcare Machine to Machine (M2M) Market Worth US $37 Billion by 2021&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;The development of wireless networks, healthcare machine to machine communication takes place in easy way and it takes less time and power for &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.tradecalls.org/2016/11/raging-capital-management-lowers-stake-in-orbcomm-inc-orbc-3125952/&#39;&gt;Raging Capital Management Lowers stake in ORBCOMM Inc (ORBC)&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;ORBCOMM Inc. is a provider of machine-to-machine (M2M) solutions including network connectivity devices and web reporting applications. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://cointelegraph.com/news/walmart-experiments-with-blockchain-to-safely-store-food&#39;&gt;Walmart Experiments With Blockchain to Safely Store Food&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;With a Blockchain-based system in place however, executives at Walmart state that both the consumers and the corporation will be able to access its &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.the-blockchain.com/2016/11/22/blockchain-tv-ted-talk-2016-bettina-warburg-blockchain-will-radically-transform-economy/&#39;&gt;Blockchain TV  Ted Talk 2016  Bettina Warburg: How the Blockchain will&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Blockchain News Bettina Warburg is a blockchain researcher, entrepreneur and educator. A political scientist by training, she has a deep passion for the intersection of &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://sports.yahoo.com/news/industrial-communication-market-offering-communication-182200453.html&#39;&gt;Industrial Communication Market by Offering, Communication Protocol,&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Yahoo Sports The growing machine-to-machine communication is also driving the growth of the industrial communication market. However, the adoption of different &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.coindesk.com/ethereum-forks-again-so-far-so-good/&#39;&gt;Ethereum&amp;rsquo;s Fourth Fork: So Far, So Good&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Ethereum&amp;rsquo;s latest hard fork, officially activated at block 2,675,000 today, days after first being tested on ethereum&amp;rsquo;s test blockchain. Among other &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://dcebrief.com/connecting-public-and-private-blockchains-may-be-possible/&#39;&gt;Connecting Public and Private Blockchains May Be Possible&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Blockchain is the technology of the moment, not a week goes by without a new way of harnessing the abilities of blockchain appearing, which is great &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.elp.com/Electric-Light-Power-Newsletter/articles/2016/11/what-you-can-do-to-decrease-operational-risk-part-ii-security-your-supply-chain.html&#39;&gt;What You Can Do to Decrease Operational Risk Part II: Securing Your Supply&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Electric Light &amp;amp; Power Protocols tied to protections against third-party initiated remote access are required for both user-initiated and machine-to-machine vendor remote &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.americanbanker.com/news/bank-technology/another-bank-santander-quits-blockchain-alliance-r3-1092548-1.html&#39;&gt;Another Bank (Santander) Quits Blockchain Alliance R3&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Spanish banking giant Santander has withdrawn from the bank consortium R3 CEV, becoming the second defector from the blockchain group this &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://us.blastingnews.com/business/2016/11/blockchain-technology-opportunities-and-challenges-conference-being-held-in-germany-001276617.html&#39;&gt;Blockchain technology: Opportunities and Challenges Conference being held&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Blasting News #blockchain Technology: Opportunities and Challenges is a conference currently underway at the Bundesbank Conference Centre in Eltville, &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.the-blockchain.com/2016/11/22/chinese-video-hosting-service-youku-first-to-trial-blockcdns-blockchain-content-distribution-network-cdn/&#39;&gt;Home News Chinese Video Hosting Service Youku First to Trial BlockCDNs&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Blockchain News BlockCDN&amp;rsquo;s blockchain-based service has attracted the attention of Youku, a video hosting service based in Beijing, China, who will be the first to trial &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://arstechnica.com/science/2016/11/from-bitcoin-to-puke-tracking-walmart-uses-blockchains-to-track-food/&#39;&gt; From Bitcoin to puke-tracking: Walmart uses blockchains to monitor food&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As the potential of blockchains rattle beyond the financial realm, Walmart is the latest to try out the technology in the hopes that it can track food &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://gigaom.com/report/blockchain-and-healthcare-iot-insurance-and-beyond/&#39;&gt;Blockchain and Healthcare, IoT, Insurance and Beyond&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Interest in blockchain has accelerated dramatically over the past year. On Wall Street the number of fintech startups developing blockchain solutions &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.insurancenetworking.com/blogs/data-analytics/why-blockchains-full-impact-on-insurance-is-still-years-away-37749-1.html&#39;&gt;Why Blockchain&amp;rsquo;s Full Impact on Insurance is Still Years Away&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Blockchain is a revolutionary technology that could fundamentally change the way business is conducted and result in the restructuring of major &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.prweb.com/releases/2016/11/prweb13875593.htm&#39;&gt;New Context Predicts Strong Future for STIX, TAXII Open Standards for Cyber&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;PR Web (press release) Using machine-to-machine cybersecurity threat feeds, we will continue to build automated threat response within customer networks using STIX and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://investingnews.com/daily/tech-investing/fintech-investing/top-blockchain-investing-trends/&#39;&gt;Top Blockchain Investing Trends for 2017&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Guy Halford-Thompson, Chief Executive Officer of Blockchain Tech Ltd. (TSXV:BTL) shared his thoughts on the blockchain market and speculated &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.eweek.com/video/symantec-buys-out-identity-protection-firm-lifelock-for-2.3-billion.html&#39;&gt;Symantec to Acquire Identity Security Company LifeLock&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;21 that it is acquiring identity protection vendor LifeLock, in a deal valued at $2.3 billion. The deal is expected to close in the first calendar quarter of &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.coindesk.com/blockchain-reports-10-millionth-bitcoin-wallet/&#39;&gt;Blockchain Reports 10 Millionth Bitcoin Wallet&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;That&amp;rsquo;s 7m more than Blockchain reported in February of last year, a significant jump in the roughly 20 months since that time. The service reported just &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://tech.firstpost.com/news-analysis/r3-cev-the-blockchain-start-up-cuts-funding-target-to-150-million-from-200-million-348742.html&#39;&gt;R3 CEV, the blockchain start-up cuts funding target to $150 million from&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Firstpost Blockchain company R3 CEV has reduced the amount it aims to raise from bank members in its first large round of equity funding to $150 million from &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Mobile Computing News from @topmobilenews - Nov 22, 2016</title>
-      <link>//cloudfeed.net/daily/daily-mobile-news-2016-11-22/</link>
-      <pubDate>Tue, 22 Nov 2016 18:05:01 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/daily/daily-mobile-news-2016-11-22/</guid>
-      <description>&lt;p&gt;Daily Mobile Computing news from &lt;a href=&#34;http://twitter.com/topmobilenews&#34;&gt;@topmobilenews&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.datacenterjournal.com/strategies-protect-networks-personal-devices-connect/&#39;&gt;Strategies to Protect Networks as Personal Devices Connect&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Another way IT departments can tackle the challenges associated with BYOD is through mobile-device-management (MDM) software designed &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.ukmarketnews.co.uk/2016/11/22/alternative-networks-lonan-analyst-target-prices/&#39;&gt;Alternative Networks (LON:AN) Analyst Target Prices&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Recently stock market analysts have updated their consensus ratings on shares of Alternative Networks (LON:AN). The newest analyst ratings which &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://satprnews.com/2016/11/22/byod-security-global-industry-size-share-segments-analysis-and-forecast-2015-2021/&#39;&gt;BYOD Security : Global Industry Size, Share, Segments Analysis and Forecast&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Satellite PR News (press release) BYOD i.e. bring your own device, is also referred as bring your own technology (BYOT), and bring your own phone (BYOP). It is a practice in which &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.crn.com.au/news/hemisphere-technologies-becomes-distributor-for-mobile-security-vendor-pulse-secure-442066&#39;&gt;Hemisphere Technologies becomes distributor for mobile security vendor&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;CRN Australia &amp;hellip; in 2014 and offers a secure access solution, comprised of network access control, secure VPN and mobile device management and security. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.newsmaker.com.au/news/167754/healthcare-mobile-computers-market-analysis-size-trends-share-report-and-forecast-to-2022&#39;&gt;Healthcare Mobile Computers Market Analysis, Size, Trends, Share, Report&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;NewsMaker (press release) Factors such as increase in adoption of smartphones and tablets in healthcare business, mobile computing solutions, rising inclination towards patient &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.prurgent.com/2016-11-22/pressrelease419073.htm&#39;&gt;Global Mobile Device Management Market worth USD 5.15 billion by 2021&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;According to the report, global demand for mobile device management market was valued at around USD 1.35 billion in 2015 and is expected to &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.whatech.com/market-research/it/230312-demand-for-mdm-solutions-lead-to-steady-growth-in-united-states-market-explored-in-latest-research&#39;&gt;Demand for MDM solutions lead to steady growth in United States market&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;WhaTech Mobile Device Management Market (MDM) to grow from $1.01 billion in 2013 to $3.94 billion by 2019 at an estimated CAGR of 26.8%. The biggest &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.koreaittimes.com/story/62946/sd-association-introduces-app-performance-class-and-new-sd-memory-card-symbol&#39;&gt;SD Association Introduces App Performance Class and New SD Memory Card&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Korea IT Times (press release) SAN RAMON, CA Nov 22, 2016 - Mobile phones and mobile computing users can choose the right SD memory card to run applications on mobile &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.newsroomamerica.com/story/609326.html&#39;&gt;Debating the openness and opportunity of Europe&amp;rsquo;s mobile economy&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;In just the last decade mobile computing has boomed and people around the world have been using mobile devices to do almost everything. Mobile &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.arabianbusiness.com/mitigating-byod-threats-with-secure-communications-653633.html&#39;&gt;Mitigating BYOD threats with secure communications&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;The consumerisation of IT has led to the rapid adoption of the Bring Your Own Device (BYOD) concept globally. Increasing numbers of people are &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.openpr.com/news/385615/Demand-for-MDM-Solutions-lead-to-steady-Growth-in-United-States-Market.html&#39;&gt;Demand for MDM Solutions lead to steady Growth in United States Market&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;In the first section, the report provides a brief overview of Mobile Device Management. MDM is a term used to describe a system or solution for &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Security News from @trustpath - Nov 22, 2016</title>
-      <link>//cloudfeed.net/daily/daily-trust-news-2016-11-22/</link>
-      <pubDate>Tue, 22 Nov 2016 18:05:01 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/daily/daily-trust-news-2016-11-22/</guid>
-      <description>&lt;p&gt;Daily Security news from &lt;a href=&#34;http://twitter.com/trustpath&#34;&gt;@trustpath&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://resources.csoonline.com/ccd/assets/124450/detail&#39;&gt;IDC Report: Modern Defense Against Sophisticated Attacks Requires&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;CSO Online Read this IDC Technology Spotlight to explore the key capabilities of modern endpoint security technologies in the market. See why enterprises are &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.dynamicbusiness.com.au/technology/prove-youre-not-a-sitting-duck-for-hackers.html&#39;&gt;Prove you&amp;rsquo;re not a sitting duck for hackers&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Finally, endpoint protection systems could provide more security. Endpoint security restricts access to devices on your network that do not comply with &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Big Data News from @topdatanews - Nov 21, 2016</title>
-      <link>//cloudfeed.net/daily/daily-data-news-2016-11-21/</link>
-      <pubDate>Mon, 21 Nov 2016 18:05:01 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/daily/daily-data-news-2016-11-21/</guid>
-      <description>&lt;p&gt;Daily Big Data news from &lt;a href=&#34;http://twitter.com/topdatanews&#34;&gt;@topdatanews&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.infoq.com/presentations/big-data-georgia-aquarium&#39;&gt;How Predictive Analytics Boosts the Customer Experience at the Georgia&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;InfoQ.com Managing Big Data has become a major competitive advantage for many organizations and hence maintaining a proper analytics platform is vital for &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.ft.com/content/ac04817c-abf9-11e6-ba7d-76378e4fef24&#39;&gt;Managers push back against the certainties of big data&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Clay Christensen tells a good joke about a tour of heaven. How come there&amp;rsquo;s no data here? the Harvard professor asks his celestial guide. Because &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://financefeeds.com/tradency-ceo-lior-nabat-true-proponent-entrepreneurs/&#39;&gt;Tradency CEO Lior Nabat is a true proponent of entrepreneurs&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Under the leadership of Lior Nabat, Tradency has gathered a tremendous amount of big data, which led to the development of the company&amp;rsquo;s RoboX &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.hitcentral.eu/healthtech-wire/%E2%80%98you%E2%80%99ve-got-keep-it-simple-make-it-work-make-it-think%E2%80%99&#39;&gt;&amp;lsquo;You&amp;rsquo;ve got to keep it simple; make it work; make it think.&amp;rsquo;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Big data and genomic technologies help to improve diagnosis, prognosis and treatment of patients. Have you messages that will inspire our readers, &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.rcrwireless.com/20161121/opinion/reader-forum-3-levels-big-data-success-telecom-market-tag10&#39;&gt;Reader Forum: 3 levels of big data success for the telecom market&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Thanks Apache Hadoop, it is possible to store and compute massive amounts of disparate structured, unstructured or semistructured data sources at a &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.openpr.com/news/384698/Hadoop-Market-is-to-Cross-US-50-0-Billion-by-2020.html&#39;&gt;Hadoop Market is to Cross US$ 50.0 Billion by 2020&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Hadoop is open source technology used for storing and organizing data in a bunch of commodity hardware. Hadoop gives very big amount of data &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://military-technologies.net/2016/11/21/big-data-enabled-market-by-manufacturerstypesregions-and-applications-research-report-forecast-to-2019/&#39;&gt;Big Data Enabled Market by Manufacturers,Types,Regions and Applications&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Military Technologies Com Publish a New Market Research Report On  Big Data Enabled &amp;hellip; with knowledge of handling the data in Hadoop and other big data related &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.hitcentral.eu/healthtech-wire/s%C3%A3o-jo%C3%A3o-hospital-center-portugal-recognised-inaugural-european-awards-ceremony&#39;&gt;So Joo Hospital Center in Portugal recognised at inaugural European&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Health IT Central This winning project from the So Joo Hospital Center named is HVITAL: Transforming Hospital Big Data into real insights that empower clinical &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.information-management.com/news/big-data-analytics/operations-vs-insights-how-to-make-sense-of-the-right-data-10030315-1.html&#39;&gt;Operations vs. Insights: How to Make Sense of the Right Data&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;To be successful, companies need automation processes together with the right strategies that allow data teams to focus on big data insights, not &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.timeshighereducation.com/blog/using-big-data-and-predictive-analytics-recruit-international-students&#39;&gt;Using big data and predictive analytics to recruit international students&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;This year, several articles and conference presentations have been made on big data and predictive analytics and the impact on several aspects of &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://insidebigdata.com/2016/11/21/at-the-speed-of-big-data-revolutionizing-shipping-and-logistics/&#39;&gt;At the Speed of Big Data  Revolutionizing Shipping and Logistics&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;shannon-vaillancourt In this special guest feature, Shannon Vaillancourt, president and founder of RateLinx, discusses how big data is helping the &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.medicalplasticsnews.com/news/medical-devices/how-pharma-can-benefit-from-big-data-and-asthma-intelligence/&#39;&gt;How big data is benefitting asthma devices&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Pharmaceutical companies are set to benefit from intelligence on asthma as Aerobit, provider of a smart respiratory device, teams with artificial &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://business.financialpost.com/entrepreneur/growth-strategies/how-the-rise-of-mobile-and-big-data-are-a-blessing-for-gis-technology&#39;&gt;How the rise of mobile and big data are a blessing for one GIS-based&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Financial Post Handout/Esri Canada Alex Miller, founder of Esri Canada, says in part he is driven by what GIS can do to help make the world more sustainable by &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://pulse.ng/events/digitech-conference-inaugural-edition-on-data-driven-innovation-for-businesses-holding-this-november-id5789962.html&#39;&gt;Digitech Conference Inaugural Edition on data-driven innovation for&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Pulse Nigeria The Digitech Conference is a series of Conversations on Big Data and its Emerging possibilities, bringing together the top minds in various information &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.channelweb.co.uk/crn-uk/news/2477918/arrow-finds-out-how-happy-london-is-in-bid-to-help-partners&#39;&gt;Arrow finds out how happy London is in bid to help partners&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Arrow has launched a big data project to find out how happy London is in a bid to help channel partners explain the technology to their customers. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.coindesk.com/press-releases/blockchain-set-greatest-impact-banking-next-decade/&#39;&gt;Why Blockchain Is Set To Have The Greatest Impact On Banking Over The Next&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;CoinDesk Innovation Enterprise hosts the Big Data &amp;amp; Analytics for Banking Summit at the Crowne Plaza Times Square on December 7 &amp;amp; 8. Unite with over 150 &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.out-law.com/en/articles/2016/november/merkel-calls-for-balanced-approach-to-data-protection/&#39;&gt;Merkel calls for balanced approach to data protection&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Germany has traditionally been cautious over data collection, but if countries are too restrictive then &amp;ldquo;big data management will not be possible&amp;rdquo;, &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://insidebigdata.com/2016/11/21/alluxio-revolutionizes-enterprise-big-data-launches-industrys-first-solution-to-unify-data-at-memory-speed/&#39;&gt;Alluxio Revolutionizes Enterprise Big Data, Launches Industry&amp;rsquo;s First&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;insideBIGDATA Alluxio provides a unified view of enterprise data that spans disparate storage systems, locations and clouds, allowing any big data compute &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.enterprisetech.com/solution_content/hpe/health-life-sciences/bill-mannel-vice-president-general-manager-hpc-big-data-iot-solutions-hpe-servers-hewlett-packard-enterprise/&#39;&gt;Bill Mannel, Vice President &amp;amp; General Manager  HPC, Big Data &amp;amp; IoT&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;EnterpriseTech Genomic sequencing has progressed so rapidly that researchers can now analyze the genetic profiles of healthy individuals to uncover mutations that &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://healthitanalytics.com/news/prioritizing-preventive-value-based-care-with-big-data-analytics&#39;&gt;Prioritizing Preventive Value-Based Care with Big Data Analytics&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Success in the value-based care environment requires a familiarity with big data analytics that can fuel population health management efforts and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.educationdive.com/news/students-expect-big-data-to-aid-persistence-performance/430851/&#39;&gt;Students expect big data to aid persistence, performance&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;According to eCampus News, sentiment is growing among college students for data cultivation and analytics to play a larger role in their personal &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.theregister.co.uk/2016/11/21/big_data_dev_risks/&#39;&gt;Even big data devs make big data security gaffes&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Apache Big Data Europe Big data application programmers routinely download and execute unverified code, opening the door to information-stealing &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://insidebigdata.com/2016/11/21/above-the-trend-line-your-industry-rumor-central-for-11212016/&#39;&gt;Above the Trend Line  Your Industry Rumor Central for 11/21/2016&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;We&amp;rsquo;ve had a very active week here at insideBIGDATA with big data moving forward at a frenetic pace. We&amp;rsquo;ll start our weekly roundup with new &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.computerdealernews.com/blog/trump-victory-bad-for-big-data/51617&#39;&gt;Trump victory bad for big data?&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;One of the over-arching narratives in the big data movement is that data can provide the necessary insights for businesses to make good decisions. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.digitaljournal.com/pr/3151126&#39;&gt;Big Data Market Estimated to reach $72B USD by 2021 with a CAGR of 20.8%&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;OrbisResearch.com has published The Big Data Market: Business Case, Market Analysis and Forecasts 2016-2021 market report to its research &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.insurancenetworking.com/news/innovation/the-hanover-names-big-data-entrepreneur-to-lead-strategy-37744-1.html&#39;&gt;The Hanover Names Big Data Entrepreneur to Lead Strategy&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Keim&amp;rsquo;s last job was as the co-founder of HealthReveal, a big data and analytics company targeting healthcare. He also has insurance strategy &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://macaudailytimes.com.mo/macao-big-data-forum-2016-computer-engineers-voice-opinions-smart-city-development.html&#39;&gt;Macao Big Data Forum 2016 - Computer engineers voice opinions on smart city&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Macau Daily Times Three experts on data management were invited to the University of Macau, to participate in the Macao Big Data Forum 2016, last week. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.bizjournals.com/portland/news/2016/11/21/portlands-corios-brings-big-data-to-executives.html&#39;&gt;Portland&amp;rsquo;s Corios brings big data to executives&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Technology Association of Oregon president Skip Newberry talks big data with &amp;hellip; It&amp;rsquo;s much more exciting to talk about big data than, say, statistics and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
