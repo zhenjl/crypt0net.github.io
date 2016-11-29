@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 28 Nov 2016 15:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 16:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>After 6 Years, Microsoft Shutters Azure DataMarket</title>
+      <link>//cloudfeed.net/post/after-6-years-microsoft-shutters-azure-datamarket/</link>
+      <pubDate>Mon, 28 Nov 2016 16:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/after-6-years-microsoft-shutters-azure-datamarket/</guid>
+      <description>&lt;p&gt;Azure DataMarket, Microsoft&amp;rsquo;s app marketplace where developers could access data services to power apps and analytic projects, will be shut down &amp;hellip;  &lt;a href=&#34;https://rcpmag.com/articles/2016/11/28/microsoft-shutters-azure-datamarket.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://rcpmag.com/articles/2016/11/28/microsoft-shutters-azure-datamarket.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>RightScale Compares Pricing on AWS, Google and Microsoft</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/azure-glitch-allowed-attackers-to-gain-admin-rights-over-hosted-red-hat/</guid>
       <description>&lt;p&gt;Inquirer A VULNERABILITY in Microsoft&amp;rsquo;s Azure cloud platform could have been exploited by an attacker to gain admin rights to instances of Red Hat &amp;hellip;  &lt;a href=&#34;http://www.theinquirer.net/inquirer/news/2478534/microsoft-azure-glitch-allowed-attackers-to-gain-admin-rights-over-hosted-red-hat-linux-instances&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theinquirer.net/inquirer/news/2478534/microsoft-azure-glitch-allowed-attackers-to-gain-admin-rights-over-hosted-red-hat-linux-instances&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cloud compute pricing bakeoff: Google vs. AWS vs. Microsoft Azure</title>
-      <link>//cloudfeed.net/post/cloud-compute-pricing-bakeoff-google-vs-aws-vs-microsoft-azure/</link>
-      <pubDate>Mon, 28 Nov 2016 04:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/cloud-compute-pricing-bakeoff-google-vs-aws-vs-microsoft-azure/</guid>
-      <description>&lt;p&gt;Generally speaking AWS won&amp;rsquo;t be your cheapest option for compute. AWS typically lands in the middle between Microsoft Azure and Google Cloud.  &lt;a href=&#34;http://www.zdnet.com/article/cloud-compute-pricing-bakeoff-google-vs-aws-vs-microsoft-azure/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/cloud-compute-pricing-bakeoff-google-vs-aws-vs-microsoft-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
