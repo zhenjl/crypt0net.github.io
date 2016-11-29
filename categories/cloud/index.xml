@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 29 Nov 2016 02:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2016 03:00:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data Management for Amazon Web Services</title>
+      <link>//cloudfeed.net/post/data-management-for-amazon-web-services/</link>
+      <pubDate>Tue, 29 Nov 2016 03:00:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/data-management-for-amazon-web-services/</guid>
+      <description>&lt;p&gt;AWS by delivering connected, trusted, meaningful data from cloud, &amp;hellip;  &lt;a href=&#34;https://www.informatica.com/solutions/cloud-integration-and-data-management/informatica-for-aws.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.informatica.com/solutions/cloud-integration-and-data-management/informatica-for-aws.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenStack Vitrage Demo: How to gain insights into the root cause of</title>
+      <link>//cloudfeed.net/post/openstack-vitrage-demo-how-to-gain-insights-into-the-root-cause-of/</link>
+      <pubDate>Tue, 29 Nov 2016 03:00:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-vitrage-demo-how-to-gain-insights-into-the-root-cause-of/</guid>
+      <description>&lt;p&gt;TelecomTV Root Cause Analysis is a relatively new field within OpenStack. There are many challenges ahead when exploring the cloud and gaining insights into &amp;hellip;  &lt;a href=&#34;http://www.telecomtv.com/articles/openstack-summit/openstack-vitrage-demo-how-to-gain-insights-into-the-root-cause-of-openstack-alarms-and-events-14182/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.telecomtv.com/articles/openstack-summit/openstack-vitrage-demo-how-to-gain-insights-into-the-root-cause-of-openstack-alarms-and-events-14182/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>VMware Expands Global Ecosystem of VMware Ready for NFV Certified Solutions</title>
@@ -161,30 +185,6 @@
       
       <guid>//cloudfeed.net/post/openstack-enterprise-adoption-still-awaits-full-embrace/</guid>
       <description>&lt;p&gt;OpenStack in the enterprise is more likely to see continued adoption via vendor distributions and managed services, not the raw code of big-name &amp;hellip;  &lt;a href=&#34;http://searchdatacenter.techtarget.com/news/450403403/OpenStack-enterprise-adoption-still-awaits-full-embrace&#34; onclick=&#34;trackOutboundLink(&#39;http://searchdatacenter.techtarget.com/news/450403403/OpenStack-enterprise-adoption-still-awaits-full-embrace&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The cloud accounting software firm began migrating data for 700000</title>
-      <link>//cloudfeed.net/post/the-cloud-accounting-software-firm-began-migrating-data-for-700000/</link>
-      <pubDate>Mon, 28 Nov 2016 22:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/the-cloud-accounting-software-firm-began-migrating-data-for-700000/</guid>
-      <description>&lt;p&gt;CRN Australia By the end of the migration, Xero moved 59 billion records, 3000 apps and 120 databases to the new cloud platform. Xero&amp;rsquo;s primary reason for moving &amp;hellip;  &lt;a href=&#34;http://www.crn.com.au/news/xero-completes-migration-from-rackspace-to-amazon-web-services-442914&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com.au/news/xero-completes-migration-from-rackspace-to-amazon-web-services-442914&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why Upgrade to VMware vCloud Director 8.10 - Part One</title>
-      <link>//cloudfeed.net/post/why-upgrade-to-vmware-vcloud-director-810--part-one/</link>
-      <pubDate>Mon, 28 Nov 2016 22:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/why-upgrade-to-vmware-vcloud-director-810--part-one/</guid>
-      <description>&lt;p&gt;With VMworld Europe just around the corner, there&amp;rsquo;s no better time to upgrade your data center to vCloud Director 8.10, the latest version of our &amp;hellip;  &lt;a href=&#34;http://blogs.vmware.com/vcloud/2016/11/upgrade-vmware-vcloud-director-8-10-part-one.html&#34; onclick=&#34;trackOutboundLink(&#39;http://blogs.vmware.com/vcloud/2016/11/upgrade-vmware-vcloud-director-8-10-part-one.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
