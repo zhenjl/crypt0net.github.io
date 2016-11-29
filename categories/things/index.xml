@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 29 Nov 2016 03:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2016 03:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Internet of Things Messaging, Part 1: Introducing MQTT</title>
+      <link>//cloudfeed.net/post/internet-of-things-messaging-part-1-introducing-mqtt/</link>
+      <pubDate>Tue, 29 Nov 2016 03:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/internet-of-things-messaging-part-1-introducing-mqtt/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re going to look at one of the most popular and effective message broker protocols, MQ Telemetry Transport, or MQTT. Note that the original name &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3142778/internet-of-things/internet-of-things-messaging-part-1-introducing-mqtt.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3142778/internet-of-things/internet-of-things-messaging-part-1-introducing-mqtt.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Analysts see a future for HPE in supporting cloud, Internet of Things</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/key-sessions-on-artificial-intelligence-and-the-internet-of-things-offer/</guid>
       <description>&lt;p&gt;Broadway World In addition, Mike Farley, Founder &amp;amp; Chief Executive Officer, Tile, will explain why The Internet of Things (IoT) is being hailed as the next Industrial &amp;hellip;  &lt;a href=&#34;http://www.broadwayworld.com/bwwgeeks/article/Key-Sessions-on-Artificial-Intelligence-and-The-Internet-of-Things-Offer-Guidelines-for-Innovation-and-Transformation-at-11th-Annual-New-Product-Innovation-Development-20161128&#34; onclick=&#34;trackOutboundLink(&#39;http://www.broadwayworld.com/bwwgeeks/article/Key-Sessions-on-Artificial-Intelligence-and-The-Internet-of-Things-Offer-Guidelines-for-Innovation-and-Transformation-at-11th-Annual-New-Product-Innovation-Development-20161128&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lisk Launches Simultaneous Campaigns to Empower Blockchain and Energize</title>
-      <link>//cloudfeed.net/post/lisk-launches-simultaneous-campaigns-to-empower-blockchain-and-energize/</link>
-      <pubDate>Mon, 28 Nov 2016 23:50:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/lisk-launches-simultaneous-campaigns-to-empower-blockchain-and-energize/</guid>
-      <description>&lt;p&gt;PR Newswire (press release) BERLIN, Nov. 28, 2016 /PRNewswire/ &amp;ndash; Lisk, the blockchain application platform, has launched an ambitious series of campaigns that will &amp;hellip;  &lt;a href=&#34;http://www.prnewswire.com/news-releases/lisk-launches-simultaneous-campaigns-to-empower-blockchain-and-energize-community-300369227.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prnewswire.com/news-releases/lisk-launches-simultaneous-campaigns-to-empower-blockchain-and-energize-community-300369227.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
