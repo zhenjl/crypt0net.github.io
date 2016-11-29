@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 28 Nov 2016 16:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 17:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft announces Azure DevTest Labs support for creating environment</title>
+      <link>//cloudfeed.net/post/microsoft-announces-azure-devtest-labs-support-for-creating-environment/</link>
+      <pubDate>Mon, 28 Nov 2016 17:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-announces-azure-devtest-labs-support-for-creating-environment/</guid>
+      <description>&lt;p&gt;MSPoweruser Azure DevTest Labs is an Azure service that lets you quickly create environments in Azure while minimizing waste and controlling costs. Microsoft &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-announces-azure-devtest-labs-support-creating-environment-arm-templates/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-announces-azure-devtest-labs-support-creating-environment-arm-templates/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What Symantec&#39;s Data Loss Prevention Could Gain from Blue Coat</title>
+      <link>//cloudfeed.net/post/what-symantecs-data-loss-prevention-could-gain-from-blue-coat/</link>
+      <pubDate>Mon, 28 Nov 2016 17:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/what-symantecs-data-loss-prevention-could-gain-from-blue-coat/</guid>
+      <description>&lt;p&gt;We also learned that Symantec was recognized as a leader in endpoint protection. Additionally, it launched SEP (Symantec Endpoint Protection) 14 &amp;hellip;  &lt;a href=&#34;http://marketrealist.com/2016/11/symantecs-dlp-business-benefiting-blue-coats-buyout/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2016/11/symantecs-dlp-business-benefiting-blue-coats-buyout/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>After 6 Years, Microsoft Shutters Azure DataMarket</title>
@@ -163,30 +187,6 @@
       <description>&lt;p&gt;new approach to endpoint protection with Sophos Intercept X - Watch &amp;hellip;  &lt;a href=&#34;http://www.trustmarque.com/discover-a-completely-new-approach-to-endpoint-protection/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.trustmarque.com/discover-a-completely-new-approach-to-endpoint-protection/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure bug put Red Hat instances at risk</title>
-      <link>//cloudfeed.net/post/microsoft-azure-bug-put-red-hat-instances-at-risk/</link>
-      <pubDate>Mon, 28 Nov 2016 06:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-azure-bug-put-red-hat-instances-at-risk/</guid>
-      <description>&lt;p&gt;A flaw in Microsoft&amp;rsquo;s Azure cloud platform could have been exploited by an attacker to gain admin rights to instances of Red Hat Enterprise Linux &amp;hellip;  &lt;a href=&#34;http://www.v3.co.uk/v3-uk/news/2478544/microsoft-azure-bug-put-red-hat-instances-at-risk&#34; onclick=&#34;trackOutboundLink(&#39;http://www.v3.co.uk/v3-uk/news/2478544/microsoft-azure-bug-put-red-hat-instances-at-risk&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure glitch allowed attackers to gain admin rights over hosted Red Hat</title>
-      <link>//cloudfeed.net/post/azure-glitch-allowed-attackers-to-gain-admin-rights-over-hosted-red-hat/</link>
-      <pubDate>Mon, 28 Nov 2016 05:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/azure-glitch-allowed-attackers-to-gain-admin-rights-over-hosted-red-hat/</guid>
-      <description>&lt;p&gt;Inquirer A VULNERABILITY in Microsoft&amp;rsquo;s Azure cloud platform could have been exploited by an attacker to gain admin rights to instances of Red Hat &amp;hellip;  &lt;a href=&#34;http://www.theinquirer.net/inquirer/news/2478534/microsoft-azure-glitch-allowed-attackers-to-gain-admin-rights-over-hosted-red-hat-linux-instances&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theinquirer.net/inquirer/news/2478534/microsoft-azure-glitch-allowed-attackers-to-gain-admin-rights-over-hosted-red-hat-linux-instances&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

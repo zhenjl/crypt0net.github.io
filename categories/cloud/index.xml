@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 28 Nov 2016 16:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2016 17:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft announces Azure DevTest Labs support for creating environment</title>
+      <link>//cloudfeed.net/post/microsoft-announces-azure-devtest-labs-support-for-creating-environment/</link>
+      <pubDate>Mon, 28 Nov 2016 17:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-announces-azure-devtest-labs-support-for-creating-environment/</guid>
+      <description>&lt;p&gt;MSPoweruser Azure DevTest Labs is an Azure service that lets you quickly create environments in Azure while minimizing waste and controlling costs. Microsoft &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-announces-azure-devtest-labs-support-creating-environment-arm-templates/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-announces-azure-devtest-labs-support-creating-environment-arm-templates/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>After 6 Years, Microsoft Shutters Azure DataMarket</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-update-servers-leave-azure-rhel-instances-hackable/</guid>
       <description>&lt;p&gt;Microsoft has patched a huge flaw that left Azure Red Hat Enterprise Linux (RHEL) compromised and sucseptible to attack. Software engineer Ian &amp;hellip;  &lt;a href=&#34;http://www.pcr-online.biz/news/read/microsoft-update-servers-leave-azure-rhel-instances-hackable/038906&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcr-online.biz/news/read/microsoft-update-servers-leave-azure-rhel-instances-hackable/038906&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BC Platforms to Provide Genomics Data Management Solution to Codigo46</title>
-      <link>//cloudfeed.net/post/bc-platforms-to-provide-genomics-data-management-solution-to-codigo46/</link>
-      <pubDate>Mon, 28 Nov 2016 01:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/bc-platforms-to-provide-genomics-data-management-solution-to-codigo46/</guid>
-      <description>&lt;p&gt;PR Newswire UK (press release) &amp;hellip; collaboration with Microsoft, we have been optimizing our product offerings for Azure utilizing both advancements in software and cloud hardware.  &lt;a href=&#34;http://www.prnewswire.co.uk/news-releases/bc-platforms-to-provide-genomics-data-management-solution-to-codigo46-powered-by-the-microsoft-azure-cloud-603315376.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prnewswire.co.uk/news-releases/bc-platforms-to-provide-genomics-data-management-solution-to-codigo46-powered-by-the-microsoft-azure-cloud-603315376.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
