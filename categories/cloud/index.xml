@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 30 Nov 2016 14:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2016 15:20:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft announces general availability of preview features and new APIs</title>
+      <link>//cloudfeed.net/post/microsoft-announces-general-availability-of-preview-features-and-new-apis/</link>
+      <pubDate>Wed, 30 Nov 2016 15:20:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-announces-general-availability-of-preview-features-and-new-apis/</guid>
+      <description>&lt;p&gt;MSPoweruser Microsoft Azure Search Microsoft today announced the general availability of several preview features as well as a new REST API version and .  &lt;a href=&#34;https://mspoweruser.com/microsoft-announces-general-availability-preview-features-new-apis-azure-search/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-announces-general-availability-preview-features-new-apis-azure-search/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microsoft&#39;s Connected Field Service: Azure &amp; Dynamics 365 make it</title>
+      <link>//cloudfeed.net/post/microsofts-connected-field-service-azure--dynamics-365-make-it/</link>
+      <pubDate>Wed, 30 Nov 2016 15:20:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsofts-connected-field-service-azure--dynamics-365-make-it/</guid>
+      <description>&lt;p&gt;MSDynamicsWorld.com Microsoft continues to evolve its Connected Field Service architecture, which builds on Dynamics 365 and various Azure resources. And while &amp;hellip;  &lt;a href=&#34;http://msdynamicsworld.com/story/customer-field-service-it%E2%80%99s-affordable-and-practical-dynamics-365-start-data&#34; onclick=&#34;trackOutboundLink(&#39;http://msdynamicsworld.com/story/customer-field-service-it%E2%80%99s-affordable-and-practical-dynamics-365-start-data&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>This Snowmobile truck seems like a joke, but it&#39;s actually Amazon&#39;s new</title>
@@ -161,30 +185,6 @@
       
       <guid>//cloudfeed.net/post/amazon-debuts-new-aws-features-fpga-instances-elastic-gpus-virtual/</guid>
       <description>&lt;p&gt;GeekWire Here AWS appears to be playing catch-up with Microsoft Azure, which introduced FPGAs in October. In between the two extremes, AWS introduced a &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2016/amazon-debuts-new-aws-features-fpga-instances-elastic-gpus-virtual-private-servers/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2016/amazon-debuts-new-aws-features-fpga-instances-elastic-gpus-virtual-private-servers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Actifio OnVault Helps Enterprise Customers Move Faster to Amazon Web</title>
-      <link>//cloudfeed.net/post/actifio-onvault-helps-enterprise-customers-move-faster-to-amazon-web/</link>
-      <pubDate>Wed, 30 Nov 2016 09:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/actifio-onvault-helps-enterprise-customers-move-faster-to-amazon-web/</guid>
-      <description>&lt;p&gt;Boston, November 30, 2016  Actifio, the copy data virtualization company, today announced availability of OnVault on Amazon Web Services (AWS) &amp;hellip;  &lt;a href=&#34;http://www.actifio.com/press-releases/actifio-onvault-helps-enterprise-customers-move-faster-amazon-web-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.actifio.com/press-releases/actifio-onvault-helps-enterprise-customers-move-faster-amazon-web-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AT&amp;T Expands Service Offerings on Amazon Web Services</title>
-      <link>//cloudfeed.net/post/att-expands-service-offerings-on-amazon-web-services/</link>
-      <pubDate>Wed, 30 Nov 2016 09:10:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/att-expands-service-offerings-on-amazon-web-services/</guid>
-      <description>&lt;p&gt;DALLAS, Nov. 29, 2016 /PRNewswire/ &amp;ndash;AT&amp;amp;T today announced that it is integrating AT&amp;amp;T NetBond with the AWS Direct Connect (DX) bundle to &amp;hellip;  &lt;a href=&#34;http://www.consumerelectronicsnet.com/article/ATT-Expands-Service-Offerings-on-Amazon-Web-Services-4715979&#34; onclick=&#34;trackOutboundLink(&#39;http://www.consumerelectronicsnet.com/article/ATT-Expands-Service-Offerings-on-Amazon-Web-Services-4715979&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
