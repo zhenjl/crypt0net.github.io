@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 30 Nov 2016 02:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2016 02:10:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Liquidware Labs adds support for Amazon WorkSpaces</title>
+      <link>//cloudfeed.net/post/liquidware-labs-adds-support-for-amazon-workspaces/</link>
+      <pubDate>Wed, 30 Nov 2016 02:10:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/liquidware-labs-adds-support-for-amazon-workspaces/</guid>
+      <description>&lt;p&gt;release) (registration) (blog) &amp;hellip; and XenDesktop, VMware Horizon running on premises (local datacenter) or in any cloud such as Amazon AWS, Microsoft Azure, or Google Cloud.  &lt;a href=&#34;http://www.ervik.as/liquidware-labs-adds-support-amazon-workspaces/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ervik.as/liquidware-labs-adds-support-amazon-workspaces/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure User Saves Microsoft from RHEL Disaster</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/10-security-issues-you-can-fix-with-azure-security-center/</guid>
       <description>&lt;p&gt;understanding of what it does and how it works  there no meh there &amp;hellip;  &lt;a href=&#34;https://blogs.msdn.microsoft.com/azuresecurity/2016/11/30/10-security-issues-you-can-fix-with-azure-security-center/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.msdn.microsoft.com/azuresecurity/2016/11/30/10-security-issues-you-can-fix-with-azure-security-center/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft patches RHEL instances in Azure cloud</title>
-      <link>//cloudfeed.net/post/microsoft-patches-rhel-instances-in-azure-cloud/</link>
-      <pubDate>Tue, 29 Nov 2016 19:00:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-patches-rhel-instances-in-azure-cloud/</guid>
-      <description>&lt;p&gt;Microsoft has patched a vulnerability stemming from its configuration of Red Hat Enterprise Linux (RHEL) in the Azure public cloud that a customer &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3145869/cloud-computing/microsoft-patches-rhel-instances-in-azure-cloud.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3145869/cloud-computing/microsoft-patches-rhel-instances-in-azure-cloud.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
