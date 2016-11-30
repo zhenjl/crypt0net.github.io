@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 29 Nov 2016 22:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2016 23:50:07 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon Web Services pledges to power data centers with 50% renewable energy</title>
+      <link>//cloudfeed.net/post/amazon-web-services-pledges-to-power-data-centers-with-50-renewable-energy/</link>
+      <pubDate>Tue, 29 Nov 2016 23:50:07 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amazon-web-services-pledges-to-power-data-centers-with-50-renewable-energy/</guid>
+      <description>&lt;p&gt;GeekWire Large-scale data centers consume huge amounts of power, but Amazon Web Services is making an effort to move more of its consumption to &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2016/amazon-web-services-pledges-power-data-centers-50-renewable-energy-end-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2016/amazon-web-services-pledges-power-data-centers-50-renewable-energy-end-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tableau goes with Amazon Web Services for new expansion into public cloud</title>
@@ -420,18 +432,6 @@
       
       <guid>//cloudfeed.net/post/multicloud-strategy-begets-data-connector/</guid>
       <description>&lt;p&gt;&amp;hellip; interoperability and data flow across multi-cloud infrastructure, including Microsoft Azure (NASDAQ: MSFT) and Google Cloud Platform (NASDAQ: &amp;hellip;  &lt;a href=&#34;https://www.datanami.com/2016/11/29/multi-cloud-strategy-begets-data-connector/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.datanami.com/2016/11/29/multi-cloud-strategy-begets-data-connector/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Engineer Finds Microsoft Azure Cloud Flaw Posed RHEL Hacking Risk</title>
-      <link>//cloudfeed.net/post/engineer-finds-microsoft-azure-cloud-flaw-posed-rhel-hacking-risk/</link>
-      <pubDate>Tue, 29 Nov 2016 17:20:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/engineer-finds-microsoft-azure-cloud-flaw-posed-rhel-hacking-risk/</guid>
-      <description>&lt;p&gt;Duffy managed to obtain &amp;ldquo;administrator level access to all of the Microsoft Azure managed Red Hat Update Infrastructure that supplies all the &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/microsoft-azure-flaw-exposed-rhel-virtual-machines-to-hacking-risk.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/microsoft-azure-flaw-exposed-rhel-virtual-machines-to-hacking-risk.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
