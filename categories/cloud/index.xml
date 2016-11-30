@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 29 Nov 2016 16:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2016 17:20:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Engineer Finds Microsoft Azure Cloud Flaw Posed RHEL Hacking Risk</title>
+      <link>//cloudfeed.net/post/engineer-finds-microsoft-azure-cloud-flaw-posed-rhel-hacking-risk/</link>
+      <pubDate>Tue, 29 Nov 2016 17:20:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/engineer-finds-microsoft-azure-cloud-flaw-posed-rhel-hacking-risk/</guid>
+      <description>&lt;p&gt;Duffy managed to obtain &amp;ldquo;administrator level access to all of the Microsoft Azure managed Red Hat Update Infrastructure that supplies all the &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/microsoft-azure-flaw-exposed-rhel-virtual-machines-to-hacking-risk.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/microsoft-azure-flaw-exposed-rhel-virtual-machines-to-hacking-risk.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>KeyW Selected to Participate in Amazon Web Services&#39; (AWS) Public Sector</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/how-to-compare-cloud-costs-between-amazon-microsoft-and-google/</guid>
       <description>&lt;p&gt;Microsoft Azure and Google Cloud Platform and then determine which is best &amp;hellip;  &lt;a href=&#34;http://www.macsurfer.com/redir.php?u=1009646&#34; onclick=&#34;trackOutboundLink(&#39;http://www.macsurfer.com/redir.php?u=1009646&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Alfresco Selected to Join Newly Launched Amazon Web Service Public Sector</title>
-      <link>//cloudfeed.net/post/alfresco-selected-to-join-newly-launched-amazon-web-service-public-sector/</link>
-      <pubDate>Tue, 29 Nov 2016 13:20:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/alfresco-selected-to-join-newly-launched-amazon-web-service-public-sector/</guid>
-      <description>&lt;p&gt;Business Wire (press release) &amp;hellip; and business process management (BPM) software, announced Amazon Web Services has named it to the AWS Public Sector Partner Program.  &lt;a href=&#34;http://www.businesswire.com/news/home/20161129005479/en/Alfresco-Selected-Join-Newly-Launched-Amazon-Web&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20161129005479/en/Alfresco-Selected-Join-Newly-Launched-Amazon-Web&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
