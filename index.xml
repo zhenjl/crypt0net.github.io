@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 30 Nov 2016 01:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2016 02:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure User Saves Microsoft from RHEL Disaster</title>
+      <link>//cloudfeed.net/post/azure-user-saves-microsoft-from-rhel-disaster/</link>
+      <pubDate>Wed, 30 Nov 2016 02:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/azure-user-saves-microsoft-from-rhel-disaster/</guid>
+      <description>&lt;p&gt;Software engineer Ian Duffy found the flaws while building a secure RHEL image for Microsoft Azure. During that process he noticed an installation &amp;hellip;  &lt;a href=&#34;http://www.newsfactor.com/story.xhtml?story_id=132004B805EC&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newsfactor.com/story.xhtml?story_id=132004B805EC&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Introducing the AWS Public Sector Program</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Yahoo Finance 29, 2016 /PRNewswire/ &amp;ndash; Investments in big data analytics continues to rise. Due to today&amp;rsquo;s technology, business leaders now have access to data &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/panel-leaders-discuss-assessing-value-223700589.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/panel-leaders-discuss-assessing-value-223700589.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services pledges to power data centers with 50% renewable energy</title>
-      <link>//cloudfeed.net/post/amazon-web-services-pledges-to-power-data-centers-with-50-renewable-energy/</link>
-      <pubDate>Tue, 29 Nov 2016 23:50:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-web-services-pledges-to-power-data-centers-with-50-renewable-energy/</guid>
-      <description>&lt;p&gt;GeekWire Large-scale data centers consume huge amounts of power, but Amazon Web Services is making an effort to move more of its consumption to &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2016/amazon-web-services-pledges-power-data-centers-50-renewable-energy-end-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2016/amazon-web-services-pledges-power-data-centers-50-renewable-energy-end-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
