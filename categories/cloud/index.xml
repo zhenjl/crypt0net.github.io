@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 30 Nov 2016 10:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2016 11:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWS Extends Amazon Aurora with PostgreSQL Compatibility</title>
+      <link>//cloudfeed.net/post/aws-extends-amazon-aurora-with-postgresql-compatibility/</link>
+      <pubDate>Wed, 30 Nov 2016 11:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/aws-extends-amazon-aurora-with-postgresql-compatibility/</guid>
+      <description>&lt;p&gt;Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (AMZN), announced it has added full PostgreSQL compatibility &amp;hellip;  &lt;a href=&#34;http://sports.yahoo.com/news/aws-extends-amazon-aurora-postgresql-184000445.html&#34; onclick=&#34;trackOutboundLink(&#39;http://sports.yahoo.com/news/aws-extends-amazon-aurora-postgresql-184000445.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amazon accelerates and simplifies its cloud infrastructure offering</title>
+      <link>//cloudfeed.net/post/amazon-accelerates-and-simplifies-its-cloud-infrastructure-offering/</link>
+      <pubDate>Wed, 30 Nov 2016 11:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amazon-accelerates-and-simplifies-its-cloud-infrastructure-offering/</guid>
+      <description>&lt;p&gt;Amazon Web Services continued to push its infrastructure offering forward on Wednesday with the launch of upgrades to its existing instance types &amp;hellip;  &lt;a href=&#34;http://www.pcworld.com/article/3146037/cloud-computing/amazon-accelerates-and-simplifies-its-cloud-infrastructure-offering.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcworld.com/article/3146037/cloud-computing/amazon-accelerates-and-simplifies-its-cloud-infrastructure-offering.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qualcomm Announces Intent to Support New Amazon Web Services Greengrass</title>
+      <link>//cloudfeed.net/post/qualcomm-announces-intent-to-support-new-amazon-web-services-greengrass/</link>
+      <pubDate>Wed, 30 Nov 2016 11:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/qualcomm-announces-intent-to-support-new-amazon-web-services-greengrass/</guid>
+      <description>&lt;p&gt;Broadway World LAS VEGAS, Nov. 30, 2016 /PRNewswire/ Qualcomm Incorporated (QCOM) today announced at AWS re:Invent 2016 that its subsidiary, Qualcomm &amp;hellip;  &lt;a href=&#34;http://www.broadwayworld.com/bwwgeeks/article/Qualcomm-Announces-Intent-to-Support-New-Amazon-Web-Services-Greengrass-Platform-20161130&#34; onclick=&#34;trackOutboundLink(&#39;http://www.broadwayworld.com/bwwgeeks/article/Qualcomm-Announces-Intent-to-Support-New-Amazon-Web-Services-Greengrass-Platform-20161130&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon debuts new AWS features: FPGA instances, Elastic GPUs, virtual</title>
@@ -95,18 +131,6 @@
     </item>
     
     <item>
-      <title>Qualcomm Announces Intent to Support New Amazon Web Services Greengrass</title>
-      <link>//cloudfeed.net/post/qualcomm-announces-intent-to-support-new-amazon-web-services-greengrass/</link>
-      <pubDate>Wed, 30 Nov 2016 07:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/qualcomm-announces-intent-to-support-new-amazon-web-services-greengrass/</guid>
-      <description>&lt;p&gt;Qualcomm Incorporated (NASDAQ: QCOM) today announced at AWS re:Invent 2016 that its subsidiary, Qualcomm Technologies, Inc., intends to &amp;hellip;  &lt;a href=&#34;https://www.qualcomm.com/news/releases/2016/11/30/qualcomm-announces-intent-support-new-amazon-web-services-greengrass&#34; onclick=&#34;trackOutboundLink(&#39;https://www.qualcomm.com/news/releases/2016/11/30/qualcomm-announces-intent-support-new-amazon-web-services-greengrass&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Amazon Web Services is aggressively courting financial services</title>
       <link>//cloudfeed.net/post/amazon-web-services-is-aggressively-courting-financial-services/</link>
       <pubDate>Wed, 30 Nov 2016 07:20:04 +0000</pubDate>
@@ -161,30 +185,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-announces-general-availability-of-azure-ad-access-panel/</guid>
       <description>&lt;p&gt;Microsoft recently announced the general availability of Azure AD Access Panel. Access Panel (MyApps) allows you to to launch your Azure AD &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-announces-general-availability-of-azure-ad-access-panel/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-announces-general-availability-of-azure-ad-access-panel/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>HPE, Microsoft expand collaboration to speed up hybrid cloud adoption</title>
-      <link>//cloudfeed.net/post/hpe-microsoft-expand-collaboration-to-speed-up-hybrid-cloud-adoption/</link>
-      <pubDate>Wed, 30 Nov 2016 03:00:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/hpe-microsoft-expand-collaboration-to-speed-up-hybrid-cloud-adoption/</guid>
-      <description>&lt;p&gt;Last year, the companies announced a collaboration to accelerate hybrid cloud computing through Microsoft Azure, HPE infrastructure and services &amp;hellip;  &lt;a href=&#34;http://www.cbronline.com/news/cloud/public/hpe-microsoft-expand-collaboration-to-speed-up-hybrid-cloud-adoption/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/cloud/public/hpe-microsoft-expand-collaboration-to-speed-up-hybrid-cloud-adoption/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cloud Foundry Welcomes SUSE as Platinum Member</title>
-      <link>//cloudfeed.net/post/cloud-foundry-welcomes-suse-as-platinum-member/</link>
-      <pubDate>Wed, 30 Nov 2016 02:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/cloud-foundry-welcomes-suse-as-platinum-member/</guid>
-      <description>&lt;p&gt;&amp;hellip; choice of cloud &amp;ndash; Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), OpenStack, VMware vSphere, SoftLayer and more.  &lt;a href=&#34;http://www.einnews.com/pr_news/356046909/cloud-foundry-welcomes-suse-as-platinum-member&#34; onclick=&#34;trackOutboundLink(&#39;http://www.einnews.com/pr_news/356046909/cloud-foundry-welcomes-suse-as-platinum-member&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
