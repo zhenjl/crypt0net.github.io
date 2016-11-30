@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 30 Nov 2016 00:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2016 01:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data integration in the Internet of Thin...</title>
+      <link>//cloudfeed.net/post/data-integration-in-the-internet-of-thin/</link>
+      <pubDate>Wed, 30 Nov 2016 01:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/data-integration-in-the-internet-of-thin/</guid>
+      <description>&lt;p&gt;The Industrial Internet of Things (IIoT) is creating a fundamental shift in advanced energy production and distribution technology, management and &amp;hellip;  &lt;a href=&#34;https://www.metering.com/magazine_articles/data-integration-internet-things/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.metering.com/magazine_articles/data-integration-internet-things/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Using MQTT with The Things Network</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/implication-of-the-internet-of-things-on-consumer-banking/</guid>
       <description>&lt;p&gt;The Internet of Things, or Internet of Everything as it is also known, will be worth an estimated $14.4 trillion by 2022 (according to a 2015 Cisco Report) &amp;hellip;  &lt;a href=&#34;http://www.bobsguide.com/guide/news/2016/Nov/29/implication-of-the-internet-of-things-on-consumer-banking/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bobsguide.com/guide/news/2016/Nov/29/implication-of-the-internet-of-things-on-consumer-banking/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Intel Nabs ARM Exec To Oversee Internet of Things Unit</title>
-      <link>//cloudfeed.net/post/intel-nabs-arm-exec-to-oversee-internet-of-things-unit/</link>
-      <pubDate>Tue, 29 Nov 2016 20:10:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/intel-nabs-arm-exec-to-oversee-internet-of-things-unit/</guid>
-      <description>&lt;p&gt;Lantzsch, who had been at ARM since 2006, will join Intel in January as a senior vice president and general manager of the Internet of things unit, &amp;hellip;  &lt;a href=&#34;http://fortune.com/2016/11/29/intel-arm-internet-of-things/&#34; onclick=&#34;trackOutboundLink(&#39;http://fortune.com/2016/11/29/intel-arm-internet-of-things/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
