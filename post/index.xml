@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 29 Nov 2016 22:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2016 22:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Factors to Consider When Evaluating OpenStack for Your Cloud Platform</title>
+      <link>//cloudfeed.net/post/factors-to-consider-when-evaluating-openstack-for-your-cloud-platform/</link>
+      <pubDate>Tue, 29 Nov 2016 22:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/factors-to-consider-when-evaluating-openstack-for-your-cloud-platform/</guid>
+      <description>&lt;p&gt;OpenStack is emerging as the go-to cloud platform for many companies, due in large part to its open, flexible architecture. But running OpenStack &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/slideshows/8-considerations-worth-noting-when-choosing-openstack-for-your-cloud.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/slideshows/8-considerations-worth-noting-when-choosing-openstack-for-your-cloud.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tableau goes with Amazon Web Services for new expansion into public cloud</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/theres-now-an-amazon-dash-button-that-tracks-how-often-you-poo--but-its/</guid>
       <description>&lt;p&gt;Wired.co.uk &amp;ldquo;It&amp;rsquo;s actually using the Internet of Things for things that help people,&amp;rdquo; he says. &amp;ldquo;There&amp;rsquo;s not enough of that around. There&amp;rsquo;s no reason why, with a small &amp;hellip;  &lt;a href=&#34;http://www.wired.co.uk/article/amazon-dash-hack-poo-button-internet-of-things&#34; onclick=&#34;trackOutboundLink(&#39;http://www.wired.co.uk/article/amazon-dash-hack-poo-button-internet-of-things&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Two Hackers Appear To Have Created a New Massive Internet of Things Botnet</title>
-      <link>//cloudfeed.net/post/two-hackers-appear-to-have-created-a-new-massive-internet-of-things-botnet/</link>
-      <pubDate>Tue, 29 Nov 2016 20:10:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/two-hackers-appear-to-have-created-a-new-massive-internet-of-things-botnet/</guid>
-      <description>&lt;p&gt;Two hackers appear to have created a new powerful zombie army of hacked Internet of Things devices with a modified version of the infamous &amp;hellip;  &lt;a href=&#34;http://motherboard.vice.com/read/two-hackers-new-mirai-internet-of-things-botnet-deutsche-telekom&#34; onclick=&#34;trackOutboundLink(&#39;http://motherboard.vice.com/read/two-hackers-new-mirai-internet-of-things-botnet-deutsche-telekom&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
