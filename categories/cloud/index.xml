@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 30 Nov 2016 09:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2016 10:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon debuts new AWS features: FPGA instances, Elastic GPUs, virtual</title>
+      <link>//cloudfeed.net/post/amazon-debuts-new-aws-features-fpga-instances-elastic-gpus-virtual/</link>
+      <pubDate>Wed, 30 Nov 2016 10:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amazon-debuts-new-aws-features-fpga-instances-elastic-gpus-virtual/</guid>
+      <description>&lt;p&gt;GeekWire Here AWS appears to be playing catch-up with Microsoft Azure, which introduced FPGAs in October. In between the two extremes, AWS introduced a &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2016/amazon-debuts-new-aws-features-fpga-instances-elastic-gpus-virtual-private-servers/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2016/amazon-debuts-new-aws-features-fpga-instances-elastic-gpus-virtual-private-servers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Actifio OnVault Helps Enterprise Customers Move Faster to Amazon Web</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/cloud-foundry-welcomes-suse-as-platinum-member/</guid>
       <description>&lt;p&gt;&amp;hellip; choice of cloud &amp;ndash; Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), OpenStack, VMware vSphere, SoftLayer and more.  &lt;a href=&#34;http://www.einnews.com/pr_news/356046909/cloud-foundry-welcomes-suse-as-platinum-member&#34; onclick=&#34;trackOutboundLink(&#39;http://www.einnews.com/pr_news/356046909/cloud-foundry-welcomes-suse-as-platinum-member&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Liquidware Labs adds support for Amazon WorkSpaces</title>
-      <link>//cloudfeed.net/post/liquidware-labs-adds-support-for-amazon-workspaces/</link>
-      <pubDate>Wed, 30 Nov 2016 02:10:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/liquidware-labs-adds-support-for-amazon-workspaces/</guid>
-      <description>&lt;p&gt;release) (registration) (blog) &amp;hellip; and XenDesktop, VMware Horizon running on premises (local datacenter) or in any cloud such as Amazon AWS, Microsoft Azure, or Google Cloud.  &lt;a href=&#34;http://www.ervik.as/liquidware-labs-adds-support-amazon-workspaces/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ervik.as/liquidware-labs-adds-support-amazon-workspaces/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
