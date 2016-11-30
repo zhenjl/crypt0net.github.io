@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 30 Nov 2016 04:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2016 05:20:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft announces general availability of Azure AD Access Panel</title>
+      <link>//cloudfeed.net/post/microsoft-announces-general-availability-of-azure-ad-access-panel/</link>
+      <pubDate>Wed, 30 Nov 2016 05:20:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-announces-general-availability-of-azure-ad-access-panel/</guid>
+      <description>&lt;p&gt;Microsoft recently announced the general availability of Azure AD Access Panel. Access Panel (MyApps) allows you to to launch your Azure AD &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-announces-general-availability-of-azure-ad-access-panel/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-announces-general-availability-of-azure-ad-access-panel/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Qualcomm Announces Intent to Support New Amazon Web Services Greengrass</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/factors-to-consider-when-evaluating-openstack-for-your-cloud-platform/</guid>
       <description>&lt;p&gt;OpenStack is emerging as the go-to cloud platform for many companies, due in large part to its open, flexible architecture. But running OpenStack &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/slideshows/8-considerations-worth-noting-when-choosing-openstack-for-your-cloud.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/slideshows/8-considerations-worth-noting-when-choosing-openstack-for-your-cloud.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Swimming with the shark: Can startups stay alive with Amazon eating the</title>
-      <link>//cloudfeed.net/post/swimming-with-the-shark-can-startups-stay-alive-with-amazon-eating-the/</link>
-      <pubDate>Tue, 29 Nov 2016 21:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/swimming-with-the-shark-can-startups-stay-alive-with-amazon-eating-the/</guid>
-      <description>&lt;p&gt;SiliconANGLE (blog) Amazon Web Services provides practically everything a company needs to run their applications. Which begs the question: Why wouldn&amp;rsquo;t the startups&amp;rsquo; &amp;hellip;  &lt;a href=&#34;http://siliconangle.com/blog/2016/11/29/swimming-shark-can-startups-stay-alive-amazon-eating-world-reinvent/&#34; onclick=&#34;trackOutboundLink(&#39;http://siliconangle.com/blog/2016/11/29/swimming-shark-can-startups-stay-alive-amazon-eating-world-reinvent/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
