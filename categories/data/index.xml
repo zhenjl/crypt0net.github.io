@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 00:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 01:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using AI to Clean Up Big Data</title>
+      <link>//cloudfeed.net/post/using-ai-to-clean-up-big-data/</link>
+      <pubDate>Thu, 01 Dec 2016 01:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/using-ai-to-clean-up-big-data/</guid>
+      <description>&lt;p&gt;Adi Gaskell talks about the challenge of cleansing data and how software, like ActiveClean, uses prediction models that are used with the cleaning &amp;hellip;  &lt;a href=&#34;https://dzone.com/articles/using-ai-to-clean-up-big-data&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/using-ai-to-clean-up-big-data&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>France struggles to balance privacy with big data</title>
@@ -273,18 +285,6 @@
       
       <guid>//cloudfeed.net/post/sparse-vs-dense-document-values-with-apache-lucene/</guid>
       <description>&lt;p&gt;Recently Elastic has made some big changes to Apache Lucene around how doc values are indexed and searched, including new nightly &amp;hellip;  &lt;a href=&#34;https://dzone.com/articles/sparse-versus-dense-document-values-with-apache-lu&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/sparse-versus-dense-document-values-with-apache-lu&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The future of Big Data  an iPolitics live event</title>
-      <link>//cloudfeed.net/post/the-future-of-big-data--an-ipolitics-live-event/</link>
-      <pubDate>Wed, 30 Nov 2016 15:40:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/the-future-of-big-data--an-ipolitics-live-event/</guid>
-      <description>&lt;p&gt;Data enthusiasts gathered at the Westin in Ottawa Wednesday morning for a series of panel sessions on &amp;lsquo;big data&amp;rsquo; and innovation. Anthony &amp;hellip;  &lt;a href=&#34;https://ipolitics.ca/2016/11/30/the-future-of-big-data-an-ipolitics-live-event/&#34; onclick=&#34;trackOutboundLink(&#39;https://ipolitics.ca/2016/11/30/the-future-of-big-data-an-ipolitics-live-event/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
 </description>

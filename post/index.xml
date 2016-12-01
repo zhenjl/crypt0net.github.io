@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 01:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 01:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using AI to Clean Up Big Data</title>
+      <link>//cloudfeed.net/post/using-ai-to-clean-up-big-data/</link>
+      <pubDate>Thu, 01 Dec 2016 01:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/using-ai-to-clean-up-big-data/</guid>
+      <description>&lt;p&gt;Adi Gaskell talks about the challenge of cleansing data and how software, like ActiveClean, uses prediction models that are used with the cleaning &amp;hellip;  &lt;a href=&#34;https://dzone.com/articles/using-ai-to-clean-up-big-data&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/using-ai-to-clean-up-big-data&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Here&#39;s what your hardware needs for the AWS Greengrass IoT service</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/amd-radeon-technology-will-be-available-on-google-cloud-platform-in-2017/</guid>
       <description>&lt;p&gt;The adoption of AMD GPU technology in Google Cloud Platform is a validation of the progress AMD has made in GPU hardware and our Radeon &amp;hellip;  &lt;a href=&#34;http://satprnews.com/2016/12/01/amd-radeon-technology-will-be-available-on-google-cloud-platform-in-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://satprnews.com/2016/12/01/amd-radeon-technology-will-be-available-on-google-cloud-platform-in-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services Unveils New Initiatives</title>
-      <link>//cloudfeed.net/post/amazon-web-services-unveils-new-initiatives/</link>
-      <pubDate>Wed, 30 Nov 2016 22:50:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-web-services-unveils-new-initiatives/</guid>
-      <description>&lt;p&gt;Amazon Web Services (AWS) is creating several new initiatives. It launched three programsthe AWS Service Delivery Program, the APN (AWS &amp;hellip;  &lt;a href=&#34;http://newsbreaks.infotoday.com/Digest/Amazon-Web-Services-Unveils-New-Initiatives-115076.asp&#34; onclick=&#34;trackOutboundLink(&#39;http://newsbreaks.infotoday.com/Digest/Amazon-Web-Services-Unveils-New-Initiatives-115076.asp&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
