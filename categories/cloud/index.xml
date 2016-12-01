@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 30 Nov 2016 17:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2016 17:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon is bringing Alexa&#39;s brainpower to its cloud business</title>
+      <link>//cloudfeed.net/post/amazon-is-bringing-alexas-brainpower-to-its-cloud-business/</link>
+      <pubDate>Wed, 30 Nov 2016 17:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amazon-is-bringing-alexas-brainpower-to-its-cloud-business/</guid>
+      <description>&lt;p&gt;Today, Amazon announced three new artificial intelligence tools for developers that use Amazon Web Services, the company&amp;rsquo;s cloud division.  &lt;a href=&#34;http://www.recode.net/2016/11/30/13800184/amazon-web-services-ai-cloud-alexa-artificial-intelligence-voice&#34; onclick=&#34;trackOutboundLink(&#39;http://www.recode.net/2016/11/30/13800184/amazon-web-services-ai-cloud-alexa-artificial-intelligence-voice&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS comes out swinging with AI services</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/competition-heats-up-among-amazon-aws-cloud-rivals-microsoft-and-google-/</guid>
       <description>&lt;p&gt;SiliconANGLE (blog) He highlighted the way in which Microsoft&amp;rsquo;s Azure provided new customers with complimentary cloud architecture services, to help [them] really get &amp;hellip;  &lt;a href=&#34;http://siliconangle.com/blog/2016/11/29/competition-heats-cloud-providers-reinvent/&#34; onclick=&#34;trackOutboundLink(&#39;http://siliconangle.com/blog/2016/11/29/competition-heats-cloud-providers-reinvent/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AWS Extends Amazon Aurora with PostgreSQL Compatibility</title>
-      <link>//cloudfeed.net/post/aws-extends-amazon-aurora-with-postgresql-compatibility/</link>
-      <pubDate>Wed, 30 Nov 2016 11:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/aws-extends-amazon-aurora-with-postgresql-compatibility/</guid>
-      <description>&lt;p&gt;Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (AMZN), announced it has added full PostgreSQL compatibility &amp;hellip;  &lt;a href=&#34;http://sports.yahoo.com/news/aws-extends-amazon-aurora-postgresql-184000445.html&#34; onclick=&#34;trackOutboundLink(&#39;http://sports.yahoo.com/news/aws-extends-amazon-aurora-postgresql-184000445.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
