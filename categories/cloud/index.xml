@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 06:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 07:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure Site Recovery now supports Windows Server 2016</title>
+      <link>//cloudfeed.net/post/microsoft-azure-site-recovery-now-supports-windows-server-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 07:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-azure-site-recovery-now-supports-windows-server-2016/</guid>
+      <description>&lt;p&gt;On September 26, 2016, at the Ignite conference in Atlanta, Microsoft launched the newest release of the server operating system  Windows Server &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/microsoft-azure-site-recovery-now-supports-windows-server-2016/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/microsoft-azure-site-recovery-now-supports-windows-server-2016/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>London&#39;s Metropolitan Police Service starts testing body cameras connected</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/get-an-objects-encryption-information/</guid>
       <description>&lt;p&gt;request does not include an XML document in the request body.  &lt;a href=&#34;https://cloud.google.com/storage/docs/xml-api/get-object-encryption&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/storage/docs/xml-api/get-object-encryption&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft to lift and shift StorSimple data into Azure blobs</title>
-      <link>//cloudfeed.net/post/microsoft-to-lift-and-shift-storsimple-data-into-azure-blobs/</link>
-      <pubDate>Thu, 01 Dec 2016 00:20:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-to-lift-and-shift-storsimple-data-into-azure-blobs/</guid>
-      <description>&lt;p&gt;Microsoft&amp;rsquo;s ambition to paint the enterprise azure is accelerating, with the news that Redmond&amp;rsquo;s StorSimple arrays will be able to convert the data they &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/12/01/storesimple_data_transformation/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/12/01/storesimple_data_transformation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
