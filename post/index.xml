@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 04:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 04:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Log Aggregation Capabilities and Performance: Part I</title>
+      <link>//cloudfeed.net/post/log-aggregation-capabilities-and-performance-part-i/</link>
+      <pubDate>Thu, 01 Dec 2016 04:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/log-aggregation-capabilities-and-performance-part-i/</guid>
+      <description>&lt;p&gt;Here is a very in-depth comparison of Log Aggregation comparing using a parallel disk-based message queue like Kafka vs an in-memory data store &amp;hellip;  &lt;a href=&#34;https://dzone.com/articles/log-aggregation-capabilities-and-performance&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/log-aggregation-capabilities-and-performance&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinvent your business with Big Data insights</title>
+      <link>//cloudfeed.net/post/reinvent-your-business-with-big-data-insights/</link>
+      <pubDate>Thu, 01 Dec 2016 04:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/reinvent-your-business-with-big-data-insights/</guid>
+      <description>&lt;p&gt;It has been 15 years since the term big data became mainstream and about six years since it went viral. Still, C-suite executives struggle with &amp;hellip;  &lt;a href=&#34;http://www.businessinsider.in/Reinvent-your-business-with-Big-Data-insights/articleshow/55725234.cms&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businessinsider.in/Reinvent-your-business-with-Big-Data-insights/articleshow/55725234.cms&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS stays on 2016 trend with AI product push</title>
@@ -67,18 +91,6 @@
       <description>&lt;p&gt;More data does not mean robust data or better results. But the ability to &amp;hellip;  &lt;a href=&#34;http://www.saksoft.com/so-how-big-is-big-data/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.saksoft.com/so-how-big-is-big-data/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Log Aggregation Capabilities and Performance: Part I</title>
-      <link>//cloudfeed.net/post/log-aggregation-capabilities-and-performance-part-i/</link>
-      <pubDate>Thu, 01 Dec 2016 03:10:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/log-aggregation-capabilities-and-performance-part-i/</guid>
-      <description>&lt;p&gt;Essentially, log management helps to integrate all logs for analysis. An important preliminary phase is log aggregation, which is the act of collecting &amp;hellip;  &lt;a href=&#34;https://dzone.com/articles/log-aggregation-capabilities-and-performance&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/log-aggregation-capabilities-and-performance&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/eseye-launch-breakthrough-in-iot-security-with-amazon-web-services/</guid>
       <description>&lt;p&gt;Eseye launch breakthrough in IoT security with Amazon Web Services &amp;hellip; Eseye and Amazon Web Services have today announced the launch of a &amp;hellip;  &lt;a href=&#34;http://pressreleases.responsesource.com/news/92144/eseye-launch-breakthrough-in-iot-security-with-amazon-web-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://pressreleases.responsesource.com/news/92144/eseye-launch-breakthrough-in-iot-security-with-amazon-web-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>London police test body cameras connected to Microsoft Azure</title>
-      <link>//cloudfeed.net/post/london-police-test-body-cameras-connected-to-microsoft-azure/</link>
-      <pubDate>Thu, 01 Dec 2016 02:00:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/london-police-test-body-cameras-connected-to-microsoft-azure/</guid>
-      <description>&lt;p&gt;Police forces across London have started using Microsoft&amp;rsquo;s Azure cloud service to store and review footage filmed on officer body cameras, known as &amp;hellip;  &lt;a href=&#34;https://www.telecompaper.com/news/london-police-test-body-cameras-connected-to-microsoft-azure--1174208&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/london-police-test-body-cameras-connected-to-microsoft-azure--1174208&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
