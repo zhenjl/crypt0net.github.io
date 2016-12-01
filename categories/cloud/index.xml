@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 12:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 12:40:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud Storage Now Part of the Unified Enterprise Cloud Storage API</title>
+      <link>//cloudfeed.net/post/google-cloud-storage-now-part-of-the-unified-enterprise-cloud-storage-api/</link>
+      <pubDate>Thu, 01 Dec 2016 12:40:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/google-cloud-storage-now-part-of-the-unified-enterprise-cloud-storage-api/</guid>
+      <description>&lt;p&gt;available in the recently launched Unified Cloud Storage API. The service &amp;hellip;  &lt;a href=&#34;https://cloudrail.com/google-cloud-storage-now-part-unified-enterprise-cloud-storage-api/&#34; onclick=&#34;trackOutboundLink(&#39;https://cloudrail.com/google-cloud-storage-now-part-unified-enterprise-cloud-storage-api/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Specter of Performance and the Adoption of Hybrid Clouds</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/leveraging-open-source-in-the-business-cloud/</guid>
       <description>&lt;p&gt;Take Google, many of its apps are based on microservices and containers, and the Google Cloud infrastructure is very well suited for this. As in-house &amp;hellip;  &lt;a href=&#34;https://thestack.com/cloud/2016/12/01/leveraging-open-source-in-the-business-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://thestack.com/cloud/2016/12/01/leveraging-open-source-in-the-business-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services meets the hybrid world</title>
-      <link>//cloudfeed.net/post/amazon-web-services-meets-the-hybrid-world/</link>
-      <pubDate>Thu, 01 Dec 2016 05:10:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-web-services-meets-the-hybrid-world/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s hard to ignore that in the IT world, Amazon is becoming a force of nature. The AWS cloud business, which has been on a trailing annual run rate &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/amazon-web-services-meets-the-hybrid-world/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/amazon-web-services-meets-the-hybrid-world/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
