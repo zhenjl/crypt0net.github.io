@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 30 Nov 2016 22:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 00:20:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft to lift and shift StorSimple data into Azure blobs</title>
+      <link>//cloudfeed.net/post/microsoft-to-lift-and-shift-storsimple-data-into-azure-blobs/</link>
+      <pubDate>Thu, 01 Dec 2016 00:20:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-to-lift-and-shift-storsimple-data-into-azure-blobs/</guid>
+      <description>&lt;p&gt;Microsoft&amp;rsquo;s ambition to paint the enterprise azure is accelerating, with the news that Redmond&amp;rsquo;s StorSimple arrays will be able to convert the data they &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/12/01/storesimple_data_transformation/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/12/01/storesimple_data_transformation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AMD Radeon Technology Will Be Available on Google Cloud Platform in 2017</title>
@@ -338,18 +350,6 @@
 
 &lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.recode.net/2016/11/30/13800184/amazon-web-services-ai-cloud-alexa-artificial-intelligence-voice&#39;&gt;Amazon is bringing Alexa&amp;rsquo;s brainpower to its cloud business&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Today, Amazon announced three new artificial intelligence tools for developers that use Amazon Web Services, the company&amp;rsquo;s cloud division. &lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon is bringing Alexa&#39;s brainpower to its cloud business</title>
-      <link>//cloudfeed.net/post/amazon-is-bringing-alexas-brainpower-to-its-cloud-business/</link>
-      <pubDate>Wed, 30 Nov 2016 17:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-is-bringing-alexas-brainpower-to-its-cloud-business/</guid>
-      <description>&lt;p&gt;Today, Amazon announced three new artificial intelligence tools for developers that use Amazon Web Services, the company&amp;rsquo;s cloud division.  &lt;a href=&#34;http://www.recode.net/2016/11/30/13800184/amazon-web-services-ai-cloud-alexa-artificial-intelligence-voice&#34; onclick=&#34;trackOutboundLink(&#39;http://www.recode.net/2016/11/30/13800184/amazon-web-services-ai-cloud-alexa-artificial-intelligence-voice&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
