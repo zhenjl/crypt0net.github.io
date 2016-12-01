@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 03:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 03:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Log Aggregation Capabilities and Performance: Part I</title>
+      <link>//cloudfeed.net/post/log-aggregation-capabilities-and-performance-part-i/</link>
+      <pubDate>Thu, 01 Dec 2016 03:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/log-aggregation-capabilities-and-performance-part-i/</guid>
+      <description>&lt;p&gt;Essentially, log management helps to integrate all logs for analysis. An important preliminary phase is log aggregation, which is the act of collecting &amp;hellip;  &lt;a href=&#34;https://dzone.com/articles/log-aggregation-capabilities-and-performance&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/log-aggregation-capabilities-and-performance&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IBM Eyes Blockchain Trade Finance In India</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/deploying-plesk-onyx-on-microsoft-windows-azure/</guid>
       <description>&lt;p&gt;by joergPosted on November 30, 2016. Cloud computing provides &amp;hellip;  &lt;a href=&#34;https://www.plesk.com/2016/11/30/deploying-plesk-onyx-microsoft-windows-azure/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.plesk.com/2016/11/30/deploying-plesk-onyx-microsoft-windows-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Get an Object&#39;s Encryption Information</title>
-      <link>//cloudfeed.net/post/get-an-objects-encryption-information/</link>
-      <pubDate>Thu, 01 Dec 2016 01:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/get-an-objects-encryption-information/</guid>
-      <description>&lt;p&gt;request does not include an XML document in the request body.  &lt;a href=&#34;https://cloud.google.com/storage/docs/xml-api/get-object-encryption&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/storage/docs/xml-api/get-object-encryption&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
