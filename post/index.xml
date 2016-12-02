@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 18:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 19:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Integrated Vulnerability Assessment with Azure Security Center</title>
+      <link>//cloudfeed.net/post/integrated-vulnerability-assessment-with-azure-security-center/</link>
+      <pubDate>Thu, 01 Dec 2016 19:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/integrated-vulnerability-assessment-with-azure-security-center/</guid>
+      <description>&lt;p&gt;integrated vulnerability assessment with Qualys cloud agents (preview) as &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/integrated-vulnerability-assessment-with-azure-security-center/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/integrated-vulnerability-assessment-with-azure-security-center/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Web Services expands internet of things suite with GreenGrass</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;gapic-google-cloud-logging-v2 uses google-gax (Google API extensions) to provide an easy-to-use &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/gapic-google-cloud-logging-v2/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/gapic-google-cloud-logging-v2/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hacker Gets 4 Years in Prison for Selling Stolen Bank Accounts on the Dark</title>
-      <link>//cloudfeed.net/post/hacker-gets-4-years-in-prison-for-selling-stolen-bank-accounts-on-the-dark/</link>
-      <pubDate>Thu, 01 Dec 2016 16:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/hacker-gets-4-years-in-prison-for-selling-stolen-bank-accounts-on-the-dark/</guid>
-      <description>&lt;p&gt;BleepingComputer &amp;hellip; charges, on two separate occasions, in March and April 2016, an undercover FBI agent bought stolen credentials from Glende, paying in Bitcoin.  &lt;a href=&#34;https://www.bleepingcomputer.com/news/security/hacker-gets-4-years-in-prison-for-selling-stolen-bank-accounts-on-the-dark-web/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.bleepingcomputer.com/news/security/hacker-gets-4-years-in-prison-for-selling-stolen-bank-accounts-on-the-dark-web/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

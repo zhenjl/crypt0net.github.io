@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 18:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 19:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Integrated Vulnerability Assessment with Azure Security Center</title>
+      <link>//cloudfeed.net/post/integrated-vulnerability-assessment-with-azure-security-center/</link>
+      <pubDate>Thu, 01 Dec 2016 19:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/integrated-vulnerability-assessment-with-azure-security-center/</guid>
+      <description>&lt;p&gt;integrated vulnerability assessment with Qualys cloud agents (preview) as &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/integrated-vulnerability-assessment-with-azure-security-center/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/integrated-vulnerability-assessment-with-azure-security-center/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Web Services expands internet of things suite with GreenGrass</title>
@@ -357,18 +369,6 @@
       
       <guid>//cloudfeed.net/post/amazon-web-services-releases-3-artificial-intelligence-tools-to-the-public/</guid>
       <description>&lt;p&gt;Machine-learning is already starting to reinvent modern business, and the technology is poised for massive growth and development over the next few &amp;hellip;  &lt;a href=&#34;http://www.businessnewsdaily.com/9604-amazon-artificial-intelligence-tools.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businessnewsdaily.com/9604-amazon-artificial-intelligence-tools.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon, Facebook &#39;Server-Side Optics&#39; Good For Lumentum, Finisar</title>
-      <link>//cloudfeed.net/post/amazon-facebook-serverside-optics-good-for-lumentum-finisar/</link>
-      <pubDate>Thu, 01 Dec 2016 14:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-facebook-serverside-optics-good-for-lumentum-finisar/</guid>
-      <description>&lt;p&gt;Now, Amazon Web Services, the cloud business of Amazon, as well as Facebook and Microsoft (MSFT) aim to speed up communications by putting &amp;hellip;  &lt;a href=&#34;http://www.investors.com/news/technology/amazon-facebook-server-side-optics-good-for-lumentum-finisar/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.investors.com/news/technology/amazon-facebook-server-side-optics-good-for-lumentum-finisar/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
