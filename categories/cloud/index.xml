@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Dec 2016 10:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Dec 2016 11:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Docker issue with Hyper-V, vCloud</title>
+      <link>//cloudfeed.net/post/docker-issue-with-hyperv-vcloud/</link>
+      <pubDate>Fri, 02 Dec 2016 11:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/docker-issue-with-hyperv-vcloud/</guid>
+      <description>&lt;p&gt;virtualization is exposed. Output of docker version : Client: Version: 1.13.0-dev &amp;hellip;  &lt;a href=&#34;https://github.com/docker/docker/issues/29079&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/docker/docker/issues/29079&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS shoots for total cloud domination</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-connect-on-diversity-of-platforms-code-and-humans/</guid>
       <description>&lt;p&gt;Azure App Service on Linux  Microsoft&amp;rsquo;s Azure PaaS supported .NET and Java but previously only on Windows. About a month ago Microsoft App &amp;hellip;  &lt;a href=&#34;https://www.enterpriseirregulars.com/111734/microsoft-connect-diversity-platforms-code-humans/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.enterpriseirregulars.com/111734/microsoft-connect-diversity-platforms-code-humans/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Media Advisory: Juniper Networks Reinforces Leadership in Openness and</title>
-      <link>//cloudfeed.net/post/media-advisory-juniper-networks-reinforces-leadership-in-openness-and/</link>
-      <pubDate>Thu, 01 Dec 2016 23:10:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/media-advisory-juniper-networks-reinforces-leadership-in-openness-and/</guid>
-      <description>&lt;p&gt;Satellite PR News (press release) This event is one of the most significant gatherings of IT leaders, telco operators, cloud administrators, app developers and OpenStack contributors &amp;hellip;  &lt;a href=&#34;http://satprnews.com/2016/12/02/media-advisory-juniper-networks-reinforces-leadership-in-openness-and-integration-at-openstack-barcelona-2016/&#34; onclick=&#34;trackOutboundLink(&#39;http://satprnews.com/2016/12/02/media-advisory-juniper-networks-reinforces-leadership-in-openness-and-integration-at-openstack-barcelona-2016/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
