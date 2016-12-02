@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 21:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 21:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ADVA Makes Anti-Appliance SD-WAN Play</title>
+      <link>//cloudfeed.net/post/adva-makes-antiappliance-sdwan-play/</link>
+      <pubDate>Thu, 01 Dec 2016 21:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/adva-makes-antiappliance-sdwan-play/</guid>
+      <description>&lt;p&gt;The last major piece is Ensemble Embedded Cloud, which provides a collocated cloud controller in each remote compute node, based on OpenStack.  &lt;a href=&#34;http://www.lightreading.com/carrier-sdn/sd-wan/adva-makes-anti-appliance-sd-wan-play-/d/d-id/728692&#34; onclick=&#34;trackOutboundLink(&#39;http://www.lightreading.com/carrier-sdn/sd-wan/adva-makes-anti-appliance-sd-wan-play-/d/d-id/728692&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SUSE Ends Up with OpenStack from HPE</title>
+      <link>//cloudfeed.net/post/suse-ends-up-with-openstack-from-hpe/</link>
+      <pubDate>Thu, 01 Dec 2016 21:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/suse-ends-up-with-openstack-from-hpe/</guid>
+      <description>&lt;p&gt;HPE made a commitment to maintain the presence of OpenStack last July, but may not be holding true to this commitment anymore. The SUSE &amp;hellip;  &lt;a href=&#34;http://www.thehostingnews.com/suse-ends-up-with-openstack-from-hpe.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thehostingnews.com/suse-ends-up-with-openstack-from-hpe.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon.com Inc.: This Move Could Be Huge for AMZN Stock</title>
@@ -345,30 +369,6 @@
       
       <guid>//cloudfeed.net/post/posture-recognition-with-kinect-azure-iot-ml-and-webvr/</guid>
       <description>&lt;p&gt;Today&amp;rsquo;s project is from the awesome Microsoft community on hackster.io and while includes complete instructions and parts list, is for the advanced &amp;hellip;  &lt;a href=&#34;https://channel9.msdn.com/coding4fun/kinect/Posture-Recognition-with-Kinect-Azure-IoT-ML-and-WebVR&#34; onclick=&#34;trackOutboundLink(&#39;https://channel9.msdn.com/coding4fun/kinect/Posture-Recognition-with-Kinect-Azure-IoT-ML-and-WebVR&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon offers DDoS Protection with Shield</title>
-      <link>//cloudfeed.net/post/amazon-offers-ddos-protection-with-shield/</link>
-      <pubDate>Thu, 01 Dec 2016 16:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-offers-ddos-protection-with-shield/</guid>
-      <description>&lt;p&gt;What Amazon brings to the DDoS battle-line is the sheer scale of Amazon Web Services (AWS). This family of services makes up the world&amp;rsquo;s largest &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/amazon-offers-ddos-protection-with-shield/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/amazon-offers-ddos-protection-with-shield/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>gapic-google-cloud-logging-v2 0.14.0</title>
-      <link>//cloudfeed.net/post/gapicgooglecloudloggingv2-0140/</link>
-      <pubDate>Thu, 01 Dec 2016 16:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/gapicgooglecloudloggingv2-0140/</guid>
-      <description>&lt;p&gt;gapic-google-cloud-logging-v2 uses google-gax (Google API extensions) to provide an easy-to-use &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/gapic-google-cloud-logging-v2/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/gapic-google-cloud-logging-v2/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
