@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 15:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 16:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon offers DDoS Protection with Shield</title>
+      <link>//cloudfeed.net/post/amazon-offers-ddos-protection-with-shield/</link>
+      <pubDate>Thu, 01 Dec 2016 16:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amazon-offers-ddos-protection-with-shield/</guid>
+      <description>&lt;p&gt;What Amazon brings to the DDoS battle-line is the sheer scale of Amazon Web Services (AWS). This family of services makes up the world&amp;rsquo;s largest &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/amazon-offers-ddos-protection-with-shield/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/amazon-offers-ddos-protection-with-shield/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>gapic-google-cloud-logging-v2 0.14.0</title>
+      <link>//cloudfeed.net/post/gapicgooglecloudloggingv2-0140/</link>
+      <pubDate>Thu, 01 Dec 2016 16:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/gapicgooglecloudloggingv2-0140/</guid>
+      <description>&lt;p&gt;gapic-google-cloud-logging-v2 uses google-gax (Google API extensions) to provide an easy-to-use &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/gapic-google-cloud-logging-v2/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/gapic-google-cloud-logging-v2/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Seamless security: the rallying cry of Amazon Web Services</title>
@@ -161,30 +185,6 @@
       
       <guid>//cloudfeed.net/post/edico-genome-uses-amazon-web-services-to-achieve-realtime-genomic/</guid>
       <description>&lt;p&gt;IT Business Net SAN DIEGO, Nov. 30, 2016 /PRNewswire/ &amp;ndash;Edico Genome, creator of the world&amp;rsquo;s first bio-IT processor designed to analyze next-generation &amp;hellip;  &lt;a href=&#34;http://hardware.itbusinessnet.com/article/Edico-Genome-Uses-Amazon-Web-Services-to-Achieve-Real-Time-Genomic-Analysis-Provide-Scalable-and-Secure-Cloud-Based-Platform-4718349&#34; onclick=&#34;trackOutboundLink(&#39;http://hardware.itbusinessnet.com/article/Edico-Genome-Uses-Amazon-Web-Services-to-Achieve-Real-Time-Genomic-Analysis-Provide-Scalable-and-Secure-Cloud-Based-Platform-4718349&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Eseye and Amazon Web Services launch IoT security service</title>
-      <link>//cloudfeed.net/post/eseye-and-amazon-web-services-launch-iot-security-service/</link>
-      <pubDate>Thu, 01 Dec 2016 13:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/eseye-and-amazon-web-services-launch-iot-security-service/</guid>
-      <description>&lt;p&gt;Eseye and Amazon Web Services (AWS) have revealed what they are calling a breakthrough in Internet of Things (IoT) security: AnyNet Secure.  &lt;a href=&#34;http://www.pcr-online.biz/news/read/eseye-and-amazon-web-services-launch-iot-security-service/038920&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcr-online.biz/news/read/eseye-and-amazon-web-services-launch-iot-security-service/038920&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud Storage Now Part of the Unified Enterprise Cloud Storage API</title>
-      <link>//cloudfeed.net/post/google-cloud-storage-now-part-of-the-unified-enterprise-cloud-storage-api/</link>
-      <pubDate>Thu, 01 Dec 2016 12:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/google-cloud-storage-now-part-of-the-unified-enterprise-cloud-storage-api/</guid>
-      <description>&lt;p&gt;available in the recently launched Unified Cloud Storage API. The service &amp;hellip;  &lt;a href=&#34;https://cloudrail.com/google-cloud-storage-now-part-unified-enterprise-cloud-storage-api/&#34; onclick=&#34;trackOutboundLink(&#39;https://cloudrail.com/google-cloud-storage-now-part-unified-enterprise-cloud-storage-api/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
