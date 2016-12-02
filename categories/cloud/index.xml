@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 23:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 23:20:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Connect: On diversity of platforms, code and humans</title>
+      <link>//cloudfeed.net/post/microsoft-connect-on-diversity-of-platforms-code-and-humans/</link>
+      <pubDate>Thu, 01 Dec 2016 23:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-connect-on-diversity-of-platforms-code-and-humans/</guid>
+      <description>&lt;p&gt;Azure App Service on Linux  Microsoft&amp;rsquo;s Azure PaaS supported .NET and Java but previously only on Windows. About a month ago Microsoft App &amp;hellip;  &lt;a href=&#34;https://www.enterpriseirregulars.com/111734/microsoft-connect-diversity-platforms-code-humans/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.enterpriseirregulars.com/111734/microsoft-connect-diversity-platforms-code-humans/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Media Advisory: Juniper Networks Reinforces Leadership in Openness and</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/amazon-web-services-expands-internet-of-things-suite-with-greengrass/</guid>
       <description>&lt;p&gt;Amazon Web Services on Wednesday lifted the curtain on AWS GreenGrass, a new service it says will bring better compute capabilities for internet of &amp;hellip;  &lt;a href=&#34;http://www.crn.com.au/news/amazon-web-services-expands-internet-of-things-suite-with-greengrass-443244&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com.au/news/amazon-web-services-expands-internet-of-things-suite-with-greengrass-443244&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>grpc-google-cloud-logging-v2 0.14.0</title>
-      <link>//cloudfeed.net/post/grpcgooglecloudloggingv2-0140/</link>
-      <pubDate>Thu, 01 Dec 2016 18:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/grpcgooglecloudloggingv2-0140/</guid>
-      <description>&lt;p&gt;IDL-derived library for the logging (v2) service in the googleapis repository.  &lt;a href=&#34;https://pypi.python.org/pypi/grpc-google-cloud-logging-v2/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/grpc-google-cloud-logging-v2/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
