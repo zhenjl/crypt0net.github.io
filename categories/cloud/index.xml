@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 22:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 22:40:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon Lex lets users build their own chatbots</title>
+      <link>//cloudfeed.net/post/amazon-lex-lets-users-build-their-own-chatbots/</link>
+      <pubDate>Thu, 01 Dec 2016 22:40:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amazon-lex-lets-users-build-their-own-chatbots/</guid>
+      <description>&lt;p&gt;Amazon Web Services (AWS) is sharing the smarts behind its voice assistant Alexa so customers can bake the AI into their own applications.  &lt;a href=&#34;http://www.itpro.co.uk/business-intelligence/27689/amazon-lex-lets-users-build-their-own-chatbots&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itpro.co.uk/business-intelligence/27689/amazon-lex-lets-users-build-their-own-chatbots&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Beyond the Trial: Taking OpenStack into Production</title>
@@ -359,18 +371,6 @@
 
 &lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://news.fastcompany.com/to-fend-off-google-home-amazon-lends-alexa-and-other-ai-superpowers-to-app-developers-4026191&#39;&gt;To fend off Google Home, Amazon lends Alexa and other AI superpowers to app&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Fast Company &amp;hellip; Amazon struck back by opening its AI enginewhich of course includes Alexaso that other developers on Amazon Web Services can build smart, &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Met Police to store body video footage on Azure</title>
-      <link>//cloudfeed.net/post/met-police-to-store-body-video-footage-on-azure/</link>
-      <pubDate>Thu, 01 Dec 2016 18:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/met-police-to-store-body-video-footage-on-azure/</guid>
-      <description>&lt;p&gt;The Met has selected Microsoft Azure as we believe their UK data residency and transparency around secure data management offers both the public &amp;hellip;  &lt;a href=&#34;http://www.ukauthority.com/news/6710/met-police-to-store-body-video-footage-on-azure&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ukauthority.com/news/6710/met-police-to-store-body-video-footage-on-azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
