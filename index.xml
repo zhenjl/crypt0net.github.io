@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 18:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 18:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>grpc-google-cloud-logging-v2 0.14.0</title>
+      <link>//cloudfeed.net/post/grpcgooglecloudloggingv2-0140/</link>
+      <pubDate>Thu, 01 Dec 2016 18:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/grpcgooglecloudloggingv2-0140/</guid>
+      <description>&lt;p&gt;IDL-derived library for the logging (v2) service in the googleapis repository.  &lt;a href=&#34;https://pypi.python.org/pypi/grpc-google-cloud-logging-v2/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/grpc-google-cloud-logging-v2/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Worst Internet of Things Stocks of 2016</title>
@@ -552,18 +564,6 @@
       <description>&lt;p&gt;NewsMaker (press release) The Machine-to-Machine (M2M) Connections Hardware market provides detailed market segment level data on the international market.  &lt;a href=&#34;http://www.newsmaker.com.au/news/177986/machinetomachine-m2m-connections-hardware-market-research-size-share-trends-analysis-and-growth-forecast-by-regions-type-and-application-in-usa-2021&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newsmaker.com.au/news/177986/machinetomachine-m2m-connections-hardware-market-research-size-share-trends-analysis-and-growth-forecast-by-regions-type-and-application-in-usa-2021&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>gapic-google-cloud-logging-v2 0.14.0</title>
-      <link>//cloudfeed.net/post/gapicgooglecloudloggingv2-0140/</link>
-      <pubDate>Thu, 01 Dec 2016 16:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/gapicgooglecloudloggingv2-0140/</guid>
-      <description>&lt;p&gt;gapic-google-cloud-logging-v2 uses google-gax (Google API extensions) to provide an easy-to-use &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/gapic-google-cloud-logging-v2/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/gapic-google-cloud-logging-v2/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
