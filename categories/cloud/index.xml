@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Dec 2016 05:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Dec 2016 06:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Backup Adds Support for VMware</title>
+      <link>//cloudfeed.net/post/azure-backup-adds-support-for-vmware/</link>
+      <pubDate>Fri, 02 Dec 2016 06:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/azure-backup-adds-support-for-vmware/</guid>
+      <description>&lt;p&gt;Microsoft recently added support for protecting VMware virtual machines (VMs) using Azure Backup Server, and storing your backups of these VM in &amp;hellip;  &lt;a href=&#34;https://www.petri.com/azure-backup-adds-support-vmware&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/azure-backup-adds-support-vmware&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Readying New Smartphone Models for Late 2017, Reports Say</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/met-police-service-partners-with-azure-to-store-body-cam-footage/</guid>
       <description>&lt;p&gt;Millions of hours of footage captured by police officers&amp;rsquo; body cameras will be stored and reviewed on Microsoft&amp;rsquo;s Azure cloud service, in a partnership &amp;hellip;  &lt;a href=&#34;http://www.cloudpro.co.uk/cloud-essentials/private-cloud/6498/met-police-service-partners-with-azure-to-store-body-cam-footage&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cloudpro.co.uk/cloud-essentials/private-cloud/6498/met-police-service-partners-with-azure-to-store-body-cam-footage&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ADVA Makes Anti-Appliance SD-WAN Play</title>
-      <link>//cloudfeed.net/post/adva-makes-antiappliance-sdwan-play/</link>
-      <pubDate>Thu, 01 Dec 2016 21:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/adva-makes-antiappliance-sdwan-play/</guid>
-      <description>&lt;p&gt;The last major piece is Ensemble Embedded Cloud, which provides a collocated cloud controller in each remote compute node, based on OpenStack.  &lt;a href=&#34;http://www.lightreading.com/carrier-sdn/sd-wan/adva-makes-anti-appliance-sd-wan-play-/d/d-id/728692&#34; onclick=&#34;trackOutboundLink(&#39;http://www.lightreading.com/carrier-sdn/sd-wan/adva-makes-anti-appliance-sd-wan-play-/d/d-id/728692&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
