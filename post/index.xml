@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Dec 2016 18:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Dec 2016 18:10:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>I made my dumb appliances smarter with the Internet of Things</title>
+      <link>//cloudfeed.net/post/i-made-my-dumb-appliances-smarter-with-the-internet-of-things/</link>
+      <pubDate>Fri, 02 Dec 2016 18:10:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/i-made-my-dumb-appliances-smarter-with-the-internet-of-things/</guid>
+      <description>&lt;p&gt;My solution incorporates some elements of Navarro&amp;rsquo;s code, but I also wrote some of my own to take advantage of the lightweight, fault-tolerant MQTT &amp;hellip;  &lt;a href=&#34;http://techreport.com/blog/31056/i-made-my-dumb-appliances-smarter-with-the-internet-of-things&#34; onclick=&#34;trackOutboundLink(&#39;http://techreport.com/blog/31056/i-made-my-dumb-appliances-smarter-with-the-internet-of-things&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2017 Security Predictions  Stay Vigilant, We&#39;re in for a Wild Ride -</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;As we are all aware, data breaches have reached epidemic proportions globally and most CIOs are saying it&amp;rsquo;s not a matter of if we get breached but &amp;hellip;  &lt;a href=&#34;http://cybersecurity.cioreview.com/cxoinsight/what-cios-need-to-know-about-cyber-liability-insurance-nid-23461-cid-145.html&#34; onclick=&#34;trackOutboundLink(&#39;http://cybersecurity.cioreview.com/cxoinsight/what-cios-need-to-know-about-cyber-liability-insurance-nid-23461-cid-145.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>&#39;Gooligan&#39; Malware Infecting Android Devices Via App Downloads</title>
-      <link>//cloudfeed.net/post/gooligan-malware-infecting-android-devices-via-app-downloads/</link>
-      <pubDate>Fri, 02 Dec 2016 17:20:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/gooligan-malware-infecting-android-devices-via-app-downloads/</guid>
-      <description>&lt;p&gt;DAILY VIDEO: Microsoft Azure flaw posed RHEL hacking risk; Google &amp;hellip; DAILY VIDEO: Microsoft readying new mobile device push in 2017, reports &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/video/more-than-1-million-android-devices-infected-by-gooligan-trojan.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/video/more-than-1-million-android-devices-infected-by-gooligan-trojan.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
