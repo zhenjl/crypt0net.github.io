@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Dec 2016 16:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Dec 2016 17:00:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Barracuda Web Application Firewall Just Got More Affordable!</title>
+      <link>//cloudfeed.net/post/barracuda-web-application-firewall-just-got-more-affordable/</link>
+      <pubDate>Fri, 02 Dec 2016 17:00:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/barracuda-web-application-firewall-just-got-more-affordable/</guid>
+      <description>&lt;p&gt;Barracuda recently announced a new billing option for its Web Application Firewall that is available on the Amazon Web Services Marketplace.  &lt;a href=&#34;http://www.readitquik.com/news/cloud-2/barracuda-web-application-firewall-just-got-more-affordable/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.readitquik.com/news/cloud-2/barracuda-web-application-firewall-just-got-more-affordable/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Workday eyes supply chains and big data as it grows Q3 revenue 34%</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-azure-import--export--working-with-fips-and-other-security/</guid>
       <description>&lt;p&gt;DABCC.com I was recently working with one of our government customers that wanted to make use of a newer offering: Azure Import/Export. Now I know what &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/microsoft-azure-import-export-working-with-fips-and-other-security-controls/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/microsoft-azure-import-export-working-with-fips-and-other-security-controls/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft: Integrated Vulnerability Assessment with Azure Security Center</title>
-      <link>//cloudfeed.net/post/microsoft-integrated-vulnerability-assessment-with-azure-security-center/</link>
-      <pubDate>Fri, 02 Dec 2016 15:00:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-integrated-vulnerability-assessment-with-azure-security-center/</guid>
-      <description>&lt;p&gt;Vulnerability management is a critical part of an organization&amp;rsquo;s security and compliance strategy. Security flaws are constantly being discovered and &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/microsoft-integrated-vulnerability-assessment-with-azure-security-center/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/microsoft-integrated-vulnerability-assessment-with-azure-security-center/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
