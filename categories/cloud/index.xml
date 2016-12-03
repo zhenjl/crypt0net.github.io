@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Dec 2016 17:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Dec 2016 17:20:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>&#39;Gooligan&#39; Malware Infecting Android Devices Via App Downloads</title>
+      <link>//cloudfeed.net/post/gooligan-malware-infecting-android-devices-via-app-downloads/</link>
+      <pubDate>Fri, 02 Dec 2016 17:20:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/gooligan-malware-infecting-android-devices-via-app-downloads/</guid>
+      <description>&lt;p&gt;DAILY VIDEO: Microsoft Azure flaw posed RHEL hacking risk; Google &amp;hellip; DAILY VIDEO: Microsoft readying new mobile device push in 2017, reports &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/video/more-than-1-million-android-devices-infected-by-gooligan-trojan.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/video/more-than-1-million-android-devices-infected-by-gooligan-trojan.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Barracuda Web Application Firewall Just Got More Affordable!</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/containing-costs-how-publishers-can-save-money-on-abr-encoding/</guid>
       <description>&lt;p&gt;This is shown in Figure 2, from the Microsoft Azure website. &amp;hellip; ABR packaging from a single set of encoded files (Image from Microsoft Azure website).  &lt;a href=&#34;http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Containing-Costs-How-Publishers-Can-Save-Money-on-ABR-Encoding-115120.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Containing-Costs-How-Publishers-Can-Save-Money-on-ABR-Encoding-115120.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Docker issue with Hyper-V, vCloud</title>
-      <link>//cloudfeed.net/post/docker-issue-with-hyperv-vcloud/</link>
-      <pubDate>Fri, 02 Dec 2016 11:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/docker-issue-with-hyperv-vcloud/</guid>
-      <description>&lt;p&gt;virtualization is exposed. Output of docker version : Client: Version: 1.13.0-dev &amp;hellip;  &lt;a href=&#34;https://github.com/docker/docker/issues/29079&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/docker/docker/issues/29079&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
