@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Dec 2016 20:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Dec 2016 21:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>grpc-google-cloud-pubsub-v1 0.14.0</title>
+      <link>//cloudfeed.net/post/grpcgooglecloudpubsubv1-0140/</link>
+      <pubDate>Fri, 02 Dec 2016 21:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/grpcgooglecloudpubsubv1-0140/</guid>
+      <description>&lt;p&gt;IDL-derived library for the pubsub (v1) service in the googleapis repository.  &lt;a href=&#34;https://pypi.python.org/pypi/grpc-google-cloud-pubsub-v1/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/grpc-google-cloud-pubsub-v1/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>David Eden on the many facets of AI</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;who may not trust or indeed know one another, to share a set of verified, &amp;hellip;  &lt;a href=&#34;http://www.aecom.com/ca/cornerstone-issue-03/blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.aecom.com/ca/cornerstone-issue-03/blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Fifth China OpenStack Bug Smash Hosted in Shenzhen, Demonstrating</title>
-      <link>//cloudfeed.net/post/the-fifth-china-openstack-bug-smash-hosted-in-shenzhen-demonstrating/</link>
-      <pubDate>Fri, 02 Dec 2016 18:30:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/the-fifth-china-openstack-bug-smash-hosted-in-shenzhen-demonstrating/</guid>
-      <description>&lt;p&gt;[Shenzhen, China, December 2, 2016] Intel, Huawei, and China Electronics Standardization Institute (CESI) jointly hosted the fifth China OpenStack &amp;hellip;  &lt;a href=&#34;http://www.huawei.com/en/news/2016/12/OpenStack-Bug-Smash&#34; onclick=&#34;trackOutboundLink(&#39;http://www.huawei.com/en/news/2016/12/OpenStack-Bug-Smash&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

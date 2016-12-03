@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Dec 2016 19:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Dec 2016 21:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>grpc-google-cloud-pubsub-v1 0.14.0</title>
+      <link>//cloudfeed.net/post/grpcgooglecloudpubsubv1-0140/</link>
+      <pubDate>Fri, 02 Dec 2016 21:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/grpcgooglecloudpubsubv1-0140/</guid>
+      <description>&lt;p&gt;IDL-derived library for the pubsub (v1) service in the googleapis repository.  &lt;a href=&#34;https://pypi.python.org/pypi/grpc-google-cloud-pubsub-v1/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/grpc-google-cloud-pubsub-v1/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon, Intel Partner For New Alexa Products</title>
@@ -312,18 +324,6 @@
       
       <guid>//cloudfeed.net/post/intel-and-amazon-team-up-to-help-developers-build-alexa-devices/</guid>
       <description>&lt;p&gt;At this week&amp;rsquo;s Amazon Web Services conference re:Invent, the online retailer revealed two smart home initiatives that are getting a big hand from Intel.  &lt;a href=&#34;https://www.engadget.com/2016/12/02/intel-amazon-alexa-reference-device-developers/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.engadget.com/2016/12/02/intel-amazon-alexa-reference-device-developers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Oppenheimer Reviews First Day of Amazon.com, Inc. (AMZN) re:Invent</title>
-      <link>//cloudfeed.net/post/oppenheimer-reviews-first-day-of-amazoncom-inc-amzn-reinvent/</link>
-      <pubDate>Fri, 02 Dec 2016 16:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/oppenheimer-reviews-first-day-of-amazoncom-inc-amzn-reinvent/</guid>
-      <description>&lt;p&gt;Amazon.com, Inc. (NASDAQ:AMZN) is hosting re:Invest conference in order to promote its Amazon Web Services segment. The first day of the &amp;hellip;  &lt;a href=&#34;http://smartstocknews.com/27293-oppenheimer-reviews-first-day-of-amazoncom-inc-amzn-reinvent/&#34; onclick=&#34;trackOutboundLink(&#39;http://smartstocknews.com/27293-oppenheimer-reviews-first-day-of-amazoncom-inc-amzn-reinvent/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
