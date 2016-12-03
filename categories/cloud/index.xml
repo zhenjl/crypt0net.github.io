@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 03 Dec 2016 04:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Dec 2016 06:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWS wants to help companies block DDoS attacks</title>
+      <link>//cloudfeed.net/post/aws-wants-to-help-companies-block-ddos-attacks/</link>
+      <pubDate>Sat, 03 Dec 2016 06:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/aws-wants-to-help-companies-block-ddos-attacks/</guid>
+      <description>&lt;p&gt;Amazon Web Services on Thursday introduced a service designed to protect web applications running on AWS from Distributed Denial of Service &amp;hellip;  &lt;a href=&#34;http://www.ciodive.com/news/aws-wants-to-help-companies-block-ddos-attacks/431523/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ciodive.com/news/aws-wants-to-help-companies-block-ddos-attacks/431523/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Salesforce.com Expands Relationship with Amazon Web Services</title>
+      <link>//cloudfeed.net/post/salesforcecom-expands-relationship-with-amazon-web-services/</link>
+      <pubDate>Sat, 03 Dec 2016 06:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/salesforcecom-expands-relationship-with-amazon-web-services/</guid>
+      <description>&lt;p&gt;Amazon Web Services and Salesforce.com have expanded their global strategic alliance, delivering five service integrations to simplify and expand &amp;hellip;  &lt;a href=&#34;http://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Salesforce.com-Expands-Relationship-with-Amazon-Web-Services-115118.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Salesforce.com-Expands-Relationship-with-Amazon-Web-Services-115118.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Cloud Platform now supports IBM software</title>
@@ -300,30 +324,6 @@
       
       <guid>//cloudfeed.net/post/amazon-announces-new-ddos-protection-service-aws-shield/</guid>
       <description>&lt;p&gt;&amp;hellip; Spotify and Reddit last month, Amazon Web Services (AWS) has announced a new technology to protect sites against distributed denial of service &amp;hellip;  &lt;a href=&#34;http://www.itproportal.com/news/amazon-announces-new-ddos-protection-service-aws-shield/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itproportal.com/news/amazon-announces-new-ddos-protection-service-aws-shield/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Seattle startup Chef gets a big boost from Amazon Web Services</title>
-      <link>//cloudfeed.net/post/seattle-startup-chef-gets-a-big-boost-from-amazon-web-services/</link>
-      <pubDate>Fri, 02 Dec 2016 17:50:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/seattle-startup-chef-gets-a-big-boost-from-amazon-web-services/</guid>
-      <description>&lt;p&gt;Chef got a big boost from Amazon Web Services on Friday when the world&amp;rsquo;s leading cloud computing company endorsed the Seattle startup in the &amp;hellip;  &lt;a href=&#34;http://www.bizjournals.com/seattle/news/2016/12/02/seattle-startup-chef-gets-a-big-boost-from-amazon.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bizjournals.com/seattle/news/2016/12/02/seattle-startup-chef-gets-a-big-boost-from-amazon.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>grpc-google-cloud-speech-v1beta1 0.14.0</title>
-      <link>//cloudfeed.net/post/grpcgooglecloudspeechv1beta1-0140/</link>
-      <pubDate>Fri, 02 Dec 2016 17:40:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/grpcgooglecloudspeechv1beta1-0140/</guid>
-      <description>&lt;p&gt;library for the speech (v1beta1) service in the googleapis repository.  &lt;a href=&#34;https://pypi.python.org/pypi/grpc-google-cloud-speech-v1beta1/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/grpc-google-cloud-speech-v1beta1/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
