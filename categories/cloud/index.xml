@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Dec 2016 17:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Dec 2016 17:40:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>grpc-google-cloud-speech-v1beta1 0.14.0</title>
+      <link>//cloudfeed.net/post/grpcgooglecloudspeechv1beta1-0140/</link>
+      <pubDate>Fri, 02 Dec 2016 17:40:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/grpcgooglecloudspeechv1beta1-0140/</guid>
+      <description>&lt;p&gt;library for the speech (v1beta1) service in the googleapis repository.  &lt;a href=&#34;https://pypi.python.org/pypi/grpc-google-cloud-speech-v1beta1/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/grpc-google-cloud-speech-v1beta1/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>&#39;Gooligan&#39; Malware Infecting Android Devices Via App Downloads</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/the-10-biggest-google-stories-of-2016/</guid>
       <description>&lt;p&gt;That plan to catch the leaders involves differentiating Google&amp;rsquo;s cloud by cost, networking infrastructure, and a set of advanced artificial intelligence &amp;hellip;  &lt;a href=&#34;http://www.crn.com/slide-shows/cloud/300083010/the-10-biggest-google-stories-of-2016.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/slide-shows/cloud/300083010/the-10-biggest-google-stories-of-2016.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Containing Costs: How Publishers Can Save Money on ABR Encoding</title>
-      <link>//cloudfeed.net/post/containing-costs-how-publishers-can-save-money-on-abr-encoding/</link>
-      <pubDate>Fri, 02 Dec 2016 11:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/containing-costs-how-publishers-can-save-money-on-abr-encoding/</guid>
-      <description>&lt;p&gt;This is shown in Figure 2, from the Microsoft Azure website. &amp;hellip; ABR packaging from a single set of encoded files (Image from Microsoft Azure website).  &lt;a href=&#34;http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Containing-Costs-How-Publishers-Can-Save-Money-on-ABR-Encoding-115120.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Containing-Costs-How-Publishers-Can-Save-Money-on-ABR-Encoding-115120.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
