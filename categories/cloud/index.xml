@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 03 Dec 2016 23:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Dec 2016 02:40:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Much Is the Cloud? In JSON, Please!</title>
+      <link>//cloudfeed.net/post/how-much-is-the-cloud-in-json-please/</link>
+      <pubDate>Sun, 04 Dec 2016 02:40:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/how-much-is-the-cloud-in-json-please/</guid>
+      <description>&lt;p&gt;This post summarizes the pricing APIs of Microsoft Azure, Amazon Web Services, and Google Cloud Platform. While we&amp;rsquo;re at it: for tinkering with APIs, &amp;hellip;  &lt;a href=&#34;https://dzone.com/articles/how-much-is-the-cloud-in-json-please&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/how-much-is-the-cloud-in-json-please&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon (AWS) Can Literally Carry a Truck-load of Data with AWS SnowMobile</title>
@@ -246,18 +258,6 @@
       
       <guid>//cloudfeed.net/post/morgan-stanley-believes-aws-will-take-amazoncom-inc-amzn-to-greater/</guid>
       <description>&lt;p&gt;Smrt Stck Nws After attending Amazon Web Services (AWS) re:Invent conference this week, Morgan Stanley has come out with a new research note in which they &amp;hellip;  &lt;a href=&#34;http://smartstocknews.com/87725-morgan-stanley-believes-aws-will-take-amazoncom-inc-amzn-to-greater-heights/&#34; onclick=&#34;trackOutboundLink(&#39;http://smartstocknews.com/87725-morgan-stanley-believes-aws-will-take-amazoncom-inc-amzn-to-greater-heights/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AWS wants to help companies block DDoS attacks</title>
-      <link>//cloudfeed.net/post/aws-wants-to-help-companies-block-ddos-attacks/</link>
-      <pubDate>Sat, 03 Dec 2016 06:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/aws-wants-to-help-companies-block-ddos-attacks/</guid>
-      <description>&lt;p&gt;Amazon Web Services on Thursday introduced a service designed to protect web applications running on AWS from Distributed Denial of Service &amp;hellip;  &lt;a href=&#34;http://www.ciodive.com/news/aws-wants-to-help-companies-block-ddos-attacks/431523/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ciodive.com/news/aws-wants-to-help-companies-block-ddos-attacks/431523/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
