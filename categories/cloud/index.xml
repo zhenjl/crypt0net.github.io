@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Dec 2016 03:40:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2016 03:50:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack Cinder: upon node failure kubernetes fails to relocate pods with</title>
+      <link>//cloudfeed.net/post/openstack-cinder-upon-node-failure-kubernetes-fails-to-relocate-pods-with/</link>
+      <pubDate>Mon, 05 Dec 2016 03:50:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-cinder-upon-node-failure-kubernetes-fails-to-relocate-pods-with/</guid>
+      <description>&lt;p&gt;OpenStack Cinder: upon node failure kubernetes fails to relocate pods with cinder volumes #38098. Open. suonto opened this Issue Dec 5, 2016  1 &amp;hellip;  &lt;a href=&#34;https://github.com/kubernetes/kubernetes/issues/38098&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/kubernetes/kubernetes/issues/38098&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>6 new developments at AWS re:invent 2016</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/greengrass-and-snowball-edge-give-more-capabilities-to-edge-devices/</guid>
       <description>&lt;p&gt;Amazon Web Services has announced AWS Greengrass and AWS Snowball Edge, two products designed to simplify the interaction between IoT &amp;hellip;  &lt;a href=&#34;http://www.iothub.com.au/news/aws-launches-two-new-iot-products-443542&#34; onclick=&#34;trackOutboundLink(&#39;http://www.iothub.com.au/news/aws-launches-two-new-iot-products-443542&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services Releases Three New Artificial Intelligence Services</title>
-      <link>//cloudfeed.net/post/amazon-web-services-releases-three-new-artificial-intelligence-services/</link>
-      <pubDate>Sun, 04 Dec 2016 18:40:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-web-services-releases-three-new-artificial-intelligence-services/</guid>
-      <description>&lt;p&gt;Amazon Web Services is an easy to use platform. I was able to sign up for a free account, and I will only be paying for services that I acquire and find &amp;hellip;  &lt;a href=&#34;http://crescentvale.com/2016/12/amazon-web-services-releases-three-new-artificial-intelligence-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://crescentvale.com/2016/12/amazon-web-services-releases-three-new-artificial-intelligence-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
