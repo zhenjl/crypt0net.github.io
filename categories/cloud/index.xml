@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Dec 2016 08:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2016 09:40:07 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon Web Services Introduces New AI Services</title>
+      <link>//cloudfeed.net/post/amazon-web-services-introduces-new-ai-services/</link>
+      <pubDate>Mon, 05 Dec 2016 09:40:07 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amazon-web-services-introduces-new-ai-services/</guid>
+      <description>&lt;p&gt;AWS (Amazon Web Services) introduced a handful of new artificial intelligence (AI) services at its re:Invent conference last week. Among the new &amp;hellip;  &lt;a href=&#34;http://www.newsfactor.com/story.xhtml?story_id=0110006KG509&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newsfactor.com/story.xhtml?story_id=0110006KG509&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloud VDI vendor Workspot to offer Desktop as a Service 2.0 on Azure</title>
+      <link>//cloudfeed.net/post/cloud-vdi-vendor-workspot-to-offer-desktop-as-a-service-20-on-azure/</link>
+      <pubDate>Mon, 05 Dec 2016 09:40:07 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/cloud-vdi-vendor-workspot-to-offer-desktop-as-a-service-20-on-azure/</guid>
+      <description>&lt;p&gt;However, we believe Azure is more mature as a cloud now  and Microsoft is &amp;hellip; So we have only tightly coupled with Azure for this DaaS 2.0 offering.  &lt;a href=&#34;http://www.channelbuzz.ca/2016/12/cloud-vdi-vendor-workspot-to-offer-desktop-as-a-service-2-0-on-azure-19781/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.channelbuzz.ca/2016/12/cloud-vdi-vendor-workspot-to-offer-desktop-as-a-service-2-0-on-azure-19781/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AI&#39;s star grows brighter in marketing, with new announcements from Amazon,</title>
@@ -161,30 +185,6 @@
       
       <guid>//cloudfeed.net/post/one-benefit-of-cloud-migrations-may-surprise-you/</guid>
       <description>&lt;p&gt;&amp;hellip; businesses are supplementing or even replacing their own data centers with a cloud like Amazon Web Services is no longer a shock, or even news.  &lt;a href=&#34;http://fortune.com/2016/12/05/cloud-migrations-tech-trends/&#34; onclick=&#34;trackOutboundLink(&#39;http://fortune.com/2016/12/05/cloud-migrations-tech-trends/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SQL Server in Azure Virtual Machines - Performance Optimizations</title>
-      <link>//cloudfeed.net/post/sql-server-in-azure-virtual-machines--performance-optimizations/</link>
-      <pubDate>Mon, 05 Dec 2016 04:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/sql-server-in-azure-virtual-machines--performance-optimizations/</guid>
-      <description>&lt;p&gt;Azure offers a wide variety of VM sizes and types. For their comprehensive, up-to-date listing, refer to Microsoft Azure documentation. A cursory &amp;hellip;  &lt;a href=&#34;http://www.databasejournal.com/features/mssql/sql-server-in-azure-virtual-machines-performance-optimizations.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.databasejournal.com/features/mssql/sql-server-in-azure-virtual-machines-performance-optimizations.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OpenStack Cinder: upon node failure kubernetes fails to relocate pods with</title>
-      <link>//cloudfeed.net/post/openstack-cinder-upon-node-failure-kubernetes-fails-to-relocate-pods-with/</link>
-      <pubDate>Mon, 05 Dec 2016 03:50:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/openstack-cinder-upon-node-failure-kubernetes-fails-to-relocate-pods-with/</guid>
-      <description>&lt;p&gt;OpenStack Cinder: upon node failure kubernetes fails to relocate pods with cinder volumes #38098. Open. suonto opened this Issue Dec 5, 2016  1 &amp;hellip;  &lt;a href=&#34;https://github.com/kubernetes/kubernetes/issues/38098&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/kubernetes/kubernetes/issues/38098&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
