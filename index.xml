@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Dec 2016 12:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2016 13:10:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building MySQL DBaaS on OpenStack And Ceph Clouds</title>
+      <link>//cloudfeed.net/post/building-mysql-dbaas-on-openstack-and-ceph-clouds/</link>
+      <pubDate>Mon, 05 Dec 2016 13:10:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/building-mysql-dbaas-on-openstack-and-ceph-clouds/</guid>
+      <description>&lt;p&gt;For private clouds, architects who have selected OpenStack as the operating system for their software-defined data centers are increasingly asked to &amp;hellip;  &lt;a href=&#34;http://www.informationweek.com/partner-perspectives/redhat/building-mysql-dbaas-on-openstack-and-ceph-clouds/a/d-id/1327638&#34; onclick=&#34;trackOutboundLink(&#39;http://www.informationweek.com/partner-perspectives/redhat/building-mysql-dbaas-on-openstack-and-ceph-clouds/a/d-id/1327638&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Challenges of IoT include big data, data analysis for enterprise</title>
+      <link>//cloudfeed.net/post/challenges-of-iot-include-big-data-data-analysis-for-enterprise/</link>
+      <pubDate>Mon, 05 Dec 2016 13:10:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/challenges-of-iot-include-big-data-data-analysis-for-enterprise/</guid>
+      <description>&lt;p&gt;Big data and the internet of things are outputs of business demands that drive changes in applications. These changes create unique challenges for &amp;hellip;  &lt;a href=&#34;http://searchdatacenter.techtarget.com/feature/Challenges-of-IoT-include-big-data-data-analysis-for-enterprise&#34; onclick=&#34;trackOutboundLink(&#39;http://searchdatacenter.techtarget.com/feature/Challenges-of-IoT-include-big-data-data-analysis-for-enterprise&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nokia looks to take sting out of VNF management</title>
+      <link>//cloudfeed.net/post/nokia-looks-to-take-sting-out-of-vnf-management/</link>
+      <pubDate>Mon, 05 Dec 2016 13:10:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/nokia-looks-to-take-sting-out-of-vnf-management/</guid>
+      <description>&lt;p&gt;Nokia unveiled a templating system it said is based on ETSI NFV, TOSCA and OpenStack specs designed to simplify VNF management and &amp;hellip;  &lt;a href=&#34;http://www.rcrwireless.com/20161205/telecom-software/nokia-looks-to-take-sting-out-of-vnf-management-tag2&#34; onclick=&#34;trackOutboundLink(&#39;http://www.rcrwireless.com/20161205/telecom-software/nokia-looks-to-take-sting-out-of-vnf-management-tag2&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Computer Expert Shows It&#39;s Incredibly Easy to Steal Millions Online--</title>
@@ -43,18 +79,6 @@
       <description>&lt;p&gt;RTInsights (press release) (blog) Or at least that&amp;rsquo;s the idea. During a recent webinar, Fang Tu, a senior data scientist at Microsoft Azure Machine Learning, walked users through the &amp;hellip;  &lt;a href=&#34;https://www.rtinsights.com/recommendation-engine-microsoft-cognitive-services/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.rtinsights.com/recommendation-engine-microsoft-cognitive-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Challenges of IoT include big data, data analysis for enterprise</title>
-      <link>//cloudfeed.net/post/challenges-of-iot-include-big-data-data-analysis-for-enterprise/</link>
-      <pubDate>Mon, 05 Dec 2016 12:40:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/challenges-of-iot-include-big-data-data-analysis-for-enterprise/</guid>
-      <description>&lt;p&gt;Implementing big data and IoT is difficult for enterprise IT teams due to &amp;hellip; of data via technologies, such as Hadoop and distributed storage systems.  &lt;a href=&#34;http://searchdatacenter.techtarget.com/feature/Challenges-of-IoT-include-big-data-data-analysis-for-enterprise&#34; onclick=&#34;trackOutboundLink(&#39;http://searchdatacenter.techtarget.com/feature/Challenges-of-IoT-include-big-data-data-analysis-for-enterprise&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -163,30 +187,6 @@
       <description>&lt;p&gt;EconoTimes 05, 2016 &amp;ndash; Bristol is Open, an ambitious joint venture between the University of Bristol and Bristol City Council, received the Internet of Things award &amp;hellip;  &lt;a href=&#34;http://www.econotimes.com/Bristol-is-Open-Wins-Internet-of-Things-Award-for-Programmable-City-Initiative-434744&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/Bristol-is-Open-Wins-Internet-of-Things-Award-for-Programmable-City-Initiative-434744&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Connectria Certifies Microsoft Azure Hosted HIPAA Compliance</title>
-      <link>//cloudfeed.net/post/connectria-certifies-microsoft-azure-hosted-hipaa-compliance/</link>
-      <pubDate>Mon, 05 Dec 2016 11:40:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/connectria-certifies-microsoft-azure-hosted-hipaa-compliance/</guid>
-      <description>&lt;p&gt;Connectria Hosting announced HIPAA compliant Microsoft Azure healthcare cloud deployment options so organizations can meet HIPAA regulations.  &lt;a href=&#34;http://hitinfrastructure.com/news/connectria-certifies-microsoft-azure-hosted-hipaa-compliance&#34; onclick=&#34;trackOutboundLink(&#39;http://hitinfrastructure.com/news/connectria-certifies-microsoft-azure-hosted-hipaa-compliance&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How AI Will Spoof You and Steal Your Identify</title>
-      <link>//cloudfeed.net/post/how-ai-will-spoof-you-and-steal-your-identify/</link>
-      <pubDate>Mon, 05 Dec 2016 11:40:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/how-ai-will-spoof-you-and-steal-your-identify/</guid>
-      <description>&lt;p&gt;The combination of massive data breaches and the rapid evolution of AI technology is a bad recipe for good security, the Sendr CEO and co-founder &amp;hellip;  &lt;a href=&#34;https://www.datanami.com/2016/12/05/ai-will-spoof-steal-identify/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.datanami.com/2016/12/05/ai-will-spoof-steal-identify/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
