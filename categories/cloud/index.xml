@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Dec 2016 17:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2016 17:50:08 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWS wants to dominate beyond the public cloud with Lambda updates</title>
+      <link>//cloudfeed.net/post/aws-wants-to-dominate-beyond-the-public-cloud-with-lambda-updates/</link>
+      <pubDate>Mon, 05 Dec 2016 17:50:08 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/aws-wants-to-dominate-beyond-the-public-cloud-with-lambda-updates/</guid>
+      <description>&lt;p&gt;Microsoft has its Azure Functions service, while Google Cloud Platform offers Google Cloud Functions. To comment on this article and other CIO &amp;hellip;  &lt;a href=&#34;http://www.cio.com/article/3147385/cloud-computing/aws-wants-to-dominate-beyond-the-public-cloud-with-lambda-updates.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3147385/cloud-computing/aws-wants-to-dominate-beyond-the-public-cloud-with-lambda-updates.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Goes Live with Azure Active Directory PowerShell 2.0</title>
@@ -89,18 +101,6 @@
       
       <guid>//cloudfeed.net/post/xero-completes-transition-to-amazon-web-services/</guid>
       <description>&lt;p&gt;Xero has moved 59 billion records onto Amazon Web Services, completing its transition to the platform. The move to AWS is part of Xero&amp;rsquo;s plan to &amp;hellip;  &lt;a href=&#34;http://www.accountingtoday.com/accounting-technology/news/xero-completes-transition-to-amazon-web-services-80044-1.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.accountingtoday.com/accounting-technology/news/xero-completes-transition-to-amazon-web-services-80044-1.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AWS wants to dominate beyond the public cloud with Lambda updates</title>
-      <link>//cloudfeed.net/post/aws-wants-to-dominate-beyond-the-public-cloud-with-lambda-updates/</link>
-      <pubDate>Mon, 05 Dec 2016 13:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/aws-wants-to-dominate-beyond-the-public-cloud-with-lambda-updates/</guid>
-      <description>&lt;p&gt;Microsoft has its Azure Functions service, while Google Cloud Platform offers Google Cloud Functions. To comment on this article and other PCWorld &amp;hellip;  &lt;a href=&#34;http://www.pcworld.com/article/3147389/cloud-computing/aws-wants-to-dominate-beyond-the-public-cloud-with-lambda-updates.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcworld.com/article/3147389/cloud-computing/aws-wants-to-dominate-beyond-the-public-cloud-with-lambda-updates.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
