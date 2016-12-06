@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 06 Dec 2016 05:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Dec 2016 10:40:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack and Azure  Hybrid Data Centers</title>
+      <link>//cloudfeed.net/post/openstack-and-azure--hybrid-data-centers/</link>
+      <pubDate>Tue, 06 Dec 2016 10:40:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-and-azure--hybrid-data-centers/</guid>
+      <description>&lt;p&gt;managing public and private clouds, and one of the fastest growing &amp;hellip;  &lt;a href=&#34;https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/12/06/openstack-and-azure-hybrid-data-centers/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/12/06/openstack-and-azure-hybrid-data-centers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Difference a Manager Makes with OpenStack Management</title>
@@ -323,18 +335,6 @@
 
 &lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.cio.com/article/3147385/cloud-computing/aws-wants-to-dominate-beyond-the-public-cloud-with-lambda-updates.html&#39;&gt;AWS wants to dominate beyond the public cloud with Lambda updates&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Microsoft has its Azure Functions service, while Google Cloud Platform offers Google Cloud Functions. To comment on this article and other CIO &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AWS wants to dominate beyond the public cloud with Lambda updates</title>
-      <link>//cloudfeed.net/post/aws-wants-to-dominate-beyond-the-public-cloud-with-lambda-updates/</link>
-      <pubDate>Mon, 05 Dec 2016 17:50:08 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/aws-wants-to-dominate-beyond-the-public-cloud-with-lambda-updates/</guid>
-      <description>&lt;p&gt;Microsoft has its Azure Functions service, while Google Cloud Platform offers Google Cloud Functions. To comment on this article and other CIO &amp;hellip;  &lt;a href=&#34;http://www.cio.com/article/3147385/cloud-computing/aws-wants-to-dominate-beyond-the-public-cloud-with-lambda-updates.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3147385/cloud-computing/aws-wants-to-dominate-beyond-the-public-cloud-with-lambda-updates.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
