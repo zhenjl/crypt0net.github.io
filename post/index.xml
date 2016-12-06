@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Dec 2016 22:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2016 23:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure IoT Makes Connecting to Apache Kafka Easy</title>
+      <link>//cloudfeed.net/post/microsoft-azure-iot-makes-connecting-to-apache-kafka-easy/</link>
+      <pubDate>Mon, 05 Dec 2016 23:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-azure-iot-makes-connecting-to-apache-kafka-easy/</guid>
+      <description>&lt;p&gt;Building an Azure-backed internet of things (IoT) application that uses the popular open-source Apache Kafka stream ingestion technology just got &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/networking/microsoft-azure-iot-connects-to-apache-kafka-to-manage-device-links.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/networking/microsoft-azure-iot-connects-to-apache-kafka-to-manage-device-links.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>12 Reasons Your Business Needs the Blockchain</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/aws-aims-to-capture-greater-iot-business/</guid>
       <description>&lt;p&gt;AWS, like cloud competitors such as Google Cloud, historically viewed IoT as a cloud workload. The opportunity presented by the number of potential &amp;hellip;  &lt;a href=&#34;http://www.infotechlead.com/iot/aws-aims-capture-greater-iot-business-44287&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infotechlead.com/iot/aws-aims-capture-greater-iot-business-44287&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon helped this Folsom firm deliver $5 million in new business</title>
-      <link>//cloudfeed.net/post/amazon-helped-this-folsom-firm-deliver-5-million-in-new-business/</link>
-      <pubDate>Mon, 05 Dec 2016 19:40:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-helped-this-folsom-firm-deliver-5-million-in-new-business/</guid>
-      <description>&lt;p&gt;This year, the dominant industry player, Amazon Web Services, estimates it will earn $10 billion on this business. When the company reported a &amp;hellip;  &lt;a href=&#34;http://www.sacbee.com/news/business/biz-columns-blogs/cathie-anderson/article119080733.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.sacbee.com/news/business/biz-columns-blogs/cathie-anderson/article119080733.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
