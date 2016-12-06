@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Dec 2016 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2016 18:20:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure IoT Makes Connecting to Apache Kafka Easy</title>
+      <link>//cloudfeed.net/post/microsoft-azure-iot-makes-connecting-to-apache-kafka-easy/</link>
+      <pubDate>Mon, 05 Dec 2016 18:20:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-azure-iot-makes-connecting-to-apache-kafka-easy/</guid>
+      <description>&lt;p&gt;Microsoft today released Kafka Connect for Azure IoT Hub, an open-source connector that enables customers to feed telemetry data into the &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/networking/microsoft-azure-iot-connects-to-apache-kafka-to-manage-device-links.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/networking/microsoft-azure-iot-connects-to-apache-kafka-to-manage-device-links.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Dec 5, 2016</title>
@@ -321,18 +333,6 @@
       
       <guid>//cloudfeed.net/post/building-a-better-recommendation-engine-with-a-cognitive-api-microsofts/</guid>
       <description>&lt;p&gt;RTInsights (press release) (blog) Or at least that&amp;rsquo;s the idea. During a recent webinar, Fang Tu, a senior data scientist at Microsoft Azure Machine Learning, walked users through the &amp;hellip;  &lt;a href=&#34;https://www.rtinsights.com/recommendation-engine-microsoft-cognitive-services/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.rtinsights.com/recommendation-engine-microsoft-cognitive-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services Will Open Office in Bahrain</title>
-      <link>//cloudfeed.net/post/amazon-web-services-will-open-office-in-bahrain/</link>
-      <pubDate>Mon, 05 Dec 2016 11:40:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-web-services-will-open-office-in-bahrain/</guid>
-      <description>&lt;p&gt;Amazon Web Services or AWS is set to open a new office in Bahrain. The office will open on January 1, 2017 and will be found in Manama, the capital &amp;hellip;  &lt;a href=&#34;http://www.thehostingnews.com/amazon-web-services-will-open-office-in-bahrain.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thehostingnews.com/amazon-web-services-will-open-office-in-bahrain.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

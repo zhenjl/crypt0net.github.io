@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Dec 2016 17:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2016 18:20:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure IoT Makes Connecting to Apache Kafka Easy</title>
+      <link>//cloudfeed.net/post/microsoft-azure-iot-makes-connecting-to-apache-kafka-easy/</link>
+      <pubDate>Mon, 05 Dec 2016 18:20:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-azure-iot-makes-connecting-to-apache-kafka-easy/</guid>
+      <description>&lt;p&gt;Microsoft today released Kafka Connect for Azure IoT Hub, an open-source connector that enables customers to feed telemetry data into the &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/networking/microsoft-azure-iot-connects-to-apache-kafka-to-manage-device-links.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/networking/microsoft-azure-iot-connects-to-apache-kafka-to-manage-device-links.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>17 Microsoft researchers offer bold computer science predictions for 2017</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Logistics companies are embracing the Internet of Things (IoT) as a tool to handle the pressure of rising e-commerce fulfillment volumes, but as the &amp;hellip;  &lt;a href=&#34;http://www.dcvelocity.com/articles/20161205-panel-key-to-internet-of-things-is-handling-data-overload/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dcvelocity.com/articles/20161205-panel-key-to-internet-of-things-is-handling-data-overload/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bank of America Corp. Reiterates Buy Rating for Amazon.com Inc. (AMZN)</title>
-      <link>//cloudfeed.net/post/bank-of-america-corp-reiterates-buy-rating-for-amazoncom-inc-amzn/</link>
-      <pubDate>Mon, 05 Dec 2016 16:40:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/bank-of-america-corp-reiterates-buy-rating-for-amazoncom-inc-amzn/</guid>
-      <description>&lt;p&gt;Amazon.com logo Amazon.com Inc. (NASDAQ:AMZN)&amp;rsquo;s stock had its buy rating restated by equities researchers at Bank of America Corp. in a &amp;hellip;  &lt;a href=&#34;https://www.thecerbatgem.com/2016/12/04/bank-of-america-corp-reiterates-buy-rating-for-amazon-com-inc-amzn.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.thecerbatgem.com/2016/12/04/bank-of-america-corp-reiterates-buy-rating-for-amazon-com-inc-amzn.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

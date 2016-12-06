@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Dec 2016 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2016 18:20:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure IoT Makes Connecting to Apache Kafka Easy</title>
+      <link>//cloudfeed.net/post/microsoft-azure-iot-makes-connecting-to-apache-kafka-easy/</link>
+      <pubDate>Mon, 05 Dec 2016 18:20:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-azure-iot-makes-connecting-to-apache-kafka-easy/</guid>
+      <description>&lt;p&gt;Microsoft today released Kafka Connect for Azure IoT Hub, an open-source connector that enables customers to feed telemetry data into the &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/networking/microsoft-azure-iot-connects-to-apache-kafka-to-manage-device-links.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/networking/microsoft-azure-iot-connects-to-apache-kafka-to-manage-device-links.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Big Data News from @topdatanews - Dec 5, 2016</title>
@@ -820,18 +832,6 @@
       <description>&lt;p&gt;Data breaches are getting more prevailing and attack trends show no proof of slowing down. Again, we tend to see these breaches target high-value &amp;hellip;  &lt;a href=&#34;http://www.iamwire.com/2016/12/top-7-cyber-security-predictions-for-2017-and-beyond/145494&#34; onclick=&#34;trackOutboundLink(&#39;http://www.iamwire.com/2016/12/top-7-cyber-security-predictions-for-2017-and-beyond/145494&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Goes Live with Azure Active Directory PowerShell 2.0</title>
-      <link>//cloudfeed.net/post/microsoft-goes-live-with-azure-active-directory-powershell-20/</link>
-      <pubDate>Mon, 05 Dec 2016 17:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-goes-live-with-azure-active-directory-powershell-20/</guid>
-      <description>&lt;p&gt;Microsoft today announced that the Azure Active Directory PowerShell 2.0 module has reached the &amp;ldquo;general availability&amp;rdquo; (GA) milestone. The module &amp;hellip;  &lt;a href=&#34;https://redmondmag.com/articles/2016/12/05/azure-active-directory-powershell-2.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/articles/2016/12/05/azure-active-directory-powershell-2.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
