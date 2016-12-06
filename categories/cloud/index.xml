@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Dec 2016 21:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2016 22:20:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Configure a DNS Zone Using Azure DNS</title>
+      <link>//cloudfeed.net/post/configure-a-dns-zone-using-azure-dns/</link>
+      <pubDate>Mon, 05 Dec 2016 22:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/configure-a-dns-zone-using-azure-dns/</guid>
+      <description>&lt;p&gt;In today&amp;rsquo;s Ask the Admin, I&amp;rsquo;ll show you how to configure a DNS Zone using Azure DNS, and how to add records to the zone. In Microsoft Azure: A First &amp;hellip;  &lt;a href=&#34;https://www.petri.com/configure-dns-zone-using-azure-dns&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/configure-dns-zone-using-azure-dns&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>21Vianet Blue Cloud Launches GigaCloud Service in the Chinese Market for</title>
@@ -321,18 +333,6 @@
       
       <guid>//cloudfeed.net/post/sunovion-taps-empatica-for-phase-4-drug-trial--and-two-other-digital/</guid>
       <description>&lt;p&gt;MobiHealthNews &amp;hellip; the Epilepsy Care Alliance have harnessed machine learning powered by Microsoft Azure to track patients&amp;rsquo; daily activities and detect when they are &amp;hellip;  &lt;a href=&#34;http://www.mobihealthnews.com/content/sunovion-taps-empatica-phase-4-drug-trial-and-two-other-digital-health-projects-targeting&#34; onclick=&#34;trackOutboundLink(&#39;http://www.mobihealthnews.com/content/sunovion-taps-empatica-phase-4-drug-trial-and-two-other-digital-health-projects-targeting&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Xero Completes Transition to Amazon Web Services</title>
-      <link>//cloudfeed.net/post/xero-completes-transition-to-amazon-web-services/</link>
-      <pubDate>Mon, 05 Dec 2016 14:40:08 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/xero-completes-transition-to-amazon-web-services/</guid>
-      <description>&lt;p&gt;Xero has moved 59 billion records onto Amazon Web Services, completing its transition to the platform. The move to AWS is part of Xero&amp;rsquo;s plan to &amp;hellip;  &lt;a href=&#34;http://www.accountingtoday.com/accounting-technology/news/xero-completes-transition-to-amazon-web-services-80044-1.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.accountingtoday.com/accounting-technology/news/xero-completes-transition-to-amazon-web-services-80044-1.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

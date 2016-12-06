@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Dec 2016 22:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2016 22:20:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Configure a DNS Zone Using Azure DNS</title>
+      <link>//cloudfeed.net/post/configure-a-dns-zone-using-azure-dns/</link>
+      <pubDate>Mon, 05 Dec 2016 22:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/configure-a-dns-zone-using-azure-dns/</guid>
+      <description>&lt;p&gt;In today&amp;rsquo;s Ask the Admin, I&amp;rsquo;ll show you how to configure a DNS Zone using Azure DNS, and how to add records to the zone. In Microsoft Azure: A First &amp;hellip;  &lt;a href=&#34;https://www.petri.com/configure-dns-zone-using-azure-dns&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/configure-dns-zone-using-azure-dns&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Industrial Internet of Things (IIoT) Market Outlook, Key Technologies,</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;This approach to machine-to-machine communication is rapidly gaining support in the industry, as it is less time consuming and complex to implement &amp;hellip;  &lt;a href=&#34;https://www.pulseitmagazine.com.au/australian-ehealth/3504-ihe-on-fhir-emerging-interoperability-standards-in-action&#34; onclick=&#34;trackOutboundLink(&#39;https://www.pulseitmagazine.com.au/australian-ehealth/3504-ihe-on-fhir-emerging-interoperability-standards-in-action&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>When to Choose Hybrid Platforms for Your App Development</title>
-      <link>//cloudfeed.net/post/when-to-choose-hybrid-platforms-for-your-app-development/</link>
-      <pubDate>Mon, 05 Dec 2016 19:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/when-to-choose-hybrid-platforms-for-your-app-development/</guid>
-      <description>&lt;p&gt;Its advent initiated with the growing trend of Bring your own device also, known as BYOD. The simple implication is that now, the rather than &amp;hellip;  &lt;a href=&#34;https://techfeatured.com/2960/when-to-choose-hybrid-platforms-for-your-app-development&#34; onclick=&#34;trackOutboundLink(&#39;https://techfeatured.com/2960/when-to-choose-hybrid-platforms-for-your-app-development&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/topmobilenews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topmobilenews&#39;); return false;&#34;&gt;@topmobilenews&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
