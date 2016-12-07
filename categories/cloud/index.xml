@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2016 05:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 05:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A powerful FTP client with many useful features</title>
+      <link>//cloudfeed.net/post/a-powerful-ftp-client-with-many-useful-features/</link>
+      <pubDate>Wed, 07 Dec 2016 05:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/a-powerful-ftp-client-with-many-useful-features/</guid>
+      <description>&lt;p&gt;SmartFTP is a fast and easy-to-use FTP client that will make quick work of all your file transfer tasks. The program supports regular FTP connections, &amp;hellip;  &lt;a href=&#34;http://www.techcentral.ie/smartftp-8-0-2273-0-64-bit/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techcentral.ie/smartftp-8-0-2273-0-64-bit/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How Amazon Could Reshape More Industries in 2017</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/standardizing-maintaining-and-scaling-openstack-adoption/</guid>
       <description>&lt;p&gt;As more and more enterprises move to the cloud, many companies are looking to OpenStack to reduce data center costs and increase technology &amp;hellip;  &lt;a href=&#34;http://openstack.cioreview.com/cxoinsight/standardizing-maintaining-and-scaling-openstack-adoption-nid-18269-cid-120.html&#34; onclick=&#34;trackOutboundLink(&#39;http://openstack.cioreview.com/cxoinsight/standardizing-maintaining-and-scaling-openstack-adoption-nid-18269-cid-120.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using Cloud Vision API and Cloud Translation API from Google App Engine</title>
-      <link>//cloudfeed.net/post/using-cloud-vision-api-and-cloud-translation-api-from-google-app-engine/</link>
-      <pubDate>Tue, 06 Dec 2016 21:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/using-cloud-vision-api-and-cloud-translation-api-from-google-app-engine/</guid>
-      <description>&lt;p&gt;translation. from google.cloud import vision, translate def get_labels(bucket, filename, &amp;hellip;  &lt;a href=&#34;http://enakai00.hatenablog.com/entry/2016/12/07/122030&#34; onclick=&#34;trackOutboundLink(&#39;http://enakai00.hatenablog.com/entry/2016/12/07/122030&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
