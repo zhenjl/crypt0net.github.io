@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 06 Dec 2016 20:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Dec 2016 21:40:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure Networking with Albert Greenberg</title>
+      <link>//cloudfeed.net/post/microsoft-azure-networking-with-albert-greenberg/</link>
+      <pubDate>Tue, 06 Dec 2016 21:40:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-azure-networking-with-albert-greenberg/</guid>
+      <description>&lt;p&gt;working with Microsoft products. The full range of IT topics is covered from a &amp;hellip;  &lt;a href=&#34;http://www.runasradio.com/default.aspx?ShowNum=509&#34; onclick=&#34;trackOutboundLink(&#39;http://www.runasradio.com/default.aspx?ShowNum=509&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>TIBCO Releases TIBCO Mashery Local API Management Solution for Hybrid</title>
@@ -297,18 +309,6 @@
       
       <guid>//cloudfeed.net/post/how-to-succeed-when-50-percent-of-all-enterprises-fail-in-openstack/</guid>
       <description>&lt;p&gt;A recent report from open-source software company, SUSE, shows half of all enterprises that tried to implement an OpenStack cloud have failed and &amp;hellip;  &lt;a href=&#34;http://openstack.cioreview.com/cxoinsight/how-to-succeed-when--50-percent-of-all-enterprises-fail-in-openstack--nid-23476-cid-120.html&#34; onclick=&#34;trackOutboundLink(&#39;http://openstack.cioreview.com/cxoinsight/how-to-succeed-when--50-percent-of-all-enterprises-fail-in-openstack--nid-23476-cid-120.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mirantis moves deeper into the container world, launches certification</title>
-      <link>//cloudfeed.net/post/mirantis-moves-deeper-into-the-container-world-launches-certification/</link>
-      <pubDate>Tue, 06 Dec 2016 16:30:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/mirantis-moves-deeper-into-the-container-world-launches-certification/</guid>
-      <description>&lt;p&gt;Looks like OpenStack isn&amp;rsquo;t this company&amp;rsquo;s future anymore. Mirantis deftly offers value in the container world with vendor-agnostic Kubernetes and &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3145402/open-source-tools/mirantis-moves-deeper-into-the-container-world-launches-certification.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3145402/open-source-tools/mirantis-moves-deeper-into-the-container-world-launches-certification.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
