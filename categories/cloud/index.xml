@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2016 13:40:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 14:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Journey to the Public Cloud with Reality-Based IT</title>
+      <link>//cloudfeed.net/post/journey-to-the-public-cloud-with-realitybased-it/</link>
+      <pubDate>Wed, 07 Dec 2016 14:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/journey-to-the-public-cloud-with-realitybased-it/</guid>
+      <description>&lt;p&gt;Systems and Technology (IS&amp;amp;T). Massachusetts Institute of Technology (MIT) &amp;hellip;  &lt;a href=&#34;https://blogs.vmware.com/vcloud/2016/12/journey-public-cloud-reality-based.html&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.vmware.com/vcloud/2016/12/journey-public-cloud-reality-based.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Slack teams with Google Cloud, adds Docs preview, Drive Bot, and more</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/uks-largest-data-centre-gets-on-board-microsofts-azure-expressroute/</guid>
       <description>&lt;p&gt;available on Microsoft Azure ExpressRoute to ease private connections &amp;hellip;  &lt;a href=&#34;https://data-economy.com/uks-largest-data-centre-gets-board-microsofts-azure-expressroute/&#34; onclick=&#34;trackOutboundLink(&#39;https://data-economy.com/uks-largest-data-centre-gets-board-microsofts-azure-expressroute/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Analyzing NYC Biking Data with Google BigQuery</title>
-      <link>//cloudfeed.net/post/analyzing-nyc-biking-data-with-google-bigquery/</link>
-      <pubDate>Wed, 07 Dec 2016 09:40:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/analyzing-nyc-biking-data-with-google-bigquery/</guid>
-      <description>&lt;p&gt;program, Sara uncovers interesting New York City bicycling trends.  &lt;a href=&#34;https://cloud.google.com/blog/big-data/2016/12/analyzing-nyc-biking-data-with-google-bigquery&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/blog/big-data/2016/12/analyzing-nyc-biking-data-with-google-bigquery&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
