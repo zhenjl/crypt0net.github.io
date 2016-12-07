@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2016 05:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 05:40:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Amazon Could Reshape More Industries in 2017</title>
+      <link>//cloudfeed.net/post/how-amazon-could-reshape-more-industries-in-2017/</link>
+      <pubDate>Wed, 07 Dec 2016 05:40:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/how-amazon-could-reshape-more-industries-in-2017/</guid>
+      <description>&lt;p&gt;Anyone who attended the recent Amazon Web Services re:Invent conference &amp;ndash; or watched many sessions online, as I did &amp;ndash; probably is still trying to &amp;hellip;  &lt;a href=&#34;http://www.technewsworld.com/story/84145.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.technewsworld.com/story/84145.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>NIA Tests Reveal OpenStack Version Challenges</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/using-cloud-vision-api-and-cloud-translation-api-from-google-app-engine/</guid>
       <description>&lt;p&gt;translation. from google.cloud import vision, translate def get_labels(bucket, filename, &amp;hellip;  &lt;a href=&#34;http://enakai00.hatenablog.com/entry/2016/12/07/122030&#34; onclick=&#34;trackOutboundLink(&#39;http://enakai00.hatenablog.com/entry/2016/12/07/122030&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Networking with Albert Greenberg</title>
-      <link>//cloudfeed.net/post/microsoft-azure-networking-with-albert-greenberg/</link>
-      <pubDate>Tue, 06 Dec 2016 21:40:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-azure-networking-with-albert-greenberg/</guid>
-      <description>&lt;p&gt;working with Microsoft products. The full range of IT topics is covered from a &amp;hellip;  &lt;a href=&#34;http://www.runasradio.com/default.aspx?ShowNum=509&#34; onclick=&#34;trackOutboundLink(&#39;http://www.runasradio.com/default.aspx?ShowNum=509&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
