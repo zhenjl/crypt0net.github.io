@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2016 12:40:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 12:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New features in Azure Application Insights Metrics Explorer</title>
+      <link>//cloudfeed.net/post/new-features-in-azure-application-insights-metrics-explorer/</link>
+      <pubDate>Wed, 07 Dec 2016 12:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/new-features-in-azure-application-insights-metrics-explorer/</guid>
+      <description>&lt;p&gt;several new features that allow more options for visualizing metrics, and simplify &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-in/blog/new-features-in-azure-application-insights-metrics-explorer/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-in/blog/new-features-in-azure-application-insights-metrics-explorer/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Building the &#39;biggest database ever&#39; in AWS</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/cherwell-asset-management-now-available-in-the-microsoft-azure-marketplace/</guid>
       <description>&lt;p&gt;&amp;ldquo;Cherwell Asset Management provides an enterprise-class IT asset management solution utilizing Microsoft Azure global scale and agility. Cherwell&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://www.einnews.com/pr_news/356915489/cherwell-asset-management-now-available-in-the-microsoft-azure-marketplace&#34; onclick=&#34;trackOutboundLink(&#39;http://www.einnews.com/pr_news/356915489/cherwell-asset-management-now-available-in-the-microsoft-azure-marketplace&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BlueData Delivers Ultimate Flexibility and Choice for Big Data Deployments</title>
-      <link>//cloudfeed.net/post/bluedata-delivers-ultimate-flexibility-and-choice-for-big-data-deployments/</link>
-      <pubDate>Wed, 07 Dec 2016 09:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/bluedata-delivers-ultimate-flexibility-and-choice-for-big-data-deployments/</guid>
-      <description>&lt;p&gt;Broadway World BlueData EPIC on AWS is generally available now with planned support for Google Cloud Platform, Microsoft Azure, and other public cloud services in &amp;hellip;  &lt;a href=&#34;http://www.broadwayworld.com/bwwgeeks/article/BlueData-Delivers-Ultimate-Flexibility-and-Choice-for-Big-Data-Deployments-on-Amazon-Web-Services-20161207&#34; onclick=&#34;trackOutboundLink(&#39;http://www.broadwayworld.com/bwwgeeks/article/BlueData-Delivers-Ultimate-Flexibility-and-Choice-for-Big-Data-Deployments-on-Amazon-Web-Services-20161207&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
