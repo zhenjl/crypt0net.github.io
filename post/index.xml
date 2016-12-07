@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2016 03:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 03:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data scientist Cathy O&#39;Neil on the cold destructiveness of big data</title>
+      <link>//cloudfeed.net/post/data-scientist-cathy-oneil-on-the-cold-destructiveness-of-big-data/</link>
+      <pubDate>Wed, 07 Dec 2016 03:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/data-scientist-cathy-oneil-on-the-cold-destructiveness-of-big-data/</guid>
+      <description>&lt;p&gt;Big data promises fairness. With enough information about individuals and populations, we can design algorithms that will identify the best possible &amp;hellip;  &lt;a href=&#34;http://qz.com/819245/data-scientist-cathy-oneil-on-the-cold-destructiveness-of-big-data/&#34; onclick=&#34;trackOutboundLink(&#39;http://qz.com/819245/data-scientist-cathy-oneil-on-the-cold-destructiveness-of-big-data/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>kubernetes-controller-manager container crashes when cloud-provider is</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;We must be mindful of potential drawbacks of big data, especially those related to data privacy and research ethics. When big data is used to &amp;hellip;  &lt;a href=&#34;http://www.shanghaidaily.com/opinion/The-Global-Search-for-Education-Would-Small-Data-Mean-Big-Change/shdaily.shtml&#34; onclick=&#34;trackOutboundLink(&#39;http://www.shanghaidaily.com/opinion/The-Global-Search-for-Education-Would-Small-Data-Mean-Big-Change/shdaily.shtml&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Firmware freakout sends Epson Wi-Fi printers into reset loop</title>
-      <link>//cloudfeed.net/post/firmware-freakout-sends-epson-wifi-printers-into-reset-loop/</link>
-      <pubDate>Wed, 07 Dec 2016 00:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/firmware-freakout-sends-epson-wifi-printers-into-reset-loop/</guid>
-      <description>&lt;p&gt;Epson Wi-Fi-connected printers are repeatedly crashing due to what looks like a combination of a firmware update gone wrong and Google Cloud &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/12/07/epson_printers_in_reset_loops/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/12/07/epson_printers_in_reset_loops/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
