@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 06 Dec 2016 21:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Dec 2016 22:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Standardizing, Maintaining, and Scaling OpenStack adoption</title>
+      <link>//cloudfeed.net/post/standardizing-maintaining-and-scaling-openstack-adoption/</link>
+      <pubDate>Tue, 06 Dec 2016 22:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/standardizing-maintaining-and-scaling-openstack-adoption/</guid>
+      <description>&lt;p&gt;As more and more enterprises move to the cloud, many companies are looking to OpenStack to reduce data center costs and increase technology &amp;hellip;  &lt;a href=&#34;http://openstack.cioreview.com/cxoinsight/standardizing-maintaining-and-scaling-openstack-adoption-nid-18269-cid-120.html&#34; onclick=&#34;trackOutboundLink(&#39;http://openstack.cioreview.com/cxoinsight/standardizing-maintaining-and-scaling-openstack-adoption-nid-18269-cid-120.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Using Cloud Vision API and Cloud Translation API from Google App Engine</title>
@@ -297,18 +309,6 @@
       
       <guid>//cloudfeed.net/post/vmware-vcloud-air-recovery-as-a-service-at-a-glance/</guid>
       <description>&lt;p&gt;As a VMware customer, you can use VMware vCloud Air to build a multi-platform data protection solution that enables you to choose which workloads &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/vmware-vcloud-air-recovery-as-a-service-at-a-glance/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/vmware-vcloud-air-recovery-as-a-service-at-a-glance/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Canon&#39;s new Pixma printer uses cheaper bottled ink</title>
-      <link>//cloudfeed.net/post/canons-new-pixma-printer-uses-cheaper-bottled-ink/</link>
-      <pubDate>Tue, 06 Dec 2016 16:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/canons-new-pixma-printer-uses-cheaper-bottled-ink/</guid>
-      <description>&lt;p&gt;Mobile devices are supported via Google Cloud Print (but not AirPrint) and by using Canon&amp;rsquo;s iOS and Android apps. The G3600 also works with &amp;hellip;  &lt;a href=&#34;http://www.bit.com.au/News/443836,canons-new-pixma-printer-uses-cheaper-bottled-ink.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bit.com.au/News/443836,canons-new-pixma-printer-uses-cheaper-bottled-ink.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
