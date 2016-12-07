@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 06 Dec 2016 21:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Dec 2016 21:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using Cloud Vision API and Cloud Translation API from Google App Engine</title>
+      <link>//cloudfeed.net/post/using-cloud-vision-api-and-cloud-translation-api-from-google-app-engine/</link>
+      <pubDate>Tue, 06 Dec 2016 21:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/using-cloud-vision-api-and-cloud-translation-api-from-google-app-engine/</guid>
+      <description>&lt;p&gt;translation. from google.cloud import vision, translate def get_labels(bucket, filename, &amp;hellip;  &lt;a href=&#34;http://enakai00.hatenablog.com/entry/2016/12/07/122030&#34; onclick=&#34;trackOutboundLink(&#39;http://enakai00.hatenablog.com/entry/2016/12/07/122030&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Azure Networking with Albert Greenberg</title>
@@ -297,18 +309,6 @@
       
       <guid>//cloudfeed.net/post/canons-new-pixma-printer-uses-cheaper-bottled-ink/</guid>
       <description>&lt;p&gt;Mobile devices are supported via Google Cloud Print (but not AirPrint) and by using Canon&amp;rsquo;s iOS and Android apps. The G3600 also works with &amp;hellip;  &lt;a href=&#34;http://www.bit.com.au/News/443836,canons-new-pixma-printer-uses-cheaper-bottled-ink.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bit.com.au/News/443836,canons-new-pixma-printer-uses-cheaper-bottled-ink.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How to succeed when &#39;50 percent of all enterprises fail in OpenStack&#39;</title>
-      <link>//cloudfeed.net/post/how-to-succeed-when-50-percent-of-all-enterprises-fail-in-openstack/</link>
-      <pubDate>Tue, 06 Dec 2016 16:30:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/how-to-succeed-when-50-percent-of-all-enterprises-fail-in-openstack/</guid>
-      <description>&lt;p&gt;A recent report from open-source software company, SUSE, shows half of all enterprises that tried to implement an OpenStack cloud have failed and &amp;hellip;  &lt;a href=&#34;http://openstack.cioreview.com/cxoinsight/how-to-succeed-when--50-percent-of-all-enterprises-fail-in-openstack--nid-23476-cid-120.html&#34; onclick=&#34;trackOutboundLink(&#39;http://openstack.cioreview.com/cxoinsight/how-to-succeed-when--50-percent-of-all-enterprises-fail-in-openstack--nid-23476-cid-120.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
