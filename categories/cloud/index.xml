@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2016 03:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 03:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud Print is Turning off Epson Printers</title>
+      <link>//cloudfeed.net/post/google-cloud-print-is-turning-off-epson-printers/</link>
+      <pubDate>Wed, 07 Dec 2016 03:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/google-cloud-print-is-turning-off-epson-printers/</guid>
+      <description>&lt;p&gt;Clearly this is a problem caused by Google Cloud Print. So far, there is no fix, however, Epson support provided the following instructions as posted by &amp;hellip;  &lt;a href=&#34;http://www.pcmag.com/news/350133/google-cloud-print-is-turning-off-epson-printers&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcmag.com/news/350133/google-cloud-print-is-turning-off-epson-printers&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>kubernetes-controller-manager container crashes when cloud-provider is</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/aws-makes-play-through-new-services/</guid>
       <description>&lt;p&gt;Amazon Web Services Inc (AWS), the world&amp;rsquo;s largest cloud service provider, is betting on its new wave of cloud services to capitalise on the emerging &amp;hellip;  &lt;a href=&#34;http://www.bangkokpost.com/tech/local-news/1153473/aws-makes-play-through-new-services&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bangkokpost.com/tech/local-news/1153473/aws-makes-play-through-new-services&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft: Kafka Connect for Azure IoT Hub</title>
-      <link>//cloudfeed.net/post/microsoft-kafka-connect-for-azure-iot-hub/</link>
-      <pubDate>Tue, 06 Dec 2016 18:40:08 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-kafka-connect-for-azure-iot-hub/</guid>
-      <description>&lt;p&gt;In Azure IoT, we believe in empowering developers to build IoT solutions with the technologies of their choice. Today I&amp;rsquo;m excited to announce the &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/microsoft-kafka-connect-for-azure-iot-hub/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/microsoft-kafka-connect-for-azure-iot-hub/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
