@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2016 02:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 03:00:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>kubernetes-controller-manager container crashes when cloud-provider is</title>
+      <link>//cloudfeed.net/post/kubernetescontrollermanager-container-crashes-when-cloudprovider-is/</link>
+      <pubDate>Wed, 07 Dec 2016 03:00:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/kubernetescontrollermanager-container-crashes-when-cloudprovider-is/</guid>
+      <description>&lt;p&gt;kubernetes, openstack, cloud-config, loadbalancer. Is this a BUG &amp;hellip; The k8s cluster is not running inside openstack/devstack. One node runs k8s &amp;hellip;  &lt;a href=&#34;https://github.com/kubernetes/kubernetes/issues/38274&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/kubernetes/kubernetes/issues/38274&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon unit says to launch Bahrain office in January</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-kafka-connect-for-azure-iot-hub/</guid>
       <description>&lt;p&gt;In Azure IoT, we believe in empowering developers to build IoT solutions with the technologies of their choice. Today I&amp;rsquo;m excited to announce the &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/microsoft-kafka-connect-for-azure-iot-hub/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/microsoft-kafka-connect-for-azure-iot-hub/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OpenStack and Azure  Hybrid Data Centers</title>
-      <link>//cloudfeed.net/post/openstack-and-azure--hybrid-data-centers/</link>
-      <pubDate>Tue, 06 Dec 2016 18:40:08 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/openstack-and-azure--hybrid-data-centers/</guid>
-      <description>&lt;p&gt;(Windows Server, System Center, Azure Pack) in your datacenter for a &amp;hellip;  &lt;a href=&#34;https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/12/06/openstack-and-azure-hybrid-data-centers/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/12/06/openstack-and-azure-hybrid-data-centers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
