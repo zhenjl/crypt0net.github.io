@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2016 06:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 07:20:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azul Announces Zulu Enterprise Deployed Internally at Microsoft for Key</title>
+      <link>//cloudfeed.net/post/azul-announces-zulu-enterprise-deployed-internally-at-microsoft-for-key/</link>
+      <pubDate>Wed, 07 Dec 2016 07:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/azul-announces-zulu-enterprise-deployed-internally-at-microsoft-for-key/</guid>
+      <description>&lt;p&gt;MFRTech (press release) SUNNYVALE, Calif.&amp;ndash;Azul Systems (Azul), the award-winning leader in Java runtime solutions, today announced that Microsoft&amp;rsquo;s Azure team has &amp;hellip;  &lt;a href=&#34;https://www.mfrtech.com/article/azul-announces-zulu-enterprise-deployed-internally-at-microsoft-for-key-cloud-se&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mfrtech.com/article/azul-announces-zulu-enterprise-deployed-internally-at-microsoft-for-key-cloud-se&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cambridge Semantics Shatters Previous Record of Loading and Querying</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/firmware-freakout-sends-epson-wifi-printers-into-reset-loop/</guid>
       <description>&lt;p&gt;Epson Wi-Fi-connected printers are repeatedly crashing due to what looks like a combination of a firmware update gone wrong and Google Cloud &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/12/07/epson_printers_in_reset_loops/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/12/07/epson_printers_in_reset_loops/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Adds FPGA Instance to Public Cloud</title>
-      <link>//cloudfeed.net/post/amazon-adds-fpga-instance-to-public-cloud/</link>
-      <pubDate>Wed, 07 Dec 2016 00:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-adds-fpga-instance-to-public-cloud/</guid>
-      <description>&lt;p&gt;In a blog post published last week, Amazon Web Services Chief Evangelist Jeff Barr announced a new Elastic Compute Cloud (EC2) instance, known &amp;hellip;  &lt;a href=&#34;https://www.top500.org/news/amazon-adds-fpga-instance-to-public-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.top500.org/news/amazon-adds-fpga-instance-to-public-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
