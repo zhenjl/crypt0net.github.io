@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2016 23:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 23:40:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Interactive Analysis of Genomic Datasets Using Amazon Athena</title>
+      <link>//cloudfeed.net/post/interactive-analysis-of-genomic-datasets-using-amazon-athena/</link>
+      <pubDate>Wed, 07 Dec 2016 23:40:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/interactive-analysis-of-genomic-datasets-using-amazon-athena/</guid>
+      <description>&lt;p&gt;running a big data system. This makes Athena an excellent complement to &amp;hellip;  &lt;a href=&#34;https://aws.amazon.com/blogs/big-data/interactive-analysis-of-genomic-datasets-using-amazon-athena/&#34; onclick=&#34;trackOutboundLink(&#39;https://aws.amazon.com/blogs/big-data/interactive-analysis-of-genomic-datasets-using-amazon-athena/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The megatrends that will rock the property industry</title>
@@ -279,18 +291,6 @@
       
       <guid>//cloudfeed.net/post/random-forest-as-a-regressor-a-sparkbased-solution/</guid>
       <description>&lt;p&gt;Consequently, it&amp;rsquo;s a perfect algorithm for making predictive analytics on Big Data. It can handle thousands of input features and variables at a time.  &lt;a href=&#34;https://dzone.com/articles/random-forest-as-a-regressor-a-spark-based-solutio&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/random-forest-as-a-regressor-a-spark-based-solutio&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hewlett Packard Enterprise enriches HPE IDOL machine learning engine with</title>
-      <link>//cloudfeed.net/post/hewlett-packard-enterprise-enriches-hpe-idol-machine-learning-engine-with/</link>
-      <pubDate>Wed, 07 Dec 2016 11:40:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/hewlett-packard-enterprise-enriches-hpe-idol-machine-learning-engine-with/</guid>
-      <description>&lt;p&gt;Among the biggest challenges facing organizations trying to leverage Big Data is providing answers to users&amp;rsquo; questions in a natural, effective manner &amp;hellip;  &lt;a href=&#34;http://sdtimes.com/hewlett-packard-enterprise-enriches-hpe-idol-machine-learning-engine-natural-language-processing/&#34; onclick=&#34;trackOutboundLink(&#39;http://sdtimes.com/hewlett-packard-enterprise-enriches-hpe-idol-machine-learning-engine-natural-language-processing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
 </description>
