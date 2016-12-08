@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 08 Dec 2016 03:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Dec 2016 03:20:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Journey into the Cloud (13): a small sensor board</title>
+      <link>//cloudfeed.net/post/my-journey-into-the-cloud-13-a-small-sensor-board/</link>
+      <pubDate>Thu, 08 Dec 2016 03:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/my-journey-into-the-cloud-13-a-small-sensor-board/</guid>
+      <description>&lt;p&gt;For the commands in the rudimentary MQTT library functions I could almost use their &amp;hellip; The results can be checked with an MQTT client of your choice.  &lt;a href=&#34;https://www.elektormagazine.com/news/my-journey-in-the-cloud-a-small-senor-board&#34; onclick=&#34;trackOutboundLink(&#39;https://www.elektormagazine.com/news/my-journey-in-the-cloud-a-small-senor-board&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IoT a &#39;game-changer&#39; for securing US borders under Donald Trump</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/unhiol-shines-spotlight-on-internet-of-things-interoperability/</guid>
       <description>&lt;p&gt;DURHAM, N.H.&amp;ndash;(BUSINESS WIRE)&amp;ndash;The University of New Hampshire InterOperability Laboratory (UNH-IOL), an independent provider of &amp;hellip;  &lt;a href=&#34;http://www.businesswire.com/news/home/20161207006430/en/UNH-IOL-Shines-Spotlight-Internet-Interoperability&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20161207006430/en/UNH-IOL-Shines-Spotlight-Internet-Interoperability&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blockchain Consortium Launched in South Korea</title>
-      <link>//cloudfeed.net/post/blockchain-consortium-launched-in-south-korea/</link>
-      <pubDate>Wed, 07 Dec 2016 20:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/blockchain-consortium-launched-in-south-korea/</guid>
-      <description>&lt;p&gt;NH Investment &amp;amp; Securities managing director Park Sun-moo and Daily Intelligence CEO Lee Kyung-joon signed an MOU at a blockchain consortium &amp;hellip;  &lt;a href=&#34;http://www.businesskorea.co.kr/english/news/money/16703-blackchain-movement-blockchain-consortium-launched-south-korea&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesskorea.co.kr/english/news/money/16703-blackchain-movement-blockchain-consortium-launched-south-korea&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
