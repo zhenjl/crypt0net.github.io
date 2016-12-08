@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2016 16:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 16:40:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud &amp; Slack double down on collaboration</title>
+      <link>//cloudfeed.net/post/google-cloud--slack-double-down-on-collaboration/</link>
+      <pubDate>Wed, 07 Dec 2016 16:40:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/google-cloud--slack-double-down-on-collaboration/</guid>
+      <description>&lt;p&gt;Slack and Google Cloud are formalising their partnership in order to provide a more integrated experience for customers. Google Docs and Drive &amp;hellip;  &lt;a href=&#34;http://www.cbronline.com/news/cloud/aas/google-cloud-slack-integration-collaboration/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/cloud/aas/google-cloud-slack-integration-collaboration/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Red Hat Openstack Platform and Red Hat Ceph Storage compatibility matrix</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/teradeep-takes-rapid-video-analytics-to-the-cloud-with-amazon-web-services/</guid>
       <description>&lt;p&gt;CAMPBELL, Calif., Dec. 6, 2016 /PRNewswire/  TeraDeep, a developer of accelerated deep learning applications for the cloud and on-premise &amp;hellip;  &lt;a href=&#34;http://satprnews.com/2016/12/06/teradeep-takes-rapid-video-analytics-to-the-cloud-with-amazon-web-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://satprnews.com/2016/12/06/teradeep-takes-rapid-video-analytics-to-the-cloud-with-amazon-web-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Webinar: Running an enterprise-grade OpenStack without the headaches</title>
-      <link>//cloudfeed.net/post/webinar-running-an-enterprisegrade-openstack-without-the-headaches/</link>
-      <pubDate>Wed, 07 Dec 2016 12:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/webinar-running-an-enterprisegrade-openstack-without-the-headaches/</guid>
-      <description>&lt;p&gt;highly scalable OpenStack clouds with BootStack on a Supermicro &amp;hellip;  &lt;a href=&#34;https://insights.ubuntu.com/2016/12/07/webinar-running-an-enterprise-grade-openstack-without-the-headaches/&#34; onclick=&#34;trackOutboundLink(&#39;https://insights.ubuntu.com/2016/12/07/webinar-running-an-enterprise-grade-openstack-without-the-headaches/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
