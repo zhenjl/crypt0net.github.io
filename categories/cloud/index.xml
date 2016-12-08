@@ -7,8 +7,204 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2016 17:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 18:05:01 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Cloud Computing News from @cloudfeednet - Dec 7, 2016</title>
+      <link>//cloudfeed.net/daily/daily-cloud-news-2016-12-07/</link>
+      <pubDate>Wed, 07 Dec 2016 18:05:01 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/daily/daily-cloud-news-2016-12-07/</guid>
+      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.bangkokpost.com/tech/local-news/1153473/aws-makes-play-through-new-services&#39;&gt;AWS makes play through new services&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Amazon Web Services Inc (AWS), the world&amp;rsquo;s largest cloud service provider, is betting on its new wave of cloud services to capitalise on the emerging &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://insidehpc.com/2016/12/ddn-and-ibm-japan-team-to-deliver-yahoo-japan-a-50-tb-per-day-inter-continental-active-archive-solution-that-offers-lower-cost-rapid-data-access-in-japan-and-u-s/&#39;&gt;DDN and IBM Team on 50 TB per Day, Inter-Continental Active Archive&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;insideHPC JAPAN to cache dozens of petabytes of data from its OpenStack Swift storage solution in a Japan-based data center, and transfer data to a U.S.-based &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.cso.com.au/mediareleases/28709/tibco-releases-tibco-mashery-local-api-management/&#39;&gt;TIBCO Releases TIBCO Mashery Local API Management Solution for Hybrid&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;CSO Australia Mashery Local can be deployed to any cloud environment that supports Docker containers, such as Amazon Web Services, Kubernetes or &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.cso.com.au/mediareleases/28709/tibco-releases-tibco-mashery-local-api-management/&#39;&gt;TIBCO Releases TIBCO Mashery Local API Management Solution for Hybrid&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;CSO Australia Microsoft and Azure are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. All other &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.runasradio.com/default.aspx?ShowNum=509&#39;&gt;Microsoft Azure Networking with Albert Greenberg&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;working with Microsoft products. The full range of IT topics is covered from a &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://enakai00.hatenablog.com/entry/2016/12/07/122030&#39;&gt;Using Cloud Vision API and Cloud Translation API from Google App Engine&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;translation. from google.cloud import vision, translate def get_labels(bucket, filename, &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://openstack.cioreview.com/cxoinsight/standardizing-maintaining-and-scaling-openstack-adoption-nid-18269-cid-120.html&#39;&gt;Standardizing, Maintaining, and Scaling OpenStack adoption&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As more and more enterprises move to the cloud, many companies are looking to OpenStack to reduce data center costs and increase technology &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://security.itbusinessnet.com/article/21Vianet-Blue-Cloud-Launches-GigaCloud-Service-in-the-Chinese-Market-for-Secure-Document-and-Email-Collaboration-4724948&#39;&gt;21Vianet Blue Cloud Launches GigaCloud Service in the Chinese Market for&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;IT Business Net Blue Cloud is the first domestic cloud service provider to launch Microsoft&amp;rsquo;s Azure and Office 365 in China. GigaCloud is Blue Cloud&amp;rsquo;s latest security &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.top500.org/news/amazon-adds-fpga-instance-to-public-cloud/&#39;&gt;Amazon Adds FPGA Instance to Public Cloud&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;In a blog post published last week, Amazon Web Services Chief Evangelist Jeff Barr announced a new Elastic Compute Cloud (EC2) instance, known &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.theregister.co.uk/2016/12/07/epson_printers_in_reset_loops/&#39;&gt;Firmware freakout sends Epson Wi-Fi printers into reset loop&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Epson Wi-Fi-connected printers are repeatedly crashing due to what looks like a combination of a firmware update gone wrong and Google Cloud &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.reuters.com/article/idUSASN0004FX&#39;&gt;BRIEF-Alma Media selects Cybercom as its Amazon Web Services partner&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;BRIEF-Alma Media selects Cybercom as its Amazon Web Services partner. Dec 7 Alma Media Oyj : * Alma Media has selected Cybercom as its &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.cybercom.com/About-Cybercom/Press-Media/Press-releases/alma-media-has-selected-cybercom-as-its-amazon-web-services-aws-partner/&#39;&gt;Alma Media has selected Cybercom as its Amazon Web Services&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;as the maintenance solution for its cloud platform. The agreement is &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://microsoft.cioreview.com/cxoinsight/azure-machine-learning-for-predictive-and-analytical-work-nid-23482-cid-50.html&#39;&gt;Azure Machine Learning for Predictive and Analytical Work&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As it turns out, it does quite a lot, and as it stands, all these notions are brought together by Microsoft Azure. Read on to find out how. There exists a &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.arabianbusiness.com/amazon-unit-says-launch-bahrain-office-in-january-655563.html&#39;&gt;Amazon unit says to launch Bahrain office in January&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Amazon Web Services (AWS) said the office will open on January 1 in Manama and will support organisations of all sizes, from start-ups to &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://github.com/kubernetes/kubernetes/issues/38274&#39;&gt;kubernetes-controller-manager container crashes when cloud-provider is&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;kubernetes, openstack, cloud-config, loadbalancer. Is this a BUG &amp;hellip; The k8s cluster is not running inside openstack/devstack. One node runs k8s &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.pcmag.com/news/350133/google-cloud-print-is-turning-off-epson-printers&#39;&gt;Google Cloud Print is Turning off Epson Printers&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Clearly this is a problem caused by Google Cloud Print. So far, there is no fix, however, Epson support provided the following instructions as posted by &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://mspoweruser.com/microsoft-releases-new-azure-training-courses-free/&#39;&gt;Microsoft releases new Azure training courses for free&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Microsoft yesterday announced the free Azure training courses available in a self-paced, interactive online learning environment, as well as the option &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.channelemea.com/spip.php?article38822&#39;&gt;Vuzion and Union Solutions announce partnership&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; Solutions have partnered to deliver infrastructure management, data protection and site disaster recovery using the Microsoft Azure public cloud. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.lightreading.com/nfv/nfv-specs-open-source/nia-tests-reveal-openstack-version-challenges/d/d-id/728784&#39;&gt;NIA Tests Reveal OpenStack Version Challenges&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;There are de facto open source software processes substituting for standards but none of those is currently taking responsibility for OpenStack &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.technewsworld.com/story/84145.html&#39;&gt;How Amazon Could Reshape More Industries in 2017&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Anyone who attended the recent Amazon Web Services re:Invent conference &amp;ndash; or watched many sessions online, as I did &amp;ndash; probably is still trying to &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.techcentral.ie/smartftp-8-0-2273-0-64-bit/&#39;&gt;A powerful FTP client with many useful features&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;SmartFTP is a fast and easy-to-use FTP client that will make quick work of all your file transfer tasks. The program supports regular FTP connections, &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.afr.com/technology/up-in-the-cloud-amazons-biggest-earner-is-its-computing-powerhouse-20161205-gt4alu&#39;&gt;Up in the cloud: Amazon&amp;rsquo;s biggest earner is its computing powerhouse&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;When Jeff Bezos founded Amazon its key market was online retail but now Amazon Web Services is the internet giant&amp;rsquo;s star performer. David Ryder. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://satprnews.com/2016/12/07/cambridge-semantics-shatters-previous-record-of-loading-and-querying-trillion-triples-by-100x/&#39;&gt;Cambridge Semantics Shatters Previous Record of Loading and Querying&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Satellite PR News (press release) In the LUBM test conducted on the Google Cloud Platform on Oct. 31, 2016, Cambridge Semantics&amp;rsquo; Anzo Graph Query Engine was able to load and &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.mfrtech.com/article/azul-announces-zulu-enterprise-deployed-internally-at-microsoft-for-key-cloud-se&#39;&gt;Azul Announces Zulu Enterprise Deployed Internally at Microsoft for Key&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;MFRTech (press release) SUNNYVALE, Calif.&amp;ndash;Azul Systems (Azul), the award-winning leader in Java runtime solutions, today announced that Microsoft&amp;rsquo;s Azure team has &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://security.itbusinessnet.com/article/ClearDATA-Named-to-Amazon-Web-Services-Public-Sector-Partner-Program-4726160&#39;&gt;ClearDATA Named to Amazon Web Services Public Sector Partner Program&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;AUSTIN, Texas, Dec. 6, 2016 /PRNewswire/ &amp;ndash;ClearDATA, a secure healthcare cloud platform and managed services company, has been selected to &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.businesswire.com/news/home/20161207005241/en/Avnet-Introduces-Partner-Programs-Avnet-Cloud-Marketplace&#39;&gt;Avnet Introduces New Partner Programs for the Avnet Cloud Marketplace&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Avnet AWS CloudFront Reseller Program: Designed to build strategic partnerships with key Avnet Amazon Web Services (AWS) partners who enable &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.forbes.com/sites/quora/2016/12/07/why-is-microsoft-showing-so-much-interest-in-linux/&#39;&gt;Why Is Microsoft Showing So Much Interest In Linux?&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Microsoft focuses all of its accelerators and sales training on Azure and Office 365. Its sales people lead with these. Customers renewing their &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.dbta.com/Editorial/News-Flashes/Dell-Boomi-Releases-Fall-2016-version-of-its-Signature-Platform-115142.aspx&#39;&gt;Dell Boomi Releases Fall 2016 version of its Signature Platform&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; DoubleClick by Google, Intuit QuickBooks 2016, Magento, Marketo, Microsoft Azure SQL Database and SQL Data Warehouse, Microsoft Azure Blob &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.cpapracticeadvisor.com/news/12285340/xero-completes-data-migration-onto-amazon-web-services&#39;&gt;Xero Completes Data Migration onto Amazon Web Services&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Xero, a maker of small business cloud accounting software, has completed its transition to Amazon Web Services (AWS), marking one of the largest &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.broadwayworld.com/bwwgeeks/article/BlueData-Delivers-Ultimate-Flexibility-and-Choice-for-Big-Data-Deployments-on-Amazon-Web-Services-20161207&#39;&gt;BlueData Delivers Ultimate Flexibility and Choice for Big Data Deployments&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Broadway World &amp;hellip; (BDaaS) software platform, today announced the general availability of its BlueData EPIC software on Amazon Web Services (AWS). BlueData EPIC &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.broadwayworld.com/bwwgeeks/article/BlueData-Delivers-Ultimate-Flexibility-and-Choice-for-Big-Data-Deployments-on-Amazon-Web-Services-20161207&#39;&gt;BlueData Delivers Ultimate Flexibility and Choice for Big Data Deployments&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Broadway World BlueData EPIC on AWS is generally available now with planned support for Google Cloud Platform, Microsoft Azure, and other public cloud services in &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.einnews.com/pr_news/356915489/cherwell-asset-management-now-available-in-the-microsoft-azure-marketplace&#39;&gt;Cherwell Asset Management Now Available in the Microsoft Azure Marketplace&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Cherwell Asset Management provides an enterprise-class IT asset management solution utilizing Microsoft Azure global scale and agility. Cherwell&amp;rsquo;s &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://cloud.google.com/blog/big-data/2016/12/analyzing-nyc-biking-data-with-google-bigquery&#39;&gt;Analyzing NYC Biking Data with Google BigQuery&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;program, Sara uncovers interesting New York City bicycling trends. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://techseen.com/2016/12/07/agero-amazon-web-services/&#39;&gt;Agero uses Amazon Web Services to revamp driver safety&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Discussed on stage at AWS re:Invent and built on the Amazon Web Services (AWS) Cloud, Agero&amp;rsquo;s mobile telematics platform is designed to detect &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://data-economy.com/uks-largest-data-centre-gets-board-microsofts-azure-expressroute/&#39;&gt;UK&amp;rsquo;s largest data centre gets on board Microsoft&amp;rsquo;s Azure ExpressRoute&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;available on Microsoft Azure ExpressRoute to ease private connections &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.lightreading.com/nfv/nfv-tests-and-trials/2016-nia-eantc-nfv-interoperability-test-report/d/d-id/728802&#39;&gt;2016 NIA-EANTC NFV Interoperability Test Report&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Vendor members have upstreamed test findings to open source projects such as OpenStack, and to standards-developing organizations such as ETSI &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://techcrunch.com/2016/12/07/slack-and-google-announce-partnership-focused-on-better-integrating-their-services/&#39;&gt;Slack and Google announce partnership focused on better integrating their&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;TechCrunch Slack announced a strategic partnership with Google Cloud this morning, which will bring a number of new features, including deeper integrations &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://finance.yahoo.com/news/insitecommerce-announces-version-e-commerce-181000198.html&#39;&gt;InsiteCommerce Announces New Version of e-Commerce Platform on Microsoft&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Yahoo Finance InsiteCommerce has been a Gold Partner of Microsoft for the last ten years, providing commerce solutions for B2B companies. Azure allows Insite &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.gurufocus.com/news/462432/the-strategy-behind-amazon-web-services-growing-margins&#39;&gt;The Strategy Behind Amazon Web Services&amp;rsquo; Growing Margins&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Amazon Web Services has been cutting prices whenever it gets a chance. Amazon EC2, its on-demand reserve instances, has gone through 53 price &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://9to5google.com/2016/12/07/google-partners-with-slack-to-provide-better-google-cloud-integration/&#39;&gt;Google partners with Slack to provide better Google Cloud integration&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The two companies, well aware of this, have decided to team up to offer an even deeper integration of Google Cloud within Slack, so come along after &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://blog.google/topics/google-cloud/google-and-slack-deepen-partnership-help-teams-work-better-together/&#39;&gt;Google and Slack deepen partnership to help teams work better together&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;same vision for the future of work: that smart software can bring teams &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://insights.ubuntu.com/2016/12/07/webinar-running-an-enterprise-grade-openstack-without-the-headaches/&#39;&gt;Webinar: Running an enterprise-grade OpenStack without the headaches&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;highly scalable OpenStack clouds with BootStack on a Supermicro &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.itnews.com.au/news/building-the-biggest-database-ever-in-aws-443699&#39;&gt;Building the &amp;lsquo;biggest database ever&amp;rsquo; in AWS&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; different from its competitors - like fintech firm Fidelity National Information Services (FIS), which has partnered with Google cloud services for its own &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://satprnews.com/2016/12/06/teradeep-takes-rapid-video-analytics-to-the-cloud-with-amazon-web-services/&#39;&gt;TeraDeep Takes Rapid Video Analytics to the Cloud with Amazon Web Services&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;CAMPBELL, Calif., Dec. 6, 2016 /PRNewswire/  TeraDeep, a developer of accelerated deep learning applications for the cloud and on-premise &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.lightreading.com/services/ott/google-both-best-telco-partner-and-biggest-threat---hr-survey/d/d-id/728815&#39;&gt;Google Both Best Telco Partner &amp;amp; Biggest Threat  HR Survey&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; including a potentially game-changing partnership between Amazon Web Services Inc. and AT&amp;amp;T Inc. (NYSE: T) in areas including IoT (the Internet &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://azure.microsoft.com/en-in/blog/new-features-in-azure-application-insights-metrics-explorer/&#39;&gt;New features in Azure Application Insights Metrics Explorer&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;several new features that allow more options for visualizing metrics, and simplify &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.techrepublic.com/article/slack-teams-with-google-cloud-adds-docs-preview-drive-bot-and-more/&#39;&gt;Slack teams with Google Cloud, adds Docs preview, Drive Bot, and more&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Google Cloud customers will soon get more functionality from chat platform Slack, as the two companies announced new features and a deeper &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://blogs.vmware.com/vcloud/2016/12/journey-public-cloud-reality-based.html&#39;&gt;Journey to the Public Cloud with Reality-Based IT&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Systems and Technology (IS&amp;amp;T). Massachusetts Institute of Technology (MIT) &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://rcpmag.com/blogs/scott-bekker/2016/12/microsoft-expands-azure-training.aspx&#39;&gt;Microsoft Expands Azure Training with Free Courses, Testing Discounts&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Hoping to help narrow a skills gap around its public cloud services for partners and customers, Microsoft on Tuesday rolled out six new and free &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.computerdealernews.com/news/microsoft-offering-free-azure-training-for-partners/51877&#39;&gt;Microsoft offering free Azure training for partners&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Microsoft is addressing the skills gap that may be preventing partners from diving into the cloud with free Azure training for its partners. In a Dec. 5 blog &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://betakit.com/slack-and-google-to-work-together-on-integrations-through-strategic-partnership/&#39;&gt;Slack and Google to work together on integrations through strategic&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;BetaKit Slack has announced a strategic partnership with Google Cloud in an effort to facilitate deeper integrations with Google services on its platform. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://siliconangle.com/blog/2016/12/07/wikibon-trip-report-amazon-web-services-reinvent-welcome-aws-2-0/&#39;&gt;Wikibon trip report from Amazon Web Services&amp;rsquo; re:Invent: Welcome to AWS 2.0&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;For the first decade of Amazon Web Services  call it AWS 1.0  Amazon.com Inc. devoted much of its time to proving the cloud could work. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://searchstorage.techtarget.com/blog/Storage-Soup/SwiftStack-public-Cloud-Sync-starts-with-Amazon-Google&#39;&gt;SwiftStack public Cloud Sync starts with Amazon, Google&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Blandini credited said SwiftStack customers requested additional cloud support beyond Amazon Web Services. Customers buy servers from multiple &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://rcpmag.com/whitepapers/2016/12/arrow-electronics/grow-microsoft-csp-practice-free-end-user-qualified-leads.aspx?tc=page0&#39;&gt;Grow Your Microsoft CSP Practice with FREE End User Qualified Leads&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Are you looking to grow your MSP Practice? Partner with Arrow to build cloud solution expertise needed by almost every business today while &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.techrepublic.com/article/how-to-connect-multiple-google-cloud-accounts-to-grive2/&#39;&gt;How to connect multiple Google cloud accounts to Grive2&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; account configured to sync with Grive2; if not, you can follow the steps as outlined in the post, How to sync your Google Cloud on Linux with Grive2. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://searchstorage.techtarget.com/blog/Storage-Soup/SwiftStack-public-Cloud-Sync-starts-with-Amazon-Google&#39;&gt;SwiftStack public Cloud Sync starts with Amazon, Google&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Other use cases include active archiving, cloud bursting, offsite disaster recovery and cold archiving with Amazon Glacier and Google Cloud Storage &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://access.redhat.com/solutions/2798581&#39;&gt;Red Hat Openstack Platform and Red Hat Ceph Storage compatibility matrix&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Solution Verified - Updated 2016-12-07T22:35:14+00:00 -. English. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.cbronline.com/news/cloud/aas/google-cloud-slack-integration-collaboration/&#39;&gt;Google Cloud &amp;amp; Slack double down on collaboration&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Slack and Google Cloud are formalising their partnership in order to provide a more integrated experience for customers. Google Docs and Drive &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.bluedata.com/blog/2016/12/now-available-bluedata-epic-on-aws/&#39;&gt;Now Available: BlueData EPIC on Amazon Web Services&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;availability of BlueData EPIC on Amazon Web Services (AWS). &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://searchstorage.techtarget.com/blog/Storage-Soup/SwiftStack-public-Cloud-Sync-starts-with-Amazon-Google&#39;&gt;SwiftStack public Cloud Sync starts with Amazon, Google&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Object storage provider SwiftStack Inc. has added hybrid cloud synchronization to its OpenStack-based software controller. SwiftStack Cloud Sync &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://mspoweruser.com/microsoft-azure-iot-hub-awarded-9-industry-certifications/&#39;&gt;Microsoft Azure IoT Hub Awarded 9 Industry Certifications&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Microsoft today announced that Azure IoT Hub has been awarded several major compliance certifications for the public cloud. Compliance &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&lt;a href=&#39;https://www.com-unik.info/2016/12/07/amazon-com-inc-amzn-given-outperform-rating-at-cowen-and-company-2.html&#39;&gt;Amazon.com Inc. (AMZN) Given Outperform Rating at Cowen and Company&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Amazon.com Inc. logo Cowen and Company reaffirmed their outperform rating on shares of Amazon.com Inc. (NASDAQ:AMZN) in a report published &amp;hellip; &lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon.com Inc. (AMZN) Given Outperform Rating at Cowen and Company</title>
@@ -173,18 +369,6 @@
       
       <guid>//cloudfeed.net/post/slack-teams-with-google-cloud-adds-docs-preview-drive-bot-and-more/</guid>
       <description>&lt;p&gt;Google Cloud customers will soon get more functionality from chat platform Slack, as the two companies announced new features and a deeper &amp;hellip;  &lt;a href=&#34;http://www.techrepublic.com/article/slack-teams-with-google-cloud-adds-docs-preview-drive-bot-and-more/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techrepublic.com/article/slack-teams-with-google-cloud-adds-docs-preview-drive-bot-and-more/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New features in Azure Application Insights Metrics Explorer</title>
-      <link>//cloudfeed.net/post/new-features-in-azure-application-insights-metrics-explorer/</link>
-      <pubDate>Wed, 07 Dec 2016 12:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/new-features-in-azure-application-insights-metrics-explorer/</guid>
-      <description>&lt;p&gt;several new features that allow more options for visualizing metrics, and simplify &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-in/blog/new-features-in-azure-application-insights-metrics-explorer/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-in/blog/new-features-in-azure-application-insights-metrics-explorer/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
