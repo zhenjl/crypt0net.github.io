@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 08 Dec 2016 10:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Dec 2016 10:10:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWS Re:Invent: How Does Amazon Plan to Revolutionize 2017?</title>
+      <link>//cloudfeed.net/post/aws-reinvent-how-does-amazon-plan-to-revolutionize-2017/</link>
+      <pubDate>Thu, 08 Dec 2016 10:10:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/aws-reinvent-how-does-amazon-plan-to-revolutionize-2017/</guid>
+      <description>&lt;p&gt;On Amazon&amp;rsquo;s recently concluded AWS: re:Invent annual conference (AWS stands for Amazon Web Services) held in Las Vegas, the multi-billion &amp;hellip;  &lt;a href=&#34;http://www.gospelherald.com/articles/68654/20161208/aws-re-invent-how-does-amazon-plan-to-revolutionize-2017.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gospelherald.com/articles/68654/20161208/aws-re-invent-how-does-amazon-plan-to-revolutionize-2017.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>UKCloud becomes first UK public sector cloud provider to support OpenStack</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/red-hat-launches-openshift-dedicated-on-google-cloud-platform/</guid>
       <description>&lt;p&gt;users can speed adoption of containers, Kubernetes, and cloud-native &amp;hellip;  &lt;a href=&#34;https://www.redhat.com/en/about/press-releases/red-hat-launches-openshift-dedicated-google-cloud-platform&#34; onclick=&#34;trackOutboundLink(&#39;https://www.redhat.com/en/about/press-releases/red-hat-launches-openshift-dedicated-google-cloud-platform&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OpenStack Functions-as-a-Service (Picasso)</title>
-      <link>//cloudfeed.net/post/openstack-functionsasaservice-picasso/</link>
-      <pubDate>Thu, 08 Dec 2016 05:30:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/openstack-functionsasaservice-picasso/</guid>
-      <description>&lt;p&gt;on OpenStack. Details coming soon!  &lt;a href=&#34;https://launchpad.net/picasso&#34; onclick=&#34;trackOutboundLink(&#39;https://launchpad.net/picasso&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
