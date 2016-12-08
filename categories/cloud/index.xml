@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2016 19:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 21:10:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Yahoo Japan deploys active archive system by DDN and IBM</title>
+      <link>//cloudfeed.net/post/yahoo-japan-deploys-active-archive-system-by-ddn-and-ibm/</link>
+      <pubDate>Wed, 07 Dec 2016 21:10:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/yahoo-japan-deploys-active-archive-system-by-ddn-and-ibm/</guid>
+      <description>&lt;p&gt;The new system allows Yahoo Japan to cache dozens of petabytes of data from its OpenStack Swift storage solution in a Japan-based data center.  &lt;a href=&#34;http://www.infotechlead.com/networking/yahoo-japan-deploys-active-archive-system-ddn-ibm-44305&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infotechlead.com/networking/yahoo-japan-deploys-active-archive-system-ddn-ibm-44305&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft is driving digital transformation of the manufacturing sector:</title>
@@ -357,18 +369,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-expands-azure-training-with-free-courses-testing-discounts/</guid>
       <description>&lt;p&gt;Hoping to help narrow a skills gap around its public cloud services for partners and customers, Microsoft on Tuesday rolled out six new and free &amp;hellip;  &lt;a href=&#34;https://rcpmag.com/blogs/scott-bekker/2016/12/microsoft-expands-azure-training.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://rcpmag.com/blogs/scott-bekker/2016/12/microsoft-expands-azure-training.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft offering free Azure training for partners</title>
-      <link>//cloudfeed.net/post/microsoft-offering-free-azure-training-for-partners/</link>
-      <pubDate>Wed, 07 Dec 2016 14:40:09 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-offering-free-azure-training-for-partners/</guid>
-      <description>&lt;p&gt;Microsoft is addressing the skills gap that may be preventing partners from diving into the cloud with free Azure training for its partners. In a Dec. 5 blog &amp;hellip;  &lt;a href=&#34;http://www.computerdealernews.com/news/microsoft-offering-free-azure-training-for-partners/51877&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computerdealernews.com/news/microsoft-offering-free-azure-training-for-partners/51877&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
