@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 08 Dec 2016 13:40:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Dec 2016 13:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Scaling OpenStack With a Shared-Nothing Architecture</title>
+      <link>//cloudfeed.net/post/scaling-openstack-with-a-sharednothing-architecture/</link>
+      <pubDate>Thu, 08 Dec 2016 13:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/scaling-openstack-with-a-sharednothing-architecture/</guid>
+      <description>&lt;p&gt;removing single points of contention. Learn about the pros and cons of this &amp;hellip;  &lt;a href=&#34;https://www.mirantis.com/blog/scaling-openstack-shared-nothing-architecture/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/scaling-openstack-shared-nothing-architecture/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>8 Tech Stocks to Watch Now</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/new-microsoft-azure-training-and-discounted-certifications/</guid>
       <description>&lt;p&gt;In case you missed the recent news, Microsoft joined the Linux Foundation, further demonstrating our commitment to open source for Azure, and as a &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/new-microsoft-azure-training-and-discounted-certifications/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+AllArticles+%28All+DABCC+Virtualization+%2F+Cloud+Computing+Resources+%28Citrix%2C+VMware%2C+and+Microsoft%29%29&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/new-microsoft-azure-training-and-discounted-certifications/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+AllArticles+%28All+DABCC+Virtualization+%2F+Cloud+Computing+Resources+%28Citrix%2C+VMware%2C+and+Microsoft%29%29&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services Cloud Now Available to Customers from Data Centers in</title>
-      <link>//cloudfeed.net/post/amazon-web-services-cloud-now-available-to-customers-from-data-centers-in/</link>
-      <pubDate>Thu, 08 Dec 2016 11:10:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-web-services-cloud-now-available-to-customers-from-data-centers-in/</guid>
-      <description>&lt;p&gt;Business Wire (press release) SEATTLE&amp;ndash;(BUSINESS WIRE)&amp;ndash;(NASDAQ:AMZN)  Amazon Web Services, Inc. (AWS), an Amazon.com company, today announced the launch of the &amp;hellip;  &lt;a href=&#34;http://www.businesswire.com/news/home/20161208006034/en/Amazon-Web-Services-Cloud-Customers-Data-Centers&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20161208006034/en/Amazon-Web-Services-Cloud-Customers-Data-Centers&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
