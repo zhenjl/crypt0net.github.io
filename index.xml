@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Dec 2016 00:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2016 00:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>On Building an Auto-healing Resource Cluster using Senlin</title>
+      <link>//cloudfeed.net/post/on-building-an-autohealing-resource-cluster-using-senlin/</link>
+      <pubDate>Fri, 09 Dec 2016 00:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/on-building-an-autohealing-resource-cluster-using-senlin/</guid>
+      <description>&lt;p&gt;environment. How to accurately detect failures happen in different layers; how to &amp;hellip;  &lt;a href=&#34;https://www.openstack.org/videos/barcelona-2016/on-building-an-auto-healing-resource-cluster-using-senlin&#34; onclick=&#34;trackOutboundLink(&#39;https://www.openstack.org/videos/barcelona-2016/on-building-an-auto-healing-resource-cluster-using-senlin&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>NVTC to Host 2017 Capital Data Summit</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;The new Microsoft Azure Cloud Console comes with an integrated workflow, that allows users to build applications on Azure using graphical interface &amp;hellip;  &lt;a href=&#34;http://tech.firstpost.com/news-analysis/microsoft-corporation-announces-new-cloud-console-for-azure-portal-351991.html&#34; onclick=&#34;trackOutboundLink(&#39;http://tech.firstpost.com/news-analysis/microsoft-corporation-announces-new-cloud-console-for-azure-portal-351991.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How the Cyber Kangaroo can help defend the Internet of Things</title>
-      <link>//cloudfeed.net/post/how-the-cyber-kangaroo-can-help-defend-the-internet-of-things/</link>
-      <pubDate>Thu, 08 Dec 2016 21:10:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/how-the-cyber-kangaroo-can-help-defend-the-internet-of-things/</guid>
-      <description>&lt;p&gt;What are Australia&amp;rsquo;s policy options for responding to the internet threats of 2022? This question was explored in the 360 Cyber Game conducted &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/how-the-cyber-kangaroo-can-help-defend-the-internet-of-things/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/how-the-cyber-kangaroo-can-help-defend-the-internet-of-things/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

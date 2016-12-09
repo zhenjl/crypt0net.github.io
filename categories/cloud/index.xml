@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 08 Dec 2016 23:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2016 00:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>On Building an Auto-healing Resource Cluster using Senlin</title>
+      <link>//cloudfeed.net/post/on-building-an-autohealing-resource-cluster-using-senlin/</link>
+      <pubDate>Fri, 09 Dec 2016 00:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/on-building-an-autohealing-resource-cluster-using-senlin/</guid>
+      <description>&lt;p&gt;environment. How to accurately detect failures happen in different layers; how to &amp;hellip;  &lt;a href=&#34;https://www.openstack.org/videos/barcelona-2016/on-building-an-auto-healing-resource-cluster-using-senlin&#34; onclick=&#34;trackOutboundLink(&#39;https://www.openstack.org/videos/barcelona-2016/on-building-an-auto-healing-resource-cluster-using-senlin&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Salmat IT leader turned to Google partner Cloud Sherpas to move office into</title>
@@ -375,18 +387,6 @@
       
       <guid>//cloudfeed.net/post/bailian-from-brick--mortar-to-brick--click-using-openstack-devops/</guid>
       <description>&lt;p&gt;retail by using OpenStack and DevOps for increased agility, efficient &amp;hellip;  &lt;a href=&#34;https://www.mirantis.com/blog/bailian-goes-brick-mortar-brick-click-using-openstack-devops/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/bailian-goes-brick-mortar-brick-click-using-openstack-devops/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2000 stores? Amazon knocks down report of retail plans</title>
-      <link>//cloudfeed.net/post/2000-stores-amazon-knocks-down-report-of-retail-plans/</link>
-      <pubDate>Thu, 08 Dec 2016 16:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/2000-stores-amazon-knocks-down-report-of-retail-plans/</guid>
-      <description>&lt;p&gt;That&amp;rsquo;s what it did with Amazon Web Services, which rents out computing power and storage to other companies, many of them fierce retail rivals.  &lt;a href=&#34;http://www.seattletimes.com/business/amazon/2000-stores-amazon-knocks-down-report-of-retail-plans/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.seattletimes.com/business/amazon/2000-stores-amazon-knocks-down-report-of-retail-plans/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
