@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 08 Dec 2016 18:40:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Dec 2016 19:40:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pass-Through Authentication Preview Added to Azure AD</title>
+      <link>//cloudfeed.net/post/passthrough-authentication-preview-added-to-azure-ad/</link>
+      <pubDate>Thu, 08 Dec 2016 19:40:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/passthrough-authentication-preview-added-to-azure-ad/</guid>
+      <description>&lt;p&gt;Shops that want the benefits of Microsoft&amp;rsquo;s Azure public cloud, but still want to maintain local control of authentication, will soon have a new option.  &lt;a href=&#34;https://virtualizationreview.com/articles/2016/12/08/passthrough-authentication-preview-added-to-azure-ad.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://virtualizationreview.com/articles/2016/12/08/passthrough-authentication-preview-added-to-azure-ad.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>10 Tips to Maximize the Value of Public Cloud Storage</title>
@@ -375,18 +387,6 @@
       
       <guid>//cloudfeed.net/post/azul-zulu-enterprise-deployed-internally-at-microsoft-for-key-cloud/</guid>
       <description>&lt;p&gt;FinancialNews.co.uk (blog) Azul Systems Zulu Enterprise 100% open source Java platform based on OpenJDK has been deployed by Microsofts Azure team as the Java &amp;hellip;  &lt;a href=&#34;http://www.financial-news.co.uk/38627/2016/12/azul-zulu-enterprise-deployed-internally-at-microsoft-f/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.financial-news.co.uk/38627/2016/12/azul-zulu-enterprise-deployed-internally-at-microsoft-f/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Cloud Adds C# Support to Lambda Service</title>
-      <link>//cloudfeed.net/post/amazon-cloud-adds-c-support-to-lambda-service/</link>
-      <pubDate>Thu, 08 Dec 2016 15:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-cloud-adds-c-support-to-lambda-service/</guid>
-      <description>&lt;p&gt;Amazon Web Services Inc. (AWS) announced that its AWS Lambda tool &amp;ndash; providing serverless functionality for projects such as app back-end services &amp;hellip;  &lt;a href=&#34;https://adtmag.com/articles/2016/12/08/aws-lambda-csharp.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://adtmag.com/articles/2016/12/08/aws-lambda-csharp.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
