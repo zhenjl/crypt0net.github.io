@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Dec 2016 06:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2016 06:40:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to Install WordPress on Google Cloud (And Why That&#39;s Awesome)</title>
+      <link>//cloudfeed.net/post/how-to-install-wordpress-on-google-cloud-and-why-thats-awesome/</link>
+      <pubDate>Fri, 09 Dec 2016 06:40:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/how-to-install-wordpress-on-google-cloud-and-why-thats-awesome/</guid>
+      <description>&lt;p&gt;we&amp;rsquo;ll show how to install WordPress on Google Cloud in a few quick steps!  &lt;a href=&#34;https://www.elegantthemes.com/blog/tips-tricks/how-to-install-wordpress-on-google-cloud-and-why-thats-awesome&#34; onclick=&#34;trackOutboundLink(&#39;https://www.elegantthemes.com/blog/tips-tricks/how-to-install-wordpress-on-google-cloud-and-why-thats-awesome&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How Seattle became &#39;Cloud City&#39;: Amazon and Microsoft are leading a tech</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/on-building-an-autohealing-resource-cluster-using-senlin/</guid>
       <description>&lt;p&gt;environment. How to accurately detect failures happen in different layers; how to &amp;hellip;  &lt;a href=&#34;https://www.openstack.org/videos/barcelona-2016/on-building-an-auto-healing-resource-cluster-using-senlin&#34; onclick=&#34;trackOutboundLink(&#39;https://www.openstack.org/videos/barcelona-2016/on-building-an-auto-healing-resource-cluster-using-senlin&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Salmat IT leader turned to Google partner Cloud Sherpas to move office into</title>
-      <link>//cloudfeed.net/post/salmat-it-leader-turned-to-google-partner-cloud-sherpas-to-move-office-into/</link>
-      <pubDate>Thu, 08 Dec 2016 23:50:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/salmat-it-leader-turned-to-google-partner-cloud-sherpas-to-move-office-into/</guid>
-      <description>&lt;p&gt;CRN Australia Salmat is a leading Australian marketing services business. Its CTO, Dave Glover, is guiding the company as it looks to transform its office &amp;hellip;  &lt;a href=&#34;http://www.crn.com.au/feature/salmat-it-leader-turned-to-google-partner-cloud-sherpas-to-move-office-into-the-cloud-444132&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com.au/feature/salmat-it-leader-turned-to-google-partner-cloud-sherpas-to-move-office-into-the-cloud-444132&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
