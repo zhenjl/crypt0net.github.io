@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 08 Dec 2016 17:40:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Dec 2016 17:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Red Hat launches OpenShift on Google Cloud</title>
+      <link>//cloudfeed.net/post/red-hat-launches-openshift-on-google-cloud/</link>
+      <pubDate>Thu, 08 Dec 2016 17:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/red-hat-launches-openshift-on-google-cloud/</guid>
+      <description>&lt;p&gt;Red Hat is expanding its OpenShift Platform-as-a-Service (PaaS) cloud to the Google Cloud Platform. This move comes days after Red Hat completed &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/red-hat-launches-openshift-on-google-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/red-hat-launches-openshift-on-google-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New Microsoft Azure training and discounted certif...</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/setting-up-azure-ad-passtrough-authentication-with-azure-ad-connect/</guid>
       <description>&lt;p&gt;So today Microsoft released a public preview of Pass-trough authentication Azure AD which allows for SSO against Azure Active Directory without the &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/setting-up-azure-ad-pass-trough-authentication-with-azure-ad-connect/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/setting-up-azure-ad-pass-trough-authentication-with-azure-ad-connect/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Scaling OpenStack With a Shared-Nothing Architecture</title>
-      <link>//cloudfeed.net/post/scaling-openstack-with-a-sharednothing-architecture/</link>
-      <pubDate>Thu, 08 Dec 2016 13:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/scaling-openstack-with-a-sharednothing-architecture/</guid>
-      <description>&lt;p&gt;removing single points of contention. Learn about the pros and cons of this &amp;hellip;  &lt;a href=&#34;https://www.mirantis.com/blog/scaling-openstack-shared-nothing-architecture/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/scaling-openstack-shared-nothing-architecture/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
