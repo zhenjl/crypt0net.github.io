@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Dec 2016 02:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2016 03:20:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft brings F# to Jupyter Notebooks on Azure</title>
+      <link>//cloudfeed.net/post/microsoft-brings-f-to-jupyter-notebooks-on-azure/</link>
+      <pubDate>Fri, 09 Dec 2016 03:20:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-brings-f-to-jupyter-notebooks-on-azure/</guid>
+      <description>&lt;p&gt;Microsoft&amp;rsquo;s Azure Notebooks cloud service is adding support for F#, the Microsoft-developed &amp;ldquo;functional-first&amp;rdquo; language. Azure Notebooks, a free &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3148815/cloud-computing/microsoft-brings-f-to-jupyter-notebooks-on-azure.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3148815/cloud-computing/microsoft-brings-f-to-jupyter-notebooks-on-azure.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Public Review of Microsoft Intune on Azure!</title>
+      <link>//cloudfeed.net/post/public-review-of-microsoft-intune-on-azure/</link>
+      <pubDate>Fri, 09 Dec 2016 03:20:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/public-review-of-microsoft-intune-on-azure/</guid>
+      <description>&lt;p&gt;Get ready for a whole new Intune experience. In early 2017 we will begin migrating our Intune admin experience onto the Azure portal, allowing for &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/public-review-of-microsoft-intune-on-azure/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/public-review-of-microsoft-intune-on-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Red Hat launches OpenShift Dedicated solution on Google Cloud</title>
@@ -363,30 +387,6 @@
       
       <guid>//cloudfeed.net/post/amazon-deal-is-not-the-beall-endall-in-vmwares-cloud-strategy-says-cmo/</guid>
       <description>&lt;p&gt;SiliconANGLE (blog) When Amazon Web Services and VMware Inc. announced their landmark partnership recently, it was deemed by many to be the launch of an &amp;hellip;  &lt;a href=&#34;http://siliconangle.com/blog/2016/12/08/amazon-deal-not-end-vmwares-cloud-strategy-says-cmo-thecube/&#34; onclick=&#34;trackOutboundLink(&#39;http://siliconangle.com/blog/2016/12/08/amazon-deal-not-end-vmwares-cloud-strategy-says-cmo-thecube/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Red Hat launches OpenShift on Google Cloud</title>
-      <link>//cloudfeed.net/post/red-hat-launches-openshift-on-google-cloud/</link>
-      <pubDate>Thu, 08 Dec 2016 17:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/red-hat-launches-openshift-on-google-cloud/</guid>
-      <description>&lt;p&gt;Red Hat is expanding its OpenShift Platform-as-a-Service (PaaS) cloud to the Google Cloud Platform. This move comes days after Red Hat completed &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/red-hat-launches-openshift-on-google-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/red-hat-launches-openshift-on-google-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Microsoft Azure training and discounted certif...</title>
-      <link>//cloudfeed.net/post/new-microsoft-azure-training-and-discounted-certif/</link>
-      <pubDate>Thu, 08 Dec 2016 17:40:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/new-microsoft-azure-training-and-discounted-certif/</guid>
-      <description>&lt;p&gt;Top Cloud Myths of 2016 blog post, the use of cloud technology has become &amp;hellip;  &lt;a href=&#34;https://techcommunity.microsoft.com/t5/Azure/New-Microsoft-Azure-training-and-discounted-certifications/m-p/34529&#34; onclick=&#34;trackOutboundLink(&#39;https://techcommunity.microsoft.com/t5/Azure/New-Microsoft-Azure-training-and-discounted-certifications/m-p/34529&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
