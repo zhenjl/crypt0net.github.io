@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Dec 2016 04:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2016 04:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What Pokmon taught me about the cloud</title>
+      <link>//cloudfeed.net/post/what-pokmon-taught-me-about-the-cloud/</link>
+      <pubDate>Fri, 09 Dec 2016 04:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/what-pokmon-taught-me-about-the-cloud/</guid>
+      <description>&lt;p&gt;Niantic hasn&amp;rsquo;t said how it serves up its games, but rumor has it that the company is using Google&amp;rsquo;s cloud. If they are indeed using Google&amp;rsquo;s cloud, there &amp;hellip;  &lt;a href=&#34;http://thenextweb.com/insider/2016/12/09/pokemon-taught-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://thenextweb.com/insider/2016/12/09/pokemon-taught-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Infoblox brings network control and security to Microsoft Azure</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/aws-blox-puzzles-fans-of-containers-in-cloud-computing/</guid>
       <description>&lt;p&gt;&amp;ldquo;The advantage that Amazon has right now &amp;hellip; is that there&amp;rsquo;s no really credible open source equivalent to Lambda or Google Cloud Functions or &amp;hellip;  &lt;a href=&#34;http://searchaws.techtarget.com/news/450404343/AWS-Blox-puzzles-fans-of-containers-in-cloud-computing&#34; onclick=&#34;trackOutboundLink(&#39;http://searchaws.techtarget.com/news/450404343/AWS-Blox-puzzles-fans-of-containers-in-cloud-computing&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pass-Through Authentication Preview Added to Azure AD</title>
-      <link>//cloudfeed.net/post/passthrough-authentication-preview-added-to-azure-ad/</link>
-      <pubDate>Thu, 08 Dec 2016 19:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/passthrough-authentication-preview-added-to-azure-ad/</guid>
-      <description>&lt;p&gt;Shops that want the benefits of Microsoft&amp;rsquo;s Azure public cloud, but still want to maintain local control of authentication, will soon have a new option.  &lt;a href=&#34;https://virtualizationreview.com/articles/2016/12/08/passthrough-authentication-preview-added-to-azure-ad.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://virtualizationreview.com/articles/2016/12/08/passthrough-authentication-preview-added-to-azure-ad.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
