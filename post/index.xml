@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Dec 2016 03:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2016 03:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack NFV: SR-IOV and OVS-DPDK integrated deployment</title>
+      <link>//cloudfeed.net/post/openstack-nfv-sriov-and-ovsdpdk-integrated-deployment/</link>
+      <pubDate>Fri, 09 Dec 2016 03:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-nfv-sriov-and-ovsdpdk-integrated-deployment/</guid>
+      <description>&lt;p&gt;awareness support to optimize OpenStack orchestration and use of &amp;hellip;  &lt;a href=&#34;https://www.redhat.com/en/about/events/openstack-nfv-sr-iov-and-ovs-dpdk-integrated-deployment&#34; onclick=&#34;trackOutboundLink(&#39;https://www.redhat.com/en/about/events/openstack-nfv-sr-iov-and-ovs-dpdk-integrated-deployment&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft brings F# to Jupyter Notebooks on Azure</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/urban-big-data-and-sustainable-development-goals-challenges-and/</guid>
       <description>&lt;p&gt;This can be achieved by situating the application of big data innovations &amp;hellip; advancing the culture and common skill sets for applying urban big data, &amp;hellip;  &lt;a href=&#34;http://www.mdpi.com/2071-1050/8/12/1293&#34; onclick=&#34;trackOutboundLink(&#39;http://www.mdpi.com/2071-1050/8/12/1293&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How UK banks can prevent fraud using data science</title>
-      <link>//cloudfeed.net/post/how-uk-banks-can-prevent-fraud-using-data-science/</link>
-      <pubDate>Fri, 09 Dec 2016 01:20:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/how-uk-banks-can-prevent-fraud-using-data-science/</guid>
-      <description>&lt;p&gt;Data science is the collaborative discipline - the combination of people, data, tools, and processes - used to transform big data into actionable insights &amp;hellip;  &lt;a href=&#34;http://www.itproportal.com/features/how-uk-banks-can-prevent-fraud-using-data-science/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itproportal.com/features/how-uk-banks-can-prevent-fraud-using-data-science/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/topdatanews&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/topdatanews&#39;); return false;&#34;&gt;@topdatanews&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Dec 2016 03:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2016 03:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack NFV: SR-IOV and OVS-DPDK integrated deployment</title>
+      <link>//cloudfeed.net/post/openstack-nfv-sriov-and-ovsdpdk-integrated-deployment/</link>
+      <pubDate>Fri, 09 Dec 2016 03:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-nfv-sriov-and-ovsdpdk-integrated-deployment/</guid>
+      <description>&lt;p&gt;awareness support to optimize OpenStack orchestration and use of &amp;hellip;  &lt;a href=&#34;https://www.redhat.com/en/about/events/openstack-nfv-sr-iov-and-ovs-dpdk-integrated-deployment&#34; onclick=&#34;trackOutboundLink(&#39;https://www.redhat.com/en/about/events/openstack-nfv-sr-iov-and-ovs-dpdk-integrated-deployment&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft brings F# to Jupyter Notebooks on Azure</title>
@@ -377,18 +389,6 @@
 
 &lt;p&gt;&lt;h3&gt;&lt;a href=&#39;http://www.zdnet.com/article/red-hat-launches-openshift-on-google-cloud/&#39;&gt;Red Hat launches OpenShift on Google Cloud&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Red Hat is expanding its OpenShift Platform-as-a-Service (PaaS) cloud to the Google Cloud Platform. This move comes days after Red Hat completed &amp;hellip; &lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon deal is not the be-all, end-all in VMware&#39;s cloud strategy, says CMO</title>
-      <link>//cloudfeed.net/post/amazon-deal-is-not-the-beall-endall-in-vmwares-cloud-strategy-says-cmo/</link>
-      <pubDate>Thu, 08 Dec 2016 18:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-deal-is-not-the-beall-endall-in-vmwares-cloud-strategy-says-cmo/</guid>
-      <description>&lt;p&gt;SiliconANGLE (blog) When Amazon Web Services and VMware Inc. announced their landmark partnership recently, it was deemed by many to be the launch of an &amp;hellip;  &lt;a href=&#34;http://siliconangle.com/blog/2016/12/08/amazon-deal-not-end-vmwares-cloud-strategy-says-cmo-thecube/&#34; onclick=&#34;trackOutboundLink(&#39;http://siliconangle.com/blog/2016/12/08/amazon-deal-not-end-vmwares-cloud-strategy-says-cmo-thecube/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
