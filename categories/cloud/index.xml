@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Dec 2016 00:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2016 01:10:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack Mitaka for UK public sector</title>
+      <link>//cloudfeed.net/post/openstack-mitaka-for-uk-public-sector/</link>
+      <pubDate>Fri, 09 Dec 2016 01:10:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-mitaka-for-uk-public-sector/</guid>
+      <description>&lt;p&gt;UKCloud has announced that it is the first UK public sector cloud provider to support OpenStack Mitaka. The company calls this a major upgrade to its &amp;hellip;  &lt;a href=&#34;https://www.enterprisetimes.co.uk/2016/12/09/openstack-mitaka-uk-public-sector/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.enterprisetimes.co.uk/2016/12/09/openstack-mitaka-uk-public-sector/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On Building an Auto-healing Resource Cluster using Senlin</title>
@@ -375,18 +387,6 @@
       
       <guid>//cloudfeed.net/post/released-public-preview-for-microsoft-azure-sql-database-management-pack/</guid>
       <description>&lt;p&gt;Database. Your feedback on this public preview will improve the quality &amp;hellip;  &lt;a href=&#34;https://blogs.msdn.microsoft.com/sqlreleaseservices/released-public-preview-for-microsoft-azure-sql-database-management-pack-6-7-11-0/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.msdn.microsoft.com/sqlreleaseservices/released-public-preview-for-microsoft-azure-sql-database-management-pack-6-7-11-0/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bailian: From Brick &amp; Mortar to Brick &amp; Click using OpenStack, DevOps</title>
-      <link>//cloudfeed.net/post/bailian-from-brick--mortar-to-brick--click-using-openstack-devops/</link>
-      <pubDate>Thu, 08 Dec 2016 16:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/bailian-from-brick--mortar-to-brick--click-using-openstack-devops/</guid>
-      <description>&lt;p&gt;retail by using OpenStack and DevOps for increased agility, efficient &amp;hellip;  &lt;a href=&#34;https://www.mirantis.com/blog/bailian-goes-brick-mortar-brick-click-using-openstack-devops/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/bailian-goes-brick-mortar-brick-click-using-openstack-devops/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
