@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Dec 2016 16:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2016 16:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to Install and Secure the Mosquitto MQTT Messaging Broker on Ubuntu</title>
+      <link>//cloudfeed.net/post/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu/</link>
+      <pubDate>Fri, 09 Dec 2016 16:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu/</guid>
+      <description>&lt;p&gt;Introduction. MQTT is a machine-to-machine messaging protocol, designed to provide lightweight publish/subscribe communication to &amp;ldquo;Internet of &amp;hellip;  &lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-16-04&#34; onclick=&#34;trackOutboundLink(&#39;https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-16-04&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Emirates NBD set for new blockchain initiative</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/the-hidden-menace-in-the-body-of-the-healthcare/</guid>
       <description>&lt;p&gt;Source: The Hidden Menace in the Body of the HealthCare Internet of Things.  &lt;a href=&#34;http://www.himss.org/getinvolved/hidden-menace-body-healthcare-internet-things&#34; onclick=&#34;trackOutboundLink(&#39;http://www.himss.org/getinvolved/hidden-menace-body-healthcare-internet-things&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How crypto currencies will revolutionise our world in future</title>
-      <link>//cloudfeed.net/post/how-crypto-currencies-will-revolutionise-our-world-in-future/</link>
-      <pubDate>Fri, 09 Dec 2016 12:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/how-crypto-currencies-will-revolutionise-our-world-in-future/</guid>
-      <description>&lt;p&gt;Buterin who conceptualised Ethereum, a blockchain based distributed &amp;hellip; contract which is a computer program that you can upload on the BlockChain.  &lt;a href=&#34;http://www.moneycontrol.com/news/sme/how-crypto-currencies-will-revolutionise-our-worldfuture_8091761.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.moneycontrol.com/news/sme/how-crypto-currencies-will-revolutionise-our-worldfuture_8091761.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
