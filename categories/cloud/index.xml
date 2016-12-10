@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Dec 2016 21:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2016 21:50:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Logging and Monitoring Your Kubernetes Containers</title>
+      <link>//cloudfeed.net/post/logging-and-monitoring-your-kubernetes-containers/</link>
+      <pubDate>Fri, 09 Dec 2016 21:50:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/logging-and-monitoring-your-kubernetes-containers/</guid>
+      <description>&lt;p&gt;&amp;hellip; most popular and stable management platforms for Docker containers  it powers Google Containers Engine (GCE) on the Google Cloud platform.  &lt;a href=&#34;https://dzone.com/articles/kubernetes-containers-logging-and-monitoring-suppo&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/kubernetes-containers-logging-and-monitoring-suppo&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Web Services Cloud Now Available to Customers from Data Centers in</title>
@@ -318,18 +330,6 @@
       
       <guid>//cloudfeed.net/post/keep-it-simple-manage-users-and-groups-in-microsoft-azure-active-directory/</guid>
       <description>&lt;p&gt;Share; More; Cancel. Related. Keep IT Simple: Manage Users and Groups in Microsoft Azure Active Directory from a Single Console! Read Blog.  &lt;a href=&#34;https://www.quest.com/community/products/active-administrator/f/forum/20273/keep-it-simple-manage-users-and-groups-in-microsoft-azure-active-directory-from-a-single-console&#34; onclick=&#34;trackOutboundLink(&#39;https://www.quest.com/community/products/active-administrator/f/forum/20273/keep-it-simple-manage-users-and-groups-in-microsoft-azure-active-directory-from-a-single-console&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What does Dell Technologies have in its quiver to hit cloud market?</title>
-      <link>//cloudfeed.net/post/what-does-dell-technologies-have-in-its-quiver-to-hit-cloud-market/</link>
-      <pubDate>Fri, 09 Dec 2016 12:50:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/what-does-dell-technologies-have-in-its-quiver-to-hit-cloud-market/</guid>
-      <description>&lt;p&gt;&amp;hellip; Technologies highlighted VMware partnerships with IBM and AWS, and expanded Pivotal Cloud Foundry partnerships with Google Cloud Platform &amp;hellip;  &lt;a href=&#34;http://www.infotechlead.com/cloud/dell-technologies-quiver-hit-cloud-market-44392&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infotechlead.com/cloud/dell-technologies-quiver-hit-cloud-market-44392&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
