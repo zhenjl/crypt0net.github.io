@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Dec 2016 23:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2016 00:10:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IoT in the Cloud: The Next Phase of Enterprise Infrastructure</title>
+      <link>//cloudfeed.net/post/iot-in-the-cloud-the-next-phase-of-enterprise-infrastructure/</link>
+      <pubDate>Sat, 10 Dec 2016 00:10:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/iot-in-the-cloud-the-next-phase-of-enterprise-infrastructure/</guid>
+      <description>&lt;p&gt;There is little question that the cloud and the Internet of Things (IoT) will dominate enterprise IT development in the coming years, but exactly how &amp;hellip;  &lt;a href=&#34;http://www.itbusinessedge.com/blogs/infrastructure/iot-in-the-cloud-the-next-phase-of-enterprise-infrastructure.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itbusinessedge.com/blogs/infrastructure/iot-in-the-cloud-the-next-phase-of-enterprise-infrastructure.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ireland to Launch Blockchain Advocacy Group to Push FinTech Agenda</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/lecture-series-speaks-to-the-importance-of-cybersecurity/</guid>
       <description>&lt;p&gt;Murphy also discussed the idea of the large security risks with the Internet of Things (or IOT), which are household appliances that are connected to &amp;hellip;  &lt;a href=&#34;http://www.kykernel.com/news/lecture-series-speaks-to-the-importance-of-cybersecurity/article_e053046a-bd8f-11e6-9830-1b2496d8320c.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.kykernel.com/news/lecture-series-speaks-to-the-importance-of-cybersecurity/article_e053046a-bd8f-11e6-9830-1b2496d8320c.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How to Install and Secure the Mosquitto MQTT Messaging Broker on Ubuntu</title>
-      <link>//cloudfeed.net/post/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu/</link>
-      <pubDate>Fri, 09 Dec 2016 16:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu/</guid>
-      <description>&lt;p&gt;Introduction. MQTT is a machine-to-machine messaging protocol, designed to provide lightweight publish/subscribe communication to &amp;ldquo;Internet of &amp;hellip;  &lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-16-04&#34; onclick=&#34;trackOutboundLink(&#39;https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-16-04&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
