@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 12 Dec 2016 14:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Dec 2016 14:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon, Microsoft: Gartner Show Reveals Roadblocks to Public Cloud</title>
+      <link>//cloudfeed.net/post/amazon-microsoft-gartner-show-reveals-roadblocks-to-public-cloud/</link>
+      <pubDate>Mon, 12 Dec 2016 14:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amazon-microsoft-gartner-show-reveals-roadblocks-to-public-cloud/</guid>
+      <description>&lt;p&gt;From a vendor perspective, usage of Amazon&amp;rsquo;s AWS from those we spoke with was unsurprisingly greater than Microsoft&amp;rsquo;s Azure, although somewhat &amp;hellip;  &lt;a href=&#34;http://blogs.barrons.com/techtraderdaily/2016/12/12/amazon-microsoft-gartner-show-reveals-roadblocks-to-public-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://blogs.barrons.com/techtraderdaily/2016/12/12/amazon-microsoft-gartner-show-reveals-roadblocks-to-public-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>QNAP and Platform9 Join Forces to Provide a Hybrid Cloud Solution with</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/using-xaas-for-your-business-then-you-need-one-of-these-multifactor/</guid>
       <description>&lt;p&gt;TechRepublic MFA through Microsoft Azure is perfect for businesses heavily invested in the Microsoft ecosystem. It can be deployed locally or through the cloud, &amp;hellip;  &lt;a href=&#34;http://www.techrepublic.com/article/using-xaas-for-your-business-then-you-need-one-of-these-multifactor-authentication-apps/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techrepublic.com/article/using-xaas-for-your-business-then-you-need-one-of-these-multifactor-authentication-apps/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Openshift on top of Openstack: Egress router not working</title>
-      <link>//cloudfeed.net/post/openshift-on-top-of-openstack-egress-router-not-working/</link>
-      <pubDate>Mon, 12 Dec 2016 09:00:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/openshift-on-top-of-openstack-egress-router-not-working/</guid>
-      <description>&lt;p&gt;Infrastructure  Red Hat Cloud Suite  Red Hat OpenShift Container &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2803331&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2803331&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
