@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 12 Dec 2016 15:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Dec 2016 15:30:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure Resource Manager virtualization environments</title>
+      <link>//cloudfeed.net/post/microsoft-azure-resource-manager-virtualization-environments/</link>
+      <pubDate>Mon, 12 Dec 2016 15:30:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-azure-resource-manager-virtualization-environments/</guid>
+      <description>&lt;p&gt;provision virtual machines in your XenApp or XenDesktop deployment.  &lt;a href=&#34;https://docs.citrix.com/es-es/xenapp-and-xendesktop/7-12/install-configure/install-prepare/azure-resource-manager.html&#34; onclick=&#34;trackOutboundLink(&#39;https://docs.citrix.com/es-es/xenapp-and-xendesktop/7-12/install-configure/install-prepare/azure-resource-manager.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon launches AWS Managed Services to help more big companies adopt cloud</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/heres-why-you-should-own-amazoncom-inc-amzn-shares-for-longer-term/</guid>
       <description>&lt;p&gt;&amp;hellip; profitability, we believe that its bull thesis is intact given outstanding performance demonstrated by its retail platform and Amazon Web Services.  &lt;a href=&#34;http://smartstocknews.com/71439-heres-why-you-should-own-amazoncom-inc-amzn-shares-for-longer-term/&#34; onclick=&#34;trackOutboundLink(&#39;http://smartstocknews.com/71439-heres-why-you-should-own-amazoncom-inc-amzn-shares-for-longer-term/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sneak Peek into Microsoft Azure Cloud Console</title>
-      <link>//cloudfeed.net/post/sneak-peek-into-microsoft-azure-cloud-console/</link>
-      <pubDate>Mon, 12 Dec 2016 09:10:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/sneak-peek-into-microsoft-azure-cloud-console/</guid>
-      <description>&lt;p&gt;Microsoft has conceptualized a new age version of its cloud interface, calling it the Azure Cloud Console. This state-of-the-art, integrated software is &amp;hellip;  &lt;a href=&#34;http://www.readitquik.com/news/paas/sneak-peek-into-microsoft-azure-cloud-console/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.readitquik.com/news/paas/sneak-peek-into-microsoft-azure-cloud-console/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
