@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 12 Dec 2016 16:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Dec 2016 17:20:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon Launches A Data Center Built On A Semi Truck</title>
+      <link>//cloudfeed.net/post/amazon-launches-a-data-center-built-on-a-semi-truck/</link>
+      <pubDate>Mon, 12 Dec 2016 17:20:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amazon-launches-a-data-center-built-on-a-semi-truck/</guid>
+      <description>&lt;p&gt;&amp;hellip; perpetual groaning sounds, as it announced a new service for uploading large amounts of data to its Amazon Web Services (AWS) cloud storage.  &lt;a href=&#34;http://www.psfk.com/2016/12/topline-amazon-launches-a-data-center-built-on-a-semi-truck.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.psfk.com/2016/12/topline-amazon-launches-a-data-center-built-on-a-semi-truck.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amazon&#39;s New Feature Aims to Lure Big Companies to Its Cloud</title>
+      <link>//cloudfeed.net/post/amazons-new-feature-aims-to-lure-big-companies-to-its-cloud/</link>
+      <pubDate>Mon, 12 Dec 2016 17:20:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amazons-new-feature-aims-to-lure-big-companies-to-its-cloud/</guid>
+      <description>&lt;p&gt;The retail giant&amp;rsquo;s cloud computing arm, Amazon Web Services, said Monday it has built a new feature called AWS Managed Services. Instead of &amp;hellip;  &lt;a href=&#34;http://fortune.com/2016/12/12/amazon-managed-services-cloud-computing/&#34; onclick=&#34;trackOutboundLink(&#39;http://fortune.com/2016/12/12/amazon-managed-services-cloud-computing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fitch Rates Rackspace&#39;s Term Loan B &#39;BB&#43;/RR1&#39;; Outlook Positive</title>
@@ -161,30 +185,6 @@
       
       <guid>//cloudfeed.net/post/big-growth-expected-in-finance-cloud-market/</guid>
       <description>&lt;p&gt;The main players in the customer applications market are Amazon Web Services (AWS), IBM, SAP, Oracle, Google, CSC, Microsoft and Salesforce.  &lt;a href=&#34;http://www.readitquik.com/news/elastic-computing/big-growth-expected-in-finance-cloud-market/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.readitquik.com/news/elastic-computing/big-growth-expected-in-finance-cloud-market/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Head-To-Head IoT Platforms: Amazon Web Services IoT Vs. Microsoft Azure IoT</title>
-      <link>//cloudfeed.net/post/headtohead-iot-platforms-amazon-web-services-iot-vs-microsoft-azure-iot/</link>
-      <pubDate>Mon, 12 Dec 2016 10:10:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/headtohead-iot-platforms-amazon-web-services-iot-vs-microsoft-azure-iot/</guid>
-      <description>&lt;p&gt;Microsoft and Amazon Web Services are both leading cloud providers, but the Internet of Things requires a bit more than the cloud. On top of Azure &amp;hellip;  &lt;a href=&#34;http://m.crn.com/slide-shows/internet-of-things/300083110/head-to-head-iot-platforms-amazon-web-services-iot-vs-microsoft-azure-iot.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://m.crn.com/slide-shows/internet-of-things/300083110/head-to-head-iot-platforms-amazon-web-services-iot-vs-microsoft-azure-iot.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Red Hat debuts OpenShift Dedicated on Google Cloud Platform for data</title>
-      <link>//cloudfeed.net/post/red-hat-debuts-openshift-dedicated-on-google-cloud-platform-for-data/</link>
-      <pubDate>Mon, 12 Dec 2016 10:00:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/red-hat-debuts-openshift-dedicated-on-google-cloud-platform-for-data/</guid>
-      <description>&lt;p&gt;CTR Red Hat recently announced general availability of OpenShift Dedicated on Google Cloud Platform. The offering integrates with Google Cloud &amp;hellip;  &lt;a href=&#34;http://wwpi.com/2016/12/12/red-hat-debuts-openshift-dedicated-on-google-cloud-platform-for-data-analytics-machine-learning-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://wwpi.com/2016/12/12/red-hat-debuts-openshift-dedicated-on-google-cloud-platform-for-data-analytics-machine-learning-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
