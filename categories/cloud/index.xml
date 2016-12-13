@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 12 Dec 2016 21:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Dec 2016 23:10:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWS launches managed-services-as-a-service</title>
+      <link>//cloudfeed.net/post/aws-launches-managedservicesasaservice/</link>
+      <pubDate>Mon, 12 Dec 2016 23:10:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/aws-launches-managedservicesasaservice/</guid>
+      <description>&lt;p&gt;Amazon Web Services (AWS) has announced it&amp;rsquo;s getting in to the managed services business. The cloud colossus has operated a substantial &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/12/13/aws_launches_managedservicesasaservice/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/12/13/aws_launches_managedservicesasaservice/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Save your Android smartphone memory; Now backup WhatsApp data on Google</title>
@@ -303,18 +315,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-azure-resource-manager-virtualization-environments/</guid>
       <description>&lt;p&gt;provision virtual machines in your XenApp or XenDesktop deployment.  &lt;a href=&#34;https://docs.citrix.com/es-es/xenapp-and-xendesktop/7-12/install-configure/install-prepare/azure-resource-manager.html&#34; onclick=&#34;trackOutboundLink(&#39;https://docs.citrix.com/es-es/xenapp-and-xendesktop/7-12/install-configure/install-prepare/azure-resource-manager.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon launches AWS Managed Services to help more big companies adopt cloud</title>
-      <link>//cloudfeed.net/post/amazon-launches-aws-managed-services-to-help-more-big-companies-adopt-cloud/</link>
-      <pubDate>Mon, 12 Dec 2016 15:10:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-launches-aws-managed-services-to-help-more-big-companies-adopt-cloud/</guid>
-      <description>&lt;p&gt;Public cloud infrastructure provider Amazon Web Services (AWS) today is announcing the launch of AWS Managed Services, a new service that&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://venturebeat.com/2016/12/12/amazon-launches-aws-managed-services-to-help-more-big-companies-adopt-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://venturebeat.com/2016/12/12/amazon-launches-aws-managed-services-to-help-more-big-companies-adopt-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
