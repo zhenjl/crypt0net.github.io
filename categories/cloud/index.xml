@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 12 Dec 2016 23:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Dec 2016 01:00:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>k8s runs in openstack instances. Node status is NotReady, but pods still</title>
+      <link>//cloudfeed.net/post/k8s-runs-in-openstack-instances-node-status-is-notready-but-pods-still/</link>
+      <pubDate>Tue, 13 Dec 2016 01:00:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/k8s-runs-in-openstack-instances-node-status-is-notready-but-pods-still/</guid>
+      <description>&lt;p&gt;k8s runs in openstack instances. Node status is NotReady, but pods still run in it #38671. Open. NickrenREN opened this Issue Dec 13, 2016  0 &amp;hellip;  &lt;a href=&#34;https://github.com/kubernetes/kubernetes/issues/38671&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/kubernetes/kubernetes/issues/38671&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft increases cybersecurity investments in India</title>
@@ -303,18 +315,6 @@
       
       <guid>//cloudfeed.net/post/fitch-rates-rackspaces-term-loan-b-bbrr1-outlook-positive/</guid>
       <description>&lt;p&gt;&amp;hellip; (AWS) and Microsoft (Azure). As a result, Fitch expects low single-digit revenue declines through the intermediate term for the public cloud business.  &lt;a href=&#34;http://sports.yahoo.com/news/fitch-rates-rackspaces-term-loan-231900089.html&#34; onclick=&#34;trackOutboundLink(&#39;http://sports.yahoo.com/news/fitch-rates-rackspaces-term-loan-231900089.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>grpc-google-cloud-datastore-v1 0.14.0</title>
-      <link>//cloudfeed.net/post/grpcgoogleclouddatastorev1-0140/</link>
-      <pubDate>Mon, 12 Dec 2016 16:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/grpcgoogleclouddatastorev1-0140/</guid>
-      <description>&lt;p&gt;IDL-derived library for the datastore (v1) service in the googleapis repository.  &lt;a href=&#34;https://pypi.python.org/pypi/grpc-google-cloud-datastore-v1/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/grpc-google-cloud-datastore-v1/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

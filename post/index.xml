@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 13 Dec 2016 00:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Dec 2016 01:00:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Internet of Things  Not Just About the Things</title>
+      <link>//cloudfeed.net/post/the-internet-of-things--not-just-about-the-things/</link>
+      <pubDate>Tue, 13 Dec 2016 01:00:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/the-internet-of-things--not-just-about-the-things/</guid>
+      <description>&lt;p&gt;lot of questions for people. It can feel ambiguous  a thing in IoT can really &amp;hellip;  &lt;a href=&#34;http://labs.sogeti.com/internet-things-not-just-things/&#34; onclick=&#34;trackOutboundLink(&#39;http://labs.sogeti.com/internet-things-not-just-things/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>k8s runs in openstack instances. Node status is NotReady, but pods still</title>
+      <link>//cloudfeed.net/post/k8s-runs-in-openstack-instances-node-status-is-notready-but-pods-still/</link>
+      <pubDate>Tue, 13 Dec 2016 01:00:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/k8s-runs-in-openstack-instances-node-status-is-notready-but-pods-still/</guid>
+      <description>&lt;p&gt;k8s runs in openstack instances. Node status is NotReady, but pods still run in it #38671. Open. NickrenREN opened this Issue Dec 13, 2016  0 &amp;hellip;  &lt;a href=&#34;https://github.com/kubernetes/kubernetes/issues/38671&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/kubernetes/kubernetes/issues/38671&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Addressing South Africa&#39;s healthcare accessibility issues through</title>
@@ -163,30 +187,6 @@
       <description>&lt;p&gt;Blockchain, a London-based startup providing bitcoin-related services, has announced the appointment of the former chief executive at Barclays, &amp;hellip;  &lt;a href=&#34;http://www.econotimes.com/Ex-Barclays-CEO-Antony-Jenkins-joins-bitcoin-startup-Blockchain-446508&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/Ex-Barclays-CEO-Antony-Jenkins-joins-bitcoin-startup-Blockchain-446508&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Many merchant systems still lack basic security</title>
-      <link>//cloudfeed.net/post/many-merchant-systems-still-lack-basic-security/</link>
-      <pubDate>Mon, 12 Dec 2016 21:40:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/many-merchant-systems-still-lack-basic-security/</guid>
-      <description>&lt;p&gt;To help merchants and other payment industry companies avoid data breaches, Payment Card Industry Data Security Standards (PCI DSS) were &amp;hellip;  &lt;a href=&#34;https://www.paymentssource.com/opinion/many-merchant-systems-still-lack-basic-security&#34; onclick=&#34;trackOutboundLink(&#39;https://www.paymentssource.com/opinion/many-merchant-systems-still-lack-basic-security&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Turns on Azure SQL Performance Tracking by Default</title>
-      <link>//cloudfeed.net/post/microsoft-turns-on-azure-sql-performance-tracking-by-default/</link>
-      <pubDate>Mon, 12 Dec 2016 21:20:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-turns-on-azure-sql-performance-tracking-by-default/</guid>
-      <description>&lt;p&gt;Microsoft is taking the mystery out of performance issues that may impact the performance of SQL database workloads on the company&amp;rsquo;s Azure cloud.  &lt;a href=&#34;http://www.eweek.com/cloud/microsoft-turns-on-azure-sql-performance-tracking-by-default.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/microsoft-turns-on-azure-sql-performance-tracking-by-default.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
