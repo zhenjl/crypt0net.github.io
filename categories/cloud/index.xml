@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 12 Dec 2016 23:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Dec 2016 23:20:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft increases cybersecurity investments in India</title>
+      <link>//cloudfeed.net/post/microsoft-increases-cybersecurity-investments-in-india/</link>
+      <pubDate>Mon, 12 Dec 2016 23:20:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-increases-cybersecurity-investments-in-india/</guid>
+      <description>&lt;p&gt;This is Microsoft&amp;rsquo;s seventh Cybersecurity Center in the world and will &amp;hellip; Microsoft Azure is the first cloud computing platform in the industry to win a &amp;hellip;  &lt;a href=&#34;http://www.voicendata.com/microsoft-increases-cybersecurity-investments-in-india/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.voicendata.com/microsoft-increases-cybersecurity-investments-in-india/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS launches managed-services-as-a-service</title>
@@ -303,18 +315,6 @@
       
       <guid>//cloudfeed.net/post/grpcgoogleclouddatastorev1-0140/</guid>
       <description>&lt;p&gt;IDL-derived library for the datastore (v1) service in the googleapis repository.  &lt;a href=&#34;https://pypi.python.org/pypi/grpc-google-cloud-datastore-v1/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/grpc-google-cloud-datastore-v1/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Resource Manager virtualization environments</title>
-      <link>//cloudfeed.net/post/microsoft-azure-resource-manager-virtualization-environments/</link>
-      <pubDate>Mon, 12 Dec 2016 15:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-azure-resource-manager-virtualization-environments/</guid>
-      <description>&lt;p&gt;provision virtual machines in your XenApp or XenDesktop deployment.  &lt;a href=&#34;https://docs.citrix.com/es-es/xenapp-and-xendesktop/7-12/install-configure/install-prepare/azure-resource-manager.html&#34; onclick=&#34;trackOutboundLink(&#39;https://docs.citrix.com/es-es/xenapp-and-xendesktop/7-12/install-configure/install-prepare/azure-resource-manager.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
