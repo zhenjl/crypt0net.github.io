@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 13 Dec 2016 18:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Dec 2016 18:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Latest Kubernetes Version Supports Container Management on Windows</title>
+      <link>//cloudfeed.net/post/latest-kubernetes-version-supports-container-management-on-windows/</link>
+      <pubDate>Tue, 13 Dec 2016 18:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/latest-kubernetes-version-supports-container-management-on-windows/</guid>
+      <description>&lt;p&gt;DAILY VIDEO: Kubernetes 1.5 brings container management to Windows; &amp;hellip; DAILY VIDEO: Microsoft Azure flaw posed RHEL hacking risk; Google &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/video/new-kubernetes-release-enables-container-management-on-windows-server.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/video/new-kubernetes-release-enables-container-management-on-windows-server.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google&#39;s Android Things looks to take control of the IoT landscape</title>
@@ -378,18 +390,6 @@
       
       <guid>//cloudfeed.net/post/allocadia-selected-by-microsoft-to-optimize-global-marketing-investments/</guid>
       <description>&lt;p&gt;&amp;ldquo;We&amp;rsquo;re thrilled to work with Microsoft as they set a new standard for &amp;hellip;. on integrating AWS, Microsoft Azure, or Google ECM into existing on-premises &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/3970534&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/3970534&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud Messaging API Key Textfield Maxlength</title>
-      <link>//cloudfeed.net/post/google-cloud-messaging-api-key-textfield-maxlength/</link>
-      <pubDate>Tue, 13 Dec 2016 12:10:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/google-cloud-messaging-api-key-textfield-maxlength/</guid>
-      <description>&lt;p&gt;property of 128. This is too short and causes the API key to be cut off.  &lt;a href=&#34;https://www.drupal.org/node/2835124&#34; onclick=&#34;trackOutboundLink(&#39;https://www.drupal.org/node/2835124&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
