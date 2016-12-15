@@ -7,16 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 15 Dec 2016 15:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Dec 2016 15:40:09 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google BigQuery public datasets now include Stack Overflow Q&amp;A</title>
+      <link>//cloudfeed.net/post/google-bigquery-public-datasets-now-include-stack-overflow-qa/</link>
+      <pubDate>Thu, 15 Dec 2016 15:40:09 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/google-bigquery-public-datasets-now-include-stack-overflow-qa/</guid>
+      <description>&lt;p&gt;queries (or some other favorite tool) to dig into this treasure trove of data.  &lt;a href=&#34;https://cloud.google.com/blog/big-data/2016/12/google-bigquery-public-datasets-now-include-stack-overflow-q-a&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/blog/big-data/2016/12/google-bigquery-public-datasets-now-include-stack-overflow-q-a&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Serverless Computing Heats Up as Pivotal Software Takes on Cloud Giants</title>
       <link>//cloudfeed.net/post/serverless-computing-heats-up-as-pivotal-software-takes-on-cloud-giants/</link>
-      <pubDate>Thu, 15 Dec 2016 15:20:04 +0000</pubDate>
+      <pubDate>Thu, 15 Dec 2016 15:40:09 +0000</pubDate>
       
       <guid>//cloudfeed.net/post/serverless-computing-heats-up-as-pivotal-software-takes-on-cloud-giants/</guid>
-      <description>&lt;p&gt;Other companies that have recently launched serverless computing competitors to AWS Lambda include Microsoft Corp.&amp;rsquo;s Azure Functions, released &amp;hellip;  &lt;a href=&#34;http://blogs.wsj.com/cio/2016/12/15/serverless-computing-heats-up-as-pivotal-software-takes-on-cloud-giants/&#34; onclick=&#34;trackOutboundLink(&#39;http://blogs.wsj.com/cio/2016/12/15/serverless-computing-heats-up-as-pivotal-software-takes-on-cloud-giants/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;s Azure Functions, released a month ago, and Google Cloud Functions, which debuted earlier this year in a test with limited customers. As businesses &amp;hellip;  &lt;a href=&#34;http://blogs.wsj.com/cio/2016/12/15/serverless-computing-heats-up-as-pivotal-software-takes-on-cloud-giants/&#34; onclick=&#34;trackOutboundLink(&#39;http://blogs.wsj.com/cio/2016/12/15/serverless-computing-heats-up-as-pivotal-software-takes-on-cloud-giants/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-offers-azure-blueprint-for-fedramp-high-baseline/</guid>
       <description>&lt;p&gt;15, 2016  Microsoft (Nasdaq: MSFT) has unveiled that the Azure Blueprint platform for processing authority to operate designations is available to &amp;hellip;  &lt;a href=&#34;https://www.govconwire.com/2016/12/microsoft-offers-azure-blueprint-for-fedramp-high-baseline/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.govconwire.com/2016/12/microsoft-offers-azure-blueprint-for-fedramp-high-baseline/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>8 new service offerings added to Microsoft Azure Government certification</title>
-      <link>//cloudfeed.net/post/8-new-service-offerings-added-to-microsoft-azure-government-certification/</link>
-      <pubDate>Thu, 15 Dec 2016 10:10:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/8-new-service-offerings-added-to-microsoft-azure-government-certification/</guid>
-      <description>&lt;p&gt;Eight new service offerings  Azure Resource Manager, Automation, Azure Batch, Log Analytics, Azure Media Services, Policy Administration &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2016/12/14/8-new-service-offerings-added-to-microsoft-azure-government-certification-scope-in-us/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2016/12/14/8-new-service-offerings-added-to-microsoft-azure-government-certification-scope-in-us/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
