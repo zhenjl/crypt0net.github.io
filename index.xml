@@ -7,16 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 15 Dec 2016 04:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Dec 2016 04:30:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>DataArt partners with Amazon Web Services</title>
-      <link>//cloudfeed.net/post/dataart-partners-with-amazon-web-services/</link>
-      <pubDate>Thu, 15 Dec 2016 04:20:03 +0000</pubDate>
+      <title>Azure ExpressRoute and PSN/N3 Connectivity feature now available for</title>
+      <link>//cloudfeed.net/post/azure-expressroute-and-psnn3-connectivity-feature-now-available-for/</link>
+      <pubDate>Thu, 15 Dec 2016 04:30:04 +0000</pubDate>
       
-      <guid>//cloudfeed.net/post/dataart-partners-with-amazon-web-services/</guid>
-      <description>&lt;p&gt;DataArt, the technology consultancy, has become an Amazon Web Services (AWS) Consulting Partner. Amazon Partner Network (APN) provides &amp;hellip;  &lt;a href=&#34;http://www.automatedtrader.net/news/at/156801/dataart-partners-with-amazon-web-services&#34; onclick=&#34;trackOutboundLink(&#39;http://www.automatedtrader.net/news/at/156801/dataart-partners-with-amazon-web-services&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+      <guid>//cloudfeed.net/post/azure-expressroute-and-psnn3-connectivity-feature-now-available-for/</guid>
+      <description>&lt;p&gt;MSPoweruser Microsoft yesterday announced the availability of a second ExpressRoute location in the UK  in Newport, Wales. With the Azure ExpressRoute and &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/azure-expressroute-and-psnn3-connectivity-feature-now-available-for-microsoft-uk-data-centres/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/azure-expressroute-and-psnn3-connectivity-feature-now-available-for-microsoft-uk-data-centres/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -25,10 +25,22 @@
     <item>
       <title>Cloud compute: AWS, Azure, Google, SoftLayer compared</title>
       <link>//cloudfeed.net/post/cloud-compute-aws-azure-google-softlayer-compared/</link>
-      <pubDate>Thu, 15 Dec 2016 04:10:05 +0000</pubDate>
+      <pubDate>Thu, 15 Dec 2016 04:30:04 +0000</pubDate>
       
       <guid>//cloudfeed.net/post/cloud-compute-aws-azure-google-softlayer-compared/</guid>
-      <description>&lt;p&gt;Google Compute Engine (GCE), the service within Google Cloud Platform that manages IaaS compute resources, also provides numerous options for &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3150205/cloud-computing/cloud-compute-aws-azure-google-softlayer-compared.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3150205/cloud-computing/cloud-compute-aws-azure-google-softlayer-compared.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Cloud compute: AWS, Azure, Google, SoftLayer compared &amp;hellip;. Microsoft takes a similar approach to compute instance types with Azure, but uses &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3150205/cloud-computing/cloud-compute-aws-azure-google-softlayer-compared.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3150205/cloud-computing/cloud-compute-aws-azure-google-softlayer-compared.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DataArt partners with Amazon Web Services</title>
+      <link>//cloudfeed.net/post/dataart-partners-with-amazon-web-services/</link>
+      <pubDate>Thu, 15 Dec 2016 04:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/dataart-partners-with-amazon-web-services/</guid>
+      <description>&lt;p&gt;DataArt, the technology consultancy, has become an Amazon Web Services (AWS) Consulting Partner. Amazon Partner Network (APN) provides &amp;hellip;  &lt;a href=&#34;http://www.automatedtrader.net/news/at/156801/dataart-partners-with-amazon-web-services&#34; onclick=&#34;trackOutboundLink(&#39;http://www.automatedtrader.net/news/at/156801/dataart-partners-with-amazon-web-services&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/android-things-is-googles-latest-addition-to-iot/</guid>
       <description>&lt;p&gt;Google isn&amp;rsquo;t giving up on the Internet of Things. The company just announced its releasing a developer preview of Android Things, a new operating &amp;hellip;  &lt;a href=&#34;http://www.wareable.com/google/android-things-is-googles-new-iot-solution-3648&#34; onclick=&#34;trackOutboundLink(&#39;http://www.wareable.com/google/android-things-is-googles-new-iot-solution-3648&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deloitte Digital named a leader in Internet of Things (IoT) Consulting IT</title>
-      <link>//cloudfeed.net/post/deloitte-digital-named-a-leader-in-internet-of-things-iot-consulting-it/</link>
-      <pubDate>Thu, 15 Dec 2016 03:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/deloitte-digital-named-a-leader-in-internet-of-things-iot-consulting-it/</guid>
-      <description>&lt;p&gt;Deloitte Touche Tohmatsu Limited (DTTL) is pleased to announce recognition for Deloitte Digital&amp;rsquo;s Internet of Things (IoT) practice from leading &amp;hellip;  &lt;a href=&#34;https://www2.deloitte.com/se/sv/pages/about-deloitte/articles/deloitte-digital-named-leader-iot-consulting-alm-intelligence.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www2.deloitte.com/se/sv/pages/about-deloitte/articles/deloitte-digital-named-leader-iot-consulting-alm-intelligence.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
