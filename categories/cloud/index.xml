@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 16 Dec 2016 06:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Dec 2016 07:20:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft adds location services to Azure with TomTom</title>
+      <link>//cloudfeed.net/post/microsoft-adds-location-services-to-azure-with-tomtom/</link>
+      <pubDate>Fri, 16 Dec 2016 07:20:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-adds-location-services-to-azure-with-tomtom/</guid>
+      <description>&lt;p&gt;Microsoft has teamed up with Dutch mapping company TomTom to help build up location-based services in its Azure public cloud. Announced at the &amp;hellip;  &lt;a href=&#34;http://www.cloudpro.co.uk/business-intelligence/6524/microsoft-adds-location-services-to-azure-with-tomtom&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cloudpro.co.uk/business-intelligence/6524/microsoft-adds-location-services-to-azure-with-tomtom&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Web Services Cloud Now Available to Customers from Data Centers in</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/tomtom-partners-with-microsoft-to-bring-locationbased-services-to-azure/</guid>
       <description>&lt;p&gt;Location based services from TomTom are used by the world&amp;rsquo;s leading companies. TomTom today announced a partnership with Microsoft to bring &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/tomtom-partners-with-microsoft-to-bring-location-based-services-to-azure/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/tomtom-partners-with-microsoft-to-bring-location-based-services-to-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google throws its weight behind open-source Cloud Foundry</title>
-      <link>//cloudfeed.net/post/google-throws-its-weight-behind-opensource-cloud-foundry/</link>
-      <pubDate>Thu, 15 Dec 2016 22:10:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/google-throws-its-weight-behind-opensource-cloud-foundry/</guid>
-      <description>&lt;p&gt;Our goal with Google Cloud Platform is to build an open cloud for all businesses and we see active participation with the open source community as &amp;hellip;  &lt;a href=&#34;http://siliconangle.com/blog/2016/12/15/google-joins-cloud-foundry-foundation-gold-member/&#34; onclick=&#34;trackOutboundLink(&#39;http://siliconangle.com/blog/2016/12/15/google-joins-cloud-foundry-foundation-gold-member/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
