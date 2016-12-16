@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 15 Dec 2016 16:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Dec 2016 17:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Red Hat Releases OpenStack Platform 10</title>
+      <link>//cloudfeed.net/post/red-hat-releases-openstack-platform-10/</link>
+      <pubDate>Thu, 15 Dec 2016 17:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/red-hat-releases-openstack-platform-10/</guid>
+      <description>&lt;p&gt;Today Red Hat announced the latest version of its cloud Infrastructure-as-a-Service (IaaS) solution, Red Hat OpenStack Platform 10. The latest version &amp;hellip;  &lt;a href=&#34;http://www.storagereview.com/red_hat_releases_openstack_platform_10&#34; onclick=&#34;trackOutboundLink(&#39;http://www.storagereview.com/red_hat_releases_openstack_platform_10&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Oracle Earnings Fall; Co-CEO Catz to Join Trump Transition Advisory</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/red-hat-feels-the-need--the-need-for-openstack-speed/</guid>
       <description>&lt;p&gt;Red Hat&amp;rsquo;s released its dual-support mode OpenStack Platform 10, for rapid cloud adoption. The branded OpenStack box continues Red Hat&amp;rsquo;s drive to &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/12/15/red_hat_rolls_openstack_platform_10/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/12/15/red_hat_rolls_openstack_platform_10/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft partners with TomTom for smarter maps, smarter mobility</title>
-      <link>//cloudfeed.net/post/microsoft-partners-with-tomtom-for-smarter-maps-smarter-mobility/</link>
-      <pubDate>Thu, 15 Dec 2016 12:20:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-partners-with-tomtom-for-smarter-maps-smarter-mobility/</guid>
-      <description>&lt;p&gt;TomTom and Microsoft announced a new partnership that will see location-based services integrated into Microsoft&amp;rsquo;s Azure cloud platform to make it &amp;hellip;  &lt;a href=&#34;https://www.cnet.com/roadshow/news/microsoft-partners-with-tomtom-for-smarter-maps-smarter-mobility/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cnet.com/roadshow/news/microsoft-partners-with-tomtom-for-smarter-maps-smarter-mobility/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
