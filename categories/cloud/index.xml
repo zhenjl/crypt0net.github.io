@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 17 Dec 2016 10:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Dec 2016 11:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Aims To Break Into Smart Homes With Android Things</title>
+      <link>//cloudfeed.net/post/google-aims-to-break-into-smart-homes-with-android-things/</link>
+      <pubDate>Sat, 17 Dec 2016 11:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/google-aims-to-break-into-smart-homes-with-android-things/</guid>
+      <description>&lt;p&gt;Future iterations are meant to incorporate Google&amp;rsquo;s Weave platform, Google Cloud Platform, over-the-air updates from Google and the Google IoT &amp;hellip;  &lt;a href=&#34;http://www.hsunews.com/2016/12/17/google-aims-to-break-into-smart-homes-with-android-things/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.hsunews.com/2016/12/17/google-aims-to-break-into-smart-homes-with-android-things/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Many Wonders of Google Drive</title>
@@ -324,18 +336,6 @@
       
       <guid>//cloudfeed.net/post/how-to-train-and-classify-images-using-google-cloud-machine-learning-and/</guid>
       <description>&lt;p&gt;For specialized image-classification use cases, using Google Cloud Dataflow and Google Cloud Machine Learning makes it easy to train and &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/blog/big-data/2016/12/how-to-train-and-classify-images-using-google-cloud-machine-learning-and-cloud-dataflow&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/blog/big-data/2016/12/how-to-train-and-classify-images-using-google-cloud-machine-learning-and-cloud-dataflow&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AWS launches enterprise tier of its QuickSight business intelligence tool</title>
-      <link>//cloudfeed.net/post/aws-launches-enterprise-tier-of-its-quicksight-business-intelligence-tool/</link>
-      <pubDate>Fri, 16 Dec 2016 15:10:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/aws-launches-enterprise-tier-of-its-quicksight-business-intelligence-tool/</guid>
-      <description>&lt;p&gt;Public cloud infrastructure provider Amazon Web Services (AWS) today announced the availability of an enterprise tier of its Amazon QuickSight cloud &amp;hellip;  &lt;a href=&#34;http://venturebeat.com/2016/12/16/aws-launches-enterprise-tier-of-its-quicksight-business-intelligence-tool/&#34; onclick=&#34;trackOutboundLink(&#39;http://venturebeat.com/2016/12/16/aws-launches-enterprise-tier-of-its-quicksight-business-intelligence-tool/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
