@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 17 Dec 2016 03:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Dec 2016 04:20:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Configuring an Endpoint Protection log source for predefined database</title>
+      <link>//cloudfeed.net/post/configuring-an-endpoint-protection-log-source-for-predefined-database/</link>
+      <pubDate>Sat, 17 Dec 2016 04:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/configuring-an-endpoint-protection-log-source-for-predefined-database/</guid>
+      <description>&lt;p&gt;Administrators who do not have permission to create a database view because of policy restrictions can collect Microsoft Endpoint Protection events &amp;hellip;  &lt;a href=&#34;http://www.ibm.com/support/knowledgecenter/SS42VS_7.2.8/com.ibm.dsm.doc/t_DSM_guide_Microsoft_Endpoint_logsource.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ibm.com/support/knowledgecenter/SS42VS_7.2.8/com.ibm.dsm.doc/t_DSM_guide_Microsoft_Endpoint_logsource.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ken Colburn: 5 lessons for everyone from Yahoo breach</title>
@@ -279,18 +291,6 @@
       
       <guid>//cloudfeed.net/post/cybersecurity-approaches-are-maturing-but-spending-is-misdirected-and/</guid>
       <description>&lt;p&gt;PR Newswire (press release) However, a majority of respondents (52%) said preventing data breaches was their top spending priority, while 42% said detection was their primary &amp;hellip;  &lt;a href=&#34;http://www.prnewswire.com/news-releases/cybersecurity-approaches-are-maturing-but-spending-is-misdirected-and-people-are-still-the-problem-nuix-executive-survey-300379901.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prnewswire.com/news-releases/cybersecurity-approaches-are-maturing-but-spending-is-misdirected-and-people-are-still-the-problem-nuix-executive-survey-300379901.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Shareholders Denied Suit Against Home Depot Over Data Breach</title>
-      <link>//cloudfeed.net/post/shareholders-denied-suit-against-home-depot-over-data-breach/</link>
-      <pubDate>Fri, 16 Dec 2016 12:40:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/shareholders-denied-suit-against-home-depot-over-data-breach/</guid>
-      <description>&lt;p&gt;This breach followed the widely publicized data breaches at several other major retailers and department stores. Shareholder plaintiffs argued that &amp;hellip;  &lt;a href=&#34;http://privacylaw.proskauer.com/2016/12/articles/data-breaches/shareholders-denied-suit-against-home-depot-over-data-breach/&#34; onclick=&#34;trackOutboundLink(&#39;http://privacylaw.proskauer.com/2016/12/articles/data-breaches/shareholders-denied-suit-against-home-depot-over-data-breach/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>

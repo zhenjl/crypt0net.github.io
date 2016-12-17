@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 17 Dec 2016 04:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Dec 2016 04:20:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Configuring an Endpoint Protection log source for predefined database</title>
+      <link>//cloudfeed.net/post/configuring-an-endpoint-protection-log-source-for-predefined-database/</link>
+      <pubDate>Sat, 17 Dec 2016 04:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/configuring-an-endpoint-protection-log-source-for-predefined-database/</guid>
+      <description>&lt;p&gt;Administrators who do not have permission to create a database view because of policy restrictions can collect Microsoft Endpoint Protection events &amp;hellip;  &lt;a href=&#34;http://www.ibm.com/support/knowledgecenter/SS42VS_7.2.8/com.ibm.dsm.doc/t_DSM_guide_Microsoft_Endpoint_logsource.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ibm.com/support/knowledgecenter/SS42VS_7.2.8/com.ibm.dsm.doc/t_DSM_guide_Microsoft_Endpoint_logsource.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Citi Invests in Blockchain FX Trading Firm Cobalt DL</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/cobalt-dl-game-changer-for-fx/</guid>
       <description>&lt;p&gt;A blockchain from the Hyperledger project is being used by Deutsche Bundesbank, the German central bank, and Deutsche Brse, the German &amp;hellip;  &lt;a href=&#34;http://marketsmedia.com/cobalt-dl-game-changer-fx/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketsmedia.com/cobalt-dl-game-changer-fx/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Next Generation Network OSS/BSS Market and Forecast 2016 - 2021</title>
-      <link>//cloudfeed.net/post/next-generation-network-ossbss-market-and-forecast-2016--2021/</link>
-      <pubDate>Fri, 16 Dec 2016 23:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/next-generation-network-ossbss-market-and-forecast-2016--2021/</guid>
-      <description>&lt;p&gt;&amp;hellip; CSPs must deal with new business frameworks associated with the Cloud, Unstructured (Big) data, and Internet of Things (IoT) networks and data.  &lt;a href=&#34;http://www.prnewswire.com/news-releases/next-generation-network-ossbss-market-and-forecast-2016---2021-300380187.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prnewswire.com/news-releases/next-generation-network-ossbss-market-and-forecast-2016---2021-300380187.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
