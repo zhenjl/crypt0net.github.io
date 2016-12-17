@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 16 Dec 2016 15:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Dec 2016 16:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>networking-ovn 2.0.0.0b2</title>
+      <link>//cloudfeed.net/post/networkingovn-2000b2/</link>
+      <pubDate>Fri, 16 Dec 2016 16:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/networkingovn-2000b2/</guid>
+      <description>&lt;p&gt;virtual networking for Open vSwitch and is a component of the Open vSwitch &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/networking-ovn/2.0.0.0b2&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/networking-ovn/2.0.0.0b2&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How to train and classify images using Google Cloud Machine Learning and</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/google-joins-the-open-source-cloud-foundry-foundation/</guid>
       <description>&lt;p&gt;From the beginning, our goal for Google Cloud Platform has been to build the most open cloud for all developers and businesses alike, and make it &amp;hellip;  &lt;a href=&#34;https://techcrunch.com/2016/12/16/google-joins-the-open-source-cloud-foundry-foundation/&#34; onclick=&#34;trackOutboundLink(&#39;https://techcrunch.com/2016/12/16/google-joins-the-open-source-cloud-foundry-foundation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft partners with AMIS to form Asia&#39;s first blockchain consortium</title>
-      <link>//cloudfeed.net/post/microsoft-partners-with-amis-to-form-asias-first-blockchain-consortium/</link>
-      <pubDate>Fri, 16 Dec 2016 10:10:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-partners-with-amis-to-form-asias-first-blockchain-consortium/</guid>
-      <description>&lt;p&gt;Microsoft Azure offers a trusted cloud environment and provides AMIS with the necessary support in the areas of security, privacy, transparency and &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-partners-with-amis-to-form-asias-first-blockchain-consortium/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-partners-with-amis-to-form-asias-first-blockchain-consortium/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
