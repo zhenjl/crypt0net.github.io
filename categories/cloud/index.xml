@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 19 Dec 2016 10:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Dec 2016 11:10:07 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comparing the leading public cloud service providers</title>
+      <link>//cloudfeed.net/post/comparing-the-leading-public-cloud-service-providers/</link>
+      <pubDate>Mon, 19 Dec 2016 11:10:07 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/comparing-the-leading-public-cloud-service-providers/</guid>
+      <description>&lt;p&gt;Although Amazon Simple Storage Service (S3), Google Cloud Storage and Microsoft Azure Storage offer similar storage features, there are a number &amp;hellip;  &lt;a href=&#34;http://searchcloudstorage.techtarget.com/feature/Comparing-the-leading-public-cloud-service-providers&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudstorage.techtarget.com/feature/Comparing-the-leading-public-cloud-service-providers&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Launches its First Cloud Data Center in Canada</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/why-the-cloud-in-2016-it-was-the-lure-of-the-new/</guid>
       <description>&lt;p&gt;IoT platforms: The top five public clouds  AWS, Salesforce, Microsoft Azure, Google Cloud Platform, and IBM Bluemix  all have IoT platforms for &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3151460/cloud-computing/why-the-cloud-in-2016-it-was-the-lure-of-the-new.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3151460/cloud-computing/why-the-cloud-in-2016-it-was-the-lure-of-the-new.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cisco to shut down Intercloud service</title>
-      <link>//cloudfeed.net/post/cisco-to-shut-down-intercloud-service/</link>
-      <pubDate>Mon, 19 Dec 2016 04:10:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/cisco-to-shut-down-intercloud-service/</guid>
-      <description>&lt;p&gt;Cisco is to stop offering its cloud rival to Amazon Web Services, Google Cloud and Microsoft Azure. The company will migrate users of Cisco &amp;hellip;  &lt;a href=&#34;http://www.globaltelecomsbusiness.com/Article/3648146/Cisco-to-shut-down-Intercloud-service.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.globaltelecomsbusiness.com/Article/3648146/Cisco-to-shut-down-Intercloud-service.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
