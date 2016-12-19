@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 19 Dec 2016 04:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Dec 2016 04:30:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>connection lost when waiting for connack response using mqtt websockets for</title>
+      <link>//cloudfeed.net/post/connection-lost-when-waiting-for-connack-response-using-mqtt-websockets-for/</link>
+      <pubDate>Mon, 19 Dec 2016 04:30:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/connection-lost-when-waiting-for-connack-response-using-mqtt-websockets-for/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m able to perform ssl &amp;amp; websocket handshake. The http connection is getting upgraded to websocket connection which is fine. The erlang websocket &amp;hellip;  &lt;a href=&#34;https://developer.ibm.com/answers/questions/333136/connection-lost-when-waiting-for-connack-response.html&#34; onclick=&#34;trackOutboundLink(&#39;https://developer.ibm.com/answers/questions/333136/connection-lost-when-waiting-for-connack-response.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Why the cloud? In 2016, it was the lure of the new</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;PYMNTS.com The tech giant recently announced its official foray into blockchain, with the launch of a blockchain ecosystem aimed at accelerating the creation of &amp;hellip;  &lt;a href=&#34;http://www.pymnts.com/data-dive/2016/the-data-dive-turning-point-edition-yahoos-breach-costcos-credit-card-ibms-blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pymnts.com/data-dive/2016/the-data-dive-turning-point-edition-yahoos-breach-costcos-credit-card-ibms-blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Connected Car News: HARMAN, Caruma, Allstate, Velodyne, Micronas, PWC,</title>
-      <link>//cloudfeed.net/post/connected-car-news-harman-caruma-allstate-velodyne-micronas-pwc/</link>
-      <pubDate>Mon, 19 Dec 2016 02:20:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/connected-car-news-harman-caruma-allstate-velodyne-micronas-pwc/</guid>
-      <description>&lt;p&gt;AUTO Connected Car News TomTom and Microsoft announced they will partner to bring enterprise-grade location-based services to Microsoft&amp;rsquo;s Azure platform, based on &amp;hellip;  &lt;a href=&#34;http://www.autoconnectedcar.com/2016/12/connected-car-news-harman-caruma-allstate-velodyne-micronas-pwc-tomtom-microsoft-here-byd/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.autoconnectedcar.com/2016/12/connected-car-news-harman-caruma-allstate-velodyne-micronas-pwc-tomtom-microsoft-here-byd/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 19 Dec 2016 04:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Dec 2016 04:30:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>connection lost when waiting for connack response using mqtt websockets for</title>
+      <link>//cloudfeed.net/post/connection-lost-when-waiting-for-connack-response-using-mqtt-websockets-for/</link>
+      <pubDate>Mon, 19 Dec 2016 04:30:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/connection-lost-when-waiting-for-connack-response-using-mqtt-websockets-for/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m able to perform ssl &amp;amp; websocket handshake. The http connection is getting upgraded to websocket connection which is fine. The erlang websocket &amp;hellip;  &lt;a href=&#34;https://developer.ibm.com/answers/questions/333136/connection-lost-when-waiting-for-connack-response.html&#34; onclick=&#34;trackOutboundLink(&#39;https://developer.ibm.com/answers/questions/333136/connection-lost-when-waiting-for-connack-response.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>10 companies moving up in smart buildings</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/cryptocurrency-in-crossfire-as-surge-in-dodgy-transactions-reported-to/</guid>
       <description>&lt;p&gt;Stuff.co.nz The NZ Law Foundation funded a study in which associate professor Alex Sims and legal and banking experts examined regulation of Blockchain, the &amp;hellip;  &lt;a href=&#34;http://www.stuff.co.nz/national/crime/87671747/Cryptocurrency-in-crossfire-as-surge-in-dodgy-transactions-reported-to-police-intel&#34; onclick=&#34;trackOutboundLink(&#39;http://www.stuff.co.nz/national/crime/87671747/Cryptocurrency-in-crossfire-as-surge-in-dodgy-transactions-reported-to-police-intel&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Jerry Cuomo pens Hyperledger blockchain projects first year review</title>
-      <link>//cloudfeed.net/post/jerry-cuomo-pens-hyperledger-blockchain-projects-first-year-review/</link>
-      <pubDate>Mon, 19 Dec 2016 00:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/jerry-cuomo-pens-hyperledger-blockchain-projects-first-year-review/</guid>
-      <description>&lt;p&gt;On the occasion of the first anniversary of the Hyperledger Project, Jerry Cuomo, IBM Vice President, Blockchain Technologies, penned down the &amp;hellip;  &lt;a href=&#34;http://www.econotimes.com/Jerry-Cuomo-pens-Hyperledger-blockchain-projects-first-year-review-456856&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/Jerry-Cuomo-pens-Hyperledger-blockchain-projects-first-year-review-456856&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
