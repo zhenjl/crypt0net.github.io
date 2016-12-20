@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 20 Dec 2016 12:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Dec 2016 13:10:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure Analysis Services now available in North Europe and West US</title>
+      <link>//cloudfeed.net/post/microsoft-azure-analysis-services-now-available-in-north-europe-and-west-us/</link>
+      <pubDate>Tue, 20 Dec 2016 13:10:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-azure-analysis-services-now-available-in-north-europe-and-west-us/</guid>
+      <description>&lt;p&gt;Microsoft today announced the launch of Azure Analysis Services in North Europe and West US. Azure Analysis Services an enterprise grade OLAP &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-azure-analysis-services-now-available-in-north-europe-and-west-us/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-azure-analysis-services-now-available-in-north-europe-and-west-us/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Partners: New AWS Managed Services Raises A Channel Conflict Red Flag -</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/diving-into-microsofts-azure-data-lake/</guid>
       <description>&lt;p&gt;Microsoft has been working with big data for a long time. Internally, it uses a tool called Cosmos, built with its own distributed processing technology, &amp;hellip;  &lt;a href=&#34;http://www.cio.com/article/3152289/big-data/diving-into-microsofts-azure-data-lake.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3152289/big-data/diving-into-microsofts-azure-data-lake.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Scaling for web: enterprise web-scale IT</title>
-      <link>//cloudfeed.net/post/scaling-for-web-enterprise-webscale-it/</link>
-      <pubDate>Tue, 20 Dec 2016 07:10:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/scaling-for-web-enterprise-webscale-it/</guid>
-      <description>&lt;p&gt;&amp;hellip; agile and efficient operation that defines the large cloud service providers such as Amazon Web Services (AWS), Google, and Microsoft&amp;rsquo;s Azure.  &lt;a href=&#34;http://www.information-age.com/scaling-web-enterprise-web-scale-it-123463723/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.information-age.com/scaling-web-enterprise-web-scale-it-123463723/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
