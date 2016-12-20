@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 20 Dec 2016 06:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Dec 2016 07:10:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Diving into Microsoft&#39;s Azure Data Lake</title>
+      <link>//cloudfeed.net/post/diving-into-microsofts-azure-data-lake/</link>
+      <pubDate>Tue, 20 Dec 2016 07:10:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/diving-into-microsofts-azure-data-lake/</guid>
+      <description>&lt;p&gt;Microsoft has been working with big data for a long time. Internally, it uses a tool called Cosmos, built with its own distributed processing technology, &amp;hellip;  &lt;a href=&#34;http://www.cio.com/article/3152289/big-data/diving-into-microsofts-azure-data-lake.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3152289/big-data/diving-into-microsofts-azure-data-lake.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scaling for web: enterprise web-scale IT</title>
+      <link>//cloudfeed.net/post/scaling-for-web-enterprise-webscale-it/</link>
+      <pubDate>Tue, 20 Dec 2016 07:10:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/scaling-for-web-enterprise-webscale-it/</guid>
+      <description>&lt;p&gt;&amp;hellip; agile and efficient operation that defines the large cloud service providers such as Amazon Web Services (AWS), Google, and Microsoft&amp;rsquo;s Azure.  &lt;a href=&#34;http://www.information-age.com/scaling-web-enterprise-web-scale-it-123463723/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.information-age.com/scaling-web-enterprise-web-scale-it-123463723/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sphere 3D&#39;s Glassware 2.0 Successfully Migrates Legacy Apps for the</title>
+      <link>//cloudfeed.net/post/sphere-3ds-glassware-20-successfully-migrates-legacy-apps-for-the/</link>
+      <pubDate>Tue, 20 Dec 2016 07:10:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/sphere-3ds-glassware-20-successfully-migrates-legacy-apps-for-the/</guid>
+      <description>&lt;p&gt;Nasdaq Glassware 2.0 is currently available both as an appliance as well as through Microsoft Azure. Within Azure, Glassware is available as an App &amp;hellip;  &lt;a href=&#34;http://www.nasdaq.com/press-release/sphere-3ds-glassware-20-successfully-migrates-legacy-apps-for-the-enterprise-20161220-00451&#34; onclick=&#34;trackOutboundLink(&#39;http://www.nasdaq.com/press-release/sphere-3ds-glassware-20-successfully-migrates-legacy-apps-for-the-enterprise-20161220-00451&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Aricent Achieves Amazon Web Services IoT Competency Status</title>
@@ -149,42 +185,6 @@
       
       <guid>//cloudfeed.net/post/what-is-microsoft-azure-and-who-is-it-for/</guid>
       <description>&lt;p&gt;eMazzanti Technologies&amp;rsquo; new article explains Microsoft Azure, the expansive business technology referred to in ads as &amp;ldquo;The Microsoft Cloud.&amp;rdquo;.  &lt;a href=&#34;http://www.hostreview.com/news/161220-what-is-microsoft-azure-and-who-is-it-for&#34; onclick=&#34;trackOutboundLink(&#39;http://www.hostreview.com/news/161220-what-is-microsoft-azure-and-who-is-it-for&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>With MINE, Microsoft Is Taking Machine Learning for Eyecare Global</title>
-      <link>//cloudfeed.net/post/with-mine-microsoft-is-taking-machine-learning-for-eyecare-global/</link>
-      <pubDate>Mon, 19 Dec 2016 23:10:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/with-mine-microsoft-is-taking-machine-learning-for-eyecare-global/</guid>
-      <description>&lt;p&gt;With the announcement on Monday, Microsoft is taking MINE beyond the pilot &amp;hellip; At LVPEI, we have been using Microsoft Azure machine learning and &amp;hellip;  &lt;a href=&#34;http://gadgets.ndtv.com/science/features/with-mine-microsoft-is-taking-machine-learning-for-eye-care-global-1639756&#34; onclick=&#34;trackOutboundLink(&#39;http://gadgets.ndtv.com/science/features/with-mine-microsoft-is-taking-machine-learning-for-eye-care-global-1639756&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Back up your photos with more than just an online storage site</title>
-      <link>//cloudfeed.net/post/back-up-your-photos-with-more-than-just-an-online-storage-site/</link>
-      <pubDate>Mon, 19 Dec 2016 21:10:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/back-up-your-photos-with-more-than-just-an-online-storage-site/</guid>
-      <description>&lt;p&gt;A member of the Illinois Technology Association, Greenwald said you should use the Google cloud, Microsoft cloud or the iCloud to back up pictures &amp;hellip;  &lt;a href=&#34;http://abc7chicago.com/business/back-up-your-photos-with-more-than-just-an-online-storage-site/1664533/&#34; onclick=&#34;trackOutboundLink(&#39;http://abc7chicago.com/business/back-up-your-photos-with-more-than-just-an-online-storage-site/1664533/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft partnerships with other location tech firms also expanded.</title>
-      <link>//cloudfeed.net/post/microsoft-partnerships-with-other-location-tech-firms-also-expanded/</link>
-      <pubDate>Mon, 19 Dec 2016 21:10:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-partnerships-with-other-location-tech-firms-also-expanded/</guid>
-      <description>&lt;p&gt;The tech giant announced that it will join forces with the mapping technology company to integrate location-based services into Microsoft Azure, &amp;hellip;  &lt;a href=&#34;http://www.iothub.com.au/news/tomtom-to-boost-azures-location-capabilities-445341&#34; onclick=&#34;trackOutboundLink(&#39;http://www.iothub.com.au/news/tomtom-to-boost-azures-location-capabilities-445341&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
