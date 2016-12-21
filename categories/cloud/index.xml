@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Dec 2016 11:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Dec 2016 11:20:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Drive adds discounted, annual subscriptions for 100GB and 1TB of</title>
+      <link>//cloudfeed.net/post/google-drive-adds-discounted-annual-subscriptions-for-100gb-and-1tb-of/</link>
+      <pubDate>Wed, 21 Dec 2016 11:20:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/google-drive-adds-discounted-annual-subscriptions-for-100gb-and-1tb-of/</guid>
+      <description>&lt;p&gt;9 to 5 Google &amp;hellip; company&amp;rsquo;s increased enterprise cloud ambitions, with a recent rebranding to G Suite and unifying of various cloud products under Google Cloud.  &lt;a href=&#34;https://9to5google.com/2016/12/21/google-drive-storage-annual-discount/&#34; onclick=&#34;trackOutboundLink(&#39;https://9to5google.com/2016/12/21/google-drive-storage-annual-discount/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Leveraging Microsoft Azure with Citrix NetScaler HA</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/build-chat-bots-with-microsofts-bot-framework/</guid>
       <description>&lt;p&gt;Like much of Microsoft&amp;rsquo;s recent development tools, the Bot Framework is intended to be cross-platform and cloud-based, building on Azure services &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3152158/application-development/build-chat-bots-with-microsofts-bot-framework.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3152158/application-development/build-chat-bots-with-microsofts-bot-framework.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OpenStack: Quick and automatic instance snapshot backup and restore</title>
-      <link>//cloudfeed.net/post/openstack-quick-and-automatic-instance-snapshot-backup-and-restore/</link>
-      <pubDate>Wed, 21 Dec 2016 06:00:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/openstack-quick-and-automatic-instance-snapshot-backup-and-restore/</guid>
-      <description>&lt;p&gt;automatically, quick and easy. This allows you to create a full backup of &amp;hellip;  &lt;a href=&#34;https://raymii.org/s/tutorials/OpenStack_Quick_and_automatic_instance_snapshot_backups.html&#34; onclick=&#34;trackOutboundLink(&#39;https://raymii.org/s/tutorials/OpenStack_Quick_and_automatic_instance_snapshot_backups.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
