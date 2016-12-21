@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Dec 2016 01:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Dec 2016 02:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Red Hat OpenStack Platform 10 is here! So what&#39;s new?</title>
+      <link>//cloudfeed.net/post/red-hat-openstack-platform-10-is-here-so-whats-new/</link>
+      <pubDate>Wed, 21 Dec 2016 02:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/red-hat-openstack-platform-10-is-here-so-whats-new/</guid>
+      <description>&lt;p&gt;extensive use of the command line, so in this release we&amp;rsquo;re bringing a new &amp;hellip;  &lt;a href=&#34;http://redhatstackblog.redhat.com/2016/12/20/red-hat-openstack-platform-10-is-here-so-whats-new/&#34; onclick=&#34;trackOutboundLink(&#39;http://redhatstackblog.redhat.com/2016/12/20/red-hat-openstack-platform-10-is-here-so-whats-new/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>SharePoint Fest Heads Back to Washington, DC and Declares cFocus Software</title>
@@ -300,18 +312,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-wins-927m-support-contract-from-us-defense-department/</guid>
       <description>&lt;p&gt;There was no indication whether the support is to be provided for Windows or for Azure, Microsoft&amp;rsquo;s public-cloud offering. Microsoft offers data centers &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2016/microsoft-wins-927m-support-contract-u-s-defense-department/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2016/microsoft-wins-927m-support-contract-u-s-defense-department/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Automic empowers cloud Continuous Delivery with OpenStack Integration</title>
-      <link>//cloudfeed.net/post/automic-empowers-cloud-continuous-delivery-with-openstack-integration/</link>
-      <pubDate>Tue, 20 Dec 2016 17:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/automic-empowers-cloud-continuous-delivery-with-openstack-integration/</guid>
-      <description>&lt;p&gt;OpenStack, one of the leading open-source software platforms for c.  &lt;a href=&#34;https://automic.com/news/automic-empowers-cloud-continuous-delivery-openstack-integration-0&#34; onclick=&#34;trackOutboundLink(&#39;https://automic.com/news/automic-empowers-cloud-continuous-delivery-openstack-integration-0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
