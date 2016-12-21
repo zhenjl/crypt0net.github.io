@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 20 Dec 2016 17:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Dec 2016 17:20:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft wins $927M support contract from U.S. Defense Department</title>
+      <link>//cloudfeed.net/post/microsoft-wins-927m-support-contract-from-us-defense-department/</link>
+      <pubDate>Tue, 20 Dec 2016 17:20:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-wins-927m-support-contract-from-us-defense-department/</guid>
+      <description>&lt;p&gt;There was no indication whether the support is to be provided for Windows or for Azure, Microsoft&amp;rsquo;s public-cloud offering. Microsoft offers data centers &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2016/microsoft-wins-927m-support-contract-u-s-defense-department/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2016/microsoft-wins-927m-support-contract-u-s-defense-department/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Automic empowers cloud Continuous Delivery with OpenStack Integration</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/set-up-a-virtual-home-lab-to-learn-openstack-and-more-on-your-own-time/</guid>
       <description>&lt;p&gt;Virtual home labs let you explore the complexities of OpenStack cloud, despite the fact that your day job requires you to run production workloads only &amp;hellip;  &lt;a href=&#34;http://searchitoperations.techtarget.com/tip/Set-up-a-virtual-home-lab-to-learn-OpenStack-and-more-on-your-own-time&#34; onclick=&#34;trackOutboundLink(&#39;http://searchitoperations.techtarget.com/tip/Set-up-a-virtual-home-lab-to-learn-OpenStack-and-more-on-your-own-time&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Citrix: Disaster Recovery for XenApp Made Easy with Azure Site Recovery</title>
-      <link>//cloudfeed.net/post/citrix-disaster-recovery-for-xenapp-made-easy-with-azure-site-recovery/</link>
-      <pubDate>Tue, 20 Dec 2016 10:10:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/citrix-disaster-recovery-for-xenapp-made-easy-with-azure-site-recovery/</guid>
-      <description>&lt;p&gt;Azure Site Recovery is Microsoft&amp;rsquo;s Disaster Recovery as a Service (DRaaS) solution and provides disaster recovery capabilities by orchestrating &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/citrix-disaster-recovery-for-xenapp-made-easy-with-azure-site-recovery/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/citrix-disaster-recovery-for-xenapp-made-easy-with-azure-site-recovery/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
