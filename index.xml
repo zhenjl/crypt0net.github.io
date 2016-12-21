@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Dec 2016 11:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Dec 2016 11:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Leveraging Microsoft Azure with Citrix NetScaler HA</title>
+      <link>//cloudfeed.net/post/leveraging-microsoft-azure-with-citrix-netscaler-ha/</link>
+      <pubDate>Wed, 21 Dec 2016 11:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/leveraging-microsoft-azure-with-citrix-netscaler-ha/</guid>
+      <description>&lt;p&gt;Now many are leveraging Netscaler GSLB to setup complex Geo based load balancing across different regions using built-in health checks and &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/leveraging-microsoft-azure-with-citrix-netscaler-ha/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/leveraging-microsoft-azure-with-citrix-netscaler-ha/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Channel chomping at the bit as Internet of Things investment rises</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;As we move to the Internet of Things (IoT), more and more of our stuff is connected and can be used to report on us or gain access to our network and &amp;hellip;  &lt;a href=&#34;http://www.itbusinessedge.com/blogs/unfiltered-opinion/varonis-keeping-your-family-safe-over-the-holidays.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itbusinessedge.com/blogs/unfiltered-opinion/varonis-keeping-your-family-safe-over-the-holidays.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Seattle&#39;s cloud-computing boom is new force driving regional economy</title>
-      <link>//cloudfeed.net/post/seattles-cloudcomputing-boom-is-new-force-driving-regional-economy/</link>
-      <pubDate>Wed, 21 Dec 2016 10:10:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/seattles-cloudcomputing-boom-is-new-force-driving-regional-economy/</guid>
-      <description>&lt;p&gt;&amp;ldquo;It was very daunting,&amp;rdquo; Sanders said of his charge when he joined the team building Microsoft&amp;rsquo;s Azure. &amp;ldquo;We did have a very big competitor to look at.&amp;rdquo;.  &lt;a href=&#34;http://phys.org/news/2016-12-seattle-cloud-computing-boom-regional-economy.html&#34; onclick=&#34;trackOutboundLink(&#39;http://phys.org/news/2016-12-seattle-cloud-computing-boom-regional-economy.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
