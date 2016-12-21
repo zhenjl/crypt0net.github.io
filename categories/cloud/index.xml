@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 20 Dec 2016 16:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Dec 2016 17:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Automic empowers cloud Continuous Delivery with OpenStack Integration</title>
+      <link>//cloudfeed.net/post/automic-empowers-cloud-continuous-delivery-with-openstack-integration/</link>
+      <pubDate>Tue, 20 Dec 2016 17:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/automic-empowers-cloud-continuous-delivery-with-openstack-integration/</guid>
+      <description>&lt;p&gt;OpenStack, one of the leading open-source software platforms for c.  &lt;a href=&#34;https://automic.com/news/automic-empowers-cloud-continuous-delivery-openstack-integration-0&#34; onclick=&#34;trackOutboundLink(&#39;https://automic.com/news/automic-empowers-cloud-continuous-delivery-openstack-integration-0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Automic Released New Microsoft Azure Cloud DevOps Solution</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/citrix-disaster-recovery-for-xenapp-made-easy-with-azure-site-recovery/</guid>
       <description>&lt;p&gt;Azure Site Recovery is Microsoft&amp;rsquo;s Disaster Recovery as a Service (DRaaS) solution and provides disaster recovery capabilities by orchestrating &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/citrix-disaster-recovery-for-xenapp-made-easy-with-azure-site-recovery/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/citrix-disaster-recovery-for-xenapp-made-easy-with-azure-site-recovery/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Migrating VMware vCloud Director vApps across Distributed Virtual Switches</title>
-      <link>//cloudfeed.net/post/migrating-vmware-vcloud-director-vapps-across-distributed-virtual-switches/</link>
-      <pubDate>Tue, 20 Dec 2016 10:00:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/migrating-vmware-vcloud-director-vapps-across-distributed-virtual-switches/</guid>
-      <description>&lt;p&gt;vCloud Director vApps from one distributed virtual switch to another.  &lt;a href=&#34;https://blogs.vmware.com/vcat/2016/12/migrating-vmware-vcloud-director-vapps-across-distributed-virtual-switches.html&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.vmware.com/vcat/2016/12/migrating-vmware-vcloud-director-vapps-across-distributed-virtual-switches.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
