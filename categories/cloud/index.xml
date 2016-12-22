@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 22 Dec 2016 07:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Dec 2016 08:10:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project Bletchley - Corda Distributed Ledger available on Azure</title>
+      <link>//cloudfeed.net/post/project-bletchley--corda-distributed-ledger-available-on-azure/</link>
+      <pubDate>Thu, 22 Dec 2016 08:10:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/project-bletchley--corda-distributed-ledger-available-on-azure/</guid>
+      <description>&lt;p&gt;Azure, only a few weeks after its release to the open source community.  &lt;a href=&#34;https://azure.microsoft.com/en-in/blog/project-bletchley-corda-distributed-ledger-available-on-azure/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-in/blog/project-bletchley-corda-distributed-ledger-available-on-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Seeks to Cut Waste With Box Recycling Program</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/openstack-instances-crash-with-terminate-called-after-throwing-an/</guid>
       <description>&lt;p&gt;qemu-kvm processes that provide OpenStack instances are crashing with &amp;ldquo;terminate called after throwing an instance of &amp;lsquo;ceph::FailedAssertion&amp;rsquo; &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2824081&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2824081&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bulletproof expecting double-digit revenue boost for FY17</title>
-      <link>//cloudfeed.net/post/bulletproof-expecting-doubledigit-revenue-boost-for-fy17/</link>
-      <pubDate>Wed, 21 Dec 2016 22:10:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/bulletproof-expecting-doubledigit-revenue-boost-for-fy17/</guid>
-      <description>&lt;p&gt;&amp;ldquo;We now have secure private cloud, managed and supported Amazon Web Services, and also Microsoft Azure to offer to customers like that.  &lt;a href=&#34;http://www.zdnet.com/article/bulletproof-expecting-double-digit-revenue-boost-for-fy17/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/bulletproof-expecting-double-digit-revenue-boost-for-fy17/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
