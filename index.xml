@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 22 Dec 2016 13:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Dec 2016 13:10:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>General Availability: Larger Block Blobs in Azure Storage</title>
+      <link>//cloudfeed.net/post/general-availability-larger-block-blobs-in-azure-storage/</link>
+      <pubDate>Thu, 22 Dec 2016 13:10:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/general-availability-larger-block-blobs-in-azure-storage/</guid>
+      <description>&lt;p&gt;of storing and serving tens to hundreds of petabytes of data per customer &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/general-availability-larger-block-blobs-in-azure-storage/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/general-availability-larger-block-blobs-in-azure-storage/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Access Your Raspberry Pi from Anywhere With Dataplicity</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/multitenant-use-of-vmware-vrealize-operations-as-a-service/</guid>
       <description>&lt;p&gt;blogs around vCloud Architecture Toolkit for Service Providers, which is a set &amp;hellip;  &lt;a href=&#34;http://blogs.vmware.com/vcloud/2016/12/multitenant-vrops-vcat-sp.html&#34; onclick=&#34;trackOutboundLink(&#39;http://blogs.vmware.com/vcloud/2016/12/multitenant-vrops-vcat-sp.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R3&#39;s Corda distributed ledger platform is now available on Microsoft Azure</title>
-      <link>//cloudfeed.net/post/r3s-corda-distributed-ledger-platform-is-now-available-on-microsoft-azure/</link>
-      <pubDate>Thu, 22 Dec 2016 12:00:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/r3s-corda-distributed-ledger-platform-is-now-available-on-microsoft-azure/</guid>
-      <description>&lt;p&gt;automate legal agreements between business partners, is now available on &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2016/12/22/r3s-corda-distributed-ledger-platform-is-now-available-on-microsoft-azure/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2016/12/22/r3s-corda-distributed-ledger-platform-is-now-available-on-microsoft-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
