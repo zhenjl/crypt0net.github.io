@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 22 Dec 2016 08:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Dec 2016 08:30:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Imec joins Google Cloud Platform for Startups</title>
+      <link>//cloudfeed.net/post/imec-joins-google-cloud-platform-for-startups/</link>
+      <pubDate>Thu, 22 Dec 2016 08:30:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/imec-joins-google-cloud-platform-for-startups/</guid>
+      <description>&lt;p&gt;Belgian research institute Imec joined the &amp;lsquo;Google cloud platform for startups&amp;rsquo; programme . The programme comes with credits for eligible Flemish &amp;hellip;  &lt;a href=&#34;https://www.telecompaper.com/news/imec-joins-google-cloud-platform-for-startups-programme--1177361&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/imec-joins-google-cloud-platform-for-startups-programme--1177361&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Project Bletchley - Corda Distributed Ledger available on Azure</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/r3s-corda-blockchain-platform-available-on-microsoft-azure/</guid>
       <description>&lt;p&gt;Microsoft&amp;rsquo;s Project Bletchley has announced the availability of R3&amp;rsquo;s Corda on Azure, an open, flexible, enterprise-grade cloud computing platform.  &lt;a href=&#34;http://www.econotimes.com/R3s-Corda-blockchain-platform-available-on-Microsoft-Azure-463011&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/R3s-Corda-blockchain-platform-available-on-Microsoft-Azure-463011&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OpenStack instances crash with: terminate called after throwing an</title>
-      <link>//cloudfeed.net/post/openstack-instances-crash-with-terminate-called-after-throwing-an/</link>
-      <pubDate>Wed, 21 Dec 2016 23:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/openstack-instances-crash-with-terminate-called-after-throwing-an/</guid>
-      <description>&lt;p&gt;qemu-kvm processes that provide OpenStack instances are crashing with &amp;ldquo;terminate called after throwing an instance of &amp;lsquo;ceph::FailedAssertion&amp;rsquo; &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2824081&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2824081&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
