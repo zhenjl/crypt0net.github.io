@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Dec 2016 22:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Dec 2016 23:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack instances crash with: terminate called after throwing an</title>
+      <link>//cloudfeed.net/post/openstack-instances-crash-with-terminate-called-after-throwing-an/</link>
+      <pubDate>Wed, 21 Dec 2016 23:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-instances-crash-with-terminate-called-after-throwing-an/</guid>
+      <description>&lt;p&gt;qemu-kvm processes that provide OpenStack instances are crashing with &amp;ldquo;terminate called after throwing an instance of &amp;lsquo;ceph::FailedAssertion&amp;rsquo; &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2824081&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2824081&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bulletproof expecting double-digit revenue boost for FY17</title>
@@ -333,18 +345,6 @@
       
       <guid>//cloudfeed.net/post/feeding-the-5000-how-cios-can-tackle-the-challenge-of-big-software-how/</guid>
       <description>&lt;p&gt;Information Age Customers look at OpenStack as an opportunity to reduce the cost of application deployment whilst increasing the speed with which they can bring &amp;hellip;  &lt;a href=&#34;http://www.information-age.com/cios-tackle-challenge-big-software-123463731/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.information-age.com/cios-tackle-challenge-big-software-123463731/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Trump says Amazon is a monopoly  this chart shows he&#39;s wrong</title>
-      <link>//cloudfeed.net/post/trump-says-amazon-is-a-monopoly--this-chart-shows-hes-wrong/</link>
-      <pubDate>Wed, 21 Dec 2016 13:50:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/trump-says-amazon-is-a-monopoly--this-chart-shows-hes-wrong/</guid>
-      <description>&lt;p&gt;&amp;hellip; that grabs market share away from incumbents, just like its cloud service, Amazon Web Services, own the lion&amp;rsquo;s share of the cloud market today.  &lt;a href=&#34;http://www.businessinsider.com/trump-amazon-monopoly-false-2016-12&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businessinsider.com/trump-amazon-monopoly-false-2016-12&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
