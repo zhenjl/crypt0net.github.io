@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Dec 2016 19:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Dec 2016 20:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Supercharge Your SIEM with Threat Hunting</title>
+      <link>//cloudfeed.net/post/supercharge-your-siem-with-threat-hunting/</link>
+      <pubDate>Wed, 21 Dec 2016 20:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/supercharge-your-siem-with-threat-hunting/</guid>
+      <description>&lt;p&gt;Security Information Event Management (SIEM) tools with threat hunting.  &lt;a href=&#34;http://www.dlt.com/blog/2016/12/21/supercharge-siem-threat-hunting/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dlt.com/blog/2016/12/21/supercharge-siem-threat-hunting/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cool as McCumber: Data Breach Fatigue</title>
@@ -237,18 +249,6 @@
       
       <guid>//cloudfeed.net/post/from-the-street-to-the-laptop-online-fraud-dominates-our-lives/</guid>
       <description>&lt;p&gt;With data breaches occurring on an almost industrial scale, it seems that criminals are gaining ground on, or even overtaking, the forces of law and &amp;hellip;  &lt;a href=&#34;http://www.itproportal.com/features/from-the-street-to-the-laptop-online-fraud-dominates-our-lives/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itproportal.com/features/from-the-street-to-the-laptop-online-fraud-dominates-our-lives/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Clinician sharing of data a top reason for data breaches</title>
-      <link>//cloudfeed.net/post/clinician-sharing-of-data-a-top-reason-for-data-breaches/</link>
-      <pubDate>Wed, 21 Dec 2016 05:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/clinician-sharing-of-data-a-top-reason-for-data-breaches/</guid>
-      <description>&lt;p&gt;An analysis of five years of data from a database of major breaches affecting at least 500 individuals finds that in 2016 the reporting of such breaches &amp;hellip;  &lt;a href=&#34;http://www.healthdatamanagement.com/news/clinician-sharing-of-data-a-top-reason-for-data-breaches&#34; onclick=&#34;trackOutboundLink(&#39;http://www.healthdatamanagement.com/news/clinician-sharing-of-data-a-top-reason-for-data-breaches&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
