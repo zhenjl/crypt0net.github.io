@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 22 Dec 2016 15:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Dec 2016 15:20:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Investigating ChronoSync 4.7 for Cloud Backup</title>
+      <link>//cloudfeed.net/post/investigating-chronosync-47-for-cloud-backup/</link>
+      <pubDate>Thu, 22 Dec 2016 15:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/investigating-chronosync-47-for-cloud-backup/</guid>
+      <description>&lt;p&gt;We at TidBITS were excited to see ChronoSync add options to use Amazon&amp;rsquo;s Simple Storage System (S3) and Google Cloud Storage as sources or &amp;hellip;  &lt;a href=&#34;http://tidbits.com/article/16858&#34; onclick=&#34;trackOutboundLink(&#39;http://tidbits.com/article/16858&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microsoft in the driver&#39;s seat of a generational shift to cloud computing</title>
+      <link>//cloudfeed.net/post/microsoft-in-the-drivers-seat-of-a-generational-shift-to-cloud-computing/</link>
+      <pubDate>Thu, 22 Dec 2016 15:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-in-the-drivers-seat-of-a-generational-shift-to-cloud-computing/</guid>
+      <description>&lt;p&gt;MSPoweruser He expected latent demand for Microsoft&amp;rsquo;s Azure, Office 365 and Dynamics 365 cloud services to unlock accelerating revenue growth with higher &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-drivers-seat-generational-shift-cloud-computing-shares-hit-record-highs/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-drivers-seat-generational-shift-cloud-computing-shares-hit-record-highs/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon.com Inc. (AMZN) Shares Bought by Montrusco Bolton Investments Inc.</title>
@@ -161,30 +185,6 @@
       
       <guid>//cloudfeed.net/post/multitenant-use-of-vmware-vrealize-operations-as-a-service/</guid>
       <description>&lt;p&gt;blogs around vCloud Architecture Toolkit for Service Providers, which is a set &amp;hellip;  &lt;a href=&#34;http://blogs.vmware.com/vcloud/2016/12/multitenant-vrops-vcat-sp.html&#34; onclick=&#34;trackOutboundLink(&#39;http://blogs.vmware.com/vcloud/2016/12/multitenant-vrops-vcat-sp.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R3&#39;s Corda distributed ledger platform is now available on Microsoft Azure</title>
-      <link>//cloudfeed.net/post/r3s-corda-distributed-ledger-platform-is-now-available-on-microsoft-azure/</link>
-      <pubDate>Thu, 22 Dec 2016 12:00:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/r3s-corda-distributed-ledger-platform-is-now-available-on-microsoft-azure/</guid>
-      <description>&lt;p&gt;automate legal agreements between business partners, is now available on &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2016/12/22/r3s-corda-distributed-ledger-platform-is-now-available-on-microsoft-azure/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2016/12/22/r3s-corda-distributed-ledger-platform-is-now-available-on-microsoft-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What Exactly Is the Xilinx-AWS Partnership Targeting?</title>
-      <link>//cloudfeed.net/post/what-exactly-is-the-xilinxaws-partnership-targeting/</link>
-      <pubDate>Thu, 22 Dec 2016 11:50:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/what-exactly-is-the-xilinxaws-partnership-targeting/</guid>
-      <description>&lt;p&gt;Amazon Web Services is offering FPGA-enabled nodes on its EC2 cloud. In a blog post, Amazon Web Services Chief Evangelist Jeff Barr wrote, We &amp;hellip;  &lt;a href=&#34;http://marketrealist.com/2016/12/xilinx-amazon-web-services-partnership-aimed/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2016/12/xilinx-amazon-web-services-partnership-aimed/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
