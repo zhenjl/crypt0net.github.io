@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 23 Dec 2016 03:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Dec 2016 03:50:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>vcloud provider does not understand multiple edge gateway in a VDC  Issue</title>
+      <link>//cloudfeed.net/post/vcloud-provider-does-not-understand-multiple-edge-gateway-in-a-vdc--issue/</link>
+      <pubDate>Fri, 23 Dec 2016 03:50:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/vcloud-provider-does-not-understand-multiple-edge-gateway-in-a-vdc--issue/</guid>
+      <description>&lt;p&gt;vcloud provider does not understand multiple edge gateway in a VDC #10916. Open. poblin-orange opened this Issue an hour ago  0 comments &amp;hellip;  &lt;a href=&#34;https://github.com/hashicorp/terraform/issues/10916&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/hashicorp/terraform/issues/10916&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Economics of Big Software: What you need to know</title>
@@ -315,18 +327,6 @@
       
       <guid>//cloudfeed.net/post/leading-service-providers-are-succeeding-with-nutanix/</guid>
       <description>&lt;p&gt;&amp;hellip; advantage of cutting-edge web-scale technologies and continuous innovation, typical in large service providers such as Amazon Web Services.  &lt;a href=&#34;http://www.businesswire.com/news/home/20161222005827/en/Leading-Service-Providers-Succeeding-Nutanix&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20161222005827/en/Leading-Service-Providers-Succeeding-Nutanix&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Investigating ChronoSync 4.7 for Cloud Backup</title>
-      <link>//cloudfeed.net/post/investigating-chronosync-47-for-cloud-backup/</link>
-      <pubDate>Thu, 22 Dec 2016 15:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/investigating-chronosync-47-for-cloud-backup/</guid>
-      <description>&lt;p&gt;We at TidBITS were excited to see ChronoSync add options to use Amazon&amp;rsquo;s Simple Storage System (S3) and Google Cloud Storage as sources or &amp;hellip;  &lt;a href=&#34;http://tidbits.com/article/16858&#34; onclick=&#34;trackOutboundLink(&#39;http://tidbits.com/article/16858&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
