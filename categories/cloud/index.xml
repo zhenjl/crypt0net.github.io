@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 22 Dec 2016 21:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Dec 2016 21:20:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon Web Services breaks ground in Canada, behind Microsoft</title>
+      <link>//cloudfeed.net/post/amazon-web-services-breaks-ground-in-canada-behind-microsoft/</link>
+      <pubDate>Thu, 22 Dec 2016 21:20:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amazon-web-services-breaks-ground-in-canada-behind-microsoft/</guid>
+      <description>&lt;p&gt;&amp;hellip; the Puget Sound region, where the two largest cloud-computing companies  Amazon (Nasdaq: AMZN) AWS and Microsoft (Nasdaq: MSFT) Azure &amp;hellip;  &lt;a href=&#34;http://www.bizjournals.com/seattle/news/2016/12/22/amazon-web-services-breaks-ground-canada-microsoft.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bizjournals.com/seattle/news/2016/12/22/amazon-web-services-breaks-ground-canada-microsoft.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OpenStack Neutron Performance and Scalability: Testing summary</title>
@@ -17,18 +29,6 @@
       
       <guid>//cloudfeed.net/post/openstack-neutron-performance-and-scalability-testing-summary/</guid>
       <description>&lt;p&gt;determine whether it was ready for large-scale production environments.  &lt;a href=&#34;https://www.mirantis.com/blog/openstack-neutron-performance-and-scalability-testing-summary/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/openstack-neutron-performance-and-scalability-testing-summary/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services breaks ground in Canada, behind Microsoft</title>
-      <link>//cloudfeed.net/post/amazon-web-services-breaks-ground-in-canada-behind-microsoft/</link>
-      <pubDate>Thu, 22 Dec 2016 20:50:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-web-services-breaks-ground-in-canada-behind-microsoft/</guid>
-      <description>&lt;p&gt;The Canada (Central) region, located in Montreal, offers in-country cloud services to customers like Salesforce Canada and the National Bank of &amp;hellip;  &lt;a href=&#34;http://www.bizjournals.com/seattle/news/2016/12/22/amazon-web-services-breaks-ground-canada-microsoft.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bizjournals.com/seattle/news/2016/12/22/amazon-web-services-breaks-ground-canada-microsoft.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
