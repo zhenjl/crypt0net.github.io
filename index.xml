@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 22 Dec 2016 20:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Dec 2016 21:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack Neutron Performance and Scalability: Testing summary</title>
+      <link>//cloudfeed.net/post/openstack-neutron-performance-and-scalability-testing-summary/</link>
+      <pubDate>Thu, 22 Dec 2016 21:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-neutron-performance-and-scalability-testing-summary/</guid>
+      <description>&lt;p&gt;determine whether it was ready for large-scale production environments.  &lt;a href=&#34;https://www.mirantis.com/blog/openstack-neutron-performance-and-scalability-testing-summary/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/openstack-neutron-performance-and-scalability-testing-summary/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Web Services breaks ground in Canada, behind Microsoft</title>
@@ -655,18 +667,6 @@
       <description>&lt;p&gt;The insurance industry seems to have a love-hate relationship with smart gadgets: auto insurers want drivers to use tracking technology so they can &amp;hellip;  &lt;a href=&#34;https://consumerist.com/2016/12/22/insurers-not-so-sure-smart-gadgets-make-your-home-any-safer/&#34; onclick=&#34;trackOutboundLink(&#39;https://consumerist.com/2016/12/22/insurers-not-so-sure-smart-gadgets-make-your-home-any-safer/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Experian Predicts Healthcare Organizations Will be Targeted Most for Data</title>
-      <link>//cloudfeed.net/post/experian-predicts-healthcare-organizations-will-be-targeted-most-for-data/</link>
-      <pubDate>Thu, 22 Dec 2016 17:40:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/experian-predicts-healthcare-organizations-will-be-targeted-most-for-data/</guid>
-      <description>&lt;p&gt;A new industry trend emerging this year, Experian predicts aftershock breaches as companies are facing the impacts of previous data breaches.  &lt;a href=&#34;http://www.bioiq.com/experian-predicts-healthcare-organizations-will-targeted-data-breaches-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bioiq.com/experian-predicts-healthcare-organizations-will-targeted-data-breaches-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
