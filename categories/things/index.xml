@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 23 Dec 2016 02:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Dec 2016 03:20:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IoT client eases device-to-device communication</title>
+      <link>//cloudfeed.net/post/iot-client-eases-devicetodevice-communication/</link>
+      <pubDate>Fri, 23 Dec 2016 03:20:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/iot-client-eases-devicetodevice-communication/</guid>
+      <description>&lt;p&gt;The MQTT client from Segger (Hilden, Germany) helps embedded IoT devices to communicate with each other, using wired or wireless connections, &amp;hellip;  &lt;a href=&#34;http://www.electronics-eetimes.com/news/iot-client-eases-device-device-communication-0&#34; onclick=&#34;trackOutboundLink(&#39;http://www.electronics-eetimes.com/news/iot-client-eases-device-device-communication-0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How Telecom Operators Can Harness the Internet of Things to Grow Revenues</title>
@@ -77,18 +89,6 @@
       
       <guid>//cloudfeed.net/post/blockchain-identity--keystone-foundation-for-digital-democracy-and-society/</guid>
       <description>&lt;p&gt;As good Venn diagrams always show it&amp;rsquo;s the intersection areas that offer the sweet spot for trends and markets, and an especially potent one is the &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/3976952&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/3976952&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IoT client eases device-to-device communication</title>
-      <link>//cloudfeed.net/post/iot-client-eases-devicetodevice-communication/</link>
-      <pubDate>Fri, 23 Dec 2016 00:40:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/iot-client-eases-devicetodevice-communication/</guid>
-      <description>&lt;p&gt;MQTT client is a lightweight communication protocol perfectly suited for constrained environments such as IoT and Machine to Machine (M2M) &amp;hellip;  &lt;a href=&#34;http://www.electronics-eetimes.com/news/iot-client-eases-device-device-communication-0&#34; onclick=&#34;trackOutboundLink(&#39;http://www.electronics-eetimes.com/news/iot-client-eases-device-device-communication-0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
