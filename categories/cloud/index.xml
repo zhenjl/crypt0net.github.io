@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 23 Dec 2016 12:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Dec 2016 13:20:07 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Continuous Deployment of Docker Apps to Kubernetes</title>
+      <link>//cloudfeed.net/post/continuous-deployment-of-docker-apps-to-kubernetes/</link>
+      <pubDate>Fri, 23 Dec 2016 13:20:07 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/continuous-deployment-of-docker-apps-to-kubernetes/</guid>
+      <description>&lt;p&gt;because the official documentation uses Google Cloud as an example, &amp;hellip;  &lt;a href=&#34;https://blog.codeship.com/continuous-deployment-of-docker-apps-to-kubernetes/&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.codeship.com/continuous-deployment-of-docker-apps-to-kubernetes/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2016&#39;s parting gift is an extra second of time  and Amazon has a</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/economics-of-big-software-what-you-need-to-know/</guid>
       <description>&lt;p&gt;OpenStack is a way for organizations to deploy Open Source cloud infrastructure on commodity hardware. Customers look at OpenStack as an &amp;hellip;  &lt;a href=&#34;http://www.cbronline.com/news/cloud/private/economics-of-big-software-what-you-need-to-know/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/cloud/private/economics-of-big-software-what-you-need-to-know/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google drops storage prices with annual billing</title>
-      <link>//cloudfeed.net/post/google-drops-storage-prices-with-annual-billing/</link>
-      <pubDate>Fri, 23 Dec 2016 03:20:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/google-drops-storage-prices-with-annual-billing/</guid>
-      <description>&lt;p&gt;Google cloud storage customers can now pay for their storage service for a whole year upfront, making it over 15% cheaper than paying monthly.  &lt;a href=&#34;http://www.cloudpro.co.uk/collaboration/6535/google-drops-storage-prices-with-annual-billing&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cloudpro.co.uk/collaboration/6535/google-drops-storage-prices-with-annual-billing&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

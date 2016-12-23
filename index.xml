@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 23 Dec 2016 13:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Dec 2016 13:20:07 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Continuous Deployment of Docker Apps to Kubernetes</title>
+      <link>//cloudfeed.net/post/continuous-deployment-of-docker-apps-to-kubernetes/</link>
+      <pubDate>Fri, 23 Dec 2016 13:20:07 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/continuous-deployment-of-docker-apps-to-kubernetes/</guid>
+      <description>&lt;p&gt;because the official documentation uses Google Cloud as an example, &amp;hellip;  &lt;a href=&#34;https://blog.codeship.com/continuous-deployment-of-docker-apps-to-kubernetes/&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.codeship.com/continuous-deployment-of-docker-apps-to-kubernetes/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fancy Bear Tracks Ukraine Troop Movements via Trojanized App</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Blockchain News The academy will also offer a range of minor courses in subjects related to the Fourth Industrial Revolution, such as Blockchain, artificial intelligence, &amp;hellip;  &lt;a href=&#34;http://www.the-blockchain.com/2016/12/23/dubai-future-accelerators-program-invests-us33m-pilot-projects-including-blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.the-blockchain.com/2016/12/23/dubai-future-accelerators-program-invests-us33m-pilot-projects-including-blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What Can Be Learned From 2016 Security Incidents?</title>
-      <link>//cloudfeed.net/post/what-can-be-learned-from-2016-security-incidents/</link>
-      <pubDate>Fri, 23 Dec 2016 11:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/what-can-be-learned-from-2016-security-incidents/</guid>
-      <description>&lt;p&gt;Cue the year-end articles saying that this was the worst year to date for data breaches. Follow that with more dire predictions for 2017. Layer in &amp;hellip;  &lt;a href=&#34;http://www.jdsupra.com/legalnews/what-can-be-learned-from-2016-security-97860/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.jdsupra.com/legalnews/what-can-be-learned-from-2016-security-97860/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
