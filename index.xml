@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 25 Dec 2016 05:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Dec 2016 06:00:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Problems with order of DNS nameservers in Red Hat Enterprise Linux</title>
+      <link>//cloudfeed.net/post/problems-with-order-of-dns-nameservers-in-red-hat-enterprise-linux/</link>
+      <pubDate>Sun, 25 Dec 2016 06:00:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/problems-with-order-of-dns-nameservers-in-red-hat-enterprise-linux/</guid>
+      <description>&lt;p&gt;In Red Hat Enterprise Linux OpenStack Platform 7, instances need to point to 2 different DNS servers, e.g. 8.8.8.8 and 8.8.4.4, 8.8.8.8 as the primary &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2834511&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2834511&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>&#39;Star Citizen&#39; Switches To Amazon Game Engine After Over Four Years In</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/innova-research-identifies-the-top-8-robotics-trends-for-2017/</guid>
       <description>&lt;p&gt;Connected robots will become one of the data entrances in the future internet of things. Furthermore, the adoption of various artificial intelligence &amp;hellip;  &lt;a href=&#34;http://satprnews.com/2016/12/24/innova-research-identifies-the-top-8-robotics-trends-for-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://satprnews.com/2016/12/24/innova-research-identifies-the-top-8-robotics-trends-for-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>In Volatile Markets Do Analysts Think You Should Buy Acorn Energy, Inc.</title>
-      <link>//cloudfeed.net/post/in-volatile-markets-do-analysts-think-you-should-buy-acorn-energy-inc/</link>
-      <pubDate>Sun, 25 Dec 2016 01:40:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/in-volatile-markets-do-analysts-think-you-should-buy-acorn-energy-inc/</guid>
-      <description>&lt;p&gt;The De Soto Edge &amp;hellip; Security Sonar Solutions (DSIT), Smart Grid Distribution Automation (GridSense) and Machine-to-Machine Critical Asset Monitoring &amp;amp; Control (M2M) &amp;hellip;  &lt;a href=&#34;http://www.desotoedge.com/stocks/in-volatile-markets-do-analysts-think-you-should-buy-acorn-energy-inc-acfn-3/261230&#34; onclick=&#34;trackOutboundLink(&#39;http://www.desotoedge.com/stocks/in-volatile-markets-do-analysts-think-you-should-buy-acorn-energy-inc-acfn-3/261230&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
