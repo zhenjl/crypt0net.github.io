@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 26 Dec 2016 08:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2016 09:50:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Canonical Guest Post: IT Directors Must Understand the Economics of</title>
+      <link>//cloudfeed.net/post/canonical-guest-post-it-directors-must-understand-the-economics-of/</link>
+      <pubDate>Mon, 26 Dec 2016 09:50:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/canonical-guest-post-it-directors-must-understand-the-economics-of/</guid>
+      <description>&lt;p&gt;OStatic (blog) Over the past decade, IT Directors turned to public cloud providers like AWS (Amazon Web Services), Microsoft Azure, and GPC (Google Public &amp;hellip;  &lt;a href=&#34;http://ostatic.com/blog/canonical-guest-post-it-directors-must-understand-the-economics-of-openstack&#34; onclick=&#34;trackOutboundLink(&#39;http://ostatic.com/blog/canonical-guest-post-it-directors-must-understand-the-economics-of-openstack&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon.com Inc. (AMZN) Stock Rating Reaffirmed by Cantor Fitzgerald</title>
@@ -204,18 +216,6 @@
       
       <guid>//cloudfeed.net/post/2016-the-rise-of-the-intelligent-cloud-machines/</guid>
       <description>&lt;p&gt;Released to beta was Google Cloud Machine Learning, a managed service for building machine-learning models using TensorFlow. Google ML uses &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/12/25/2017_rise_of_the_intelligent_machines/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/12/25/2017_rise_of_the_intelligent_machines/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Problems with order of DNS nameservers in Red Hat Enterprise Linux</title>
-      <link>//cloudfeed.net/post/problems-with-order-of-dns-nameservers-in-red-hat-enterprise-linux/</link>
-      <pubDate>Sun, 25 Dec 2016 06:00:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/problems-with-order-of-dns-nameservers-in-red-hat-enterprise-linux/</guid>
-      <description>&lt;p&gt;In Red Hat Enterprise Linux OpenStack Platform 7, instances need to point to 2 different DNS servers, e.g. 8.8.8.8 and 8.8.4.4, 8.8.8.8 as the primary &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2834511&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2834511&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
