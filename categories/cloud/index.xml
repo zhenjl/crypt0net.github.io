@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 27 Dec 2016 12:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Dec 2016 12:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Star Citizen dev drops CryEngine in favor of Lumberyard</title>
+      <link>//cloudfeed.net/post/star-citizen-dev-drops-cryengine-in-favor-of-lumberyard/</link>
+      <pubDate>Tue, 27 Dec 2016 12:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/star-citizen-dev-drops-cryengine-in-favor-of-lumberyard/</guid>
+      <description>&lt;p&gt;They are a massive company that is making serious investments into Lumberyard and [Amazon Web Services] to support next generation online &amp;hellip;  &lt;a href=&#34;http://www.gamasutra.com/view/news/288443/Star_Citizen_dev_drops_CryEngine_in_favor_of_Lumberyard.php&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gamasutra.com/view/news/288443/Star_Citizen_dev_drops_CryEngine_in_favor_of_Lumberyard.php&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Go-To OpenStack Guide: Scaling Up &amp; Deploying an All-Flash Cloud</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/the-verge-2016-tech-report-card-amazon/</guid>
       <description>&lt;p&gt;Amazon Web Services has been growing at a rapid pace  enough so that it eclipsed all of Amazon&amp;rsquo;s North American retail profits last quarter.  &lt;a href=&#34;http://www.theverge.com/2016/12/27/14053858/2016-tech-recap-amazon-jeff-bezos-alexa-drone-delivery&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theverge.com/2016/12/27/14053858/2016-tech-recap-amazon-jeff-bezos-alexa-drone-delivery&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Undercloud installation fails on a single-nic undercloud in Red Hat</title>
-      <link>//cloudfeed.net/post/undercloud-installation-fails-on-a-singlenic-undercloud-in-red-hat/</link>
-      <pubDate>Tue, 27 Dec 2016 06:40:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/undercloud-installation-fails-on-a-singlenic-undercloud-in-red-hat/</guid>
-      <description>&lt;p&gt;Undercloud installation fails on a single-nic undercloud in Red Hat OpenStack Platform. Solution In Progress - Updated 2016-12-27T13:56:37+00:00 -.  &lt;a href=&#34;https://access.redhat.com/solutions/2837241&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2837241&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
