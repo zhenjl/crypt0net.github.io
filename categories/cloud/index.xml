@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 26 Dec 2016 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2016 20:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HP 3PAR StoreServ Storage Replication guide with Microsoft Azure Site</title>
+      <link>//cloudfeed.net/post/hp-3par-storeserv-storage-replication-guide-with-microsoft-azure-site/</link>
+      <pubDate>Mon, 26 Dec 2016 20:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/hp-3par-storeserv-storage-replication-guide-with-microsoft-azure-site/</guid>
+      <description>&lt;p&gt;HP 3PAR StoreServ Storage Replication guide with Microsoft Azure Site Recovery technical white paper - Technical white paper &amp;hellip;  &lt;a href=&#34;https://www.hpe.com/h20195/v2/GetDocument.aspx?docname=4AA5-7068ENW&#34; onclick=&#34;trackOutboundLink(&#39;https://www.hpe.com/h20195/v2/GetDocument.aspx?docname=4AA5-7068ENW&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Dec 26, 2016</title>
@@ -218,49 +230,6 @@
       <description>&lt;p&gt;&amp;hellip; and there are integrations which cover the likes of Amazon Web Services, Google Cloud Platform, Slack, SQL Server, Docker, Apache and Campfire &amp;hellip;  &lt;a href=&#34;http://www.techradar.com/news/top-5-best-infrastructure-management-services&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techradar.com/news/top-5-best-infrastructure-management-services&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Cloud Computing News from @cloudfeednet - Dec 25, 2016</title>
-      <link>//cloudfeed.net/daily/daily-cloud-news-2016-12-25/</link>
-      <pubDate>Sun, 25 Dec 2016 18:05:01 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/daily/daily-cloud-news-2016-12-25/</guid>
-      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon.com, Inc: This Could be HUGE for AMZN Stock&lt;/h3&gt;
-&lt;p&gt;During 2015 and 2016, Amazon was able to declare profits almost entirely because Amazon Web Servicesthe firm&amp;rsquo;s cloud computing armhad &amp;hellip;  &lt;a href=&#34;http://www.profitconfidential.com/stock/amazon-com-inc-huge-amzn-stock/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.profitconfidential.com/stock/amazon-com-inc-huge-amzn-stock/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&amp;lsquo;Star Citizen&amp;rsquo; Switches To Amazon Game Engine After Over Four Years In&lt;/h3&gt;
-&lt;p&gt;Tech Times Roberts added that Lumberyard provided ground-breaking technology for online games, such as deep back-end integration on Amazon Web Services &amp;hellip;  &lt;a href=&#34;http://www.techtimes.com/articles/190110/20161225/star-citizen-switches-to-amazon-game-engine-after-over-four-years-in-development.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techtimes.com/articles/190110/20161225/star-citizen-switches-to-amazon-game-engine-after-over-four-years-in-development.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Sei Investments Co. Increases Position in Amazon.com Inc. (AMZN)&lt;/h3&gt;
-&lt;p&gt;Amazon.com logo Sei Investments Co. boosted its position in shares of Amazon.com Inc. (NASDAQ:AMZN) by 4.5% during the third quarter, according &amp;hellip;  &lt;a href=&#34;https://www.com-unik.info/2016/12/24/sei-investments-co-increases-position-in-amazon-com-inc-amzn.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.com-unik.info/2016/12/24/sei-investments-co-increases-position-in-amazon-com-inc-amzn.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Problems with order of DNS nameservers in Red Hat Enterprise Linux&lt;/h3&gt;
-&lt;p&gt;In Red Hat Enterprise Linux OpenStack Platform 7, instances need to point to 2 different DNS servers, e.g. 8.8.8.8 and 8.8.4.4, 8.8.8.8 as the primary &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2834511&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2834511&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;2016: The Rise of the Intelligent (cloud) Machines&lt;/h3&gt;
-&lt;p&gt;Released to beta was Google Cloud Machine Learning, a managed service for building machine-learning models using TensorFlow. Google ML uses &amp;hellip;  &lt;a href=&#34;http://www.theregister.co.uk/2016/12/25/2017_rise_of_the_intelligent_machines/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theregister.co.uk/2016/12/25/2017_rise_of_the_intelligent_machines/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon.com, Inc: This Could be HUGE for AMZN Stock&lt;/h3&gt;
-&lt;p&gt;Moreover, OpenStack was supposed to loosen Amazon&amp;rsquo;s stranglehold on the cloud computing market. Amazon has run roughshod over its rivals for &amp;hellip;  &lt;a href=&#34;http://www.profitconfidential.com/stock/amazon-com-inc-huge-amzn-stock/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.profitconfidential.com/stock/amazon-com-inc-huge-amzn-stock/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&amp;lsquo;Star Citizen&amp;rsquo; switches to Amazon&amp;rsquo;s game engine&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; promises some distinct advantages. It taps directly into the cloud through Amazon Web Services, for instance, and makes Twitch streaming easy.  &lt;a href=&#34;https://www.engadget.com/2016/12/24/star-citizen-switches-to-amazon-game-engine/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.engadget.com/2016/12/24/star-citizen-switches-to-amazon-game-engine/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Video: How GPUs are Remaking Cloud Computing&lt;/h3&gt;
-&lt;p&gt;jonathan-symonds In this video from the Nvidia Booth at SC16, Jonathan Symonds from MapD presents: How GPUs are Remaking Cloud Computing.  &lt;a href=&#34;http://insidehpc.com/2016/12/video-gpus-remaking-cloud-computing/&#34; onclick=&#34;trackOutboundLink(&#39;http://insidehpc.com/2016/12/video-gpus-remaking-cloud-computing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Rural market for Indian startups: What they should learn from grown&lt;/h3&gt;
-&lt;p&gt;Economic Times (blog) Meanwhile, Amazon Web Services (AWS), a cloud platform, is slaying it: making mainframe storage obsolete. And technology giants ranging from &amp;hellip;  &lt;a href=&#34;http://blogs.economictimes.indiatimes.com/et-commentary/rural-market-for-indian-startups-what-they-should-learn-from-grown-startups/&#34; onclick=&#34;trackOutboundLink(&#39;http://blogs.economictimes.indiatimes.com/et-commentary/rural-market-for-indian-startups-what-they-should-learn-from-grown-startups/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Why the Computing Cloud Will Keep Growing and Growing&lt;/h3&gt;
-&lt;p&gt;That is because Amazon Web Services, his big-business computing division, is starting to affect more than just the world of computer servers, data &amp;hellip;  &lt;a href=&#34;http://www.nytimes.com/2016/12/25/technology/why-the-computing-cloud-will-keep-growing-and-growing.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.nytimes.com/2016/12/25/technology/why-the-computing-cloud-will-keep-growing-and-growing.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Why the Computing Cloud Will Keep Growing and Growing&lt;/h3&gt;
-&lt;p&gt;It&amp;rsquo;s the same story at Microsoft Azure and Google Cloud Platform, the other two big cloud companies. Start-ups and giant corporations rent the core &amp;hellip;  &lt;a href=&#34;http://www.nytimes.com/2016/12/25/technology/why-the-computing-cloud-will-keep-growing-and-growing.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.nytimes.com/2016/12/25/technology/why-the-computing-cloud-will-keep-growing-and-growing.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
