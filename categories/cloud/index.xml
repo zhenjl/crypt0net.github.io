@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 27 Dec 2016 12:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Dec 2016 12:40:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Go-To OpenStack Guide: Scaling Up &amp; Deploying an All-Flash Cloud</title>
+      <link>//cloudfeed.net/post/goto-openstack-guide-scaling-up--deploying-an-allflash-cloud/</link>
+      <pubDate>Tue, 27 Dec 2016 12:40:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/goto-openstack-guide-scaling-up--deploying-an-allflash-cloud/</guid>
+      <description>&lt;p&gt;While OpenStack provides great opportunities to modernize cloud infrastructure, challenges exist to deploying enterprise applications. Mirantis and &amp;hellip;  &lt;a href=&#34;https://www.brighttalk.com/webcast/14517/230959?utm_medium=web&amp;utm_source=brighttalk-portal&amp;utm_campaign=all-brighttalk-live-recorded&#34; onclick=&#34;trackOutboundLink(&#39;https://www.brighttalk.com/webcast/14517/230959?utm_medium=web&amp;utm_source=brighttalk-portal&amp;utm_campaign=all-brighttalk-live-recorded&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>In 2016, the cloud matures, and Amazon sees stiffer competition</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/undercloud-installation-fails-on-a-singlenic-undercloud-in-red-hat/</guid>
       <description>&lt;p&gt;Undercloud installation fails on a single-nic undercloud in Red Hat OpenStack Platform. Solution In Progress - Updated 2016-12-27T13:56:37+00:00 -.  &lt;a href=&#34;https://access.redhat.com/solutions/2837241&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2837241&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Announces The Availabilty Of R3&#39;s Corda Blockchain</title>
-      <link>//cloudfeed.net/post/microsoft-azure-announces-the-availabilty-of-r3s-corda-blockchain/</link>
-      <pubDate>Tue, 27 Dec 2016 06:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-azure-announces-the-availabilty-of-r3s-corda-blockchain/</guid>
-      <description>&lt;p&gt;R3&amp;rsquo;s Corda blockchain has been recently announced to be available on the Microsoft Azure weeks after the launch of Corda as the open source &amp;hellip;  &lt;a href=&#34;http://www.itechpost.com/articles/68966/20161227/microsoft-azure-announces-availabilty-r3s-corda-blockchain.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itechpost.com/articles/68966/20161227/microsoft-azure-announces-availabilty-r3s-corda-blockchain.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
