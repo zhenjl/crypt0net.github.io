@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 04:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 05:20:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AMZN Stock: Is This a Breakthrough for Amazon.com, Inc.?</title>
+      <link>//cloudfeed.net/post/amzn-stock-is-this-a-breakthrough-for-amazoncom-inc/</link>
+      <pubDate>Wed, 28 Dec 2016 05:20:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amzn-stock-is-this-a-breakthrough-for-amazoncom-inc/</guid>
+      <description>&lt;p&gt;The Amazon Echo is the first step any company has made towards capturing the Internet of Things market. And since this market is estimated to be &amp;hellip;  &lt;a href=&#34;http://www.profitconfidential.com/stock/amzn-stock-breakthrough-good-amazon-com-inc/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.profitconfidential.com/stock/amzn-stock-breakthrough-good-amazon-com-inc/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Plantoid  A Bitcoin-Eating Robot, Merges The Natural World With Blockchain</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/how-to-post-mqtt-published-data-into-cassandra-database/</guid>
       <description>&lt;p&gt;msg.payload+=&amp;ldquo;test&amp;rdquo;; //console.log(msg); var msg1 = { topic:&amp;ldquo;INSERT INTO data &amp;hellip;  &lt;a href=&#34;https://developer.ibm.com/answers/questions/334694/how-to-post-mqtt-published-data-into-cassandra-dat.html&#34; onclick=&#34;trackOutboundLink(&#39;https://developer.ibm.com/answers/questions/334694/how-to-post-mqtt-published-data-into-cassandra-dat.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2016: The year IoT broke the internet</title>
-      <link>//cloudfeed.net/post/2016-the-year-iot-broke-the-internet/</link>
-      <pubDate>Tue, 27 Dec 2016 23:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/2016-the-year-iot-broke-the-internet/</guid>
-      <description>&lt;p&gt;Experts and officials warned earlier in the year that the explosive proliferation of insecure and exploitable internet of things devices  home &amp;hellip;  &lt;a href=&#34;https://www.cyberscoop.com/2016-the-year-iot-broke-the-internet/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cyberscoop.com/2016-the-year-iot-broke-the-internet/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
