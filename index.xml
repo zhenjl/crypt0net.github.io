@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 04:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 04:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Micforsoft Windows News: Server, Cloud Divisions Bump Off Windows As</title>
+      <link>//cloudfeed.net/post/micforsoft-windows-news-server-cloud-divisions-bump-off-windows-as/</link>
+      <pubDate>Wed, 28 Dec 2016 04:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/micforsoft-windows-news-server-cloud-divisions-bump-off-windows-as/</guid>
+      <description>&lt;p&gt;Mobile &amp;amp; Apps Fortunately for Microsoft, co-founder Bill Gates pushed for the creation of new products for customers that led to the 2010 launch of the Windows Azure &amp;hellip;  &lt;a href=&#34;http://www.mobilenapps.com/articles/26988/20161228/micforsoft-windows-news-server-cloud-divisions-bump-off-windows-as-microsoft-s-cash-cow.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.mobilenapps.com/articles/26988/20161228/micforsoft-windows-news-server-cloud-divisions-bump-off-windows-as-microsoft-s-cash-cow.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The security challenges with the Internet of Things</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/2017--a-potluck-holiday-feast-of-predictions/</guid>
       <description>&lt;p&gt;They also predict that internet of things expansion will carry big risks. The rush to market is fast and furious, and home IoT device makers generally &amp;hellip;  &lt;a href=&#34;https://www.cyberscoop.com/2017-potluck-holiday-feast-predictions/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cyberscoop.com/2017-potluck-holiday-feast-predictions/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>how to post mqtt published data into cassandra database?</title>
-      <link>//cloudfeed.net/post/how-to-post-mqtt-published-data-into-cassandra-database/</link>
-      <pubDate>Tue, 27 Dec 2016 23:40:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/how-to-post-mqtt-published-data-into-cassandra-database/</guid>
-      <description>&lt;p&gt;msg.payload+=&amp;ldquo;test&amp;rdquo;; //console.log(msg); var msg1 = { topic:&amp;ldquo;INSERT INTO data &amp;hellip;  &lt;a href=&#34;https://developer.ibm.com/answers/questions/334694/how-to-post-mqtt-published-data-into-cassandra-dat.html&#34; onclick=&#34;trackOutboundLink(&#39;https://developer.ibm.com/answers/questions/334694/how-to-post-mqtt-published-data-into-cassandra-dat.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
