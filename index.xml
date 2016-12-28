@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 07:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 08:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Rise of the Internet of Things (IoT)</title>
+      <link>//cloudfeed.net/post/the-rise-of-the-internet-of-things-iot/</link>
+      <pubDate>Wed, 28 Dec 2016 08:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/the-rise-of-the-internet-of-things-iot/</guid>
+      <description>&lt;p&gt;about a number of Internet of Things (IoT) attacks this fall, beginning with &amp;hellip;  &lt;a href=&#34;https://blog.radware.com/security/2016/12/rise-internet-things-iot/&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.radware.com/security/2016/12/rise-internet-things-iot/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The internet of things: Protecting devices from hackers</title>
+      <link>//cloudfeed.net/post/the-internet-of-things-protecting-devices-from-hackers/</link>
+      <pubDate>Wed, 28 Dec 2016 08:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/the-internet-of-things-protecting-devices-from-hackers/</guid>
+      <description>&lt;p&gt;Scott Schaffer from Blade Technologies, Inc. shares insight into the internet of things hacks and basic security measures to ensure your devices are &amp;hellip;  &lt;a href=&#34;http://fox2now.com/2016/12/28/the-internet-of-things-protecting-devices-from-hackers/&#34; onclick=&#34;trackOutboundLink(&#39;http://fox2now.com/2016/12/28/the-internet-of-things-protecting-devices-from-hackers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How Amazon&#39;s Cloud Infrastructure for VMware Could Find More Uses</title>
@@ -163,30 +187,6 @@
       <description>&lt;p&gt;then soliciting funds from a community. Blockchain Crowdfunding.  &lt;a href=&#34;http://blockgeeks.com/blockchain-crowdfunding/&#34; onclick=&#34;trackOutboundLink(&#39;http://blockgeeks.com/blockchain-crowdfunding/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Configuring and troubleshooting Load Balancing as a Service in Integrated</title>
-      <link>//cloudfeed.net/post/configuring-and-troubleshooting-load-balancing-as-a-service-in-integrated/</link>
-      <pubDate>Wed, 28 Dec 2016 06:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/configuring-and-troubleshooting-load-balancing-as-a-service-in-integrated/</guid>
-      <description>&lt;p&gt;This article provides steps to configure and troubleshoot Load Balancing as a Service (LBaaSv2) in VMware Integrated Openstack (VIO) 3.0. Note: Thi.  &lt;a href=&#34;https://kb.vmware.com/kb/2147657&#34; onclick=&#34;trackOutboundLink(&#39;https://kb.vmware.com/kb/2147657&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learning From A Year of Security Breaches</title>
-      <link>//cloudfeed.net/post/learning-from-a-year-of-security-breaches/</link>
-      <pubDate>Wed, 28 Dec 2016 06:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/learning-from-a-year-of-security-breaches/</guid>
-      <description>&lt;p&gt;This year (2016) I accepted as much incident response work as I could. I spent about 300 hours responding to security incidents and data breaches &amp;hellip;  &lt;a href=&#34;https://www.linux.com/news/learning-year-security-breaches&#34; onclick=&#34;trackOutboundLink(&#39;https://www.linux.com/news/learning-year-security-breaches&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
