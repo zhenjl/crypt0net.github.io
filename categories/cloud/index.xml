@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 12:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 13:10:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Amazon innovates in ways that Google and Apple can&#39;t</title>
+      <link>//cloudfeed.net/post/how-amazon-innovates-in-ways-that-google-and-apple-cant/</link>
+      <pubDate>Wed, 28 Dec 2016 13:10:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/how-amazon-innovates-in-ways-that-google-and-apple-cant/</guid>
+      <description>&lt;p&gt;And it dominates an important segment of the cloud computing market; Amazon Web Services is expected to generate $12 billion in revenue this year.  &lt;a href=&#34;http://www.vox.com/new-money/2016/12/28/13889840/amazon-innovation-google-apple&#34; onclick=&#34;trackOutboundLink(&#39;http://www.vox.com/new-money/2016/12/28/13889840/amazon-innovation-google-apple&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Room to hold lots more: Larger block blobs in Azure Storage now generally</title>
+      <link>//cloudfeed.net/post/room-to-hold-lots-more-larger-block-blobs-in-azure-storage-now-generally/</link>
+      <pubDate>Wed, 28 Dec 2016 13:10:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/room-to-hold-lots-more-larger-block-blobs-in-azure-storage-now-generally/</guid>
+      <description>&lt;p&gt;Many customers use Azure Blob Storage to store very large data sets, and now the maximum file size has increased from 195 GB to 4.77 TB.  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2016/12/28/room-to-hold-lots-more-larger-block-blobs-in-azure-storage-now-generally-available/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2016/12/28/room-to-hold-lots-more-larger-block-blobs-in-azure-storage-now-generally-available/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Launches Cloud Bot-as-a-Service Platform</title>
@@ -161,30 +185,6 @@
       
       <guid>//cloudfeed.net/post/amazon-web-services-2016-in-review/</guid>
       <description>&lt;p&gt;Amazon&amp;rsquo;s (NASDAQ:AMZN) stock is up about 14% year-to-date (YTD) and 17% in the last year following solid financial results in the first three &amp;hellip;  &lt;a href=&#34;https://www.trefis.com/stock/amzn/articles/393298/amazon-web-services-2016-in-review/2016-12-28&#34; onclick=&#34;trackOutboundLink(&#39;https://www.trefis.com/stock/amzn/articles/393298/amazon-web-services-2016-in-review/2016-12-28&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon.com Inc. (AMZN) Rating Lowered to Sell at Zacks Investment Research</title>
-      <link>//cloudfeed.net/post/amazoncom-inc-amzn-rating-lowered-to-sell-at-zacks-investment-research/</link>
-      <pubDate>Wed, 28 Dec 2016 06:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazoncom-inc-amzn-rating-lowered-to-sell-at-zacks-investment-research/</guid>
-      <description>&lt;p&gt;Amazon.com logo Amazon.com Inc. (NASDAQ:AMZN) was downgraded by Zacks Investment Research from a hold rating to a sell rating in a &amp;hellip;  &lt;a href=&#34;https://www.com-unik.info/2016/12/28/amazon-com-inc-amzn-rating-lowered-to-sell-at-zacks-investment-research.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.com-unik.info/2016/12/28/amazon-com-inc-amzn-rating-lowered-to-sell-at-zacks-investment-research.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Configuring and troubleshooting Load Balancing as a Service in Integrated</title>
-      <link>//cloudfeed.net/post/configuring-and-troubleshooting-load-balancing-as-a-service-in-integrated/</link>
-      <pubDate>Wed, 28 Dec 2016 06:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/configuring-and-troubleshooting-load-balancing-as-a-service-in-integrated/</guid>
-      <description>&lt;p&gt;This article provides steps to configure and troubleshoot Load Balancing as a Service (LBaaSv2) in VMware Integrated Openstack (VIO) 3.0. Note: Thi.  &lt;a href=&#34;https://kb.vmware.com/kb/2147657&#34; onclick=&#34;trackOutboundLink(&#39;https://kb.vmware.com/kb/2147657&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
