@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 27 Dec 2016 22:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Dec 2016 22:40:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Integrating NetScaler MAS with OpenStack Heat Services</title>
+      <link>//cloudfeed.net/post/integrating-netscaler-mas-with-openstack-heat-services/</link>
+      <pubDate>Tue, 27 Dec 2016 22:40:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/integrating-netscaler-mas-with-openstack-heat-services/</guid>
+      <description>&lt;p&gt;load balancing, SSL offloading, and content switching, for applications.  &lt;a href=&#34;https://docs.citrix.com/en-us/netscaler-mas/11-1/integrating-netscaler-mas-with-openstack-platform/integrating_netscaler_mas_with_openstack_heat_services.html&#34; onclick=&#34;trackOutboundLink(&#39;https://docs.citrix.com/en-us/netscaler-mas/11-1/integrating-netscaler-mas-with-openstack-platform/integrating_netscaler_mas_with_openstack_heat_services.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Does Google Container Engine meet your container orchestration needs?</title>
@@ -270,18 +282,6 @@
       
       <guid>//cloudfeed.net/post/in-2016-the-cloud-matures-and-amazon-sees-stiffer-competition/</guid>
       <description>&lt;p&gt;After acquiring her startup in 2015, Google installed VMware founder and former CEO Diane Greene as vice president of Google&amp;rsquo;s cloud business.  &lt;a href=&#34;http://sdtimes.com/2016-cloud-matures-amazon-sees-stiffer-competition/&#34; onclick=&#34;trackOutboundLink(&#39;http://sdtimes.com/2016-cloud-matures-amazon-sees-stiffer-competition/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Better Buy: Costco Wholesale Corporation vs. Amazon.com</title>
-      <link>//cloudfeed.net/post/better-buy-costco-wholesale-corporation-vs-amazoncom/</link>
-      <pubDate>Tue, 27 Dec 2016 11:50:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/better-buy-costco-wholesale-corporation-vs-amazoncom/</guid>
-      <description>&lt;p&gt;Still, the company has more Kindles, Echos, Amazon Web Services, and other successes than it does failures such as the Fire Phone.  &lt;a href=&#34;http://www.fool.com/investing/2016/12/27/better-buy-costco-wholesale-corporation-vs-amazon.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.fool.com/investing/2016/12/27/better-buy-costco-wholesale-corporation-vs-amazon.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
