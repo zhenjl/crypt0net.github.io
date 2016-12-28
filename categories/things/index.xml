@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 27 Dec 2016 23:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Dec 2016 23:40:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>how to post mqtt published data into cassandra database?</title>
+      <link>//cloudfeed.net/post/how-to-post-mqtt-published-data-into-cassandra-database/</link>
+      <pubDate>Tue, 27 Dec 2016 23:40:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/how-to-post-mqtt-published-data-into-cassandra-database/</guid>
+      <description>&lt;p&gt;msg.payload+=&amp;ldquo;test&amp;rdquo;; //console.log(msg); var msg1 = { topic:&amp;ldquo;INSERT INTO data &amp;hellip;  &lt;a href=&#34;https://developer.ibm.com/answers/questions/334694/how-to-post-mqtt-published-data-into-cassandra-dat.html&#34; onclick=&#34;trackOutboundLink(&#39;https://developer.ibm.com/answers/questions/334694/how-to-post-mqtt-published-data-into-cassandra-dat.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2016: The year IoT broke the internet</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/if-there-is-an-answer-to-selfish-mining-braiding-could-be-it/</guid>
       <description>&lt;p&gt;A different area of research trying to solve this problem is Directed Acyclic Graphs (DAGs), also known as braided blockchains. This solutions could &amp;hellip;  &lt;a href=&#34;https://bitcoinmagazine.com/articles/if-there-is-an-answer-to-selfish-mining-braiding-could-be-it-1482876153&#34; onclick=&#34;trackOutboundLink(&#39;https://bitcoinmagazine.com/articles/if-there-is-an-answer-to-selfish-mining-braiding-could-be-it-1482876153&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blockchain Conference to be Held in Estonian Capital in March</title>
-      <link>//cloudfeed.net/post/blockchain-conference-to-be-held-in-estonian-capital-in-march/</link>
-      <pubDate>Tue, 27 Dec 2016 14:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/blockchain-conference-to-be-held-in-estonian-capital-in-march/</guid>
-      <description>&lt;p&gt;Estonia will play host to its first major blockchain conference next year, as developers, blockchain experts, and entrepreneurs will come together in the &amp;hellip;  &lt;a href=&#34;https://dcebrief.com/blockchain-conference-to-be-held-in-estonian-capital-in-march/&#34; onclick=&#34;trackOutboundLink(&#39;https://dcebrief.com/blockchain-conference-to-be-held-in-estonian-capital-in-march/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
