@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 14:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 14:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Gives Azure Blob Storage Massive Capcity Upgrade</title>
+      <link>//cloudfeed.net/post/microsoft-gives-azure-blob-storage-massive-capcity-upgrade/</link>
+      <pubDate>Wed, 28 Dec 2016 14:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-gives-azure-blob-storage-massive-capcity-upgrade/</guid>
+      <description>&lt;p&gt;Microsoft has drastically increased the maximum file size limit on Azure Blob Storage, the company&amp;rsquo;s cloud-based object storage offering, from 195GB &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/storage/microsoft-gives-azure-blob-storage-massive-capcity-upgrade.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/storage/microsoft-gives-azure-blob-storage-massive-capcity-upgrade.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ChronoSync 4.7.1 Adding Smart Scanning, Cloud Services To Automatic Back</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Digital Journal The program aims to develop projects in the field of financial and blockchain technologies, in particular services for banks and their customers, &amp;hellip;  &lt;a href=&#34;http://www.digitaljournal.com/pr/3186906&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digitaljournal.com/pr/3186906&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Launches Cloud Bot-as-a-Service Platform</title>
-      <link>//cloudfeed.net/post/microsoft-launches-cloud-botasaservice-platform/</link>
-      <pubDate>Wed, 28 Dec 2016 12:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-launches-cloud-botasaservice-platform/</guid>
-      <description>&lt;p&gt;The Azure Bot Service is powered by the Microsoft Bot Framework and has a serverless compute back-end built on Azure Functions. Using the bot &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2016/12/Microsoft-Bot-Service&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2016/12/Microsoft-Bot-Service&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
