@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 15:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 15:50:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Star Citizen Didn&#39;t Technically Switch Game Engines</title>
+      <link>//cloudfeed.net/post/star-citizen-didnt-technically-switch-game-engines/</link>
+      <pubDate>Wed, 28 Dec 2016 15:50:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/star-citizen-didnt-technically-switch-game-engines/</guid>
+      <description>&lt;p&gt;Amazon Lumberyard is a game engine developed by Amazon and integrated with Amazon Web Services and Twitch. For a title beleaguered with &amp;hellip;  &lt;a href=&#34;http://www.shacknews.com/article/98313/star-citizen-didnt-technically-switch-game-engines&#34; onclick=&#34;trackOutboundLink(&#39;http://www.shacknews.com/article/98313/star-citizen-didnt-technically-switch-game-engines&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain, Explained: How It Could Impact A Wide Range Of Industries</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Wednesday December 28, 2016. Our Guide to Threat Hunting series &amp;hellip;  &lt;a href=&#34;https://digitalguardian.com/blog/improving-threat-hunting-managed-security-services&#34; onclick=&#34;trackOutboundLink(&#39;https://digitalguardian.com/blog/improving-threat-hunting-managed-security-services&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Room to hold lots more: Larger block blobs in Azure Storage now generally</title>
-      <link>//cloudfeed.net/post/room-to-hold-lots-more-larger-block-blobs-in-azure-storage-now-generally/</link>
-      <pubDate>Wed, 28 Dec 2016 13:10:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/room-to-hold-lots-more-larger-block-blobs-in-azure-storage-now-generally/</guid>
-      <description>&lt;p&gt;Many customers use Azure Blob Storage to store very large data sets, and now the maximum file size has increased from 195 GB to 4.77 TB.  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2016/12/28/room-to-hold-lots-more-larger-block-blobs-in-azure-storage-now-generally-available/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2016/12/28/room-to-hold-lots-more-larger-block-blobs-in-azure-storage-now-generally-available/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
