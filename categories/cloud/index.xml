@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 04:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 06:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Logging in to vCloud Director using LDAP with Kerberos fails</title>
+      <link>//cloudfeed.net/post/logging-in-to-vcloud-director-using-ldap-with-kerberos-fails/</link>
+      <pubDate>Wed, 28 Dec 2016 06:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/logging-in-to-vcloud-director-using-ldap-with-kerberos-fails/</guid>
+      <description>&lt;p&gt;String cannot be cast to java.util.Vector; Upgrading to vCloud Director for &amp;hellip;  &lt;a href=&#34;https://kb.vmware.com/kb/2147599&#34; onclick=&#34;trackOutboundLink(&#39;https://kb.vmware.com/kb/2147599&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Alexa, What Should Investors Know About Amazon?</title>
@@ -270,18 +282,6 @@
       
       <guid>//cloudfeed.net/post/top-microsoft-dynamics-ax--365-for-operations-news-and-features-of-2016/</guid>
       <description>&lt;p&gt;As 2016 winds down, it is again time to look back at the most popular and important Microsoft Dynamics AX and 365 for Operations articles of the year.  &lt;a href=&#34;http://msdynamicsworld.com/story/top-microsoft-dynamics-ax-news-features-2016&#34; onclick=&#34;trackOutboundLink(&#39;http://msdynamicsworld.com/story/top-microsoft-dynamics-ax-news-features-2016&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure: Does spending (a bit more money) on your VM&#39;s make a</title>
-      <link>//cloudfeed.net/post/microsoft-azure-does-spending-a-bit-more-money-on-your-vms-make-a/</link>
-      <pubDate>Tue, 27 Dec 2016 13:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-azure-does-spending-a-bit-more-money-on-your-vms-make-a/</guid>
-      <description>&lt;p&gt;DABCC.com Today I want to show you what I&amp;rsquo;ve learned from looking at Microsoft Azure&amp;rsquo;s performance for a week. I took a different approach for these tests as I &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/microsoft-azure-does-spending-a-bit-more-money-on-your-vms-make-a-difference-on-user-experience/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/microsoft-azure-does-spending-a-bit-more-money-on-your-vms-make-a-difference-on-user-experience/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
