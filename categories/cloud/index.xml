@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 12:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 12:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Launches Cloud Bot-as-a-Service Platform</title>
+      <link>//cloudfeed.net/post/microsoft-launches-cloud-botasaservice-platform/</link>
+      <pubDate>Wed, 28 Dec 2016 12:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-launches-cloud-botasaservice-platform/</guid>
+      <description>&lt;p&gt;The Azure Bot Service is powered by the Microsoft Bot Framework and has a serverless compute back-end built on Azure Functions. Using the bot &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2016/12/Microsoft-Bot-Service&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2016/12/Microsoft-Bot-Service&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Installing Neo4j on Google Cloud with Compute Engine</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/configuring-and-troubleshooting-load-balancing-as-a-service-in-integrated/</guid>
       <description>&lt;p&gt;This article provides steps to configure and troubleshoot Load Balancing as a Service (LBaaSv2) in VMware Integrated Openstack (VIO) 3.0. Note: Thi.  &lt;a href=&#34;https://kb.vmware.com/kb/2147657&#34; onclick=&#34;trackOutboundLink(&#39;https://kb.vmware.com/kb/2147657&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Also&#39;s Backup Vault available in Azure across Europe</title>
-      <link>//cloudfeed.net/post/alsos-backup-vault-available-in-azure-across-europe/</link>
-      <pubDate>Wed, 28 Dec 2016 06:30:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/alsos-backup-vault-available-in-azure-across-europe/</guid>
-      <description>&lt;p&gt;Also announced that its Backup Vault service became available in the Microsoft Azure cloud platform across Europe. Companies can now order a &amp;hellip;  &lt;a href=&#34;https://www.telecompaper.com/news/also-cloud-marketplace-launches-backup-vault-in-azure--1177744&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/also-cloud-marketplace-launches-backup-vault-in-azure--1177744&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

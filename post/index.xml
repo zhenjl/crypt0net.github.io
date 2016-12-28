@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 12:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 12:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Launches Cloud Bot-as-a-Service Platform</title>
+      <link>//cloudfeed.net/post/microsoft-launches-cloud-botasaservice-platform/</link>
+      <pubDate>Wed, 28 Dec 2016 12:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-launches-cloud-botasaservice-platform/</guid>
+      <description>&lt;p&gt;The Azure Bot Service is powered by the Microsoft Bot Framework and has a serverless compute back-end built on Azure Functions. Using the bot &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2016/12/Microsoft-Bot-Service&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2016/12/Microsoft-Bot-Service&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Installing Neo4j on Google Cloud with Compute Engine</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;PJM allows Avangrid, the wind farm developer, to sell electricity directly to Amazon Web Services for its data centers at a price per kilowatt-hour &amp;hellip;  &lt;a href=&#34;http://www.ecowatch.com/wind-farm-amazon-2168453431.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ecowatch.com/wind-farm-amazon-2168453431.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My Big Tech Predictions for 2017</title>
-      <link>//cloudfeed.net/post/my-big-tech-predictions-for-2017/</link>
-      <pubDate>Wed, 28 Dec 2016 10:00:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/my-big-tech-predictions-for-2017/</guid>
-      <description>&lt;p&gt;The Internet of Things (IoT). This has been &amp;ldquo;the next big thing&amp;rdquo; for the past few years and may become the hot ticket for 2017. I sure hope it is, so I can &amp;hellip;  &lt;a href=&#34;http://www.pcmag.com/commentary/350599/the-big-tech-trends-of-2017-will-probably-not-happen-in-201&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcmag.com/commentary/350599/the-big-tech-trends-of-2017-will-probably-not-happen-in-201&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
