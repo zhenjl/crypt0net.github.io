@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 07:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 07:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Amazon&#39;s Cloud Infrastructure for VMware Could Find More Uses</title>
+      <link>//cloudfeed.net/post/how-amazons-cloud-infrastructure-for-vmware-could-find-more-uses/</link>
+      <pubDate>Wed, 28 Dec 2016 07:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/how-amazons-cloud-infrastructure-for-vmware-could-find-more-uses/</guid>
+      <description>&lt;p&gt;Amazon is assembling masses of &amp;ldquo;bare metal&amp;rdquo; computers, which unlike the rest of the AWS servers, come with no virtualization. That&amp;rsquo;s because &amp;hellip;  &lt;a href=&#34;http://fortune.com/2016/12/28/amazon-vmware-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://fortune.com/2016/12/28/amazon-vmware-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Is Working on Road-Safety AI Based on Smartphones and</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/amazoncom-inc-amzn-shares-bought-by-prudential-financial-inc/</guid>
       <description>&lt;p&gt;Amazon.com logo Prudential Financial Inc. increased its position in shares of Amazon.com Inc. (NASDAQ:AMZN) by 11.4% during the third quarter, &amp;hellip;  &lt;a href=&#34;https://www.thecerbatgem.com/2016/12/27/amazon-com-inc-amzn-shares-bought-by-prudential-financial-inc.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.thecerbatgem.com/2016/12/27/amazon-com-inc-amzn-shares-bought-by-prudential-financial-inc.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>&#39;OpenStack is not going to be an Amazon killer&#39;: Open-source cloud tech</title>
-      <link>//cloudfeed.net/post/openstack-is-not-going-to-be-an-amazon-killer-opensource-cloud-tech/</link>
-      <pubDate>Tue, 27 Dec 2016 19:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/openstack-is-not-going-to-be-an-amazon-killer-opensource-cloud-tech/</guid>
-      <description>&lt;p&gt;GeekWire Sriram Subramanian, founder and CEO of consultancy CloudDon, organized Seattle&amp;rsquo;s OpenStack Days event in September 2016.  &lt;a href=&#34;http://www.geekwire.com/2016/openstack-not-going-amazon-killer-open-source-cloud-tech-faces-u-s-market-realities/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2016/openstack-not-going-amazon-killer-open-source-cloud-tech-faces-u-s-market-realities/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 07:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 07:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Amazon&#39;s Cloud Infrastructure for VMware Could Find More Uses</title>
+      <link>//cloudfeed.net/post/how-amazons-cloud-infrastructure-for-vmware-could-find-more-uses/</link>
+      <pubDate>Wed, 28 Dec 2016 07:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/how-amazons-cloud-infrastructure-for-vmware-could-find-more-uses/</guid>
+      <description>&lt;p&gt;Amazon is assembling masses of &amp;ldquo;bare metal&amp;rdquo; computers, which unlike the rest of the AWS servers, come with no virtualization. That&amp;rsquo;s because &amp;hellip;  &lt;a href=&#34;http://fortune.com/2016/12/28/amazon-vmware-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://fortune.com/2016/12/28/amazon-vmware-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>7 predictions for the African tech startup space in 2017</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;This year (2016) I accepted as much incident response work as I could. I spent about 300 hours responding to security incidents and data breaches &amp;hellip;  &lt;a href=&#34;https://www.linux.com/news/learning-year-security-breaches&#34; onclick=&#34;trackOutboundLink(&#39;https://www.linux.com/news/learning-year-security-breaches&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Top 10 Data Center Stories of 2016</title>
-      <link>//cloudfeed.net/post/the-top-10-data-center-stories-of-2016/</link>
-      <pubDate>Wed, 28 Dec 2016 06:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/the-top-10-data-center-stories-of-2016/</guid>
-      <description>&lt;p&gt;&amp;hellip; places, optimized around the needs of machine-to-machine (M2M) workloads and the analytics that mine these oceans of data for business insights.  &lt;a href=&#34;http://datacenterfrontier.com/top-10-data-center-stories-of-2016/&#34; onclick=&#34;trackOutboundLink(&#39;http://datacenterfrontier.com/top-10-data-center-stories-of-2016/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
