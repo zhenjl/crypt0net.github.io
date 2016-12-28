@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 12:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 12:20:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Installing Neo4j on Google Cloud with Compute Engine</title>
+      <link>//cloudfeed.net/post/installing-neo4j-on-google-cloud-with-compute-engine/</link>
+      <pubDate>Wed, 28 Dec 2016 12:20:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/installing-neo4j-on-google-cloud-with-compute-engine/</guid>
+      <description>&lt;p&gt;Technology, Inc. Native graph storage means that Neo4j stores data as &amp;hellip;  &lt;a href=&#34;https://blog.nukomeet.com/installing-neo4j-on-google-cloud-with-compute-engine-10b3c5fae7a9&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.nukomeet.com/installing-neo4j-on-google-cloud-with-compute-engine-10b3c5fae7a9&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon.com Inc. (AMZN) Receives Top Pick Rating from Evercore ISI</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/my-big-tech-predictions-for-2017/</guid>
       <description>&lt;p&gt;The Internet of Things (IoT). This has been &amp;ldquo;the next big thing&amp;rdquo; for the past few years and may become the hot ticket for 2017. I sure hope it is, so I can &amp;hellip;  &lt;a href=&#34;http://www.pcmag.com/commentary/350599/the-big-tech-trends-of-2017-will-probably-not-happen-in-201&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcmag.com/commentary/350599/the-big-tech-trends-of-2017-will-probably-not-happen-in-201&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Demands Placed on Engineers for 2017</title>
-      <link>//cloudfeed.net/post/the-demands-placed-on-engineers-for-2017/</link>
-      <pubDate>Wed, 28 Dec 2016 09:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/the-demands-placed-on-engineers-for-2017/</guid>
-      <description>&lt;p&gt;Right now the engineering world is dragging its feet entering the Internet of Things (IoT) world. The MPI group reported in 2016 that 67% of companies &amp;hellip;  &lt;a href=&#34;http://machinedesign.com/blog/demands-placed-engineers-2017&#34; onclick=&#34;trackOutboundLink(&#39;http://machinedesign.com/blog/demands-placed-engineers-2017&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

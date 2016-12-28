@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 12:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 12:20:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Installing Neo4j on Google Cloud with Compute Engine</title>
+      <link>//cloudfeed.net/post/installing-neo4j-on-google-cloud-with-compute-engine/</link>
+      <pubDate>Wed, 28 Dec 2016 12:20:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/installing-neo4j-on-google-cloud-with-compute-engine/</guid>
+      <description>&lt;p&gt;Technology, Inc. Native graph storage means that Neo4j stores data as &amp;hellip;  &lt;a href=&#34;https://blog.nukomeet.com/installing-neo4j-on-google-cloud-with-compute-engine-10b3c5fae7a9&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.nukomeet.com/installing-neo4j-on-google-cloud-with-compute-engine-10b3c5fae7a9&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon.com Inc. (AMZN) Receives Top Pick Rating from Evercore ISI</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/alsos-backup-vault-available-in-azure-across-europe/</guid>
       <description>&lt;p&gt;Also announced that its Backup Vault service became available in the Microsoft Azure cloud platform across Europe. Companies can now order a &amp;hellip;  &lt;a href=&#34;https://www.telecompaper.com/news/also-cloud-marketplace-launches-backup-vault-in-azure--1177744&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/also-cloud-marketplace-launches-backup-vault-in-azure--1177744&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Logging in to vCloud Director using LDAP with Kerberos fails</title>
-      <link>//cloudfeed.net/post/logging-in-to-vcloud-director-using-ldap-with-kerberos-fails/</link>
-      <pubDate>Wed, 28 Dec 2016 06:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/logging-in-to-vcloud-director-using-ldap-with-kerberos-fails/</guid>
-      <description>&lt;p&gt;String cannot be cast to java.util.Vector; Upgrading to vCloud Director for &amp;hellip;  &lt;a href=&#34;https://kb.vmware.com/kb/2147599&#34; onclick=&#34;trackOutboundLink(&#39;https://kb.vmware.com/kb/2147599&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
