@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 04:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 06:40:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Learning From A Year of Security Breaches</title>
+      <link>//cloudfeed.net/post/learning-from-a-year-of-security-breaches/</link>
+      <pubDate>Wed, 28 Dec 2016 06:40:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/learning-from-a-year-of-security-breaches/</guid>
+      <description>&lt;p&gt;This year (2016) I accepted as much incident response work as I could. I spent about 300 hours responding to security incidents and data breaches &amp;hellip;  &lt;a href=&#34;https://www.linux.com/news/learning-year-security-breaches&#34; onclick=&#34;trackOutboundLink(&#39;https://www.linux.com/news/learning-year-security-breaches&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Verizon Expected To Move Ahead With Yahoo Deal</title>
@@ -210,18 +222,6 @@
       
       <guid>//cloudfeed.net/post/yahoos-data-breaches-unlikely-to-derail-verizon-deal/</guid>
       <description>&lt;p&gt;Hundreds of U.S. companies fall prey to hackers every year and, in many cases, the data breaches neither hurt bottom lines nor scare away customers &amp;hellip;  &lt;a href=&#34;https://www.bloomberg.com/news/articles/2016-12-27/yahoo-s-data-breaches-seen-unlikely-to-derail-verizon-deal&#34; onclick=&#34;trackOutboundLink(&#39;https://www.bloomberg.com/news/articles/2016-12-27/yahoo-s-data-breaches-seen-unlikely-to-derail-verizon-deal&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Haiyan Song: Organizations will Integrate Machine Learning Tech to Automate</title>
-      <link>//cloudfeed.net/post/haiyan-song-organizations-will-integrate-machine-learning-tech-to-automate/</link>
-      <pubDate>Tue, 27 Dec 2016 09:40:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/haiyan-song-organizations-will-integrate-machine-learning-tech-to-automate/</guid>
-      <description>&lt;p&gt;ExecutiveBiz (blog) User behavioral analytics-based technologies will also support strategies against data breaches and offer real-time insights on who has access to &amp;hellip;  &lt;a href=&#34;http://blog.executivebiz.com/2016/12/haiyan-song-organizations-will-integrate-machine-learning-tech-to-automate-data-breach-response/&#34; onclick=&#34;trackOutboundLink(&#39;http://blog.executivebiz.com/2016/12/haiyan-song-organizations-will-integrate-machine-learning-tech-to-automate-data-breach-response/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>

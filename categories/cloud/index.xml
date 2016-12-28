@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 06:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 06:40:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Configuring and troubleshooting Load Balancing as a Service in Integrated</title>
+      <link>//cloudfeed.net/post/configuring-and-troubleshooting-load-balancing-as-a-service-in-integrated/</link>
+      <pubDate>Wed, 28 Dec 2016 06:40:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/configuring-and-troubleshooting-load-balancing-as-a-service-in-integrated/</guid>
+      <description>&lt;p&gt;This article provides steps to configure and troubleshoot Load Balancing as a Service (LBaaSv2) in VMware Integrated Openstack (VIO) 3.0. Note: Thi.  &lt;a href=&#34;https://kb.vmware.com/kb/2147657&#34; onclick=&#34;trackOutboundLink(&#39;https://kb.vmware.com/kb/2147657&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Also&#39;s Backup Vault available in Azure across Europe</title>
@@ -270,18 +282,6 @@
       
       <guid>//cloudfeed.net/post/executive-viewpoint-2017-prediction-solarwinds--containers-faas-and/</guid>
       <description>&lt;p&gt;Virtual-Strategy Magazine Launched in 2014 by AWS Lambda (although in the last several years, similar solutions have been offered by Azure and Google Cloud Platform), the &amp;hellip;  &lt;a href=&#34;http://virtual-strategy.com/2016/12/27/executive-viewpoint-2017-prediction-solarwinds-containers-faas-and-more-hybrid-it/&#34; onclick=&#34;trackOutboundLink(&#39;http://virtual-strategy.com/2016/12/27/executive-viewpoint-2017-prediction-solarwinds-containers-faas-and-more-hybrid-it/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Overcrowded Trade List Shows Amazon Still Among Hottest Holdings</title>
-      <link>//cloudfeed.net/post/overcrowded-trade-list-shows-amazon-still-among-hottest-holdings/</link>
-      <pubDate>Tue, 27 Dec 2016 14:50:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/overcrowded-trade-list-shows-amazon-still-among-hottest-holdings/</guid>
-      <description>&lt;p&gt;With ownership of the Washington Post through its founder Jeff Bezos and an increasingly dominate Internet cloud division, Amazon Web Services, &amp;hellip;  &lt;a href=&#34;http://www.valuewalk.com/2016/12/overcrowded-trade-amazon/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.valuewalk.com/2016/12/overcrowded-trade-amazon/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
