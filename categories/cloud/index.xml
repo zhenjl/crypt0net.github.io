@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 27 Dec 2016 22:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 01:50:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Intel &amp; Amazon To Bring MiOS Into The Limelight At CES</title>
+      <link>//cloudfeed.net/post/intel--amazon-to-bring-mios-into-the-limelight-at-ces/</link>
+      <pubDate>Wed, 28 Dec 2016 01:50:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/intel--amazon-to-bring-mios-into-the-limelight-at-ces/</guid>
+      <description>&lt;p&gt;The whole kit and kaboodle runs from a tiny computer box with an Intel Quark processor inside, and uses Amazon Alexa and Amazon Web Services &amp;hellip;  &lt;a href=&#34;http://www.androidheadlines.com/2016/12/intel-amazon-bring-mios-limelight-ces.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.androidheadlines.com/2016/12/intel-amazon-bring-mios-limelight-ces.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Integrating NetScaler MAS with OpenStack Heat Services</title>
@@ -270,18 +282,6 @@
       
       <guid>//cloudfeed.net/post/goto-openstack-guide-scaling-up--deploying-an-allflash-cloud/</guid>
       <description>&lt;p&gt;While OpenStack provides great opportunities to modernize cloud infrastructure, challenges exist to deploying enterprise applications. Mirantis and &amp;hellip;  &lt;a href=&#34;https://www.brighttalk.com/webcast/14517/230959?utm_medium=web&amp;utm_source=brighttalk-portal&amp;utm_campaign=all-brighttalk-live-recorded&#34; onclick=&#34;trackOutboundLink(&#39;https://www.brighttalk.com/webcast/14517/230959?utm_medium=web&amp;utm_source=brighttalk-portal&amp;utm_campaign=all-brighttalk-live-recorded&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>In 2016, the cloud matures, and Amazon sees stiffer competition</title>
-      <link>//cloudfeed.net/post/in-2016-the-cloud-matures-and-amazon-sees-stiffer-competition/</link>
-      <pubDate>Tue, 27 Dec 2016 12:20:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/in-2016-the-cloud-matures-and-amazon-sees-stiffer-competition/</guid>
-      <description>&lt;p&gt;After acquiring her startup in 2015, Google installed VMware founder and former CEO Diane Greene as vice president of Google&amp;rsquo;s cloud business.  &lt;a href=&#34;http://sdtimes.com/2016-cloud-matures-amazon-sees-stiffer-competition/&#34; onclick=&#34;trackOutboundLink(&#39;http://sdtimes.com/2016-cloud-matures-amazon-sees-stiffer-competition/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
