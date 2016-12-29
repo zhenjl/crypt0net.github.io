@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 29 Dec 2016 04:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Dec 2016 06:40:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VMware Integrated OpenStack new instance fail to get DHCP when using a new</title>
+      <link>//cloudfeed.net/post/vmware-integrated-openstack-new-instance-fail-to-get-dhcp-when-using-a-new/</link>
+      <pubDate>Thu, 29 Dec 2016 06:40:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/vmware-integrated-openstack-new-instance-fail-to-get-dhcp-when-using-a-new/</guid>
+      <description>&lt;p&gt;Future releases of Vmware Integrated Openstack will be able to update the NSX Edge configuration to set the LAG interface as active and move all the &amp;hellip;  &lt;a href=&#34;https://kb.vmware.com/kb/2148198&#34; onclick=&#34;trackOutboundLink(&#39;https://kb.vmware.com/kb/2148198&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Chetu To Exhibit At Sharepoint Tech Conference In San Francisco</title>
@@ -279,18 +291,6 @@
       
       <guid>//cloudfeed.net/post/could-openstack-survive-2017-after-backing-away-from-ibm/</guid>
       <description>&lt;p&gt;Earlier in this series, we saw that Rackspace, Cisco (CSCO), and HPE (HPE) have moved away from OpenStack. At one point of time, OpenStack &amp;hellip;  &lt;a href=&#34;http://marketrealist.com/2016/12/will-ibms-openstack-survive-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2016/12/will-ibms-openstack-survive-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Buy Amazon.com and Apple, Top Trader Advises</title>
-      <link>//cloudfeed.net/post/buy-amazoncom-and-apple-top-trader-advises/</link>
-      <pubDate>Wed, 28 Dec 2016 14:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/buy-amazoncom-and-apple-top-trader-advises/</guid>
-      <description>&lt;p&gt;The company should see double digit growth in online retail sales, plus its Amazon Web Services (AWS) business really has an oligopoly, he said.  &lt;a href=&#34;https://www.thestreet.com/story/13938280/1/buy-amazon-com-and-apple-top-trader-advises.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.thestreet.com/story/13938280/1/buy-amazon-com-and-apple-top-trader-advises.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
