@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 19:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What&#39;s Next for VMware in 2017</title>
+      <link>//cloudfeed.net/post/whats-next-for-vmware-in-2017/</link>
+      <pubDate>Wed, 28 Dec 2016 19:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/whats-next-for-vmware-in-2017/</guid>
+      <description>&lt;p&gt;VMware, which had been competing against the public cloud model, now works with Amazon Web Services to help enterprises manage workloads &amp;hellip;  &lt;a href=&#34;http://www.investopedia.com/news/whats-next-vmware-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.investopedia.com/news/whats-next-vmware-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Dec 28, 2016</title>
@@ -279,18 +291,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-in-2016-surging-stock-new-devices-and-a-huge-new-ai-team/</guid>
       <description>&lt;p&gt;A bemused Microsoft CEO Satya Nadella listens to a question from a &amp;hellip; Azure has been a big part of Microsoft&amp;rsquo;s resurgence and it will be interesting to &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2016/microsoft-2016-surging-stock-new-devices-huge-new-ai-team/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2016/microsoft-2016-surging-stock-new-devices-huge-new-ai-team/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Openstack provider doesn&#39;t update subnet allocation_pools</title>
-      <link>//cloudfeed.net/post/openstack-provider-doesnt-update-subnet-allocationpools/</link>
-      <pubDate>Wed, 28 Dec 2016 11:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/openstack-provider-doesnt-update-subnet-allocationpools/</guid>
-      <description>&lt;p&gt;cassianoleal opened this Issue 35 minutes ago  0 comments &amp;hellip;  &lt;a href=&#34;https://github.com/hashicorp/terraform/issues/10942&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/hashicorp/terraform/issues/10942&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
