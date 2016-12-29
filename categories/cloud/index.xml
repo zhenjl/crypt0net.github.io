@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2016 23:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2016 23:50:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Brexit brings the UK higher prices for cloud services</title>
+      <link>//cloudfeed.net/post/brexit-brings-the-uk-higher-prices-for-cloud-services/</link>
+      <pubDate>Wed, 28 Dec 2016 23:50:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/brexit-brings-the-uk-higher-prices-for-cloud-services/</guid>
+      <description>&lt;p&gt;Microsoft and its rivalsnamely IBM Corp., Alphabet Inc.&amp;rsquo;s Google and Amazon.com Inc.&amp;rsquo;s Amazon Web Serviceshave been expanding their cloud &amp;hellip;  &lt;a href=&#34;https://www.b2becommerceworld.com/2016/12/28/brexit-brings-uk-higher-prices-cloud-services&#34; onclick=&#34;trackOutboundLink(&#39;https://www.b2becommerceworld.com/2016/12/28/brexit-brings-uk-higher-prices-cloud-services&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Cloud Solutions Partner Summit draws massive partner interest</title>
@@ -279,18 +291,6 @@
       
       <guid>//cloudfeed.net/post/room-to-hold-lots-more-larger-block-blobs-in-azure-storage-now-generally/</guid>
       <description>&lt;p&gt;Many customers use Azure Blob Storage to store very large data sets, and now the maximum file size has increased from 195 GB to 4.77 TB.  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2016/12/28/room-to-hold-lots-more-larger-block-blobs-in-azure-storage-now-generally-available/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2016/12/28/room-to-hold-lots-more-larger-block-blobs-in-azure-storage-now-generally-available/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Launches Cloud Bot-as-a-Service Platform</title>
-      <link>//cloudfeed.net/post/microsoft-launches-cloud-botasaservice-platform/</link>
-      <pubDate>Wed, 28 Dec 2016 12:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-launches-cloud-botasaservice-platform/</guid>
-      <description>&lt;p&gt;The Azure Bot Service is powered by the Microsoft Bot Framework and has a serverless compute back-end built on Azure Functions. Using the bot &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2016/12/Microsoft-Bot-Service&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2016/12/Microsoft-Bot-Service&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
