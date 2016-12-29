@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 29 Dec 2016 11:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Dec 2016 11:30:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reactive and Asynchronous IoT With Vert.x</title>
+      <link>//cloudfeed.net/post/reactive-and-asynchronous-iot-with-vertx/</link>
+      <pubDate>Thu, 29 Dec 2016 11:30:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/reactive-and-asynchronous-iot-with-vertx/</guid>
+      <description>&lt;p&gt;Regarding more IoT-oriented protocols, there is the Vert.x MQTT server component, which doesn&amp;rsquo;t provide a full broker but exposes an API that a &amp;hellip;  &lt;a href=&#34;https://dzone.com/articles/internet-of-things-reactive-and-asynchronous-with&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/internet-of-things-reactive-and-asynchronous-with&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>SwiftStack object storage cures Oklahoma biomed&#39;s capacity, cost woes</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Federal Times DDoS is not a new tactic, however its use has broadened since hackers began using connected devices  the internet of things  to launch larger &amp;hellip;  &lt;a href=&#34;http://www.federaltimes.com/articles/international-campaign-targets-young-adults-suspected-of-possessing-cyberattack-tools&#34; onclick=&#34;trackOutboundLink(&#39;http://www.federaltimes.com/articles/international-campaign-targets-young-adults-suspected-of-possessing-cyberattack-tools&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services: 2016 In Review</title>
-      <link>//cloudfeed.net/post/amazon-web-services-2016-in-review/</link>
-      <pubDate>Thu, 29 Dec 2016 08:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-web-services-2016-in-review/</guid>
-      <description>&lt;p&gt;Amazon&amp;rsquo;s stock is up about 14% year to date and 17% in the last year following solid financial results in the first three quarters. The company &amp;hellip;  &lt;a href=&#34;http://www.forbes.com/sites/greatspeculations/2016/12/29/amazon-web-services-2016-in-review/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.forbes.com/sites/greatspeculations/2016/12/29/amazon-web-services-2016-in-review/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
