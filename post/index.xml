@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 30 Dec 2016 05:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2016 05:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Marshalling and Unmarshalling in JAXB 2.0</title>
+      <link>//cloudfeed.net/post/marshalling-and-unmarshalling-in-jaxb-20/</link>
+      <pubDate>Fri, 30 Dec 2016 05:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/marshalling-and-unmarshalling-in-jaxb-20/</guid>
+      <description>&lt;p&gt;This year also saw the release of multi-cloud support for Microsoft Azure and Google Cloud, even seeing Google join the Cloud Foundry foundation!  &lt;a href=&#34;https://dzone.com/articles/introduction-to-jaxb-20&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/introduction-to-jaxb-20&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Global Internet of Things (IoT) market-Research Nester</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/blockchain-project-hyperledger-wraps-up-2016-by-welcoming-8-new-members/</guid>
       <description>&lt;p&gt;Hyperledger Project, a collaborative effort created to adopt blockchain technology for business aims, has attracted eight members to join the project.  &lt;a href=&#34;http://www.coinspeaker.com/2016/12/29/blockchain-project-hyperledger-wraps-2016-welcoming-8-new-members/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coinspeaker.com/2016/12/29/blockchain-project-hyperledger-wraps-2016-welcoming-8-new-members/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Internet of Things- A step towards promising future!(Part 1)</title>
-      <link>//cloudfeed.net/post/internet-of-things-a-step-towards-promising-futurepart-1/</link>
-      <pubDate>Fri, 30 Dec 2016 01:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/internet-of-things-a-step-towards-promising-futurepart-1/</guid>
-      <description>&lt;p&gt;Growth of IoT (Source:&lt;a href=&#34;http://www.i-scoop.eu/internet-of-things/&#34;&gt;http://www.i-scoop.eu/internet-of-things/&lt;/a&gt;). According to a &amp;hellip;  &lt;a href=&#34;https://www.capgemini.com/blog/capping-it-off/2016/12/internet-of-things-a-step-towards-promising-futurepart-1-0&#34; onclick=&#34;trackOutboundLink(&#39;https://www.capgemini.com/blog/capping-it-off/2016/12/internet-of-things-a-step-towards-promising-futurepart-1-0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
