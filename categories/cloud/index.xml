@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 30 Dec 2016 22:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2016 23:40:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SAP HANA Cloud Platform Identity Authentication</title>
+      <link>//cloudfeed.net/post/sap-hana-cloud-platform-identity-authentication/</link>
+      <pubDate>Fri, 30 Dec 2016 23:40:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/sap-hana-cloud-platform-identity-authentication/</guid>
+      <description>&lt;p&gt;single sign-on.  &lt;a href=&#34;https://azure.microsoft.com/en-gb/marketplace/partners/sap-se/sapcloudidentity/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-gb/marketplace/partners/sap-se/sapcloudidentity/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Digital Day Sale Kicks Off</title>
@@ -249,18 +261,6 @@
       
       <guid>//cloudfeed.net/post/executive-viewpoint-2017-prediction-quali--forecast-cloud-sandboxes-to/</guid>
       <description>&lt;p&gt;Virtual-Strategy Magazine Think of cloud sandboxes as a kind of safety net for companies that choose to adopt VMware-AWS, Azure, OpenStack or Google Cloud Platform.  &lt;a href=&#34;http://virtual-strategy.com/2016/12/30/executive-viewpoint-2017-prediction-quali-forecast-cloud-sandboxes-to-enable-hybrid-clouds/&#34; onclick=&#34;trackOutboundLink(&#39;http://virtual-strategy.com/2016/12/30/executive-viewpoint-2017-prediction-quali-forecast-cloud-sandboxes-to-enable-hybrid-clouds/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Video Showcases Recent Additions to Azure DevTest Labs</title>
-      <link>//cloudfeed.net/post/microsoft-video-showcases-recent-additions-to-azure-devtest-labs/</link>
-      <pubDate>Fri, 30 Dec 2016 10:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-video-showcases-recent-additions-to-azure-devtest-labs/</guid>
-      <description>&lt;p&gt;A new video shows how Microsoft has made Azure DevTest Labs a simpler experience recently. Among the new features are ARM templates for &amp;hellip;  &lt;a href=&#34;http://winbuzzer.com/2016/12/30/microsoft-video-showcases-recent-additions-azure-devtest-labs-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;http://winbuzzer.com/2016/12/30/microsoft-video-showcases-recent-additions-azure-devtest-labs-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
