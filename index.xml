@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 30 Dec 2016 19:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2016 19:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Activity spikes on San Francisco&#39;s Internet of Things network</title>
+      <link>//cloudfeed.net/post/activity-spikes-on-san-franciscos-internet-of-things-network/</link>
+      <pubDate>Fri, 30 Dec 2016 19:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/activity-spikes-on-san-franciscos-internet-of-things-network/</guid>
+      <description>&lt;p&gt;A little more than a year after launch, San Francisco&amp;rsquo;s Internet of Things (IoT) network has taken off, with a handful of departments planning pilot &amp;hellip;  &lt;a href=&#34;http://statescoop.com/activity-spikes-for-san-franciscos-internet-of-things-network&#34; onclick=&#34;trackOutboundLink(&#39;http://statescoop.com/activity-spikes-for-san-franciscos-internet-of-things-network&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>6 great software tools to inspect network traffic with</title>
@@ -439,18 +451,6 @@
       <description>&lt;p&gt;than a cocktail party conversation. It sounds interesting but doesn&amp;rsquo;t necessarily &amp;hellip;  &lt;a href=&#34;https://www.rsaconference.com/blogs/building-an-internet-of-things-risk-model-in-the-wake-of-mirai&#34; onclick=&#34;trackOutboundLink(&#39;https://www.rsaconference.com/blogs/building-an-internet-of-things-risk-model-in-the-wake-of-mirai&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OSIC Tests Deploying &amp; Managing OpenStack to Bare-Metal with Kolla</title>
-      <link>//cloudfeed.net/post/osic-tests-deploying--managing-openstack-to-baremetal-with-kolla/</link>
-      <pubDate>Fri, 30 Dec 2016 14:50:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/osic-tests-deploying--managing-openstack-to-baremetal-with-kolla/</guid>
-      <description>&lt;p&gt;That&amp;rsquo;s why project lead Steven Dake and a few others started OpenStack Kolla.  &lt;a href=&#34;https://osic.org/blogs/osic-tests-deploying-managing-openstack-bare-metal-kolla&#34; onclick=&#34;trackOutboundLink(&#39;https://osic.org/blogs/osic-tests-deploying-managing-openstack-bare-metal-kolla&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
