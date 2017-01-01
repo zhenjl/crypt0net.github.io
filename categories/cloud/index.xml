@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 31 Dec 2016 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 03:50:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWS sees growth in database migrations</title>
+      <link>//cloudfeed.net/post/aws-sees-growth-in-database-migrations/</link>
+      <pubDate>Sun, 01 Jan 2017 03:50:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/aws-sees-growth-in-database-migrations/</guid>
+      <description>&lt;p&gt;Public cloud market leader Amazon Web Services (AWS) offers a lot of services  83 by my count. Some of them are more popular than others.  &lt;a href=&#34;http://venturebeat.com/2017/01/01/aws-sees-growth-in-database-migrations/&#34; onclick=&#34;trackOutboundLink(&#39;http://venturebeat.com/2017/01/01/aws-sees-growth-in-database-migrations/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Dec 31, 2016</title>
@@ -277,18 +289,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-invites-customers-for-a-teams-test-drive/</guid>
       <description>&lt;p&gt;As users of Google Cloud ourselves, we&amp;rsquo;re thrilled about this partnership and how it will simplify our working lives,&amp;rdquo; Slack said in a Dec. 7 advisory.  &lt;a href=&#34;http://www.eweek.com/enterprise-apps/microsoft-invites-customers-for-a-teams-test-drive.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/enterprise-apps/microsoft-invites-customers-for-a-teams-test-drive.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OSIC Tests Deploying &amp; Managing OpenStack to Bare-Metal with Kolla</title>
-      <link>//cloudfeed.net/post/osic-tests-deploying--managing-openstack-to-baremetal-with-kolla/</link>
-      <pubDate>Fri, 30 Dec 2016 14:50:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/osic-tests-deploying--managing-openstack-to-baremetal-with-kolla/</guid>
-      <description>&lt;p&gt;That&amp;rsquo;s why project lead Steven Dake and a few others started OpenStack Kolla.  &lt;a href=&#34;https://osic.org/blogs/osic-tests-deploying-managing-openstack-bare-metal-kolla&#34; onclick=&#34;trackOutboundLink(&#39;https://osic.org/blogs/osic-tests-deploying-managing-openstack-bare-metal-kolla&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
