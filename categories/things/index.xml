@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 02 Jan 2017 00:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jan 2017 01:20:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What will the IoT look like in 2017?</title>
+      <link>//cloudfeed.net/post/what-will-the-iot-look-like-in-2017/</link>
+      <pubDate>Mon, 02 Jan 2017 01:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/what-will-the-iot-look-like-in-2017/</guid>
+      <description>&lt;p&gt;2016 was the year the Internet of Things (IoT) actually started to get serious. Finally, we went from niche industrial applications and feverish dreams of &amp;hellip;  &lt;a href=&#34;http://www.itpro.co.uk/networking/27840/what-will-the-iot-look-like-in-2017&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itpro.co.uk/networking/27840/what-will-the-iot-look-like-in-2017&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Combination of IoT blockchain and AI would enable sustainable development</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/sk-hynix-continues-rapid-expansion-of-fabrication-plants/</guid>
       <description>&lt;p&gt;The market is even seeing penetration from lesser-known technologies like that of smart cars and the increasingly omnipresent Internet of Things.  &lt;a href=&#34;http://www.gamersnexus.net/industry/2742-sk-hynix-new-fab-plant-in-korea&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gamersnexus.net/industry/2742-sk-hynix-new-fab-plant-in-korea&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Two Effective IoT Protocols and How They Work</title>
-      <link>//cloudfeed.net/post/two-effective-iot-protocols-and-how-they-work/</link>
-      <pubDate>Sun, 01 Jan 2017 15:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/two-effective-iot-protocols-and-how-they-work/</guid>
-      <description>&lt;p&gt;MQTT differs from the traditional client-server model in that there is no direct link between endpoints. Instead a broker known by both publisher and &amp;hellip;  &lt;a href=&#34;http://automatedbuildings.com/news/jan17/articles/cloresol/161214115404kudzai.html&#34; onclick=&#34;trackOutboundLink(&#39;http://automatedbuildings.com/news/jan17/articles/cloresol/161214115404kudzai.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
