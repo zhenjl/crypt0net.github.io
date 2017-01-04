@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 03 Jan 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jan 2017 20:10:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Advanced network monitoring aids SDN deployments</title>
+      <link>//cloudfeed.net/post/advanced-network-monitoring-aids-sdn-deployments/</link>
+      <pubDate>Tue, 03 Jan 2017 20:10:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/advanced-network-monitoring-aids-sdn-deployments/</guid>
+      <description>&lt;p&gt;&amp;hellip; control plane (which makes decisions about network behavior) from its data plane (which is charged with actually handling network data packets).  &lt;a href=&#34;http://searchnetworking.techtarget.com/tip/Advanced-network-monitoring-aids-SDN-deployments&#34; onclick=&#34;trackOutboundLink(&#39;http://searchnetworking.techtarget.com/tip/Advanced-network-monitoring-aids-SDN-deployments&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Security News from @trustpath - Jan 3, 2017</title>
@@ -237,18 +249,6 @@
       
       <guid>//cloudfeed.net/post/failing-to-prepare-is-preparing-to-fail-with-network-security/</guid>
       <description>&lt;p&gt;This is a particular concern in the payment card industry, for example, where data breaches can mean compromising data from millions of credit cards.  &lt;a href=&#34;http://www.infosecurity-magazine.com/opinions/failing-to-prepare-network-security/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infosecurity-magazine.com/opinions/failing-to-prepare-network-security/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Yahoo Customer Database Unaffected By Breaches</title>
-      <link>//cloudfeed.net/post/yahoo-customer-database-unaffected-by-breaches/</link>
-      <pubDate>Tue, 03 Jan 2017 07:40:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/yahoo-customer-database-unaffected-by-breaches/</guid>
-      <description>&lt;p&gt;Two data breaches in the past appear not to have impacted traffic on Yahoo as users continue to use its services and numbers remain roughly steady, &amp;hellip;  &lt;a href=&#34;http://www.darkreading.com/attacks-breaches/yahoo-customer-database-unaffected-by-breaches-/d/d-id/1327815&#34; onclick=&#34;trackOutboundLink(&#39;http://www.darkreading.com/attacks-breaches/yahoo-customer-database-unaffected-by-breaches-/d/d-id/1327815&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
