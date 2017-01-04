@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 04 Jan 2017 04:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jan 2017 04:30:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Get the most out of Azure&#39;s global DocumentDB</title>
+      <link>//cloudfeed.net/post/get-the-most-out-of-azures-global-documentdb/</link>
+      <pubDate>Wed, 04 Jan 2017 04:30:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/get-the-most-out-of-azures-global-documentdb/</guid>
+      <description>&lt;p&gt;Azure&amp;rsquo;s collection of services isn&amp;rsquo;t designed to support Windows developers or Windows applications alone; it&amp;rsquo;s built on open APIs and standards that &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3154391/database/get-the-most-out-of-azures-global-documentdb.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3154391/database/get-the-most-out-of-azures-global-documentdb.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Red Hat needs to get real about the cloud</title>
+      <link>//cloudfeed.net/post/red-hat-needs-to-get-real-about-the-cloud/</link>
+      <pubDate>Wed, 04 Jan 2017 04:30:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/red-hat-needs-to-get-real-about-the-cloud/</guid>
+      <description>&lt;p&gt;It can be run on-prem, as a public cloud service on AWS or Google Cloud Platform, or in a dedicated hosting environment. Today, most of Red Hat&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3154405/cloud-computing/red-hat-needs-to-get-real-about-the-cloud.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3154405/cloud-computing/red-hat-needs-to-get-real-about-the-cloud.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OBIX is designed to provide access to the embedded software systems which</title>
@@ -161,30 +185,6 @@
       
       <guid>//cloudfeed.net/post/everest-group-recognizes-hexaware-as-star-performer-in-global-capital/</guid>
       <description>&lt;p&gt;IT Business Net &amp;hellip; combined with its strategic alliances and key investments in Robotic Process Automation, Machine-to-Machine (M2M), Internet of Things (IoT) and &amp;hellip;  &lt;a href=&#34;http://www.itbusinessnet.com/article/Everest-Group-Recognizes-Hexaware-as-Star-Performer-in-Global-Capital-Markets-4755899&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itbusinessnet.com/article/Everest-Group-Recognizes-Hexaware-as-Star-Performer-in-Global-Capital-Markets-4755899&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Malware &amp; Ransomware Attacks, Threats to IoT Shoot Up</title>
-      <link>//cloudfeed.net/post/malware--ransomware-attacks-threats-to-iot-shoot-up/</link>
-      <pubDate>Wed, 04 Jan 2017 00:40:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/malware--ransomware-attacks-threats-to-iot-shoot-up/</guid>
-      <description>&lt;p&gt;A projected growth to over 20 billion connected devices by 2020, a huge M2M (machine-to-machine) attack surface, built using highly vulnerable code &amp;hellip;  &lt;a href=&#34;http://www.voicendata.com/malware-ransomware-attacks-threats-to-iot-shoot-up/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.voicendata.com/malware-ransomware-attacks-threats-to-iot-shoot-up/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>UBS bank innogy and ZF partner to provide blockchain-backed wallets for</title>
-      <link>//cloudfeed.net/post/ubs-bank-innogy-and-zf-partner-to-provide-blockchainbacked-wallets-for/</link>
-      <pubDate>Wed, 04 Jan 2017 00:40:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/ubs-bank-innogy-and-zf-partner-to-provide-blockchainbacked-wallets-for/</guid>
-      <description>&lt;p&gt;EconoTimes The infrastructure of charging is registered on the blockchain and there are no separate registration or login processes required to make use of electric &amp;hellip;  &lt;a href=&#34;http://www.econotimes.com/UBS-bank-innogy-and-ZF-partner-to-provide-blockchain-backed-wallets-for-cars-471860&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/UBS-bank-innogy-and-ZF-partner-to-provide-blockchain-backed-wallets-for-cars-471860&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
