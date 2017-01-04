@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 04 Jan 2017 10:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jan 2017 10:20:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure (RM) LB does not set the load balancing rules correctly </title>
+      <link>//cloudfeed.net/post/microsoft-azure-rm-lb-does-not-set-the-load-balancing-rules-correctly/</link>
+      <pubDate>Wed, 04 Jan 2017 10:20:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-azure-rm-lb-does-not-set-the-load-balancing-rules-correctly/</guid>
+      <description>&lt;p&gt;Microsoft Azure (RM) LB does not set the load balancing rules correctly #11028. Open. dobrerazvan opened this Issue 37 minutes ago  0 comments &amp;hellip;  &lt;a href=&#34;https://github.com/hashicorp/terraform/issues/11028&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/hashicorp/terraform/issues/11028&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Openstack os_user_role module can&#39;t looping over elements</title>
+      <link>//cloudfeed.net/post/openstack-osuserrole-module-cant-looping-over-elements/</link>
+      <pubDate>Wed, 04 Jan 2017 10:20:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-osuserrole-module-cant-looping-over-elements/</guid>
+      <description>&lt;p&gt;in a role to Openstack os_user_role module can&amp;rsquo;t looping over elements 37 &amp;hellip;  &lt;a href=&#34;https://github.com/ansible/ansible/issues/19877&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/ansible/ansible/issues/19877&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS touts new enterprise workload magnet</title>
@@ -161,30 +185,6 @@
       
       <guid>//cloudfeed.net/post/get-the-most-out-of-azures-global-documentdb/</guid>
       <description>&lt;p&gt;Azure&amp;rsquo;s collection of services isn&amp;rsquo;t designed to support Windows developers or Windows applications alone; it&amp;rsquo;s built on open APIs and standards that &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3154391/database/get-the-most-out-of-azures-global-documentdb.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3154391/database/get-the-most-out-of-azures-global-documentdb.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Red Hat needs to get real about the cloud</title>
-      <link>//cloudfeed.net/post/red-hat-needs-to-get-real-about-the-cloud/</link>
-      <pubDate>Wed, 04 Jan 2017 04:30:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/red-hat-needs-to-get-real-about-the-cloud/</guid>
-      <description>&lt;p&gt;It can be run on-prem, as a public cloud service on AWS or Google Cloud Platform, or in a dedicated hosting environment. Today, most of Red Hat&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3154405/cloud-computing/red-hat-needs-to-get-real-about-the-cloud.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3154405/cloud-computing/red-hat-needs-to-get-real-about-the-cloud.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>3 Strengths That Make Microsoft Corporation (MSFT) Stock A Buy Now</title>
-      <link>//cloudfeed.net/post/3-strengths-that-make-microsoft-corporation-msft-stock-a-buy-now/</link>
-      <pubDate>Wed, 04 Jan 2017 02:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/3-strengths-that-make-microsoft-corporation-msft-stock-a-buy-now/</guid>
-      <description>&lt;p&gt;Microsoft Corporation (NASDAQ:MSFT)&amp;rsquo;s commercial cloud revenue run rate is just over $13 billion and includes revenues from Office 365, Azure, &amp;hellip;  &lt;a href=&#34;http://www.insidermonkey.com/blog/3-strengths-that-make-microsoft-corporation-msft-stock-a-buy-now-514289/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.insidermonkey.com/blog/3-strengths-that-make-microsoft-corporation-msft-stock-a-buy-now-514289/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
