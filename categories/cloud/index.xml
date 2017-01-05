@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 05 Jan 2017 13:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2017 13:20:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Connecting MySQL Client Using IP Addresses</title>
+      <link>//cloudfeed.net/post/connecting-mysql-client-using-ip-addresses/</link>
+      <pubDate>Thu, 05 Jan 2017 13:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/connecting-mysql-client-using-ip-addresses/</guid>
+      <description>&lt;p&gt;your client machine or in the Cloud Shell, to your Google Cloud SQL &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/sql/docs/mysql/connect-admin-ip&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/sql/docs/mysql/connect-admin-ip&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Best of the OVH Summit 2016 in Paris, France</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/adlib-is-bringing-its-platform-adlib-elevate-to-google-cloud-platform/</guid>
       <description>&lt;p&gt;Benzinga Adlib today announced that Adlib&amp;rsquo;s Elevate platform will be available on the Google Cloud Platform. This strategic move marks the first step in a &amp;hellip;  &lt;a href=&#34;http://www.benzinga.com/pressreleases/17/01/p8872053/adlib-is-bringing-its-platform-adlib-elevate-to-google-cloud-platform-a&#34; onclick=&#34;trackOutboundLink(&#39;http://www.benzinga.com/pressreleases/17/01/p8872053/adlib-is-bringing-its-platform-adlib-elevate-to-google-cloud-platform-a&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Hires Lobbying Help for AI Efforts</title>
-      <link>//cloudfeed.net/post/google-hires-lobbying-help-for-ai-efforts/</link>
-      <pubDate>Thu, 05 Jan 2017 09:30:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/google-hires-lobbying-help-for-ai-efforts/</guid>
-      <description>&lt;p&gt;The company earlier this year debuted its Google Cloud Speech API, updating its cloud services to offer voice-to-text conversion as well as the ability &amp;hellip;  &lt;a href=&#34;http://www.odwyerpr.com/story/public/8149/2017-01-05/google-hires-lobbying-help-for-ai-efforts.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.odwyerpr.com/story/public/8149/2017-01-05/google-hires-lobbying-help-for-ai-efforts.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 05 Jan 2017 13:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2017 13:20:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Connecting MySQL Client Using IP Addresses</title>
+      <link>//cloudfeed.net/post/connecting-mysql-client-using-ip-addresses/</link>
+      <pubDate>Thu, 05 Jan 2017 13:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/connecting-mysql-client-using-ip-addresses/</guid>
+      <description>&lt;p&gt;your client machine or in the Cloud Shell, to your Google Cloud SQL &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/sql/docs/mysql/connect-admin-ip&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/sql/docs/mysql/connect-admin-ip&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Best of the OVH Summit 2016 in Paris, France</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/bitfury-group-to-launch-global-blockchain-business-council-gbbc-in-davos/</guid>
       <description>&lt;p&gt;Coinspeaker Blockchain technology company Bitfury Group together with international law company Covington will launch a new blockchain advocacy group later &amp;hellip;  &lt;a href=&#34;http://www.coinspeaker.com/2017/01/05/bitfury-group-launch-global-blockchain-business-council-gbbc-davos-january/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coinspeaker.com/2017/01/05/bitfury-group-launch-global-blockchain-business-council-gbbc-davos-january/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Call to switch to new distributed systems</title>
-      <link>//cloudfeed.net/post/call-to-switch-to-new-distributed-systems/</link>
-      <pubDate>Thu, 05 Jan 2017 11:40:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/call-to-switch-to-new-distributed-systems/</guid>
-      <description>&lt;p&gt;HYDERABAD: Blockchain, the technology behind Bitcoin crypto currency, can fetch multiple benefits, from cost savings, improved efficiency to &amp;hellip;  &lt;a href=&#34;http://www.thehindu.com/news/cities/Hyderabad/Call-to-switch-to-new-distributed-systems/article16994823.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thehindu.com/news/cities/Hyderabad/Call-to-switch-to-new-distributed-systems/article16994823.ece?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
