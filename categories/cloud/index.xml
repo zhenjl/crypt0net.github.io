@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 05 Jan 2017 20:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2017 21:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CES 2017: Microsoft Connected Vehicle is all about the cloud</title>
+      <link>//cloudfeed.net/post/ces-2017-microsoft-connected-vehicle-is-all-about-the-cloud/</link>
+      <pubDate>Thu, 05 Jan 2017 21:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/ces-2017-microsoft-connected-vehicle-is-all-about-the-cloud/</guid>
+      <description>&lt;p&gt;And on that note, the company has announced the new Azure-based cloud &amp;hellip; And there is a lot of progress for Microsoft in the connected car space.  &lt;a href=&#34;http://www.livemint.com/Leisure/DoQq3pEZlvvOJtXcPTK1LK/CES-2017-Microsoft-Connected-Vehicle-is-all-about-the-cloud.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.livemint.com/Leisure/DoQq3pEZlvvOJtXcPTK1LK/CES-2017-Microsoft-Connected-Vehicle-is-all-about-the-cloud.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Understanding the Structure of an Azure JSON File</title>
@@ -345,18 +357,6 @@
       
       <guid>//cloudfeed.net/post/connecting-mysql-client-using-ip-addresses/</guid>
       <description>&lt;p&gt;your client machine or in the Cloud Shell, to your Google Cloud SQL &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/sql/docs/mysql/connect-admin-ip&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/sql/docs/mysql/connect-admin-ip&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Best of the OVH Summit 2016 in Paris, France</title>
-      <link>//cloudfeed.net/post/best-of-the-ovh-summit-2016-in-paris-france/</link>
-      <pubDate>Thu, 05 Jan 2017 13:10:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/best-of-the-ovh-summit-2016-in-paris-france/</guid>
-      <description>&lt;p&gt;Summit in Paris, France, celebrating its communities that accomplish great &amp;hellip;  &lt;a href=&#34;http://blogs.vmware.com/vcloud/2017/01/best-ovh-summit-2016-paris-france.html&#34; onclick=&#34;trackOutboundLink(&#39;http://blogs.vmware.com/vcloud/2017/01/best-ovh-summit-2016-paris-france.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
