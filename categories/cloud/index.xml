@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 05 Jan 2017 19:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2017 20:30:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Understanding the Structure of an Azure JSON File</title>
+      <link>//cloudfeed.net/post/understanding-the-structure-of-an-azure-json-file/</link>
+      <pubDate>Thu, 05 Jan 2017 20:30:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/understanding-the-structure-of-an-azure-json-file/</guid>
+      <description>&lt;p&gt;Azure Resource Manager (ARM) enables operators, developers, and administrators to quickly deploy infrastructure as code to Microsoft Azure; this &amp;hellip;  &lt;a href=&#34;https://www.petri.com/understanding-structure-azure-json-file&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/understanding-structure-azure-json-file&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon.com, Inc. (AMZN) Shares Bought by BlackRock Japan Co. Ltd</title>
@@ -345,18 +357,6 @@
       
       <guid>//cloudfeed.net/post/best-of-the-ovh-summit-2016-in-paris-france/</guid>
       <description>&lt;p&gt;Summit in Paris, France, celebrating its communities that accomplish great &amp;hellip;  &lt;a href=&#34;http://blogs.vmware.com/vcloud/2017/01/best-ovh-summit-2016-paris-france.html&#34; onclick=&#34;trackOutboundLink(&#39;http://blogs.vmware.com/vcloud/2017/01/best-ovh-summit-2016-paris-france.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Actifio Lets Customers Move Faster To Microsoft Azure</title>
-      <link>//cloudfeed.net/post/actifio-lets-customers-move-faster-to-microsoft-azure/</link>
-      <pubDate>Thu, 05 Jan 2017 12:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/actifio-lets-customers-move-faster-to-microsoft-azure/</guid>
-      <description>&lt;p&gt;BOSTON, Jan. 5, 2017 /PRNewswire/ &amp;ndash; Actifio, the copy data virtualization company, today announced support of Microsoft Azure with the availability &amp;hellip;  &lt;a href=&#34;http://www.prnewswire.com/news-releases/actifio-lets-customers-move-faster-to-microsoft-azure-300385791.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prnewswire.com/news-releases/actifio-lets-customers-move-faster-to-microsoft-azure-300385791.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
