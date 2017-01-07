@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 07 Jan 2017 02:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jan 2017 02:40:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Is it OK to monitor privileged users?</title>
+      <link>//cloudfeed.net/post/is-it-ok-to-monitor-privileged-users/</link>
+      <pubDate>Sat, 07 Jan 2017 02:40:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/is-it-ok-to-monitor-privileged-users/</guid>
+      <description>&lt;p&gt;&amp;hellip; do this, and the reason people buy our solutions, is that privileged accounts are widely acknowledged as the biggest source of risk of data breaches.  &lt;a href=&#34;https://www.scmagazine.com/is-it-ok-to-monitor-privileged-users/article/629933/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.scmagazine.com/is-it-ok-to-monitor-privileged-users/article/629933/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Taps Azure To Elevate Windows Advanced Threat Protection</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/att-is-offering-internet-of-things-kits-for-aws-and-raspberry-pi/</guid>
       <description>&lt;p&gt;AT&amp;amp;T is going to begin offering developers special tools for further building out Internet of Things creations with two new versions. Kits for both &amp;hellip;  &lt;a href=&#34;https://www.geek.com/tech/att-is-offering-internet-of-things-kits-for-aws-and-raspberry-pi-1684673/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.geek.com/tech/att-is-offering-internet-of-things-kits-for-aws-and-raspberry-pi-1684673/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>7 Signs That Now Is the Time for Energy Harvesting</title>
-      <link>//cloudfeed.net/post/7-signs-that-now-is-the-time-for-energy-harvesting/</link>
-      <pubDate>Fri, 06 Jan 2017 20:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/7-signs-that-now-is-the-time-for-energy-harvesting/</guid>
-      <description>&lt;p&gt;2G and 3G cellular technologies support machine-to-machine applications, but do so using the same bandwidth and price points of cell phones.  &lt;a href=&#34;http://machinedesign.com/iot/7-signs-now-time-energy-harvesting&#34; onclick=&#34;trackOutboundLink(&#39;http://machinedesign.com/iot/7-signs-now-time-energy-harvesting&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
