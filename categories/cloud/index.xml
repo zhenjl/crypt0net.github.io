@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 11 Jan 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jan 2017 18:50:08 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Introduces New Cloud Encryption Key Management Service</title>
+      <link>//cloudfeed.net/post/google-introduces-new-cloud-encryption-key-management-service/</link>
+      <pubDate>Wed, 11 Jan 2017 18:50:08 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/google-introduces-new-cloud-encryption-key-management-service/</guid>
+      <description>&lt;p&gt;The new Google Cloud Platform service will allow enterprises to create, use and rotate encryption keys to protect their data, company says.  &lt;a href=&#34;http://www.eweek.com/cloud/google-rolls-out-new-hosted-encryption-key-management-service.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/google-rolls-out-new-hosted-encryption-key-management-service.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Survey: Google Cloud Most Popular Choice for SMBs</title>
+      <link>//cloudfeed.net/post/survey-google-cloud-most-popular-choice-for-smbs/</link>
+      <pubDate>Wed, 11 Jan 2017 18:50:08 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/survey-google-cloud-most-popular-choice-for-smbs/</guid>
+      <description>&lt;p&gt;A recent Clutch survey of 247 organizations showed that while powerhouse cloud providers Amazon Web Services (AWS) and Microsoft Azure tend to &amp;hellip;  &lt;a href=&#34;http://thevarguy.com/cloud-computing-services-and-business-solutions/survey-google-cloud-most-popular-choice-smbs&#34; onclick=&#34;trackOutboundLink(&#39;http://thevarguy.com/cloud-computing-services-and-business-solutions/survey-google-cloud-most-popular-choice-smbs&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TeleWare Achieves a Microsoft Gold Cloud Platform Competency</title>
+      <link>//cloudfeed.net/post/teleware-achieves-a-microsoft-gold-cloud-platform-competency/</link>
+      <pubDate>Wed, 11 Jan 2017 18:50:08 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/teleware-achieves-a-microsoft-gold-cloud-platform-competency/</guid>
+      <description>&lt;p&gt;To earn a Microsoft Gold competency, partners must successfully complete &amp;hellip; and analysis of a call completely through the Microsoft Azure platform.  &lt;a href=&#34;https://telecomreseller.com/2017/01/11/teleware-achieves-a-microsoft-gold-cloud-platform-competency/&#34; onclick=&#34;trackOutboundLink(&#39;https://telecomreseller.com/2017/01/11/teleware-achieves-a-microsoft-gold-cloud-platform-competency/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Jan 11, 2017</title>
@@ -228,18 +264,6 @@
     </item>
     
     <item>
-      <title>Survey: Google Cloud Most Popular Choice for SMBs</title>
-      <link>//cloudfeed.net/post/survey-google-cloud-most-popular-choice-for-smbs/</link>
-      <pubDate>Wed, 11 Jan 2017 17:50:11 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/survey-google-cloud-most-popular-choice-for-smbs/</guid>
-      <description>&lt;p&gt;A recent Clutch survey of 247 organizations showed that while powerhouse cloud providers Amazon Web Services (AWS) and Microsoft Azure tend to &amp;hellip;  &lt;a href=&#34;http://thevarguy.com/cloud-computing-services-and-business-solutions/survey-google-cloud-most-popular-choice-smbs&#34; onclick=&#34;trackOutboundLink(&#39;http://thevarguy.com/cloud-computing-services-and-business-solutions/survey-google-cloud-most-popular-choice-smbs&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>google-python-cloud-debugger 1.14</title>
       <link>//cloudfeed.net/post/googlepythonclouddebugger-114/</link>
       <pubDate>Wed, 11 Jan 2017 17:40:05 +0000</pubDate>
@@ -342,30 +366,6 @@
       
       <guid>//cloudfeed.net/post/its-now-possible-to-deploy-windows-10-desktops-on-microsoft-azure-with/</guid>
       <description>&lt;p&gt;Windows Report There, the company announced its new services which will allow Citrix and Microsoft clients to deploy Windows 10 desktops on Microsoft Azure, or to &amp;hellip;  &lt;a href=&#34;http://windowsreport.com/deploy-windows-10-desktops-microsoft-azure/&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsreport.com/deploy-windows-10-desktops-microsoft-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft To Direct First-Time Azure Buyers to Partners</title>
-      <link>//cloudfeed.net/post/microsoft-to-direct-firsttime-azure-buyers-to-partners/</link>
-      <pubDate>Wed, 11 Jan 2017 14:10:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-to-direct-firsttime-azure-buyers-to-partners/</guid>
-      <description>&lt;p&gt;Microsoft announced a licensing change this week that will affect first-time buyers of Azure services, starting next month. On Feb. 1, 2017, Microsoft &amp;hellip;  &lt;a href=&#34;https://redmondmag.com/articles/2017/01/11/first-time-azure-buyers-to-partners.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/articles/2017/01/11/first-time-azure-buyers-to-partners.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Details of Credit Suisse Outperform Rating on Amazon.com (AMZN)</title>
-      <link>//cloudfeed.net/post/details-of-credit-suisse-outperform-rating-on-amazoncom-amzn/</link>
-      <pubDate>Wed, 11 Jan 2017 14:00:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/details-of-credit-suisse-outperform-rating-on-amazoncom-amzn/</guid>
-      <description>&lt;p&gt;According to the SEC, on Nov 17, 2016, Andrew R Jassy (CEO Amazon Web Services) sold 2,305 shares at $734.40 per share price. On Nov 17, 2016 &amp;hellip;  &lt;a href=&#34;https://www.highlandmirror.com/details-of-credit-suisse-outperform-rating-on-amazon-com-amzn/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.highlandmirror.com/details-of-credit-suisse-outperform-rating-on-amazon-com-amzn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
