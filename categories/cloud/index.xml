@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 11 Jan 2017 18:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jan 2017 21:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Teradata launches Teradata Database on Microsoft Azure</title>
+      <link>//cloudfeed.net/post/teradata-launches-teradata-database-on-microsoft-azure/</link>
+      <pubDate>Wed, 11 Jan 2017 21:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/teradata-launches-teradata-database-on-microsoft-azure/</guid>
+      <description>&lt;p&gt;Teradata announced imminent availability of Teradata Database on Azure before 31st March 2017, providing customers more choice of cloud options &amp;hellip;  &lt;a href=&#34;http://www.dqindia.com/teradata-launches-teradata-database-on-microsoft-azure/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dqindia.com/teradata-launches-teradata-database-on-microsoft-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Introduces New Cloud Encryption Key Management Service</title>
@@ -354,18 +366,6 @@
       
       <guid>//cloudfeed.net/post/google-cloud-platform-gets-a-new-key-management-system-in-beta/</guid>
       <description>&lt;p&gt;A new key management service has been announced by Google today, for its cloud computing service popularly known as Google Cloud Platform &amp;hellip;  &lt;a href=&#34;http://thetechportal.com/2017/01/12/google-cloud-platform-beta/&#34; onclick=&#34;trackOutboundLink(&#39;http://thetechportal.com/2017/01/12/google-cloud-platform-beta/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>It&#39;s now possible to deploy Windows 10 desktops on Microsoft Azure with</title>
-      <link>//cloudfeed.net/post/its-now-possible-to-deploy-windows-10-desktops-on-microsoft-azure-with/</link>
-      <pubDate>Wed, 11 Jan 2017 14:10:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/its-now-possible-to-deploy-windows-10-desktops-on-microsoft-azure-with/</guid>
-      <description>&lt;p&gt;Windows Report There, the company announced its new services which will allow Citrix and Microsoft clients to deploy Windows 10 desktops on Microsoft Azure, or to &amp;hellip;  &lt;a href=&#34;http://windowsreport.com/deploy-windows-10-desktops-microsoft-azure/&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsreport.com/deploy-windows-10-desktops-microsoft-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
