@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 11 Jan 2017 22:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jan 2017 23:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>&#39;openstack-heat&#39; cluster provider misses &#39;domain-name&#39; for Keystone v3</title>
+      <link>//cloudfeed.net/post/openstackheat-cluster-provider-misses-domainname-for-keystone-v3/</link>
+      <pubDate>Wed, 11 Jan 2017 23:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstackheat-cluster-provider-misses-domainname-for-keystone-v3/</guid>
+      <description>&lt;p&gt;support of Keystone v3 &amp;lsquo;domain-name&amp;rsquo; to &amp;lsquo;openstack-heat&amp;rsquo; cluster setup # &amp;hellip;  &lt;a href=&#34;https://github.com/kubernetes/kubernetes/issues/39783&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/kubernetes/kubernetes/issues/39783&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Developing Solutions for Google Cloud Platform (CPD 200)</title>
+      <link>//cloudfeed.net/post/developing-solutions-for-google-cloud-platform-cpd-200/</link>
+      <pubDate>Wed, 11 Jan 2017 23:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/developing-solutions-for-google-cloud-platform-cpd-200/</guid>
+      <description>&lt;p&gt;Platform (CPD 200) training class from TechSherpas. We offer a variety of &amp;hellip;  &lt;a href=&#34;http://www.techsherpas.com/shop/uncategorized/developing-solutions-for-google-cloud-platform-cpd-200/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techsherpas.com/shop/uncategorized/developing-solutions-for-google-cloud-platform-cpd-200/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft doubles the write performance across all Azure SQL Database</title>
@@ -342,30 +366,6 @@
       
       <guid>//cloudfeed.net/post/the-internet-of-oysters-microsoft-azure-system-uses-underwater-sensors/</guid>
       <description>&lt;p&gt;GeekWire According to a Microsoft video, the data is sent to Microsoft&amp;rsquo;s Azure public-cloud service, where it&amp;rsquo;s processed by machine learning and advanced &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/internet-oysters-microsoft-azure-system-uses-underwater-sensors-ai-boost-shellfish-yields/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/internet-oysters-microsoft-azure-system-uses-underwater-sensors-ai-boost-shellfish-yields/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>&#39;force of nature,&#39; Ros Harvey uses tech for an internet of oysters,</title>
-      <link>//cloudfeed.net/post/force-of-nature-ros-harvey-uses-tech-for-an-internet-of-oysters/</link>
-      <pubDate>Wed, 11 Jan 2017 16:20:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/force-of-nature-ros-harvey-uses-tech-for-an-internet-of-oysters/</guid>
-      <description>&lt;p&gt;Harvey and her team used Microsoft&amp;rsquo;s Azure IoT Suite to power real-time sensors that sit in the oyster leases and analyze the water the oysters drink.  &lt;a href=&#34;https://blogs.microsoft.com/transform/feature/a-force-of-nature-ros-harvey-uses-tech-for-an-internet-of-oysters-sustainable-farming-and-better-working-conditions/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/transform/feature/a-force-of-nature-ros-harvey-uses-tech-for-an-internet-of-oysters-sustainable-farming-and-better-working-conditions/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AWS - Providing a platform for ISV innovation</title>
-      <link>//cloudfeed.net/post/aws--providing-a-platform-for-isv-innovation/</link>
-      <pubDate>Wed, 11 Jan 2017 16:20:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/aws--providing-a-platform-for-isv-innovation/</guid>
-      <description>&lt;p&gt;As chief advocates of the independent software vendor, Amazon Web Services head of channels and alliances, Stefan Jansen, outlines to how the &amp;hellip;  &lt;a href=&#34;http://www.arnnet.com.au/article/612092/aws-providing-platform-isv-innovation/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.arnnet.com.au/article/612092/aws-providing-platform-isv-innovation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
