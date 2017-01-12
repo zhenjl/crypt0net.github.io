@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 11 Jan 2017 23:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jan 2017 23:50:07 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AMAX becomes official Intel data center specialist</title>
+      <link>//cloudfeed.net/post/amax-becomes-official-intel-data-center-specialist/</link>
+      <pubDate>Wed, 11 Jan 2017 23:50:07 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amax-becomes-official-intel-data-center-specialist/</guid>
+      <description>&lt;p&gt;As a total solution provider, AMAX&amp;rsquo;s cloud offerings include its CloudMax OpenStack framework, a comprehensive and customizable OpenStack &amp;hellip;  &lt;a href=&#34;https://datacenternews.asia/story/amax-becomes-official-intel-data-center-specialist/&#34; onclick=&#34;trackOutboundLink(&#39;https://datacenternews.asia/story/amax-becomes-official-intel-data-center-specialist/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>&#39;openstack-heat&#39; cluster provider misses &#39;domain-name&#39; for Keystone v3</title>
@@ -354,18 +366,6 @@
       
       <guid>//cloudfeed.net/post/easystack-raises-50m-series-c-round-setting-new-single-round-record-in/</guid>
       <description>&lt;p&gt;Yahoo Finance 11, 2017 /PRNewswire/ &amp;ndash; EasyStack, the leading OpenStack open source cloud enterprise, announced that the company has closed a $50 million &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/easystack-raises-50m-series-c-130000728.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/easystack-raises-50m-series-c-130000728.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The &#39;internet of oysters&#39;: Microsoft Azure system uses underwater sensors</title>
-      <link>//cloudfeed.net/post/the-internet-of-oysters-microsoft-azure-system-uses-underwater-sensors/</link>
-      <pubDate>Wed, 11 Jan 2017 16:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/the-internet-of-oysters-microsoft-azure-system-uses-underwater-sensors/</guid>
-      <description>&lt;p&gt;GeekWire According to a Microsoft video, the data is sent to Microsoft&amp;rsquo;s Azure public-cloud service, where it&amp;rsquo;s processed by machine learning and advanced &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/internet-oysters-microsoft-azure-system-uses-underwater-sensors-ai-boost-shellfish-yields/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/internet-oysters-microsoft-azure-system-uses-underwater-sensors-ai-boost-shellfish-yields/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
