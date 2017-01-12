@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 11 Jan 2017 21:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jan 2017 22:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft doubles the write performance across all Azure SQL Database</title>
+      <link>//cloudfeed.net/post/microsoft-doubles-the-write-performance-across-all-azure-sql-database/</link>
+      <pubDate>Wed, 11 Jan 2017 22:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-doubles-the-write-performance-across-all-azure-sql-database/</guid>
+      <description>&lt;p&gt;MSPoweruser Microsoft today announced major performance improvements for its Azure SQL offering. They have doubled the write performance across all Azure &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-doubles-write-performance-across-azure-sql-database-offers/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-doubles-write-performance-across-azure-sql-database-offers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Teradata launches Teradata Database on Microsoft Azure</title>
@@ -354,18 +366,6 @@
       
       <guid>//cloudfeed.net/post/aws--providing-a-platform-for-isv-innovation/</guid>
       <description>&lt;p&gt;As chief advocates of the independent software vendor, Amazon Web Services head of channels and alliances, Stefan Jansen, outlines to how the &amp;hellip;  &lt;a href=&#34;http://www.arnnet.com.au/article/612092/aws-providing-platform-isv-innovation/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.arnnet.com.au/article/612092/aws-providing-platform-isv-innovation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud Platform gets a new key management system in beta</title>
-      <link>//cloudfeed.net/post/google-cloud-platform-gets-a-new-key-management-system-in-beta/</link>
-      <pubDate>Wed, 11 Jan 2017 16:10:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/google-cloud-platform-gets-a-new-key-management-system-in-beta/</guid>
-      <description>&lt;p&gt;A new key management service has been announced by Google today, for its cloud computing service popularly known as Google Cloud Platform &amp;hellip;  &lt;a href=&#34;http://thetechportal.com/2017/01/12/google-cloud-platform-beta/&#34; onclick=&#34;trackOutboundLink(&#39;http://thetechportal.com/2017/01/12/google-cloud-platform-beta/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
