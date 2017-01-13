@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Jan 2017 09:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jan 2017 10:30:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kubernetes Support in Azure Container Services</title>
+      <link>//cloudfeed.net/post/kubernetes-support-in-azure-container-services/</link>
+      <pubDate>Fri, 13 Jan 2017 10:30:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/kubernetes-support-in-azure-container-services/</guid>
+      <description>&lt;p&gt;In this episode of Azure Friday, Scott Hanselman is joined by Brendan Burns (Partner Architect, at Microsoft &amp;amp; Kubernetes co-founder) to talk about &amp;hellip;  &lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Kubernetes-Support-in-Azure-Container-Services&#34; onclick=&#34;trackOutboundLink(&#39;https://channel9.msdn.com/Shows/Azure-Friday/Kubernetes-Support-in-Azure-Container-Services&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Global Blockchain Market 2015 Share, Trend, Segmentation and Forecast to</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/comcast-business-provides-enterprise-customers-with-private-ethernet/</guid>
       <description>&lt;p&gt;Multichannel News Joining the Microsoft ExpressRoute partner program, Comcast Business is making the Azure ExpressRoute service available to its more than one &amp;hellip;  &lt;a href=&#34;http://www.multichannel.com/prfeed/comcast-business-provides-enterprise-customers-private-ethernet-connectivity-microsoft-cloud/410159&#34; onclick=&#34;trackOutboundLink(&#39;http://www.multichannel.com/prfeed/comcast-business-provides-enterprise-customers-private-ethernet-connectivity-microsoft-cloud/410159&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Open Sources Azure Media Services Live Monitoring Dashboard</title>
-      <link>//cloudfeed.net/post/microsoft-open-sources-azure-media-services-live-monitoring-dashboard/</link>
-      <pubDate>Fri, 13 Jan 2017 07:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-open-sources-azure-media-services-live-monitoring-dashboard/</guid>
-      <description>&lt;p&gt;The Live Monitoring Dashboard is now available as open source on GitHub. The web app allows Azure Media Services (AMS) customers to see the &amp;hellip;  &lt;a href=&#34;http://winbuzzer.com/2017/01/13/microsoft-open-sources-azure-media-services-live-monitoring-dashboard-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;http://winbuzzer.com/2017/01/13/microsoft-open-sources-azure-media-services-live-monitoring-dashboard-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

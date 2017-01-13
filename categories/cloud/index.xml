@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Jan 2017 09:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jan 2017 10:30:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kubernetes Support in Azure Container Services</title>
+      <link>//cloudfeed.net/post/kubernetes-support-in-azure-container-services/</link>
+      <pubDate>Fri, 13 Jan 2017 10:30:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/kubernetes-support-in-azure-container-services/</guid>
+      <description>&lt;p&gt;In this episode of Azure Friday, Scott Hanselman is joined by Brendan Burns (Partner Architect, at Microsoft &amp;amp; Kubernetes co-founder) to talk about &amp;hellip;  &lt;a href=&#34;https://channel9.msdn.com/Shows/Azure-Friday/Kubernetes-Support-in-Azure-Container-Services&#34; onclick=&#34;trackOutboundLink(&#39;https://channel9.msdn.com/Shows/Azure-Friday/Kubernetes-Support-in-Azure-Container-Services&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Buys Canadian Artificial Intelligence Startup for More Brainpower</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/in-pictures-amazons-takeover-of-westminster-station/</guid>
       <description>&lt;p&gt;&amp;hellip; with a new name, with existing signage being redesigned throughout the previous night to promote the recently-launched Amazon Web Services.  &lt;a href=&#34;http://www.eventmagazine.co.uk/pictures-amazons-takeover-westminster-station/brands/article/1420772&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eventmagazine.co.uk/pictures-amazons-takeover-westminster-station/brands/article/1420772&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft bins Azure pay-as-you-go model for new cloud customers</title>
-      <link>//cloudfeed.net/post/microsoft-bins-azure-payasyougo-model-for-new-cloud-customers/</link>
-      <pubDate>Fri, 13 Jan 2017 02:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-bins-azure-payasyougo-model-for-new-cloud-customers/</guid>
-      <description>&lt;p&gt;New customers heading to Microsoft Azure after the start of February will be guided towards the companies Cloud Solution Provider (CSP) programme &amp;hellip;  &lt;a href=&#34;http://www.cbronline.com/news/cloud/public/microsoft-bins-azure-pay-go-model-new-cloud-customers/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/cloud/public/microsoft-bins-azure-pay-go-model-new-cloud-customers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
