@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Jan 2017 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jan 2017 12:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Federation build/deploy too dependent on google cloud</title>
+      <link>//cloudfeed.net/post/federation-builddeploy-too-dependent-on-google-cloud/</link>
+      <pubDate>Fri, 13 Jan 2017 12:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/federation-builddeploy-too-dependent-on-google-cloud/</guid>
+      <description>&lt;p&gt;opened this Issue Jan 13, 2017  1 comment &amp;hellip;  &lt;a href=&#34;https://github.com/kubernetes/kubernetes/issues/39870&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/kubernetes/kubernetes/issues/39870&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mik Cox: NASA&#39;s Jet Propulsion Lab Explores Internet-of-Things Technology</title>
+      <link>//cloudfeed.net/post/mik-cox-nasas-jet-propulsion-lab-explores-internetofthings-technology/</link>
+      <pubDate>Fri, 13 Jan 2017 12:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/mik-cox-nasas-jet-propulsion-lab-explores-internetofthings-technology/</guid>
+      <description>&lt;p&gt;Samantha Ehlinger writes that Mik Cox, data scientist at JPL, said Wednesday at Amazon Web Services&amp;rsquo; re:Invent forum that although he believes IoT &amp;hellip;  &lt;a href=&#34;https://www.executivegov.com/2017/01/mik-cox-nasas-jet-propulsion-lab-explores-internet-of-things-technology/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.executivegov.com/2017/01/mik-cox-nasas-jet-propulsion-lab-explores-internet-of-things-technology/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Mobile Edge Computing Creates &#39;Tiny Data Centers&#39; at the Edge</title>
@@ -161,30 +185,6 @@
       
       <guid>//cloudfeed.net/post/comcast-corporation-nasdaqcmcsa-provides-enterprise-customers-with/</guid>
       <description>&lt;p&gt;Benchmark Monitor &amp;hellip; provides enterprise customers with private links to the Microsoft Cloud, including Microsoft Azure, Microsoft Office 365, and Microsoft Dynamics 365.  &lt;a href=&#34;http://www.benchmarkmonitor.com/2017/01/13/comcast-corporation-nasdaqcmcsa-provides-enterprise-customers-with-private-links-to-the-microsoft-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.benchmarkmonitor.com/2017/01/13/comcast-corporation-nasdaqcmcsa-provides-enterprise-customers-with-private-links-to-the-microsoft-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure SQL Database is increasing read and write performance</title>
-      <link>//cloudfeed.net/post/microsoft-azure-sql-database-is-increasing-read-and-write-performance/</link>
-      <pubDate>Fri, 13 Jan 2017 04:30:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-azure-sql-database-is-increasing-read-and-write-performance/</guid>
-      <description>&lt;p&gt;It is our pleasure to announce that we have doubled the write performance across all Azure SQL Database offers and additionally have doubled the &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/microsoft-azure-sql-database-is-increasing-read-and-write-performance/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+AllArticles+%28All+DABCC+Virtualization+%2F+Cloud+Computing+Resources+%28Citrix%2C+VMware%2C+and+Microsoft%29%29&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/microsoft-azure-sql-database-is-increasing-read-and-write-performance/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+AllArticles+%28All+DABCC+Virtualization+%2F+Cloud+Computing+Resources+%28Citrix%2C+VMware%2C+and+Microsoft%29%29&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Virtual Machine Internals  Part 1</title>
-      <link>//cloudfeed.net/post/microsoft-azure-virtual-machine-internals--part-1/</link>
-      <pubDate>Fri, 13 Jan 2017 03:00:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-azure-virtual-machine-internals--part-1/</guid>
-      <description>&lt;p&gt;Introduction The Azure cloud services are composed of elements from Compute, Storage, and Networking. The compute building block is a Virtual &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/microsoft-azure-virtual-machine-internals-part-1/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/microsoft-azure-virtual-machine-internals-part-1/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
