@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Jan 2017 08:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jan 2017 08:50:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google releases cloud encryption key beta</title>
+      <link>//cloudfeed.net/post/google-releases-cloud-encryption-key-beta/</link>
+      <pubDate>Fri, 13 Jan 2017 08:50:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/google-releases-cloud-encryption-key-beta/</guid>
+      <description>&lt;p&gt;According to the Google cloud blog, the Cloud KMS system uses the same Advanced Encryption Standard used internally at Google to encrypt &amp;hellip;  &lt;a href=&#34;https://thestack.com/cloud/2017/01/13/google-releases-cloud-encryption-key-beta/&#34; onclick=&#34;trackOutboundLink(&#39;https://thestack.com/cloud/2017/01/13/google-releases-cloud-encryption-key-beta/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>4Degrees offers access to business apps with Megaport</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/openstack-vendor-mirantis-offers-managed-opencontrail-sdn-services/</guid>
       <description>&lt;p&gt;That&amp;rsquo;s a fact that is not lost on OpenStack vendor Mirantis, which is why today Mirantis is announcing commercial support for OpenContrail.  &lt;a href=&#34;http://www.enterprisenetworkingplanet.com/datacenter/openstack-vendor-mirantis-offers-managed-opencontrail-sdn-services.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.enterprisenetworkingplanet.com/datacenter/openstack-vendor-mirantis-offers-managed-opencontrail-sdn-services.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure Analysis Services now available in Southeast Asia and East US 2</title>
-      <link>//cloudfeed.net/post/azure-analysis-services-now-available-in-southeast-asia-and-east-us-2/</link>
-      <pubDate>Thu, 12 Jan 2017 22:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/azure-analysis-services-now-available-in-southeast-asia-and-east-us-2/</guid>
-      <description>&lt;p&gt;which is built on the proven analytics engine in Microsoft SQL Server &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-analysis-services-now-available-in-southeast-asia-and-east-us-2/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/azure-analysis-services-now-available-in-southeast-asia-and-east-us-2/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
