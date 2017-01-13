@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 12 Jan 2017 20:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2017 21:10:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>com.microsoft.azure.sdk.iot.device.transport.mqtt</title>
+      <link>//cloudfeed.net/post/commicrosoftazuresdkiotdevicetransportmqtt/</link>
+      <pubDate>Thu, 12 Jan 2017 21:10:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/commicrosoftazuresdkiotdevicetransportmqtt/</guid>
+      <description>&lt;p&gt;batched messages to an IoT Hub. Buffers unsent messages until they are &amp;hellip;  &lt;a href=&#34;https://docs.microsoft.com/en-us/java/api/com.microsoft.azure.sdk.iot.device.transport.mqtt&#34; onclick=&#34;trackOutboundLink(&#39;https://docs.microsoft.com/en-us/java/api/com.microsoft.azure.sdk.iot.device.transport.mqtt&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain in Healthcare, a Rock Stars of Technology Event, to Premier at</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Amazon.com, Inc. (NASDAQ:AMZN) was upgraded by analysts at Vetr from a hold rating to a buy rating in a report issued on Wednesday. The firm &amp;hellip;  &lt;a href=&#34;http://dailyquint.com/2017-01-13-amazon-com-inc-amzn-lifted-to-buy-at-vetr-inc/&#34; onclick=&#34;trackOutboundLink(&#39;http://dailyquint.com/2017-01-13-amazon-com-inc-amzn-lifted-to-buy-at-vetr-inc/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>US Department of Commerce Issues IoT Advancement Guidelines</title>
-      <link>//cloudfeed.net/post/us-department-of-commerce-issues-iot-advancement-guidelines/</link>
-      <pubDate>Thu, 12 Jan 2017 18:50:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/us-department-of-commerce-issues-iot-advancement-guidelines/</guid>
-      <description>&lt;p&gt;Green Paper: Fostering the Advancement of the Internet of Things - January 12, 2017The Department of Commerce issues a green paper outlining &amp;hellip;  &lt;a href=&#34;http://www.circleid.com/posts/20170112_us_department_of_commerce_issues_iot_advancement_guidelines/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.circleid.com/posts/20170112_us_department_of_commerce_issues_iot_advancement_guidelines/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
