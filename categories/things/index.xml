@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 14 Jan 2017 08:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jan 2017 09:00:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Some problems with the MQTT publish / subscribr</title>
+      <link>//cloudfeed.net/post/some-problems-with-the-mqtt-publish--subscribr/</link>
+      <pubDate>Sat, 14 Jan 2017 09:00:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/some-problems-with-the-mqtt-publish--subscribr/</guid>
+      <description>&lt;p&gt;subsraibe messages on the staging.thethingsnetwork.org,I am following this link: &amp;hellip;  &lt;a href=&#34;https://www.thethingsnetwork.org/forum/t/some-problems-with-the-mqtt-publish-subscribr/4840&#34; onclick=&#34;trackOutboundLink(&#39;https://www.thethingsnetwork.org/forum/t/some-problems-with-the-mqtt-publish-subscribr/4840&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ericsson, China Mobile Cement IoT Partnership</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/video-manufacturers--who-owns-the-iiot-data-you-collect/</guid>
       <description>&lt;p&gt;that data and how it can be used has never been pertinent, particularly for &amp;hellip;  &lt;a href=&#34;http://www.theinternetofthings.eu/freddie-roberts-video-manufacturers-%E2%80%94-who-owns-iiot-data-you-collect&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theinternetofthings.eu/freddie-roberts-video-manufacturers-%E2%80%94-who-owns-iiot-data-you-collect&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>t0 Offers Non-US Hours Trading Platform for US Securities</title>
-      <link>//cloudfeed.net/post/t0-offers-nonus-hours-trading-platform-for-us-securities/</link>
-      <pubDate>Sat, 14 Jan 2017 05:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/t0-offers-nonus-hours-trading-platform-for-us-securities/</guid>
-      <description>&lt;p&gt;Blockchain firm t0.com is building an electronic marketplace to trade &amp;hellip; Trading System, which recently supported the issuance of blockchain equity in &amp;hellip;  &lt;a href=&#34;https://www.waterstechnology.com/sell-side-technology/news/2480319/t0-offers-non-us-hours-trading-platform-for-us-securities&#34; onclick=&#34;trackOutboundLink(&#39;https://www.waterstechnology.com/sell-side-technology/news/2480319/t0-offers-non-us-hours-trading-platform-for-us-securities&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
