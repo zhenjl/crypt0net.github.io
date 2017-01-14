@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Jan 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jan 2017 19:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>grpc-google-cloud-error-reporting-v1beta1 0.14.0</title>
+      <link>//cloudfeed.net/post/grpcgoogleclouderrorreportingv1beta1-0140/</link>
+      <pubDate>Fri, 13 Jan 2017 19:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/grpcgoogleclouderrorreportingv1beta1-0140/</guid>
+      <description>&lt;p&gt;the Stackdriver Error Reporting (v1beta1) service in the googleapis repository.  &lt;a href=&#34;https://pypi.python.org/pypi/grpc-google-cloud-error-reporting-v1beta1/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/grpc-google-cloud-error-reporting-v1beta1/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Jan 13, 2017</title>
@@ -303,18 +315,6 @@
       
       <guid>//cloudfeed.net/post/merging-soa-and-web-services-to-improve-microservices-management/</guid>
       <description>&lt;p&gt;Most interestingly, Amazon Web Services (AWS) Lambda is often linked with Amazon&amp;rsquo;s cloud workflow tools, and workflows may well be the future of &amp;hellip;  &lt;a href=&#34;http://searchsoa.techtarget.com/tip/Merging-SOA-and-web-services-to-improve-microservices-management&#34; onclick=&#34;trackOutboundLink(&#39;http://searchsoa.techtarget.com/tip/Merging-SOA-and-web-services-to-improve-microservices-management&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Netskope Report Reveals Half Of All Users Of Sanctioned Cloud Storage</title>
-      <link>//cloudfeed.net/post/netskope-report-reveals-half-of-all-users-of-sanctioned-cloud-storage/</link>
-      <pubDate>Fri, 13 Jan 2017 14:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/netskope-report-reveals-half-of-all-users-of-sanctioned-cloud-storage/</guid>
-      <description>&lt;p&gt;ISBuzz News IaaS on the rise: More than 90 per cent of Netskope customers use IaaS services like Amazon Web Services, Microsoft Azure, and Google Cloud &amp;hellip;  &lt;a href=&#34;http://www.informationsecuritybuzz.com/study-research/netskope-report-reveals-half-users-sanctioned-cloud-storage-services-personal-instance-service/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.informationsecuritybuzz.com/study-research/netskope-report-reveals-half-users-sanctioned-cloud-storage-services-personal-instance-service/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
