@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 14 Jan 2017 11:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jan 2017 12:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Relic Continues to Advance Cloud Adoption With New Offering on AWS</title>
+      <link>//cloudfeed.net/post/new-relic-continues-to-advance-cloud-adoption-with-new-offering-on-aws/</link>
+      <pubDate>Sat, 14 Jan 2017 12:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/new-relic-continues-to-advance-cloud-adoption-with-new-offering-on-aws/</guid>
+      <description>&lt;p&gt;Military Technologies Starting today, Amazon Web Services (AWS) customers will be able to purchase New Relic Infrastructure directly through AWS Marketplace, making it &amp;hellip;  &lt;a href=&#34;http://military-technologies.net/2017/01/14/new-relic-continues-to-advance-cloud-adoption-with-new-offering-on-aws-marketplace/&#34; onclick=&#34;trackOutboundLink(&#39;http://military-technologies.net/2017/01/14/new-relic-continues-to-advance-cloud-adoption-with-new-offering-on-aws-marketplace/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Azure and Office 365 gets DOD Level 5 PA</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-open-sources-azure-media-services-live-monitoring-dashboard/</guid>
       <description>&lt;p&gt;Microsoft is open-sourcing its Azure Media Services (AMS) Live Monitoring Dashboard on GitHub. This move brings the service to all users and allows &amp;hellip;  &lt;a href=&#34;https://winbuzzer.com/2017/01/13/microsoft-open-sources-azure-media-services-live-monitoring-dashboard-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/01/13/microsoft-open-sources-azure-media-services-live-monitoring-dashboard-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>grpc-google-cloud-error-reporting-v1beta1 0.14.0</title>
-      <link>//cloudfeed.net/post/grpcgoogleclouderrorreportingv1beta1-0140/</link>
-      <pubDate>Fri, 13 Jan 2017 19:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/grpcgoogleclouderrorreportingv1beta1-0140/</guid>
-      <description>&lt;p&gt;the Stackdriver Error Reporting (v1beta1) service in the googleapis repository.  &lt;a href=&#34;https://pypi.python.org/pypi/grpc-google-cloud-error-reporting-v1beta1/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/grpc-google-cloud-error-reporting-v1beta1/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
