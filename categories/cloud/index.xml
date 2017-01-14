@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Jan 2017 19:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jan 2017 20:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Open Sources Azure Media Services Live Monitoring Dashboard</title>
+      <link>//cloudfeed.net/post/microsoft-open-sources-azure-media-services-live-monitoring-dashboard/</link>
+      <pubDate>Fri, 13 Jan 2017 20:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-open-sources-azure-media-services-live-monitoring-dashboard/</guid>
+      <description>&lt;p&gt;Microsoft is open-sourcing its Azure Media Services (AMS) Live Monitoring Dashboard on GitHub. This move brings the service to all users and allows &amp;hellip;  &lt;a href=&#34;https://winbuzzer.com/2017/01/13/microsoft-open-sources-azure-media-services-live-monitoring-dashboard-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/01/13/microsoft-open-sources-azure-media-services-live-monitoring-dashboard-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>grpc-google-cloud-error-reporting-v1beta1 0.14.0</title>
@@ -303,18 +315,6 @@
       
       <guid>//cloudfeed.net/post/encryption-authentication-and-yeah-alligators-heres-how-google-secures/</guid>
       <description>&lt;p&gt;Talkin&amp;rsquo; Cloud The paper includes a section on securing the Google Cloud Platform. Nevertheless, it&amp;rsquo;s an interesting look at the way Google thinks about data center &amp;hellip;  &lt;a href=&#34;http://talkincloud.com/cloud-computing-security/encryption-authentication-and-yeah-alligators-here-s-how-google-secures-its&#34; onclick=&#34;trackOutboundLink(&#39;http://talkincloud.com/cloud-computing-security/encryption-authentication-and-yeah-alligators-here-s-how-google-secures-its&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Merging SOA and web services to improve microservices management</title>
-      <link>//cloudfeed.net/post/merging-soa-and-web-services-to-improve-microservices-management/</link>
-      <pubDate>Fri, 13 Jan 2017 14:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/merging-soa-and-web-services-to-improve-microservices-management/</guid>
-      <description>&lt;p&gt;Most interestingly, Amazon Web Services (AWS) Lambda is often linked with Amazon&amp;rsquo;s cloud workflow tools, and workflows may well be the future of &amp;hellip;  &lt;a href=&#34;http://searchsoa.techtarget.com/tip/Merging-SOA-and-web-services-to-improve-microservices-management&#34; onclick=&#34;trackOutboundLink(&#39;http://searchsoa.techtarget.com/tip/Merging-SOA-and-web-services-to-improve-microservices-management&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
