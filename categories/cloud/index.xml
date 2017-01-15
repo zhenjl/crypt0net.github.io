@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 15 Jan 2017 10:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jan 2017 11:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Understand default metrics for Azure IaaS VMs</title>
+      <link>//cloudfeed.net/post/understand-default-metrics-for-azure-iaas-vms/</link>
+      <pubDate>Sun, 15 Jan 2017 11:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/understand-default-metrics-for-azure-iaas-vms/</guid>
+      <description>&lt;p&gt;The exact metrics differ between Windows and Linux guests. &amp;hellip; amazing results in your environment, in non-Microsoft environments, and in Azure.  &lt;a href=&#34;http://windowsitpro.com/azure/understand-default-metrics-azure-iaas-vms&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsitpro.com/azure/understand-default-metrics-azure-iaas-vms&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Windows Powered Cars? Microsoft Makes Inroad in IoT for Autos</title>
@@ -228,18 +240,6 @@
       
       <guid>//cloudfeed.net/post/new-relic-continues-to-advance-cloud-adoption-with-new-offering-on-aws/</guid>
       <description>&lt;p&gt;Military Technologies Starting today, Amazon Web Services (AWS) customers will be able to purchase New Relic Infrastructure directly through AWS Marketplace, making it &amp;hellip;  &lt;a href=&#34;http://military-technologies.net/2017/01/14/new-relic-continues-to-advance-cloud-adoption-with-new-offering-on-aws-marketplace/&#34; onclick=&#34;trackOutboundLink(&#39;http://military-technologies.net/2017/01/14/new-relic-continues-to-advance-cloud-adoption-with-new-offering-on-aws-marketplace/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure and Office 365 gets DOD Level 5 PA</title>
-      <link>//cloudfeed.net/post/microsoft-azure-and-office-365-gets-dod-level-5-pa/</link>
-      <pubDate>Sat, 14 Jan 2017 11:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-azure-and-office-365-gets-dod-level-5-pa/</guid>
-      <description>&lt;p&gt;After finding security features of Microsoft cloud service satisfactory, the U.S. Department of Defense (DOD) has granted DOD Level 5 PA accreditation &amp;hellip;  &lt;a href=&#34;http://news.thewindowsclub.com/microsoft-azure-and-office-365-gets-dod-level-5-pa-88018/&#34; onclick=&#34;trackOutboundLink(&#39;http://news.thewindowsclub.com/microsoft-azure-and-office-365-gets-dod-level-5-pa-88018/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
