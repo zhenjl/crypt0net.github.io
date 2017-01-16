@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 16 Jan 2017 03:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jan 2017 04:00:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud Platform finally offers key management service</title>
+      <link>//cloudfeed.net/post/google-cloud-platform-finally-offers-key-management-service/</link>
+      <pubDate>Mon, 16 Jan 2017 04:00:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/google-cloud-platform-finally-offers-key-management-service/</guid>
+      <description>&lt;p&gt;Google is finally giving administrators the ability to manage their encryption keys in Google Cloud Platform (GCP) with its Cloud Key Management &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3157835/security/google-cloud-platform-finally-offers-key-management-service.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3157835/security/google-cloud-platform-finally-offers-key-management-service.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Government Cloud  Redefining Business Models for Improved Citizen Services</title>
@@ -213,18 +225,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-works-on-bringing-in-a-new-era-for-financial-services-industry/</guid>
       <description>&lt;p&gt;Microsoft provides its Azure and Blockchain as a Service offering to various financial institutions, enabling the industry&amp;rsquo;s digital transformation.  &lt;a href=&#34;http://www.newsbtc.com/2017/01/15/microsoft-financial-services-new-era/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newsbtc.com/2017/01/15/microsoft-financial-services-new-era/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Understand default metrics for Azure IaaS VMs</title>
-      <link>//cloudfeed.net/post/understand-default-metrics-for-azure-iaas-vms/</link>
-      <pubDate>Sun, 15 Jan 2017 11:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/understand-default-metrics-for-azure-iaas-vms/</guid>
-      <description>&lt;p&gt;The exact metrics differ between Windows and Linux guests. &amp;hellip; amazing results in your environment, in non-Microsoft environments, and in Azure.  &lt;a href=&#34;http://windowsitpro.com/azure/understand-default-metrics-azure-iaas-vms&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsitpro.com/azure/understand-default-metrics-azure-iaas-vms&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
