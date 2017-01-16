@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 15 Jan 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jan 2017 18:20:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>nova live-migration not observing availabilty zone boundary in Red Hat</title>
+      <link>//cloudfeed.net/post/nova-livemigration-not-observing-availabilty-zone-boundary-in-red-hat/</link>
+      <pubDate>Sun, 15 Jan 2017 18:20:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/nova-livemigration-not-observing-availabilty-zone-boundary-in-red-hat/</guid>
+      <description>&lt;p&gt;Environment. Red Hat OpenStack Platform 7.0; Red Hat OpenStack Platform 8.0 &amp;hellip; OpenStack Platform. Category; Migrate. Tags; openstack. Red Hat &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2840821&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2840821&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Jan 15, 2017</title>
@@ -215,73 +227,6 @@
       <description>&lt;p&gt;Satellite PR News (press release) The highly automated driving vehicle is capable of connecting with infrastructure, pedestrians and the Microsoft Azure Cloud to enable the vehicle to &amp;hellip;  &lt;a href=&#34;http://satprnews.com/2017/01/14/microsoft-nxp-semiconductors-iav-and-auto-mobility-partners-showcase-innovations-for-safe-secure-and-personalized-automated-driving-at-ces-2017-3/&#34; onclick=&#34;trackOutboundLink(&#39;http://satprnews.com/2017/01/14/microsoft-nxp-semiconductors-iav-and-auto-mobility-partners-showcase-innovations-for-safe-secure-and-personalized-automated-driving-at-ces-2017-3/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Cloud Computing News from @cloudfeednet - Jan 14, 2017</title>
-      <link>//cloudfeed.net/daily/daily-cloud-news-2017-01-14/</link>
-      <pubDate>Sat, 14 Jan 2017 18:05:01 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/daily/daily-cloud-news-2017-01-14/</guid>
-      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;grpc-google-cloud-error-reporting-v1beta1 0.14.0&lt;/h3&gt;
-&lt;p&gt;the Stackdriver Error Reporting (v1beta1) service in the googleapis repository.  &lt;a href=&#34;https://pypi.python.org/pypi/grpc-google-cloud-error-reporting-v1beta1/0.14.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/grpc-google-cloud-error-reporting-v1beta1/0.14.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Open Sources Azure Media Services Live Monitoring Dashboard&lt;/h3&gt;
-&lt;p&gt;Microsoft is open-sourcing its Azure Media Services (AMS) Live Monitoring Dashboard on GitHub. This move brings the service to all users and allows &amp;hellip;  &lt;a href=&#34;https://winbuzzer.com/2017/01/13/microsoft-open-sources-azure-media-services-live-monitoring-dashboard-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/01/13/microsoft-open-sources-azure-media-services-live-monitoring-dashboard-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Madrona Venture Group Names S. Somasegar Managing Director&lt;/h3&gt;
-&lt;p&gt;  &lt;a href=&#34;http://www.itnewsonline.com/bwi/Madrona-Venture-Group-Names-S.-Somasegar-Managing-Director/17458&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itnewsonline.com/bwi/Madrona-Venture-Group-Names-S.-Somasegar-Managing-Director/17458&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Mirantis to offer commercial support for OpenContrail SDN platform&lt;/h3&gt;
-&lt;p&gt;As Mirantis is moving away from the &amp;lsquo;pure-play OpenStack company&amp;rsquo; tagline, it&amp;rsquo;s adding more managed services to its resume to take on players like &amp;hellip;  &lt;a href=&#34;http://www.cio.com/article/3157411/open-source-tools/mirantis-to-offer-commercial-support-for-opencontrail-sdn-platform.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3157411/open-source-tools/mirantis-to-offer-commercial-support-for-opencontrail-sdn-platform.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The NJ State Employees Deferred Compensation Plan Maintains Stake in&lt;/h3&gt;
-&lt;p&gt;DailyQuint NJ State Employees Deferred Compensation Plan continued to hold its position in shares of Amazon.com, Inc. (NASDAQ:AMZN) during the third &amp;hellip;  &lt;a href=&#34;http://dailyquint.com/2017-01-14-nj-state-employees-deferred-compensation-plan-maintains-stake-in-amazon-com-inc-amzn/&#34; onclick=&#34;trackOutboundLink(&#39;http://dailyquint.com/2017-01-14-nj-state-employees-deferred-compensation-plan-maintains-stake-in-amazon-com-inc-amzn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;New partnership allows 4Degrees to offer direct connectivity public cloud&lt;/h3&gt;
-&lt;p&gt;Cartt.ca (subscription) According to the news release, companies will enjoy fast, secure, redundant access to business applications from ICT providers Microsoft (Azure, &amp;hellip;  &lt;a href=&#34;https://cartt.ca/article/new-partnership-allows-4degrees-offer-direct-connectivity-public-cloud-services&#34; onclick=&#34;trackOutboundLink(&#39;https://cartt.ca/article/new-partnership-allows-4degrees-offer-direct-connectivity-public-cloud-services&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Erase vApps through vCloud Director: Part 2&lt;/h3&gt;
-&lt;p&gt;vCenter Orchestrator workflows video.  &lt;a href=&#34;https://www.blancco.com/resources/vd-deploying-blancco-vcloud-solution-with-vcenter-orchestrator-workflows/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.blancco.com/resources/vd-deploying-blancco-vcloud-solution-with-vcenter-orchestrator-workflows/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;5 Companies That Came To Win This Week&lt;/h3&gt;
-&lt;p&gt;Topping this week&amp;rsquo;s roundup of companies that came to win is Microsoft, for making a significant change in its Azure cloud licensing policy that&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://www.crn.com/slide-shows/channel-programs/300083407/5-companies-that-came-to-win-this-week.htm?itc=most_pop&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/slide-shows/channel-programs/300083407/5-companies-that-came-to-win-this-week.htm?itc=most_pop&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blancco vCloud Eraser for VMware Data Centers&lt;/h3&gt;
-&lt;p&gt;Learn about Blancco vCloud Eraser for VMWare.  &lt;a href=&#34;https://www.blancco.com/resources/vd-blancco-virtual-rest-api-video-blancco-vcloud-eraser-for-vmware-data-centers/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.blancco.com/resources/vd-blancco-virtual-rest-api-video-blancco-vcloud-eraser-for-vmware-data-centers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Hitachi Consulting and Powershelf to Deliver Digital Technology Solution&lt;/h3&gt;
-&lt;p&gt;PR Web (press release) Hitachi Consulting&amp;rsquo;s new business models, Microsoft&amp;rsquo;s World Class Azure Platform and Powershelf&amp;rsquo;s innovative technology equals industry changing &amp;hellip;  &lt;a href=&#34;http://www.prweb.com/releases/2017/01/prweb13982147.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prweb.com/releases/2017/01/prweb13982147.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Azure, Office 365 Granted Accreditation by US Defense Department&lt;/h3&gt;
-&lt;p&gt;Owing to the Microsoft&amp;rsquo;s commitment in providing government customers the most complete, trusted and secure Cloud results, the US Department of &amp;hellip;  &lt;a href=&#34;http://www.news18.com/news/tech/microsoft-azure-office-365-granted-accreditation-by-us-defense-department-1335797.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.news18.com/news/tech/microsoft-azure-office-365-granted-accreditation-by-us-defense-department-1335797.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Mn Services Vermogensbeheer B.V. Boosts Stake in Amazon.com, Inc. (AMZN)&lt;/h3&gt;
-&lt;p&gt;Amazon.com logo Mn Services Vermogensbeheer B.V. increased its stake in Amazon.com, Inc. (NASDAQ:AMZN) by 2.1% during the third quarter, &amp;hellip;  &lt;a href=&#34;https://www.thecerbatgem.com/2017/01/14/mn-services-vermogensbeheer-b-v-boosts-stake-in-amazon-com-inc-amzn.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.thecerbatgem.com/2017/01/14/mn-services-vermogensbeheer-b-v-boosts-stake-in-amazon-com-inc-amzn.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;CANON U.S.A. INTRODUCES FOUR COMPACT PIXMA WIRELESS INKJET ALL-IN-ONE&lt;/h3&gt;
-&lt;p&gt;Military Technologies Further adding to the overall wireless capabilities of the PIXMA line of printers is Google Cloud Print, which allows users to send Gmail messages, file &amp;hellip;  &lt;a href=&#34;http://military-technologies.net/2017/01/14/canon-u-s-a-introduces-four-compact-pixma-wireless-inkjet-all-in-one-printers/&#34; onclick=&#34;trackOutboundLink(&#39;http://military-technologies.net/2017/01/14/canon-u-s-a-introduces-four-compact-pixma-wireless-inkjet-all-in-one-printers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The AWS Secret Formula for Success: High Profitability Despite Price Cuts&lt;/h3&gt;
-&lt;p&gt;That war is reportedly being promoted and executed by none other than current cloud leader Amazon Web Services. At 1redDrop, we wanted to know &amp;hellip;  &lt;a href=&#34;http://1reddrop.com/2017/01/14/aws-secret-formula-success-high-profitability-despite-price-cuts/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/01/14/aws-secret-formula-success-high-profitability-despite-price-cuts/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Azure and Office 365 gets DOD Level 5 PA&lt;/h3&gt;
-&lt;p&gt;After finding security features of Microsoft cloud service satisfactory, the U.S. Department of Defense (DOD) has granted DOD Level 5 PA accreditation &amp;hellip;  &lt;a href=&#34;http://news.thewindowsclub.com/microsoft-azure-and-office-365-gets-dod-level-5-pa-88018/&#34; onclick=&#34;trackOutboundLink(&#39;http://news.thewindowsclub.com/microsoft-azure-and-office-365-gets-dod-level-5-pa-88018/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;New Relic Continues to Advance Cloud Adoption With New Offering on AWS&lt;/h3&gt;
-&lt;p&gt;Military Technologies Starting today, Amazon Web Services (AWS) customers will be able to purchase New Relic Infrastructure directly through AWS Marketplace, making it &amp;hellip;  &lt;a href=&#34;http://military-technologies.net/2017/01/14/new-relic-continues-to-advance-cloud-adoption-with-new-offering-on-aws-marketplace/&#34; onclick=&#34;trackOutboundLink(&#39;http://military-technologies.net/2017/01/14/new-relic-continues-to-advance-cloud-adoption-with-new-offering-on-aws-marketplace/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;US defense department grants accreditation for Microsoft Azure, Office 365&lt;/h3&gt;
-&lt;p&gt;By gaining the DOD&amp;rsquo;s Level 5 Provisional Authority (PA) for the Department of Defense (DOD) regions of Microsoft Azure government and Office 365 &amp;hellip;  &lt;a href=&#34;http://wap.business-standard.com/article/news-ians/us-defense-department-grants-accreditation-for-microsoft-azure-office-365-117011400623_1.html&#34; onclick=&#34;trackOutboundLink(&#39;http://wap.business-standard.com/article/news-ians/us-defense-department-grants-accreditation-for-microsoft-azure-office-365-117011400623_1.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Porn Pirate Sites Use &amp;lsquo;Backdoor&amp;rsquo; to Host Videos on YouTube&lt;/h3&gt;
-&lt;p&gt;The latter suggests that videos are also uploaded to Google&amp;rsquo;s cloud hosting service, Drive. For pirate streaming sites the trick provides a cheap way to &amp;hellip;  &lt;a href=&#34;https://torrentfreak.com/porn-pirate-sites-use-backdoor-to-host-videos-on-youtube-170114/&#34; onclick=&#34;trackOutboundLink(&#39;https://torrentfreak.com/porn-pirate-sites-use-backdoor-to-host-videos-on-youtube-170114/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The Rathbone Brothers plc Boosts Stake in Amazon.com, Inc. (AMZN)&lt;/h3&gt;
-&lt;p&gt;Rathbone Brothers plc increased its position in shares of Amazon.com, Inc. (NASDAQ:AMZN) by 7.0% during the third quarter, Holdings Channel &amp;hellip;  &lt;a href=&#34;http://dailyquint.com/2017-01-14-rathbone-brothers-plc-boosts-stake-in-amazon-com-inc-amzn/&#34; onclick=&#34;trackOutboundLink(&#39;http://dailyquint.com/2017-01-14-rathbone-brothers-plc-boosts-stake-in-amazon-com-inc-amzn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     

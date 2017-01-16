@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 15 Jan 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jan 2017 18:20:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>nova live-migration not observing availabilty zone boundary in Red Hat</title>
+      <link>//cloudfeed.net/post/nova-livemigration-not-observing-availabilty-zone-boundary-in-red-hat/</link>
+      <pubDate>Sun, 15 Jan 2017 18:20:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/nova-livemigration-not-observing-availabilty-zone-boundary-in-red-hat/</guid>
+      <description>&lt;p&gt;Environment. Red Hat OpenStack Platform 7.0; Red Hat OpenStack Platform 8.0 &amp;hellip; OpenStack Platform. Category; Migrate. Tags; openstack. Red Hat &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2840821&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2840821&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Jan 15, 2017</title>
@@ -310,18 +322,6 @@
       <description>&lt;p&gt;Taxes, death and data breaches are now a fact of life. So how can businesses better protect themselves and manage the risks related to a data &amp;hellip;  &lt;a href=&#34;http://www.cso.com.au/article/612746/protecting-your-organisation-cyber-insurance-alone-enough/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cso.com.au/article/612746/protecting-your-organisation-cyber-insurance-alone-enough/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vodafone Qatar, QMIC launch fleet management service</title>
-      <link>//cloudfeed.net/post/vodafone-qatar-qmic-launch-fleet-management-service/</link>
-      <pubDate>Sun, 15 Jan 2017 12:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/vodafone-qatar-qmic-launch-fleet-management-service/</guid>
-      <description>&lt;p&gt;Vodafone was recently named by Gartner as a worldwide leader in the Magic Quadrant for Managed Machine-to-Machine (M2M) Services for the third &amp;hellip;  &lt;a href=&#34;http://www.gulf-times.com/story/528145/Vodafone-Qatar-QMIC-launch-fleet-management-servic&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gulf-times.com/story/528145/Vodafone-Qatar-QMIC-launch-fleet-management-servic&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

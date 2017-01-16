@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 15 Jan 2017 18:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jan 2017 18:20:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>nova live-migration not observing availabilty zone boundary in Red Hat</title>
+      <link>//cloudfeed.net/post/nova-livemigration-not-observing-availabilty-zone-boundary-in-red-hat/</link>
+      <pubDate>Sun, 15 Jan 2017 18:20:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/nova-livemigration-not-observing-availabilty-zone-boundary-in-red-hat/</guid>
+      <description>&lt;p&gt;Environment. Red Hat OpenStack Platform 7.0; Red Hat OpenStack Platform 8.0 &amp;hellip; OpenStack Platform. Category; Migrate. Tags; openstack. Red Hat &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2840821&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2840821&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Toyota marks break from past with fund for tech investments</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;The exact metrics differ between Windows and Linux guests. &amp;hellip; amazing results in your environment, in non-Microsoft environments, and in Azure.  &lt;a href=&#34;http://windowsitpro.com/azure/understand-default-metrics-azure-iaas-vms&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsitpro.com/azure/understand-default-metrics-azure-iaas-vms&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lessons Learned from 2016: It&#39;s Time to Address Internal Security Threats</title>
-      <link>//cloudfeed.net/post/lessons-learned-from-2016-its-time-to-address-internal-security-threats/</link>
-      <pubDate>Sun, 15 Jan 2017 11:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/lessons-learned-from-2016-its-time-to-address-internal-security-threats/</guid>
-      <description>&lt;p&gt;Healthcare Informatics (blog) And, at the risk of sounding like a broken record, a recent year-in-review report on health data breaches makes one thing quite clearhealthcare &amp;hellip;  &lt;a href=&#34;http://www.healthcare-informatics.com/blogs/heather-landi/cybersecurity/lessons-learned-2016-it-s-time-address-internal-security-threats&#34; onclick=&#34;trackOutboundLink(&#39;http://www.healthcare-informatics.com/blogs/heather-landi/cybersecurity/lessons-learned-2016-it-s-time-address-internal-security-threats&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
