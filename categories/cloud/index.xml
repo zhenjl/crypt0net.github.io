@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 16 Jan 2017 00:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jan 2017 01:00:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Huawei Re-elected to the OpenStack Foundation Board of Directors</title>
+      <link>//cloudfeed.net/post/huawei-reelected-to-the-openstack-foundation-board-of-directors/</link>
+      <pubDate>Mon, 16 Jan 2017 01:00:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/huawei-reelected-to-the-openstack-foundation-board-of-directors/</guid>
+      <description>&lt;p&gt;2017 OpenStack Foundation Board of Directors has confirmed that Huawei &amp;hellip;  &lt;a href=&#34;http://www.huawei.com/en/news/2017/1/OpenStack-Foundation-Board-Directors&#34; onclick=&#34;trackOutboundLink(&#39;http://www.huawei.com/en/news/2017/1/OpenStack-Foundation-Board-Directors&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cannot power on vCloud Director virtual machines with guest customization</title>
@@ -213,18 +225,6 @@
       
       <guid>//cloudfeed.net/post/google-release-zipkin-integration-with-stackdriver-trace-for-tracing/</guid>
       <description>&lt;p&gt;InfoQ.com Google Cloud Platform have released an open source Zipkin server that allows Zipkin-compatible clients to send traces to Google&amp;rsquo;s own Stackdriver &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2017/01/stackdriver-trace-zipkin&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2017/01/stackdriver-trace-zipkin&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Overvalued or not, Amazon.com stock value has surged</title>
-      <link>//cloudfeed.net/post/overvalued-or-not-amazoncom-stock-value-has-surged/</link>
-      <pubDate>Sun, 15 Jan 2017 06:50:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/overvalued-or-not-amazoncom-stock-value-has-surged/</guid>
-      <description>&lt;p&gt;However, the company has put together a string of profitable quarters on the back of its Amazon Web Services (AWS) division. Throughout the first &amp;hellip;  &lt;a href=&#34;http://www.spokesman.com/stories/2017/jan/15/overvalued-or-not-amazoncom-stock-value-has-surged/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.spokesman.com/stories/2017/jan/15/overvalued-or-not-amazoncom-stock-value-has-surged/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
