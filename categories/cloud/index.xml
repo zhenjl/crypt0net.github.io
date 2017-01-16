@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 16 Jan 2017 09:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jan 2017 11:00:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Storage Service now supports larger block blobs, incremental copy and</title>
+      <link>//cloudfeed.net/post/azure-storage-service-now-supports-larger-block-blobs-incremental-copy-and/</link>
+      <pubDate>Mon, 16 Jan 2017 11:00:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/azure-storage-service-now-supports-larger-block-blobs-incremental-copy-and/</guid>
+      <description>&lt;p&gt;MSPoweruser Microsoft last week released new capabilities for the Azure Storage Service. They announced increased block sizes of 100 MB, which allows block &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/azure-storage-service-now-supports-larger-block-blobs-incremental-copy/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/azure-storage-service-now-supports-larger-block-blobs-incremental-copy/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft sets out to make UK more efficient by launching Azure Automation</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/automating-security-in-the-cloud-modernizing-technology-governance-/</guid>
       <description>&lt;p&gt;Automating security in the cloud: Modernizing technology governance - Timothy Sandage (Amazon Web Services) by O&amp;rsquo;Reilly Media, Inc. Cloud &amp;hellip;  &lt;a href=&#34;https://www.safaribooksonline.com/library/view/the-oreilly-security/9781491960035/video287647.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.safaribooksonline.com/library/view/the-oreilly-security/9781491960035/video287647.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OneSoft Solutions Inc. Announces Major Milestone with the Commercial</title>
-      <link>//cloudfeed.net/post/onesoft-solutions-inc-announces-major-milestone-with-the-commercial/</link>
-      <pubDate>Mon, 16 Jan 2017 04:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/onesoft-solutions-inc-announces-major-milestone-with-the-commercial/</guid>
-      <description>&lt;p&gt;Marketwired (press release) We are now collaborating with Microsoft sales teams to get CIM to market, as an Azure-dependent SaaS solution. We are also very pleased that our &amp;hellip;  &lt;a href=&#34;http://www.marketwired.com/press-release/onesoft-solutions-inc-announces-major-milestone-with-commercial-release-new-software-tsx-venture-oss-2188503.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.marketwired.com/press-release/onesoft-solutions-inc-announces-major-milestone-with-commercial-release-new-software-tsx-venture-oss-2188503.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
