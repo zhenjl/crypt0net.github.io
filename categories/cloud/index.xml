@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 16 Jan 2017 21:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jan 2017 22:50:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bitdefender Security for Amazon Web Services</title>
+      <link>//cloudfeed.net/post/bitdefender-security-for-amazon-web-services/</link>
+      <pubDate>Mon, 16 Jan 2017 22:50:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/bitdefender-security-for-amazon-web-services/</guid>
+      <description>&lt;p&gt;solution specifically designed for the Amazon cloud infrastructure and &amp;hellip;  &lt;a href=&#34;https://www.bitdefender.com/business/aws-security.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.bitdefender.com/business/aws-security.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon&#39;s leading voice in the next big tech shift</title>
@@ -273,18 +285,6 @@
       
       <guid>//cloudfeed.net/post/openstack-community-elects-2017-board-of-directors/</guid>
       <description>&lt;p&gt;AUSTIN, Texas&amp;ndash;(BUSINESS WIRE)&amp;ndash;The OpenStack Foundation, the open infrastructure community comprised of 34,000+ voting members globally, &amp;hellip;  &lt;a href=&#34;http://www.businesswire.com/news/home/20170116005616/en/OpenStack-Community-Elects-2017-Board-Directors&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20170116005616/en/OpenStack-Community-Elects-2017-Board-Directors&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure Storage Service now supports larger block blobs, incremental copy and</title>
-      <link>//cloudfeed.net/post/azure-storage-service-now-supports-larger-block-blobs-incremental-copy-and/</link>
-      <pubDate>Mon, 16 Jan 2017 11:00:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/azure-storage-service-now-supports-larger-block-blobs-incremental-copy-and/</guid>
-      <description>&lt;p&gt;MSPoweruser Microsoft last week released new capabilities for the Azure Storage Service. They announced increased block sizes of 100 MB, which allows block &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/azure-storage-service-now-supports-larger-block-blobs-incremental-copy/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/azure-storage-service-now-supports-larger-block-blobs-incremental-copy/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
