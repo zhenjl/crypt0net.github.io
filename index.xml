@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 17 Jan 2017 11:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jan 2017 11:10:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adapting InfiniBand for High Performance Cloud Computing</title>
+      <link>//cloudfeed.net/post/adapting-infiniband-for-high-performance-cloud-computing/</link>
+      <pubDate>Tue, 17 Jan 2017 11:10:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/adapting-infiniband-for-high-performance-cloud-computing/</guid>
+      <description>&lt;p&gt;Of the three major public cloud offerings (Amazon Web Services, Google Cloud, and Microsoft Azure), only Azure currently has an InfiniBand offering.  &lt;a href=&#34;https://www.nextplatform.com/2017/01/17/adapting-infiniband-high-performance-cloud-computing/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.nextplatform.com/2017/01/17/adapting-infiniband-high-performance-cloud-computing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Endpoint detection and response industry illuminated by new report</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;How A.I. and blockchain are driving precision medicine in 2017 &amp;hellip; the FDA for partnership programs on artificial intelligence and blockchain show how &amp;hellip;  &lt;a href=&#34;http://www.cio.com/article/3157477/healthcare/how-ai-and-blockchain-are-driving-precision-medicine-in-2017.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3157477/healthcare/how-ai-and-blockchain-are-driving-precision-medicine-in-2017.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Massachusetts publishes archive of data breaches and personal security</title>
-      <link>//cloudfeed.net/post/massachusetts-publishes-archive-of-data-breaches-and-personal-security/</link>
-      <pubDate>Tue, 17 Jan 2017 09:00:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/massachusetts-publishes-archive-of-data-breaches-and-personal-security/</guid>
-      <description>&lt;p&gt;Legal News Line BOSTON (Legal Newsline)  Massachusetts-based victims of data breaches now have a new way to find out about how their personal information and &amp;hellip;  &lt;a href=&#34;http://legalnewsline.com/stories/511074302-massachusetts-publishes-archive-of-data-breaches-and-personal-security-violations&#34; onclick=&#34;trackOutboundLink(&#39;http://legalnewsline.com/stories/511074302-massachusetts-publishes-archive-of-data-breaches-and-personal-security-violations&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

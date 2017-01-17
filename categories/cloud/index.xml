@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 17 Jan 2017 10:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jan 2017 11:10:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Adapting InfiniBand for High Performance Cloud Computing</title>
+      <link>//cloudfeed.net/post/adapting-infiniband-for-high-performance-cloud-computing/</link>
+      <pubDate>Tue, 17 Jan 2017 11:10:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/adapting-infiniband-for-high-performance-cloud-computing/</guid>
+      <description>&lt;p&gt;Of the three major public cloud offerings (Amazon Web Services, Google Cloud, and Microsoft Azure), only Azure currently has an InfiniBand offering.  &lt;a href=&#34;https://www.nextplatform.com/2017/01/17/adapting-infiniband-high-performance-cloud-computing/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.nextplatform.com/2017/01/17/adapting-infiniband-high-performance-cloud-computing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Acuity Demonstrates Indoor Positioning and Smart Retail</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-corporation-data-privacy-could-send-msft-stock-soaring/</guid>
       <description>&lt;p&gt;Microsoft Corporation (NASDAQ:MSFT) is updating its Windows 10 software to put a greater focus on &amp;hellip; Azure is Microsoft&amp;rsquo;s cloud computing division.  &lt;a href=&#34;http://www.profitconfidential.com/stock/microsoft-corporation-data-privacy-send-msft-stock-soaring/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.profitconfidential.com/stock/microsoft-corporation-data-privacy-send-msft-stock-soaring/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Australian made robot designed to keep shelves fully stocked set to</title>
-      <link>//cloudfeed.net/post/australian-made-robot-designed-to-keep-shelves-fully-stocked-set-to/</link>
-      <pubDate>Tue, 17 Jan 2017 04:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/australian-made-robot-designed-to-keep-shelves-fully-stocked-set-to/</guid>
-      <description>&lt;p&gt;dailytelegraph.com.au At the same time the data collected is analysed in Microsoft Azure and shows what lines are racing off the shelves, and which are not selling as fast &amp;hellip;  &lt;a href=&#34;http://www.dailytelegraph.com.au/newslocal/manly-daily/australian-made-robot-designed-to-keep-shelves-fully-stocked-set-to-revolutionise-the-retail-industry/news-story/ff69b51e94e2e196e578085e41e306c0&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dailytelegraph.com.au/newslocal/manly-daily/australian-made-robot-designed-to-keep-shelves-fully-stocked-set-to-revolutionise-the-retail-industry/news-story/ff69b51e94e2e196e578085e41e306c0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
