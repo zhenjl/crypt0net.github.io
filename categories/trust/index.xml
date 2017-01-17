@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 17 Jan 2017 14:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jan 2017 15:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to handle security vulnerability reports</title>
+      <link>//cloudfeed.net/post/how-to-handle-security-vulnerability-reports/</link>
+      <pubDate>Tue, 17 Jan 2017 15:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/how-to-handle-security-vulnerability-reports/</guid>
+      <description>&lt;p&gt;Hunt runs haveibeenpwned.com, a website that helps people discover if any of their accounts have been compromised by data breaches. Because of &amp;hellip;  &lt;a href=&#34;http://www.computerworld.com/article/3158214/security/how-to-handle-security-vulnerability-reports.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computerworld.com/article/3158214/security/how-to-handle-security-vulnerability-reports.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Credential-Stuffing Attacks Take Enterprise Systems By Storm</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/protecting-your-healthcare-brand-by-investing-in-data-security/</guid>
       <description>&lt;p&gt;A recent Ponemon study, analyzing the cost of data breaches, found that the average cost of breaches at organizations have jumped past $4 million &amp;hellip;  &lt;a href=&#34;http://healthitsecurity.com/news/protecting-your-healthcare-brand-by-investing-in-data-security&#34; onclick=&#34;trackOutboundLink(&#39;http://healthitsecurity.com/news/protecting-your-healthcare-brand-by-investing-in-data-security&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Consumers hold businesses responsible for data breaches</title>
-      <link>//cloudfeed.net/post/consumers-hold-businesses-responsible-for-data-breaches/</link>
-      <pubDate>Tue, 17 Jan 2017 06:00:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/consumers-hold-businesses-responsible-for-data-breaches/</guid>
-      <description>&lt;p&gt;Consumers believe organisations holding their personal data should mostly be responsible for protecting it and not themselves, a study from Gemalto &amp;hellip;  &lt;a href=&#34;https://www.telecompaper.com/news/consumers-hold-businesses-responsible-for-data-breaches--1179841&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/consumers-hold-businesses-responsible-for-data-breaches--1179841&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
