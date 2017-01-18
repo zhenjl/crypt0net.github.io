@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 18 Jan 2017 12:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2017 12:50:09 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Elasticsearch ransomware attacks now number in the thousands</title>
+      <link>//cloudfeed.net/post/elasticsearch-ransomware-attacks-now-number-in-the-thousands/</link>
+      <pubDate>Wed, 18 Jan 2017 12:50:09 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/elasticsearch-ransomware-attacks-now-number-in-the-thousands/</guid>
+      <description>&lt;p&gt;These wide-open to attack instances are typically being deployed without much on Amazon Web Services (AWS) clouds. Perhaps the people &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/elasticsearch-ransomware-attacks-now-number-in-the-thousands/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/elasticsearch-ransomware-attacks-now-number-in-the-thousands/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New York City public datasets now available on Google BigQuery</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/why-2017-will-belong-to-open-source/</guid>
       <description>&lt;p&gt;OpenStack has already made its presence felt as an enterprise-class framework for the cloud. An independent study, commissioned by SUSE, reveals &amp;hellip;  &lt;a href=&#34;http://cio.economictimes.indiatimes.com/news/strategy-and-management/why-2017-will-belong-to-open-source/56646676&#34; onclick=&#34;trackOutboundLink(&#39;http://cio.economictimes.indiatimes.com/news/strategy-and-management/why-2017-will-belong-to-open-source/56646676&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ZTE Helps Velcom Build Fully Virtualized Core</title>
-      <link>//cloudfeed.net/post/zte-helps-velcom-build-fully-virtualized-core/</link>
-      <pubDate>Wed, 18 Jan 2017 07:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/zte-helps-velcom-build-fully-virtualized-core/</guid>
-      <description>&lt;p&gt;All legacy core network components  like HLR/HSS, EPC, MSC, PCRF  were migrated to a fully virtualized platform on OpenStack based NFV and &amp;hellip;  &lt;a href=&#34;http://www.lightreading.com/nfv/nfv-strategies/zte-helps-velcom-build-fully-virtualized-core/d/d-id/729654&#34; onclick=&#34;trackOutboundLink(&#39;http://www.lightreading.com/nfv/nfv-strategies/zte-helps-velcom-build-fully-virtualized-core/d/d-id/729654&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
