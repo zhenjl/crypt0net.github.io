@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 18 Jan 2017 04:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2017 04:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wanted: An Amazon fridge that automatically reorders food</title>
+      <link>//cloudfeed.net/post/wanted-an-amazon-fridge-that-automatically-reorders-food/</link>
+      <pubDate>Wed, 18 Jan 2017 04:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/wanted-an-amazon-fridge-that-automatically-reorders-food/</guid>
+      <description>&lt;p&gt;Hell, we could even lease an AWS Echo Fridge directly from Amazon which would double as a distributed Amazon Web Services server that also &amp;hellip;  &lt;a href=&#34;http://www.theverge.com/2017/1/18/14308352/amazon-echo-refrigerator-reorders-groceries&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theverge.com/2017/1/18/14308352/amazon-echo-refrigerator-reorders-groceries&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Aviatrix Closes $15 Million Series B Funding Led by CRV</title>
@@ -312,18 +324,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-makes-api-changes-to-azure-storage-service/</guid>
       <description>&lt;p&gt;Microsoft has released a number of API changes within its Azure Storage Service. The REST APIs for the service offer programmatic access to blob, &amp;hellip;  &lt;a href=&#34;https://www.programmableweb.com/news/microsoft-makes-api-changes-to-azure-storage-service/brief/2017/01/17&#34; onclick=&#34;trackOutboundLink(&#39;https://www.programmableweb.com/news/microsoft-makes-api-changes-to-azure-storage-service/brief/2017/01/17&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon opens &#39;machine translation&#39; office in Pittsburgh</title>
-      <link>//cloudfeed.net/post/amazon-opens-machine-translation-office-in-pittsburgh/</link>
-      <pubDate>Tue, 17 Jan 2017 14:50:08 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-opens-machine-translation-office-in-pittsburgh/</guid>
-      <description>&lt;p&gt;&amp;hellip; translation and in departments like Alexa, the digital assistant in Amazon&amp;rsquo;s Echo device, and Amazon Web Services, the company&amp;rsquo;s cloud-computing &amp;hellip;  &lt;a href=&#34;http://triblive.com/local/allegheny/11791236-74/amazon-pittsburgh-office&#34; onclick=&#34;trackOutboundLink(&#39;http://triblive.com/local/allegheny/11791236-74/amazon-pittsburgh-office&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
