@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 18 Jan 2017 08:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2017 08:10:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Grove IoT Developer Kit - Microsoft Azure Edition</title>
+      <link>//cloudfeed.net/post/grove-iot-developer-kit--microsoft-azure-edition/</link>
+      <pubDate>Wed, 18 Jan 2017 08:10:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/grove-iot-developer-kit--microsoft-azure-edition/</guid>
+      <description>&lt;p&gt;module, an Intel Edison for Arduino board, a Grove Base Shield, a set of &amp;hellip;  &lt;a href=&#34;http://wiki.seeed.cc/Grove_IoT_Developer_Kit-Microsoft_Azure_Edition/&#34; onclick=&#34;trackOutboundLink(&#39;http://wiki.seeed.cc/Grove_IoT_Developer_Kit-Microsoft_Azure_Edition/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CME Group Selects Gigamon Visibility Platform on Amazon Web Services</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/deploy-bigip-ve-in-aws/</guid>
       <description>&lt;p&gt;Here we&amp;rsquo;ll walk through how to create a simple single NIC (sometimes called one ARM) instance of BIG-IP VE in the Amazon Web Services console.  &lt;a href=&#34;http://news.sys-con.com/node/3988461&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/3988461&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>lnsideSales.com Raises $50 Million to Extend Global Leadership in AI-Driven</title>
-      <link>//cloudfeed.net/post/lnsidesalescom-raises-50-million-to-extend-global-leadership-in-aidriven/</link>
-      <pubDate>Wed, 18 Jan 2017 03:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/lnsidesalescom-raises-50-million-to-extend-global-leadership-in-aidriven/</guid>
-      <description>&lt;p&gt;Marketwired (press release) &amp;hellip; InsideSales plans to create versions of Playbooks that run on the Microsoft Dynamics 365 platform and integrate with Microsoft Azure cloud services.  &lt;a href=&#34;http://www.marketwired.com/press-release/lnsidesalescom-raises-50-million-extend-global-leadership-ai-driven-sales-acceleration-2189134.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.marketwired.com/press-release/lnsidesalescom-raises-50-million-extend-global-leadership-ai-driven-sales-acceleration-2189134.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
