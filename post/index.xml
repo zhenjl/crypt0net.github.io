@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 18 Jan 2017 10:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2017 10:50:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Real-Time Data Ingestion With PiCamera</title>
+      <link>//cloudfeed.net/post/realtime-data-ingestion-with-picamera/</link>
+      <pubDate>Wed, 18 Jan 2017 10:50:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/realtime-data-ingestion-with-picamera/</guid>
+      <description>&lt;p&gt;The most difficult part is the Python code, which reads from the camera, adds a watermark, converts the image to bytes, sends it through MQTT, and &amp;hellip;  &lt;a href=&#34;https://dzone.com/articles/picamera-ingest-real-time&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/picamera-ingest-real-time&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Canon announces three new imageRunner Advance MFPs</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/connecting-with-care-how-ready-is-healthcare-it-for-the-new-eu-data/</guid>
       <description>&lt;p&gt;ISBuzz News &amp;hellip; that power digital healthcare, while maintaining strong barriers to protect data, devices and networks from data breaches and cyber-threats.  &lt;a href=&#34;http://www.informationsecuritybuzz.com/articles/connecting-care-ready-healthcare-new-eu-data-regulations/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.informationsecuritybuzz.com/articles/connecting-care-ready-healthcare-new-eu-data-regulations/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tests Reveal the Best Antivirus for Windows 10</title>
-      <link>//cloudfeed.net/post/tests-reveal-the-best-antivirus-for-windows-10/</link>
-      <pubDate>Wed, 18 Jan 2017 09:00:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/tests-reveal-the-best-antivirus-for-windows-10/</guid>
-      <description>&lt;p&gt;Four security products included in the test achieved 17 points, including here Trend Micro Office Scan, Symantec Endpoint Protection, Seqrite &amp;hellip;  &lt;a href=&#34;http://news.softpedia.com/news/tests-reveal-the-best-antivirus-for-windows-10-511948.shtml&#34; onclick=&#34;trackOutboundLink(&#39;http://news.softpedia.com/news/tests-reveal-the-best-antivirus-for-windows-10-511948.shtml&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
