@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 18 Jan 2017 03:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2017 03:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deploy BIG-IP VE in AWS</title>
+      <link>//cloudfeed.net/post/deploy-bigip-ve-in-aws/</link>
+      <pubDate>Wed, 18 Jan 2017 03:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/deploy-bigip-ve-in-aws/</guid>
+      <description>&lt;p&gt;Here we&amp;rsquo;ll walk through how to create a simple single NIC (sometimes called one ARM) instance of BIG-IP VE in the Amazon Web Services console.  &lt;a href=&#34;http://news.sys-con.com/node/3988461&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/3988461&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>lnsideSales.com Raises $50 Million to Extend Global Leadership in AI-Driven</title>
@@ -312,18 +324,6 @@
       
       <guid>//cloudfeed.net/post/fintech-steemit-migrating-servers-to-amazon-unveils-ambitious-blockchain/</guid>
       <description>&lt;p&gt;Forbes As part of its plans Steemit is to migrate its servers this first quarter to Amazon Web Services (AWS), the world&amp;rsquo;s largest hosting provider. Steemit plugs &amp;hellip;  &lt;a href=&#34;http://www.forbes.com/sites/rogeraitken/2017/01/17/fintech-steemit-migrating-servers-to-amazon-unveils-blockchain-roadmap/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.forbes.com/sites/rogeraitken/2017/01/17/fintech-steemit-migrating-servers-to-amazon-unveils-blockchain-roadmap/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why Are We So Afraid Of Petabytes?</title>
-      <link>//cloudfeed.net/post/why-are-we-so-afraid-of-petabytes/</link>
-      <pubDate>Tue, 17 Jan 2017 14:00:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/why-are-we-so-afraid-of-petabytes/</guid>
-      <description>&lt;p&gt;Storing a petabyte in BigQuery has the same pricing as the rest of Google&amp;rsquo;s cloud storage offerings, down to around $10,000 a month per petabyte for &amp;hellip;  &lt;a href=&#34;http://www.forbes.com/sites/kalevleetaru/2017/01/17/why-are-we-so-afraid-of-petabytes/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.forbes.com/sites/kalevleetaru/2017/01/17/why-are-we-so-afraid-of-petabytes/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
