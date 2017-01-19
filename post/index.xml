@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Jan 2017 06:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jan 2017 06:20:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Send settings/rules etc. through MQTT (in JSON format)?</title>
+      <link>//cloudfeed.net/post/send-settingsrules-etc-through-mqtt-in-json-format/</link>
+      <pubDate>Thu, 19 Jan 2017 06:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/send-settingsrules-etc-through-mqtt-in-json-format/</guid>
+      <description>&lt;p&gt;like to update my nodes through MQTT instead of using the WebGUI. MQTT is &amp;hellip;  &lt;a href=&#34;http://www.letscontrolit.com/forum/viewtopic.php?t=2567&#34; onclick=&#34;trackOutboundLink(&#39;http://www.letscontrolit.com/forum/viewtopic.php?t=2567&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Training Thursdays: Stability and Performance with Oracle OpenStack</title>
+      <link>//cloudfeed.net/post/training-thursdays-stability-and-performance-with-oracle-openstack/</link>
+      <pubDate>Thu, 19 Jan 2017 06:20:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/training-thursdays-stability-and-performance-with-oracle-openstack/</guid>
+      <description>&lt;p&gt;customers expect for enterprise solutions and also aligns and integrates with &amp;hellip;  &lt;a href=&#34;https://blogs.oracle.com/linux/entry/training_thursdays_stability_and_performance&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.oracle.com/linux/entry/training_thursdays_stability_and_performance&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2016 Was a Record Year for Data Breaches</title>
@@ -163,30 +187,6 @@
       <description>&lt;p&gt;SYS-CON Media (press release) Cybersecurity for the Industrial Internet of Things (IIoT) began as a minor headache and quickly grew into a full-blown migraine. Data is the perhaps &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/3984300&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/3984300&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>VMware vSAN Two-Node Architecture Service Provider Use Cases</title>
-      <link>//cloudfeed.net/post/vmware-vsan-twonode-architecture-service-provider-use-cases/</link>
-      <pubDate>Thu, 19 Jan 2017 04:40:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/vmware-vsan-twonode-architecture-service-provider-use-cases/</guid>
-      <description>&lt;p&gt;Service Providers (vCAT-SP) blog series! On the third Thursday of the month, we &amp;hellip;  &lt;a href=&#34;https://blogs.vmware.com/vcloud/2017/01/vcan-vmware-vsan-two-node-architecture-service-provider-use-cases.html&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.vmware.com/vcloud/2017/01/vcan-vmware-vsan-two-node-architecture-service-provider-use-cases.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft highlights Best Practices to help Customers combat Cyber Threats</title>
-      <link>//cloudfeed.net/post/microsoft-highlights-best-practices-to-help-customers-combat-cyber-threats/</link>
-      <pubDate>Thu, 19 Jan 2017 04:30:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-highlights-best-practices-to-help-customers-combat-cyber-threats/</guid>
-      <description>&lt;p&gt;To mitigate Cyber threat problem, Microsoft has developed an automated platform, as part of Microsoft Azure, which provides a rapid response to a &amp;hellip;  &lt;a href=&#34;http://news.thewindowsclub.com/microsoft-combat-cyber-threats-88043/&#34; onclick=&#34;trackOutboundLink(&#39;http://news.thewindowsclub.com/microsoft-combat-cyber-threats-88043/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
