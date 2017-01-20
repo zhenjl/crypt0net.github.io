@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Jan 2017 10:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2017 11:30:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linux-based IoT gateway certified for Azure</title>
+      <link>//cloudfeed.net/post/linuxbased-iot-gateway-certified-for-azure/</link>
+      <pubDate>Fri, 20 Jan 2017 11:30:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/linuxbased-iot-gateway-certified-for-azure/</guid>
+      <description>&lt;p&gt;Other similar devices listed on Microsoft&amp;rsquo;s Azure Gluon page include Atmark&amp;rsquo;s Armadillo-IoT Gateway G2, SinTau&amp;rsquo;s SinTau-SrL-Gropius, Sinapsi&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://linuxgizmos.com/linux-based-iot-gateway-certified-for-azure/&#34; onclick=&#34;trackOutboundLink(&#39;http://linuxgizmos.com/linux-based-iot-gateway-certified-for-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft announces Azure Service Bus Messaging for improved public cloud</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/docker-113-officially-released-docker-for-aws-and-azure-ready-for/</guid>
       <description>&lt;p&gt;Softpedia News &amp;hellip; 1.13, the third major update of the open-source application container engine for GNU/Linux, macOS, and Microsoft Windows operating systems.  &lt;a href=&#34;http://news.softpedia.com/news/docker-1-13-officially-released-docker-for-aws-and-azure-ready-for-production-512021.shtml&#34; onclick=&#34;trackOutboundLink(&#39;http://news.softpedia.com/news/docker-1-13-officially-released-docker-for-aws-and-azure-ready-for-production-512021.shtml&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ESB-2017.0173 - [RedHat] openstack-cinder: Denial of service</title>
-      <link>//cloudfeed.net/post/esb20170173--redhat-openstackcinder-denial-of-service/</link>
-      <pubDate>Thu, 19 Jan 2017 23:10:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/esb20170173--redhat-openstackcinder-denial-of-service/</guid>
-      <description>&lt;p&gt;Enterprise Linux OpenStack Platform 5.0 (Icehouse) for RHEL 7. Red Hat &amp;hellip;  &lt;a href=&#34;http://www.auscert.org.au/render.html?it=43190&#34; onclick=&#34;trackOutboundLink(&#39;http://www.auscert.org.au/render.html?it=43190&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Jan 2017 11:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2017 11:30:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3 Lessons From The Yahoo Breach</title>
+      <link>//cloudfeed.net/post/3-lessons-from-the-yahoo-breach/</link>
+      <pubDate>Fri, 20 Jan 2017 11:30:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/3-lessons-from-the-yahoo-breach/</guid>
+      <description>&lt;p&gt;When it comes to breach detection and response, most enterprises today still rely on sifting through logs from network appliances such as firewalls &amp;hellip;  &lt;a href=&#34;http://www.darkreading.com/endpoint/3-lessons-from-the-yahoo-breach/a/d-id/1327916&#34; onclick=&#34;trackOutboundLink(&#39;http://www.darkreading.com/endpoint/3-lessons-from-the-yahoo-breach/a/d-id/1327916&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Endpoint Detection and Response Market Expected to Reach 2285.4 USD Million</title>
@@ -240,18 +252,6 @@
       
       <guid>//cloudfeed.net/post/advanced-digital-forensics-incident-response-and-threat-hunting/</guid>
       <description>&lt;p&gt;Advanced Incident Response and Threat Hunting Course &amp;hellip;  &lt;a href=&#34;https://www.sans.org/community/event/for508-columbia-21aug2017-evan-dygert&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sans.org/community/event/for508-columbia-21aug2017-evan-dygert&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Data Breaches Increase 40% in 2016</title>
-      <link>//cloudfeed.net/post/data-breaches-increase-40-in-2016/</link>
-      <pubDate>Thu, 19 Jan 2017 14:50:09 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/data-breaches-increase-40-in-2016/</guid>
-      <description>&lt;p&gt;There has been a 40% increase in data breaches compared to one year agoeven though from a headline perspective, 2015 seemed to be a bigger &amp;hellip;  &lt;a href=&#34;https://www.infosecurity-magazine.com/news/data-breaches-increase-40-in-2016/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infosecurity-magazine.com/news/data-breaches-increase-40-in-2016/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
