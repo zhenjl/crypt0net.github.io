@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Jan 2017 22:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jan 2017 23:10:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ESB-2017.0173 - [RedHat] openstack-cinder: Denial of service</title>
+      <link>//cloudfeed.net/post/esb20170173--redhat-openstackcinder-denial-of-service/</link>
+      <pubDate>Thu, 19 Jan 2017 23:10:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/esb20170173--redhat-openstackcinder-denial-of-service/</guid>
+      <description>&lt;p&gt;Enterprise Linux OpenStack Platform 5.0 (Icehouse) for RHEL 7. Red Hat &amp;hellip;  &lt;a href=&#34;http://www.auscert.org.au/render.html?it=43190&#34; onclick=&#34;trackOutboundLink(&#39;http://www.auscert.org.au/render.html?it=43190&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Location &amp; Availability for: Microsoft Azure : planning, deploying, a</title>
@@ -303,18 +315,6 @@
       
       <guid>//cloudfeed.net/post/google-appoints-new-channel-chief-to-lead-cloud-charge/</guid>
       <description>&lt;p&gt;Yansouni, who previously led the partner program at big data startup Cloudera, joined Google in November as a member of the Google Cloud &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/cloud/300083471/google-appoints-new-channel-chief-to-lead-cloud-charge.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300083471/google-appoints-new-channel-chief-to-lead-cloud-charge.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft pitches inventory management tools for retail omnichannel</title>
-      <link>//cloudfeed.net/post/microsoft-pitches-inventory-management-tools-for-retail-omnichannel/</link>
-      <pubDate>Thu, 19 Jan 2017 14:50:09 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-pitches-inventory-management-tools-for-retail-omnichannel/</guid>
-      <description>&lt;p&gt;The system links a basic vending machine to Microsoft&amp;rsquo;s Azure IoT Suite, Cortana Intelligence Suite, and Power BI technology, creating a platform that &amp;hellip;  &lt;a href=&#34;http://www.dcvelocity.com/articles/20170119-microsoft-pitches-inventory-management-tools-for-retail-omnichannel/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dcvelocity.com/articles/20170119-microsoft-pitches-inventory-management-tools-for-retail-omnichannel/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
