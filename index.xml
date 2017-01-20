@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Jan 2017 15:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jan 2017 16:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Makes Audit Logging Easier Across Cloud Stack</title>
+      <link>//cloudfeed.net/post/google-makes-audit-logging-easier-across-cloud-stack/</link>
+      <pubDate>Thu, 19 Jan 2017 16:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/google-makes-audit-logging-easier-across-cloud-stack/</guid>
+      <description>&lt;p&gt;Google&amp;rsquo;s Cloud Audit Logging technology will enable customers to track administrator and data access activity across a majority of Google&amp;rsquo;s cloud &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/google-makes-audit-logging-technology-available-across-cloud-stack.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/google-makes-audit-logging-technology-available-across-cloud-stack.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Clear Linux OS now available in Azure Marketplace</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;The system links a basic vending machine to Microsoft&amp;rsquo;s Azure IoT Suite, Cortana Intelligence Suite, and Power BI technology, creating a platform that &amp;hellip;  &lt;a href=&#34;http://www.dcvelocity.com/articles/20170119-microsoft-pitches-inventory-management-tools-for-retail-omnichannel/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dcvelocity.com/articles/20170119-microsoft-pitches-inventory-management-tools-for-retail-omnichannel/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Biggest and Most Impactful Data Breaches of 2016</title>
-      <link>//cloudfeed.net/post/the-biggest-and-most-impactful-data-breaches-of-2016/</link>
-      <pubDate>Thu, 19 Jan 2017 14:50:09 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/the-biggest-and-most-impactful-data-breaches-of-2016/</guid>
-      <description>&lt;p&gt;look back at some of the biggest and most damaging data breaches of &amp;hellip;  &lt;a href=&#34;https://digitalguardian.com/blog/biggest-and-most-impactful-data-breaches-2016&#34; onclick=&#34;trackOutboundLink(&#39;https://digitalguardian.com/blog/biggest-and-most-impactful-data-breaches-2016&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
