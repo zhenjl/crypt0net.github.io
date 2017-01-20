@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Jan 2017 23:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2017 01:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introducing: Microsoft Azure Data Lake Tools for Visual Studio Code</title>
+      <link>//cloudfeed.net/post/introducing-microsoft-azure-data-lake-tools-for-visual-studio-code/</link>
+      <pubDate>Fri, 20 Jan 2017 01:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/introducing-microsoft-azure-data-lake-tools-for-visual-studio-code/</guid>
+      <description>&lt;p&gt;Code, an extension for developing U-SQL projects against Microsoft Azure &amp;hellip;  &lt;a href=&#34;https://blogs.msdn.microsoft.com/azuredatalake/2017/01/20/microsoft-azure-data-lake-tools-for-visual-studio-code/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.msdn.microsoft.com/azuredatalake/2017/01/20/microsoft-azure-data-lake-tools-for-visual-studio-code/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Docker 1.13 Officially Released, Docker for AWS and Azure Ready for</title>
@@ -303,18 +315,6 @@
       
       <guid>//cloudfeed.net/post/google-appoints-new-chief-to-lead-steppedup-cloud-charge/</guid>
       <description>&lt;p&gt;Apple, in fact, became Google&amp;rsquo;s biggest customer ever, taking hundreds of millions in revenue from rival Amazon Web Services. The deal marked a &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/cloud/300083471/google-appoints-new-chief-to-lead-stepped-up-cloud-charge.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300083471/google-appoints-new-chief-to-lead-stepped-up-cloud-charge.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mirantis Supports OpenContrail SDN, Partners on NFV Project</title>
-      <link>//cloudfeed.net/post/mirantis-supports-opencontrail-sdn-partners-on-nfv-project/</link>
-      <pubDate>Thu, 19 Jan 2017 15:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/mirantis-supports-opencontrail-sdn-partners-on-nfv-project/</guid>
-      <description>&lt;p&gt;The 18-year-old Sunnyvale, Calif., company is a champion of the OpenStack project, which provides open source software for creating private and &amp;hellip;  &lt;a href=&#34;https://virtualizationreview.com/articles/2017/01/19/mirantis-sdn-nfv.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://virtualizationreview.com/articles/2017/01/19/mirantis-sdn-nfv.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
