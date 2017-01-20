@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Jan 2017 16:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jan 2017 17:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Automated Partition Management with Azure Analysis Services</title>
+      <link>//cloudfeed.net/post/automated-partition-management-with-azure-analysis-services/</link>
+      <pubDate>Thu, 19 Jan 2017 17:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/automated-partition-management-with-azure-analysis-services/</guid>
+      <description>&lt;p&gt;highly-compressed, in-memory cache for optimized query performance. This provides fast &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-as-automated-partition-management/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/azure-as-automated-partition-management/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Makes Audit Logging Easier Across Cloud Stack</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/first-look-microsoft-azure-monitor-preview/</guid>
       <description>&lt;p&gt;Based on an evaluation of the preview release, Microsoft&amp;rsquo;s new Azure Monitor will give administrators analytics, troubleshooting data, metrics and logs &amp;hellip;  &lt;a href=&#34;https://redmondmag.com/articles/2017/01/01/monitor-with-deeper-views.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/articles/2017/01/01/monitor-with-deeper-views.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with the Azure Security Center</title>
-      <link>//cloudfeed.net/post/getting-started-with-the-azure-security-center/</link>
-      <pubDate>Thu, 19 Jan 2017 09:30:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/getting-started-with-the-azure-security-center/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s worth noting that the Microsoft Security Response Center (MSRC) monitors the Azure network and infrastructure, plus it receives threat intelligence &amp;hellip;  &lt;a href=&#34;https://www.petri.com/getting-started-azure-security-center&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/getting-started-azure-security-center&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
