@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Jan 2017 11:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2017 12:20:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>proto-google-cloud-functions-v1beta2 0.15.0</title>
+      <link>//cloudfeed.net/post/protogooglecloudfunctionsv1beta2-0150/</link>
+      <pubDate>Fri, 20 Jan 2017 12:20:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/protogooglecloudfunctionsv1beta2-0150/</guid>
+      <description>&lt;p&gt;Cloud Functions API. proto-google-cloud-functions-v1beta2 is the &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/proto-google-cloud-functions-v1beta2/0.15.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/proto-google-cloud-functions-v1beta2/0.15.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Linux-based IoT gateway certified for Azure</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/introducing-microsoft-azure-data-lake-tools-for-visual-studio-code/</guid>
       <description>&lt;p&gt;Code, an extension for developing U-SQL projects against Microsoft Azure &amp;hellip;  &lt;a href=&#34;https://blogs.msdn.microsoft.com/azuredatalake/2017/01/20/microsoft-azure-data-lake-tools-for-visual-studio-code/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.msdn.microsoft.com/azuredatalake/2017/01/20/microsoft-azure-data-lake-tools-for-visual-studio-code/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Docker 1.13 Officially Released, Docker for AWS and Azure Ready for</title>
-      <link>//cloudfeed.net/post/docker-113-officially-released-docker-for-aws-and-azure-ready-for/</link>
-      <pubDate>Thu, 19 Jan 2017 23:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/docker-113-officially-released-docker-for-aws-and-azure-ready-for/</guid>
-      <description>&lt;p&gt;Softpedia News &amp;hellip; 1.13, the third major update of the open-source application container engine for GNU/Linux, macOS, and Microsoft Windows operating systems.  &lt;a href=&#34;http://news.softpedia.com/news/docker-1-13-officially-released-docker-for-aws-and-azure-ready-for-production-512021.shtml&#34; onclick=&#34;trackOutboundLink(&#39;http://news.softpedia.com/news/docker-1-13-officially-released-docker-for-aws-and-azure-ready-for-production-512021.shtml&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
