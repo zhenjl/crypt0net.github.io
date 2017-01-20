@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Jan 2017 08:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2017 08:40:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A dash of Salt(Stack): Using Salt for better OpenStack, Kubernetes, and</title>
+      <link>//cloudfeed.net/post/a-dash-of-saltstack-using-salt-for-better-openstack-kubernetes-and/</link>
+      <pubDate>Fri, 20 Jan 2017 08:40:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/a-dash-of-saltstack-using-salt-for-better-openstack-kubernetes-and/</guid>
+      <description>&lt;p&gt;Last week we presented an introduction to Salt and how it relates to OpenStack, K8s, etc. Here is the Q&amp;amp;A, including those we ran out of time for.  &lt;a href=&#34;https://www.mirantis.com/blog/a-dash-of-saltstack-using-salt-for-better-openstack-kubernetes-and-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/a-dash-of-saltstack-using-salt-for-better-openstack-kubernetes-and-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Advantech is Microsoft Global Internet of Things (IoT) Valued Partner</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/blockchain-technology--the-reformation-of-procurement-as-we-know-it/</guid>
       <description>&lt;p&gt;The reality of blockchains becoming the basic building blocks of tomorrow&amp;rsquo;s connected world is fast approaching. According to some, that day has &amp;hellip;  &lt;a href=&#34;http://spendmatters.com/2017/01/20/blockchain-technology-reformation-procurement-know/&#34; onclick=&#34;trackOutboundLink(&#39;http://spendmatters.com/2017/01/20/blockchain-technology-reformation-procurement-know/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Covisint Corporation to Announce Third Quarter Fiscal 2017 Earnings Results</title>
-      <link>//cloudfeed.net/post/covisint-corporation-to-announce-third-quarter-fiscal-2017-earnings-results/</link>
-      <pubDate>Fri, 20 Jan 2017 06:50:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/covisint-corporation-to-announce-third-quarter-fiscal-2017-earnings-results/</guid>
-      <description>&lt;p&gt;Yahoo Finance DETROIT, Jan. 19, 2017 (GLOBE NEWSWIRE) &amp;ndash; Covisint Corporation (COVS), the leading Cloud Platform for building Identity and Internet of Things &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/covisint-corporation-announce-third-quarter-230000682.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/covisint-corporation-announce-third-quarter-230000682.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
