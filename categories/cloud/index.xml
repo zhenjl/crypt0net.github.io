@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Jan 2017 12:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2017 12:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arccos and Microsoft Develop Virtual Caddie</title>
+      <link>//cloudfeed.net/post/arccos-and-microsoft-develop-virtual-caddie/</link>
+      <pubDate>Fri, 20 Jan 2017 12:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/arccos-and-microsoft-develop-virtual-caddie/</guid>
+      <description>&lt;p&gt;The key to the downloadable app technology is the Microsoft Azure cloud and Azure Machine Learning, a significant part of Microsoft Cortana &amp;hellip;  &lt;a href=&#34;http://scoregolf.com/blog/rick-young/arccos-and-microsoft-develop-virtual-caddie/&#34; onclick=&#34;trackOutboundLink(&#39;http://scoregolf.com/blog/rick-young/arccos-and-microsoft-develop-virtual-caddie/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>proto-google-cloud-functions-v1beta2 0.15.0</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/whos-cashing-in-on-containers-look-to-the-cloud/</guid>
       <description>&lt;p&gt;Buried in that partnership there&amp;rsquo;s significant money paid to Docker Inc., but Microsoft also wins by making Azure a premier destination to run Docker &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3159069/cloud-computing/whos-cashing-in-on-containers-look-to-the-cloud.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3159069/cloud-computing/whos-cashing-in-on-containers-look-to-the-cloud.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Introducing: Microsoft Azure Data Lake Tools for Visual Studio Code</title>
-      <link>//cloudfeed.net/post/introducing-microsoft-azure-data-lake-tools-for-visual-studio-code/</link>
-      <pubDate>Fri, 20 Jan 2017 01:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/introducing-microsoft-azure-data-lake-tools-for-visual-studio-code/</guid>
-      <description>&lt;p&gt;Code, an extension for developing U-SQL projects against Microsoft Azure &amp;hellip;  &lt;a href=&#34;https://blogs.msdn.microsoft.com/azuredatalake/2017/01/20/microsoft-azure-data-lake-tools-for-visual-studio-code/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.msdn.microsoft.com/azuredatalake/2017/01/20/microsoft-azure-data-lake-tools-for-visual-studio-code/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
