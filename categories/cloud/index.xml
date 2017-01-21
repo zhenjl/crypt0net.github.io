@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Jan 2017 18:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2017 22:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Print to Google Cloud Print from a Windows Computer</title>
+      <link>//cloudfeed.net/post/print-to-google-cloud-print-from-a-windows-computer/</link>
+      <pubDate>Fri, 20 Jan 2017 22:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/print-to-google-cloud-print-from-a-windows-computer/</guid>
+      <description>&lt;p&gt;driver to your computer&amp;rsquo;s printer list and allows you to print to any LTS &amp;hellip;  &lt;a href=&#34;http://lts.lehigh.edu/services/stepwise-instructions/print-google-cloud-print-windows-computer&#34; onclick=&#34;trackOutboundLink(&#39;http://lts.lehigh.edu/services/stepwise-instructions/print-google-cloud-print-windows-computer&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Power BI Gets Azure Active Directory Reports</title>
@@ -261,18 +273,6 @@
       
       <guid>//cloudfeed.net/post/amazon-web-services-passes-google-on-most-popular-list/</guid>
       <description>&lt;p&gt;Services built by Amazon Web Services, Amazon&amp;rsquo;s cloud-computing division, were the fourth most popular workplace web application in November, &amp;hellip;  &lt;a href=&#34;http://www.spokesman.com/stories/2017/jan/19/amazon-web-services-passes-google-on-most-popular-/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.spokesman.com/stories/2017/jan/19/amazon-web-services-passes-google-on-most-popular-/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A dash of Salt(Stack): Using Salt for better OpenStack, Kubernetes, and</title>
-      <link>//cloudfeed.net/post/a-dash-of-saltstack-using-salt-for-better-openstack-kubernetes-and/</link>
-      <pubDate>Fri, 20 Jan 2017 08:40:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/a-dash-of-saltstack-using-salt-for-better-openstack-kubernetes-and/</guid>
-      <description>&lt;p&gt;Last week we presented an introduction to Salt and how it relates to OpenStack, K8s, etc. Here is the Q&amp;amp;A, including those we ran out of time for.  &lt;a href=&#34;https://www.mirantis.com/blog/a-dash-of-saltstack-using-salt-for-better-openstack-kubernetes-and-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/a-dash-of-saltstack-using-salt-for-better-openstack-kubernetes-and-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
