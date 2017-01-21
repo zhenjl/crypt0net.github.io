@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Jan 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2017 18:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWS SDK for Java 1.11.81</title>
+      <link>//cloudfeed.net/post/aws-sdk-for-java-11181/</link>
+      <pubDate>Fri, 20 Jan 2017 18:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/aws-sdk-for-java-11181/</guid>
+      <description>&lt;p&gt;2016-04-12. Amazon CloudWatch Logs, 2014-03-28. AWS Health APIs &amp;hellip;  &lt;a href=&#34;https://aws.amazon.com/releasenotes/Java/4373558385153245&#34; onclick=&#34;trackOutboundLink(&#39;https://aws.amazon.com/releasenotes/Java/4373558385153245&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Jan 20, 2017</title>
@@ -261,18 +273,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-launches-azure-analysis-services-for-its-cloud-platform/</guid>
       <description>&lt;p&gt;Aimed to simplify data analysis, Azure Analysis Services can help businesses get on board without managing infrastructure and also scale resources &amp;hellip;  &lt;a href=&#34;http://www.bgr.in/news/microsoft-launches-azure-analysis-services-for-its-cloud-platform/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bgr.in/news/microsoft-launches-azure-analysis-services-for-its-cloud-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hybrid cloud in a box: Unboxing the Synology DS916&#43; super-NAS</title>
-      <link>//cloudfeed.net/post/hybrid-cloud-in-a-box-unboxing-the-synology-ds916-supernas/</link>
-      <pubDate>Fri, 20 Jan 2017 08:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/hybrid-cloud-in-a-box-unboxing-the-synology-ds916-supernas/</guid>
-      <description>&lt;p&gt;&amp;hellip; like Dropbox, Amazon Drive, Google Drive, and OneDrive, as well as Amazon S3, Microsoft Azure, Google Cloud Storage, and OpenStack Swift.  &lt;a href=&#34;http://www.zdnet.com/article/hybrid-cloud-in-a-box-unboxing-the-synology-ds916-super-nas/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/hybrid-cloud-in-a-box-unboxing-the-synology-ds916-super-nas/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
