@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Jan 2017 18:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2017 18:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Power BI Gets Azure Active Directory Reports</title>
+      <link>//cloudfeed.net/post/microsoft-power-bi-gets-azure-active-directory-reports/</link>
+      <pubDate>Fri, 20 Jan 2017 18:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-power-bi-gets-azure-active-directory-reports/</guid>
+      <description>&lt;p&gt;A new Microsoft Power BI capability is available today that adds enhanced Azure Active Directory reporting capabilities for organizations. The Azure &amp;hellip;  &lt;a href=&#34;https://redmondmag.com/articles/2017/01/20/power-bi-gets-azure-active-directory-reports.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/articles/2017/01/20/power-bi-gets-azure-active-directory-reports.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS SDK for Java 1.11.81</title>
@@ -261,18 +273,6 @@
       
       <guid>//cloudfeed.net/post/a-dash-of-saltstack-using-salt-for-better-openstack-kubernetes-and/</guid>
       <description>&lt;p&gt;Last week we presented an introduction to Salt and how it relates to OpenStack, K8s, etc. Here is the Q&amp;amp;A, including those we ran out of time for.  &lt;a href=&#34;https://www.mirantis.com/blog/a-dash-of-saltstack-using-salt-for-better-openstack-kubernetes-and-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/a-dash-of-saltstack-using-salt-for-better-openstack-kubernetes-and-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft launches &#39;Azure Analysis Services&#39; for its Cloud platform</title>
-      <link>//cloudfeed.net/post/microsoft-launches-azure-analysis-services-for-its-cloud-platform/</link>
-      <pubDate>Fri, 20 Jan 2017 08:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-launches-azure-analysis-services-for-its-cloud-platform/</guid>
-      <description>&lt;p&gt;Aimed to simplify data analysis, Azure Analysis Services can help businesses get on board without managing infrastructure and also scale resources &amp;hellip;  &lt;a href=&#34;http://www.bgr.in/news/microsoft-launches-azure-analysis-services-for-its-cloud-platform/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bgr.in/news/microsoft-launches-azure-analysis-services-for-its-cloud-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
