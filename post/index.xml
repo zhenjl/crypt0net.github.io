@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 21 Jan 2017 18:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jan 2017 19:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How can I move an ARM VM between availability sets</title>
+      <link>//cloudfeed.net/post/how-can-i-move-an-arm-vm-between-availability-sets/</link>
+      <pubDate>Sat, 21 Jan 2017 19:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/how-can-i-move-an-arm-vm-between-availability-sets/</guid>
+      <description>&lt;p&gt;There is a script at &lt;a href=&#34;https://gallery.technet.microsoft.com/Set-Azure-Resource-Manager-f7509ec4&#34;&gt;https://gallery.technet.microsoft.com/Set-Azure-Resource-Manager-f7509ec4&lt;/a&gt; which automates the described process but there is &amp;hellip;  &lt;a href=&#34;http://windowsitpro.com/azure/how-can-i-move-arm-vm-between-availability-sets&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsitpro.com/azure/how-can-i-move-arm-vm-between-availability-sets&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Register for Azure services with PowerShell</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/seven-trends-and-predictions-for-2017/</guid>
       <description>&lt;p&gt;Prediction: Internet of Things will move off the hype list and become a dominant technology in 2017. Adoption of IoT devices will exceed predictions, &amp;hellip;  &lt;a href=&#34;https://ctovision.com/seven-trends-predictions-2017/&#34; onclick=&#34;trackOutboundLink(&#39;https://ctovision.com/seven-trends-predictions-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IoT is coming to car manufacturing with big steps</title>
-      <link>//cloudfeed.net/post/iot-is-coming-to-car-manufacturing-with-big-steps/</link>
-      <pubDate>Sat, 21 Jan 2017 07:50:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/iot-is-coming-to-car-manufacturing-with-big-steps/</guid>
-      <description>&lt;p&gt;Implementing Internet-of-Things technologies on top of this landscape is vir- tually impossible, since the architecture of these systems date back to the &amp;hellip;  &lt;a href=&#34;http://www.automotiveit.com/iot-is-coming-to-car-manufacturing-with-big-steps/strategy/id-0051428&#34; onclick=&#34;trackOutboundLink(&#39;http://www.automotiveit.com/iot-is-coming-to-car-manufacturing-with-big-steps/strategy/id-0051428&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
