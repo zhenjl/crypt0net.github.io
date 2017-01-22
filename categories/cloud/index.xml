@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 21 Jan 2017 11:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jan 2017 16:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Improving Azure SQL Database Performance using In-Memory Technologies</title>
+      <link>//cloudfeed.net/post/improving-azure-sql-database-performance-using-inmemory-technologies/</link>
+      <pubDate>Sat, 21 Jan 2017 16:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/improving-azure-sql-database-performance-using-inmemory-technologies/</guid>
+      <description>&lt;p&gt;In late 2016, Microsoft announced the general availability (GA) of Azure SQL Database In-Memory technologies. In-Memory processing is only &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2017/01/Azure-SQL-DB-InMemory&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2017/01/Azure-SQL-DB-InMemory&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Cloud Connect London Meetup @ Gett</title>
@@ -261,18 +273,6 @@
       
       <guid>//cloudfeed.net/post/print-to-google-cloud-print-on-iphone-ipad-or-ipod/</guid>
       <description>&lt;p&gt;Drive app available for iPhones, iPads, and iPods. Download the Google &amp;hellip;  &lt;a href=&#34;http://lts.lehigh.edu/services/stepwise-instructions/print-google-cloud-print-iphone-ipad-or-ipod&#34; onclick=&#34;trackOutboundLink(&#39;http://lts.lehigh.edu/services/stepwise-instructions/print-google-cloud-print-iphone-ipad-or-ipod&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon.com (AMZN) : Elm Advisors Boosts Position by $988739</title>
-      <link>//cloudfeed.net/post/amazoncom-amzn--elm-advisors-boosts-position-by-988739/</link>
-      <pubDate>Fri, 20 Jan 2017 14:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazoncom-amzn--elm-advisors-boosts-position-by-988739/</guid>
-      <description>&lt;p&gt;On Nov 17, 2016, Andrew R Jassy (CEO Amazon Web Services) sold 2,305 shares at 734.40 per share price.On Nov 17, 2016, David Zapolsky &amp;hellip;  &lt;a href=&#34;https://www.themarketdigest.org/201701/amazon-com-amzn-elm-advisors-boosts-position-by-988739/3227071/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.themarketdigest.org/201701/amazon-com-amzn-elm-advisors-boosts-position-by-988739/3227071/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
