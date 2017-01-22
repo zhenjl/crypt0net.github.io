@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 21 Jan 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jan 2017 18:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Register for Azure services with PowerShell</title>
+      <link>//cloudfeed.net/post/register-for-azure-services-with-powershell/</link>
+      <pubDate>Sat, 21 Jan 2017 18:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/register-for-azure-services-with-powershell/</guid>
+      <description>&lt;p&gt;&amp;hellip; e.g. Get-AzureRmSubscription -SubscriptionName &amp;ldquo;Windows Azure Internal Consumption&amp;rdquo; | Select-AzureRmSubscription):.  &lt;a href=&#34;http://windowsitpro.com/azure/register-azure-services-powershell&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsitpro.com/azure/register-azure-services-powershell&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Jan 21, 2017</title>
@@ -286,18 +298,6 @@
       
       <guid>//cloudfeed.net/post/amazon-web-services-opens-second-latin-american-office-in-bogot/</guid>
       <description>&lt;p&gt;Amazon Web Services has opened its first office in Bogot. This makes Colombia home to the second Latin American office established by the online &amp;hellip;  &lt;a href=&#34;http://www.financecolombia.com/amazon-web-services-opens-second-latin-american-office-in-bogota-colombia/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.financecolombia.com/amazon-web-services-opens-second-latin-american-office-in-bogota-colombia/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AWS SDK for Java 1.11.82</title>
-      <link>//cloudfeed.net/post/aws-sdk-for-java-11182/</link>
-      <pubDate>Fri, 20 Jan 2017 16:10:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/aws-sdk-for-java-11182/</guid>
-      <description>&lt;p&gt;dedicated tenancy, providing the ability to run Spot instances &amp;hellip;  &lt;a href=&#34;https://aws.amazon.com/releasenotes/Java/6001466639362819&#34; onclick=&#34;trackOutboundLink(&#39;https://aws.amazon.com/releasenotes/Java/6001466639362819&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
