@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 23 Jan 2017 05:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2017 05:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Getting Started with Azure SQL Data Warehouse - Part 1</title>
+      <link>//cloudfeed.net/post/getting-started-with-azure-sql-data-warehouse--part-1/</link>
+      <pubDate>Mon, 23 Jan 2017 05:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/getting-started-with-azure-sql-data-warehouse--part-1/</guid>
+      <description>&lt;p&gt;Microsoft introduced Azure SQL Data Warehouse, a new enterprise-class, elastic petabyte-scale, data warehouse service that can scale according to &amp;hellip;  &lt;a href=&#34;http://www.databasejournal.com/features/mssql/getting-started-with-azure-sql-data-warehouse-part-1.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.databasejournal.com/features/mssql/getting-started-with-azure-sql-data-warehouse-part-1.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>10 new AWS cloud services you never expected</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;The challenge is working with organizations and changing mindsets and building up awareness of what&amp;rsquo;s possible with internet of things technology &amp;hellip;  &lt;a href=&#34;http://www.computerworld.com/article/3159723/internet-of-things/dublin-new-york-officials-cite-smart-tech-challenges-and-successes.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computerworld.com/article/3159723/internet-of-things/dublin-new-york-officials-cite-smart-tech-challenges-and-successes.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Visual Management Systems launches next generation of TITAN VISION PSIM</title>
-      <link>//cloudfeed.net/post/visual-management-systems-launches-next-generation-of-titan-vision-psim/</link>
-      <pubDate>Mon, 23 Jan 2017 03:00:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/visual-management-systems-launches-next-generation-of-titan-vision-psim/</guid>
-      <description>&lt;p&gt;SourceSecurity.com &amp;hellip; (TITAN VIEW) through to the flagship TITAN VISION and TITAN SECURE Physical Security Information Management (PSIM) solutions or the ultimate &amp;hellip;  &lt;a href=&#34;https://www.sourcesecurity.com/news/articles/visual-management-systems-next-generation-titan-vision-psim-portfolio-intersec-dubai-2017-co-11411-ga.22284.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sourcesecurity.com/news/articles/visual-management-systems-next-generation-titan-vision-psim-portfolio-intersec-dubai-2017-co-11411-ga.22284.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
