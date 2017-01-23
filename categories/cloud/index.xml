@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 23 Jan 2017 05:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2017 06:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Commvault Simplifies Data Management in the Cloud with Launch of Validated</title>
+      <link>//cloudfeed.net/post/commvault-simplifies-data-management-in-the-cloud-with-launch-of-validated/</link>
+      <pubDate>Mon, 23 Jan 2017 06:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/commvault-simplifies-data-management-in-the-cloud-with-launch-of-validated/</guid>
+      <description>&lt;p&gt;Yahoo Finance &amp;hellip; today launched new reference architectures for Amazon Web Services (AWS) to enable customers to simplify data protection and management with &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/commvault-simplifies-data-management-cloud-133000930.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/commvault-simplifies-data-management-cloud-133000930.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Getting Started with Azure SQL Data Warehouse - Part 1</title>
@@ -211,18 +223,6 @@
       
       <guid>//cloudfeed.net/post/improving-azure-sql-database-performance-using-inmemory-technologies/</guid>
       <description>&lt;p&gt;In late 2016, Microsoft announced the general availability (GA) of Azure SQL Database In-Memory technologies. In-Memory processing is only &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2017/01/Azure-SQL-DB-InMemory&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2017/01/Azure-SQL-DB-InMemory&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud Connect London Meetup @ Gett</title>
-      <link>//cloudfeed.net/post/google-cloud-connect-london-meetup--gett/</link>
-      <pubDate>Sat, 21 Jan 2017 11:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/google-cloud-connect-london-meetup--gett/</guid>
-      <description>&lt;p&gt;Wednesday, 22 February 2017 at Seal House, London, England.  &lt;a href=&#34;https://www.eventbrite.co.uk/e/google-cloud-connect-london-meetup-gett-tickets-29558444102&#34; onclick=&#34;trackOutboundLink(&#39;https://www.eventbrite.co.uk/e/google-cloud-connect-london-meetup-gett-tickets-29558444102&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
