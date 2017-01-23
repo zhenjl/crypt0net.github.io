@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 22 Jan 2017 18:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2017 18:10:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>H801 RGBWW control with openhab2 and mqtt</title>
+      <link>//cloudfeed.net/post/h801-rgbww-control-with-openhab2-and-mqtt/</link>
+      <pubDate>Sun, 22 Jan 2017 18:10:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/h801-rgbww-control-with-openhab2-and-mqtt/</guid>
+      <description>&lt;p&gt;port: 1883 5 Setup ESPEasy-Plugin-Lights Plugin Go to Devices and hit &amp;hellip;  &lt;a href=&#34;http://www.letscontrolit.com/forum/viewtopic.php?t=2582&#34; onclick=&#34;trackOutboundLink(&#39;http://www.letscontrolit.com/forum/viewtopic.php?t=2582&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AurumCoin: The curious case of the gold-backed digital currency Indiegogo</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/ethereum-wallets-are-coming-maybe-soon-to-a-car-near-you/</guid>
       <description>&lt;p&gt;That&amp;rsquo;s the vision behind a new blockchain project called Car eWallet, developed jointly by German auto parts maker ZF Friedrichshafen, the innogy &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/blockchain-wallets-coming-maybe-soon-car-near/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/blockchain-wallets-coming-maybe-soon-car-near/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ZCash on Ethereum: Anonymity With Smart Contracts</title>
-      <link>//cloudfeed.net/post/zcash-on-ethereum-anonymity-with-smart-contracts/</link>
-      <pubDate>Sun, 22 Jan 2017 07:30:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/zcash-on-ethereum-anonymity-with-smart-contracts/</guid>
-      <description>&lt;p&gt;However, within the current Ethereum network, using its public blockchain, users can track which individual submitted a particular vote.  &lt;a href=&#34;https://www.cryptocoinsnews.com/zcash-ethereum-anonymity-smart-contracts/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cryptocoinsnews.com/zcash-ethereum-anonymity-smart-contracts/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

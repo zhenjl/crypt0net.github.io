@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 22 Jan 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2017 18:10:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>H801 RGBWW control with openhab2 and mqtt</title>
+      <link>//cloudfeed.net/post/h801-rgbww-control-with-openhab2-and-mqtt/</link>
+      <pubDate>Sun, 22 Jan 2017 18:10:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/h801-rgbww-control-with-openhab2-and-mqtt/</guid>
+      <description>&lt;p&gt;port: 1883 5 Setup ESPEasy-Plugin-Lights Plugin Go to Devices and hit &amp;hellip;  &lt;a href=&#34;http://www.letscontrolit.com/forum/viewtopic.php?t=2582&#34; onclick=&#34;trackOutboundLink(&#39;http://www.letscontrolit.com/forum/viewtopic.php?t=2582&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Jan 22, 2017</title>
@@ -269,18 +281,6 @@
       
       <guid>//cloudfeed.net/post/quark-ioe-and-cumulocity-enter-strategic-partnership-to-deliver-iot/</guid>
       <description>&lt;p&gt;Yahoo Finance Quark IOE, a subsidiary of Guangdong Eastone Century Technology Co Ltd (300310:Shenzhen) and Cumulocity, the leading Internet of Things (IoT) &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/quark-ioe-cumulocity-enter-strategic-210000548.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/quark-ioe-cumulocity-enter-strategic-210000548.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blocktrust founder sees bright future for Vizag</title>
-      <link>//cloudfeed.net/post/blocktrust-founder-sees-bright-future-for-vizag/</link>
-      <pubDate>Sun, 22 Jan 2017 13:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/blocktrust-founder-sees-bright-future-for-vizag/</guid>
-      <description>&lt;p&gt;Blocktrust specialises in Blockchain, a new technology considered an improved format of Bitcoin as it typifies proof of all the transactions on the &amp;hellip;  &lt;a href=&#34;http://www.thehindu.com/news/cities/Visakhapatnam/Blocktrust-founder-sees-bright-future-for-Vizag/article17079593.ece&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thehindu.com/news/cities/Visakhapatnam/Blocktrust-founder-sees-bright-future-for-Vizag/article17079593.ece&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
