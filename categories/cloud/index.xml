@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 23 Jan 2017 11:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2017 11:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>9 tips to properly configure your OpenStack Instance</title>
+      <link>//cloudfeed.net/post/9-tips-to-properly-configure-your-openstack-instance/</link>
+      <pubDate>Mon, 23 Jan 2017 11:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/9-tips-to-properly-configure-your-openstack-instance/</guid>
+      <description>&lt;p&gt;In OpenStack jargon, an Instance is a Virtual Machine, the guest workload. It boots from an operating system image, and it is configured with a certain &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/9-tips-to-properly-configure-your-openstack-instance/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/9-tips-to-properly-configure-your-openstack-instance/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Modus Announces Industry-Leading Amazon Cloud Technology Solution To</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/10-new-aws-cloud-services-you-never-expected/</guid>
       <description>&lt;p&gt;Now Amazon Web Services is zooming ahead with a collection of new products that blow apart the idea of the cloud as a blank slate. With the latest &amp;hellip;  &lt;a href=&#34;http://www.computerworld.com.au/article/613067/10-new-aws-cloud-services-never-expected/?utm_medium=rss&amp;utm_source=taxonomyfeed&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computerworld.com.au/article/613067/10-new-aws-cloud-services-never-expected/?utm_medium=rss&amp;utm_source=taxonomyfeed&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft releases Power BI Content Pack for Azure Active Directory</title>
-      <link>//cloudfeed.net/post/microsoft-releases-power-bi-content-pack-for-azure-active-directory/</link>
-      <pubDate>Mon, 23 Jan 2017 04:30:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-releases-power-bi-content-pack-for-azure-active-directory/</guid>
-      <description>&lt;p&gt;Last week, Microsoft released the new Power BI Content Pack for Azure Active Directory. In addition to the usage and activity reports in the Azure &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-releases-power-bi-content-pack-azure-active-directory/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-releases-power-bi-content-pack-azure-active-directory/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
