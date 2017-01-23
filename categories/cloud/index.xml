@@ -7,8 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 22 Jan 2017 14:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2017 18:05:01 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Cloud Computing News from @cloudfeednet - Jan 22, 2017</title>
+      <link>//cloudfeed.net/daily/daily-cloud-news-2017-01-22/</link>
+      <pubDate>Sun, 22 Jan 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/daily/daily-cloud-news-2017-01-22/</guid>
+      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;How can I move an ARM VM between availability sets&lt;/h3&gt;
+&lt;p&gt;There is a script at &lt;a href=&#34;https://gallery.technet.microsoft.com/Set-Azure-Resource-Manager-f7509ec4&#34;&gt;https://gallery.technet.microsoft.com/Set-Azure-Resource-Manager-f7509ec4&lt;/a&gt; which automates the described process but there is &amp;hellip;  &lt;a href=&#34;http://windowsitpro.com/azure/how-can-i-move-arm-vm-between-availability-sets&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsitpro.com/azure/how-can-i-move-arm-vm-between-availability-sets&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Release: Amazon RDS on 2017-01-20&lt;/h3&gt;
+&lt;p&gt;supports upgrading a MySQL DB snapshot from MySQL 5.1 to MySQL 5.5.  &lt;a href=&#34;https://aws.amazon.com/releasenotes/Amazon-RDS/4174766716065686&#34; onclick=&#34;trackOutboundLink(&#39;https://aws.amazon.com/releasenotes/Amazon-RDS/4174766716065686&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;CloudCherry Now Offers Text-Based Customer Sentiment Analysis; Uses IBM&lt;/h3&gt;
+&lt;p&gt;PR.com (press release) With both Microsoft Azure Machine Learning and CloudCherry&amp;rsquo;s own proprietary platform, companies can analyse customer sentiment - and classify it &amp;hellip;  &lt;a href=&#34;http://www.pr.com/press-release/702577&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pr.com/press-release/702577&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google should breach $1000 in 2017 - Barron&amp;rsquo;s&lt;/h3&gt;
+&lt;p&gt;Also watch Google Cloud; Alphabet only has 5% and could grow by opening more data centers and creating services using its experience in AI and &amp;hellip;  &lt;a href=&#34;http://seekingalpha.com/news/3236554-google-breach-1000-2017-barrons&#34; onclick=&#34;trackOutboundLink(&#39;http://seekingalpha.com/news/3236554-google-breach-1000-2017-barrons&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;How AWS is using AI to lure enterprise to the cloud&lt;/h3&gt;
+&lt;p&gt;While nothing is certain in life but death and taxes - well, perhaps for some - when it comes to public cloud, the dominance of Amazon Web Services is &amp;hellip;  &lt;a href=&#34;http://www.arnnet.com.au/article/612125/how-aws-using-ai-lure-enterprise-cloud/?fp=2&amp;fpid=1&#34; onclick=&#34;trackOutboundLink(&#39;http://www.arnnet.com.au/article/612125/how-aws-using-ai-lure-enterprise-cloud/?fp=2&amp;fpid=1&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How AWS is using AI to lure enterprise to the cloud</title>
@@ -198,18 +223,6 @@
       
       <guid>//cloudfeed.net/post/google-may-sell-off-its-satellite-imaging-division/</guid>
       <description>&lt;p&gt;Planet could also migrate its processing workload from Amazon Web Services to Google&amp;rsquo;s Cloud Platform to strengthen its product portfolio.  &lt;a href=&#34;http://www.fudzilla.com/news/42680-google-may-sell-off-its-satellite-imaging-division&#34; onclick=&#34;trackOutboundLink(&#39;http://www.fudzilla.com/news/42680-google-may-sell-off-its-satellite-imaging-division&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Print to Google Cloud Print from a Windows Computer</title>
-      <link>//cloudfeed.net/post/print-to-google-cloud-print-from-a-windows-computer/</link>
-      <pubDate>Fri, 20 Jan 2017 22:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/print-to-google-cloud-print-from-a-windows-computer/</guid>
-      <description>&lt;p&gt;driver to your computer&amp;rsquo;s printer list and allows you to print to any LTS &amp;hellip;  &lt;a href=&#34;http://lts.lehigh.edu/services/stepwise-instructions/print-google-cloud-print-windows-computer&#34; onclick=&#34;trackOutboundLink(&#39;http://lts.lehigh.edu/services/stepwise-instructions/print-google-cloud-print-windows-computer&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
