@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 23 Jan 2017 09:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2017 09:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon Web Services: Build Resiliency into your AWS Environment</title>
+      <link>//cloudfeed.net/post/amazon-web-services-build-resiliency-into-your-aws-environment/</link>
+      <pubDate>Mon, 23 Jan 2017 09:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amazon-web-services-build-resiliency-into-your-aws-environment/</guid>
+      <description>&lt;p&gt;full capabilities of Sungard AS  including Operating System recovery, &amp;hellip;  &lt;a href=&#34;http://www.sungardas.com/en/resources/brochures/amazon-web-services-build-resiliency-into-your-aws-environment/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.sungardas.com/en/resources/brochures/amazon-web-services-build-resiliency-into-your-aws-environment/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft kicks off BlueHat cyber security event in Tel Aviv this week</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/google-cloud-ramps-up-enterprise-credentials-with-audit-logging/</guid>
       <description>&lt;p&gt;The Google Cloud Platform stack addition will see Audit Logging integrated with Google Compute Engine, Container Engine, Dataproc, Deployment &amp;hellip;  &lt;a href=&#34;http://www.cbronline.com/news/cloud/public/google-cloud-ramps-enterprise-credentials-audit-logging/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/cloud/public/google-cloud-ramps-enterprise-credentials-audit-logging/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What you didn&#39;t know about OpenStack Newton Performance and Scalability for</title>
-      <link>//cloudfeed.net/post/what-you-didnt-know-about-openstack-newton-performance-and-scalability-for/</link>
-      <pubDate>Mon, 23 Jan 2017 03:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/what-you-didnt-know-about-openstack-newton-performance-and-scalability-for/</guid>
-      <description>&lt;p&gt;openPR (press release) Tallinn, Estonia, 23 January 2017 - Sardina Systems announces availability of support for the OpenStack Newton release, while promising significant &amp;hellip;  &lt;a href=&#34;http://www.openpr.com/news/418665/What-you-didn-t-know-about-OpenStack-Newton-Performance-and-Scalability-for-Enterprise-and-Service-Provider-Clouds.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.openpr.com/news/418665/What-you-didn-t-know-about-OpenStack-Newton-Performance-and-Scalability-for-Enterprise-and-Service-Provider-Clouds.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
