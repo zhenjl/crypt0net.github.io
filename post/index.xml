@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 24 Jan 2017 10:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2017 10:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What is the difference between web role and worker role in Azure?</title>
+      <link>//cloudfeed.net/post/what-is-the-difference-between-web-role-and-worker-role-in-azure/</link>
+      <pubDate>Tue, 24 Jan 2017 10:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/what-is-the-difference-between-web-role-and-worker-role-in-azure/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s important to know the difference between the web role and the worker role when testing applications in Microsoft&amp;rsquo;s Azure. Expert Matthew Pascucci &amp;hellip;  &lt;a href=&#34;http://searchcloudsecurity.techtarget.com/answer/What-is-the-difference-between-web-role-and-worker-role-in-Azure&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudsecurity.techtarget.com/answer/What-is-the-difference-between-web-role-and-worker-role-in-Azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Healthcare data breaches, cybersecurity &amp; more  4 experts weigh in</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/not-the-blockchain-it-wants-the-blockchain-it-needs/</guid>
       <description>&lt;p&gt;Financial services require their own blockchains to suit their specific needs, according to speakers at Blockchain Week in London. Griffin Anderson &amp;hellip;  &lt;a href=&#34;http://www.assetservicingtimes.com/assetservicesnews/article.php?article_id=7168&#34; onclick=&#34;trackOutboundLink(&#39;http://www.assetservicingtimes.com/assetservicesnews/article.php?article_id=7168&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Verizon eyes IoT, smart cities to fuel growth as Q4 profit slips</title>
-      <link>//cloudfeed.net/post/verizon-eyes-iot-smart-cities-to-fuel-growth-as-q4-profit-slips/</link>
-      <pubDate>Tue, 24 Jan 2017 08:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/verizon-eyes-iot-smart-cities-to-fuel-growth-as-q4-profit-slips/</guid>
-      <description>&lt;p&gt;Verizon is hoping to scale its Internet of Things business with a focus on smart cities and connected devices as it aims to offset fierce competition in the &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/verizon-eyes-iot-smart-cities-to-fuel-growth-as-q4-profit-slips/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/verizon-eyes-iot-smart-cities-to-fuel-growth-as-q4-profit-slips/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

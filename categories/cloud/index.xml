@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 24 Jan 2017 10:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2017 10:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What is the difference between web role and worker role in Azure?</title>
+      <link>//cloudfeed.net/post/what-is-the-difference-between-web-role-and-worker-role-in-azure/</link>
+      <pubDate>Tue, 24 Jan 2017 10:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/what-is-the-difference-between-web-role-and-worker-role-in-azure/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s important to know the difference between the web role and the worker role when testing applications in Microsoft&amp;rsquo;s Azure. Expert Matthew Pascucci &amp;hellip;  &lt;a href=&#34;http://searchcloudsecurity.techtarget.com/answer/What-is-the-difference-between-web-role-and-worker-role-in-Azure&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudsecurity.techtarget.com/answer/What-is-the-difference-between-web-role-and-worker-role-in-Azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Oracle preparing to compete with AWS</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/google-promotes-bertrand-yansouni-as-chiefincharge-of-its-global-cloud/</guid>
       <description>&lt;p&gt;MarTech Series (press release) (blog) Yansouni is replacing Murali as the Managing Director Global Partner Sales and Strategic Alliances at Google Cloud. Previously, he has worked &amp;hellip;  &lt;a href=&#34;http://martechseries.com/analytics/data-management-platforms/google-cloud-promotes/&#34; onclick=&#34;trackOutboundLink(&#39;http://martechseries.com/analytics/data-management-platforms/google-cloud-promotes/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CRN Exclusive: ParkMyCloud Adds Azure To Its Cloud Parking Service</title>
-      <link>//cloudfeed.net/post/crn-exclusive-parkmycloud-adds-azure-to-its-cloud-parking-service/</link>
-      <pubDate>Tue, 24 Jan 2017 03:30:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/crn-exclusive-parkmycloud-adds-azure-to-its-cloud-parking-service/</guid>
-      <description>&lt;p&gt;Jazz Padda, founder of Too Many Clouds, a distribution partner of AWS and Microsoft Azure that primarily serves the U.K. and Australian markets, told &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/cloud/300083514/crn-exclusive-parkmycloud-adds-azure-to-its-cloud-parking-service.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300083514/crn-exclusive-parkmycloud-adds-azure-to-its-cloud-parking-service.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
