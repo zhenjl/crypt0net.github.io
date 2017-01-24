@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 24 Jan 2017 13:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2017 13:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Importing Cisco UCS nodes with OpenStack director 10 fails certificate</title>
+      <link>//cloudfeed.net/post/importing-cisco-ucs-nodes-with-openstack-director-10-fails-certificate/</link>
+      <pubDate>Tue, 24 Jan 2017 13:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/importing-cisco-ucs-nodes-with-openstack-director-10-fails-certificate/</guid>
+      <description>&lt;p&gt;While attempting to import Cisco UCS blades into ironic, OpenStack director fails to get power state for the node: Error: &lt;urlopen error [SSL: ...  &lt;a href=&#34;https://access.redhat.com/solutions/2887781&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2887781&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Riverbed Announces One-click Cloud Networking Solution For Azure</title>
+      <link>//cloudfeed.net/post/riverbed-announces-oneclick-cloud-networking-solution-for-azure/</link>
+      <pubDate>Tue, 24 Jan 2017 13:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/riverbed-announces-oneclick-cloud-networking-solution-for-azure/</guid>
+      <description>&lt;p&gt;&amp;hellip; one-click provisioning of SD-WAN connectivity into Microsoft Azure cloud networks. Riverbed is also announcing that it has attained Microsoft Gold &amp;hellip;  &lt;a href=&#34;http://www.storagereview.com/riverbed_announces_oneclick_cloud_networking_solution_for_azure&#34; onclick=&#34;trackOutboundLink(&#39;http://www.storagereview.com/riverbed_announces_oneclick_cloud_networking_solution_for_azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Data breaches continue to plague Yahoo as Verizon&#39;s $4.8bn takeover delayed</title>
@@ -163,30 +187,6 @@
       <description>&lt;p&gt;IT Business Net The analysts forecast global security information and event management market to grow at a CAGR of 12.03% during the period 2017-2021.  &lt;a href=&#34;http://www.itbusinessnet.com/article/Security-Information-and-Event-Management-Market-Growing-at-a-CAGR-of-1203-During-2017-to-2021-4785878&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itbusinessnet.com/article/Security-Information-and-Event-Management-Market-Growing-at-a-CAGR-of-1203-During-2017-to-2021-4785878&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Everything You Need To Know About The Internet Of Things This 2017 [VIDEO]</title>
-      <link>//cloudfeed.net/post/everything-you-need-to-know-about-the-internet-of-things-this-2017-video/</link>
-      <pubDate>Tue, 24 Jan 2017 11:10:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/everything-you-need-to-know-about-the-internet-of-things-this-2017-video/</guid>
-      <description>&lt;p&gt;The Internet of Things Will Be Much Bigger By 2020 If your computer is running slow than usual or is getting many pop-ups lately, chances are &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/61964/20170124/everything-need-know-internet-things-2017-video.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/61964/20170124/everything-need-know-internet-things-2017-video.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google wants to bring smart tools to Raspberry Pi-like boards</title>
-      <link>//cloudfeed.net/post/google-wants-to-bring-smart-tools-to-raspberry-pilike-boards/</link>
-      <pubDate>Tue, 24 Jan 2017 11:10:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/google-wants-to-bring-smart-tools-to-raspberry-pilike-boards/</guid>
-      <description>&lt;p&gt;Google has hinted that it is interested in bringing &amp;ldquo;smart tools&amp;rdquo; to users of board computers like Raspberry Pi 3 and Intel&amp;rsquo;s Edison. The company has &amp;hellip;  &lt;a href=&#34;http://www.cio.com/article/3160647/internet-of-things/google-wants-to-bring-smart-tools-to-raspberry-pi-like-boards.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3160647/internet-of-things/google-wants-to-bring-smart-tools-to-raspberry-pi-like-boards.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
