@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 24 Jan 2017 01:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2017 02:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure Germany gains ISO 27001 certification</title>
+      <link>//cloudfeed.net/post/microsoft-azure-germany-gains-iso-27001-certification/</link>
+      <pubDate>Tue, 24 Jan 2017 02:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-azure-germany-gains-iso-27001-certification/</guid>
+      <description>&lt;p&gt;German technical services provider TUV Nord has granted ISO/IEC 27001: 2013 certification to Microsoft Germany for its public cloud services.  &lt;a href=&#34;https://www.telecompaper.com/news/microsoft-azure-germany-gains-iso-27001-certification--1180637&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/microsoft-azure-germany-gains-iso-27001-certification--1180637&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Eventopedia 3.0 puts its venue-finding head in the Microsoft Azure cloud</title>
@@ -255,18 +267,6 @@
       
       <guid>//cloudfeed.net/post/office-365-reigns-supreme-as-most-popular-aussie-business-app/</guid>
       <description>&lt;p&gt;&amp;hellip; management service for businesses, Box, is the second most widely used app across the country, followed by Amazon Web Services and G Suite.  &lt;a href=&#34;http://www.arnnet.com.au/article/613053/which-apps-business-customers-using-most/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.arnnet.com.au/article/613053/which-apps-business-customers-using-most/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>9 tips to properly configure your OpenStack Instance</title>
-      <link>//cloudfeed.net/post/9-tips-to-properly-configure-your-openstack-instance/</link>
-      <pubDate>Mon, 23 Jan 2017 11:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/9-tips-to-properly-configure-your-openstack-instance/</guid>
-      <description>&lt;p&gt;In OpenStack jargon, an Instance is a Virtual Machine, the guest workload. It boots from an operating system image, and it is configured with a certain &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/9-tips-to-properly-configure-your-openstack-instance/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/9-tips-to-properly-configure-your-openstack-instance/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
