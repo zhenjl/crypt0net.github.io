@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 23 Jan 2017 22:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2017 22:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MIT Media Lab Applies the Bitcoin Blockchain for Digital Certificates</title>
+      <link>//cloudfeed.net/post/mit-media-lab-applies-the-bitcoin-blockchain-for-digital-certificates/</link>
+      <pubDate>Mon, 23 Jan 2017 22:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/mit-media-lab-applies-the-bitcoin-blockchain-for-digital-certificates/</guid>
+      <description>&lt;p&gt;designing an academic certificates system on the blockchain which &amp;hellip;  &lt;a href=&#34;https://www.weusecoins.com/mit-media-lab-applies-the-bitcoin-blockchain-for-digital-certificates/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.weusecoins.com/mit-media-lab-applies-the-bitcoin-blockchain-for-digital-certificates/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Commerce issues outline advancing internet of things</title>
@@ -175,100 +187,6 @@
       <description>&lt;p&gt;The first generation of blockchain applications, mainly Bitcoin derivatives do not store real (non-cryptocurrency) data in the blockchain itself. Instead &amp;hellip;  &lt;a href=&#34;http://www.the-blockchain.com/2017/01/24/adi-ben-ari-outstanding-challenges-blockchain-technology-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.the-blockchain.com/2017/01/24/adi-ben-ari-outstanding-challenges-blockchain-technology-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Cloud Computing News from @cloudfeednet - Jan 23, 2017</title>
-      <link>//cloudfeed.net/daily/daily-cloud-news-2017-01-23/</link>
-      <pubDate>Mon, 23 Jan 2017 18:05:01 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/daily/daily-cloud-news-2017-01-23/</guid>
-      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;What you didn&amp;rsquo;t know about OpenStack Newton Performance and Scalability for&lt;/h3&gt;
-&lt;p&gt;openPR (press release) Tallinn, Estonia, 23 January 2017 - Sardina Systems announces availability of support for the OpenStack Newton release, while promising significant &amp;hellip;  &lt;a href=&#34;http://www.openpr.com/news/418665/What-you-didn-t-know-about-OpenStack-Newton-Performance-and-Scalability-for-Enterprise-and-Service-Provider-Clouds.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.openpr.com/news/418665/What-you-didn-t-know-about-OpenStack-Newton-Performance-and-Scalability-for-Enterprise-and-Service-Provider-Clouds.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Cloud ramps up enterprise credentials with Audit Logging&lt;/h3&gt;
-&lt;p&gt;The Google Cloud Platform stack addition will see Audit Logging integrated with Google Compute Engine, Container Engine, Dataproc, Deployment &amp;hellip;  &lt;a href=&#34;http://www.cbronline.com/news/cloud/public/google-cloud-ramps-enterprise-credentials-audit-logging/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/cloud/public/google-cloud-ramps-enterprise-credentials-audit-logging/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft releases Power BI Content Pack for Azure Active Directory&lt;/h3&gt;
-&lt;p&gt;Last week, Microsoft released the new Power BI Content Pack for Azure Active Directory. In addition to the usage and activity reports in the Azure &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-releases-power-bi-content-pack-azure-active-directory/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-releases-power-bi-content-pack-azure-active-directory/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;10 new AWS cloud services you never expected&lt;/h3&gt;
-&lt;p&gt;Now Amazon Web Services is zooming ahead with a collection of new products that blow apart the idea of the cloud as a blank slate. With the latest &amp;hellip;  &lt;a href=&#34;http://www.computerworld.com.au/article/613067/10-new-aws-cloud-services-never-expected/?utm_medium=rss&amp;utm_source=taxonomyfeed&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computerworld.com.au/article/613067/10-new-aws-cloud-services-never-expected/?utm_medium=rss&amp;utm_source=taxonomyfeed&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Getting Started with Azure SQL Data Warehouse - Part 1&lt;/h3&gt;
-&lt;p&gt;Microsoft introduced Azure SQL Data Warehouse, a new enterprise-class, elastic petabyte-scale, data warehouse service that can scale according to &amp;hellip;  &lt;a href=&#34;http://www.databasejournal.com/features/mssql/getting-started-with-azure-sql-data-warehouse-part-1.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.databasejournal.com/features/mssql/getting-started-with-azure-sql-data-warehouse-part-1.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Commvault Simplifies Data Management in the Cloud with Launch of Validated&lt;/h3&gt;
-&lt;p&gt;Yahoo Finance &amp;hellip; today launched new reference architectures for Amazon Web Services (AWS) to enable customers to simplify data protection and management with &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/commvault-simplifies-data-management-cloud-133000930.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/commvault-simplifies-data-management-cloud-133000930.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Oxfam turns to Rackspace &amp;amp; Microsoft Azure Cloud to battle global poverty&lt;/h3&gt;
-&lt;p&gt;The charity, which is famous for aiming to reduce global poverty levels, has turned to Rackspace&amp;rsquo;s Fanatical Support for Microsoft Azure as it migrates &amp;hellip;  &lt;a href=&#34;http://www.cbronline.com/news/cloud/public/oxfam-turns-rackspace-microsoft-azure-cloud-battle-global-poverty/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/cloud/public/oxfam-turns-rackspace-microsoft-azure-cloud-battle-global-poverty/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Barracuda Introduces 2 New Virtual Firewalls&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; VMware, Citrix XenServer, KVM and Hyper-V private clouds and workloads hosted offsite in Microsoft Azure, AWS and Google Cloud Platform.  &lt;a href=&#34;http://www.channelpartnersonline.com/news/2017/01/barracuda-introduces-two-new-virtual-firewalls-em.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.channelpartnersonline.com/news/2017/01/barracuda-introduces-two-new-virtual-firewalls-em.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Looker Launches Support for Amazon Athena&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; warehouse with no infrastructure to manage and no data loading required, said Rahul Pathak, GM, Amazon Athena, Amazon Web Services.  &lt;a href=&#34;http://finance.yahoo.com/news/looker-launches-support-amazon-athena-140000813.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/looker-launches-support-amazon-athena-140000813.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;GIGABYTE Selects Cavium QLogic 10/25GbE FastLinQ Technology To Power Its&lt;/h3&gt;
-&lt;p&gt;Yahoo Finance OpenStack Integration: Cavium QLogic technologies, such as the Plug-in for Mirantis Fuel for automatic SR-IOV configuration across multiple &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/gigabyte-selects-cavium-qlogic-10-130000561.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/gigabyte-selects-cavium-qlogic-10-130000561.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Global learning through Amazon Web Services with revolutionary studio&lt;/h3&gt;
-&lt;p&gt;Satellite PR News (press release) We will explore what Amazon Web Services (Amazon Polly, Amazon Lex and Amazon Rekognition) offers, how it can help distribute learning and how &amp;hellip;  &lt;a href=&#34;http://satprnews.com/2017/01/23/global-learning-through-amazon-web-services-with-revolutionary-studio-solution-broadcastpod/&#34; onclick=&#34;trackOutboundLink(&#39;http://satprnews.com/2017/01/23/global-learning-through-amazon-web-services-with-revolutionary-studio-solution-broadcastpod/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Modus Announces Industry-Leading Amazon Cloud Technology Solution to&lt;/h3&gt;
-&lt;p&gt;Military Technologies Modus, a leading provider of eDiscovery business intelligence services, today announced the successful deployment of the Amazon Web Services &amp;hellip;  &lt;a href=&#34;http://military-technologies.net/2017/01/23/modus-announces-industry-leading-amazon-cloud-technology-solution-to-support-growth/&#34; onclick=&#34;trackOutboundLink(&#39;http://military-technologies.net/2017/01/23/modus-announces-industry-leading-amazon-cloud-technology-solution-to-support-growth/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Barracuda Introduces Virtual And Public Cloud Firewalls For MSPs&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; or provide secure and reliable connectivity for Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform public cloud deployments.  &lt;a href=&#34;http://www.bsminfo.com/doc/barracuda-introduces-virtual-public-cloud-firewalls-msps-0001&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bsminfo.com/doc/barracuda-introduces-virtual-public-cloud-firewalls-msps-0001&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Why the VMware-Amazon Deal Is Expected to Be a Game Changer&lt;/h3&gt;
-&lt;p&gt;VMware&amp;rsquo;s expertise lies in private cloud services, while Amazon&amp;rsquo;s AWS (Amazon Web Services) is the clear leader in terms of public cloud services.  &lt;a href=&#34;http://marketrealist.com/2017/01/why-the-vmware-amazon-deal-is-expected-to-be-a-game-changer/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2017/01/why-the-vmware-amazon-deal-is-expected-to-be-a-game-changer/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft kicks off BlueHat cyber security event in Tel Aviv this week&lt;/h3&gt;
-&lt;p&gt;Security industry professionals from around the globe will be speaking at the event, including world-famous hacker The Grugq, Microsoft Azure chief &amp;hellip;  &lt;a href=&#34;http://www.jpost.com/Business-and-Innovation/Tech/Microsoft-kicks-off-BlueHat-cyber-security-event-in-Tel-Aviv-this-week-479359&#34; onclick=&#34;trackOutboundLink(&#39;http://www.jpost.com/Business-and-Innovation/Tech/Microsoft-kicks-off-BlueHat-cyber-security-event-in-Tel-Aviv-this-week-479359&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon Web Services: Build Resiliency into your AWS Environment&lt;/h3&gt;
-&lt;p&gt;full capabilities of Sungard AS  including Operating System recovery, &amp;hellip;  &lt;a href=&#34;http://www.sungardas.com/en/resources/brochures/amazon-web-services-build-resiliency-into-your-aws-environment/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.sungardas.com/en/resources/brochures/amazon-web-services-build-resiliency-into-your-aws-environment/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Appoints New Channel Chief to Step Up Cloud Focus&lt;/h3&gt;
-&lt;p&gt;Currently Greene leads Google&amp;rsquo;s cloud division, and oversees Google&amp;rsquo;s enterprise strategy and channel efforts. She kicked off Google&amp;rsquo;s cloud focus in &amp;hellip;  &lt;a href=&#34;http://www.readitquik.com/news/iaas/google-appoints-new-channel-chief-to-step-up-cloud-focus/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.readitquik.com/news/iaas/google-appoints-new-channel-chief-to-step-up-cloud-focus/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Modus Announces Industry-Leading Amazon Cloud Technology Solution To&lt;/h3&gt;
-&lt;p&gt;HostReview.com (press release) Our partnership with Amazon gives us the best technology backbone in the industry as Amazon&amp;rsquo;s Web Services capabilities are significantly ahead of &amp;hellip;  &lt;a href=&#34;http://www.hostreview.com/news/170123-modus-announces-industry-leading-amazon-cloud-technology-solution-to-support-growth&#34; onclick=&#34;trackOutboundLink(&#39;http://www.hostreview.com/news/170123-modus-announces-industry-leading-amazon-cloud-technology-solution-to-support-growth&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;9 tips to properly configure your OpenStack Instance&lt;/h3&gt;
-&lt;p&gt;In OpenStack jargon, an Instance is a Virtual Machine, the guest workload. It boots from an operating system image, and it is configured with a certain &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/9-tips-to-properly-configure-your-openstack-instance/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/9-tips-to-properly-configure-your-openstack-instance/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Office 365 reigns supreme as most popular Aussie business app&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; management service for businesses, Box, is the second most widely used app across the country, followed by Amazon Web Services and G Suite.  &lt;a href=&#34;http://www.arnnet.com.au/article/613053/which-apps-business-customers-using-most/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.arnnet.com.au/article/613053/which-apps-business-customers-using-most/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;New Google worldwide channel chief to dial into the cloud&lt;/h3&gt;
-&lt;p&gt;Yansouni joined Google this past November as the vice president of global partner sales and strategic alliances for Google Cloud after previously &amp;hellip;  &lt;a href=&#34;http://www.computerdealernews.com/news/new-google-worldwide-channel-chief-to-dial-into-the-cloud/52481&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computerdealernews.com/news/new-google-worldwide-channel-chief-to-dial-into-the-cloud/52481&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon opening first fulfillment center in Colorado, hiring 1000 in Aurora&lt;/h3&gt;
-&lt;p&gt;The first employees started at the Aurora sortation center in June and the company has been hiring workers for its Amazon web services for most of the &amp;hellip;  &lt;a href=&#34;http://www.denverpost.com/2017/01/23/colorado-amazon-fulfillment-center-aurora/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.denverpost.com/2017/01/23/colorado-amazon-fulfillment-center-aurora/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Brings Power BI Content Pack for Azure Active Directory&lt;/h3&gt;
-&lt;p&gt;Microsoft has recently announced a new Power BI Content Pack for Azure Active Directory. The company revealed the new integration on its official &amp;hellip;  &lt;a href=&#34;https://winbuzzer.com/2017/01/23/microsoft-brings-power-bi-content-pack-azure-active-directory-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/01/23/microsoft-brings-power-bi-content-pack-azure-active-directory-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon Web Services (AWS) more popular than Google&amp;rsquo;s cloud product&lt;/h3&gt;
-&lt;p&gt;In some areas of the high-tech world, Amazon.com comes out ahead of Google in the popularity stakes. This is true for services developed by Amazon &amp;hellip;  &lt;a href=&#34;https://www.comparebestdeals.com/news/story/amazon-web-services-aws-more-popular-than-googles-cloud-product&#34; onclick=&#34;trackOutboundLink(&#39;https://www.comparebestdeals.com/news/story/amazon-web-services-aws-more-popular-than-googles-cloud-product&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;TruGolf and Shout TV to form a strategic partnership to launch a Virtual&lt;/h3&gt;
-&lt;p&gt;Yahoo Finance Hosted on Microsoft Azure, the Virtual Players Tour will offer Shout&amp;rsquo;s knowledge-based games and TruGolf&amp;rsquo;s best-in-class golf software, playable in &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/trugolf-shout-tv-form-strategic-211400864.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/trugolf-shout-tv-form-strategic-211400864.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon Web Services (AWS) more popular than Google&amp;rsquo;s cloud product&lt;/h3&gt;
-&lt;p&gt;This is true for services developed by Amazon Web Services (AWS), the Amazon cloud-computing division, which came fourth in terms of web &amp;hellip;  &lt;a href=&#34;https://www.comparebestdeals.com/news/story/amazon-web-services-aws-more-popular-than-googles-cloud-product&#34; onclick=&#34;trackOutboundLink(&#39;https://www.comparebestdeals.com/news/story/amazon-web-services-aws-more-popular-than-googles-cloud-product&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;New York Times editor Quentin Hardy is heading to Google&lt;/h3&gt;
-&lt;p&gt;Hardy tweeted Monday that he had accepted an offer to head editorial for Google Cloud, which includes G Suite and Google Cloud Platform. Google &amp;hellip;  &lt;a href=&#34;http://www.recode.net/2017/1/23/14362914/new-york-times-reporter-quentin-hardy-google-cloud-ai&#34; onclick=&#34;trackOutboundLink(&#39;http://www.recode.net/2017/1/23/14362914/new-york-times-reporter-quentin-hardy-google-cloud-ai&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Offering Windows 10 Upgrades Through Subscriber Service&lt;/h3&gt;
-&lt;p&gt;DAILY VIDEO: Microsoft to dole out free Windows 10 upgrades via &amp;hellip; update; Intel&amp;rsquo;s cloud-friendly Clear Linux hits Microsoft Azure; and there&amp;rsquo;s more.  &lt;a href=&#34;http://www.eweek.com/video/microsoft-offering-windows-10-upgrades-through-subscriber-service.html?=video-index-page&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/video/microsoft-offering-windows-10-upgrades-through-subscriber-service.html?=video-index-page&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
