@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 24 Jan 2017 10:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2017 11:40:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nokia analysis: Moving from legacy IT to private cloud makes financial</title>
+      <link>//cloudfeed.net/post/nokia-analysis-moving-from-legacy-it-to-private-cloud-makes-financial/</link>
+      <pubDate>Tue, 24 Jan 2017 11:40:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/nokia-analysis-moving-from-legacy-it-to-private-cloud-makes-financial/</guid>
+      <description>&lt;p&gt;ZDNet The analysis applies to OpenStack-based private clouds built with off-the-shelf components from a range of vendors. It assumes that instead of &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/nokia-analysis-moving-from-legacy-it-to-private-cloud-makes-financial-sense/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/nokia-analysis-moving-from-legacy-it-to-private-cloud-makes-financial-sense/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What is the difference between web role and worker role in Azure?</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/application-insights--15-things-every-developer-needs-to-know/</guid>
       <description>&lt;p&gt;App Insights supports tracking dependency calls in your code. Microsoft&amp;rsquo;s documentation says SQL databases, HTTP calls, and Azure storage libraries &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/3992118&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/3992118&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Promotes Bertrand Yansouni as Chief-In-Charge of Its Global Cloud</title>
-      <link>//cloudfeed.net/post/google-promotes-bertrand-yansouni-as-chiefincharge-of-its-global-cloud/</link>
-      <pubDate>Tue, 24 Jan 2017 04:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/google-promotes-bertrand-yansouni-as-chiefincharge-of-its-global-cloud/</guid>
-      <description>&lt;p&gt;MarTech Series (press release) (blog) Yansouni is replacing Murali as the Managing Director Global Partner Sales and Strategic Alliances at Google Cloud. Previously, he has worked &amp;hellip;  &lt;a href=&#34;http://martechseries.com/analytics/data-management-platforms/google-cloud-promotes/&#34; onclick=&#34;trackOutboundLink(&#39;http://martechseries.com/analytics/data-management-platforms/google-cloud-promotes/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
