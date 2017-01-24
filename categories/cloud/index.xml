@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 24 Jan 2017 04:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2017 04:50:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Application Insights  15 things every developer needs to know</title>
+      <link>//cloudfeed.net/post/application-insights--15-things-every-developer-needs-to-know/</link>
+      <pubDate>Tue, 24 Jan 2017 04:50:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/application-insights--15-things-every-developer-needs-to-know/</guid>
+      <description>&lt;p&gt;App Insights supports tracking dependency calls in your code. Microsoft&amp;rsquo;s documentation says SQL databases, HTTP calls, and Azure storage libraries &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/3992118&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/3992118&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Promotes Bertrand Yansouni as Chief-In-Charge of Its Global Cloud</title>
@@ -255,18 +267,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-brings-power-bi-content-pack-for-azure-active-directory/</guid>
       <description>&lt;p&gt;Microsoft has recently announced a new Power BI Content Pack for Azure Active Directory. The company revealed the new integration on its official &amp;hellip;  &lt;a href=&#34;https://winbuzzer.com/2017/01/23/microsoft-brings-power-bi-content-pack-azure-active-directory-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/01/23/microsoft-brings-power-bi-content-pack-azure-active-directory-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon opening first fulfillment center in Colorado, hiring 1000 in Aurora</title>
-      <link>//cloudfeed.net/post/amazon-opening-first-fulfillment-center-in-colorado-hiring-1000-in-aurora/</link>
-      <pubDate>Mon, 23 Jan 2017 13:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-opening-first-fulfillment-center-in-colorado-hiring-1000-in-aurora/</guid>
-      <description>&lt;p&gt;The first employees started at the Aurora sortation center in June and the company has been hiring workers for its Amazon web services for most of the &amp;hellip;  &lt;a href=&#34;http://www.denverpost.com/2017/01/23/colorado-amazon-fulfillment-center-aurora/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.denverpost.com/2017/01/23/colorado-amazon-fulfillment-center-aurora/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
