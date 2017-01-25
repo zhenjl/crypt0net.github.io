@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 24 Jan 2017 21:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2017 21:50:07 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ajilon takes miners to the cloud with Azure analytics</title>
+      <link>//cloudfeed.net/post/ajilon-takes-miners-to-the-cloud-with-azure-analytics/</link>
+      <pubDate>Tue, 24 Jan 2017 21:50:07 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/ajilon-takes-miners-to-the-cloud-with-azure-analytics/</guid>
+      <description>&lt;p&gt;&amp;hellip; IT service provider, Ajilon, has completed a project with mining company, Roy Hill, to build a business analytics platform based on Microsoft Azure.  &lt;a href=&#34;http://www.arnnet.com.au/article/613209/ajilon-takes-miners-cloud-azure-analytics/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.arnnet.com.au/article/613209/ajilon-takes-miners-cloud-azure-analytics/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Release: Amazon RDS on 2017-01-23</title>
@@ -261,18 +273,6 @@
       
       <guid>//cloudfeed.net/post/nokia-analysis-moving-from-legacy-it-to-private-cloud-makes-financial/</guid>
       <description>&lt;p&gt;ZDNet The analysis applies to OpenStack-based private clouds built with off-the-shelf components from a range of vendors. It assumes that instead of &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/nokia-analysis-moving-from-legacy-it-to-private-cloud-makes-financial-sense/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/nokia-analysis-moving-from-legacy-it-to-private-cloud-makes-financial-sense/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What is the difference between web role and worker role in Azure?</title>
-      <link>//cloudfeed.net/post/what-is-the-difference-between-web-role-and-worker-role-in-azure/</link>
-      <pubDate>Tue, 24 Jan 2017 10:30:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/what-is-the-difference-between-web-role-and-worker-role-in-azure/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s important to know the difference between the web role and the worker role when testing applications in Microsoft&amp;rsquo;s Azure. Expert Matthew Pascucci &amp;hellip;  &lt;a href=&#34;http://searchcloudsecurity.techtarget.com/answer/What-is-the-difference-between-web-role-and-worker-role-in-Azure&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudsecurity.techtarget.com/answer/What-is-the-difference-between-web-role-and-worker-role-in-Azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
