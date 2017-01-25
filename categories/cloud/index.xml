@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 25 Jan 2017 15:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2017 15:10:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Release: AWS CloudTrail on 2017-01-24</title>
+      <link>//cloudfeed.net/post/release-aws-cloudtrail-on-20170124/</link>
+      <pubDate>Wed, 25 Jan 2017 15:10:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/release-aws-cloudtrail-on-20170124/</guid>
+      <description>&lt;p&gt;Dashboard to identify if your trails are unable to deliver logs to an SNS &amp;hellip;  &lt;a href=&#34;https://aws.amazon.com/releasenotes/6254440874274471&#34; onclick=&#34;trackOutboundLink(&#39;https://aws.amazon.com/releasenotes/6254440874274471&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How VMware vCloud Air Network Service Providers and ISVs Get the Most Out</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/eurotech-multiservice-iot-gateways-have-joined-microsofts-azure-certified/</guid>
       <description>&lt;p&gt;Newswire Today (press release) Four Eurotech IoT devices are now Microsoft Azure certified for IoT: ReliaGATE 10-05; ReliaGATE 10-11; ReliaGATE 10-20; and ReliaGATE 20-25.  &lt;a href=&#34;http://www.newswiretoday.com/news/162504/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newswiretoday.com/news/162504/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>HPE buys Cloud Cruiser to boost pay-as-you-go private cloud</title>
-      <link>//cloudfeed.net/post/hpe-buys-cloud-cruiser-to-boost-payasyougo-private-cloud/</link>
-      <pubDate>Wed, 25 Jan 2017 09:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/hpe-buys-cloud-cruiser-to-boost-payasyougo-private-cloud/</guid>
-      <description>&lt;p&gt;It will be useful for customers of services like Azure Stack, Microsoft&amp;rsquo;s &amp;lsquo;Azure in a box&amp;rsquo; offering that replicates its public cloud capabilities in people&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://www.cloudpro.co.uk/leadership/cloud-essentials/6586/hpe-buys-cloud-cruiser-to-boost-pay-as-you-go-private-cloud&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cloudpro.co.uk/leadership/cloud-essentials/6586/hpe-buys-cloud-cruiser-to-boost-pay-as-you-go-private-cloud&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

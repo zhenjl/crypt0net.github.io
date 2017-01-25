@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 25 Jan 2017 15:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2017 15:10:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Release: AWS CloudTrail on 2017-01-24</title>
+      <link>//cloudfeed.net/post/release-aws-cloudtrail-on-20170124/</link>
+      <pubDate>Wed, 25 Jan 2017 15:10:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/release-aws-cloudtrail-on-20170124/</guid>
+      <description>&lt;p&gt;Dashboard to identify if your trails are unable to deliver logs to an SNS &amp;hellip;  &lt;a href=&#34;https://aws.amazon.com/releasenotes/6254440874274471&#34; onclick=&#34;trackOutboundLink(&#39;https://aws.amazon.com/releasenotes/6254440874274471&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How VMware vCloud Air Network Service Providers and ISVs Get the Most Out</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Before the inauguration last week, there was a call to protesters to join in a DDoS attack against WhiteHouse.gov. I don&amp;rsquo;t know if it happened  I never &amp;hellip;  &lt;a href=&#34;http://www.itbusinessedge.com/blogs/data-security/with-the-internet-of-things-comes-a-rise-in-ddos-attacks.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itbusinessedge.com/blogs/data-security/with-the-internet-of-things-comes-a-rise-in-ddos-attacks.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Morphick and Endgame Launch Advanced Managed Endpoint Detection &amp; Response</title>
-      <link>//cloudfeed.net/post/morphick-and-endgame-launch-advanced-managed-endpoint-detection--response/</link>
-      <pubDate>Wed, 25 Jan 2017 13:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/morphick-and-endgame-launch-advanced-managed-endpoint-detection--response/</guid>
-      <description>&lt;p&gt;Yahoo Finance Morphick&amp;rsquo;s proven approach combines attack detection, threat hunting, incident response, and tailored threat intelligence to deliver morphing &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/morphick-endgame-launch-advanced-managed-133000048.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/morphick-endgame-launch-advanced-managed-133000048.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
