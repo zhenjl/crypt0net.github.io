@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 24 Jan 2017 20:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2017 21:10:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Release: Amazon RDS on 2017-01-23</title>
+      <link>//cloudfeed.net/post/release-amazon-rds-on-20170123/</link>
+      <pubDate>Tue, 24 Jan 2017 21:10:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/release-amazon-rds-on-20170123/</guid>
+      <description>&lt;p&gt;Amazon RDS now supports creating an encrypted Read Replica in &amp;hellip;  &lt;a href=&#34;https://aws.amazon.com/releasenotes/9585690935451604&#34; onclick=&#34;trackOutboundLink(&#39;https://aws.amazon.com/releasenotes/9585690935451604&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CBA and OTC trial first government bond using blockchain</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/alipay-to-integrate-blockchain-into-payment-app/</guid>
       <description>&lt;p&gt;CoinTelegraph has revealed that Alipay, the payment application developed by Ant Financial  a subsidiary of Alibaba, is currently planning to &amp;hellip;  &lt;a href=&#34;http://allcoinsnews.com/2017/01/24/alipay-to-integrate-blockchain-into-payment-app/&#34; onclick=&#34;trackOutboundLink(&#39;http://allcoinsnews.com/2017/01/24/alipay-to-integrate-blockchain-into-payment-app/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cisco buys AppDynamics for $3.7 billion, plots business performance</title>
-      <link>//cloudfeed.net/post/cisco-buys-appdynamics-for-37-billion-plots-business-performance/</link>
-      <pubDate>Tue, 24 Jan 2017 18:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/cisco-buys-appdynamics-for-37-billion-plots-business-performance/</guid>
-      <description>&lt;p&gt;ZDNet AppDynamics will be run by its CEO David Wadhwani under a new unit housed in Cisco&amp;rsquo;s Internet of things division. Wadhwani will report to Rowan &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/cisco-buys-appdynamics-for-3-7-billion-plots-business-performance-expansion/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/cisco-buys-appdynamics-for-3-7-billion-plots-business-performance-expansion/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

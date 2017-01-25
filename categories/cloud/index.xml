@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 24 Jan 2017 20:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2017 21:10:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Release: Amazon RDS on 2017-01-23</title>
+      <link>//cloudfeed.net/post/release-amazon-rds-on-20170123/</link>
+      <pubDate>Tue, 24 Jan 2017 21:10:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/release-amazon-rds-on-20170123/</guid>
+      <description>&lt;p&gt;Amazon RDS now supports creating an encrypted Read Replica in &amp;hellip;  &lt;a href=&#34;https://aws.amazon.com/releasenotes/9585690935451604&#34; onclick=&#34;trackOutboundLink(&#39;https://aws.amazon.com/releasenotes/9585690935451604&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ruby-azure-sdk 0.8.0-1 source package in Ubuntu</title>
@@ -261,18 +273,6 @@
       
       <guid>//cloudfeed.net/post/what-is-the-difference-between-web-role-and-worker-role-in-azure/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s important to know the difference between the web role and the worker role when testing applications in Microsoft&amp;rsquo;s Azure. Expert Matthew Pascucci &amp;hellip;  &lt;a href=&#34;http://searchcloudsecurity.techtarget.com/answer/What-is-the-difference-between-web-role-and-worker-role-in-Azure&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudsecurity.techtarget.com/answer/What-is-the-difference-between-web-role-and-worker-role-in-Azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Oracle preparing to compete with AWS</title>
-      <link>//cloudfeed.net/post/oracle-preparing-to-compete-with-aws/</link>
-      <pubDate>Tue, 24 Jan 2017 10:00:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/oracle-preparing-to-compete-with-aws/</guid>
-      <description>&lt;p&gt;After launching its public cloud services in September, Oracle is vying for the large Indian market  dominated by Amazon Web Services  by &amp;hellip;  &lt;a href=&#34;http://www.thehindubusinessline.com/info-tech/oracle/article9500167.ece&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thehindubusinessline.com/info-tech/oracle/article9500167.ece&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
