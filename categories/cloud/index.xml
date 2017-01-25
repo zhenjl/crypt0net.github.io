@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 24 Jan 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2017 19:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alternative Facts: Private Cloud versus Public Cloud</title>
+      <link>//cloudfeed.net/post/alternative-facts-private-cloud-versus-public-cloud/</link>
+      <pubDate>Tue, 24 Jan 2017 19:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/alternative-facts-private-cloud-versus-public-cloud/</guid>
+      <description>&lt;p&gt;The OpenStack Foundation is seeing some of the same concerns. 451 Research reported that public clouds are the most economical option for small &amp;hellip;  &lt;a href=&#34;https://www.sdxcentral.com/articles/news/alternative-facts-private-cloud-versus-public-cloud/2017/01/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sdxcentral.com/articles/news/alternative-facts-private-cloud-versus-public-cloud/2017/01/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Jan 24, 2017</title>
@@ -261,18 +273,6 @@
       
       <guid>//cloudfeed.net/post/gain-full-access-to-microsoft-azure-without-interfering-with-your/</guid>
       <description>&lt;p&gt;Yahoo Finance The Opsgility Cloud Sandbox enables your team of experts to experiment, learn and perform development and test in Microsoft Azure without the risk &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/gain-full-access-microsoft-azure-130000839.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/gain-full-access-microsoft-azure-130000839.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Riverbed SteelConnect is Ready for Microsoft Azure!</title>
-      <link>//cloudfeed.net/post/riverbed-steelconnect-is-ready-for-microsoft-azure/</link>
-      <pubDate>Tue, 24 Jan 2017 07:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/riverbed-steelconnect-is-ready-for-microsoft-azure/</guid>
-      <description>&lt;p&gt;Riverbed&amp;rsquo;s app-defined SD-WAN solution to Azure! As a Gold Cloud &amp;hellip;  &lt;a href=&#34;https://www.riverbed.com/blogs/riverbed-steelconnect-is-ready-for-microsoft-azure.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.riverbed.com/blogs/riverbed-steelconnect-is-ready-for-microsoft-azure.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
