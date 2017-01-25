@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 25 Jan 2017 00:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2017 02:50:07 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ROK Technologies, LLC Expands Its Expertise to Include AWS Certification</title>
+      <link>//cloudfeed.net/post/rok-technologies-llc-expands-its-expertise-to-include-aws-certification/</link>
+      <pubDate>Wed, 25 Jan 2017 02:50:07 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/rok-technologies-llc-expands-its-expertise-to-include-aws-certification/</guid>
+      <description>&lt;p&gt;&amp;hellip; Cloud Management, WebGIS and IoT, today announced that two of its top programmers are now Amazon Web Services (AWS) Certified Developer &amp;hellip;  &lt;a href=&#34;http://www.prweb.com/releases/2017/01/prweb14012087.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prweb.com/releases/2017/01/prweb14012087.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS: how cloud is shifting the paradigm for businesses</title>
@@ -261,18 +273,6 @@
       
       <guid>//cloudfeed.net/post/google-boosts-cloud-team-with-new-vp-global-partner-sales-and-strategic/</guid>
       <description>&lt;p&gt;Talkin&amp;rsquo; Cloud Google has named Bertrand Yansouni as its new Vice President Global Partner Sales and Strategic Alliances for Google Cloud to lead its push for &amp;hellip;  &lt;a href=&#34;http://talkincloud.com/cloud-computing-channel-chiefs/google-boosts-cloud-team-new-vp-global-partner-sales-and-strategic-al&#34; onclick=&#34;trackOutboundLink(&#39;http://talkincloud.com/cloud-computing-channel-chiefs/google-boosts-cloud-team-new-vp-global-partner-sales-and-strategic-al&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Importing Cisco UCS nodes with OpenStack director 10 fails certificate</title>
-      <link>//cloudfeed.net/post/importing-cisco-ucs-nodes-with-openstack-director-10-fails-certificate/</link>
-      <pubDate>Tue, 24 Jan 2017 13:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/importing-cisco-ucs-nodes-with-openstack-director-10-fails-certificate/</guid>
-      <description>&lt;p&gt;While attempting to import Cisco UCS blades into ironic, OpenStack director fails to get power state for the node: Error: &lt;urlopen error [SSL: ...  &lt;a href=&#34;https://access.redhat.com/solutions/2887781&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2887781&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
