@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 24 Jan 2017 20:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2017 20:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ruby-azure-sdk 0.8.0-1 source package in Ubuntu</title>
+      <link>//cloudfeed.net/post/rubyazuresdk-0801-source-package-in-ubuntu/</link>
+      <pubDate>Tue, 24 Jan 2017 20:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/rubyazuresdk-0801-source-package-in-ubuntu/</guid>
+      <description>&lt;p&gt;Authorization. The Azure SDK for Ruby provides a Ruby interface to Azure Resource &amp;hellip;  &lt;a href=&#34;https://launchpad.net/ubuntu/+source/ruby-azure-sdk/0.8.0-1&#34; onclick=&#34;trackOutboundLink(&#39;https://launchpad.net/ubuntu/+source/ruby-azure-sdk/0.8.0-1&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Riverbed announces the SteelConnect SD-WAN-Azure integration</title>
@@ -261,18 +273,6 @@
       
       <guid>//cloudfeed.net/post/oracle-preparing-to-compete-with-aws/</guid>
       <description>&lt;p&gt;After launching its public cloud services in September, Oracle is vying for the large Indian market  dominated by Amazon Web Services  by &amp;hellip;  &lt;a href=&#34;http://www.thehindubusinessline.com/info-tech/oracle/article9500167.ece&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thehindubusinessline.com/info-tech/oracle/article9500167.ece&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>.NET programmers, it&#39;s time to look to the Azure IoT Hub for help</title>
-      <link>//cloudfeed.net/post/net-programmers-its-time-to-look-to-the-azure-iot-hub-for-help/</link>
-      <pubDate>Tue, 24 Jan 2017 08:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/net-programmers-its-time-to-look-to-the-azure-iot-hub-for-help/</guid>
-      <description>&lt;p&gt;Since Microsoft Azure is a preferred cloud partner to .NET development, it&amp;rsquo;s easiest to frame your .NET IoT application by referencing the Azure IoT &amp;hellip;  &lt;a href=&#34;http://searchcloudapplications.techtarget.com/tip/NET-programmers-its-time-to-look-to-the-Azure-IoT-Hub-for-help&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudapplications.techtarget.com/tip/NET-programmers-its-time-to-look-to-the-Azure-IoT-Hub-for-help&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
