@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 25 Jan 2017 09:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2017 09:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Java with Ray Tsang and Rajeev Dayal</title>
+      <link>//cloudfeed.net/post/java-with-ray-tsang-and-rajeev-dayal/</link>
+      <pubDate>Wed, 25 Jan 2017 09:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/java-with-ray-tsang-and-rajeev-dayal/</guid>
+      <description>&lt;p&gt;Dayal tell us everything there is to know about Java on Google Cloud &amp;hellip;  &lt;a href=&#34;https://www.gcppodcast.com/post/episode-58-java-with-ray-tsang-and-rajeev-dayal/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.gcppodcast.com/post/episode-58-java-with-ray-tsang-and-rajeev-dayal/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deploy scalable, cost-effective websites in minutes using Solodev</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/openstack-startup-platform9-delivers-managed-kubernetes-service/</guid>
       <description>&lt;p&gt;While OpenStack and VMware solutions are popular among tech companies and retailers that run virtualized workloads, applications built in the last &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/cloud/300083525/openstack-startup-platform9-delivers-managed-kubernetes-service.htm?itc=hp_ots&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300083525/openstack-startup-platform9-delivers-managed-kubernetes-service.htm?itc=hp_ots&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ajilon takes miners to the cloud with Azure analytics</title>
-      <link>//cloudfeed.net/post/ajilon-takes-miners-to-the-cloud-with-azure-analytics/</link>
-      <pubDate>Tue, 24 Jan 2017 21:50:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/ajilon-takes-miners-to-the-cloud-with-azure-analytics/</guid>
-      <description>&lt;p&gt;&amp;hellip; IT service provider, Ajilon, has completed a project with mining company, Roy Hill, to build a business analytics platform based on Microsoft Azure.  &lt;a href=&#34;http://www.arnnet.com.au/article/613209/ajilon-takes-miners-cloud-azure-analytics/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.arnnet.com.au/article/613209/ajilon-takes-miners-cloud-azure-analytics/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
