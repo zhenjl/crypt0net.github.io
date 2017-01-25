@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 25 Jan 2017 11:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2017 11:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Game Insight CTO shares company&#39;s experience moving game from servers to</title>
+      <link>//cloudfeed.net/post/game-insight-cto-shares-companys-experience-moving-game-from-servers-to/</link>
+      <pubDate>Wed, 25 Jan 2017 11:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/game-insight-cto-shares-companys-experience-moving-game-from-servers-to/</guid>
+      <description>&lt;p&gt;Not only is hosting our backend services on Microsoft Azure now considerably less expensive, it is much more flexible, allowing us to adjust server &amp;hellip;  &lt;a href=&#34;http://blogs.microsoft.com/firehose/2017/01/24/game-insight-cto-shares-companys-experience-moving-game-from-servers-to-azure/&#34; onclick=&#34;trackOutboundLink(&#39;http://blogs.microsoft.com/firehose/2017/01/24/game-insight-cto-shares-companys-experience-moving-game-from-servers-to-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Platform9 Introduces Infrastructure-Agnostic Managed Kubernetes Service</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-announces-azure-documentdb-sdk-for-xamarin-mobile-platform/</guid>
       <description>&lt;p&gt;Microsoft today announced Azure DocumentDB SDK for Xamarin mobile platform. This new SDK enables mobile apps to interact directly with &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-announces-azure-documentdb-sdk-xamarin-mobile-platform/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-announces-azure-documentdb-sdk-xamarin-mobile-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Riverbed Offers Cloud Networking for Azure, Earns Microsoft Gold Competency</title>
-      <link>//cloudfeed.net/post/riverbed-offers-cloud-networking-for-azure-earns-microsoft-gold-competency/</link>
-      <pubDate>Wed, 25 Jan 2017 06:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/riverbed-offers-cloud-networking-for-azure-earns-microsoft-gold-competency/</guid>
-      <description>&lt;p&gt;PRESS RELEASE  SAN FRANCISCO  January 24, 2017  Riverbed Technology, the application performance company, today announced that &amp;hellip;  &lt;a href=&#34;http://www.channelpartnersonline.com/news/2017/01/riverbed-offers-cloud-networking-for-azure-earns-microsoft-gold-competency.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.channelpartnersonline.com/news/2017/01/riverbed-offers-cloud-networking-for-azure-earns-microsoft-gold-competency.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
