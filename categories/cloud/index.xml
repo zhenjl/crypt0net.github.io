@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 26 Jan 2017 10:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2017 10:40:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deployment validation for number of processes fails in Red Hat OpenStack</title>
+      <link>//cloudfeed.net/post/deployment-validation-for-number-of-processes-fails-in-red-hat-openstack/</link>
+      <pubDate>Thu, 26 Jan 2017 10:40:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/deployment-validation-for-number-of-processes-fails-in-red-hat-openstack/</guid>
+      <description>&lt;p&gt;ask &amp;lsquo;Verify the number of running processes per OpenStack service&amp;rsquo; failed: Host: localhost Message: There are 9 nova-api processes running. Having &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2890171&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2890171&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Signiant Flight Now Available with SaaS Subscriptions on AWS Marketplace</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/google-to-ban-javascript-attachments-in-gmail/</guid>
       <description>&lt;p&gt;&amp;ldquo;If you still need to send .js files for legitimate reasons, you can use Google Drive, Google Cloud Storage, or other storage solutions to share or send &amp;hellip;  &lt;a href=&#34;http://www.theinquirer.net/inquirer/news/3003355/google-to-ban-javascript-attachments-in-gmail&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theinquirer.net/inquirer/news/3003355/google-to-ban-javascript-attachments-in-gmail&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Wirestorm Delivers DevOps in the Cloud with NetApp ONTAP Cloud for Amazon</title>
-      <link>//cloudfeed.net/post/wirestorm-delivers-devops-in-the-cloud-with-netapp-ontap-cloud-for-amazon/</link>
-      <pubDate>Thu, 26 Jan 2017 06:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/wirestorm-delivers-devops-in-the-cloud-with-netapp-ontap-cloud-for-amazon/</guid>
-      <description>&lt;p&gt;Nasdaq SUNNYVALE, Calif., Jan. 26, 2017 (GLOBE NEWSWIRE) &amp;ndash; &amp;ldquo;NetApp ONTAP Cloud drastically lowered our cloud cost and server spend. My team was &amp;hellip;  &lt;a href=&#34;http://www.nasdaq.com/press-release/wirestorm-delivers-devops-in-the-cloud-with-netapp-ontap-cloud-for-amazon-web-services-aws-20170126-00589&#34; onclick=&#34;trackOutboundLink(&#39;http://www.nasdaq.com/press-release/wirestorm-delivers-devops-in-the-cloud-with-netapp-ontap-cloud-for-amazon-web-services-aws-20170126-00589&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

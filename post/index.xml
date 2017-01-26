@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 26 Jan 2017 10:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2017 10:40:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deployment validation for number of processes fails in Red Hat OpenStack</title>
+      <link>//cloudfeed.net/post/deployment-validation-for-number-of-processes-fails-in-red-hat-openstack/</link>
+      <pubDate>Thu, 26 Jan 2017 10:40:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/deployment-validation-for-number-of-processes-fails-in-red-hat-openstack/</guid>
+      <description>&lt;p&gt;ask &amp;lsquo;Verify the number of running processes per OpenStack service&amp;rsquo; failed: Host: localhost Message: There are 9 nova-api processes running. Having &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2890171&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2890171&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Last Year&#39;s Data Breaches Exposed 4.2 Billion Records, Most from America</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Event Industry News Eventopedia worked directly with Microsoft to implement the modern, Azure Functions based architecture, and is one of the first technology start-ups &amp;hellip;  &lt;a href=&#34;https://www.eventindustrynews.co.uk/event-technology-news/eventopedia-3-0-introduces-venue-finding-cloud-powered-microsoft-azure-platform/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.eventindustrynews.co.uk/event-technology-news/eventopedia-3-0-introduces-venue-finding-cloud-powered-microsoft-azure-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What Blockchain Skills Are In High Demand: Digital Headhunter</title>
-      <link>//cloudfeed.net/post/what-blockchain-skills-are-in-high-demand-digital-headhunter/</link>
-      <pubDate>Thu, 26 Jan 2017 08:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/what-blockchain-skills-are-in-high-demand-digital-headhunter/</guid>
-      <description>&lt;p&gt;Our London Correspondent Nick Ayton asks digital headhunter Philip Butler, director of Larson Digital, what impact the skills shortage is having on &amp;hellip;  &lt;a href=&#34;https://cointelegraph.com/news/what-blockchain-skills-are-in-high-demand-digital-headhunter&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/what-blockchain-skills-are-in-high-demand-digital-headhunter&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
