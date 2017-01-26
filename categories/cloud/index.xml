@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 26 Jan 2017 04:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2017 05:00:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cloud Bottlenecks: How Pokmon Go (and other game dev teams) caught them</title>
+      <link>//cloudfeed.net/post/cloud-bottlenecks-how-pokmon-go-and-other-game-dev-teams-caught-them/</link>
+      <pubDate>Thu, 26 Jan 2017 05:00:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/cloud-bottlenecks-how-pokmon-go-and-other-game-dev-teams-caught-them/</guid>
+      <description>&lt;p&gt;Ars Technica &amp;hellip; before its spin-off), Pokmon Go relied heavily on Google&amp;rsquo;s cloud platform and application services to provide the infrastructure behind the game.  &lt;a href=&#34;https://arstechnica.com/information-technology/2017/01/what-pokemon-go-and-other-games-can-teach-developers-about-scaling-up-in-the-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://arstechnica.com/information-technology/2017/01/what-pokemon-go-and-other-games-can-teach-developers-about-scaling-up-in-the-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Women in IT Awards 2017: winners revealed</title>
+      <link>//cloudfeed.net/post/women-in-it-awards-2017-winners-revealed/</link>
+      <pubDate>Thu, 26 Jan 2017 05:00:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/women-in-it-awards-2017-winners-revealed/</guid>
+      <description>&lt;p&gt;The Women in IT Awards, organised by Information Age in partnership with Amazon Web Services, aims to tackle the technology industry&amp;rsquo;s gender &amp;hellip;  &lt;a href=&#34;http://www.information-age.com/women-awards-2017-winners-revealed-123464155/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.information-age.com/women-awards-2017-winners-revealed-123464155/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>mcaConnect&#39;s D365 for Energy Enterprise Solution is Now Available to be</title>
@@ -294,30 +318,6 @@
       
       <guid>//cloudfeed.net/post/teleware-celebrates-25-years-of-innovation-and-communication/</guid>
       <description>&lt;p&gt;The company&amp;rsquo;s work with Microsoft goes even deeper than that as &amp;hellip; a call in real time through Microsoft Azure and the second being to completely &amp;hellip;  &lt;a href=&#34;https://telecomreseller.com/2017/01/25/teleware-celebrates-25-years-of-innovation-and-communication/&#34; onclick=&#34;trackOutboundLink(&#39;https://telecomreseller.com/2017/01/25/teleware-celebrates-25-years-of-innovation-and-communication/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On Feb. 13th Gmail Will Block Attachments Of Javscript Files</title>
-      <link>//cloudfeed.net/post/on-feb-13th-gmail-will-block-attachments-of-javscript-files/</link>
-      <pubDate>Wed, 25 Jan 2017 17:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/on-feb-13th-gmail-will-block-attachments-of-javscript-files/</guid>
-      <description>&lt;p&gt;&amp;hellip; still entirely possible to share Javascript files through two other Google services which include both Drive and Google Cloud Storage. On top of this, &amp;hellip;  &lt;a href=&#34;http://www.androidheadlines.com/2017/01/on-feb-13th-gmail-will-block-attachments-of-javscript-files.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.androidheadlines.com/2017/01/on-feb-13th-gmail-will-block-attachments-of-javscript-files.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Modern Data Warehousing with Continuous Integration</title>
-      <link>//cloudfeed.net/post/modern-data-warehousing-with-continuous-integration/</link>
-      <pubDate>Wed, 25 Jan 2017 15:50:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/modern-data-warehousing-with-continuous-integration/</guid>
-      <description>&lt;p&gt;adopting CI practices which are more prevalent for API (.NET) based &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/blog/modern-data-warehousing-with-continuous-integration/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/blog/modern-data-warehousing-with-continuous-integration/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
