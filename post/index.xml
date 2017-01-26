@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 26 Jan 2017 13:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2017 13:40:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>For Scalyr, it&#39;s about speed, scale and simplicity in log management</title>
+      <link>//cloudfeed.net/post/for-scalyr-its-about-speed-scale-and-simplicity-in-log-management/</link>
+      <pubDate>Thu, 26 Jan 2017 13:40:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/for-scalyr-its-about-speed-scale-and-simplicity-in-log-management/</guid>
+      <description>&lt;p&gt;Splunk. It developed its own data store so it could deliver very fast search &amp;hellip;  &lt;a href=&#34;https://451research.com/report-short?entityId=91425&#34; onclick=&#34;trackOutboundLink(&#39;https://451research.com/report-short?entityId=91425&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Working on Windows 10 Cloud Shell</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/analyst-stock-trading-analysis-on-orbcomm-inc-orbc/</guid>
       <description>&lt;p&gt;ORBCOMM INC., is a leading global satellite data communications company, focused on Machine-to-Machine communications. Its customers include &amp;hellip;  &lt;a href=&#34;https://www.highlandmirror.com/2017-01-26-analyst-stock-trading-analysis-on-orbcomm-inc-orbc&#34; onclick=&#34;trackOutboundLink(&#39;https://www.highlandmirror.com/2017-01-26-analyst-stock-trading-analysis-on-orbcomm-inc-orbc&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>LendingRobot taps blockchain for robo-fund</title>
-      <link>//cloudfeed.net/post/lendingrobot-taps-blockchain-for-robofund/</link>
-      <pubDate>Thu, 26 Jan 2017 11:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/lendingrobot-taps-blockchain-for-robofund/</guid>
-      <description>&lt;p&gt;LendingRobot, the first robo-advisor for Alternative Lending built for individual investors, announced today the launch of robo-fund LendingRobot &amp;hellip;  &lt;a href=&#34;https://www.finextra.com/pressarticle/67791/lendingrobot-taps-blockchain-for-robo-fund&#34; onclick=&#34;trackOutboundLink(&#39;https://www.finextra.com/pressarticle/67791/lendingrobot-taps-blockchain-for-robo-fund&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
