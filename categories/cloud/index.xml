@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 26 Jan 2017 13:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2017 13:50:07 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack machine driver - host add removes public key on a failed</title>
+      <link>//cloudfeed.net/post/openstack-machine-driver--host-add-removes-public-key-on-a-failed/</link>
+      <pubDate>Thu, 26 Jan 2017 13:50:07 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-machine-driver--host-add-removes-public-key-on-a-failed/</guid>
+      <description>&lt;p&gt;OpenStack machine driver - host add removes public key on a failed &amp;hellip; a roll back scenario it deleted the public key that was pre-created in OpenStack &amp;hellip;  &lt;a href=&#34;https://github.com/rancher/rancher/issues/7570&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/rancher/rancher/issues/7570&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Working on Windows 10 Cloud Shell</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/cloudbased-applications-where-are-you-on-the-adoption-curve/</guid>
       <description>&lt;p&gt;G Suite can also serve as single sign-on (SSO) security for some non-Google cloud applications. Once your business is live on G Suite, you can &amp;hellip;  &lt;a href=&#34;https://insights.samsung.com/2017/01/26/cloud-based-applications-where-are-you-on-the-adoption-curve/&#34; onclick=&#34;trackOutboundLink(&#39;https://insights.samsung.com/2017/01/26/cloud-based-applications-where-are-you-on-the-adoption-curve/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Eventopedia 3.0 introduces venue finding in the cloud powered by the</title>
-      <link>//cloudfeed.net/post/eventopedia-30-introduces-venue-finding-in-the-cloud-powered-by-the/</link>
-      <pubDate>Thu, 26 Jan 2017 08:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/eventopedia-30-introduces-venue-finding-in-the-cloud-powered-by-the/</guid>
-      <description>&lt;p&gt;Event Industry News Eventopedia worked directly with Microsoft to implement the modern, Azure Functions based architecture, and is one of the first technology start-ups &amp;hellip;  &lt;a href=&#34;https://www.eventindustrynews.co.uk/event-technology-news/eventopedia-3-0-introduces-venue-finding-cloud-powered-microsoft-azure-platform/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.eventindustrynews.co.uk/event-technology-news/eventopedia-3-0-introduces-venue-finding-cloud-powered-microsoft-azure-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
