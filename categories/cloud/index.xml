@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 26 Jan 2017 11:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2017 12:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft announces Azure Event Hubs Dedicated Capacity offering</title>
+      <link>//cloudfeed.net/post/microsoft-announces-azure-event-hubs-dedicated-capacity-offering/</link>
+      <pubDate>Thu, 26 Jan 2017 12:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-announces-azure-event-hubs-dedicated-capacity-offering/</guid>
+      <description>&lt;p&gt;Microsoft Azure team recently announced a new offering for dedicated single-tenant Event Hub deployments for their most demanding customers.  &lt;a href=&#34;https://mspoweruser.com/microsoft-announces-azure-event-hubs-dedicated-capacity-offering/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-announces-azure-event-hubs-dedicated-capacity-offering/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Interviews, Tool Roundups and Highlights from OStatic</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-silences-brexit-exit-fears-with-groundbreaking-cloud--digital/</guid>
       <description>&lt;p&gt;Computer Business Review At Microsoft, we aim to do our part by investing back into the UK digital &amp;hellip; will be based solely on Microsoft&amp;rsquo;s Azure cloud and its portfolio of offerings.  &lt;a href=&#34;http://www.cbronline.com/news/verticals/cio-agenda/microsoft-silences-brexit-exit-fears-ground-breaking-cloud-digital-skills-programme/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/verticals/cio-agenda/microsoft-silences-brexit-exit-fears-ground-breaking-cloud-digital-skills-programme/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Gmail Restrictions May Force Hackers To Look For New Method Of</title>
-      <link>//cloudfeed.net/post/google-gmail-restrictions-may-force-hackers-to-look-for-new-method-of/</link>
-      <pubDate>Thu, 26 Jan 2017 07:10:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/google-gmail-restrictions-may-force-hackers-to-look-for-new-method-of/</guid>
-      <description>&lt;p&gt;University Herald However, it still possible to share Javascript files through two of other Google services, Google Drive and Google Cloud Storage. Although Google&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/62368/20170126/google-gmail-restrictions-force-hackers-look-new-method-malware-distribution.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/62368/20170126/google-gmail-restrictions-force-hackers-look-new-method-malware-distribution.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

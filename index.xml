@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 26 Jan 2017 12:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2017 12:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft announces Azure Event Hubs Dedicated Capacity offering</title>
+      <link>//cloudfeed.net/post/microsoft-announces-azure-event-hubs-dedicated-capacity-offering/</link>
+      <pubDate>Thu, 26 Jan 2017 12:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-announces-azure-event-hubs-dedicated-capacity-offering/</guid>
+      <description>&lt;p&gt;Microsoft Azure team recently announced a new offering for dedicated single-tenant Event Hub deployments for their most demanding customers.  &lt;a href=&#34;https://mspoweruser.com/microsoft-announces-azure-event-hubs-dedicated-capacity-offering/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-announces-azure-event-hubs-dedicated-capacity-offering/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Breach site LeakedSource apparently raided by feds</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;SynthOS streamlines the process of creating optimized application-specific software for the Internet of Things and other embedded systems. Requiring &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/zeidman-technologies-releases-free-version-161700364.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/zeidman-technologies-releases-free-version-161700364.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Expands Azure Blueprint Program for DoD Information Impact Level</title>
-      <link>//cloudfeed.net/post/microsoft-expands-azure-blueprint-program-for-dod-information-impact-level/</link>
-      <pubDate>Thu, 26 Jan 2017 10:50:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-expands-azure-blueprint-program-for-dod-information-impact-level/</guid>
-      <description>&lt;p&gt;GovConWire TYSONS CORNER, VA, Jan. 26, 2017  Microsoft (NYSE: MSFT) has released an expanded Azure Blueprint program to help Defense Department &amp;hellip;  &lt;a href=&#34;https://www.govconwire.com/2017/01/microsoft-expands-azure-blueprint-program-for-dod-information-impact-level-5-baseline/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.govconwire.com/2017/01/microsoft-expands-azure-blueprint-program-for-dod-information-impact-level-5-baseline/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
