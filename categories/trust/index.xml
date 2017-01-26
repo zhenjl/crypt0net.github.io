@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 26 Jan 2017 04:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2017 04:30:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Best practices for optimising SIEM environments</title>
+      <link>//cloudfeed.net/post/best-practices-for-optimising-siem-environments/</link>
+      <pubDate>Thu, 26 Jan 2017 04:30:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/best-practices-for-optimising-siem-environments/</guid>
+      <description>&lt;p&gt;Choose your log management tool wisely: Given the diversity of networks in the workplace, choosing a log management tool with a wide platform and &amp;hellip;  &lt;a href=&#34;http://www.information-age.com/best-practices-optimising-siem-environments-123464153/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.information-age.com/best-practices-optimising-siem-environments-123464153/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ransomware attacks quadrupled in 2016, expected to double again in 2017</title>
@@ -255,18 +267,6 @@
       
       <guid>//cloudfeed.net/post/data-breaches-reported-during-2016-exposed-over-42-billion-records/</guid>
       <description>&lt;p&gt;2016 broke the previous all-time high, set back in 2013, for the number of records exposed from reported data breaches. Security firm, Risk Based &amp;hellip;  &lt;a href=&#34;http://www.circleid.com/posts/20170125_data_breaches_reported_during_2016_exposed_over_42_billion_records/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.circleid.com/posts/20170125_data_breaches_reported_during_2016_exposed_over_42_billion_records/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Morphick and Endgame Launch Advanced Managed Endpoint Detection &amp; Response</title>
-      <link>//cloudfeed.net/post/morphick-and-endgame-launch-advanced-managed-endpoint-detection--response/</link>
-      <pubDate>Wed, 25 Jan 2017 13:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/morphick-and-endgame-launch-advanced-managed-endpoint-detection--response/</guid>
-      <description>&lt;p&gt;Yahoo Finance Morphick&amp;rsquo;s proven approach combines attack detection, threat hunting, incident response, and tailored threat intelligence to deliver morphing &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/morphick-endgame-launch-advanced-managed-133000048.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/morphick-endgame-launch-advanced-managed-133000048.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
