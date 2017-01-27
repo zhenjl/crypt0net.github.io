@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 26 Jan 2017 16:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2017 17:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google CEO:Cloud Had A Breakout Year In 2016</title>
+      <link>//cloudfeed.net/post/google-ceocloud-had-a-breakout-year-in-2016/</link>
+      <pubDate>Thu, 26 Jan 2017 17:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/google-ceocloud-had-a-breakout-year-in-2016/</guid>
+      <description>&lt;p&gt;Google&amp;rsquo;s cloud took major strides forward in 2016, accelerating the pace at which features were rolled out, differentiating its technological capabilities &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/cloud/300083549/google-ceocloud-had-a-breakout-year-in-2016.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300083549/google-ceocloud-had-a-breakout-year-in-2016.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft&#39;s cloud competitor to Amazon nearly doubled revenue and usage</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/google-wants-to-add-ai-to-gadgets-made-using-raspberry-pi/</guid>
       <description>&lt;p&gt;But boards don&amp;rsquo;t have much processing power, so the tools could push back decision-making to Google&amp;rsquo;s cloud, which has more powerful AI and &amp;hellip;  &lt;a href=&#34;http://www.cio.com/article/3162048/internet-of-things/google-wants-to-add-ai-to-gadgets-made-using-raspberry-pi.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3162048/internet-of-things/google-wants-to-add-ai-to-gadgets-made-using-raspberry-pi.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OpenStack machine driver - host add removes public key on a failed</title>
-      <link>//cloudfeed.net/post/openstack-machine-driver--host-add-removes-public-key-on-a-failed/</link>
-      <pubDate>Thu, 26 Jan 2017 13:50:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/openstack-machine-driver--host-add-removes-public-key-on-a-failed/</guid>
-      <description>&lt;p&gt;OpenStack machine driver - host add removes public key on a failed &amp;hellip; a roll back scenario it deleted the public key that was pre-created in OpenStack &amp;hellip;  &lt;a href=&#34;https://github.com/rancher/rancher/issues/7570&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/rancher/rancher/issues/7570&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
