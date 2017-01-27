@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 27 Jan 2017 02:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jan 2017 03:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Data Integration Journey to the Cloud</title>
+      <link>//cloudfeed.net/post/the-data-integration-journey-to-the-cloud/</link>
+      <pubDate>Fri, 27 Jan 2017 03:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/the-data-integration-journey-to-the-cloud/</guid>
+      <description>&lt;p&gt;Many organizations will increase their spending on public platform vendors (like Amazon AWS, Microsoft Azure, or the Google Cloud Platform).  &lt;a href=&#34;http://data-informed.com/the-data-integration-journey-to-the-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://data-informed.com/the-data-integration-journey-to-the-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft starts to depend on Azure</title>
@@ -341,18 +353,6 @@
 
 &lt;p&gt;&lt;h3&gt;Microsoft Revenues and EPS Beat Expectations in Q2&lt;/h3&gt;
 &lt;p&gt;Microsoft said its commercial cloud business &amp;ndash; notably the Azure, Office 365 and &amp;ldquo;intelligent cloud&amp;rdquo; services &amp;ndash; are on a $14 billion run-rate, continuing &amp;hellip;  &lt;a href=&#34;https://rcpmag.com/articles/2017/01/26/microsoft-q2-fy2017-earnings.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://rcpmag.com/articles/2017/01/26/microsoft-q2-fy2017-earnings.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Highlights Security Measures Built Into Open Source Hypervisor</title>
-      <link>//cloudfeed.net/post/google-highlights-security-measures-built-into-open-source-hypervisor/</link>
-      <pubDate>Thu, 26 Jan 2017 18:00:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/google-highlights-security-measures-built-into-open-source-hypervisor/</guid>
-      <description>&lt;p&gt;Over the same period, the open source community has found no vulnerabilities in the hypervisor that have impacted the Google Cloud platform, they &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/google-touts-security-measures-for-its-open-source-hypervisor.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/google-touts-security-measures-for-its-open-source-hypervisor.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
