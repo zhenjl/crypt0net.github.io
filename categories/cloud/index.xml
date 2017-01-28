@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 28 Jan 2017 11:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2017 11:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The first and final words on OpenStack availability zones</title>
+      <link>//cloudfeed.net/post/the-first-and-final-words-on-openstack-availability-zones/</link>
+      <pubDate>Sat, 28 Jan 2017 11:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/the-first-and-final-words-on-openstack-availability-zones/</guid>
+      <description>&lt;p&gt;constructs in OpenStack. Each cloud operator has a different idea about &amp;hellip;  &lt;a href=&#34;https://www.mirantis.com/blog/the-first-and-final-word-on-openstack-availability-zones/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/the-first-and-final-word-on-openstack-availability-zones/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Data Science on the Google Cloud Platform</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/bynder-collaborates-with-amazon-rekognition-brings-ai-at-the-core-of-dam/</guid>
       <description>&lt;p&gt;It is the first DAM platform to leverage Amazon Web Services (AWS) Rekognition, introduced specifically to save marketers hours of time spent in &amp;hellip;  &lt;a href=&#34;http://martechseries.com/analytics/data-management-platforms/bynders-collaboration-with-awss-rekognition-brings-ai-at-the-core-of-its-dam-platform/&#34; onclick=&#34;trackOutboundLink(&#39;http://martechseries.com/analytics/data-management-platforms/bynders-collaboration-with-awss-rekognition-brings-ai-at-the-core-of-its-dam-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft&#39;s quarterly profit rises 3.6 percent</title>
-      <link>//cloudfeed.net/post/microsofts-quarterly-profit-rises-36-percent/</link>
-      <pubDate>Sat, 28 Jan 2017 03:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsofts-quarterly-profit-rises-36-percent/</guid>
-      <description>&lt;p&gt;Co-engineered by two industry powerhouses, HPE and Microsoft, this &amp;hellip; in your own datacenter-a Microsoft Azure Stack that is consistent with Azure &amp;hellip;  &lt;a href=&#34;http://hitechchronicle.com/2017/01/27/microsofts-quarterly-profit-rises-3-6-percent.html&#34; onclick=&#34;trackOutboundLink(&#39;http://hitechchronicle.com/2017/01/27/microsofts-quarterly-profit-rises-3-6-percent.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
