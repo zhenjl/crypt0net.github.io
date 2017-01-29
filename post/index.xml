@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 28 Jan 2017 18:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2017 19:50:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Transfer Data with the Microsoft Azure Storage Data Movement Library</title>
+      <link>//cloudfeed.net/post/transfer-data-with-the-microsoft-azure-storage-data-movement-library/</link>
+      <pubDate>Sat, 28 Jan 2017 19:50:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/transfer-data-with-the-microsoft-azure-storage-data-movement-library/</guid>
+      <description>&lt;p&gt;cross-platform open source library that is designed for high performance &amp;hellip;  &lt;a href=&#34;https://docs.microsoft.com/en-us/azure/storage/storage-use-data-movement-library&#34; onclick=&#34;trackOutboundLink(&#39;https://docs.microsoft.com/en-us/azure/storage/storage-use-data-movement-library&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Internet of Things Messaging, Part 3: Testing Mosquitto</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/the-power-bi-sales-management-solution-template-for-salesforce-now-supports/</guid>
       <description>&lt;p&gt;MSPoweruser Now, Microsoft has added support for Azure Data Factory. Azure Data Factory is a cloud-based data integration service that orchestrates and &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/the-power-bi-sales-management-solution-template-for-salesforce-now-supports-azure-data-factory/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/the-power-bi-sales-management-solution-template-for-salesforce-now-supports-azure-data-factory/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The first and final words on OpenStack availability zones</title>
-      <link>//cloudfeed.net/post/the-first-and-final-words-on-openstack-availability-zones/</link>
-      <pubDate>Sat, 28 Jan 2017 11:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/the-first-and-final-words-on-openstack-availability-zones/</guid>
-      <description>&lt;p&gt;constructs in OpenStack. Each cloud operator has a different idea about &amp;hellip;  &lt;a href=&#34;https://www.mirantis.com/blog/the-first-and-final-word-on-openstack-availability-zones/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/the-first-and-final-word-on-openstack-availability-zones/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

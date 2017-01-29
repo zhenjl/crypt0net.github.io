@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 28 Jan 2017 18:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2017 19:50:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Transfer Data with the Microsoft Azure Storage Data Movement Library</title>
+      <link>//cloudfeed.net/post/transfer-data-with-the-microsoft-azure-storage-data-movement-library/</link>
+      <pubDate>Sat, 28 Jan 2017 19:50:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/transfer-data-with-the-microsoft-azure-storage-data-movement-library/</guid>
+      <description>&lt;p&gt;cross-platform open source library that is designed for high performance &amp;hellip;  &lt;a href=&#34;https://docs.microsoft.com/en-us/azure/storage/storage-use-data-movement-library&#34; onclick=&#34;trackOutboundLink(&#39;https://docs.microsoft.com/en-us/azure/storage/storage-use-data-movement-library&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Internet of Things Messaging, Part 3: Testing Mosquitto</title>
@@ -398,18 +410,6 @@
       
       <guid>//cloudfeed.net/post/mitre-announces-winner-of-internet-of-things-iot-challenge/</guid>
       <description>&lt;p&gt;/EINPresswire.com/  MCLEAN, VA and BEDFORD, MA(Marketwired  January 27, 2017)  A team from Georgia has won the MITRE Unique &amp;hellip;  &lt;a href=&#34;http://www.satprnews.com/2017/01/28/mitre-announces-winner-of-internet-of-things-iot-challenge/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.satprnews.com/2017/01/28/mitre-announces-winner-of-internet-of-things-iot-challenge/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blockchain Companies Play an Important Role in OSC&#39;s Fintech Advisory</title>
-      <link>//cloudfeed.net/post/blockchain-companies-play-an-important-role-in-oscs-fintech-advisory/</link>
-      <pubDate>Sat, 28 Jan 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/blockchain-companies-play-an-important-role-in-oscs-fintech-advisory/</guid>
-      <description>&lt;p&gt;newsBTC Ontario Securities Commission&amp;rsquo;s Fintech Advisory Committee includes representatives from some of the leading blockchain and fintech firms.  &lt;a href=&#34;http://www.newsbtc.com/2017/01/28/osc-fintech-advisory-committee-blockchain-companies/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newsbtc.com/2017/01/28/osc-fintech-advisory-committee-blockchain-companies/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
