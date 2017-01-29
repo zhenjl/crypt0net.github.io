@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 28 Jan 2017 17:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2017 18:50:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Internet of Things Messaging, Part 3: Testing Mosquitto</title>
+      <link>//cloudfeed.net/post/internet-of-things-messaging-part-3-testing-mosquitto/</link>
+      <pubDate>Sat, 28 Jan 2017 18:50:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/internet-of-things-messaging-part-3-testing-mosquitto/</guid>
+      <description>&lt;p&gt;So, in the last installment of this series on the messaging protocol MQTT, we installed the Mosquitto MQTT broker. Now we&amp;rsquo;ll test it which we&amp;rsquo;re going &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3162746/internet-of-things/internet-of-things-messaging-part-3-testing-mosquitto.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3162746/internet-of-things/internet-of-things-messaging-part-3-testing-mosquitto.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchains Offer Revolutionary Potential in Fintech and Beyond</title>
@@ -29,18 +41,6 @@
       
       <guid>//cloudfeed.net/post/webconnected-medical-devices-are-great-unless---/</guid>
       <description>&lt;p&gt;Presently more than 12 billion devices are part of the Internet of Things, and this number is expected to grow to 50 billion by 2020. The range of these &amp;hellip;  &lt;a href=&#34;http://www.usatoday.com/story/money/columnist/2017/01/28/web-connected-medical-devices-great-unless/97084180/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.usatoday.com/story/money/columnist/2017/01/28/web-connected-medical-devices-great-unless/97084180/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Internet of Things Messaging, Part 3: Testing Mosquitto</title>
-      <link>//cloudfeed.net/post/internet-of-things-messaging-part-3-testing-mosquitto/</link>
-      <pubDate>Sat, 28 Jan 2017 16:40:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/internet-of-things-messaging-part-3-testing-mosquitto/</guid>
-      <description>&lt;p&gt;So, in the last installment of this series on the messaging protocol MQTT, we installed the Mosquitto MQTT broker. Now we&amp;rsquo;ll test it which we&amp;rsquo;re going &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3162746/internet-of-things/internet-of-things-messaging-part-3-testing-mosquitto.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3162746/internet-of-things/internet-of-things-messaging-part-3-testing-mosquitto.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
