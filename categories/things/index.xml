@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 28 Jan 2017 15:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2017 16:40:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Internet of Things Messaging, Part 3: Testing Mosquitto</title>
+      <link>//cloudfeed.net/post/internet-of-things-messaging-part-3-testing-mosquitto/</link>
+      <pubDate>Sat, 28 Jan 2017 16:40:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/internet-of-things-messaging-part-3-testing-mosquitto/</guid>
+      <description>&lt;p&gt;So, in the last installment of this series on the messaging protocol MQTT, we installed the Mosquitto MQTT broker. Now we&amp;rsquo;ll test it which we&amp;rsquo;re going &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3162746/internet-of-things/internet-of-things-messaging-part-3-testing-mosquitto.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3162746/internet-of-things/internet-of-things-messaging-part-3-testing-mosquitto.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cisco, Bosch, Foxconn, BNY Mellon, others launch new blockchain consortium</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/chinese-central-bank-to-use-blockchain-competition-with-alibaba/</guid>
       <description>&lt;p&gt;Earlier this week, CCN reported that the People&amp;rsquo;s Bank of China (PBoC) announced its plans of utilizing blockchain technology to develop a &amp;hellip;  &lt;a href=&#34;https://www.cryptocoinsnews.com/chinese-central-bank-use-blockchain-competition-alibaba/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cryptocoinsnews.com/chinese-central-bank-use-blockchain-competition-alibaba/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Understanding Intel&#39;s Internet of Things Story in 11 Slides</title>
-      <link>//cloudfeed.net/post/understanding-intels-internet-of-things-story-in-11-slides/</link>
-      <pubDate>Sat, 28 Jan 2017 06:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/understanding-intels-internet-of-things-story-in-11-slides/</guid>
-      <description>&lt;p&gt;Intel (NASDAQ: INTC) is undergoing a massive restructuring effort, and the Internet of Things (IoT) is set to be a crucial component of the company&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://www.foxbusiness.com/markets/2017/01/28/understanding-intel-internet-things-story-in-11-slides.html?cmpid=prn_investopedia&#34; onclick=&#34;trackOutboundLink(&#39;http://www.foxbusiness.com/markets/2017/01/28/understanding-intel-internet-things-story-in-11-slides.html?cmpid=prn_investopedia&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

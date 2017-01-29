@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 28 Jan 2017 15:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jan 2017 16:40:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Internet of Things Messaging, Part 3: Testing Mosquitto</title>
+      <link>//cloudfeed.net/post/internet-of-things-messaging-part-3-testing-mosquitto/</link>
+      <pubDate>Sat, 28 Jan 2017 16:40:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/internet-of-things-messaging-part-3-testing-mosquitto/</guid>
+      <description>&lt;p&gt;So, in the last installment of this series on the messaging protocol MQTT, we installed the Mosquitto MQTT broker. Now we&amp;rsquo;ll test it which we&amp;rsquo;re going &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3162746/internet-of-things/internet-of-things-messaging-part-3-testing-mosquitto.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3162746/internet-of-things/internet-of-things-messaging-part-3-testing-mosquitto.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Corporation&#39;s Cloud-Computing Business Is Surging</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;NEW YORK (Reuters) - Cisco Systems Inc , Bosch Ltd and several other companies, have set up a consortium to work on how blockchain can be used &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/bosch-cisco-bny-mellon-others-launch-blockchain-consortium-220718253--sector.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/bosch-cisco-bny-mellon-others-launch-blockchain-consortium-220718253--sector.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure Analysis Services availability now includes North Central US and</title>
-      <link>//cloudfeed.net/post/azure-analysis-services-availability-now-includes-north-central-us-and/</link>
-      <pubDate>Sat, 28 Jan 2017 09:50:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/azure-analysis-services-availability-now-includes-north-central-us-and/</guid>
-      <description>&lt;p&gt;With Azure Analysis Services, built on the proven analytics engine in Microsoft SQL Server Analysis Services, you can host semantic data models in &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/01/27/azure-analysis-services-availability-now-includes-north-central-us-and-brazil-south/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/01/27/azure-analysis-services-availability-now-includes-north-central-us-and-brazil-south/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
