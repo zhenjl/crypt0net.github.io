@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 31 Jan 2017 11:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jan 2017 12:20:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Times confirms: We didn&#39;t know deputy tech editor was leaving to join</title>
+      <link>//cloudfeed.net/post/times-confirms-we-didnt-know-deputy-tech-editor-was-leaving-to-join/</link>
+      <pubDate>Tue, 31 Jan 2017 12:20:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/times-confirms-we-didnt-know-deputy-tech-editor-was-leaving-to-join/</guid>
+      <description>&lt;p&gt;Late last week, New York Times deputy tech editor Quentin Hardy announced he was leaving that job to become head of editorial for Google Cloud..  &lt;a href=&#34;https://pando.com/2017/01/31/times-confirms-we-didnt-know-deputy-tech-editor-was-leaving-join-google-when-he-wrote-article-promoting-cloud-services/&#34; onclick=&#34;trackOutboundLink(&#39;https://pando.com/2017/01/31/times-confirms-we-didnt-know-deputy-tech-editor-was-leaving-join-google-when-he-wrote-article-promoting-cloud-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Eseye on embracing cloud, Amazon Web Services, and the IoT</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/software-ag-collaborates-with-google-cloud-to-make-its-digital-business/</guid>
       <description>&lt;p&gt;Yahoo Finance Software AG (Frankfurt TecDAX: SOW) today announced a collaboration with Google Cloud Platform and the immediate availability of its market &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/software-ag-collaborates-google-cloud-130000371.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/software-ag-collaborates-google-cloud-130000371.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>[Bug] [Google Cloud] Terraform tries to update</title>
-      <link>//cloudfeed.net/post/bug-google-cloud-terraform-tries-to-update/</link>
-      <pubDate>Tue, 31 Jan 2017 07:50:08 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/bug-google-cloud-terraform-tries-to-update/</guid>
-      <description>&lt;p&gt;When trying to update an instance template, terraform tries to update the instance template although it&amp;rsquo;is not allowed by google cloud. It should then &amp;hellip;  &lt;a href=&#34;https://github.com/hashicorp/terraform/issues/11547&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/hashicorp/terraform/issues/11547&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
