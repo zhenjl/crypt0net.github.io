@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 30 Jan 2017 23:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jan 2017 01:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon Cloud Directory shakes up databases</title>
+      <link>//cloudfeed.net/post/amazon-cloud-directory-shakes-up-databases/</link>
+      <pubDate>Tue, 31 Jan 2017 01:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/amazon-cloud-directory-shakes-up-databases/</guid>
+      <description>&lt;p&gt;&amp;hellip; in the cloud have generally offered hosted instances of LDAP or Active Directory, as featured by both Microsoft Azure and Amazon Web Services.  &lt;a href=&#34;http://www.techcentral.ie/amazon-cloud-directory-shakes-databases/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techcentral.ie/amazon-cloud-directory-shakes-databases/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title> From hobbyist to professional, new analyst papers, and more OpenStack news</title>
@@ -267,18 +279,6 @@
       
       <guid>//cloudfeed.net/post/azureclinspkg-012/</guid>
       <description>&lt;p&gt;necessary files for other packages to extend the azure cli namespaces.  &lt;a href=&#34;https://pypi.python.org/pypi/azure-cli-nspkg/0.1.2&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/azure-cli-nspkg/0.1.2&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Germany adds services, bolsters compliance in first-of-its</title>
-      <link>//cloudfeed.net/post/microsoft-azure-germany-adds-services-bolsters-compliance-in-firstofits/</link>
-      <pubDate>Mon, 30 Jan 2017 16:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-azure-germany-adds-services-bolsters-compliance-in-firstofits/</guid>
-      <description>&lt;p&gt;Four releases, announced Monday, expand the wide array of services already underpinning Microsoft Azure Germany, a first-of-its-kind cloud for &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/01/30/microsoft-azure-germany-adds-services-bolsters-compliance-in-first-of-its-kind-cloud-for-europe/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/01/30/microsoft-azure-germany-adds-services-bolsters-compliance-in-first-of-its-kind-cloud-for-europe/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
