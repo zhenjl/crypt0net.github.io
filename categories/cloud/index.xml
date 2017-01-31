@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 31 Jan 2017 07:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jan 2017 07:10:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Noop.yaml File Missing in OpenStack Platform 10</title>
+      <link>//cloudfeed.net/post/noopyaml-file-missing-in-openstack-platform-10/</link>
+      <pubDate>Tue, 31 Jan 2017 07:10:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/noopyaml-file-missing-in-openstack-platform-10/</guid>
+      <description>&lt;p&gt;used for resource registry to disable pre-configured networks, but the &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2895391&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2895391&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Azure Makes Monster Growth, Poses Threat to AWS In The Battle For</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-teams-up-with-tierion-to-develop-attestations-and-blockchain/</guid>
       <description>&lt;p&gt;Coinspeaker Microsoft and Tierion have officially confirmed the collaboration on a &amp;hellip; step is the next stage of Microsoft&amp;rsquo;s support of blockchain on Microsoft Azure.  &lt;a href=&#34;http://www.coinspeaker.com/2017/01/30/microsoft-teams-tierion-develop-attestations-blockchain-proof-technology/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coinspeaker.com/2017/01/30/microsoft-teams-tierion-develop-attestations-blockchain-proof-technology/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Cloud Directory shakes up databases</title>
-      <link>//cloudfeed.net/post/amazon-cloud-directory-shakes-up-databases/</link>
-      <pubDate>Tue, 31 Jan 2017 01:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-cloud-directory-shakes-up-databases/</guid>
-      <description>&lt;p&gt;&amp;hellip; in the cloud have generally offered hosted instances of LDAP or Active Directory, as featured by both Microsoft Azure and Amazon Web Services.  &lt;a href=&#34;http://www.techcentral.ie/amazon-cloud-directory-shakes-databases/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techcentral.ie/amazon-cloud-directory-shakes-databases/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
