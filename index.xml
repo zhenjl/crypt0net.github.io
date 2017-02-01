@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 31 Jan 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jan 2017 18:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud needs to add a firewall rule for LB healthchecks</title>
+      <link>//cloudfeed.net/post/google-cloud-needs-to-add-a-firewall-rule-for-lb-healthchecks/</link>
+      <pubDate>Tue, 31 Jan 2017 18:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/google-cloud-needs-to-add-a-firewall-rule-for-lb-healthchecks/</guid>
+      <description>&lt;p&gt;thockin opened this Issue 36 minutes ago  0 comments &amp;hellip;  &lt;a href=&#34;https://github.com/kubernetes/kubernetes/issues/40778&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/kubernetes/kubernetes/issues/40778&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Jan 31, 2017</title>
@@ -679,18 +691,6 @@
       <description>&lt;p&gt;Amazon.com, Inc. logo Wedbush restated their outperform rating on shares of Amazon.com, Inc. (NASDAQ:AMZN) in a research note issued to &amp;hellip;  &lt;a href=&#34;https://sportsperspectives.com/2017/01/31/amazon-coms-amzn-outperform-rating-reiterated-at-wedbush-2.html&#34; onclick=&#34;trackOutboundLink(&#39;https://sportsperspectives.com/2017/01/31/amazon-coms-amzn-outperform-rating-reiterated-at-wedbush-2.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Behavior Analytics Looks to Leapfrog SIEMs</title>
-      <link>//cloudfeed.net/post/behavior-analytics-looks-to-leapfrog-siems/</link>
-      <pubDate>Tue, 31 Jan 2017 16:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/behavior-analytics-looks-to-leapfrog-siems/</guid>
-      <description>&lt;p&gt;As the threat of data breaches grows, threat detection and response has fallen short, asserted Nir Polak, CEO and co-founder of Exabeam.  &lt;a href=&#34;https://www.datanami.com/2017/01/31/behavior-analytics-looks-leapfrog-siems/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.datanami.com/2017/01/31/behavior-analytics-looks-leapfrog-siems/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
