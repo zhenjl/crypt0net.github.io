@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 02 Feb 2017 01:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2017 01:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Want your true infrastructure cost? Use Cost Calculator for Microsoft Azure</title>
+      <link>//cloudfeed.net/post/want-your-true-infrastructure-cost-use-cost-calculator-for-microsoft-azure/</link>
+      <pubDate>Thu, 02 Feb 2017 01:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/want-your-true-infrastructure-cost-use-cost-calculator-for-microsoft-azure/</guid>
+      <description>&lt;p&gt;their potential cost after migrating to Microsoft Azure. Compare &amp;hellip;  &lt;a href=&#34;https://www.brighttalk.com/webcast/13657/245373?utm_medium=web&amp;utm_source=brighttalk-portal&amp;utm_campaign=all-brighttalk-live-recorded&#34; onclick=&#34;trackOutboundLink(&#39;https://www.brighttalk.com/webcast/13657/245373?utm_medium=web&amp;utm_source=brighttalk-portal&amp;utm_campaign=all-brighttalk-live-recorded&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>90% of Government Organizations Plan to Invest in Blockchain by 2018, IBM</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/abb-launches-nextgeneration-asset-management-solution-to-improve/</guid>
       <description>&lt;p&gt;Power Online (press release) &amp;hellip; asset-intensive industries to improve efficiencies and optimize costs by combining ABB&amp;rsquo;s APM offering with the Microsoft Azure cloud platform.  &lt;a href=&#34;https://www.poweronline.com/doc/abb-launches-next-generation-management-solution-efficiency-optimize-costs-0001&#34; onclick=&#34;trackOutboundLink(&#39;https://www.poweronline.com/doc/abb-launches-next-generation-management-solution-efficiency-optimize-costs-0001&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Limiting OpenStack service accounts sudo permissions</title>
-      <link>//cloudfeed.net/post/limiting-openstack-service-accounts-sudo-permissions/</link>
-      <pubDate>Wed, 01 Feb 2017 22:40:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/limiting-openstack-service-accounts-sudo-permissions/</guid>
-      <description>&lt;p&gt;and heat-admin users in OpenStack? In RHV, using /etc/sudoers.d/50_vdsm , the &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2898831&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2898831&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
