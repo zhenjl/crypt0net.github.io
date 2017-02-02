@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 02 Feb 2017 05:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2017 06:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>9.1 Amazon Simple Queue Service (SQS)</title>
+      <link>//cloudfeed.net/post/91-amazon-simple-queue-service-sqs/</link>
+      <pubDate>Thu, 02 Feb 2017 06:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/91-amazon-simple-queue-service-sqs/</guid>
+      <description>&lt;p&gt;Queue Service (SQS) - Selection from Amazon Web Services AWS &amp;hellip;  &lt;a href=&#34;https://www.safaribooksonline.com/library/view/amazon-web-services/9780134702186/awsa_09_01.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.safaribooksonline.com/library/view/amazon-web-services/9780134702186/awsa_09_01.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Knowledgent Clinical Cloud Built on Amazon Web Services Transforms Clinical</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/amazons-cloudy-desktops-now-tiptoe-across-hot-sand/</guid>
       <description>&lt;p&gt;Amazon Web Services has found another way to make its Workspaces desktop-as-a-service offering more attractive: as of today the cloudy Windows &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/02/02/aws_workspaces_add_ssd_option/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/02/02/aws_workspaces_add_ssd_option/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Harmonic, Mirantis partner on OpenStack media processing</title>
-      <link>//cloudfeed.net/post/harmonic-mirantis-partner-on-openstack-media-processing/</link>
-      <pubDate>Wed, 01 Feb 2017 20:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/harmonic-mirantis-partner-on-openstack-media-processing/</guid>
-      <description>&lt;p&gt;Harmonic and Mirantis have partnered to provide media content and service providers with a media processing solution for live and VOD production &amp;hellip;  &lt;a href=&#34;http://www.fiercecable.com/broadcasting/harmonic-mirantis-partner-openstack-media-processing-solution&#34; onclick=&#34;trackOutboundLink(&#39;http://www.fiercecable.com/broadcasting/harmonic-mirantis-partner-openstack-media-processing-solution&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
