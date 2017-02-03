@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 03 Feb 2017 11:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Feb 2017 11:50:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Report from the Internet of Things (IoT) Software Update (IoTSU)</title>
+      <link>//cloudfeed.net/post/report-from-the-internet-of-things-iot-software-update-iotsu/</link>
+      <pubDate>Fri, 03 Feb 2017 11:50:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/report-from-the-internet-of-things-iot-software-update-iotsu/</guid>
+      <description>&lt;p&gt;Things (IoT) Software Update (IOTSU)&amp;rsquo; which took place at Trinity College &amp;hellip;  &lt;a href=&#34;https://tools.ietf.org/html/draft-iab-iotsu-workshop-01&#34; onclick=&#34;trackOutboundLink(&#39;https://tools.ietf.org/html/draft-iab-iotsu-workshop-01&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title> From hype to reality: Making Internet of Things real</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/call-for-papers-for-special-session-on-edge-computing-for-the-iot/</guid>
       <description>&lt;p&gt;The current activities in Internet of Things (IoT) are focused on architectures &amp;amp; protocols for efficient interconnection of things, infrastructure deployment &amp;hellip;  &lt;a href=&#34;http://www.theinternetofthings.eu/call-papers-special-session-edge-computing-iot-co-located-global-iot-summit-giots-2017&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theinternetofthings.eu/call-papers-special-session-edge-computing-iot-co-located-global-iot-summit-giots-2017&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ethereum Payment Channels Could Enter Production in 2017</title>
-      <link>//cloudfeed.net/post/ethereum-payment-channels-could-enter-production-in-2017/</link>
-      <pubDate>Fri, 03 Feb 2017 08:00:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/ethereum-payment-channels-could-enter-production-in-2017/</guid>
-      <description>&lt;p&gt;A project aiming to scale ethereum via off-blockchain payment channels &amp;hellip; true machine-to-machine payments, using the ethereum blockchain as a &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/ethereum-payment-channels-enter-production-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/ethereum-payment-channels-enter-production-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
