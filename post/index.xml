@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 02 Feb 2017 20:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2017 20:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Active Directory Access Controls Designed to Prevent Data Leaks</title>
+      <link>//cloudfeed.net/post/azure-active-directory-access-controls-designed-to-prevent-data-leaks/</link>
+      <pubDate>Thu, 02 Feb 2017 20:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/azure-active-directory-access-controls-designed-to-prevent-data-leaks/</guid>
+      <description>&lt;p&gt;In the past, administrators blocked IP addresses or domains to restrict access to web applications, added Yossi Banai, a Microsoft Azure Active &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/microsoft-tightens-azure-ads-access-controls-for-saas-apps.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/microsoft-tightens-azure-ads-access-controls-for-saas-apps.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mozilla gives up on last vestiges of Firefox OS, lays off 50</title>
+      <link>//cloudfeed.net/post/mozilla-gives-up-on-last-vestiges-of-firefox-os-lays-off-50/</link>
+      <pubDate>Thu, 02 Feb 2017 20:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/mozilla-gives-up-on-last-vestiges-of-firefox-os-lays-off-50/</guid>
+      <description>&lt;p&gt;Instead of being a smartphone platform, Mozilla aimed to create a range of software and services for Internet of Things-style connected devices.  &lt;a href=&#34;https://arstechnica.com/gadgets/2017/02/mozilla-ends-firefox-os-connected-device-ambitions-lays-off-50/&#34; onclick=&#34;trackOutboundLink(&#39;https://arstechnica.com/gadgets/2017/02/mozilla-ends-firefox-os-connected-device-ambitions-lays-off-50/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Snapchat parent Snap Inc files publicly for US$3 billion IPO, finally</title>
+      <link>//cloudfeed.net/post/snapchat-parent-snap-inc-files-publicly-for-us3-billion-ipo-finally/</link>
+      <pubDate>Thu, 02 Feb 2017 20:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/snapchat-parent-snap-inc-files-publicly-for-us3-billion-ipo-finally/</guid>
+      <description>&lt;p&gt;Financial Post &amp;hellip; Inc.&amp;rsquo;s Google for most of its computing, storage and bandwidth, and any disruptions to Google&amp;rsquo;s cloud functioning could seriously hurt its business.  &lt;a href=&#34;http://business.financialpost.com/fp-tech-desk/snapchat-parent-snap-inc-files-publicly-for-us3-billion-ipo-finally-offers-glimpse-into-financials&#34; onclick=&#34;trackOutboundLink(&#39;http://business.financialpost.com/fp-tech-desk/snapchat-parent-snap-inc-files-publicly-for-us3-billion-ipo-finally-offers-glimpse-into-financials&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How the Hyperledger Project Is Pushing the Blockchain Forward</title>
@@ -151,42 +187,6 @@
       <description>&lt;p&gt;/EINPresswire.com/  TORONTO, ON(Marketwired  February 02, 2017)  Internet of Things Inc. (TSX VENTURE: ITT) (IoT Inc. or the Company), &amp;hellip;  &lt;a href=&#34;http://www.military-technologies.net/2017/02/02/internet-of-things-inc-targets-industrial-iot-market-in-china-3/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.military-technologies.net/2017/02/02/internet-of-things-inc-targets-industrial-iot-market-in-china-3/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Updates Azure AD B2B, Releases &#39;Tenant Restrictions&#39;</title>
-      <link>//cloudfeed.net/post/microsoft-updates-azure-ad-b2b-releases-tenant-restrictions/</link>
-      <pubDate>Thu, 02 Feb 2017 18:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-updates-azure-ad-b2b-releases-tenant-restrictions/</guid>
-      <description>&lt;p&gt;This week marked the rollout of several new Azure Active Directory (AD) capabilities designed to increase security and collaboration. Microsoft has &amp;hellip;  &lt;a href=&#34;https://rcpmag.com/articles/2017/02/02/microsoft-updates-azure-ad-b2b.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://rcpmag.com/articles/2017/02/02/microsoft-updates-azure-ad-b2b.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sophos Positioned as a Leader in Gartner 2017 Magic Quadrant Report For</title>
-      <link>//cloudfeed.net/post/sophos-positioned-as-a-leader-in-gartner-2017-magic-quadrant-report-for/</link>
-      <pubDate>Thu, 02 Feb 2017 18:20:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/sophos-positioned-as-a-leader-in-gartner-2017-magic-quadrant-report-for/</guid>
-      <description>&lt;p&gt;Yahoo Finance Sophos continues to deliver on its strategy to integrate endpoint protection platforms and endpoint detection and response capabilities into the Sophos &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/sophos-positioned-leader-gartner-2017-150000006.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/sophos-positioned-leader-gartner-2017-150000006.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Manpages of openstack-debian-images in Debian unstable</title>
-      <link>//cloudfeed.net/post/manpages-of-openstackdebianimages-in-debian-unstable/</link>
-      <pubDate>Thu, 02 Feb 2017 18:10:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/manpages-of-openstackdebianimages-in-debian-unstable/</guid>
-      <description>&lt;p&gt;openstack-debian-images in Debian unstable. build-openstack-debian-image(1).  &lt;a href=&#34;https://manpages.debian.org/unstable/openstack-debian-images/index.html&#34; onclick=&#34;trackOutboundLink(&#39;https://manpages.debian.org/unstable/openstack-debian-images/index.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
