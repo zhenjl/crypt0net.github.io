@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 02 Feb 2017 18:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2017 18:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Updates Azure AD B2B, Releases &#39;Tenant Restrictions&#39;</title>
+      <link>//cloudfeed.net/post/microsoft-updates-azure-ad-b2b-releases-tenant-restrictions/</link>
+      <pubDate>Thu, 02 Feb 2017 18:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-updates-azure-ad-b2b-releases-tenant-restrictions/</guid>
+      <description>&lt;p&gt;This week marked the rollout of several new Azure Active Directory (AD) capabilities designed to increase security and collaboration. Microsoft has &amp;hellip;  &lt;a href=&#34;https://rcpmag.com/articles/2017/02/02/microsoft-updates-azure-ad-b2b.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://rcpmag.com/articles/2017/02/02/microsoft-updates-azure-ad-b2b.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Manpages of openstack-debian-images in Debian unstable</title>
@@ -324,18 +336,6 @@
       
       <guid>//cloudfeed.net/post/azure-storsimple-virtual-array-now-available-for-msdn-payasyougo-and/</guid>
       <description>&lt;p&gt;MSPoweruser The Microsoft Azure StorSimple Virtual Array is an integrated storage solution that manages storage tasks between an on-premises virtual array &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/azure-storsimple-virtual-array-now-available-for-msdn-pay-as-you-go-and-other-subscriptions/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/azure-storsimple-virtual-array-now-available-for-msdn-pay-as-you-go-and-other-subscriptions/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon reports fourth-quarter results after the bell</title>
-      <link>//cloudfeed.net/post/amazon-reports-fourthquarter-results-after-the-bell/</link>
-      <pubDate>Thu, 02 Feb 2017 13:10:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-reports-fourthquarter-results-after-the-bell/</guid>
-      <description>&lt;p&gt;Couple e-commerce dominance with speedy growth in its cloud computing business Amazon Web Services, and Jeff Bezos&amp;rsquo;s company has had &amp;hellip;  &lt;a href=&#34;http://www.cnbc.com/2017/02/02/amazon-earnings-fourth-quarter-q4-2016.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cnbc.com/2017/02/02/amazon-earnings-fourth-quarter-q4-2016.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
