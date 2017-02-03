@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 03 Feb 2017 14:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Feb 2017 15:00:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hyper-V vs. KVM for OpenStack performance</title>
+      <link>//cloudfeed.net/post/hyperv-vs-kvm-for-openstack-performance/</link>
+      <pubDate>Fri, 03 Feb 2017 15:00:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/hyperv-vs-kvm-for-openstack-performance/</guid>
+      <description>&lt;p&gt;performance of the Hyper-V OpenStack drivers as part of their work on the &amp;hellip;  &lt;a href=&#34;https://blogs.msdn.microsoft.com/virtual_pc_guy/2017/02/03/hyper-v-vs-kvm-for-openstack-performance/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.msdn.microsoft.com/virtual_pc_guy/2017/02/03/hyper-v-vs-kvm-for-openstack-performance/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain could save healthcare from interoperability woes</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;&amp;hellip; partnership to provide media content and service providers with access to a media processing system for live and VOD production on OpenStack.  &lt;a href=&#34;https://www.sdxcentral.com/articles/news/sdxcentral-weekly-news-roundup-february-3-2017/2017/02/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sdxcentral.com/articles/news/sdxcentral-weekly-news-roundup-february-3-2017/2017/02/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How Bitcoin Unlimited Users May End Up on Different Blockchains</title>
-      <link>//cloudfeed.net/post/how-bitcoin-unlimited-users-may-end-up-on-different-blockchains/</link>
-      <pubDate>Fri, 03 Feb 2017 12:50:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/how-bitcoin-unlimited-users-may-end-up-on-different-blockchains/</guid>
-      <description>&lt;p&gt;compatible solution, the blockchain cannot converge in the way Bitcoin Unlimited &amp;hellip;  &lt;a href=&#34;https://www.weusecoins.com/how-bitcoin-unlimited-users-may-end-up-on-different-blockchains/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.weusecoins.com/how-bitcoin-unlimited-users-may-end-up-on-different-blockchains/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
