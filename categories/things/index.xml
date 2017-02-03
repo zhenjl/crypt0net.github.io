@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 02 Feb 2017 22:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2017 22:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Internet of Things Standards Landscaping and Gap Analysis Workshop</title>
+      <link>//cloudfeed.net/post/internet-of-things-standards-landscaping-and-gap-analysis-workshop/</link>
+      <pubDate>Thu, 02 Feb 2017 22:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/internet-of-things-standards-landscaping-and-gap-analysis-workshop/</guid>
+      <description>&lt;p&gt;{{sessiondata.description}}. {{sessiondata.startDateTime.split(&amp;rdquo; &amp;hellip;  &lt;a href=&#34;https://webcast.ec.europa.eu/internet-of-things-standards-landscaping-and-gap-analysis-workshop-07022017&#34; onclick=&#34;trackOutboundLink(&#39;https://webcast.ec.europa.eu/internet-of-things-standards-landscaping-and-gap-analysis-workshop-07022017&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cambridge Blockchain Raise $2 Million for Digital Identity Enterprise</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/small-oil-skimmer-features-onoff-switch/</guid>
       <description>&lt;p&gt;&amp;hellip; the system&amp;rsquo;s on/off switch makes it easy for users to control its activity, while light weight and small size ease transfer from machine to machine.  &lt;a href=&#34;http://www.mmsonline.com/products/small-oil-skimmer-features-onoff-switch&#34; onclick=&#34;trackOutboundLink(&#39;http://www.mmsonline.com/products/small-oil-skimmer-features-onoff-switch&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cover Story: Securing the Internet of Things: Telit Explains What&#39;s</title>
-      <link>//cloudfeed.net/post/cover-story-securing-the-internet-of-things-telit-explains-whats/</link>
-      <pubDate>Thu, 02 Feb 2017 16:50:08 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/cover-story-securing-the-internet-of-things-telit-explains-whats/</guid>
-      <description>&lt;p&gt;Security is an issue of rising prominence in the Internet of Things arena. In fact, it&amp;rsquo;s the biggest barrier to more widespread IoT deployment, according &amp;hellip;  &lt;a href=&#34;http://www.iotevolutionmagazine.com/features/articles/429356-cover-story-securing-internet-things-telit-explains-whats.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.iotevolutionmagazine.com/features/articles/429356-cover-story-securing-internet-things-telit-explains-whats.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
