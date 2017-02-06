@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 05 Feb 2017 23:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Feb 2017 23:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bad behavior on terraform openstack provider as attributed are not getting</title>
+      <link>//cloudfeed.net/post/bad-behavior-on-terraform-openstack-provider-as-attributed-are-not-getting/</link>
+      <pubDate>Sun, 05 Feb 2017 23:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/bad-behavior-on-terraform-openstack-provider-as-attributed-are-not-getting/</guid>
+      <description>&lt;p&gt;Bad behavior on terraform openstack provider as attributed are not getting &amp;hellip; terraform won&amp;rsquo;t pick them up when I declare the openstack provider.  &lt;a href=&#34;https://github.com/hashicorp/terraform/issues/11711&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/hashicorp/terraform/issues/11711&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Emaar backs Microsoft UAE Imagine Cup 2017</title>
@@ -213,18 +225,6 @@
       
       <guid>//cloudfeed.net/post/struggling-for-relevance-is-mozilla-really-killing-off-firefox/</guid>
       <description>&lt;p&gt;&amp;hellip; has just entered into a $400 million agreement with Google Cloud Platform to provide infrastructure and services for the soon-to-be public company.  &lt;a href=&#34;http://www.toptechnews.com/article/index.php?story_id=011000CE0UAS&#34; onclick=&#34;trackOutboundLink(&#39;http://www.toptechnews.com/article/index.php?story_id=011000CE0UAS&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How Analysts Take Such Different Views of Amazon After Earnings</title>
-      <link>//cloudfeed.net/post/how-analysts-take-such-different-views-of-amazon-after-earnings/</link>
-      <pubDate>Sun, 05 Feb 2017 07:40:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/how-analysts-take-such-different-views-of-amazon-after-earnings/</guid>
-      <description>&lt;p&gt;Amazon Web Services (AWS) revenues totaled $3.54 billion, up about 47% from a total of $2.41 billion in the fourth-quarter of last year.  &lt;a href=&#34;http://247wallst.com/technology-3/2017/02/05/how-analysts-take-such-different-views-of-amazon-after-earnings/&#34; onclick=&#34;trackOutboundLink(&#39;http://247wallst.com/technology-3/2017/02/05/how-analysts-take-such-different-views-of-amazon-after-earnings/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

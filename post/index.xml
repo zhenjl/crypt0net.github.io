@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 05 Feb 2017 23:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Feb 2017 23:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bad behavior on terraform openstack provider as attributed are not getting</title>
+      <link>//cloudfeed.net/post/bad-behavior-on-terraform-openstack-provider-as-attributed-are-not-getting/</link>
+      <pubDate>Sun, 05 Feb 2017 23:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/bad-behavior-on-terraform-openstack-provider-as-attributed-are-not-getting/</guid>
+      <description>&lt;p&gt;Bad behavior on terraform openstack provider as attributed are not getting &amp;hellip; terraform won&amp;rsquo;t pick them up when I declare the openstack provider.  &lt;a href=&#34;https://github.com/hashicorp/terraform/issues/11711&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/hashicorp/terraform/issues/11711&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Emaar backs Microsoft UAE Imagine Cup 2017</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/the-amazoncom-inc-amzn-shares-bought-by-retirement-systems-of-alabama/</guid>
       <description>&lt;p&gt;Retirement Systems of Alabama boosted its position in Amazon.com, Inc. (NASDAQ:AMZN) by 0.6% during the third quarter, according to its most &amp;hellip;  &lt;a href=&#34;http://dailyquint.com/2017-02-06-amazon-com-inc-amzn-shares-bought-by-retirement-systems-of-alabama/&#34; onclick=&#34;trackOutboundLink(&#39;http://dailyquint.com/2017-02-06-amazon-com-inc-amzn-shares-bought-by-retirement-systems-of-alabama/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How Big is Microsoft Azure, and Is It Any Match for the Almighty AWS in</title>
-      <link>//cloudfeed.net/post/how-big-is-microsoft-azure-and-is-it-any-match-for-the-almighty-aws-in/</link>
-      <pubDate>Sun, 05 Feb 2017 18:20:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/how-big-is-microsoft-azure-and-is-it-any-match-for-the-almighty-aws-in/</guid>
-      <description>&lt;p&gt;1redDrop (blog) But the annualized commercial cloud run rate that Microsoft reports every quarter includes revenue from its SaaS 365 lineup, Microsoft Azure &amp;hellip;  &lt;a href=&#34;http://1reddrop.com/2017/02/05/how-big-microsoft-azure-match-amazon-aws-iaas/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/02/05/how-big-microsoft-azure-match-amazon-aws-iaas/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
