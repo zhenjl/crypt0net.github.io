@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 06 Feb 2017 11:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2017 12:10:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>&#39;AWS on premises&#39; provider Stratoscale acquires database-as-a-service</title>
+      <link>//cloudfeed.net/post/aws-on-premises-provider-stratoscale-acquires-databaseasaservice/</link>
+      <pubDate>Mon, 06 Feb 2017 12:10:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/aws-on-premises-provider-stratoscale-acquires-databaseasaservice/</guid>
+      <description>&lt;p&gt;GeekWire Stratoscale is a cloud infrastructure startup that allows businesses to create Amazon Web Services (AWS) regions in their own data centers.  &lt;a href=&#34;http://www.geekwire.com/2017/aws-premises-provider-stratoscale-acquires-database-service-company-tesora/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/aws-premises-provider-stratoscale-acquires-database-service-company-tesora/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Azure Creates World&#39;s Smartest Caddie</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/bad-behavior-on-terraform-openstack-provider-as-attributed-are-not-getting/</guid>
       <description>&lt;p&gt;Bad behavior on terraform openstack provider as attributed are not getting &amp;hellip; terraform won&amp;rsquo;t pick them up when I declare the openstack provider.  &lt;a href=&#34;https://github.com/hashicorp/terraform/issues/11711&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/hashicorp/terraform/issues/11711&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Emaar backs Microsoft UAE Imagine Cup 2017</title>
-      <link>//cloudfeed.net/post/emaar-backs-microsoft-uae-imagine-cup-2017/</link>
-      <pubDate>Sun, 05 Feb 2017 23:00:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/emaar-backs-microsoft-uae-imagine-cup-2017/</guid>
-      <description>&lt;p&gt;Through our support to Microsoft on UAE Imagine Cup 2017, we are &amp;hellip; run on the Azure cloud and demonstrate the potential for digital transformation.  &lt;a href=&#34;http://www.cnmeonline.com/news/emaar-backs-microsoft-uae-imagine-cup-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cnmeonline.com/news/emaar-backs-microsoft-uae-imagine-cup-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
