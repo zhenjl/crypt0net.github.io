@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 07 Feb 2017 04:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2017 05:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack Database Vendor Tesora Acquired by Stratoscale</title>
+      <link>//cloudfeed.net/post/openstack-database-vendor-tesora-acquired-by-stratoscale/</link>
+      <pubDate>Tue, 07 Feb 2017 05:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-database-vendor-tesora-acquired-by-stratoscale/</guid>
+      <description>&lt;p&gt;the Trove Database-as-a-Service (DBaaS) project in OpenStack, that is the basis for Tesora&amp;rsquo;s commercial platform. In June 2016, Rugg was still very &amp;hellip;  &lt;a href=&#34;http://www.internetnews.com/blog/skerner/openstack-database-vendor-tesora-acquired-by-statoscale.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.internetnews.com/blog/skerner/openstack-database-vendor-tesora-acquired-by-statoscale.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS, Google, Microsoft cement cloud dominance</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/eu-data-protection-authorities-confirm-compliance-of-google-cloud/</guid>
       <description>&lt;p&gt;Today we&amp;rsquo;re pleased to announce that the European Union&amp;rsquo;s Data Protection Authorities have confirmed that Google Cloud services&amp;rsquo; contractual &amp;hellip;  &lt;a href=&#34;https://blog.google/topics/google-cloud/eu-data-protection-authorities-confirm-compliance-google-cloud-commitments-international-data-flows/&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.google/topics/google-cloud/eu-data-protection-authorities-confirm-compliance-google-cloud-commitments-international-data-flows/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stratoscale acquires Tesora to boost hybrid cloud offerings</title>
-      <link>//cloudfeed.net/post/stratoscale-acquires-tesora-to-boost-hybrid-cloud-offerings/</link>
-      <pubDate>Mon, 06 Feb 2017 18:10:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/stratoscale-acquires-tesora-to-boost-hybrid-cloud-offerings/</guid>
-      <description>&lt;p&gt;The purchase will bring new versatility to Stratoscale&amp;rsquo;s core OpenStack offering, Symphony, which allows clients to establish an Amazon Web Services &amp;hellip;  &lt;a href=&#34;https://thestack.com/data-centre/2017/02/06/stratoscale-acquires-tesora-to-boost-hybrid-cloud-offerings/&#34; onclick=&#34;trackOutboundLink(&#39;https://thestack.com/data-centre/2017/02/06/stratoscale-acquires-tesora-to-boost-hybrid-cloud-offerings/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
