@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 07 Feb 2017 03:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2017 03:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure Backup and Site Recovery comes to UK data centres</title>
+      <link>//cloudfeed.net/post/microsoft-azure-backup-and-site-recovery-comes-to-uk-data-centres/</link>
+      <pubDate>Tue, 07 Feb 2017 03:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-azure-backup-and-site-recovery-comes-to-uk-data-centres/</guid>
+      <description>&lt;p&gt;MICROSOFT HAS ANNOUNCED that UK businesses can now back-up data in its UK data centres as part of its Azure cloud platform. The service &amp;hellip;  &lt;a href=&#34;http://www.theinquirer.net/inquirer/news/3004093/microsoft-azure-backup-and-site-recovery-comes-to-uk-data-centres&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theinquirer.net/inquirer/news/3004093/microsoft-azure-backup-and-site-recovery-comes-to-uk-data-centres&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Wins Title: Globe&#39;s First Supreme AI-Cloud Superpower (MSFT)</title>
@@ -175,127 +187,6 @@
       <description>&lt;p&gt;The purchase will bring new versatility to Stratoscale&amp;rsquo;s core OpenStack offering, Symphony, which allows clients to establish an Amazon Web Services &amp;hellip;  &lt;a href=&#34;https://thestack.com/data-centre/2017/02/06/stratoscale-acquires-tesora-to-boost-hybrid-cloud-offerings/&#34; onclick=&#34;trackOutboundLink(&#39;https://thestack.com/data-centre/2017/02/06/stratoscale-acquires-tesora-to-boost-hybrid-cloud-offerings/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Cloud Computing News from @cloudfeednet - Feb 6, 2017</title>
-      <link>//cloudfeed.net/daily/daily-cloud-news-2017-02-06/</link>
-      <pubDate>Mon, 06 Feb 2017 18:05:01 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/daily/daily-cloud-news-2017-02-06/</guid>
-      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Windows &amp;lsquo;game changing&amp;rsquo; update leaked online&lt;/h3&gt;
-&lt;p&gt;Microsoft, busy on developing a new version of Windows 10, will not be happy that designs for new platform have been leaked online. The key update &amp;hellip;  &lt;a href=&#34;http://www.digitaljournal.com/tech-and-science/technology/windows-game-changing-update-leaked-online/article/485259&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digitaljournal.com/tech-and-science/technology/windows-game-changing-update-leaked-online/article/485259&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Sardina Systems Becomes a Corporate Sponsor of OpenStack Foundation&lt;/h3&gt;
-&lt;p&gt;[ClickPress, Sun Feb 05 2017] Sardina Systems, the OpenStack data center automation software vendor for private clouds, announces it has become &amp;hellip;  &lt;a href=&#34;http://www.satprnews.com/2017/02/05/sardina-systems-becomes-a-corporate-sponsor-of-openstack-foundation/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.satprnews.com/2017/02/05/sardina-systems-becomes-a-corporate-sponsor-of-openstack-foundation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Social Networking Company Snapchat Spends $2 Billion On Google Cloud&lt;/h3&gt;
-&lt;p&gt;Facts Herald For today&amp;rsquo;s generation, selfie has become a common trend. What changes in trend are the styles to take the selfies. The most popular trend of selfies &amp;hellip;  &lt;a href=&#34;http://factsherald.com/social-networking-company-snapchat-spends-2-billion-on-google-cloud-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://factsherald.com/social-networking-company-snapchat-spends-2-billion-on-google-cloud-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Emaar backs Microsoft UAE Imagine Cup 2017&lt;/h3&gt;
-&lt;p&gt;Through our support to Microsoft on UAE Imagine Cup 2017, we are &amp;hellip; run on the Azure cloud and demonstrate the potential for digital transformation.  &lt;a href=&#34;http://www.cnmeonline.com/news/emaar-backs-microsoft-uae-imagine-cup-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cnmeonline.com/news/emaar-backs-microsoft-uae-imagine-cup-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Bad behavior on terraform openstack provider as attributed are not getting&lt;/h3&gt;
-&lt;p&gt;Bad behavior on terraform openstack provider as attributed are not getting &amp;hellip; terraform won&amp;rsquo;t pick them up when I declare the openstack provider.  &lt;a href=&#34;https://github.com/hashicorp/terraform/issues/11711&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/hashicorp/terraform/issues/11711&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Android Things Developer Preview Now Available on the Intel Edison board&lt;/h3&gt;
-&lt;p&gt;According to Google, future iterations will incorporate Google&amp;rsquo;s Weave platform, Google Cloud Platform*, over-the-air updates from Google and the &amp;hellip;  &lt;a href=&#34;http://www.digit.in/apps/android-things-developer-preview-now-available-on-the-intel-edison-board-33599.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digit.in/apps/android-things-developer-preview-now-available-on-the-intel-edison-board-33599.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Learning! 100 Award Deadline Extended to Feb. 28th Due to Record Response&lt;/h3&gt;
-&lt;p&gt;Join Amazon Web Services, Salesforce and others for top global learning organization consideration.The annual award program honors public and &amp;hellip;  &lt;a href=&#34;http://www.prweb.com/releases/2017/02/prweb14043629.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prweb.com/releases/2017/02/prweb14043629.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google, Harvard, China Mobile to Speak at the OpenStack Summit Boston&lt;/h3&gt;
-&lt;p&gt;AUSTIN, Texas&amp;ndash;(BUSINESS WIRE)&amp;ndash;Today the OpenStack Foundation announced that Brian Stevens of Google, Merc Crosas of The Institute for &amp;hellip;  &lt;a href=&#34;http://www.businesswire.com/news/home/20170206005025/en/Google-Harvard-China-Mobile-Speak-OpenStack%C2%AE-Summit&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20170206005025/en/Google-Harvard-China-Mobile-Speak-OpenStack%C2%AE-Summit&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Riverbed Achieves Microsoft Gold Cloud Platform Competency&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; service (SaaS) solutions built on Microsoft Azure. The Microsoft Partner Network helps partners strengthen their capabilities to showcase leadership &amp;hellip;  &lt;a href=&#34;http://www.engineeringnews.co.za/article/riverbed-achieves-microsoft-gold-cloud-platform-competency-2017-02-06&#34; onclick=&#34;trackOutboundLink(&#39;http://www.engineeringnews.co.za/article/riverbed-achieves-microsoft-gold-cloud-platform-competency-2017-02-06&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Windows Cloud: Microsoft&amp;rsquo;s Chrome OS rival revealed in leaked screenshots&lt;/h3&gt;
-&lt;p&gt;Some had taken the &amp;ldquo;Cloud&amp;rdquo; moniker as an indication that it would be a virtual operating system powered by Microsoft Azure, but in fact, the truth is it&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://www.theinquirer.net/inquirer/news/3004004/windows-cloud-microsofts-chrome-os-rivalfirst-look-at-google-chromebook-rival-revealed-in-leaked-screenshots&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theinquirer.net/inquirer/news/3004004/windows-cloud-microsofts-chrome-os-rivalfirst-look-at-google-chromebook-rival-revealed-in-leaked-screenshots&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;AWS, Google, and Microsoft cement their cloud dominance&lt;/h3&gt;
-&lt;p&gt;Sure, in 2016 AWS profits ($3.1 billion) exceeded the highest revenue estimates of its next closest rival, Microsoft Azure, which Bernstein analyst Mark &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3165508/cloud-computing/aws-google-and-microsoft-cement-their-cloud-dominance.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3165508/cloud-computing/aws-google-and-microsoft-cement-their-cloud-dominance.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Technological Inisghts into Global Personal Cloud Market 2016 Industry&lt;/h3&gt;
-&lt;p&gt;openPR (press release) Technological Inisghts into Global Personal Cloud Market 2016 Industry Developments &amp;amp; IT Solutions : Apple Inc, Dropbox Inc, Amazon Web Services.  &lt;a href=&#34;http://www.openpr.com/news/429531/Technological-Inisghts-into-Global-Personal-Cloud-Market-2016-Industry-Developments-IT-Solutions-Apple-Inc-Dropbox-Inc-Amazon-Web-Services.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.openpr.com/news/429531/Technological-Inisghts-into-Global-Personal-Cloud-Market-2016-Industry-Developments-IT-Solutions-Apple-Inc-Dropbox-Inc-Amazon-Web-Services.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google, Harvard, China Mobile to Speak at the OpenStack Summit Boston&lt;/h3&gt;
-&lt;p&gt;Today the OpenStack Foundation announced that Brian Stevens of Google, Merc Crosas of The Institute for Quantitative Social Science (IQSS) at &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/google-harvard-china-mobile-speak-090000667.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/google-harvard-china-mobile-speak-090000667.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft overhauls Azure Marketplace for easier app shopping&lt;/h3&gt;
-&lt;p&gt;Microsofts Azure Marketplace is to Azure what the Windows Store is to the client operating system: an online software marketplace, only the Azure &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3166009/cloud-computing/microsoft-overhauls-azure-marketplace-for-easier-app-shopping.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3166009/cloud-computing/microsoft-overhauls-azure-marketplace-for-easier-app-shopping.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Barracuda Accelerates Customer Cloud Transitions with New Cloud Ready&lt;/h3&gt;
-&lt;p&gt;Yahoo Finance &amp;hellip; for use in their choice of Amazon Web Services and Microsoft Azure. &amp;hellip; the same solution in AWS and Azure at no additional cost for up to 90 days.  &lt;a href=&#34;http://finance.yahoo.com/news/barracuda-accelerates-customer-cloud-transitions-131500384.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/barracuda-accelerates-customer-cloud-transitions-131500384.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;One Identity Extends Top-Rated Active Roles Solution to Azure Active&lt;/h3&gt;
-&lt;p&gt;Yahoo Finance Currently, nearly 90 percent of organizations worldwide rely on Microsoft&amp;rsquo;s &amp;hellip; globally.1 Yet while Microsoft&amp;rsquo;s launch of the cloud-based Azure Active &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/one-identity-extends-top-rated-133000353.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/one-identity-extends-top-rated-133000353.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft to pull plug on older version of Skype for Mac, Windows&lt;/h3&gt;
-&lt;p&gt;To improve Skype, Microsoft had rolled out several changes like migrating the app to its Azure public cloud infrastructure, and adding chatbots.  &lt;a href=&#34;http://www.domain-b.com/companies/companies_m/Microsoft/20170206_windows.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.domain-b.com/companies/companies_m/Microsoft/20170206_windows.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Using Amazon Web Services at Bristol City Council&lt;/h3&gt;
-&lt;p&gt;The Council chose Amazon Web Services as a replacement, allowing it to adopt more agile approaches to the delivery and development of the &amp;hellip;  &lt;a href=&#34;https://www.lgcplus.com/services/digital-by-design/using-amazon-web-services-at-bristol-city-council/7015202.article&#34; onclick=&#34;trackOutboundLink(&#39;https://www.lgcplus.com/services/digital-by-design/using-amazon-web-services-at-bristol-city-council/7015202.article&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Azure Creates World&amp;rsquo;s Smartest Caddie&lt;/h3&gt;
-&lt;p&gt;Microsoft Azure is on fire, adding new features and some enhancements to the cloud computing service. This week, the software company has &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/63983/20170206/microsoft-azure-creates-worlds-smartest-caddie.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/63983/20170206/microsoft-azure-creates-worlds-smartest-caddie.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The cloud continues to riseand fast&lt;/h3&gt;
-&lt;p&gt;Critically, the company said that included a whopping 93 percent growth in revenue from Microsoft Azure, which is most comparable to AWS. Azure is &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3166065/cloud-computing/the-cloud-continues-to-riseand-fast.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3166065/cloud-computing/the-cloud-continues-to-riseand-fast.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&amp;lsquo;AWS on premises&amp;rsquo; provider Stratoscale acquires database-as-a-service&lt;/h3&gt;
-&lt;p&gt;GeekWire Stratoscale is a cloud infrastructure startup that allows businesses to create Amazon Web Services (AWS) regions in their own data centers.  &lt;a href=&#34;http://www.geekwire.com/2017/aws-premises-provider-stratoscale-acquires-database-service-company-tesora/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/aws-premises-provider-stratoscale-acquires-database-service-company-tesora/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Cuts Prices on Azure Virtual Machines and Blob Storage Up To 51%&lt;/h3&gt;
-&lt;p&gt;On this edition of &amp;lsquo;cloud cuts&amp;rsquo;, Microsoft is slashing prices on some of its Azure Virtual Machines and its Blob storage. The company is dropping the &amp;hellip;  &lt;a href=&#34;https://www.petri.com/microsoft-cuts-prices-azure-virtual-machines-blob-storage-51&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/microsoft-cuts-prices-azure-virtual-machines-blob-storage-51&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon is More Than Just an Online Marketplace&lt;/h3&gt;
-&lt;p&gt;Amazon Web services, or AWS, offers a set of cloud-based products including computer, storage, databases, analytics, networking, mobile, security &amp;hellip;  &lt;a href=&#34;https://www.thestreet.com/video/13991487/amazon-is-more-than-just-an-online-marketplace.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.thestreet.com/video/13991487/amazon-is-more-than-just-an-online-marketplace.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;At a CAGR of 30.49%, Global Cloud Management for the OpenStack Market&lt;/h3&gt;
-&lt;p&gt;openPR (press release) ResearchMoz added Latest Research Report titled &amp;ldquo; Global Cloud Management for the OpenStack Market 2016-2020 &amp;rdquo; to it&amp;rsquo;s Large Report database.  &lt;a href=&#34;http://www.openpr.com/news/429669/At-a-CAGR-of-30-49-Global-Cloud-Management-for-the-OpenStack-Market-during-2016-2020-Key-Vendors-such-as-HP-IBM-VMware-Red-Hat-BMC-Software.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.openpr.com/news/429669/At-a-CAGR-of-30-49-Global-Cloud-Management-for-the-OpenStack-Market-during-2016-2020-Key-Vendors-such-as-HP-IBM-VMware-Red-Hat-BMC-Software.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;New Lower Prices on Azure Virtual Machines and Blob Storage&lt;/h3&gt;
-&lt;p&gt;most cost effective ways in the public cloud. We believe in providing a &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/new-lower-prices-on-azure-virtual-machines-and-blob-storage/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/new-lower-prices-on-azure-virtual-machines-and-blob-storage/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Azure: The reports of on-demand&amp;rsquo;s death have been greatly&lt;/h3&gt;
-&lt;p&gt;News reports have suggested Azure will not be offering pay-as-you-go pricing from February on, but this is not the case. Instead, Microsoft is now &amp;hellip;  &lt;a href=&#34;https://451research.com/report-short?entityId=91512&#34; onclick=&#34;trackOutboundLink(&#39;https://451research.com/report-short?entityId=91512&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;AWS Uses Scale, Services to Chip Away at Your Public Cloud Market Share&lt;/h3&gt;
-&lt;p&gt;According to the latest numbers, Amazon Web Services (AWS) has more than 40 percent of the public cloud services market, with Microsoft, Google &amp;hellip;  &lt;a href=&#34;http://talkincloud.com/iaas/aws-uses-scale-services-chip-away-your-public-cloud-market-share&#34; onclick=&#34;trackOutboundLink(&#39;http://talkincloud.com/iaas/aws-uses-scale-services-chip-away-your-public-cloud-market-share&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;A different perspective on investing in Amazon&lt;/h3&gt;
-&lt;p&gt;For example, rapid expansion of higher margin services such as Amazon Web Services could cause future profit margins to exceed our 4.9 per cent &amp;hellip;  &lt;a href=&#34;http://www.theglobeandmail.com/globe-investor/investment-ideas/a-different-perspective-on-investing-in-amazon/article33919022/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theglobeandmail.com/globe-investor/investment-ideas/a-different-perspective-on-investing-in-amazon/article33919022/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Announces the New Azure Marketplace Experience&lt;/h3&gt;
-&lt;p&gt;Azure Marketplace provides a rich catalog of thousands of products and solutions from independent software vendors (ISVs) that have been certified &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/microsoft-announces-the-new-azure-marketplace-experience/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/microsoft-announces-the-new-azure-marketplace-experience/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;AWS, Google, and Microsoft cement their cloud dominance&lt;/h3&gt;
-&lt;p&gt;Interestingly, Microsoft Azure and Google Cloud appear to be doing exactly &amp;hellip; Alphabet, meanwhile, declares that its Google Cloud Platform is on &amp;ldquo;a &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3165508/cloud-computing/aws-google-and-microsoft-cement-their-cloud-dominance.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3165508/cloud-computing/aws-google-and-microsoft-cement-their-cloud-dominance.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;BRIEF-Google says EU confirms compliance of Google Cloud commitments for&lt;/h3&gt;
-&lt;p&gt;Reuters Reuters is the news and media division of Thomson Reuters. Thomson Reuters is the world&amp;rsquo;s largest international multimedia news agency, providing &amp;hellip;  &lt;a href=&#34;http://www.reuters.com/article/idUSFWN1FR0SJ&#34; onclick=&#34;trackOutboundLink(&#39;http://www.reuters.com/article/idUSFWN1FR0SJ&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;UK cloud providers issue warning as Google loses privacy case to FBI&lt;/h3&gt;
-&lt;p&gt;He explained firstly that the judge&amp;rsquo;s ruling refers to a small part of Google&amp;rsquo;s cloud offering; and secondly Google will sometimes move data around its &amp;hellip;  &lt;a href=&#34;http://www.channelweb.co.uk/crn-uk/news/3004050/uk-cloud-providers-issue-warning-as-google-loses-privacy-case-to-fbi&#34; onclick=&#34;trackOutboundLink(&#39;http://www.channelweb.co.uk/crn-uk/news/3004050/uk-cloud-providers-issue-warning-as-google-loses-privacy-case-to-fbi&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Global Capacity&amp;rsquo;s Ethernet Cloud Simplifies Connectivity to AWS, Google,&lt;/h3&gt;
-&lt;p&gt;TelecomEngine &amp;hellip; One Marketplace Cloud destinations including AWS, Google Cloud, Microsoft Azure and 20 other Cloud providers on Equinix Cloud Exchange.  &lt;a href=&#34;http://www.telecomengine.com/article/global-capacitys-ethernet-cloud-simplifies-connectivity-aws-google-azure-and-equinix&#34; onclick=&#34;trackOutboundLink(&#39;http://www.telecomengine.com/article/global-capacitys-ethernet-cloud-simplifies-connectivity-aws-google-azure-and-equinix&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Snap&amp;rsquo;s IPO Filing Reveals a Lot about the Company&lt;/h3&gt;
-&lt;p&gt;The highlight of the $3 billion IPO filing was the revelation that Snap Inc. has signed a major $2 billion contract to use Google Cloud Platform.  &lt;a href=&#34;https://www.morningoutlook.com/02-06-2017/snaps-ipo-filing-reveals-a-lot-about-the-company/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.morningoutlook.com/02-06-2017/snaps-ipo-filing-reveals-a-lot-about-the-company/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Previews Azure Active Directory Policy Server Extension&lt;/h3&gt;
-&lt;p&gt;Microsoft announced a public preview today of a new Azure Active Directory capability that could simplify identity and access networking issues for &amp;hellip;  &lt;a href=&#34;https://redmondmag.com/articles/2017/02/06/azure-active-directory-policy-server-extension.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/articles/2017/02/06/azure-active-directory-policy-server-extension.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Why Bill Miller Is Optimistic about Amazon&lt;/h3&gt;
-&lt;p&gt;Bill Miller is confident in both of its business segments: its retail segment and Amazon Web Services. According to Bill Miller, Google (GOOGL) and &amp;hellip;  &lt;a href=&#34;http://marketrealist.com/2017/02/bill-miller-amazon-optimistic-business-segments/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2017/02/bill-miller-amazon-optimistic-business-segments/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Snap Inc. Files for an IPO Worth an Estimated $3 Billion&lt;/h3&gt;
-&lt;p&gt;Enterprises running Microsoft SQL Server environments now have a more straightforward way to migrate their workloads to the Google Cloud Platform &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/video/snap-inc.-files-for-an-ipo-worth-an-estimated-3-billion.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/video/snap-inc.-files-for-an-ipo-worth-an-estimated-3-billion.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
