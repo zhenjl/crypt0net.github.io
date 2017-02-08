@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Feb 2017 13:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Feb 2017 13:40:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building Up to OpenStack III: Xen and libvirt</title>
+      <link>//cloudfeed.net/post/building-up-to-openstack-iii-xen-and-libvirt/</link>
+      <pubDate>Wed, 08 Feb 2017 13:40:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/building-up-to-openstack-iii-xen-and-libvirt/</guid>
+      <description>&lt;p&gt;and KVM, and their roles in the nucleus of any OpenStack cloud.  &lt;a href=&#34;https://www.ibm.com/blogs/bluemix/2017/02/openstack-iii-xen-and-libvirt/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.ibm.com/blogs/bluemix/2017/02/openstack-iii-xen-and-libvirt/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Piggybacks on Dash Button Hardware to Push IoT Agenda</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Kaspersky Lab Named a Leader in Gartner&amp;rsquo;s Magic Quadrant for Endpoint Protection Platforms for the Sixth Time in a Row. 08 Feb 2017. ShareThis.  &lt;a href=&#34;http://usa.kaspersky.com/about-us/press-center/press-releases/2017/Kaspersky_Lab_Named_a_Leader_in_Gartners_Magic_Quadrant_for_Endpoint_Protection_Platforms_for_the_Sixth_Time_in_a_Row&#34; onclick=&#34;trackOutboundLink(&#39;http://usa.kaspersky.com/about-us/press-center/press-releases/2017/Kaspersky_Lab_Named_a_Leader_in_Gartners_Magic_Quadrant_for_Endpoint_Protection_Platforms_for_the_Sixth_Time_in_a_Row&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ETAS Strengthens Cybersecurity Capabilities with Acquisition of TrustPoint</title>
-      <link>//cloudfeed.net/post/etas-strengthens-cybersecurity-capabilities-with-acquisition-of-trustpoint/</link>
-      <pubDate>Wed, 08 Feb 2017 11:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/etas-strengthens-cybersecurity-capabilities-with-acquisition-of-trustpoint/</guid>
-      <description>&lt;p&gt;Business Wire (press release) TrustPoint Innovation Technologies, Ltd. has specialized expertise and technology in secure Machine-to-Machine (M2M) communication in the &amp;hellip;  &lt;a href=&#34;http://www.businesswire.com/news/home/20170208005965/en/ETAS-Strengthens-Cybersecurity-Capabilities-Acquisition-TrustPoint-Innovation&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20170208005965/en/ETAS-Strengthens-Cybersecurity-Capabilities-Acquisition-TrustPoint-Innovation&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

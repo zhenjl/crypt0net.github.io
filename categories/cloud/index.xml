@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Feb 2017 13:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Feb 2017 13:40:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building Up to OpenStack III: Xen and libvirt</title>
+      <link>//cloudfeed.net/post/building-up-to-openstack-iii-xen-and-libvirt/</link>
+      <pubDate>Wed, 08 Feb 2017 13:40:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/building-up-to-openstack-iii-xen-and-libvirt/</guid>
+      <description>&lt;p&gt;and KVM, and their roles in the nucleus of any OpenStack cloud.  &lt;a href=&#34;https://www.ibm.com/blogs/bluemix/2017/02/openstack-iii-xen-and-libvirt/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.ibm.com/blogs/bluemix/2017/02/openstack-iii-xen-and-libvirt/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Piggybacks on Dash Button Hardware to Push IoT Agenda</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-offers-intellectual-property-protection-for-azure-cloud-customers/</guid>
       <description>&lt;p&gt;Today Microsoft Vice President and Chief Legal Officer Brad Smith announced a program called Microsoft Azure IP Advantage for the companies &amp;hellip;  &lt;a href=&#34;http://windowsitpro.com/azure/microsoft-offers-intellectual-property-protection-azure-cloud-customers&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsitpro.com/azure/microsoft-offers-intellectual-property-protection-azure-cloud-customers&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud Search Assistant, Formerly Springboard, Launched to Provide</title>
-      <link>//cloudfeed.net/post/google-cloud-search-assistant-formerly-springboard-launched-to-provide/</link>
-      <pubDate>Wed, 08 Feb 2017 07:50:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/google-cloud-search-assistant-formerly-springboard-launched-to-provide/</guid>
-      <description>&lt;p&gt;NDTV Google has announced its digital assistant Google Cloud Search for G Suite users, previously made available as preview named Springboard, which &amp;hellip;  &lt;a href=&#34;http://gadgets.ndtv.com/apps/news/google-cloud-search-assistant-formerly-springboard-launched-to-provide-unified-search-across-g-suite-1657361&#34; onclick=&#34;trackOutboundLink(&#39;http://gadgets.ndtv.com/apps/news/google-cloud-search-assistant-formerly-springboard-launched-to-provide-unified-search-across-g-suite-1657361&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
