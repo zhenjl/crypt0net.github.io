@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 07 Feb 2017 15:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2017 16:00:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure Cuts Prices On Virtual Machines And Cloud Storage In</title>
+      <link>//cloudfeed.net/post/microsoft-azure-cuts-prices-on-virtual-machines-and-cloud-storage-in/</link>
+      <pubDate>Tue, 07 Feb 2017 16:00:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-azure-cuts-prices-on-virtual-machines-and-cloud-storage-in/</guid>
+      <description>&lt;p&gt;Lifehacker Australia Microsoft has reduced the price of some virtual machine (VM) instances and storage offerings on its Azure public cloud platform. Here&amp;rsquo;s how much you &amp;hellip;  &lt;a href=&#34;http://www.lifehacker.com.au/2017/02/microsoft-azure-cuts-price-on-virtual-machines-and-cloud-storage-in-australia/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.lifehacker.com.au/2017/02/microsoft-azure-cuts-price-on-virtual-machines-and-cloud-storage-in-australia/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google to release cloud search service for its G Suite customers from</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/ais-links-with-microsoft-for-cloud-deal/</guid>
       <description>&lt;p&gt;AIS customers will be able to use advanced features in services such as Office 365 and the Microsoft Azure cloud platform for tasks ranging from &amp;hellip;  &lt;a href=&#34;http://www.nationmultimedia.com/news/business/corporate/30305869&#34; onclick=&#34;trackOutboundLink(&#39;http://www.nationmultimedia.com/news/business/corporate/30305869&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Apache Beam Moves To Top Level</title>
-      <link>//cloudfeed.net/post/apache-beam-moves-to-top-level/</link>
-      <pubDate>Tue, 07 Feb 2017 10:10:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/apache-beam-moves-to-top-level/</guid>
-      <description>&lt;p&gt;Beam began life at Google, and is used as the Google Cloud Dataflow (GCD) service. Beam uses the same API as GCD. You can implement data &amp;hellip;  &lt;a href=&#34;http://www.i-programmer.info/news/197-data-mining/10501-apache-beam-moves-to-top-level.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.i-programmer.info/news/197-data-mining/10501-apache-beam-moves-to-top-level.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
