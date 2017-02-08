@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Feb 2017 14:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Feb 2017 15:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft plugs continuous delivery into Visual Studio, Azure</title>
+      <link>//cloudfeed.net/post/microsoft-plugs-continuous-delivery-into-visual-studio-azure/</link>
+      <pubDate>Wed, 08 Feb 2017 15:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-plugs-continuous-delivery-into-visual-studio-azure/</guid>
+      <description>&lt;p&gt;The Continuous Delivery Tools for Visual Studio extension, announced this week, lets developers set up an automated build, test, and release &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3167273/application-development/microsoft-plugs-continuous-delivery-into-visual-studio-azure.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3167273/application-development/microsoft-plugs-continuous-delivery-into-visual-studio-azure.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Live Nation choose Amazon as Cloud provider for their ticketing and</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/convergex-taps-ancoa-for-awshosted-market-surveillance-platform/</guid>
       <description>&lt;p&gt;Agency-only brokerage Convergex has implemented an Amazon Web Services (AWS)-hosted market surveillance platform from technology vendor &amp;hellip;  &lt;a href=&#34;http://www.waterstechnology.com/sell-side-technology/news/2481347/convergex-taps-ancoa-for-aws-hosted-market-surveillance-platform&#34; onclick=&#34;trackOutboundLink(&#39;http://www.waterstechnology.com/sell-side-technology/news/2481347/convergex-taps-ancoa-for-aws-hosted-market-surveillance-platform&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Microsoft Azure IP Advantage program provides customers with</title>
-      <link>//cloudfeed.net/post/new-microsoft-azure-ip-advantage-program-provides-customers-with/</link>
-      <pubDate>Wed, 08 Feb 2017 09:10:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/new-microsoft-azure-ip-advantage-program-provides-customers-with/</guid>
-      <description>&lt;p&gt;On Wednesday, the Microsoft Azure IP Advantage program  the industry&amp;rsquo;s most comprehensive protection against intellectual property (IP) risks &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/02/08/new-microsoft-azure-ip-advantage-program-provides-customers-with-intellectual-property-protection/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/02/08/new-microsoft-azure-ip-advantage-program-provides-customers-with-intellectual-property-protection/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
