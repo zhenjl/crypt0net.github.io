@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Feb 2017 15:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Feb 2017 15:30:05 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lightboard Lessons: IoT on BIG-IP</title>
+      <link>//cloudfeed.net/post/lightboard-lessons-iot-on-bigip/</link>
+      <pubDate>Wed, 08 Feb 2017 15:30:05 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/lightboard-lessons-iot-on-bigip/</guid>
+      <description>&lt;p&gt;In this Lightboard Lesson, I light up how IoT protocol MQTT (Message Queuing Telemetry Transport) works on BIG-IP v13. iRules allow you to do Topic &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/4004984&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/4004984&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Industrial and Enterprise Internet of Things (IoT) Market Analysis and</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-helps-cloud-customers-thwart-patent-trolls/</guid>
       <description>&lt;p&gt;Today, Microsoft announced it is offering patent protection for third-party applications and services running on the Microsoft Azure cloud platform.  &lt;a href=&#34;https://www.sdxcentral.com/articles/news/microsoft-helps-cloud-customers-thwart-patent-trolls/2017/02/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sdxcentral.com/articles/news/microsoft-helps-cloud-customers-thwart-patent-trolls/2017/02/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Building Up to OpenStack III: Xen and libvirt</title>
-      <link>//cloudfeed.net/post/building-up-to-openstack-iii-xen-and-libvirt/</link>
-      <pubDate>Wed, 08 Feb 2017 13:40:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/building-up-to-openstack-iii-xen-and-libvirt/</guid>
-      <description>&lt;p&gt;and KVM, and their roles in the nucleus of any OpenStack cloud.  &lt;a href=&#34;https://www.ibm.com/blogs/bluemix/2017/02/openstack-iii-xen-and-libvirt/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.ibm.com/blogs/bluemix/2017/02/openstack-iii-xen-and-libvirt/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
