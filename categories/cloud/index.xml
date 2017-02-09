@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Feb 2017 14:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2017 14:50:07 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1663297 Keystone token flush running simultaneously on all...</title>
+      <link>//cloudfeed.net/post/bug-1663297-keystone-token-flush-running-simultaneously-on-all/</link>
+      <pubDate>Thu, 09 Feb 2017 14:50:07 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/bug-1663297-keystone-token-flush-running-simultaneously-on-all/</guid>
+      <description>&lt;p&gt;the same time, unlike it used to be in older versions, where it was installed &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1663297&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1663297&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft pledges to fight patent trolls for its cloud customers</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/amazon-web-services-becomes-public-cloud-infrastructure-provider-for-live/</guid>
       <description>&lt;p&gt;EPR Retail News (press release) SEATTLE, 2017-Feb-09  /EPR Retail News/  Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today (Feb.  &lt;a href=&#34;http://eprretailnews.com/2017/02/09/amazon-web-services-becomes-public-cloud-infrastructure-provider-for-live-nation-entertainment-inc-54856768/&#34; onclick=&#34;trackOutboundLink(&#39;http://eprretailnews.com/2017/02/09/amazon-web-services-becomes-public-cloud-infrastructure-provider-for-live-nation-entertainment-inc-54856768/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ManageEngine launches Log Analysis, auditing solution for multi-cloud</title>
-      <link>//cloudfeed.net/post/manageengine-launches-log-analysis-auditing-solution-for-multicloud/</link>
-      <pubDate>Thu, 09 Feb 2017 07:30:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/manageengine-launches-log-analysis-auditing-solution-for-multicloud/</guid>
-      <description>&lt;p&gt;DATAQUEST &amp;hellip; cloud security by collecting, monitoring and analyzing log information from both the Microsoft Azure and Amazon Web Services (AWS) environments &amp;hellip;  &lt;a href=&#34;http://www.dqindia.com/manageengine-launches-log-analysis-auditing-solution-for-multi-cloud-environments/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dqindia.com/manageengine-launches-log-analysis-auditing-solution-for-multi-cloud-environments/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
