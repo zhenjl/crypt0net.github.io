@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Feb 2017 07:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2017 09:10:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud for .NET Developers by Falafel Software</title>
+      <link>//cloudfeed.net/post/google-cloud-for-net-developers-by-falafel-software/</link>
+      <pubDate>Thu, 09 Feb 2017 09:10:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/google-cloud-for-net-developers-by-falafel-software/</guid>
+      <description>&lt;p&gt;Cloud Platform using Visual Studio and the Google Cloud SDK. Add to Cart &amp;hellip;  &lt;a href=&#34;http://www.lulu.com/shop/falafel-software/google-cloud-for-net-developers/paperback/product-23060220.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.lulu.com/shop/falafel-software/google-cloud-for-net-developers/paperback/product-23060220.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Peak 10 Enables Hybrid IT In 100% of Its Data Centers</title>
+      <link>//cloudfeed.net/post/peak-10-enables-hybrid-it-in-100-of-its-data-centers/</link>
+      <pubDate>Thu, 09 Feb 2017 09:10:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/peak-10-enables-hybrid-it-in-100-of-its-data-centers/</guid>
+      <description>&lt;p&gt;With direct network access to Amazon Web Services, Microsoft Azure1 and others, Peak 10&amp;rsquo;s connectivity options provide scalable, dedicated &amp;hellip;  &lt;a href=&#34;http://www.businesswire.com/news/home/20170209005915/en/Peak-10-Enables-Hybrid-100-Data-Centers&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20170209005915/en/Peak-10-Enables-Hybrid-100-Data-Centers&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Snap commits to spend $1B on Amazon Web Services over next five years</title>
+      <link>//cloudfeed.net/post/snap-commits-to-spend-1b-on-amazon-web-services-over-next-five-years/</link>
+      <pubDate>Thu, 09 Feb 2017 09:10:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/snap-commits-to-spend-1b-on-amazon-web-services-over-next-five-years/</guid>
+      <description>&lt;p&gt;Amazon Web Services has secured a five-year, $1 billion commitment from Snap to use cloud services from AWS, according to an amended IPO &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/snap-commits-spend-1b-amazon-web-services-next-five-years/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/snap-commits-spend-1b-amazon-web-services-next-five-years/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Web Services becomes public cloud infrastructure provider for Live</title>
@@ -149,42 +185,6 @@
       
       <guid>//cloudfeed.net/post/bug-1663185-password-in-openrc-is-not-quoted-openstackansibl--bugs/</guid>
       <description>&lt;p&gt;Ansible role &amp;ldquo;openstack-ansible-openstack_openrc&amp;rdquo; does not quote password for variable &amp;ldquo;OS_PASSWORD&amp;rdquo; in template openrc.j2 unquoted &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1663185&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1663185&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Evernote is getting faster thanks to Google&#39;s Cloud Platform</title>
-      <link>//cloudfeed.net/post/evernote-is-getting-faster-thanks-to-googles-cloud-platform/</link>
-      <pubDate>Thu, 09 Feb 2017 02:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/evernote-is-getting-faster-thanks-to-googles-cloud-platform/</guid>
-      <description>&lt;p&gt;You might see Evernote&amp;rsquo;s pages load faster than usual going forward, now that the service is almost fully done moving 3 petabytes of data to Google &amp;hellip;  &lt;a href=&#34;https://www.engadget.com/2017/02/09/evernote-google-cloud-platform/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.engadget.com/2017/02/09/evernote-google-cloud-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>LogicBoxes Enables Its Partners To Sell G Suite By Google Cloud</title>
-      <link>//cloudfeed.net/post/logicboxes-enables-its-partners-to-sell-g-suite-by-google-cloud/</link>
-      <pubDate>Thu, 09 Feb 2017 02:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/logicboxes-enables-its-partners-to-sell-g-suite-by-google-cloud/</guid>
-      <description>&lt;p&gt;LogicBoxes, the leading provider of web presence automation solutions for Web Hosts, Domain Resellers and Registrars is working with Google to &amp;hellip;  &lt;a href=&#34;http://www.hostreview.com/news/170209-logicboxes-enables-its-partners-to-sell-g-suite-by-google-cloud&#34; onclick=&#34;trackOutboundLink(&#39;http://www.hostreview.com/news/170209-logicboxes-enables-its-partners-to-sell-g-suite-by-google-cloud&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft promises to defend cloud customers from patent trolls</title>
-      <link>//cloudfeed.net/post/microsoft-promises-to-defend-cloud-customers-from-patent-trolls/</link>
-      <pubDate>Thu, 09 Feb 2017 02:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-promises-to-defend-cloud-customers-from-patent-trolls/</guid>
-      <description>&lt;p&gt;The Microsoft Azure IP Advantage programme offers to pay for all legal costs associated with challenges from the open source community, provided &amp;hellip;  &lt;a href=&#34;http://www.cloudpro.co.uk/cloud-essentials/public-cloud/6615/microsoft-promises-to-defend-cloud-customers-from-patent-trolls&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cloudpro.co.uk/cloud-essentials/public-cloud/6615/microsoft-promises-to-defend-cloud-customers-from-patent-trolls&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
