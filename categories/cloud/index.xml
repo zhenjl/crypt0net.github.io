@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Feb 2017 19:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Feb 2017 19:30:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Missing trove backup api in database API reference...</title>
+      <link>//cloudfeed.net/post/missing-trove-backup-api-in-database-api-reference/</link>
+      <pubDate>Wed, 08 Feb 2017 19:30:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/missing-trove-backup-api-in-database-api-reference/</guid>
+      <description>&lt;p&gt;resources: - Ask OpenStack: &lt;a href=&#34;http://ask.openstack.org&#34;&gt;http://ask.openstack.org&lt;/a&gt; - The mailing list: ht&amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1663096&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1663096&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Now you can try Microsoft&#39;s supersized Surface Hub before buying</title>
@@ -312,18 +324,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-helps-cloud-customers-thwart-patent-trolls/</guid>
       <description>&lt;p&gt;Today, Microsoft announced it is offering patent protection for third-party applications and services running on the Microsoft Azure cloud platform.  &lt;a href=&#34;https://www.sdxcentral.com/articles/news/microsoft-helps-cloud-customers-thwart-patent-trolls/2017/02/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sdxcentral.com/articles/news/microsoft-helps-cloud-customers-thwart-patent-trolls/2017/02/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Building Up to OpenStack III: Xen and libvirt</title>
-      <link>//cloudfeed.net/post/building-up-to-openstack-iii-xen-and-libvirt/</link>
-      <pubDate>Wed, 08 Feb 2017 13:40:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/building-up-to-openstack-iii-xen-and-libvirt/</guid>
-      <description>&lt;p&gt;and KVM, and their roles in the nucleus of any OpenStack cloud.  &lt;a href=&#34;https://www.ibm.com/blogs/bluemix/2017/02/openstack-iii-xen-and-libvirt/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.ibm.com/blogs/bluemix/2017/02/openstack-iii-xen-and-libvirt/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
