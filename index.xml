@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Feb 2017 22:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Feb 2017 22:30:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Integarted OpenStack does not show Clusters available in others Datacenter</title>
+      <link>//cloudfeed.net/post/integarted-openstack-does-not-show-clusters-available-in-others-datacenter/</link>
+      <pubDate>Wed, 08 Feb 2017 22:30:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/integarted-openstack-does-not-show-clusters-available-in-others-datacenter/</guid>
+      <description>&lt;p&gt;deployment: Only cluster available in the datacenter where the management &amp;hellip;  &lt;a href=&#34;https://kb.vmware.com/kb/2148659&#34; onclick=&#34;trackOutboundLink(&#39;https://kb.vmware.com/kb/2148659&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>UK-based Caxton implements blockchain technology to improve payment</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/evernote-gives-itself-high-fives-completes-migration-to-google-cloud/</guid>
       <description>&lt;p&gt;Evernote is all &amp;ldquo;go, us!&amp;rdquo; on Wednesday, announcing that it&amp;rsquo;s completed its migration from its own infrastructure to Google Cloud in 70 days.  &lt;a href=&#34;http://www.lightreading.com/enterprise-cloud/evernote-gives-itself-high-fives-completes-migration-to-google-cloud/d/d-id/730181&#34; onclick=&#34;trackOutboundLink(&#39;http://www.lightreading.com/enterprise-cloud/evernote-gives-itself-high-fives-completes-migration-to-google-cloud/d/d-id/730181&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Kicks Off the 2017 Cloud Wars With Some Big Price Cuts</title>
-      <link>//cloudfeed.net/post/microsoft-kicks-off-the-2017-cloud-wars-with-some-big-price-cuts/</link>
-      <pubDate>Wed, 08 Feb 2017 18:50:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-kicks-off-the-2017-cloud-wars-with-some-big-price-cuts/</guid>
-      <description>&lt;p&gt;Alphabet&amp;rsquo;s Google Cloud Platform runs a strong third place in the cloud market. Snap recently signed a $2 billion deal with Google Cloud that &amp;hellip;  &lt;a href=&#34;https://www.thestreet.com/story/13995452/1/microsoft-kicks-off-the-2017-cloud-wars-with-some-big-price-cuts.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.thestreet.com/story/13995452/1/microsoft-kicks-off-the-2017-cloud-wars-with-some-big-price-cuts.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
