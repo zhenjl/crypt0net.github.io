@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Feb 2017 13:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2017 13:40:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arby&#39;s Data Breach: How to find out if your card was compromised</title>
+      <link>//cloudfeed.net/post/arbys-data-breach-how-to-find-out-if-your-card-was-compromised/</link>
+      <pubDate>Thu, 09 Feb 2017 13:40:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/arbys-data-breach-how-to-find-out-if-your-card-was-compromised/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The continuing saga of retail data breaches have become a national nightmare,&amp;rdquo; National Association of Federally-Insured Credit Unions president &amp;hellip;  &lt;a href=&#34;https://mic.com/articles/168174/arbys-data-breach-how-to-find-out-if-your-card-was-compromised&#34; onclick=&#34;trackOutboundLink(&#39;https://mic.com/articles/168174/arbys-data-breach-how-to-find-out-if-your-card-was-compromised&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft: Protecting Innovation in the Cloud</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Telit, a global enabler of the Internet of Things (IoT) technology, recently announced that its deviceWISE Asset Gateway Software has been validated &amp;hellip;  &lt;a href=&#34;http://www.engineering.com/AdvancedManufacturing/ArticleID/14283/Telit-deviceWISE-Asset-Gateway-Software-Deployed-on-Cisco-IoT-Gateways.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.engineering.com/AdvancedManufacturing/ArticleID/14283/Telit-deviceWISE-Asset-Gateway-Software-Deployed-on-Cisco-IoT-Gateways.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CINDER DRIVER: Block Storage service for OpenStack</title>
-      <link>//cloudfeed.net/post/cinder-driver-block-storage-service-for-openstack/</link>
-      <pubDate>Thu, 09 Feb 2017 11:40:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/cinder-driver-block-storage-service-for-openstack/</guid>
-      <description>&lt;p&gt;Cinder is a Block Storage service for OpenStack. It&amp;rsquo;s designed to present storage resources to end users that can be consumed by the OpenStack &amp;hellip;  &lt;a href=&#34;http://openstack.cioreview.com/whitepaper/cinder-driver-openstack-wid-611.html&#34; onclick=&#34;trackOutboundLink(&#39;http://openstack.cioreview.com/whitepaper/cinder-driver-openstack-wid-611.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
