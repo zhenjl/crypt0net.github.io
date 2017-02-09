@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Feb 2017 02:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2017 02:30:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1663185 Password in openrc is not quoted (openstack-ansibl... : Bugs</title>
+      <link>//cloudfeed.net/post/bug-1663185-password-in-openrc-is-not-quoted-openstackansibl--bugs/</link>
+      <pubDate>Thu, 09 Feb 2017 02:30:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/bug-1663185-password-in-openrc-is-not-quoted-openstackansibl--bugs/</guid>
+      <description>&lt;p&gt;Ansible role &amp;ldquo;openstack-ansible-openstack_openrc&amp;rdquo; does not quote password for variable &amp;ldquo;OS_PASSWORD&amp;rdquo; in template openrc.j2 unquoted &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1663185&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1663185&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evernote is getting faster thanks to Google&#39;s Cloud Platform</title>
+      <link>//cloudfeed.net/post/evernote-is-getting-faster-thanks-to-googles-cloud-platform/</link>
+      <pubDate>Thu, 09 Feb 2017 02:30:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/evernote-is-getting-faster-thanks-to-googles-cloud-platform/</guid>
+      <description>&lt;p&gt;You might see Evernote&amp;rsquo;s pages load faster than usual going forward, now that the service is almost fully done moving 3 petabytes of data to Google &amp;hellip;  &lt;a href=&#34;https://www.engadget.com/2017/02/09/evernote-google-cloud-platform/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.engadget.com/2017/02/09/evernote-google-cloud-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LogicBoxes Enables Its Partners To Sell G Suite By Google Cloud</title>
+      <link>//cloudfeed.net/post/logicboxes-enables-its-partners-to-sell-g-suite-by-google-cloud/</link>
+      <pubDate>Thu, 09 Feb 2017 02:30:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/logicboxes-enables-its-partners-to-sell-g-suite-by-google-cloud/</guid>
+      <description>&lt;p&gt;LogicBoxes, the leading provider of web presence automation solutions for Web Hosts, Domain Resellers and Registrars is working with Google to &amp;hellip;  &lt;a href=&#34;http://www.hostreview.com/news/170209-logicboxes-enables-its-partners-to-sell-g-suite-by-google-cloud&#34; onclick=&#34;trackOutboundLink(&#39;http://www.hostreview.com/news/170209-logicboxes-enables-its-partners-to-sell-g-suite-by-google-cloud&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain used for import/export in Dubai</title>
@@ -151,42 +187,6 @@
       <description>&lt;p&gt;The Register Patent trolls are a growing problem, and Microsoft thinks that it has the solution  an affordable-ish protection scheme for Azure customers. Under the &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/02/09/microsoft_patent_troll_protection_scheme/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/02/09/microsoft_patent_troll_protection_scheme/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bug #1663133 Example: Microsoft Windows image in Virtual Machin...</title>
-      <link>//cloudfeed.net/post/bug-1663133-example-microsoft-windows-image-in-virtual-machin/</link>
-      <pubDate>Wed, 08 Feb 2017 23:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/bug-1663133-example-microsoft-windows-image-in-virtual-machin/</guid>
-      <description>&lt;p&gt;should have virt_type = kvm while doing a deployment and virtio net &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1663133&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1663133&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OnSSI Ocularis 5.3 Surveillance Software</title>
-      <link>//cloudfeed.net/post/onssi-ocularis-53-surveillance-software/</link>
-      <pubDate>Wed, 08 Feb 2017 23:30:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/onssi-ocularis-53-surveillance-software/</guid>
-      <description>&lt;p&gt;&amp;hellip; and can become a Physical Security Information Management (PSIM) platform, putting users in control of advanced tools and enhanced integrations &amp;hellip;  &lt;a href=&#34;https://facilityexecutive.com/2017/02/onssi-ocularis-5-3-surveillance-software/&#34; onclick=&#34;trackOutboundLink(&#39;https://facilityexecutive.com/2017/02/onssi-ocularis-5-3-surveillance-software/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blockchain firm Coinfirm secures $700k from Luma Ventures in seed funding</title>
-      <link>//cloudfeed.net/post/blockchain-firm-coinfirm-secures-700k-from-luma-ventures-in-seed-funding/</link>
-      <pubDate>Wed, 08 Feb 2017 23:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/blockchain-firm-coinfirm-secures-700k-from-luma-ventures-in-seed-funding/</guid>
-      <description>&lt;p&gt;EconoTimes Blockchain startup Coinfirm announced that it has secured an investment of $700k from Luma Ventures in an ongoing seed round and aims to further &amp;hellip;  &lt;a href=&#34;http://www.econotimes.com/Blockchain-firm-Coinfirm-secures-700k-from-Luma-Ventures-in-seed-funding-round-531318&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/Blockchain-firm-Coinfirm-secures-700k-from-Luma-Ventures-in-seed-funding-round-531318&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
