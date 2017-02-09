@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Feb 2017 00:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2017 01:00:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft: Instant File Recovery from Cloud using Azure Backup</title>
+      <link>//cloudfeed.net/post/microsoft-instant-file-recovery-from-cloud-using-azure-backup/</link>
+      <pubDate>Thu, 09 Feb 2017 01:00:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-instant-file-recovery-from-cloud-using-azure-backup/</guid>
+      <description>&lt;p&gt;Since its inception, Azure Backup has empowered enterprises to embark on the digital transformation to cloud by providing a cloud-first approach to &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/microsoft-instant-file-recovery-from-cloud-using-azure-backup/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/microsoft-instant-file-recovery-from-cloud-using-azure-backup/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Anvato, Google&#39;s complete OTT video platform, now on Google Cloud Platform</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/skyhigh-rolls-out-custom-enterprise-app-security-for-public-clouds/</guid>
       <description>&lt;p&gt;&amp;hellip; extension of its Cloud Access Security Broker (CASB) platform to Infrastructure-as-a-Service (IaaS) apps in AWS, Azure, and Google Cloud Platform.  &lt;a href=&#34;http://me.pcmag.com/slack/10304/news/skyhigh-rolls-out-custom-enterprise-app-security-for-public&#34; onclick=&#34;trackOutboundLink(&#39;http://me.pcmag.com/slack/10304/news/skyhigh-rolls-out-custom-enterprise-app-security-for-public&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OpenStack Swift Installation and Configuration Guide</title>
-      <link>//cloudfeed.net/post/openstack-swift-installation-and-configuration-guide/</link>
-      <pubDate>Wed, 08 Feb 2017 18:30:02 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/openstack-swift-installation-and-configuration-guide/</guid>
-      <description>&lt;p&gt;configuring OpenStack Swift on Hitachi Hyper Scale-Out Platform (HSP).  &lt;a href=&#34;https://knowledge.hds.com/Documents/Converged/Hyper_Scale-Out_Platform/1.2/Deployment_Guide/OpenStack_Swift_Installation_and_Configuration_Guide&#34; onclick=&#34;trackOutboundLink(&#39;https://knowledge.hds.com/Documents/Converged/Hyper_Scale-Out_Platform/1.2/Deployment_Guide/OpenStack_Swift_Installation_and_Configuration_Guide&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
