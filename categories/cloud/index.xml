@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Feb 2017 13:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2017 14:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft pledges to fight patent trolls for its cloud customers</title>
+      <link>//cloudfeed.net/post/microsoft-pledges-to-fight-patent-trolls-for-its-cloud-customers/</link>
+      <pubDate>Thu, 09 Feb 2017 14:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-pledges-to-fight-patent-trolls-for-its-cloud-customers/</guid>
+      <description>&lt;p&gt;Under the Azure IP Advantage program, Microsoft promises it will fight any patent court cases brought against its cloud customers to minimise &amp;hellip;  &lt;a href=&#34;http://www.itnews.com.au/news/microsoft-pledges-to-fight-patient-trolls-for-its-cloud-customers-450523&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itnews.com.au/news/microsoft-pledges-to-fight-patient-trolls-for-its-cloud-customers-450523&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Snapchat, A Prominent Google Cloud Customer, Strikes A Deal With AWS</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/manageengine-launches-log-analysis-auditing-solution-for-multicloud/</guid>
       <description>&lt;p&gt;DATAQUEST &amp;hellip; cloud security by collecting, monitoring and analyzing log information from both the Microsoft Azure and Amazon Web Services (AWS) environments &amp;hellip;  &lt;a href=&#34;http://www.dqindia.com/manageengine-launches-log-analysis-auditing-solution-for-multi-cloud-environments/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dqindia.com/manageengine-launches-log-analysis-auditing-solution-for-multi-cloud-environments/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>When injecting a keypair into the OpenStack environment, it is not</title>
-      <link>//cloudfeed.net/post/when-injecting-a-keypair-into-the-openstack-environment-it-is-not/</link>
-      <pubDate>Thu, 09 Feb 2017 07:20:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/when-injecting-a-keypair-into-the-openstack-environment-it-is-not/</guid>
-      <description>&lt;p&gt;When injecting a keypair into the OpenStack environment, it is not honouring the &amp;hellip; Target: Hosted Openstack Environment, running Icehouse.  &lt;a href=&#34;https://github.com/ansible/ansible/issues/21191&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/ansible/ansible/issues/21191&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
