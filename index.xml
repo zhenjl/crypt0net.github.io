@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Feb 2017 06:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2017 07:20:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>When injecting a keypair into the OpenStack environment, it is not</title>
+      <link>//cloudfeed.net/post/when-injecting-a-keypair-into-the-openstack-environment-it-is-not/</link>
+      <pubDate>Thu, 09 Feb 2017 07:20:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/when-injecting-a-keypair-into-the-openstack-environment-it-is-not/</guid>
+      <description>&lt;p&gt;When injecting a keypair into the OpenStack environment, it is not honouring the &amp;hellip; Target: Hosted Openstack Environment, running Icehouse.  &lt;a href=&#34;https://github.com/ansible/ansible/issues/21191&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/ansible/ansible/issues/21191&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Chinese blockchain, HPC giant to open first international data centre in</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/the-impending-use-of-blockchain-in-financial-services/</guid>
       <description>&lt;p&gt;Blockchain is on the verge of revolutionising the financial services industry. Allowing for more fast and secure payments and transactions.  &lt;a href=&#34;http://www.information-age.com/blockchain-financial-services-123464378/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.information-age.com/blockchain-financial-services-123464378/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>US&#39;s Accenture beefs up blockchain security</title>
-      <link>//cloudfeed.net/post/uss-accenture-beefs-up-blockchain-security/</link>
-      <pubDate>Thu, 09 Feb 2017 05:50:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/uss-accenture-beefs-up-blockchain-security/</guid>
-      <description>&lt;p&gt;NEW YORK, Feb 8 (Reuters) - Accenture Plc has developed new technology that it says can help make blockchain applications more secure and &amp;hellip;  &lt;a href=&#34;http://www.zawya.com/mena/en/story/USs_Accenture_beefs_up_blockchain_security-TR20170208nL1N1FS21OX2/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zawya.com/mena/en/story/USs_Accenture_beefs_up_blockchain_security-TR20170208nL1N1FS21OX2/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
