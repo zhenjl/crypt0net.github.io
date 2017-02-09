@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Feb 2017 18:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Feb 2017 18:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack Swift Installation and Configuration Guide</title>
+      <link>//cloudfeed.net/post/openstack-swift-installation-and-configuration-guide/</link>
+      <pubDate>Wed, 08 Feb 2017 18:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-swift-installation-and-configuration-guide/</guid>
+      <description>&lt;p&gt;configuring OpenStack Swift on Hitachi Hyper Scale-Out Platform (HSP).  &lt;a href=&#34;https://knowledge.hds.com/Documents/Converged/Hyper_Scale-Out_Platform/1.2/Deployment_Guide/OpenStack_Swift_Installation_and_Configuration_Guide&#34; onclick=&#34;trackOutboundLink(&#39;https://knowledge.hds.com/Documents/Converged/Hyper_Scale-Out_Platform/1.2/Deployment_Guide/OpenStack_Swift_Installation_and_Configuration_Guide&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft will give Azure customers access to 10000 patents to fight</title>
@@ -312,18 +324,6 @@
       
       <guid>//cloudfeed.net/post/oktopost-brings-social-data-to-microsoft-azure-for-advanced-social-insights/</guid>
       <description>&lt;p&gt;TEL AVIV, ISRAEL - 8 Feb, 2017 - Oktopost the fast growing, B2B social media management platform, through its integration with Microsoft Azure, the &amp;hellip;  &lt;a href=&#34;http://www.digitaljournal.com/pr/3229670&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digitaljournal.com/pr/3229670&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon cloud services revenues dominate, but Microsoft and others are</title>
-      <link>//cloudfeed.net/post/amazon-cloud-services-revenues-dominate-but-microsoft-and-others-are/</link>
-      <pubDate>Wed, 08 Feb 2017 11:00:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/amazon-cloud-services-revenues-dominate-but-microsoft-and-others-are/</guid>
-      <description>&lt;p&gt;OnMSFT (blog) This can be attributed to much of Microsoft Azure&amp;rsquo;s growth reported at $14 billion across the commercial cloud, including Office 365. The tech giant&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;https://www.onmsft.com/news/amazon-cloud-services-revenues-dominate-but-microsoft-and-others-are-gaining-ground&#34; onclick=&#34;trackOutboundLink(&#39;https://www.onmsft.com/news/amazon-cloud-services-revenues-dominate-but-microsoft-and-others-are-gaining-ground&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

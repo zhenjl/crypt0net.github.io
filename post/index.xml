@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Feb 2017 18:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Feb 2017 18:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack Swift Installation and Configuration Guide</title>
+      <link>//cloudfeed.net/post/openstack-swift-installation-and-configuration-guide/</link>
+      <pubDate>Wed, 08 Feb 2017 18:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-swift-installation-and-configuration-guide/</guid>
+      <description>&lt;p&gt;configuring OpenStack Swift on Hitachi Hyper Scale-Out Platform (HSP).  &lt;a href=&#34;https://knowledge.hds.com/Documents/Converged/Hyper_Scale-Out_Platform/1.2/Deployment_Guide/OpenStack_Swift_Installation_and_Configuration_Guide&#34; onclick=&#34;trackOutboundLink(&#39;https://knowledge.hds.com/Documents/Converged/Hyper_Scale-Out_Platform/1.2/Deployment_Guide/OpenStack_Swift_Installation_and_Configuration_Guide&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft will give Azure customers access to 10000 patents to fight</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/lightboard-lessons-iot-on-bigip/</guid>
       <description>&lt;p&gt;In this Lightboard Lesson, I light up how IoT protocol MQTT (Message Queuing Telemetry Transport) works on BIG-IP v13. iRules allow you to do Topic &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/4004984&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/4004984&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Industrial and Enterprise Internet of Things (IoT) Market Analysis and</title>
-      <link>//cloudfeed.net/post/industrial-and-enterprise-internet-of-things-iot-market-analysis-and/</link>
-      <pubDate>Wed, 08 Feb 2017 15:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/industrial-and-enterprise-internet-of-things-iot-market-analysis-and/</guid>
-      <description>&lt;p&gt;Satellite PR News (press release) Orbis ResearchOrbisResearch.com has published new research report on Industrial and Enterprise Internet of Things (IoT): Market Analysis and &amp;hellip;  &lt;a href=&#34;http://www.satprnews.com/2017/02/08/industrial-and-enterprise-internet-of-things-iot-market-analysis-and-forecast-2022-by-enterprise-iot-and-iiot/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.satprnews.com/2017/02/08/industrial-and-enterprise-internet-of-things-iot-market-analysis-and-forecast-2022-by-enterprise-iot-and-iiot/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

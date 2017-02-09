@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Feb 2017 18:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Feb 2017 18:30:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack Swift Installation and Configuration Guide</title>
+      <link>//cloudfeed.net/post/openstack-swift-installation-and-configuration-guide/</link>
+      <pubDate>Wed, 08 Feb 2017 18:30:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-swift-installation-and-configuration-guide/</guid>
+      <description>&lt;p&gt;configuring OpenStack Swift on Hitachi Hyper Scale-Out Platform (HSP).  &lt;a href=&#34;https://knowledge.hds.com/Documents/Converged/Hyper_Scale-Out_Platform/1.2/Deployment_Guide/OpenStack_Swift_Installation_and_Configuration_Guide&#34; onclick=&#34;trackOutboundLink(&#39;https://knowledge.hds.com/Documents/Converged/Hyper_Scale-Out_Platform/1.2/Deployment_Guide/OpenStack_Swift_Installation_and_Configuration_Guide&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft will give Azure customers access to 10000 patents to fight</title>
@@ -632,18 +644,6 @@
       
       <guid>//cloudfeed.net/post/microsoft-kicks-off-the-2017-cloud-wars-with-some-big-price-cuts/</guid>
       <description>&lt;p&gt;Since its founding in 2006, cloud leader Amazon Web Services has reduced prices more than 50 times. The last came in November 2016, before the &amp;hellip;  &lt;a href=&#34;https://www.thestreet.com/story/13995452/1/microsoft-kicks-off-the-2017-cloud-wars-with-some-big-price-cuts.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.thestreet.com/story/13995452/1/microsoft-kicks-off-the-2017-cloud-wars-with-some-big-price-cuts.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Offers Patent Troll Protection</title>
-      <link>//cloudfeed.net/post/microsoft-azure-offers-patent-troll-protection/</link>
-      <pubDate>Wed, 08 Feb 2017 16:00:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-azure-offers-patent-troll-protection/</guid>
-      <description>&lt;p&gt;Microsoft is now offering its Azure cloud computing customers a new way to protect their intellectual property against patent trolls by utilizing the &amp;hellip;  &lt;a href=&#34;http://www.lightreading.com/enterprise-cloud/microsoft-azure-offers-patent-troll-protection/d/d-id/730186&#34; onclick=&#34;trackOutboundLink(&#39;http://www.lightreading.com/enterprise-cloud/microsoft-azure-offers-patent-troll-protection/d/d-id/730186&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
