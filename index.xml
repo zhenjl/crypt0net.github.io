@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Feb 2017 17:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2017 18:00:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Create a Virtual Machine in the Azure Cloud</title>
+      <link>//cloudfeed.net/post/create-a-virtual-machine-in-the-azure-cloud/</link>
+      <pubDate>Thu, 09 Feb 2017 18:00:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/create-a-virtual-machine-in-the-azure-cloud/</guid>
+      <description>&lt;p&gt;To provision and connect to a VM in Azure, more than just the VM is required. &amp;hellip; For more information on VM sizes, see Microsoft&amp;rsquo;s website here.  &lt;a href=&#34;https://www.petri.com/create-virtual-machine-azure-cloud&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/create-virtual-machine-azure-cloud&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>5 Things To Know About Voice Search And How To Capitalize Moving Forward</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/cisco-joins-microsofts-azure-stack-club/</guid>
       <description>&lt;p&gt;Azure Stack is essentially a slice of the Microsoft public cloud that an enterprise can run in private, either inside its own data center or at the customer &amp;hellip;  &lt;a href=&#34;https://www.sdxcentral.com/articles/news/cisco-joins-microsofts-azure-stack-club/2017/02/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sdxcentral.com/articles/news/cisco-joins-microsofts-azure-stack-club/2017/02/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Quest&#39;s One Identity Now Manages Active Directory, Azure</title>
-      <link>//cloudfeed.net/post/quests-one-identity-now-manages-active-directory-azure/</link>
-      <pubDate>Thu, 09 Feb 2017 15:50:07 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/quests-one-identity-now-manages-active-directory-azure/</guid>
-      <description>&lt;p&gt;While Amazon Web Services is far and away the market leader in global web services with 31 percent of the market, Microsoft&amp;rsquo;s Azure is in second &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/security/quests-one-identity-now-manages-active-directory-azure.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/security/quests-one-identity-now-manages-active-directory-azure.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

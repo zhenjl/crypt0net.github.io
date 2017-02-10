@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Feb 2017 16:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2017 18:00:02 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Create a Virtual Machine in the Azure Cloud</title>
+      <link>//cloudfeed.net/post/create-a-virtual-machine-in-the-azure-cloud/</link>
+      <pubDate>Thu, 09 Feb 2017 18:00:02 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/create-a-virtual-machine-in-the-azure-cloud/</guid>
+      <description>&lt;p&gt;To provision and connect to a VM in Azure, more than just the VM is required. &amp;hellip; For more information on VM sizes, see Microsoft&amp;rsquo;s website here.  &lt;a href=&#34;https://www.petri.com/create-virtual-machine-azure-cloud&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/create-virtual-machine-azure-cloud&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Colt connects Azure to On Demand Platform</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/cloudways-adds-support-for-three-new-datacenter-locations-from-amazon-web/</guid>
       <description>&lt;p&gt;Digital Journal Cloudways, one of the fastest growing Managed Cloud Hosting Platforms, announces the integration of three new datacenter locations of Amazon &amp;hellip;  &lt;a href=&#34;http://www.digitaljournal.com/pr/3230660&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digitaljournal.com/pr/3230660&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cisco Accelerates Hybrid Cloud Adoption with Integrated System for</title>
-      <link>//cloudfeed.net/post/cisco-accelerates-hybrid-cloud-adoption-with-integrated-system-for/</link>
-      <pubDate>Thu, 09 Feb 2017 11:30:06 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/cisco-accelerates-hybrid-cloud-adoption-with-integrated-system-for/</guid>
-      <description>&lt;p&gt;Satellite PR News (press release) Cisco and Microsoft are coming together to offer a hybrid cloud solution built on the power of UCS and Microsoft Azure, said Liz Centoni, senior vice &amp;hellip;  &lt;a href=&#34;http://www.satprnews.com/2017/02/09/cisco-accelerates-hybrid-cloud-adoption-with-integrated-system-for-microsoft-azure-stack/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.satprnews.com/2017/02/09/cisco-accelerates-hybrid-cloud-adoption-with-integrated-system-for-microsoft-azure-stack/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
