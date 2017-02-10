@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Feb 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2017 18:50:06 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Adds Instant Recovery Option to Azure Cloud Backup</title>
+      <link>//cloudfeed.net/post/microsoft-adds-instant-recovery-option-to-azure-cloud-backup/</link>
+      <pubDate>Thu, 09 Feb 2017 18:50:06 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/microsoft-adds-instant-recovery-option-to-azure-cloud-backup/</guid>
+      <description>&lt;p&gt;Microsoft&amp;rsquo;s Azure Cloud platform as as service gains new data protection capabilities and an expanded set of new storage management features &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/storage/microsoft-adds-instant-recovery-option-to-azure-cloud-backup.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/storage/microsoft-adds-instant-recovery-option-to-azure-cloud-backup.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Feb 9, 2017</title>
@@ -324,18 +336,6 @@
       
       <guid>//cloudfeed.net/post/forescout-extends-visibility-and-control-capabilities-to-the-cloud-with/</guid>
       <description>&lt;p&gt;ForeScout&amp;rsquo;s new solution for Amazon Web Services enables visibility into cloud workloads on the world&amp;rsquo;s most comprehensive and broadly adopted &amp;hellip;  &lt;a href=&#34;https://www.forescout.com/company/news/press-release/forescout-extends-visibility-control-capabilities-cloud-amazon-web-services/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forescout.com/company/news/press-release/forescout-extends-visibility-control-capabilities-cloud-amazon-web-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CINDER DRIVER: Block Storage service for OpenStack</title>
-      <link>//cloudfeed.net/post/cinder-driver-block-storage-service-for-openstack/</link>
-      <pubDate>Thu, 09 Feb 2017 11:40:03 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/cinder-driver-block-storage-service-for-openstack/</guid>
-      <description>&lt;p&gt;Cinder is a Block Storage service for OpenStack. It&amp;rsquo;s designed to present storage resources to end users that can be consumed by the OpenStack &amp;hellip;  &lt;a href=&#34;http://openstack.cioreview.com/whitepaper/cinder-driver-openstack-wid-611.html&#34; onclick=&#34;trackOutboundLink(&#39;http://openstack.cioreview.com/whitepaper/cinder-driver-openstack-wid-611.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
