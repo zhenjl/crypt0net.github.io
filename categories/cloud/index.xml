@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 10 Feb 2017 09:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Feb 2017 10:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Inside JD.com&#39;s Shift to Kubernetes from OpenStack</title>
+      <link>//cloudfeed.net/post/inside-jdcoms-shift-to-kubernetes-from-openstack/</link>
+      <pubDate>Fri, 10 Feb 2017 10:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/inside-jdcoms-shift-to-kubernetes-from-openstack/</guid>
+      <description>&lt;p&gt;team at JD.com about their transition from OpenStack to Kubernetes. JD.com is &amp;hellip;  &lt;a href=&#34;http://blog.kubernetes.io/2017/02/inside-jd-com-shift-to-kubernetes-from-openstack.html&#34; onclick=&#34;trackOutboundLink(&#39;http://blog.kubernetes.io/2017/02/inside-jd-com-shift-to-kubernetes-from-openstack.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Data Management for Amazon Web Services</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/unable-to-power-on-vm-from-vcloud-director-2148552/</guid>
       <description>&lt;p&gt;operation failed because no suitable resource was found. Hub &amp;ldquo;Resources&amp;rdquo; &amp;hellip;  &lt;a href=&#34;https://kb.vmware.com/kb/2148552&#34; onclick=&#34;trackOutboundLink(&#39;https://kb.vmware.com/kb/2148552&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Stack to run on Cisco UCS platform</title>
-      <link>//cloudfeed.net/post/microsoft-azure-stack-to-run-on-cisco-ucs-platform/</link>
-      <pubDate>Fri, 10 Feb 2017 02:20:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-azure-stack-to-run-on-cisco-ucs-platform/</guid>
-      <description>&lt;p&gt;Cisco has announced a deal with Microsoft to add Azure Stack to its Unified Computing System (UCS) data centre platform. Azure Stack provides &amp;hellip;  &lt;a href=&#34;https://www.telecompaper.com/news/microsoft-azure-stack-to-run-on-cisco-ucs-platform--1183295&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/microsoft-azure-stack-to-run-on-cisco-ucs-platform--1183295&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
