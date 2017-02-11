@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 10 Feb 2017 18:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Feb 2017 19:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Openstack API error messages are not propagated to the user</title>
+      <link>//cloudfeed.net/post/openstack-api-error-messages-are-not-propagated-to-the-user/</link>
+      <pubDate>Fri, 10 Feb 2017 19:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-api-error-messages-are-not-propagated-to-the-user/</guid>
+      <description>&lt;p&gt;ruoso opened this Issue 6 minutes ago  1 comment &amp;hellip;  &lt;a href=&#34;https://github.com/hashicorp/terraform/issues/11868&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/hashicorp/terraform/issues/11868&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cisco to Produce Azure Stack Hybrid Cloud Systems</title>
@@ -336,18 +348,6 @@
       
       <guid>//cloudfeed.net/post/acalvio-to-deliver-industrys-first-distributed-deception-solution-on/</guid>
       <description>&lt;p&gt;Yahoo Finance &amp;ldquo;We are pleased to work with Acalvio as they build their innovative cloud-based Advanced Threat Defense on the Microsoft Azure cloud platform to &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/acalvio-deliver-industrys-first-distributed-182000225.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/acalvio-deliver-industrys-first-distributed-182000225.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cisco Integrated System for Azure Stack Coming Later This Year</title>
-      <link>//cloudfeed.net/post/cisco-integrated-system-for-azure-stack-coming-later-this-year/</link>
-      <pubDate>Fri, 10 Feb 2017 11:30:05 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/cisco-integrated-system-for-azure-stack-coming-later-this-year/</guid>
-      <description>&lt;p&gt;With Azure Stack it will be possible to decide where to keep data and applications hosted: On Microsoft Azure in the public cloud or on-premises &amp;hellip;  &lt;a href=&#34;https://winbuzzer.com/2017/02/10/cisco-microsoft-cisco-integrated-system-azure-stack-coming-later-year-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/02/10/cisco-microsoft-cisco-integrated-system-azure-stack-coming-later-year-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>

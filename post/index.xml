@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 10 Feb 2017 18:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Feb 2017 19:10:03 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Openstack API error messages are not propagated to the user</title>
+      <link>//cloudfeed.net/post/openstack-api-error-messages-are-not-propagated-to-the-user/</link>
+      <pubDate>Fri, 10 Feb 2017 19:10:03 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/openstack-api-error-messages-are-not-propagated-to-the-user/</guid>
+      <description>&lt;p&gt;ruoso opened this Issue 6 minutes ago  1 comment &amp;hellip;  &lt;a href=&#34;https://github.com/hashicorp/terraform/issues/11868&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/hashicorp/terraform/issues/11868&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cisco to Produce Azure Stack Hybrid Cloud Systems</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Satellite PR News (press release) Deerfield Beach, FL   02/10/2017  The Machine-To-Machine (M2m) market report provides comprehensive analysis of the Machine-To-Machine &amp;hellip;  &lt;a href=&#34;http://www.satprnews.com/2017/02/11/global-machine-to-machine-m2m-market-2016-to-2021-available-in-new-research-report/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.satprnews.com/2017/02/11/global-machine-to-machine-m2m-market-2016-to-2021-available-in-new-research-report/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Adds Cisco To List of Azure Stack System Partners</title>
-      <link>//cloudfeed.net/post/microsoft-adds-cisco-to-list-of-azure-stack-system-partners/</link>
-      <pubDate>Fri, 10 Feb 2017 17:00:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/microsoft-adds-cisco-to-list-of-azure-stack-system-partners/</guid>
-      <description>&lt;p&gt;Microsoft this week announced the addition of datacenter and networking giant Cisco to its list of approved hardware partners for the upcoming Azure &amp;hellip;  &lt;a href=&#34;https://rcpmag.com/articles/2017/02/10/cisco-azure-stack-system-partner.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://rcpmag.com/articles/2017/02/10/cisco-azure-stack-system-partner.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
