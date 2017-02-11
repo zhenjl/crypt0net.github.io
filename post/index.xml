@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CloudFeed. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 11 Feb 2017 06:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Feb 2017 07:50:04 +0000</lastBuildDate>
     <atom:link href="//cloudfeed.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Announcing Azure SQL Database Threat Detection general availability coming</title>
+      <link>//cloudfeed.net/post/announcing-azure-sql-database-threat-detection-general-availability-coming/</link>
+      <pubDate>Sat, 11 Feb 2017 07:50:04 +0000</pubDate>
+      
+      <guid>//cloudfeed.net/post/announcing-azure-sql-database-threat-detection-general-availability-coming/</guid>
+      <description>&lt;p&gt;We would like to announce that Azure SQL Database Threat Detection will be generally available in spring 2017 and share few customer experiences &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-sql-database-threat-detection-general-availability-in-spring-2017/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/azure-sql-database-threat-detection-general-availability-in-spring-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Azure Beefs Up Data Protection Capability, Adding A New Killer</title>
@@ -173,18 +185,6 @@
       
       <guid>//cloudfeed.net/post/practical-steps-for-protecting-iot-devices/</guid>
       <description>&lt;p&gt;Check out over 130 sessions on the Linux kernel, embedded development &amp;amp; systems, and the latest on the open Internet of Things. Linux.com readers &amp;hellip;  &lt;a href=&#34;https://www.linux.com/news/event/elcna/2017/2/practical-steps-protecting-iot-devices&#34; onclick=&#34;trackOutboundLink(&#39;https://www.linux.com/news/event/elcna/2017/2/practical-steps-protecting-iot-devices&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Importance of Understanding New Technology</title>
-      <link>//cloudfeed.net/post/the-importance-of-understanding-new-technology/</link>
-      <pubDate>Sat, 11 Feb 2017 02:50:04 +0000</pubDate>
-      
-      <guid>//cloudfeed.net/post/the-importance-of-understanding-new-technology/</guid>
-      <description>&lt;p&gt;It stands for the Internet of Things (whatever that means!). I suppose what it boils down to is that soon just about all parts of our lives, at least the &amp;hellip;  &lt;a href=&#34;http://www.securitysales.com/article/importance_understanding_new_technology/business&#34; onclick=&#34;trackOutboundLink(&#39;http://www.securitysales.com/article/importance_understanding_new_technology/business&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
