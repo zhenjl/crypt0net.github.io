@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 11 Feb 2017 13:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Feb 2017 14:10:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Please report a bug like this.</title>
+      <link>//crypt0.net/post/please-report-a-bug-like-this/</link>
+      <pubDate>Sat, 11 Feb 2017 14:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/please-report-a-bug-like-this/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://git.openstack.org/cgit/openstack-dev/sandbox/commit/?id=&#34;&gt;https://git.openstack.org/cgit/openstack-dev/sandbox/commit/?id=&lt;/a&gt; &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1663799&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1663799&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Web Services (AWS) is Hell-bent on Having the Best IaaS Possible,</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/cisco-beefs-up-hybrid-cloud-portfolio-brings-cisco-ucs-to-microsoft-azure/</guid>
       <description>&lt;p&gt;University Herald Cisco this week announced the expansion of its hybrid cloud offerings by integrating Cisco UCS (Unified Computing System) with the Microsoft Azure &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/64831/20170211/cisco-beefs-up-hybrid-cloud-portfolio-brings-ucs-microsoft-azure.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/64831/20170211/cisco-beefs-up-hybrid-cloud-portfolio-brings-ucs-microsoft-azure.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bug #1663846 SM:centos:R3.2build23:Openstack dash board page no...</title>
-      <link>//crypt0.net/post/bug-1663846-smcentosr32build23openstack-dash-board-page-no/</link>
-      <pubDate>Sat, 11 Feb 2017 03:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1663846-smcentosr32build23openstack-dash-board-page-no/</guid>
-      <description>&lt;p&gt;R3.2build23 kilo 2) Reimage the target with centos71; Reimage &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1663846&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1663846&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/cloudfeednet&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/cloudfeednet&#39;); return false;&#34;&gt;@cloudfeednet&lt;/a&gt;&lt;/p&gt;
 </description>
