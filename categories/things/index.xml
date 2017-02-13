@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 13 Feb 2017 14:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2017 15:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Out of Sync state due to MQTT QOS 0</title>
+      <link>//crypt0.net/post/out-of-sync-state-due-to-mqtt-qos-0/</link>
+      <pubDate>Mon, 13 Feb 2017 15:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/out-of-sync-state-due-to-mqtt-qos-0/</guid>
+      <description>&lt;p&gt;messages with QOS 0. This can lead to messages getting lost and system &amp;hellip;  &lt;a href=&#34;http://www.letscontrolit.com/forum/viewtopic.php?t=2702&#34; onclick=&#34;trackOutboundLink(&#39;http://www.letscontrolit.com/forum/viewtopic.php?t=2702&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain backers bullish on post-trade impact</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/deadline-looms-for-new-quality-reporting-measures/</guid>
       <description>&lt;p&gt;&amp;hellip; format that uses structured electronic health records data in a machine-to-machine transaction, explains Michelle Dardis, project director and quality &amp;hellip;  &lt;a href=&#34;https://www.healthdatamanagement.com/news/deadline-looms-for-new-quality-reporting-measures&#34; onclick=&#34;trackOutboundLink(&#39;https://www.healthdatamanagement.com/news/deadline-looms-for-new-quality-reporting-measures&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Jim Epstein on Bitcoin, the Blockchain, and Freedom in Latin America</title>
-      <link>//crypt0.net/post/jim-epstein-on-bitcoin-the-blockchain-and-freedom-in-latin-america/</link>
-      <pubDate>Mon, 13 Feb 2017 11:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/jim-epstein-on-bitcoin-the-blockchain-and-freedom-in-latin-america/</guid>
-      <description>&lt;p&gt;blockchain.jpg Writer, reporter, and film producer Jim Epstein talks with EconTalk host Russ Roberts about mining Bitcoins in Venezuela as a way to &amp;hellip;  &lt;a href=&#34;http://www.econtalk.org/archives/2017/02/jim_epstein_on.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econtalk.org/archives/2017/02/jim_epstein_on.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
