@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 12 Feb 2017 23:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Feb 2017 23:10:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Getting cpu_allocation_ratio from nova hypervisor-list</title>
+      <link>//crypt0.net/post/getting-cpuallocationratio-from-nova-hypervisorlist/</link>
+      <pubDate>Sun, 12 Feb 2017 23:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/getting-cpuallocationratio-from-nova-hypervisorlist/</guid>
+      <description>&lt;p&gt;nova db. Adding cpu_allocation_ratio column to the nova hypervisor-list.  &lt;a href=&#34;https://blueprints.launchpad.net/nova/+spec/getting-cpu-allocation-ratio-from-nova&#34; onclick=&#34;trackOutboundLink(&#39;https://blueprints.launchpad.net/nova/+spec/getting-cpu-allocation-ratio-from-nova&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Trusted Objects and Sigfox partner to bring enhanced end to end security to</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;At the third time of asking, Australia will have data breach notification laws. The passage of the Privacy Amendment (Notifiable Data Breaches) Bill &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/australia-finally-gets-data-breach-notification-laws-at-third-attempt/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/australia-finally-gets-data-breach-notification-laws-at-third-attempt/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why Move To The Internet of Things ?</title>
-      <link>//crypt0.net/post/why-move-to-the-internet-of-things-/</link>
-      <pubDate>Sun, 12 Feb 2017 18:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-move-to-the-internet-of-things-/</guid>
-      <description>&lt;p&gt;&amp;hellip; it&amp;rsquo;s important to consider that there are two primary technologies that can be used to facilitate connectivity and machine-to-machine communication: &amp;hellip;  &lt;a href=&#34;https://www.australianmining.com.au/news/move-internet-things/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.australianmining.com.au/news/move-internet-things/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
