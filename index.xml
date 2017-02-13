@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 13 Feb 2017 05:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2017 06:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Neutron Quality of Service in OpenStack</title>
+      <link>//crypt0.net/post/neutron-quality-of-service-in-openstack/</link>
+      <pubDate>Mon, 13 Feb 2017 06:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/neutron-quality-of-service-in-openstack/</guid>
+      <description>&lt;p&gt;A detailed talk on the features, applications and implementation of this rule can be found in this presentation from the 2016 Openstack Austin Summit.  &lt;a href=&#34;http://www.digit.in/apps/neutron-quality-of-service-in-openstack-33697.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digit.in/apps/neutron-quality-of-service-in-openstack-33697.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain platform Ardor&#39;s testnet goes live</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/cointelegraphs-guide-to-national-altcoins-a-viable-local-alternative/</guid>
       <description>&lt;p&gt;Most recently, the city of Liverpool in the UK launched its own Blockchain-based cryptocurrency dubbed the Liverpool Local Pound. Implemented by &amp;hellip;  &lt;a href=&#34;https://cointelegraph.com/news/cointelegraphs-guide-to-national-altcoins-a-viable-local-alternative&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/cointelegraphs-guide-to-national-altcoins-a-viable-local-alternative&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Forex Giants Trading Bitcoin? In Japan That Might Be Months Away</title>
-      <link>//crypt0.net/post/forex-giants-trading-bitcoin-in-japan-that-might-be-months-away/</link>
-      <pubDate>Mon, 13 Feb 2017 04:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/forex-giants-trading-bitcoin-in-japan-that-might-be-months-away/</guid>
-      <description>&lt;p&gt;In fact, the CEO of blockchain identity startup Soramitsu is sitting across from Mike Kayamori, the CEO of bitcoin exchange Quoine, who is already &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/forex-bitcoin-japan-blockchain-startups-months-away/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/forex-bitcoin-japan-blockchain-startups-months-away/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

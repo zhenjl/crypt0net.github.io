@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 13 Feb 2017 05:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2017 06:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Neutron Quality of Service in OpenStack</title>
+      <link>//crypt0.net/post/neutron-quality-of-service-in-openstack/</link>
+      <pubDate>Mon, 13 Feb 2017 06:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/neutron-quality-of-service-in-openstack/</guid>
+      <description>&lt;p&gt;A detailed talk on the features, applications and implementation of this rule can be found in this presentation from the 2016 Openstack Austin Summit.  &lt;a href=&#34;http://www.digit.in/apps/neutron-quality-of-service-in-openstack-33697.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digit.in/apps/neutron-quality-of-service-in-openstack-33697.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Thales addresses enterprise encryption key governance for Microsoft Azure</title>
@@ -201,18 +213,6 @@
       
       <guid>//crypt0.net/post/superchoice-takes-shine-to-cloud-spot-pricing/</guid>
       <description>&lt;p&gt;It is starting to migrate some workloads into Azure, and Gibson said the company may also use the Google cloud, should an Australian zone be &amp;hellip;  &lt;a href=&#34;http://www.itnews.com.au/news/superchoice-takes-shine-to-cloud-spot-pricing-450801&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itnews.com.au/news/superchoice-takes-shine-to-cloud-spot-pricing-450801&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chrome Store Offers Chromebooks And Google Gadgets To Australian Shoppers</title>
-      <link>//crypt0.net/post/chrome-store-offers-chromebooks-and-google-gadgets-to-australian-shoppers/</link>
-      <pubDate>Sun, 12 Feb 2017 16:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/chrome-store-offers-chromebooks-and-google-gadgets-to-australian-shoppers/</guid>
-      <description>&lt;p&gt;With that being said, they do list themselves as Google Cloud and Google for Education partners. They even over Chrome management licenses for &amp;hellip;  &lt;a href=&#34;https://chromeunboxed.com/chrome-store-offers-chromebooks-and-google-gadgets-to-australian-shoppers/&#34; onclick=&#34;trackOutboundLink(&#39;https://chromeunboxed.com/chrome-store-offers-chromebooks-and-google-gadgets-to-australian-shoppers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
