@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 13 Feb 2017 08:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2017 09:10:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud Next &#39;17 daily programs announced - day passes now available</title>
+      <link>//crypt0.net/post/google-cloud-next-17-daily-programs-announced--day-passes-now-available/</link>
+      <pubDate>Mon, 13 Feb 2017 09:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-next-17-daily-programs-announced--day-passes-now-available/</guid>
+      <description>&lt;p&gt;day of Google Cloud Next &amp;lsquo;17 as well as more speakers and new &amp;hellip;  &lt;a href=&#34;https://blog.google/topics/google-cloud/google-cloud-next-17-daily-programs-announced-day-passes-now-available/&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.google/topics/google-cloud/google-cloud-next-17-daily-programs-announced-day-passes-now-available/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Has Amazon outgrown its &#39;e-commerce giant&#39; label?</title>
+      <link>//crypt0.net/post/has-amazon-outgrown-its-ecommerce-giant-label/</link>
+      <pubDate>Mon, 13 Feb 2017 09:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/has-amazon-outgrown-its-ecommerce-giant-label/</guid>
+      <description>&lt;p&gt;Its cloud service is Amazon Web Services, its hardware devices are Amazon Kindle and Amazon Echo, its original video can be found on the Amazon &amp;hellip;  &lt;a href=&#34;http://www.marketingdive.com/news/has-amazon-outgrown-its-e-commerce-giant-label/434859/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.marketingdive.com/news/has-amazon-outgrown-its-e-commerce-giant-label/434859/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Softchoice Reports Industry-Leading Growth in Microsoft Azure as Customers</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/cloud-infrastructureasaservice-iaas-market-trends-and-competitive/</guid>
       <description>&lt;p&gt;Satellite PR News (press release) Some of the major players for cloud infrastructure as a service market include Amazon Web Services, Bluelock, CA Technologies, Cloud Scaling, &amp;hellip;  &lt;a href=&#34;http://www.satprnews.com/2017/02/13/cloud-infrastructure-as-a-service-iaas-market-trends-and-competitive-landscape-outlook-to-2021/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.satprnews.com/2017/02/13/cloud-infrastructure-as-a-service-iaas-market-trends-and-competitive-landscape-outlook-to-2021/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MVP Systems Software to Exhibit at Microsoft Ignite Australia 2017</title>
-      <link>//crypt0.net/post/mvp-systems-software-to-exhibit-at-microsoft-ignite-australia-2017/</link>
-      <pubDate>Mon, 13 Feb 2017 02:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mvp-systems-software-to-exhibit-at-microsoft-ignite-australia-2017/</guid>
-      <description>&lt;p&gt;MVP Systems Software to Exhibit at Microsoft Ignite Australia 2017 &amp;hellip; year&amp;rsquo;s event, Microsoft customers who have implemented or are exploring Azure &amp;hellip;  &lt;a href=&#34;http://www.itbusinessnet.com/article/MVP-Systems-Software-to-Exhibit-at-Microsoft-Ignite-Australia-2017-4814105&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itbusinessnet.com/article/MVP-Systems-Software-to-Exhibit-at-Microsoft-Ignite-Australia-2017-4814105&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Getting cpu_allocation_ratio from nova hypervisor-list</title>
-      <link>//crypt0.net/post/getting-cpuallocationratio-from-nova-hypervisorlist/</link>
-      <pubDate>Sun, 12 Feb 2017 23:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/getting-cpuallocationratio-from-nova-hypervisorlist/</guid>
-      <description>&lt;p&gt;nova db. Adding cpu_allocation_ratio column to the nova hypervisor-list.  &lt;a href=&#34;https://blueprints.launchpad.net/nova/+spec/getting-cpu-allocation-ratio-from-nova&#34; onclick=&#34;trackOutboundLink(&#39;https://blueprints.launchpad.net/nova/+spec/getting-cpu-allocation-ratio-from-nova&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
