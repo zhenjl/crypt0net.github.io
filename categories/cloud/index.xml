@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 13 Feb 2017 14:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2017 16:50:08 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What&#39;s new in Azure Active Directory B2C</title>
+      <link>//crypt0.net/post/whats-new-in-azure-active-directory-b2c/</link>
+      <pubDate>Mon, 13 Feb 2017 16:50:08 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/whats-new-in-azure-active-directory-b2c/</guid>
+      <description>&lt;p&gt;cloud identity service for app developers. Azure AD B2C handles all &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/new-in-azure-ad-b2c/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/new-in-azure-ad-b2c/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Thales Introduces Enterprise Encryption Key Governance for Microsoft Azure</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/cavirin-announces-general-availability-of-pulsar-continuous-security/</guid>
       <description>&lt;p&gt;Business Wire (press release) Cloud-agnostic architecture natively supports AWS, Google Cloud Platform, Microsoft Azure and Docker containers. Extensive security mapping via &amp;hellip;  &lt;a href=&#34;http://www.businesswire.com/news/home/20170213005437/en/Cavirin-Announces-General-Availability-Pulsar-Continuous-Security&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20170213005437/en/Cavirin-Announces-General-Availability-Pulsar-Continuous-Security&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Thales Leads the Industry with Data Security Controls for Cloud Services</title>
-      <link>//crypt0.net/post/thales-leads-the-industry-with-data-security-controls-for-cloud-services/</link>
-      <pubDate>Mon, 13 Feb 2017 06:50:08 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/thales-leads-the-industry-with-data-security-controls-for-cloud-services/</guid>
-      <description>&lt;p&gt;Together with Microsoft, Thales pioneered &amp;ldquo;bring your own key&amp;rdquo; (BYOK), enabling enterprises to keep control of the keys used in Microsoft Azure.  &lt;a href=&#34;http://finance.yahoo.com/news/thales-leads-industry-data-security-131100611.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/thales-leads-industry-data-security-131100611.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
