@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 13 Feb 2017 19:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2017 21:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>&#39;Internet of things&#39; is vulnerable to hackers</title>
+      <link>//crypt0.net/post/internet-of-things-is-vulnerable-to-hackers/</link>
+      <pubDate>Mon, 13 Feb 2017 21:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/internet-of-things-is-vulnerable-to-hackers/</guid>
+      <description>&lt;p&gt;Q. I read about the hacker attack last October that used household electronics, such as security cameras, to bombard a website with messages, &amp;hellip;  &lt;a href=&#34;http://www.theledger.com/news/20170213/internet-of-things-is-vulnerable-to-hackers&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theledger.com/news/20170213/internet-of-things-is-vulnerable-to-hackers&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Smart manufacturing  the rise of IIoT</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/out-of-sync-state-due-to-mqtt-qos-0/</guid>
       <description>&lt;p&gt;messages with QOS 0. This can lead to messages getting lost and system &amp;hellip;  &lt;a href=&#34;http://www.letscontrolit.com/forum/viewtopic.php?t=2702&#34; onclick=&#34;trackOutboundLink(&#39;http://www.letscontrolit.com/forum/viewtopic.php?t=2702&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blockchain backers bullish on post-trade impact</title>
-      <link>//crypt0.net/post/blockchain-backers-bullish-on-posttrade-impact/</link>
-      <pubDate>Mon, 13 Feb 2017 14:50:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-backers-bullish-on-posttrade-impact/</guid>
-      <description>&lt;p&gt;A handful of blockchain backers believe the technology will become mainstream across the post-trade industry in a few years. Around 40 senior &amp;hellip;  &lt;a href=&#34;http://www.globalinvestormagazine.com/Article/3661379/AssetServicing/26302/Blockchain-backers-bullish-on-post-trade-impact.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.globalinvestormagazine.com/Article/3661379/AssetServicing/26302/Blockchain-backers-bullish-on-post-trade-impact.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
