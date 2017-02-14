@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Feb 2017 02:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Feb 2017 02:50:06 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack Profiler setup doc is formatted poorly</title>
+      <link>//crypt0.net/post/openstack-profiler-setup-doc-is-formatted-poorly/</link>
+      <pubDate>Tue, 14 Feb 2017 02:50:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-profiler-setup-doc-is-formatted-poorly/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://docs.openstack.org/developer/horizon/contributing.html#profiling-pag&#34;&gt;http://docs.openstack.org/developer/horizon/contributing.html#profiling-pag&lt;/a&gt; es The numerical steps are formatted incorrectly, making it difficult to &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/horizon/+bug/1664500&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/horizon/+bug/1664500&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Chime brings retail giant to the teleconferencing arena</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/virtual-realitys-new-horizons-enterprise-apps-and-gloves-for-typing/</guid>
       <description>&lt;p&gt;When it comes to virtual reality (VR), the technology most frequently arises in discussions surrounding gaming and entertainment. But one of the &amp;hellip;  &lt;a href=&#34;http://www.toptechnews.com/article/index.php?story_id=031000YWZ54J&#34; onclick=&#34;trackOutboundLink(&#39;http://www.toptechnews.com/article/index.php?story_id=031000YWZ54J&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Setup PuTTY and WinSCP to access your HANA Express Edition on Google Cloud</title>
-      <link>//crypt0.net/post/setup-putty-and-winscp-to-access-your-hana-express-edition-on-google-cloud/</link>
-      <pubDate>Mon, 13 Feb 2017 19:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/setup-putty-and-winscp-to-access-your-hana-express-edition-on-google-cloud/</guid>
-      <description>&lt;p&gt;This is an optional step in the tutorial series to setup a HANA Express Edition on Google Cloud Platform. This tutorial will guide you through the setup &amp;hellip;  &lt;a href=&#34;http://www.sap.com/italy/developer/tutorials/hxe-gcp-setup-putty-winscp-windows.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.sap.com/italy/developer/tutorials/hxe-gcp-setup-putty-winscp-windows.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
