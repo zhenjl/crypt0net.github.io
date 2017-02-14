@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Feb 2017 09:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Feb 2017 09:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>openstack quota set --floating-ips &lt;quota&gt;</title>
+      <link>//crypt0.net/post/openstack-quota-set-floatingips-quota/</link>
+      <pubDate>Tue, 14 Feb 2017 09:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-quota-set-floatingips-quota/</guid>
+      <description>&lt;p&gt;for floating-ips. Please take a look on the example below: $ openstack &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1664617&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1664617&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Certified Security Solutions Releases Sandbox Version of CMS VerdeTTo</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Based on the frequency of healthcare data breaches and their staggering cost, the answer would clearly seem to be &amp;ldquo;no.&amp;rdquo; In fact, data breaches &amp;hellip;  &lt;a href=&#34;http://health-information.advanceweb.com/Features/Articles/The-Case-for-Cloud-Technology-to-Prevent-Data-Breaches.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://health-information.advanceweb.com/Features/Articles/The-Case-for-Cloud-Technology-to-Prevent-Data-Breaches.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Active Year Ahead for Blockchain Solutions in Financial Services, says</title>
-      <link>//crypt0.net/post/active-year-ahead-for-blockchain-solutions-in-financial-services-says/</link>
-      <pubDate>Tue, 14 Feb 2017 07:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/active-year-ahead-for-blockchain-solutions-in-financial-services-says/</guid>
-      <description>&lt;p&gt;PR Newswire (press release) NEW YORK, Feb. 14, 2017 /PRNewswire/ &amp;ndash; Corporate Insight today released a study examining the current state of blockchain in financial services &amp;hellip;  &lt;a href=&#34;http://www.prnewswire.com/news-releases/active-year-ahead-for-blockchain-solutions-in-financial-services-says-corporate-insight-300406903.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prnewswire.com/news-releases/active-year-ahead-for-blockchain-solutions-in-financial-services-says-corporate-insight-300406903.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

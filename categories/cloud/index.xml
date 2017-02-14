@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Feb 2017 09:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Feb 2017 09:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>openstack quota set --floating-ips &lt;quota&gt;</title>
+      <link>//crypt0.net/post/openstack-quota-set-floatingips-quota/</link>
+      <pubDate>Tue, 14 Feb 2017 09:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-quota-set-floatingips-quota/</guid>
+      <description>&lt;p&gt;for floating-ips. Please take a look on the example below: $ openstack &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1664617&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1664617&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft&#39;s plan to bridge its infrastructure and platform cloud services</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/aws-touts-cispe-membership-to-help-its-cloud-services-meet-eu-gdpr/</guid>
       <description>&lt;p&gt;Amazon Web Services (AWS) has become a member of the Association of Cloud Infrastructure Services Providers in Europe (CISPE), bringing several &amp;hellip;  &lt;a href=&#34;http://www.silicon.co.uk/cloud/aws-cispe-membership-205392&#34; onclick=&#34;trackOutboundLink(&#39;http://www.silicon.co.uk/cloud/aws-cispe-membership-205392&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Westcon-Comstor offers Azure via BlueSky platform</title>
-      <link>//crypt0.net/post/westconcomstor-offers-azure-via-bluesky-platform/</link>
-      <pubDate>Tue, 14 Feb 2017 04:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/westconcomstor-offers-azure-via-bluesky-platform/</guid>
-      <description>&lt;p&gt;Westcon-Comstor offers Azure via BlueSky platform &amp;hellip; reseller on a user&amp;rsquo;s usage and consumption of their Azure and other Microsoft cloud solutions, &amp;hellip;  &lt;a href=&#34;https://www.telecompaper.com/news/westcon-comstor-offers-azure-via-bluesky-platform--1183612&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/westcon-comstor-offers-azure-via-bluesky-platform--1183612&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
