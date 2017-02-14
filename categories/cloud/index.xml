@@ -7,8 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Feb 2017 14:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Feb 2017 14:50:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DPDK Update Failing in Red Hat OpenStack Platform 10</title>
+      <link>//crypt0.net/post/dpdk-update-failing-in-red-hat-openstack-platform-10/</link>
+      <pubDate>Tue, 14 Feb 2017 14:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/dpdk-update-failing-in-red-hat-openstack-platform-10/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Updated 2017-02-14T21:59:08+00:00 -. English. No translations &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2924141&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2924141&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Better Buy: Baidu Inc. vs. Amazon.com Inc.</title>
@@ -173,18 +187,6 @@
       
       <guid>//crypt0.net/post/oracle-ceo-mark-hurd-slams-amazon-cloud-as-old-and-says-his-company-is/</guid>
       <description>&lt;p&gt;CNBC &amp;hellip; in recent years, after falling behind Salesforce and Workday in applications and behind Amazon Web Services and Microsoft in cloud infrastructure.  &lt;a href=&#34;http://www.cnbc.com/2017/02/14/oracle-ceo-mark-hurd-amazon-web-services-is-old-oracle-gaining.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cnbc.com/2017/02/14/oracle-ceo-mark-hurd-amazon-web-services-is-old-oracle-gaining.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>openstack-java-sdk-3.1.2-1.fc25</title>
-      <link>//crypt0.net/post/openstackjavasdk3121fc25/</link>
-      <pubDate>Tue, 14 Feb 2017 11:10:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstackjavasdk3121fc25/</guid>
-      <description>&lt;p&gt;this update: update to openstack-java-sdk-3.1.2. Comments 1 RSS.  &lt;a href=&#34;https://bodhi.fedoraproject.org/updates/FEDORA-2017-e1fca8b8ca&#34; onclick=&#34;trackOutboundLink(&#39;https://bodhi.fedoraproject.org/updates/FEDORA-2017-e1fca8b8ca&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
