@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 13 Feb 2017 21:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2017 22:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure Cloud is for everyone</title>
+      <link>//crypt0.net/post/microsoft-azure-cloud-is-for-everyone/</link>
+      <pubDate>Mon, 13 Feb 2017 22:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-cloud-is-for-everyone/</guid>
+      <description>&lt;p&gt;Azure is Microsoft&amp;rsquo;s cloud computing platform. It is the core capability upon which all our Microsoft Cloud services are built. You can use Azure for just &amp;hellip;  &lt;a href=&#34;http://www.itwire.com/enterprise-solutions/76858-microsoft-azure-cloud-is-for-everyone.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itwire.com/enterprise-solutions/76858-microsoft-azure-cloud-is-for-everyone.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Clouds can compete with HPC, say boffins</title>
@@ -282,18 +294,6 @@
       
       <guid>//crypt0.net/post/thales-introduces-enterprise-encryption-key-governance-for-microsoft-azure/</guid>
       <description>&lt;p&gt;Microsoft Azure-based applications now use Azure Key Vault to access a variety of key management capabilities, such as key creation, backup and &amp;hellip;  &lt;a href=&#34;http://www.iotevolutionworld.com/iot/articles/429607-thales-introduces-enterprise-encryption-key-governance-microsoft-azure.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.iotevolutionworld.com/iot/articles/429607-thales-introduces-enterprise-encryption-key-governance-microsoft-azure.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Add Support for Google Cloud Storage</title>
-      <link>//crypt0.net/post/add-support-for-google-cloud-storage/</link>
-      <pubDate>Mon, 13 Feb 2017 13:50:08 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/add-support-for-google-cloud-storage/</guid>
-      <description>&lt;p&gt;Issue 11 minutes ago  0 comments &amp;hellip;  &lt;a href=&#34;https://github.com/RocketChat/Rocket.Chat/issues/6011&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/RocketChat/Rocket.Chat/issues/6011&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
