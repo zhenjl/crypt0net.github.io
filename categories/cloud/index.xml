@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Feb 2017 09:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Feb 2017 10:00:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Software-Defined Storage Opens Up: 10 Projects to Know</title>
+      <link>//crypt0.net/post/softwaredefined-storage-opens-up-10-projects-to-know/</link>
+      <pubDate>Tue, 14 Feb 2017 10:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/softwaredefined-storage-opens-up-10-projects-to-know/</guid>
+      <description>&lt;p&gt;Many people are familiar with Ceph and are leveraging it within their OpenStack deployments, but Ceph is far from the only relevant open source SDS &amp;hellip;  &lt;a href=&#34;https://www.linux.com/news/open-cloud-report/2016/guide-open-cloud-software-defined-storage-opens&#34; onclick=&#34;trackOutboundLink(&#39;https://www.linux.com/news/open-cloud-report/2016/guide-open-cloud-software-defined-storage-opens&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google is turning a key technology into a weapon in its cloud war with</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/heres-how-you-can-become-certified-in-amazon-web-services/</guid>
       <description>&lt;p&gt;Looking to make a career change but not quite sure where to begin or what skills to study? Amazon Web Services may be a great place to start as it &amp;hellip;  &lt;a href=&#34;http://crackberry.com/master-amazon-web-services-just-39-certification-training&#34; onclick=&#34;trackOutboundLink(&#39;http://crackberry.com/master-amazon-web-services-just-39-certification-training&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>[10.0][swarm] Node reboot problem</title>
-      <link>//crypt0.net/post/100swarm-node-reboot-problem/</link>
-      <pubDate>Tue, 14 Feb 2017 07:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/100swarm-node-reboot-problem/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://product-ci.infra.mirantis.net/job/10.0.system_test.ubuntu.cic_maint&#34;&gt;https://product-ci.infra.mirantis.net/job/10.0.system_test.ubuntu.cic_maint&lt;/a&gt; enance_mode/180/ &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1664487&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1664487&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
