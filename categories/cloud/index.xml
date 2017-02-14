@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Feb 2017 09:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Feb 2017 09:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>proto-google-cloud-spanner-v1 0.15.0</title>
+      <link>//crypt0.net/post/protogooglecloudspannerv1-0150/</link>
+      <pubDate>Tue, 14 Feb 2017 09:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/protogooglecloudspannerv1-0150/</guid>
+      <description>&lt;p&gt;Cloud Spanner API. proto-google-cloud-spanner-v1 is the IDL-derived &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/proto-google-cloud-spanner-v1/0.15.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/proto-google-cloud-spanner-v1/0.15.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>proto-google-cloud-vision-v1 0.15.0</title>
+      <link>//crypt0.net/post/protogooglecloudvisionv1-0150/</link>
+      <pubDate>Tue, 14 Feb 2017 09:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/protogooglecloudvisionv1-0150/</guid>
+      <description>&lt;p&gt;Vision API. proto-google-cloud-vision-v1 is the IDL-derived library for &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/proto-google-cloud-vision-v1&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/proto-google-cloud-vision-v1&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>openstack quota set --floating-ips &lt;quota&gt;</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/amazon-unveils-mobile-videoconferencing-app/</guid>
       <description>&lt;p&gt;Amazon (Nasdaq: AMZN) is offering the service through its Amazon Web Services subsidiary. Features include the system calling meeting participants &amp;hellip;  &lt;a href=&#34;http://www.thehour.com/business/article/Amazon-unveils-mobile-video-conferencing-app-10930893.php&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thehour.com/business/article/Amazon-unveils-mobile-video-conferencing-app-10930893.php&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Delphinus Runs HubStor to Archive and Protect Mission-Critical Data in the</title>
-      <link>//crypt0.net/post/delphinus-runs-hubstor-to-archive-and-protect-missioncritical-data-in-the/</link>
-      <pubDate>Tue, 14 Feb 2017 06:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/delphinus-runs-hubstor-to-archive-and-protect-missioncritical-data-in-the/</guid>
-      <description>&lt;p&gt;Satellite PR News (press release) HubStor provides the world&amp;rsquo;s first and only data-aware hybrid cloud storage solution, run exclusively with Microsoft Azure, and available in a &amp;hellip;  &lt;a href=&#34;http://www.satprnews.com/2017/02/14/delphinus-runs-hubstor-to-archive-and-protect-mission-critical-data-in-the-cloud-with-microsoft-azure/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.satprnews.com/2017/02/14/delphinus-runs-hubstor-to-archive-and-protect-mission-critical-data-in-the-cloud-with-microsoft-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AWS Touts CISPE Membership To Help Its Cloud Services Meet EU GDPR</title>
-      <link>//crypt0.net/post/aws-touts-cispe-membership-to-help-its-cloud-services-meet-eu-gdpr/</link>
-      <pubDate>Tue, 14 Feb 2017 05:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aws-touts-cispe-membership-to-help-its-cloud-services-meet-eu-gdpr/</guid>
-      <description>&lt;p&gt;Amazon Web Services (AWS) has become a member of the Association of Cloud Infrastructure Services Providers in Europe (CISPE), bringing several &amp;hellip;  &lt;a href=&#34;http://www.silicon.co.uk/cloud/aws-cispe-membership-205392&#34; onclick=&#34;trackOutboundLink(&#39;http://www.silicon.co.uk/cloud/aws-cispe-membership-205392&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
