@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 13 Feb 2017 18:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2017 19:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Setup PuTTY and WinSCP to access your HANA Express Edition on Google Cloud</title>
+      <link>//crypt0.net/post/setup-putty-and-winscp-to-access-your-hana-express-edition-on-google-cloud/</link>
+      <pubDate>Mon, 13 Feb 2017 19:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/setup-putty-and-winscp-to-access-your-hana-express-edition-on-google-cloud/</guid>
+      <description>&lt;p&gt;This is an optional step in the tutorial series to setup a HANA Express Edition on Google Cloud Platform. This tutorial will guide you through the setup &amp;hellip;  &lt;a href=&#34;http://www.sap.com/italy/developer/tutorials/hxe-gcp-setup-putty-winscp-windows.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.sap.com/italy/developer/tutorials/hxe-gcp-setup-putty-winscp-windows.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Partners with SailPoint on Azure Active Directory Governance</title>
@@ -282,18 +294,6 @@
       
       <guid>//crypt0.net/post/evidentio-raises-series-c-funding/</guid>
       <description>&lt;p&gt;The funds raised will be invested in enabling ESP for other public cloud platforms like the Google Cloud and Microsoft Azure, apart from AWS. This will &amp;hellip;  &lt;a href=&#34;http://www.readitquik.com/news/cloud-2/evidentio-raises-series-c-funding/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.readitquik.com/news/cloud-2/evidentio-raises-series-c-funding/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud Next &#39;17 daily programs announced - day passes now available</title>
-      <link>//crypt0.net/post/google-cloud-next-17-daily-programs-announced--day-passes-now-available/</link>
-      <pubDate>Mon, 13 Feb 2017 09:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-next-17-daily-programs-announced--day-passes-now-available/</guid>
-      <description>&lt;p&gt;day of Google Cloud Next &amp;lsquo;17 as well as more speakers and new &amp;hellip;  &lt;a href=&#34;https://blog.google/topics/google-cloud/google-cloud-next-17-daily-programs-announced-day-passes-now-available/&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.google/topics/google-cloud/google-cloud-next-17-daily-programs-announced-day-passes-now-available/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
