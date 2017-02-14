@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 13 Feb 2017 20:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2017 20:50:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mistral workflow consistently hangs in my RedHat Openstack 10 undercloud</title>
+      <link>//crypt0.net/post/mistral-workflow-consistently-hangs-in-my-redhat-openstack-10-undercloud/</link>
+      <pubDate>Mon, 13 Feb 2017 20:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mistral-workflow-consistently-hangs-in-my-redhat-openstack-10-undercloud/</guid>
+      <description>&lt;p&gt;undercloud for. Importing of nodes; Introspection; Deploying an overcloud &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2922361&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2922361&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Woolworths is preparing for Amazon by hooking up with Microsoft</title>
+      <link>//crypt0.net/post/woolworths-is-preparing-for-amazon-by-hooking-up-with-microsoft/</link>
+      <pubDate>Mon, 13 Feb 2017 20:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/woolworths-is-preparing-for-amazon-by-hooking-up-with-microsoft/</guid>
+      <description>&lt;p&gt;[Infrastructure is] not the area that provides us with our competitive advantage. By using Microsoft&amp;rsquo;s Azure infrastructure and tools, more of our teams&amp;rsquo; &amp;hellip;  &lt;a href=&#34;http://www.businessinsider.com.au/woolworths-is-preparing-for-amazon-by-hooking-up-with-microsoft-2017-2&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businessinsider.com.au/woolworths-is-preparing-for-amazon-by-hooking-up-with-microsoft-2017-2&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Integration with Google Cloud Speech API</title>
@@ -270,30 +294,6 @@
       
       <guid>//crypt0.net/post/skyhigh-expands-casb-model-to-iaas-platform-protection-custom-apps/</guid>
       <description>&lt;p&gt;&amp;hellip; provides additional security controls for the IaaS platform itself, whether it&amp;rsquo;s Amazon Web Services (AWS), Microsoft Azure or Google Cloud Platform.  &lt;a href=&#34;http://searchcloudsecurity.techtarget.com/news/450412905/Skyhigh-expands-CASB-model-to-IaaS-platform-protection-custom-apps&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudsecurity.techtarget.com/news/450412905/Skyhigh-expands-CASB-model-to-IaaS-platform-protection-custom-apps&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Cuts Price by 61%; Cloud War Good For Azure Customers With</title>
-      <link>//crypt0.net/post/microsoft-azure-cuts-price-by-61-cloud-war-good-for-azure-customers-with/</link>
-      <pubDate>Mon, 13 Feb 2017 11:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-cuts-price-by-61-cloud-war-good-for-azure-customers-with/</guid>
-      <description>&lt;p&gt;University Herald The escalating cloud war has pushed Microsoft to reduce its prices for Azure services by as much as 61 percent in some cases. Amazon Web Services &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/65063/20170213/microsoft-azure-cuts-price-61-cloud-war-good-customers-reduced.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/65063/20170213/microsoft-azure-cuts-price-61-cloud-war-good-customers-reduced.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Enterprise IT Departments Find It Hard To Keep the Cloud Safe</title>
-      <link>//crypt0.net/post/enterprise-it-departments-find-it-hard-to-keep-the-cloud-safe/</link>
-      <pubDate>Mon, 13 Feb 2017 11:00:08 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/enterprise-it-departments-find-it-hard-to-keep-the-cloud-safe/</guid>
-      <description>&lt;p&gt;Microsoft has also slashed the prices of its Azure Blob Storage services &amp;ndash; for its customers with Azure Blob Storage accounts &amp;ndash; by up to 38 percent.  &lt;a href=&#34;http://www.newsfactor.com/story.xhtml?story_id=031000IID5BB&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newsfactor.com/story.xhtml?story_id=031000IID5BB&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
