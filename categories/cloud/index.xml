@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Feb 2017 14:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Feb 2017 15:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Google cloud database service brings scale, data consistency</title>
+      <link>//crypt0.net/post/new-google-cloud-database-service-brings-scale-data-consistency/</link>
+      <pubDate>Tue, 14 Feb 2017 15:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/new-google-cloud-database-service-brings-scale-data-consistency/</guid>
+      <description>&lt;p&gt;Google&amp;rsquo;s Cloud Spanner may be years from broad adoption, but could represent a big step toward maintaining consistency across the globe with &amp;hellip;  &lt;a href=&#34;http://searchcloudcomputing.techtarget.com/news/450413008/New-Google-cloud-database-service-brings-scale-data-consistency&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudcomputing.techtarget.com/news/450413008/New-Google-cloud-database-service-brings-scale-data-consistency&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DPDK Update Failing in Red Hat OpenStack Platform 10</title>
@@ -175,18 +187,6 @@
       
       <guid>//crypt0.net/post/google-launches-cloud-spanner--a-newsql-database-for-enterprises/</guid>
       <description>&lt;p&gt;Google Cloud Spanner is fundamentally different from other database offerings. Designed to bring traditional RDBMS features to a scale-out database &amp;hellip;  &lt;a href=&#34;http://www.forbes.com/sites/janakirammsv/2017/02/14/google-launches-cloud-spanner-a-newsql-database-for-enterprises/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.forbes.com/sites/janakirammsv/2017/02/14/google-launches-cloud-spanner-a-newsql-database-for-enterprises/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Oracle CEO Mark Hurd slams Amazon cloud as &#39;old&#39; and says his company is</title>
-      <link>//crypt0.net/post/oracle-ceo-mark-hurd-slams-amazon-cloud-as-old-and-says-his-company-is/</link>
-      <pubDate>Tue, 14 Feb 2017 11:10:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/oracle-ceo-mark-hurd-slams-amazon-cloud-as-old-and-says-his-company-is/</guid>
-      <description>&lt;p&gt;CNBC &amp;hellip; in recent years, after falling behind Salesforce and Workday in applications and behind Amazon Web Services and Microsoft in cloud infrastructure.  &lt;a href=&#34;http://www.cnbc.com/2017/02/14/oracle-ceo-mark-hurd-amazon-web-services-is-old-oracle-gaining.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cnbc.com/2017/02/14/oracle-ceo-mark-hurd-amazon-web-services-is-old-oracle-gaining.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
