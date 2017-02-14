@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Feb 2017 13:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Feb 2017 14:00:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>QNAP Cinder Driver Supports OpenStack Ocata, Providing Block Storage and</title>
+      <link>//crypt0.net/post/qnap-cinder-driver-supports-openstack-ocata-providing-block-storage-and/</link>
+      <pubDate>Tue, 14 Feb 2017 14:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/qnap-cinder-driver-supports-openstack-ocata-providing-block-storage-and/</guid>
+      <description>&lt;p&gt;HEXUS Taipei, Taiwan, February 14, 2017  QNAP Systems, Inc. today announced that the QNAP Cinder Driver has been verified by OpenStack to support &amp;hellip;  &lt;a href=&#34;http://hexus.net/tech/items/network/102472-qnap-cinder-driver-supports-openstack-ocata-providing-block-storage-snapshots/&#34; onclick=&#34;trackOutboundLink(&#39;http://hexus.net/tech/items/network/102472-qnap-cinder-driver-supports-openstack-ocata-providing-block-storage-snapshots/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ChannelLife Australia - Introducing Google&#39;s latest addition to the toolbox</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/softwaredefined-storage-opens-up-10-projects-to-know/</guid>
       <description>&lt;p&gt;Many people are familiar with Ceph and are leveraging it within their OpenStack deployments, but Ceph is far from the only relevant open source SDS &amp;hellip;  &lt;a href=&#34;https://www.linux.com/news/open-cloud-report/2016/guide-open-cloud-software-defined-storage-opens&#34; onclick=&#34;trackOutboundLink(&#39;https://www.linux.com/news/open-cloud-report/2016/guide-open-cloud-software-defined-storage-opens&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google is turning a key technology into a weapon in its cloud war with</title>
-      <link>//crypt0.net/post/google-is-turning-a-key-technology-into-a-weapon-in-its-cloud-war-with/</link>
-      <pubDate>Tue, 14 Feb 2017 09:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-is-turning-a-key-technology-into-a-weapon-in-its-cloud-war-with/</guid>
-      <description>&lt;p&gt;Business Insider Now, for the first time ever, Google is opening Spanner up to the outside world with Cloud Spanner, the newest arrow in Google Cloud&amp;rsquo;s quiver as it &amp;hellip;  &lt;a href=&#34;http://www.businessinsider.com/google-launches-cloud-spanner-2017-2&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businessinsider.com/google-launches-cloud-spanner-2017-2&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
