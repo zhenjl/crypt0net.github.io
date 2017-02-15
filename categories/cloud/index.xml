@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 15 Feb 2017 09:50:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Feb 2017 10:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dynatrace makes life easy for OpenStack admins (EAP starting)</title>
+      <link>//crypt0.net/post/dynatrace-makes-life-easy-for-openstack-admins-eap-starting/</link>
+      <pubDate>Wed, 15 Feb 2017 10:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/dynatrace-makes-life-easy-for-openstack-admins-eap-starting/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re thrilled to announce the Early Access Program for Dynatrace OpenStack integration! This blog post is the first in a two-part series that explores &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/4010527&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/4010527&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon just created its own version of Skype to improve your company</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/enterprise-connect-announces-addition-of-amazon-web-services-vp-gene/</guid>
       <description>&lt;p&gt;Yahoo Finance &amp;ldquo;Having Amazon Web Services address the Enterprise Connect audience for the first time ever, reinforces that our industry is continuing to expand in &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/enterprise-connect-announces-addition-amazon-130000366.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/enterprise-connect-announces-addition-amazon-130000366.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud Spanner: A database which offers the best of both worlds</title>
-      <link>//crypt0.net/post/google-cloud-spanner-a-database-which-offers-the-best-of-both-worlds/</link>
-      <pubDate>Wed, 15 Feb 2017 06:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-spanner-a-database-which-offers-the-best-of-both-worlds/</guid>
-      <description>&lt;p&gt;Google just announced that its globally distributed relational database Cloud Spanner has hit public beta. Developers and database administrators no &amp;hellip;  &lt;a href=&#34;https://jaxenter.com/google-cloud-spanner-public-beta-131687.html&#34; onclick=&#34;trackOutboundLink(&#39;https://jaxenter.com/google-cloud-spanner-public-beta-131687.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
