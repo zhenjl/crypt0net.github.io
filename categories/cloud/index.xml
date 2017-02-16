@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Feb 2017 12:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Feb 2017 12:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>On a minimal Openstack Platform 10 overcloud, a reboot of the controller</title>
+      <link>//crypt0.net/post/on-a-minimal-openstack-platform-10-overcloud-a-reboot-of-the-controller/</link>
+      <pubDate>Thu, 16 Feb 2017 12:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/on-a-minimal-openstack-platform-10-overcloud-a-reboot-of-the-controller/</guid>
+      <description>&lt;p&gt;Update this first if you&amp;rsquo;ve deployed a minimal Openstack Platform 10 overcloud. Should I rely on the default cinder back-end storage created as part of &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2932251&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2932251&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon: Prime, Other Subscription Services Earn $6.4 Billion</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/microsoft-azure-is-on-the-rise-growing-public-multicloud-adoption-bodes/</guid>
       <description>&lt;p&gt;University Herald Google Cloud also posted growth by 5 percent for 2017 from 10 to 15 percent. AWS still holds the number one spot with usage posting a steady 57 &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/65527/20170216/microsoft-azure-gaining-ground-cloud-supremacy-enterprises-now-prefer-public.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/65527/20170216/microsoft-azure-gaining-ground-cloud-supremacy-enterprises-now-prefer-public.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Veritas announces new technology alliance with AWS</title>
-      <link>//crypt0.net/post/veritas-announces-new-technology-alliance-with-aws/</link>
-      <pubDate>Thu, 16 Feb 2017 08:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/veritas-announces-new-technology-alliance-with-aws/</guid>
-      <description>&lt;p&gt;Veritas Technologies announced a technology alliance with Amazon Web Services (AWS) to deliver Veritas 360 Data Management capabilities to &amp;hellip;  &lt;a href=&#34;http://www.dqindia.com/veritas-announces-new-technology-alliance-with-aws/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dqindia.com/veritas-announces-new-technology-alliance-with-aws/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

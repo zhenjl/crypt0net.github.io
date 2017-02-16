@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Feb 2017 12:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Feb 2017 12:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>On a minimal Openstack Platform 10 overcloud, a reboot of the controller</title>
+      <link>//crypt0.net/post/on-a-minimal-openstack-platform-10-overcloud-a-reboot-of-the-controller/</link>
+      <pubDate>Thu, 16 Feb 2017 12:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/on-a-minimal-openstack-platform-10-overcloud-a-reboot-of-the-controller/</guid>
+      <description>&lt;p&gt;Update this first if you&amp;rsquo;ve deployed a minimal Openstack Platform 10 overcloud. Should I rely on the default cinder back-end storage created as part of &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2932251&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2932251&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon: Prime, Other Subscription Services Earn $6.4 Billion</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/nyu-tandon-professors-to-build-aibased-navigation/</guid>
       <description>&lt;p&gt;High-definition (HD) maps are used for machine-to-machine communication and have to be accurate to less than 10 to 20 cm. In order to enhance &amp;hellip;  &lt;a href=&#34;http://www.readitquik.com/news/elastic-computing/nyu-tandon-professors-to-build-aibased-navigation/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.readitquik.com/news/elastic-computing/nyu-tandon-professors-to-build-aibased-navigation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Qualcomm Boosts Wi-Fi Portfolio To Handle Internet of Things Gadgets</title>
-      <link>//crypt0.net/post/qualcomm-boosts-wifi-portfolio-to-handle-internet-of-things-gadgets/</link>
-      <pubDate>Thu, 16 Feb 2017 11:10:09 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/qualcomm-boosts-wifi-portfolio-to-handle-internet-of-things-gadgets/</guid>
-      <description>&lt;p&gt;About a year ago, I wrote a column suggesting what the major tech companies should try and accomplish in 2016. For Google, I said: &amp;ldquo;It would be &amp;hellip;  &lt;a href=&#34;http://www.cio-today.com/article/index.php?story_id=100009U3876C&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio-today.com/article/index.php?story_id=100009U3876C&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
