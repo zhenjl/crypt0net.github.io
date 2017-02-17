@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Feb 2017 19:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Feb 2017 20:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to run SAP HANA Vora on Amazon Web Services</title>
+      <link>//crypt0.net/post/how-to-run-sap-hana-vora-on-amazon-web-services/</link>
+      <pubDate>Thu, 16 Feb 2017 20:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-run-sap-hana-vora-on-amazon-web-services/</guid>
+      <description>&lt;p&gt;1.3.  &lt;a href=&#34;http://www.sap.com/mena-ar/developer/how-tos/2017/02/vora-launch-aws.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.sap.com/mena-ar/developer/how-tos/2017/02/vora-launch-aws.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
@@ -360,18 +372,6 @@
       
       <guid>//crypt0.net/post/huddlecamhd-publishes-review-of-chime--amazons-new-video-conferencing/</guid>
       <description>&lt;p&gt;IT Business Net &amp;ldquo;Amazon Chime has a huge value-add for network administrators already familiar with AWS (Amazon Web Services), Amazons widely successful &amp;hellip;  &lt;a href=&#34;http://www.itbusinessnet.com/article/HuddleCamHD-publishes-review-of-Chime---Amazons-new-video-conferencing-software-service-from-Amazon-Web-Services-4822437&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itbusinessnet.com/article/HuddleCamHD-publishes-review-of-Chime---Amazons-new-video-conferencing-software-service-from-Amazon-Web-Services-4822437&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Q&amp;A on Google&#39;s New gTLD Solution, Nomulus</title>
-      <link>//crypt0.net/post/a-qa-on-googles-new-gtld-solution-nomulus/</link>
-      <pubDate>Thu, 16 Feb 2017 13:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/a-qa-on-googles-new-gtld-solution-nomulus/</guid>
-      <description>&lt;p&gt;Nomulus is the code for the backend domain name registry solution offered by Google which requires the use of Google Cloud. This solution is the &amp;hellip;  &lt;a href=&#34;http://www.circleid.com/posts/20170216_a_q_and_a_on_googles_new_gtld_solution_nomulus/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.circleid.com/posts/20170216_a_q_and_a_on_googles_new_gtld_solution_nomulus/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
