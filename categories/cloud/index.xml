@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Feb 2017 22:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Feb 2017 00:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Can Amazon Fend Off Cloud Insurgents?</title>
+      <link>//crypt0.net/post/can-amazon-fend-off-cloud-insurgents/</link>
+      <pubDate>Fri, 17 Feb 2017 00:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/can-amazon-fend-off-cloud-insurgents/</guid>
+      <description>&lt;p&gt;&amp;hellip; hard against Amazon, and last year it succeeded in persuading Apple (AAPL) to move a portion of its cloud operations from AWS to Google Cloud.  &lt;a href=&#34;http://marketrealist.com/2017/02/can-amazon-fend-off-cloud-insurgents/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2017/02/can-amazon-fend-off-cloud-insurgents/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cloud hyperconvergencethe benefit of joining OpenStack with Ceph</title>
@@ -360,18 +372,6 @@
       
       <guid>//crypt0.net/post/google-cloud-endpoints-moves-to-general-availability/</guid>
       <description>&lt;p&gt;This week, Google announced the general availability of its API gateway: Google Cloud Endpoints. The gateway is built on the same services on &amp;hellip;  &lt;a href=&#34;https://www.programmableweb.com/news/google-cloud-endpoints-moves-to-general-availability/brief/2017/02/16&#34; onclick=&#34;trackOutboundLink(&#39;https://www.programmableweb.com/news/google-cloud-endpoints-moves-to-general-availability/brief/2017/02/16&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Predict YouTube video tags for a chance to win up to $30K</title>
-      <link>//crypt0.net/post/predict-youtube-video-tags-for-a-chance-to-win-up-to-30k/</link>
-      <pubDate>Thu, 16 Feb 2017 15:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/predict-youtube-video-tags-for-a-chance-to-win-up-to-30k/</guid>
-      <description>&lt;p&gt;learning framework, the competition challenges you to develop &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/blog/big-data/2017/02/google-cloud-and-youtube-8m-challenge-predict-youtube-video-tags-for-a-chance-to-win-up-to-30k&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/blog/big-data/2017/02/google-cloud-and-youtube-8m-challenge-predict-youtube-video-tags-for-a-chance-to-win-up-to-30k&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
