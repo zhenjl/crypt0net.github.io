@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Feb 2017 19:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Feb 2017 19:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
+      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
+      <pubDate>Thu, 16 Feb 2017 19:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
+      <description>&lt;p&gt;ago. 1. Please use this topic to ask questions about the dataset.  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/28848/youtube-8m-dataset-questions?forumMessageId=162082&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/28848/youtube-8m-dataset-questions?forumMessageId=162082&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Public Cloud Adoption Up, Private Cloud Flat</title>
@@ -360,18 +372,6 @@
       
       <guid>//crypt0.net/post/a-qa-on-googles-new-gtld-solution-nomulus/</guid>
       <description>&lt;p&gt;Nomulus is the code for the backend domain name registry solution offered by Google which requires the use of Google Cloud. This solution is the &amp;hellip;  &lt;a href=&#34;http://www.circleid.com/posts/20170216_a_q_and_a_on_googles_new_gtld_solution_nomulus/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.circleid.com/posts/20170216_a_q_and_a_on_googles_new_gtld_solution_nomulus/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure IP Advantage: A closer look at the &#39;patent pick&#39;</title>
-      <link>//crypt0.net/post/microsoft-azure-ip-advantage-a-closer-look-at-the-patent-pick/</link>
-      <pubDate>Thu, 16 Feb 2017 12:50:10 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-ip-advantage-a-closer-look-at-the-patent-pick/</guid>
-      <description>&lt;p&gt;help Azure customers reduce their intellectual property risk in the cloud &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/on-the-issues/2017/02/16/microsoft-azure-ip-advantage-closer-look-patent-pick/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/on-the-issues/2017/02/16/microsoft-azure-ip-advantage-closer-look-patent-pick/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
