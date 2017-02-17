@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 17 Feb 2017 07:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Feb 2017 07:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft makes cheeky bid for MongoDB devs on Azure security grounds</title>
+      <link>//crypt0.net/post/microsoft-makes-cheeky-bid-for-mongodb-devs-on-azure-security-grounds/</link>
+      <pubDate>Fri, 17 Feb 2017 07:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-makes-cheeky-bid-for-mongodb-devs-on-azure-security-grounds/</guid>
+      <description>&lt;p&gt;Following its security investments in Azure, Microsoft has waded into the debate about whether MongoDB is suitable for production purposes by &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/02/17/microsoft_makes_cheeky_bid_for_mongodb_devs_on_azure_security_grounds/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/02/17/microsoft_makes_cheeky_bid_for_mongodb_devs_on_azure_security_grounds/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Get this Amazon Web Services Technical Certification Training for just $39</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/cloud-hyperconvergencethe-benefit-of-joining-openstack-with-ceph/</guid>
       <description>&lt;p&gt;integration between OpenStack and Ceph.  &lt;a href=&#34;https://www.redhat.com/en/about/events/cloud-hyperconvergence%E2%80%94-benefit-joining-openstack-ceph&#34; onclick=&#34;trackOutboundLink(&#39;https://www.redhat.com/en/about/events/cloud-hyperconvergence%E2%80%94-benefit-joining-openstack-ceph&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>System C and Graphnet deepen partnership with Microsoft</title>
-      <link>//crypt0.net/post/system-c-and-graphnet-deepen-partnership-with-microsoft/</link>
-      <pubDate>Thu, 16 Feb 2017 22:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/system-c-and-graphnet-deepen-partnership-with-microsoft/</guid>
-      <description>&lt;p&gt;System C and Graphnet already use Microsoft technologies, including Microsoft HealthVault, Microsoft Azure including Azure machine learning.  &lt;a href=&#34;https://www.digitalhealth.net/2017/02/system-c-graphnet-deepen-partnership-microsoft/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.digitalhealth.net/2017/02/system-c-graphnet-deepen-partnership-microsoft/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
