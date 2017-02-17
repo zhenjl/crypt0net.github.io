@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 17 Feb 2017 11:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Feb 2017 11:10:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Jasmine unit tests view broken by profiler</title>
+      <link>//crypt0.net/post/jasmine-unit-tests-view-broken-by-profiler/</link>
+      <pubDate>Fri, 17 Feb 2017 11:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/jasmine-unit-tests-view-broken-by-profiler/</guid>
+      <description>&lt;p&gt;page; this is not reflected in the jasmine.html page, which causes injection &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1665539&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1665539&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Businesses need to prioritise security in &#39;Open Economy&#39;</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;PB: Blockchains give us the opportunity to put all that information back on the same page. The same logic that makes it impossible for someone to &amp;hellip;  &lt;a href=&#34;http://www.pymnts.com/blockchain/2017/blockchain-tracker-blockchain-technologys-impact-on-global-transactions/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pymnts.com/blockchain/2017/blockchain-tracker-blockchain-technologys-impact-on-global-transactions/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Having cyber insurance cover can help businesses handle data breaches, says</title>
-      <link>//crypt0.net/post/having-cyber-insurance-cover-can-help-businesses-handle-data-breaches-says/</link>
-      <pubDate>Fri, 17 Feb 2017 09:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/having-cyber-insurance-cover-can-help-businesses-handle-data-breaches-says/</guid>
-      <description>&lt;p&gt;Out-Law.com The cyber insurance market in the UK is still relatively nascent, but forthcoming changes to EU legislation, including the introduction of the EU General &amp;hellip;  &lt;a href=&#34;http://www.out-law.com/en/articles/2017/february/having-cyber-insurance-cover-can-help-businesses-handle-data-breaches-says-expert/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.out-law.com/en/articles/2017/february/having-cyber-insurance-cover-can-help-businesses-handle-data-breaches-says-expert/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
