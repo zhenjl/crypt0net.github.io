@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 17 Feb 2017 21:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Feb 2017 23:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open vSwitch: Self-service networks in Networking Guide</title>
+      <link>//crypt0.net/post/open-vswitch-selfservice-networks-in-networking-guide/</link>
+      <pubDate>Fri, 17 Feb 2017 23:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/open-vswitch-selfservice-networks-in-networking-guide/</guid>
+      <description>&lt;p&gt;the layer-2 population mechanism driver. [ml2] mechanism_drivers &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1665790&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1665790&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Azure revenue reportedly exceeded $2.5 billion in 2016</title>
@@ -312,18 +324,6 @@
       
       <guid>//crypt0.net/post/container-security-in-kubernetes--project-calico-for-digitalocean/</guid>
       <description>&lt;p&gt;Kubernetes combined with Calico all wrapped up in a simple experience  build and manage enterprise Kubernetes in the public cloud now with &amp;hellip;  &lt;a href=&#34;https://blog.stackpoint.io/container-security-in-kubernetes-project-calico-for-digitalocean-microsoft-azure-1170a9705119&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.stackpoint.io/container-security-in-kubernetes-project-calico-for-digitalocean-microsoft-azure-1170a9705119&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How Managed Service Providers Are Driving Microsoft Azure Adoption</title>
-      <link>//crypt0.net/post/how-managed-service-providers-are-driving-microsoft-azure-adoption/</link>
-      <pubDate>Fri, 17 Feb 2017 13:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-managed-service-providers-are-driving-microsoft-azure-adoption/</guid>
-      <description>&lt;p&gt;Cloud Services company NetEnrich issued a survey showing that managed service providers are helping enterprises make the transition to Microsoft&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/slideshows/how-managed-service-providers-are-driving-microsoft-azure-adoption.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/slideshows/how-managed-service-providers-are-driving-microsoft-azure-adoption.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
