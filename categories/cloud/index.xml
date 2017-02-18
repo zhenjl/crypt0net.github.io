@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 17 Feb 2017 23:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Feb 2017 00:20:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon AWS and Microsoft Azure: A Cloud Infrastructure (IaaS) Duopoly?</title>
+      <link>//crypt0.net/post/amazon-aws-and-microsoft-azure-a-cloud-infrastructure-iaas-duopoly/</link>
+      <pubDate>Sat, 18 Feb 2017 00:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-aws-and-microsoft-azure-a-cloud-infrastructure-iaas-duopoly/</guid>
+      <description>&lt;p&gt;Amazon Web Services Vs. Microsoft Azure is shaping up to be a fight that will shape the cloud computing industry&amp;rsquo;s future over the next decade.  &lt;a href=&#34;http://1reddrop.com/2017/02/18/amazon-aws-microsoft-azure-cloud-computing-iaas-duopoly/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/02/18/amazon-aws-microsoft-azure-cloud-computing-iaas-duopoly/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysts believe Microsoft Azure brought in revenues worth $2.7Bn in 2016</title>
+      <link>//crypt0.net/post/analysts-believe-microsoft-azure-brought-in-revenues-worth-27bn-in-2016/</link>
+      <pubDate>Sat, 18 Feb 2017 00:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/analysts-believe-microsoft-azure-brought-in-revenues-worth-27bn-in-2016/</guid>
+      <description>&lt;p&gt;Microsoft&amp;rsquo;s cloud platform business is utilized by business and tech-friendly users across the globe. Microsoft further extended platform&amp;rsquo;s usability to &amp;hellip;  &lt;a href=&#34;https://thetechportal.com/2017/02/18/analysts-believe-microsoft-azure-brought-revenues-worth-2-7bn-2016/&#34; onclick=&#34;trackOutboundLink(&#39;https://thetechportal.com/2017/02/18/analysts-believe-microsoft-azure-brought-revenues-worth-2-7bn-2016/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Open vSwitch: Self-service networks in Networking Guide</title>
@@ -300,30 +324,6 @@
       
       <guid>//crypt0.net/post/google-made-its-fasterthanlight-time-harnessing-tech-available-to-all/</guid>
       <description>&lt;p&gt;While most companies don&amp;rsquo;t have the same database needs as a tech behemoth like Google, Cloud Spanner could prove useful for large financial &amp;hellip;  &lt;a href=&#34;https://futurism.com/4-googles-spanner-is-now-available-on-the-cloud-for-everyone/&#34; onclick=&#34;trackOutboundLink(&#39;https://futurism.com/4-googles-spanner-is-now-available-on-the-cloud-for-everyone/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New serverless platforms vow to end Lambda lock-in</title>
-      <link>//crypt0.net/post/new-serverless-platforms-vow-to-end-lambda-lockin/</link>
-      <pubDate>Fri, 17 Feb 2017 13:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/new-serverless-platforms-vow-to-end-lambda-lockin/</guid>
-      <description>&lt;p&gt;Alpha Vertex&amp;rsquo;s Bishop said he&amp;rsquo;s pushed IBM to integrate OpenWhisk with Kubernetes, which he uses to bridge IBM&amp;rsquo;s Bluemix and Google&amp;rsquo;s Cloud &amp;hellip;  &lt;a href=&#34;http://searchitoperations.techtarget.com/news/450413201/New-serverless-platforms-vow-to-end-Lambda-lock-in&#34; onclick=&#34;trackOutboundLink(&#39;http://searchitoperations.techtarget.com/news/450413201/New-serverless-platforms-vow-to-end-Lambda-lock-in&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Container Security in Kubernetes  Project Calico for DigitalOcean,</title>
-      <link>//crypt0.net/post/container-security-in-kubernetes--project-calico-for-digitalocean/</link>
-      <pubDate>Fri, 17 Feb 2017 13:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/container-security-in-kubernetes--project-calico-for-digitalocean/</guid>
-      <description>&lt;p&gt;Kubernetes combined with Calico all wrapped up in a simple experience  build and manage enterprise Kubernetes in the public cloud now with &amp;hellip;  &lt;a href=&#34;https://blog.stackpoint.io/container-security-in-kubernetes-project-calico-for-digitalocean-microsoft-azure-1170a9705119&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.stackpoint.io/container-security-in-kubernetes-project-calico-for-digitalocean-microsoft-azure-1170a9705119&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
