@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 18 Feb 2017 12:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Feb 2017 16:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Release: Amazon RDS on 2017-02-17</title>
+      <link>//crypt0.net/post/release-amazon-rds-on-20170217/</link>
+      <pubDate>Sat, 18 Feb 2017 16:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/release-amazon-rds-on-20170217/</guid>
+      <description>&lt;p&gt;Amazon RDS procedure msdb.dbo.rds_shrink_tempdbfile to shrink the &amp;hellip;  &lt;a href=&#34;https://aws.amazon.com/releasenotes/7822606813411160&#34; onclick=&#34;trackOutboundLink(&#39;https://aws.amazon.com/releasenotes/7822606813411160&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft doubled its Azure cloud revenue to $2.7B last year, analysts</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/open-vswitch-selfservice-networks-in-networking-guide/</guid>
       <description>&lt;p&gt;the layer-2 population mechanism driver. [ml2] mechanism_drivers &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1665790&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1665790&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure revenue reportedly exceeded $2.5 billion in 2016</title>
-      <link>//crypt0.net/post/microsoft-azure-revenue-reportedly-exceeded-25-billion-in-2016/</link>
-      <pubDate>Fri, 17 Feb 2017 21:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-revenue-reportedly-exceeded-25-billion-in-2016/</guid>
-      <description>&lt;p&gt;Microsoft&amp;rsquo;s Azure public cloud business is certainly growing. &amp;hellip; If the analyst is right, Azure pulled in around $2.7 billion in revenue in all of 2016.  &lt;a href=&#34;http://venturebeat.com/2017/02/17/microsoft-azure-revenue-reportedly-exceeded-2-5-billion-in-2016/&#34; onclick=&#34;trackOutboundLink(&#39;http://venturebeat.com/2017/02/17/microsoft-azure-revenue-reportedly-exceeded-2-5-billion-in-2016/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

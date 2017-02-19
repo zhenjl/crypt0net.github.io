@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 18 Feb 2017 16:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Feb 2017 16:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Release: Amazon RDS on 2017-02-17</title>
+      <link>//crypt0.net/post/release-amazon-rds-on-20170217/</link>
+      <pubDate>Sat, 18 Feb 2017 16:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/release-amazon-rds-on-20170217/</guid>
+      <description>&lt;p&gt;Amazon RDS procedure msdb.dbo.rds_shrink_tempdbfile to shrink the &amp;hellip;  &lt;a href=&#34;https://aws.amazon.com/releasenotes/7822606813411160&#34; onclick=&#34;trackOutboundLink(&#39;https://aws.amazon.com/releasenotes/7822606813411160&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Answer to black money could be a tech tool</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/future-fitness-how-the-internet-of-things-will-change-gyms/</guid>
       <description>&lt;p&gt;personal trainers, the internet of things is transforming out work out routines.  &lt;a href=&#34;http://www.theinternetofthings.eu/future-fitness-how-internet-things-will-change-gyms&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theinternetofthings.eu/future-fitness-how-internet-things-will-change-gyms&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>You&#39;ve bought the house, but the seller controls the lights. Now what?</title>
-      <link>//crypt0.net/post/youve-bought-the-house-but-the-seller-controls-the-lights-now-what/</link>
-      <pubDate>Sat, 18 Feb 2017 09:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/youve-bought-the-house-but-the-seller-controls-the-lights-now-what/</guid>
-      <description>&lt;p&gt;As the Internet of Things finds itself into houses via connected devices, more and more homes contain hot new tech gadgets that can all too easily &amp;hellip;  &lt;a href=&#34;http://www.usatoday.com/story/tech/news/2017/02/17/connected-homes-real-estate-home-buying-home-selling-nest/97971230/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.usatoday.com/story/tech/news/2017/02/17/connected-homes-real-estate-home-buying-home-selling-nest/97971230/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
