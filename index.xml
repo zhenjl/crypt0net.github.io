@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 18 Feb 2017 20:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Feb 2017 21:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Broken LInk: HowTo for first timers</title>
+      <link>//crypt0.net/post/broken-link-howto-for-first-timers/</link>
+      <pubDate>Sat, 18 Feb 2017 21:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/broken-link-howto-for-first-timers/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://wiki.openstack.org/wiki/Documentation/HowTo&#34;&gt;https://wiki.openstack.org/wiki/Documentation/HowTo&lt;/a&gt; gives a HTTP: 404 Also it looks like there should be a space &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1665767&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1665767&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain: The Untapped Goldmine Of Blockchain That Virtually No One Knows</title>
@@ -379,18 +391,6 @@
       <description>&lt;p&gt;GeekWire PREVIOUSLY: Cloud Report Card: Amazon Web Services is a $12B &amp;hellip; the gap between Microsoft and the public cloud leader, Amazon Web Services, &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/microsoft-doubled-azure-cloud-revenue-2-7b-last-year-analysts-estimate/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/microsoft-doubled-azure-cloud-revenue-2-7b-last-year-analysts-estimate/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Introducing JAAK and MTA : A Blockchain pilot for the Media &amp;</title>
-      <link>//crypt0.net/post/introducing-jaak-and-mta--a-blockchain-pilot-for-the-media-/</link>
-      <pubDate>Sat, 18 Feb 2017 12:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/introducing-jaak-and-mta--a-blockchain-pilot-for-the-media-/</guid>
-      <description>&lt;p&gt;A Journal of Musical Things (blog) Today (Saturday, Feb. 18) at the European Ethereum Development Conference (EDCON) in Paris, Vaughn McKenzie and his partners Freddie &amp;hellip;  &lt;a href=&#34;http://ajournalofmusicalthings.com/introducing-jaak-m%CE%BEta-blockchain-pilot-media-entertainment-industry/&#34; onclick=&#34;trackOutboundLink(&#39;http://ajournalofmusicalthings.com/introducing-jaak-m%CE%BEta-blockchain-pilot-media-entertainment-industry/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

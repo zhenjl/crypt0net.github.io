@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 18 Feb 2017 20:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Feb 2017 21:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Broken LInk: HowTo for first timers</title>
+      <link>//crypt0.net/post/broken-link-howto-for-first-timers/</link>
+      <pubDate>Sat, 18 Feb 2017 21:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/broken-link-howto-for-first-timers/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://wiki.openstack.org/wiki/Documentation/HowTo&#34;&gt;https://wiki.openstack.org/wiki/Documentation/HowTo&lt;/a&gt; gives a HTTP: 404 Also it looks like there should be a space &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1665767&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1665767&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain: The Untapped Goldmine Of Blockchain That Virtually No One Knows</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/google-cloud--the-earth--fulltime--onsite--remote-yo-we-are/</guid>
       <description>&lt;p&gt;We are continuing to grow the GCP Solutions Architect team; a bunch of happy folk learning and helping others to use Google&amp;rsquo;s cloud infrastructure for &amp;hellip;  &lt;a href=&#34;https://news.ycombinator.com/item?id=13542053&#34; onclick=&#34;trackOutboundLink(&#39;https://news.ycombinator.com/item?id=13542053&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Invalid argument: Indices are not valid (out of bounds). Shape</title>
-      <link>//crypt0.net/post/invalid-argument-indices-are-not-valid-out-of-bounds-shape/</link>
-      <pubDate>Sat, 18 Feb 2017 11:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/invalid-argument-indices-are-not-valid-out-of-bounds-shape/</guid>
-      <description>&lt;p&gt;the best video tag predictions? Google Cloud  78 teams  4 months &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/28953/error-found-invalid-argument-indices-are-not-valid-out-of-bounds-shape?forumMessageId=162361&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/28953/error-found-invalid-argument-indices-are-not-valid-out-of-bounds-shape?forumMessageId=162361&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
