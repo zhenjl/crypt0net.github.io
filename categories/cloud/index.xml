@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 19 Feb 2017 13:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Feb 2017 15:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Domino&#39;s shifts online ordering from AWS to Azure</title>
+      <link>//crypt0.net/post/dominos-shifts-online-ordering-from-aws-to-azure/</link>
+      <pubDate>Sun, 19 Feb 2017 15:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/dominos-shifts-online-ordering-from-aws-to-azure/</guid>
+      <description>&lt;p&gt;NET proprietary OneDigital platform into Microsoft Azure PaaS globally. &amp;hellip; Unlike Domino&amp;rsquo;s infrastructure-as-a-service environment with AWS, Azure &amp;hellip;  &lt;a href=&#34;http://www.itnews.com.au/news/dominos-shifts-online-ordering-from-aws-to-azure-451285&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itnews.com.au/news/dominos-shifts-online-ordering-from-aws-to-azure-451285&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IT Brief Australia - Dell EMC deploys turnkey hybrid cloud platform on</title>
+      <link>//crypt0.net/post/it-brief-australia--dell-emc-deploys-turnkey-hybrid-cloud-platform-on/</link>
+      <pubDate>Sun, 19 Feb 2017 15:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/it-brief-australia--dell-emc-deploys-turnkey-hybrid-cloud-platform-on/</guid>
+      <description>&lt;p&gt;IT Brief Australia This is because the elastic economics of the public cloud (including Amazon Web Services, Azure, Google Cloud Engine and others) are an excellent &amp;hellip;  &lt;a href=&#34;https://itbrief.com.au/story/dell-emc-deploys-turnkey-hybrid-cloud-platform-vxrail-first-time-ever/&#34; onclick=&#34;trackOutboundLink(&#39;https://itbrief.com.au/story/dell-emc-deploys-turnkey-hybrid-cloud-platform-vxrail-first-time-ever/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>openstack provider: juju does not give any error if trusty instance forever</title>
+      <link>//crypt0.net/post/openstack-provider-juju-does-not-give-any-error-if-trusty-instance-forever/</link>
+      <pubDate>Sun, 19 Feb 2017 15:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-provider-juju-does-not-give-any-error-if-trusty-instance-forever/</guid>
+      <description>&lt;p&gt;I am using Juju against an Openstack cloud. The controller is Xenial, so to start the controller I just did: juju metadata generate-image -d ~/engines -i &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1666069&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1666069&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Item-level recovery with Azure Backup</title>
@@ -221,42 +257,6 @@
 
 &lt;p&gt;&lt;h3&gt;Instance creation failed: Unable to create the server.&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://docs.openstack.org/newton/install-guide-rdo/launch-instance-selfser&#34;&gt;https://docs.openstack.org/newton/install-guide-rdo/launch-instance-selfser&lt;/a&gt; vice.html &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1665857&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1665857&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Instance creation failed: Unable to create the server.</title>
-      <link>//crypt0.net/post/instance-creation-failed-unable-to-create-the-server/</link>
-      <pubDate>Sat, 18 Feb 2017 17:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/instance-creation-failed-unable-to-create-the-server/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://docs.openstack.org/newton/install-guide-rdo/launch-instance-selfser&#34;&gt;https://docs.openstack.org/newton/install-guide-rdo/launch-instance-selfser&lt;/a&gt; vice.html &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1665857&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1665857&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Release: Amazon RDS on 2017-02-17</title>
-      <link>//crypt0.net/post/release-amazon-rds-on-20170217/</link>
-      <pubDate>Sat, 18 Feb 2017 16:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/release-amazon-rds-on-20170217/</guid>
-      <description>&lt;p&gt;Amazon RDS procedure msdb.dbo.rds_shrink_tempdbfile to shrink the &amp;hellip;  &lt;a href=&#34;https://aws.amazon.com/releasenotes/7822606813411160&#34; onclick=&#34;trackOutboundLink(&#39;https://aws.amazon.com/releasenotes/7822606813411160&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft doubled its Azure cloud revenue to $2.7B last year, analysts</title>
-      <link>//crypt0.net/post/microsoft-doubled-its-azure-cloud-revenue-to-27b-last-year-analysts/</link>
-      <pubDate>Sat, 18 Feb 2017 12:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-doubled-its-azure-cloud-revenue-to-27b-last-year-analysts/</guid>
-      <description>&lt;p&gt;GeekWire PREVIOUSLY: Cloud Report Card: Amazon Web Services is a $12B &amp;hellip; the gap between Microsoft and the public cloud leader, Amazon Web Services, &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/microsoft-doubled-azure-cloud-revenue-2-7b-last-year-analysts-estimate/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/microsoft-doubled-azure-cloud-revenue-2-7b-last-year-analysts-estimate/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
