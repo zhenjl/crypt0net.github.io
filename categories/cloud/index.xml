@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 19 Feb 2017 11:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Feb 2017 11:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1666029 simple_cell_setup should not exist with 1 when the...</title>
+      <link>//crypt0.net/post/bug-1666029-simplecellsetup-should-not-exist-with-1-when-the/</link>
+      <pubDate>Sun, 19 Feb 2017 11:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1666029-simplecellsetup-should-not-exist-with-1-when-the/</guid>
+      <description>&lt;p&gt;there will be no compute nodes until adding ironic nodes. And the user &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1666029&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1666029&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Why Toppling AWS from the Top of Cloud Computing is Not an Easy Task</title>
@@ -243,18 +255,6 @@
       
       <guid>//crypt0.net/post/google-cloud--the-earth--fulltime--onsite--remote-yo-we-are/</guid>
       <description>&lt;p&gt;We are continuing to grow the GCP Solutions Architect team; a bunch of happy folk learning and helping others to use Google&amp;rsquo;s cloud infrastructure for &amp;hellip;  &lt;a href=&#34;https://news.ycombinator.com/item?id=13542053&#34; onclick=&#34;trackOutboundLink(&#39;https://news.ycombinator.com/item?id=13542053&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Invalid argument: Indices are not valid (out of bounds). Shape</title>
-      <link>//crypt0.net/post/invalid-argument-indices-are-not-valid-out-of-bounds-shape/</link>
-      <pubDate>Sat, 18 Feb 2017 11:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/invalid-argument-indices-are-not-valid-out-of-bounds-shape/</guid>
-      <description>&lt;p&gt;the best video tag predictions? Google Cloud  78 teams  4 months &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/28953/error-found-invalid-argument-indices-are-not-valid-out-of-bounds-shape?forumMessageId=162361&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/28953/error-found-invalid-argument-indices-are-not-valid-out-of-bounds-shape?forumMessageId=162361&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
