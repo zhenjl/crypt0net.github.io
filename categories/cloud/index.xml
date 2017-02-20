@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 20 Feb 2017 12:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Feb 2017 14:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Case Study: Building DreamHost&#39;s OpenStack Cloud</title>
+      <link>//crypt0.net/post/case-study-building-dreamhosts-openstack-cloud/</link>
+      <pubDate>Mon, 20 Feb 2017 14:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/case-study-building-dreamhosts-openstack-cloud/</guid>
+      <description>&lt;p&gt;As we initially embarked on our beginner&amp;rsquo;s foray into the wild blue yonder of cloud services with our first OpenStack implementationthe DreamHost &amp;hellip;  &lt;a href=&#34;http://www.datacenterjournal.com/case-study-building-dreamhosts-openstack-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.datacenterjournal.com/case-study-building-dreamhosts-openstack-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The benefits of using Microsoft Azure AD with Office 365</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/google-cloud-to-transform-its-strategic-approach/</guid>
       <description>&lt;p&gt;Google Enterprise Business head and Senior VP Diane Greene is on a mission to transform Google&amp;rsquo;s approach to the cloud. She believes that a &amp;hellip;  &lt;a href=&#34;http://www.readitquik.com/news/elastic-computing/google-cloud-to-transform-its-strategic-approach/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.readitquik.com/news/elastic-computing/google-cloud-to-transform-its-strategic-approach/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sending JavaScript Files over Gmail No Longer Possible</title>
-      <link>//crypt0.net/post/sending-javascript-files-over-gmail-no-longer-possible/</link>
-      <pubDate>Mon, 20 Feb 2017 07:10:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sending-javascript-files-over-gmail-no-longer-possible/</guid>
-      <description>&lt;p&gt;&amp;hellip; you really, really, want to send a JavaScript attachment, namely by attaching it via Google Drive, Google Cloud Storage or any other storage solution &amp;hellip;  &lt;a href=&#34;http://news.softpedia.com/news/sending-javascript-files-over-gmail-no-longer-possible-513108.shtml&#34; onclick=&#34;trackOutboundLink(&#39;http://news.softpedia.com/news/sending-javascript-files-over-gmail-no-longer-possible-513108.shtml&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
