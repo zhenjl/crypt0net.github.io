@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 21 Feb 2017 10:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Feb 2017 10:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kubernetes now Generally Available on Azure Container Service</title>
+      <link>//crypt0.net/post/kubernetes-now-generally-available-on-azure-container-service/</link>
+      <pubDate>Tue, 21 Feb 2017 10:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/kubernetes-now-generally-available-on-azure-container-service/</guid>
+      <description>&lt;p&gt;focus on applications rather than the machines running them.  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/kubernetes-now-generally-available-on-azure-container-service/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/kubernetes-now-generally-available-on-azure-container-service/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Facebook, IBM, Microsoft, Others To Help Use Blockchain for Public Good</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/automaker-daimler-ag-joins-hyperledger-blockchain-project/</guid>
       <description>&lt;p&gt;We see blockchain as a promising technology, not fully mature yet, but continuously growing. Now is the right time to get into it, build up knowledge &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/automaker-daimler-ag-hyperledger-blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/automaker-daimler-ag-hyperledger-blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Ethereum Blockchain Consortium Could Run on Experimental Tech</title>
-      <link>//crypt0.net/post/new-ethereum-blockchain-consortium-could-run-on-experimental-tech/</link>
-      <pubDate>Tue, 21 Feb 2017 09:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/new-ethereum-blockchain-consortium-could-run-on-experimental-tech/</guid>
-      <description>&lt;p&gt;An enterprise consortium is exploring the possibility of using blockchain-based governance technology to help its members vote on various measures.  &lt;a href=&#34;http://www.coindesk.com/ethereums-new-blockchain-consortium-run-experimental-tech/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/ethereums-new-blockchain-consortium-run-experimental-tech/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
