@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 21 Feb 2017 14:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Feb 2017 14:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kubernetes Generally Available on Microsoft&#39;s Cloud Container Service</title>
+      <link>//crypt0.net/post/kubernetes-generally-available-on-microsofts-cloud-container-service/</link>
+      <pubDate>Tue, 21 Feb 2017 14:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/kubernetes-generally-available-on-microsofts-cloud-container-service/</guid>
+      <description>&lt;p&gt;Kubernetes is now generally available on ACS, announced Saurya Das, program manager at Microsoft Azure Linux. The open-source container &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/kubernetes-generally-available-on-microsofts-cloud-container-service.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/kubernetes-generally-available-on-microsofts-cloud-container-service.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unable to log in to Microsoft Azure portal due to</title>
+      <link>//crypt0.net/post/unable-to-log-in-to-microsoft-azure-portal-due-to/</link>
+      <pubDate>Tue, 21 Feb 2017 14:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/unable-to-log-in-to-microsoft-azure-portal-due-to/</guid>
+      <description>&lt;p&gt;have subscriptions to Microsoft Azure (not associated with GoDaddy).  &lt;a href=&#34;https://www.godaddy.com/community/Office-365-From-GoDaddy/Unable-to-log-in-to-Microsoft-Azure-portal-due-to-GD-Office-365/m-p/38234&#34; onclick=&#34;trackOutboundLink(&#39;https://www.godaddy.com/community/Office-365-From-GoDaddy/Unable-to-log-in-to-Microsoft-Azure-portal-due-to-GD-Office-365/m-p/38234&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/orange-introduces-public-cloud-service-with-huawei-in-openstack-partnership/</guid>
       <description>&lt;p&gt;The partnership will use OpenStack technology for cloud computing which is an open-source software platform for cloud is computing.  &lt;a href=&#34;http://www.cbronline.com/news/cloud/private/orange-introduces-public-cloud-service-with-huawei/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/cloud/private/orange-introduces-public-cloud-service-with-huawei/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud Partners with HL7 to Support FHIR Development</title>
-      <link>//crypt0.net/post/google-cloud-partners-with-hl7-to-support-fhir-development/</link>
-      <pubDate>Tue, 21 Feb 2017 09:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-partners-with-hl7-to-support-fhir-development/</guid>
-      <description>&lt;p&gt;The HL7 FHIR Foundation is thrilled by this generous contribution of Google Cloud Platform services to support the ongoing activities of the FHIR &amp;hellip;  &lt;a href=&#34;http://healthitanalytics.com/news/google-cloud-partners-with-hl7-to-support-fhir-development&#34; onclick=&#34;trackOutboundLink(&#39;http://healthitanalytics.com/news/google-cloud-partners-with-hl7-to-support-fhir-development&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Opens Two New Azure Regions, Kubernetes Reaches General</title>
-      <link>//crypt0.net/post/microsoft-opens-two-new-azure-regions-kubernetes-reaches-general/</link>
-      <pubDate>Tue, 21 Feb 2017 09:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-opens-two-new-azure-regions-kubernetes-reaches-general/</guid>
-      <description>&lt;p&gt;Petri.com If you ask anyone why they are using Google&amp;rsquo;s Cloud platform, you have a good chance of hearing them say it&amp;rsquo;s because of Kubernetes. The container &amp;hellip;  &lt;a href=&#34;https://www.petri.com/microsoft-opens-two-new-azure-regions-kubernetes-reaches-general-availability&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/microsoft-opens-two-new-azure-regions-kubernetes-reaches-general-availability&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
