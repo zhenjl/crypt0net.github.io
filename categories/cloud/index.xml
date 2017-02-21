@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 21 Feb 2017 14:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Feb 2017 14:30:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why are instances being created on a controller in OpenStack HA</title>
+      <link>//crypt0.net/post/why-are-instances-being-created-on-a-controller-in-openstack-ha/</link>
+      <pubDate>Tue, 21 Feb 2017 14:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-are-instances-being-created-on-a-controller-in-openstack-ha/</guid>
+      <description>&lt;p&gt;Environment. Red Hat OpenStack Platform 7.0; Red Hat OpenStack Platform 8.0; Red Hat OpenStack Platform 9.0; Red Hat OpenStack Platform 10.0 &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2939421&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2939421&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Kubernetes Generally Available on Microsoft&#39;s Cloud Container Service</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/kubernetes-now-generally-available-on-azure-container-service/</guid>
       <description>&lt;p&gt;focus on applications rather than the machines running them.  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/kubernetes-now-generally-available-on-azure-container-service/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/kubernetes-now-generally-available-on-azure-container-service/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Orange introduces public cloud service with Huawei in OpenStack partnership</title>
-      <link>//crypt0.net/post/orange-introduces-public-cloud-service-with-huawei-in-openstack-partnership/</link>
-      <pubDate>Tue, 21 Feb 2017 10:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/orange-introduces-public-cloud-service-with-huawei-in-openstack-partnership/</guid>
-      <description>&lt;p&gt;The partnership will use OpenStack technology for cloud computing which is an open-source software platform for cloud is computing.  &lt;a href=&#34;http://www.cbronline.com/news/cloud/private/orange-introduces-public-cloud-service-with-huawei/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/cloud/private/orange-introduces-public-cloud-service-with-huawei/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
