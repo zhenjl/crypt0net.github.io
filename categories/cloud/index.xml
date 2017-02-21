@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 21 Feb 2017 14:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Feb 2017 15:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft honors Pensacola&#39;s IRIS for innovation</title>
+      <link>//crypt0.net/post/microsoft-honors-pensacolas-iris-for-innovation/</link>
+      <pubDate>Tue, 21 Feb 2017 15:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-honors-pensacolas-iris-for-innovation/</guid>
+      <description>&lt;p&gt;Microsoft doles out the awards annually to honor its computing clients and &amp;hellip; The technology is a cloud-based platform built through Microsoft Azure.  &lt;a href=&#34;http://www.pnj.com/story/news/2017/02/21/microsoft-honors-pensacolas-iris-innovation/98192896/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pnj.com/story/news/2017/02/21/microsoft-honors-pensacolas-iris-innovation/98192896/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Why are instances being created on a controller in OpenStack HA</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/google-launches-gpu-support-for-its-cloud-platform/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s now early 2017 and, true to its word, Google today officially made GPUs on the Google Cloud Platform available to developers. As expected, these &amp;hellip;  &lt;a href=&#34;https://techcrunch.com/2017/02/21/google-launches-gpu-support-for-its-cloud-platform/&#34; onclick=&#34;trackOutboundLink(&#39;https://techcrunch.com/2017/02/21/google-launches-gpu-support-for-its-cloud-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kubernetes now Generally Available on Azure Container Service</title>
-      <link>//crypt0.net/post/kubernetes-now-generally-available-on-azure-container-service/</link>
-      <pubDate>Tue, 21 Feb 2017 10:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/kubernetes-now-generally-available-on-azure-container-service/</guid>
-      <description>&lt;p&gt;focus on applications rather than the machines running them.  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/kubernetes-now-generally-available-on-azure-container-service/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/kubernetes-now-generally-available-on-azure-container-service/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
