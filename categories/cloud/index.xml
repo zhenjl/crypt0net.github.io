@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 20 Feb 2017 19:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Feb 2017 19:30:06 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>meta page title and description for docs incorrect...</title>
+      <link>//crypt0.net/post/meta-page-title-and-description-for-docs-incorrect/</link>
+      <pubDate>Mon, 20 Feb 2017 19:30:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/meta-page-title-and-description-for-docs-incorrect/</guid>
+      <description>&lt;p&gt;for the homepage is OpenStack Docs: Newton and the description is &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-doc-tools/+bug/1666322&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-doc-tools/+bug/1666322&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Jobs and a New Head Office in UK</title>
@@ -312,18 +324,6 @@
       
       <guid>//crypt0.net/post/case-study-building-dreamhosts-openstack-cloud/</guid>
       <description>&lt;p&gt;As we initially embarked on our beginner&amp;rsquo;s foray into the wild blue yonder of cloud services with our first OpenStack implementationthe DreamHost &amp;hellip;  &lt;a href=&#34;http://www.datacenterjournal.com/case-study-building-dreamhosts-openstack-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.datacenterjournal.com/case-study-building-dreamhosts-openstack-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The benefits of using Microsoft Azure AD with Office 365</title>
-      <link>//crypt0.net/post/the-benefits-of-using-microsoft-azure-ad-with-office-365/</link>
-      <pubDate>Mon, 20 Feb 2017 12:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-benefits-of-using-microsoft-azure-ad-with-office-365/</guid>
-      <description>&lt;p&gt;Office 365 users can now use Azure Active Directory for identity management solutions. Expert Brien Posey explores how that product differs from &amp;hellip;  &lt;a href=&#34;http://searchcontentmanagement.techtarget.com/tip/The-benefits-of-using-Microsoft-Azure-AD-with-Office-365&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcontentmanagement.techtarget.com/tip/The-benefits-of-using-Microsoft-Azure-AD-with-Office-365&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
