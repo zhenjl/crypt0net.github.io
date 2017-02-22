@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 22 Feb 2017 02:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Feb 2017 03:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Clone it? Sure. Beat it? Maybe. Why not build your own AWS?</title>
+      <link>//crypt0.net/post/clone-it-sure-beat-it-maybe-why-not-build-your-own-aws/</link>
+      <pubDate>Wed, 22 Feb 2017 03:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/clone-it-sure-beat-it-maybe-why-not-build-your-own-aws/</guid>
+      <description>&lt;p&gt;Take Amazon Web Services, for instance. An evening&amp;rsquo;s meander through their leafy forest of announcements will find all manner of new stuff that&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/02/22/anything_aws_can_do_i_can_build_better/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/02/22/anything_aws_can_do_i_can_build_better/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Brief Look At What Microsoft Azure Is</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/snapdragon-210-to-support-android-things-later-this-year/</guid>
       <description>&lt;p&gt;&amp;hellip; users, is that it makes use of tools developers are already familiar with, including Android Studio, Google Play Services and Google Cloud Platform.  &lt;a href=&#34;http://www.fudzilla.com/news/processors/42924-snapdragon-210-to-support-android-things-later-this-year&#34; onclick=&#34;trackOutboundLink(&#39;http://www.fudzilla.com/news/processors/42924-snapdragon-210-to-support-android-things-later-this-year&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using Google Cloud Machine Learning to predict clicks at scale</title>
-      <link>//crypt0.net/post/using-google-cloud-machine-learning-to-predict-clicks-at-scale/</link>
-      <pubDate>Tue, 21 Feb 2017 20:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/using-google-cloud-machine-learning-to-predict-clicks-at-scale/</guid>
-      <description>&lt;p&gt;train models on very large amounts of data.  &lt;a href=&#34;https://cloud.google.com/blog/big-data/2017/02/using-google-cloud-machine-learning-to-predict-clicks-at-scale&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/blog/big-data/2017/02/using-google-cloud-machine-learning-to-predict-clicks-at-scale&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
