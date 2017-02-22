@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 21 Feb 2017 21:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Feb 2017 21:20:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Partners Pleased To Finally See Kubernetes Available Natively On Microsoft</title>
+      <link>//crypt0.net/post/partners-pleased-to-finally-see-kubernetes-available-natively-on-microsoft/</link>
+      <pubDate>Tue, 21 Feb 2017 21:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/partners-pleased-to-finally-see-kubernetes-available-natively-on-microsoft/</guid>
+      <description>&lt;p&gt;CRN Microsoft said it would bulk up Azure&amp;rsquo;s container capabilities by releasing native support on its cloud for the popular Kubernetes container &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/cloud/300083862/partners-pleased-to-finally-see-kubernetes-available-natively-on-microsoft-azure.htm?itc=hp_ots&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300083862/partners-pleased-to-finally-see-kubernetes-available-natively-on-microsoft-azure.htm?itc=hp_ots&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Focus On Protecting What&#39;s Most Important -- The Data</title>
@@ -161,18 +173,6 @@
       
       <guid>//crypt0.net/post/google-rolls-out-gpu-cloud-service/</guid>
       <description>&lt;p&gt;The new cloud-based GPU instance have been integrated with Google&amp;rsquo;s Cloud Machine Learning (Cloud ML), a set of tools for building and managing &amp;hellip;  &lt;a href=&#34;https://www.top500.org/news/google-rolls-out-gpu-cloud-service/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.top500.org/news/google-rolls-out-gpu-cloud-service/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Partners Pleased To Finally See Kubernetes Available Natively On Microsoft</title>
-      <link>//crypt0.net/post/partners-pleased-to-finally-see-kubernetes-available-natively-on-microsoft/</link>
-      <pubDate>Tue, 21 Feb 2017 19:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/partners-pleased-to-finally-see-kubernetes-available-natively-on-microsoft/</guid>
-      <description>&lt;p&gt;CRN Microsoft said it would bulk up Azure&amp;rsquo;s container capabilities by releasing on its cloud-native support for the popular Kubernetes container &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/cloud/300083862/partners-pleased-to-finally-see-kubernetes-available-natively-on-microsoft-azure.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300083862/partners-pleased-to-finally-see-kubernetes-available-natively-on-microsoft-azure.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
