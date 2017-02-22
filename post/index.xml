@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 21 Feb 2017 22:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Feb 2017 22:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack Ocata announced, then briefly withheld</title>
+      <link>//crypt0.net/post/openstack-ocata-announced-then-briefly-withheld/</link>
+      <pubDate>Tue, 21 Feb 2017 22:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-ocata-announced-then-briefly-withheld/</guid>
+      <description>&lt;p&gt;Not a lot, and that&amp;rsquo;s by design: Ocata was designed to be a stabilization release aimed at addressing scalability and performance of OpenStack&amp;rsquo;s core &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/02/22/openstack_ocata/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/02/22/openstack_ocata/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>cPacket Adds 100Gbps to Its Next-Generation Network Performance Monitoring</title>
+      <link>//crypt0.net/post/cpacket-adds-100gbps-to-its-nextgeneration-network-performance-monitoring/</link>
+      <pubDate>Tue, 21 Feb 2017 22:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cpacket-adds-100gbps-to-its-nextgeneration-network-performance-monitoring/</guid>
+      <description>&lt;p&gt;Telecom Reseller (press release) &amp;hellip; said Brendan O&amp;rsquo;Flaherty, CEO of cPacket Networks, and that is the need to monitor network behavior without questioning the integrity of the data.  &lt;a href=&#34;https://telecomreseller.com/2017/02/21/cpacket-adds-100gbps-to-its-next-generation-network-performance-monitoring-platform/&#34; onclick=&#34;trackOutboundLink(&#39;https://telecomreseller.com/2017/02/21/cpacket-adds-100gbps-to-its-next-generation-network-performance-monitoring-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Flipkart reportedly in talks to raise $1.5Bn from Microsoft &amp; others</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/microsoft-ceo-satya-nadella-live-announcements-from-future-decoded-2017/</guid>
       <description>&lt;p&gt;Microsoft is investing heavily in the country  it already has three data &amp;hellip; cloud  Flipkart will exclusively be using Microsoft Azure as its public cloud.  &lt;a href=&#34;http://indianexpress.com/article/technology/tech-news-technology/microsoft-ceo-satya-nadella-live-updates-future-decoded-top-announcements-4537449/&#34; onclick=&#34;trackOutboundLink(&#39;http://indianexpress.com/article/technology/tech-news-technology/microsoft-ceo-satya-nadella-live-updates-future-decoded-top-announcements-4537449/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Russian Bank Executive Says Bitcoin is the Only Successful Blockchain</title>
-      <link>//crypt0.net/post/russian-bank-executive-says-bitcoin-is-the-only-successful-blockchain/</link>
-      <pubDate>Tue, 21 Feb 2017 20:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/russian-bank-executive-says-bitcoin-is-the-only-successful-blockchain/</guid>
-      <description>&lt;p&gt;Over the past couple of months, Russian politicians and banks have been changing their tune when it comes to blockchain technology and &amp;hellip;  &lt;a href=&#34;https://www.nigeriatoday.ng/2017/02/russian-bank-executive-says-bitcoin-is-the-only-successful-blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.nigeriatoday.ng/2017/02/russian-bank-executive-says-bitcoin-is-the-only-successful-blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
-      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
-      <pubDate>Tue, 21 Feb 2017 19:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
-      <description>&lt;p&gt;should get after running the commands. I keep getting the below error &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/29106/errors-during-google-cloud-setup?forumMessageId=162960&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/29106/errors-during-google-cloud-setup?forumMessageId=162960&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
