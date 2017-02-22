@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 21 Feb 2017 16:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Feb 2017 16:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CLSA observes accelerating demand for Amazon Web Services</title>
+      <link>//crypt0.net/post/clsa-observes-accelerating-demand-for-amazon-web-services/</link>
+      <pubDate>Tue, 21 Feb 2017 16:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/clsa-observes-accelerating-demand-for-amazon-web-services/</guid>
+      <description>&lt;p&gt;Firm notes consultant expectations for an increase in cloud migration from 5% of workload during 2016 to 20% in 2017 given cost advantages of &amp;hellip;  &lt;a href=&#34;http://seekingalpha.com/news/3245072-clsa-observes-accelerating-demand-amazon-web-services&#34; onclick=&#34;trackOutboundLink(&#39;http://seekingalpha.com/news/3245072-clsa-observes-accelerating-demand-amazon-web-services&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Adds Kubernetes Management to Azure</title>
+      <link>//crypt0.net/post/microsoft-adds-kubernetes-management-to-azure/</link>
+      <pubDate>Tue, 21 Feb 2017 16:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-adds-kubernetes-management-to-azure/</guid>
+      <description>&lt;p&gt;Saurya Das, an &amp;ldquo;Azure Linux&amp;rdquo; Program Manager for Microsoft, announced on a blog that Kubernetes, a Linux-based open source technology originally &amp;hellip;  &lt;a href=&#34;https://virtualizationreview.com/articles/2017/02/21/microsoft-adds-kubernetes-management-to-azure.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://virtualizationreview.com/articles/2017/02/21/microsoft-adds-kubernetes-management-to-azure.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bitnami Mattermost Team Edition for Amazon Web Services</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/microsoft-azure-now-runs-kubernetes-for-managing-lots-of-containers/</guid>
       <description>&lt;p&gt;Microsoft today announced that the open source Kubernetes container management platform is now generally available to control clusters of &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3171636/cloud-computing/microsoft-azure-now-runs-kubernetes-for-managing-lots-of-containers.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3171636/cloud-computing/microsoft-azure-now-runs-kubernetes-for-managing-lots-of-containers.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft opens two new Azure regions in South Korea</title>
-      <link>//crypt0.net/post/microsoft-opens-two-new-azure-regions-in-south-korea/</link>
-      <pubDate>Tue, 21 Feb 2017 11:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-opens-two-new-azure-regions-in-south-korea/</guid>
-      <description>&lt;p&gt;Microsoft has just announced that its Azure cloud computing platform is now available from two new regions in South Korea. Following these latest &amp;hellip;  &lt;a href=&#34;https://www.onmsft.com/news/microsoft-opens-two-new-azure-regions-in-south-korea&#34; onclick=&#34;trackOutboundLink(&#39;https://www.onmsft.com/news/microsoft-opens-two-new-azure-regions-in-south-korea&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Can vCloud Air Compete Against Cloud Heavyweights AWS and Azure?</title>
-      <link>//crypt0.net/post/can-vcloud-air-compete-against-cloud-heavyweights-aws-and-azure/</link>
-      <pubDate>Tue, 21 Feb 2017 10:30:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/can-vcloud-air-compete-against-cloud-heavyweights-aws-and-azure/</guid>
-      <description>&lt;p&gt;What is the point of vCloud Air, VMware&amp;rsquo;s public cloud that runs VMware infrastructure just like in customers&amp;rsquo; data centers? It&amp;rsquo;s a valid question to ask.  &lt;a href=&#34;http://www.serverwatch.com/server-trends/can-vcloud-air-compete-against-cloud-heavyweights-aws-and-azure.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.serverwatch.com/server-trends/can-vcloud-air-compete-against-cloud-heavyweights-aws-and-azure.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
