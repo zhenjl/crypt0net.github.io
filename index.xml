@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 22 Feb 2017 14:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Feb 2017 14:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PTC and Deloitte Announce Plans to Accelerate Internet of Things Adoption</title>
+      <link>//crypt0.net/post/ptc-and-deloitte-announce-plans-to-accelerate-internet-of-things-adoption/</link>
+      <pubDate>Wed, 22 Feb 2017 14:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/ptc-and-deloitte-announce-plans-to-accelerate-internet-of-things-adoption/</guid>
+      <description>&lt;p&gt;ARC Advisory Group (blog) PTC and Deloitte announced plans to accelerate Internet of Things (IoT) adoption and innovation for customers using the ThingWorx industrial IoT &amp;hellip;  &lt;a href=&#34;https://www.arcweb.com/blog/ptc-and-deloitte-announce-plans-accelerate-internet-things-adoption-and-innovation-businesses&#34; onclick=&#34;trackOutboundLink(&#39;https://www.arcweb.com/blog/ptc-and-deloitte-announce-plans-accelerate-internet-things-adoption-and-innovation-businesses&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yokogawa to Collaborate on Industrial Internet of Things Architecture</title>
+      <link>//crypt0.net/post/yokogawa-to-collaborate-on-industrial-internet-of-things-architecture/</link>
+      <pubDate>Wed, 22 Feb 2017 14:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/yokogawa-to-collaborate-on-industrial-internet-of-things-architecture/</guid>
+      <description>&lt;p&gt;Yokogawa&amp;rsquo;s view of a connected industrial plant, as described in a white paper on process automation and the Internet of Things. (Image courtesy &amp;hellip;  &lt;a href=&#34;http://www.engineering.com/AdvancedManufacturing/ArticleID/14222/Yokogawa-to-Collaborate-on-Industrial-Internet-of-Things-Architecture.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.engineering.com/AdvancedManufacturing/ArticleID/14222/Yokogawa-to-Collaborate-on-Industrial-Internet-of-Things-Architecture.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Lumberyard 1.8 launches with Cloud Gems framework</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/battle-of-the-clouds-amazon-web-services-vs-microsoft-azure-vs-google/</guid>
       <description>&lt;p&gt;Network World Amazon Web Services is the consensus leader of the IaaS public cloud computing market according to industry watchers, but they credit Microsoft for &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3173056/cloud-computing/battle-of-the-clouds-amazon-web-services-vs-microsoft-azure-vs-google-cloud-platform.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3173056/cloud-computing/battle-of-the-clouds-amazon-web-services-vs-microsoft-azure-vs-google-cloud-platform.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Index Engines supports tape data migration to AWS</title>
-      <link>//crypt0.net/post/index-engines-supports-tape-data-migration-to-aws/</link>
-      <pubDate>Wed, 22 Feb 2017 13:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/index-engines-supports-tape-data-migration-to-aws/</guid>
-      <description>&lt;p&gt;&amp;ldquo;It&amp;rsquo;s a natural fit for us,&amp;rdquo; McGann said of the migration to Amazon Web Services (AWS). Storage expert Brien Posey wrote in an email that the feature &amp;hellip;  &lt;a href=&#34;http://searchdatabackup.techtarget.com/news/450413553/Index-Engines-supports-tape-data-migration-to-AWS&#34; onclick=&#34;trackOutboundLink(&#39;http://searchdatabackup.techtarget.com/news/450413553/Index-Engines-supports-tape-data-migration-to-AWS&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Build your own sharing system, with help from Google engineers</title>
-      <link>//crypt0.net/post/build-your-own-sharing-system-with-help-from-google-engineers/</link>
-      <pubDate>Wed, 22 Feb 2017 13:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/build-your-own-sharing-system-with-help-from-google-engineers/</guid>
-      <description>&lt;p&gt;Likewise, the default implementation for file storage is Google Cloud Storage, although that could be changed as needed. Right now, Upspin&amp;rsquo;s design &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3173049/open-source-tools/build-your-own-sharing-system-with-help-from-google-engineers.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3173049/open-source-tools/build-your-own-sharing-system-with-help-from-google-engineers.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
