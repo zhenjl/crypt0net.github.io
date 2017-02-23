@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Feb 2017 10:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2017 10:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CWI and Google announce first collision for Industry Security Standard</title>
+      <link>//crypt0.net/post/cwi-and-google-announce-first-collision-for-industry-security-standard/</link>
+      <pubDate>Thu, 23 Feb 2017 10:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cwi-and-google-announce-first-collision-for-industry-security-standard/</guid>
+      <description>&lt;p&gt;Centrum Wiskunde &amp;amp; Informatica (CWI) We used the same infrastructure that powers many Google AI projects including Alpha Go and Google Photo as well as Google Cloud.  &lt;a href=&#34;https://www.cwi.nl/news/2017/cwi-and-google-announce-first-collision-industry-security-standard-sha-1&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cwi.nl/news/2017/cwi-and-google-announce-first-collision-industry-security-standard-sha-1&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Go ahead OpenStack, make my bay</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/aws-announces-amazon-gamelift-now-supports-any-c-and-c-game-engine/</guid>
       <description>&lt;p&gt;22, 2017  Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced that Amazon GameLift now supports &amp;hellip;  &lt;a href=&#34;http://www.gamasutra.com/view/pressreleases/292265/AWS_Announces_Amazon_GameLift_Now_Supports_Any_C_and_CGame_Engine.php&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gamasutra.com/view/pressreleases/292265/AWS_Announces_Amazon_GameLift_Now_Supports_Any_C_and_CGame_Engine.php&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud opens access to GPUs in its data centers</title>
-      <link>//crypt0.net/post/google-cloud-opens-access-to-gpus-in-its-data-centers/</link>
-      <pubDate>Thu, 23 Feb 2017 00:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-opens-access-to-gpus-in-its-data-centers/</guid>
-      <description>&lt;p&gt;Google Cloud has expanded functionality of its virtual machines, making them more suitable for GPU-heavy workloads like deep learning and image &amp;hellip;  &lt;a href=&#34;http://www.datacenterdynamics.com/content-tracks/servers-storage/google-cloud-opens-access-to-gpus-in-its-data-centers/97854.fullarticle&#34; onclick=&#34;trackOutboundLink(&#39;http://www.datacenterdynamics.com/content-tracks/servers-storage/google-cloud-opens-access-to-gpus-in-its-data-centers/97854.fullarticle&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
