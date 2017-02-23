@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 22 Feb 2017 20:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Feb 2017 20:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Writing and Responding to Pub/Sub Messages</title>
+      <link>//crypt0.net/post/writing-and-responding-to-pubsub-messages/</link>
+      <pubDate>Wed, 22 Feb 2017 20:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/writing-and-responding-to-pubsub-messages/</guid>
+      <description>&lt;p&gt;messaging between applications. Publisher applications can send messages &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/appengine/docs/flexible/php/writing-and-responding-to-pub-sub-messages&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/appengine/docs/flexible/php/writing-and-responding-to-pub-sub-messages&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft CEO Satya Nadella helps realise Digital India vision with tech</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/openstack-ocata-strengthens-core-infrastructure-services-and-container/</guid>
       <description>&lt;p&gt;Business Wire (press release) AUSTIN, Texas&amp;ndash;(BUSINESS WIRE)&amp;ndash;The OpenStack community today released Ocata, the 15th version of the most widely deployed open source &amp;hellip;  &lt;a href=&#34;http://www.businesswire.com/news/home/20170222005974/en/OpenStack%C2%AE-Ocata-Strengthens-Core-Infrastructure-Services-Container&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20170222005974/en/OpenStack%C2%AE-Ocata-Strengthens-Core-Infrastructure-Services-Container&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google&#39;s Upspin rethinks secure file-sharing for the cloud</title>
-      <link>//crypt0.net/post/googles-upspin-rethinks-secure-filesharing-for-the-cloud/</link>
-      <pubDate>Wed, 22 Feb 2017 17:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/googles-upspin-rethinks-secure-filesharing-for-the-cloud/</guid>
-      <description>&lt;p&gt;For now, however, Upspin is hosted in Google&amp;rsquo;s cloud platform. The answer Upspin offers is to give every person and device on the network its own &amp;hellip;  &lt;a href=&#34;http://www.cso.com.au/article/614702/google-upspin-rethinks-secure-file-sharing-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cso.com.au/article/614702/google-upspin-rethinks-secure-file-sharing-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

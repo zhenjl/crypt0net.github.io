@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 22 Feb 2017 20:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Feb 2017 20:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Writing and Responding to Pub/Sub Messages</title>
+      <link>//crypt0.net/post/writing-and-responding-to-pubsub-messages/</link>
+      <pubDate>Wed, 22 Feb 2017 20:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/writing-and-responding-to-pubsub-messages/</guid>
+      <description>&lt;p&gt;messaging between applications. Publisher applications can send messages &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/appengine/docs/flexible/php/writing-and-responding-to-pub-sub-messages&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/appengine/docs/flexible/php/writing-and-responding-to-pub-sub-messages&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft CEO Satya Nadella helps realise Digital India vision with tech</title>
@@ -420,18 +432,6 @@
       
       <guid>//crypt0.net/post/microsoft-and-veritas-tackle-hybrid-cloud-together/</guid>
       <description>&lt;p&gt;The multi-year, global agreement announced today means customers can use Microsoft Azure for hybrid cloud environments while hosting Veritas&amp;rsquo; &amp;hellip;  &lt;a href=&#34;http://www.channelnomics.com/channelnomics-us/news/3005161/microsoft-and-veritas-tackle-hybrid-cloud-together&#34; onclick=&#34;trackOutboundLink(&#39;http://www.channelnomics.com/channelnomics-us/news/3005161/microsoft-and-veritas-tackle-hybrid-cloud-together&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Veritas Outsources Cloud Archive Service to Microsoft Azure</title>
-      <link>//crypt0.net/post/veritas-outsources-cloud-archive-service-to-microsoft-azure/</link>
-      <pubDate>Wed, 22 Feb 2017 15:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/veritas-outsources-cloud-archive-service-to-microsoft-azure/</guid>
-      <description>&lt;p&gt;&amp;hellip; said that Veritas could just have easily chosen AWS or Google Cloud Platform, which are also partners and have comparable global-scale clouds.  &lt;a href=&#34;https://rcpmag.com/articles/2017/02/22/veritas-extends-to-microsoft-azure.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://rcpmag.com/articles/2017/02/22/veritas-extends-to-microsoft-azure.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
