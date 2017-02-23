@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Feb 2017 05:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2017 05:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Veritas To Move Archiving Service to Microsoft Azure</title>
+      <link>//crypt0.net/post/veritas-to-move-archiving-service-to-microsoft-azure/</link>
+      <pubDate>Thu, 23 Feb 2017 05:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/veritas-to-move-archiving-service-to-microsoft-azure/</guid>
+      <description>&lt;p&gt;Veritas is migrating its Enterprise Vault.cloud data archiving service from its own managed datacenters to Microsoft Azure. The move to outsource &amp;hellip;  &lt;a href=&#34;https://redmondmag.com/blogs/the-schwartz-report/2017/02/veritas-to-move-archiving-service-onto-microsoft-azure.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/blogs/the-schwartz-report/2017/02/veritas-to-move-archiving-service-onto-microsoft-azure.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MobileIron adding IoT management to its arsenal</title>
@@ -77,18 +89,6 @@
       
       <guid>//crypt0.net/post/google-cloud-next-17-what-to-expect/</guid>
       <description>&lt;p&gt;The first day (Wednesday, March 8) of Next &amp;lsquo;17 will include keynotes from Diane Greene, SVP of Google Cloud; Sundar Pichai, CEO of Google; Eric &amp;hellip;  &lt;a href=&#34;http://www.starzpost.com/articles/830/20170223/Google-Cloud-17&#34; onclick=&#34;trackOutboundLink(&#39;http://www.starzpost.com/articles/830/20170223/Google-Cloud-17&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Veritas To Move Archiving Service to Microsoft Azure</title>
-      <link>//crypt0.net/post/veritas-to-move-archiving-service-to-microsoft-azure/</link>
-      <pubDate>Thu, 23 Feb 2017 04:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/veritas-to-move-archiving-service-to-microsoft-azure/</guid>
-      <description>&lt;p&gt;&amp;hellip; on-premises software and Azure, Buffington said that Veritas could just have easily chosen Amazon Web Services (AWS) or Google Cloud Platform &amp;hellip;  &lt;a href=&#34;https://redmondmag.com/blogs/the-schwartz-report/2017/02/veritas-to-move-archiving-service-onto-microsoft-azure.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/blogs/the-schwartz-report/2017/02/veritas-to-move-archiving-service-onto-microsoft-azure.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
