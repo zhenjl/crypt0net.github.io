@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Feb 2017 00:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2017 00:10:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud opens access to GPUs in its data centers</title>
+      <link>//crypt0.net/post/google-cloud-opens-access-to-gpus-in-its-data-centers/</link>
+      <pubDate>Thu, 23 Feb 2017 00:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-opens-access-to-gpus-in-its-data-centers/</guid>
+      <description>&lt;p&gt;Google Cloud has expanded functionality of its virtual machines, making them more suitable for GPU-heavy workloads like deep learning and image &amp;hellip;  &lt;a href=&#34;http://www.datacenterdynamics.com/content-tracks/servers-storage/google-cloud-opens-access-to-gpus-in-its-data-centers/97854.fullarticle&#34; onclick=&#34;trackOutboundLink(&#39;http://www.datacenterdynamics.com/content-tracks/servers-storage/google-cloud-opens-access-to-gpus-in-its-data-centers/97854.fullarticle&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Typo in Openstack Dashboard installation for newton</title>
@@ -420,18 +432,6 @@
       
       <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
       <description>&lt;p&gt;the best video tag predictions? Google Cloud  125 teams  3 months &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/29139/couldn-t-find-enum-google-protobuf-methodoptions-idempotencylevel?forumMessageId=163130&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/29139/couldn-t-find-enum-google-protobuf-methodoptions-idempotencylevel?forumMessageId=163130&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure Government Cloud adds 12 new services that meet FedRAMP P-ATO</title>
-      <link>//crypt0.net/post/azure-government-cloud-adds-12-new-services-that-meet-fedramp-pato/</link>
-      <pubDate>Wed, 22 Feb 2017 16:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-government-cloud-adds-12-new-services-that-meet-fedramp-pato/</guid>
-      <description>&lt;p&gt;MSPoweruser Microsoft today announced that Azure Government Cloud has been granted authorization for 12 additional customer-facing services to their FedRAMP &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/azure-government-cloud-adds-12-new-services-that-meet-fedramp-p-ato-standard/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/azure-government-cloud-adds-12-new-services-that-meet-fedramp-p-ato-standard/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
