@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Feb 2017 08:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2017 09:10:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CWI, Google announce first collision for Industry Security Standard SHA-1</title>
+      <link>//crypt0.net/post/cwi-google-announce-first-collision-for-industry-security-standard-sha1/</link>
+      <pubDate>Thu, 23 Feb 2017 09:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cwi-google-announce-first-collision-for-industry-security-standard-sha1/</guid>
+      <description>&lt;p&gt;We used the same infrastructure that powers many Google AI projects including Alpha Go and Google Photo as well as Google Cloud&amp;rdquo;. Stevens says: &amp;hellip;  &lt;a href=&#34;https://phys.org/news/2017-02-cwi-google-collision-industry-standard.html&#34; onclick=&#34;trackOutboundLink(&#39;https://phys.org/news/2017-02-cwi-google-collision-industry-standard.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>February 2017 Technology News Roundup for Sudbury</title>
+      <link>//crypt0.net/post/february-2017-technology-news-roundup-for-sudbury/</link>
+      <pubDate>Thu, 23 Feb 2017 09:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/february-2017-technology-news-roundup-for-sudbury/</guid>
+      <description>&lt;p&gt;In a bid to steal some of Microsoft&amp;rsquo;s bread-and-butter business, Google is supporting more and more Windows products on Google Cloud. This month &amp;hellip;  &lt;a href=&#34;http://www.aboutmyarea.co.uk/Suffolk/Sudbury/CO10/News/Local-News/306131-February-2017-Technology-News-Roundup-for-Sudbury&#34; onclick=&#34;trackOutboundLink(&#39;http://www.aboutmyarea.co.uk/Suffolk/Sudbury/CO10/News/Local-News/306131-February-2017-Technology-News-Roundup-for-Sudbury&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Spanner Joins Ranks of ClustrixDB as a Scale-Out ACID RDBMS</title>
+      <link>//crypt0.net/post/google-cloud-spanner-joins-ranks-of-clustrixdb-as-a-scaleout-acid-rdbms/</link>
+      <pubDate>Thu, 23 Feb 2017 09:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-spanner-joins-ranks-of-clustrixdb-as-a-scaleout-acid-rdbms/</guid>
+      <description>&lt;p&gt;Like Clustrix, Google Cloud Spanner leverages 2-Phase Locking, MVCC for transactional commit consistency and Paxos for consensus across &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/google-cloud-spanner-joins-ranks-130000708.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/google-cloud-spanner-joins-ranks-130000708.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Mithi SkyConnect Transitions to the Cloud &amp; Simplifies Mail Service</title>
@@ -149,42 +185,6 @@
       
       <guid>//crypt0.net/post/virginia-cyber-range-names-amazon-web-services-as-preferred-partner/</guid>
       <description>&lt;p&gt;between Amazon Web Services (AWS) and the Virginia Cyber Range that &amp;hellip;  &lt;a href=&#34;http://vtnews.vt.edu/articles/2017/02/it_cyberrange.html&#34; onclick=&#34;trackOutboundLink(&#39;http://vtnews.vt.edu/articles/2017/02/it_cyberrange.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Writing and Responding to Pub/Sub Messages</title>
-      <link>//crypt0.net/post/writing-and-responding-to-pubsub-messages/</link>
-      <pubDate>Wed, 22 Feb 2017 20:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/writing-and-responding-to-pubsub-messages/</guid>
-      <description>&lt;p&gt;messaging between applications. Publisher applications can send messages &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/appengine/docs/flexible/php/writing-and-responding-to-pub-sub-messages&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/appengine/docs/flexible/php/writing-and-responding-to-pub-sub-messages&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft CEO Satya Nadella helps realise Digital India vision with tech</title>
-      <link>//crypt0.net/post/microsoft-ceo-satya-nadella-helps-realise-digital-india-vision-with-tech/</link>
-      <pubDate>Wed, 22 Feb 2017 20:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-ceo-satya-nadella-helps-realise-digital-india-vision-with-tech/</guid>
-      <description>&lt;p&gt;Free Press Journal At the Future Decoded event, Microsoft announced a strategic partnership with Flipkart, where the e-commerce marketplace will adopt Microsoft Azure &amp;hellip;  &lt;a href=&#34;http://www.freepressjournal.in/mumbai/microsoft-ceo-satya-nadella-helps-realise-digital-india-vision-with-tech-push/1023831&#34; onclick=&#34;trackOutboundLink(&#39;http://www.freepressjournal.in/mumbai/microsoft-ceo-satya-nadella-helps-realise-digital-india-vision-with-tech-push/1023831&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What &#39;Chime&#39; is it? Amazon sued over name of its new online conferencing</title>
-      <link>//crypt0.net/post/what-chime-is-it-amazon-sued-over-name-of-its-new-online-conferencing/</link>
-      <pubDate>Wed, 22 Feb 2017 19:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-chime-is-it-amazon-sued-over-name-of-its-new-online-conferencing/</guid>
-      <description>&lt;p&gt;GeekWire A New York-based tech company has filed a federal trademark suit against Amazon Web Services over the name of the cloud giant&amp;rsquo;s newly launched &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/chime-amazon-sued-name-new-online-conferencing-technology/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/chime-amazon-sued-name-new-online-conferencing-technology/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
