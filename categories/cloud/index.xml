@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Feb 2017 09:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2017 10:30:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Go ahead OpenStack, make my bay</title>
+      <link>//crypt0.net/post/go-ahead-openstack-make-my-bay/</link>
+      <pubDate>Thu, 23 Feb 2017 10:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/go-ahead-openstack-make-my-bay/</guid>
+      <description>&lt;p&gt;OpenStack. As I discussed in a previous blog, SUSE OpenStack Cloud &amp;hellip;  &lt;a href=&#34;https://www.suse.com/communities/blog/go-ahead-openstack-make-bay/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.suse.com/communities/blog/go-ahead-openstack-make-bay/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft adds Azure Search tools to UK cloud region</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/google-cloud-opens-access-to-gpus-in-its-data-centers/</guid>
       <description>&lt;p&gt;Google Cloud has expanded functionality of its virtual machines, making them more suitable for GPU-heavy workloads like deep learning and image &amp;hellip;  &lt;a href=&#34;http://www.datacenterdynamics.com/content-tracks/servers-storage/google-cloud-opens-access-to-gpus-in-its-data-centers/97854.fullarticle&#34; onclick=&#34;trackOutboundLink(&#39;http://www.datacenterdynamics.com/content-tracks/servers-storage/google-cloud-opens-access-to-gpus-in-its-data-centers/97854.fullarticle&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Typo in Openstack Dashboard installation for newton</title>
-      <link>//crypt0.net/post/typo-in-openstack-dashboard-installation-for-newton/</link>
-      <pubDate>Thu, 23 Feb 2017 00:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/typo-in-openstack-dashboard-installation-for-newton/</guid>
-      <description>&lt;p&gt;OPENSTACK_KEYSTONE_MULTIDOMAIN_SUPPORT = True in the manual leads to an error in the &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1667229&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1667229&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
