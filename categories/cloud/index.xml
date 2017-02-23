@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Feb 2017 15:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2017 15:10:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Python SDK now supports Azure Managed Disks for a highly scalable</title>
+      <link>//crypt0.net/post/azure-python-sdk-now-supports-azure-managed-disks-for-a-highly-scalable/</link>
+      <pubDate>Thu, 23 Feb 2017 15:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-python-sdk-now-supports-azure-managed-disks-for-a-highly-scalable/</guid>
+      <description>&lt;p&gt;The Azure Python SDK now supports Azure Managed Disks and 1,000 virtual machines (VMs) in a Scale Set. Azure Managed Disks provide simplified &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/02/23/azure-python-sdk-now-supports-azure-managed-disks-for-a-highly-scalable-cloud-service/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/02/23/azure-python-sdk-now-supports-azure-managed-disks-for-a-highly-scalable-cloud-service/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Azure Search launches in UK to help you find what you want, when you want</title>
+      <link>//crypt0.net/post/azure-search-launches-in-uk-to-help-you-find-what-you-want-when-you-want/</link>
+      <pubDate>Thu, 23 Feb 2017 15:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-search-launches-in-uk-to-help-you-find-what-you-want-when-you-want/</guid>
+      <description>&lt;p&gt;after Azure Search was launched in the UK.  &lt;a href=&#34;https://news.microsoft.com/en-gb/2017/02/23/40038/&#34; onclick=&#34;trackOutboundLink(&#39;https://news.microsoft.com/en-gb/2017/02/23/40038/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/hewlett-packard-enterprise-co-nysehpe--tesoro-corporation-nysetso/</guid>
       <description>&lt;p&gt;Daily News Journal (press release) HPE NFV System 1.4 includes as an option HPE Helion OpenStack 4.0, &amp;hellip; requirements, while providing the most recent OpenStack advancements.  &lt;a href=&#34;http://www.journalfinance.net/2017/02/hewlett-packard-enterprise-co-nysehpe-tesoro-corporation-nysetso-watch-list/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.journalfinance.net/2017/02/hewlett-packard-enterprise-co-nysehpe-tesoro-corporation-nysetso-watch-list/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New OpenStack Ocata boosts infrastructure services, container integration</title>
-      <link>//crypt0.net/post/new-openstack-ocata-boosts-infrastructure-services-container-integration/</link>
-      <pubDate>Thu, 23 Feb 2017 11:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/new-openstack-ocata-boosts-infrastructure-services-container-integration/</guid>
-      <description>&lt;p&gt;The OpenStack community released Wednesday Ocata, the 15th version of the most widely deployed open source infrastructure software. The Ocata &amp;hellip;  &lt;a href=&#34;http://wwpi.com/2017/02/23/new-openstack-ocata-boosts-infrastructure-services-container-integration/&#34; onclick=&#34;trackOutboundLink(&#39;http://wwpi.com/2017/02/23/new-openstack-ocata-boosts-infrastructure-services-container-integration/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What You Need To Know About OpenStack</title>
-      <link>//crypt0.net/post/what-you-need-to-know-about-openstack/</link>
-      <pubDate>Thu, 23 Feb 2017 11:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-you-need-to-know-about-openstack/</guid>
-      <description>&lt;p&gt;OpenStack has evolved to a point where it is producing benefits for IT organizations and service providers, but also is surrounded by myths.  &lt;a href=&#34;http://www.informationweek.com/cloud/what-you-need-to-know-about-openstack/a/d-id/1328252?_mc=RSS_IWK_EDT&#34; onclick=&#34;trackOutboundLink(&#39;http://www.informationweek.com/cloud/what-you-need-to-know-about-openstack/a/d-id/1328252?_mc=RSS_IWK_EDT&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
