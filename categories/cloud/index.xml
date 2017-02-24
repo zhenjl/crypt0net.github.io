@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 24 Feb 2017 03:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2017 04:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to easily keep your cloud files private with Rclone</title>
+      <link>//crypt0.net/post/how-to-easily-keep-your-cloud-files-private-with-rclone/</link>
+      <pubDate>Fri, 24 Feb 2017 04:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-easily-keep-your-cloud-files-private-with-rclone/</guid>
+      <description>&lt;p&gt;Rclone can work with Google Drive, Amazon S3, Dropbox, Google Cloud Storage, Amazon Drive, Microsoft One Drive, Hubic, and Backblaze B2, just &amp;hellip;  &lt;a href=&#34;http://www.pcworld.com/article/3170896/linux/how-to-easily-keep-your-cloud-files-private-with-rclone.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcworld.com/article/3170896/linux/how-to-easily-keep-your-cloud-files-private-with-rclone.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Workaround to error: &#39;Tensor&#39; object has no attribute &#39;initializer&#39;</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/ms-azure-to-ship-andhra-data-from-hyderabad-to-visakhapatnam/</guid>
       <description>&lt;p&gt;While transferring the data using Azure Stack, it will be Microsoft&amp;rsquo;s respon sibility to ensure its security. However, Microsoft will not have access to the &amp;hellip;  &lt;a href=&#34;http://timesofindia.indiatimes.com/city/hyderabad/ms-azure-to-ship-andhra-data-from-hyderabad-to-visakhapatnam/articleshow/57323094.cms&#34; onclick=&#34;trackOutboundLink(&#39;http://timesofindia.indiatimes.com/city/hyderabad/ms-azure-to-ship-andhra-data-from-hyderabad-to-visakhapatnam/articleshow/57323094.cms&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tinder, Google Cloud and growth hacking capture startup attention</title>
-      <link>//crypt0.net/post/tinder-google-cloud-and-growth-hacking-capture-startup-attention/</link>
-      <pubDate>Thu, 23 Feb 2017 19:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/tinder-google-cloud-and-growth-hacking-capture-startup-attention/</guid>
-      <description>&lt;p&gt;Tinder, Google Cloud and growth hacking capture startup attention. Fledgling entrepreneurs, investors, and tech leaders share ideas and trade tips &amp;hellip;  &lt;a href=&#34;http://us.blastingnews.com/tech/2017/02/tinder-google-cloud-and-growth-hacking-capture-startup-attention-001497787.html&#34; onclick=&#34;trackOutboundLink(&#39;http://us.blastingnews.com/tech/2017/02/tinder-google-cloud-and-growth-hacking-capture-startup-attention-001497787.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
