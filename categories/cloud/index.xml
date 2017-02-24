@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Feb 2017 21:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2017 22:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Researchers from Google, CTI Break SHA-1 Hash Encryption Function</title>
+      <link>//crypt0.net/post/researchers-from-google-cti-break-sha1-hash-encryption-function/</link>
+      <pubDate>Thu, 23 Feb 2017 22:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/researchers-from-google-cti-break-sha1-hash-encryption-function/</guid>
+      <description>&lt;p&gt;The attack that Google and CTI researchers announced this week harnessed Google&amp;rsquo;s cloud computing infrastructure and was one of the largest &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/security/researchers-from-google-cti-break-sha-1-hash-encryption-function.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/security/researchers-from-google-cti-break-sha-1-hash-encryption-function.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>In Recognition of Digital Learning Day, We&#39;re Shining the Spotlight on VIF</title>
@@ -327,18 +339,6 @@
       
       <guid>//crypt0.net/post/colt-to-provide-connectivity-for-necs-iot-platform/</guid>
       <description>&lt;p&gt;&amp;hellip; network connectivity to the cloud for NEC Networks &amp;amp; System Integration&amp;rsquo;s Internet of Things (IoT) Platform Service, which uses Microsoft Azure.  &lt;a href=&#34;https://www.telecompaper.com/news/colt-to-provide-connectivity-for-necs-iot-platform--1185163&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/colt-to-provide-connectivity-for-necs-iot-platform--1185163&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure Python SDK now supports Azure Managed Disks for a highly scalable</title>
-      <link>//crypt0.net/post/azure-python-sdk-now-supports-azure-managed-disks-for-a-highly-scalable/</link>
-      <pubDate>Thu, 23 Feb 2017 15:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-python-sdk-now-supports-azure-managed-disks-for-a-highly-scalable/</guid>
-      <description>&lt;p&gt;The Azure Python SDK now supports Azure Managed Disks and 1,000 virtual machines (VMs) in a Scale Set. Azure Managed Disks provide simplified &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/02/23/azure-python-sdk-now-supports-azure-managed-disks-for-a-highly-scalable-cloud-service/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/02/23/azure-python-sdk-now-supports-azure-managed-disks-for-a-highly-scalable-cloud-service/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
