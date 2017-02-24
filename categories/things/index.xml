@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 24 Feb 2017 08:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2017 08:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Define your MqTT server instance running into a docker</title>
+      <link>//crypt0.net/post/define-your-mqtt-server-instance-running-into-a-docker/</link>
+      <pubDate>Fri, 24 Feb 2017 08:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/define-your-mqtt-server-instance-running-into-a-docker/</guid>
+      <description>&lt;p&gt;instance running into local docker containter and then deploy in Cloud running &amp;hellip;  &lt;a href=&#34;https://www.ibm.com/developerworks/community/blogs/55382396-b19a-4819-8618-6522a02f2d99/entry/Define_your_MqTT_server_instance_with_docker&#34; onclick=&#34;trackOutboundLink(&#39;https://www.ibm.com/developerworks/community/blogs/55382396-b19a-4819-8618-6522a02f2d99/entry/Define_your_MqTT_server_instance_with_docker&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Old code haunts Cloudflare with memory leak scare</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/sncf-incorporates-internet-of-things-platform-to-improve-customer/</guid>
       <description>&lt;p&gt;European Railway Review French Railways operator SNCF has confirmed it will be using an Internet of Things platform to enhance customer experiences, rail safety and &amp;hellip;  &lt;a href=&#34;https://www.europeanrailwayreview.com/32413/rail-industry-news/sncf-internet-of-things/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.europeanrailwayreview.com/32413/rail-industry-news/sncf-internet-of-things/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ledger Fever: 95 Bitcoin &amp; Blockchain Startups In One Market Map</title>
-      <link>//crypt0.net/post/ledger-fever-95-bitcoin--blockchain-startups-in-one-market-map/</link>
-      <pubDate>Fri, 24 Feb 2017 06:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ledger-fever-95-bitcoin--blockchain-startups-in-one-market-map/</guid>
-      <description>&lt;p&gt;Bitcoin and blockchain companies are popping up in numerous sectors, including financial services, social, intellectual property, and IoT.  &lt;a href=&#34;https://www.cbinsights.com/blog/bitcoin-blockchain-startup-market-map/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cbinsights.com/blog/bitcoin-blockchain-startup-market-map/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
