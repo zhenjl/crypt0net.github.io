@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 24 Feb 2017 08:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2017 08:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Releases Managed Disks, Scale Sets</title>
+      <link>//crypt0.net/post/microsoft-releases-managed-disks-scale-sets/</link>
+      <pubDate>Fri, 24 Feb 2017 08:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-releases-managed-disks-scale-sets/</guid>
+      <description>&lt;p&gt;In an effort to simplify virtual machine (VM) storage and scaling in Azure, Microsoft released two new capabilities. Managed Disks eliminate the need &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2017/02/azure-managed-disks-scale-sets&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2017/02/azure-managed-disks-scale-sets&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>VA Cyber Range Names Amazon Web Services as Preferred Partner</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/fact-or-fiction-openstack-doesnt-fit-with-netapps-hybrid-cloud/</guid>
       <description>&lt;p&gt;Since I&amp;rsquo;ve started as BDM for OpenStack in EMEA, I had the chance &amp;hellip;  &lt;a href=&#34;https://community.netapp.com/t5/Pan-EMEA/Fact-or-Fiction-OpenStack-Doesn-t-Fit-with-NetApp-s-Hybrid-Cloud/ba-p/128397&#34; onclick=&#34;trackOutboundLink(&#39;https://community.netapp.com/t5/Pan-EMEA/Fact-or-Fiction-OpenStack-Doesn-t-Fit-with-NetApp-s-Hybrid-Cloud/ba-p/128397&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Is your AI being handed to you by Google? Try Apache open source  Amazon&#39;s</title>
-      <link>//crypt0.net/post/is-your-ai-being-handed-to-you-by-google-try-apache-open-source--amazons/</link>
-      <pubDate>Fri, 24 Feb 2017 01:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/is-your-ai-being-handed-to-you-by-google-try-apache-open-source--amazons/</guid>
-      <description>&lt;p&gt;The Register It also happens to be the machine learning (ML) tool of choice at Amazon Web Services (AWS) and is available today via ready-to-deploy EC2 &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/02/24/mxnet_goes_apache_why/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/02/24/mxnet_goes_apache_why/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
