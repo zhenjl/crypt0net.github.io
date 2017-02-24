@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Feb 2017 22:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2017 23:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Infrastructure creation failed while deploying hadoop cluster on openstack</title>
+      <link>//crypt0.net/post/infrastructure-creation-failed-while-deploying-hadoop-cluster-on-openstack/</link>
+      <pubDate>Thu, 23 Feb 2017 23:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/infrastructure-creation-failed-while-deploying-hadoop-cluster-on-openstack/</guid>
+      <description>&lt;p&gt;Hi ,. While creating hadoop cluster on openstack cloud using cloudbreak getting below error on UI : 2/22/2017 9:17:57 PM testcloud09 - create in &amp;hellip;  &lt;a href=&#34;https://community.hortonworks.com/questions/85141/infrastructure-creation-failed-while-deploying-had.html&#34; onclick=&#34;trackOutboundLink(&#39;https://community.hortonworks.com/questions/85141/infrastructure-creation-failed-while-deploying-had.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Researchers from Google, CTI Break SHA-1 Hash Encryption Function</title>
@@ -327,18 +339,6 @@
       
       <guid>//crypt0.net/post/veritas-and-microsoft-forge-global-strategic-partnership-for-data/</guid>
       <description>&lt;p&gt;CSO Australia Veritas Technologies and Microsoft today announced a multi-year global, strategic partnership to help organisations use Microsoft Azure to optimise &amp;hellip;  &lt;a href=&#34;http://www.cso.com.au/mediareleases/29127/veritas-and-microsoft-forge-global-strategic/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cso.com.au/mediareleases/29127/veritas-and-microsoft-forge-global-strategic/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Colt to provide connectivity for NEC&#39;s IoT platform</title>
-      <link>//crypt0.net/post/colt-to-provide-connectivity-for-necs-iot-platform/</link>
-      <pubDate>Thu, 23 Feb 2017 15:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/colt-to-provide-connectivity-for-necs-iot-platform/</guid>
-      <description>&lt;p&gt;&amp;hellip; network connectivity to the cloud for NEC Networks &amp;amp; System Integration&amp;rsquo;s Internet of Things (IoT) Platform Service, which uses Microsoft Azure.  &lt;a href=&#34;https://www.telecompaper.com/news/colt-to-provide-connectivity-for-necs-iot-platform--1185163&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/colt-to-provide-connectivity-for-necs-iot-platform--1185163&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
