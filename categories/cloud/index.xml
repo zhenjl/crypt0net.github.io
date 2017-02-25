@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 24 Feb 2017 19:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2017 20:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>53 new things to look for in OpenStack Ocata</title>
+      <link>//crypt0.net/post/53-new-things-to-look-for-in-openstack-ocata/</link>
+      <pubDate>Fri, 24 Feb 2017 20:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/53-new-things-to-look-for-in-openstack-ocata/</guid>
+      <description>&lt;p&gt;53 new features of interest in OpenStack Ocata, but with so many projects &amp;hellip;  &lt;a href=&#34;https://www.mirantis.com/blog/53-new-things-to-look-for-in-openstack-ocata/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/53-new-things-to-look-for-in-openstack-ocata/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bug #1667557 OPENSTACK_KEYSTONE_URL and AVAILABLE_REGIONS are n...</title>
@@ -312,18 +324,6 @@
       
       <guid>//crypt0.net/post/iaas-the-next-chapter-in-cloud-security/</guid>
       <description>&lt;p&gt;While in the past we have thought of startups and cloud service providers as the companies dealing with AWS, Azure, or Google Cloud Platform &amp;hellip;  &lt;a href=&#34;http://www.darkreading.com/cloud/iaas-the-next-chapter-in-cloud-security/a/d-id/1328202&#34; onclick=&#34;trackOutboundLink(&#39;http://www.darkreading.com/cloud/iaas-the-next-chapter-in-cloud-security/a/d-id/1328202&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How Microsoft Edge security features protect you from browser-based</title>
-      <link>//crypt0.net/post/how-microsoft-edge-security-features-protect-you-from-browserbased/</link>
-      <pubDate>Fri, 24 Feb 2017 12:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-microsoft-edge-security-features-protect-you-from-browserbased/</guid>
-      <description>&lt;p&gt;In a two-part series, the Windows Blog looks at security features in Microsoft Edge, &amp;hellip; Microsoft Azure is now generally available from two new cloud   &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/02/24/how-microsoft-edge-security-features-protect-you-from-browser-based-vulnerabilities/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/02/24/how-microsoft-edge-security-features-protect-you-from-browser-based-vulnerabilities/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
