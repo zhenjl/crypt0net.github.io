@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 24 Feb 2017 16:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2017 16:20:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Get started with OpenStack in Administrator Guide</title>
+      <link>//crypt0.net/post/get-started-with-openstack-in-administrator-guide/</link>
+      <pubDate>Fri, 24 Feb 2017 16:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/get-started-with-openstack-in-administrator-guide/</guid>
+      <description>&lt;p&gt;Get started with OpenStack page lacks some major OpenStack services. I&amp;rsquo;d like to &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1667837&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1667837&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>google-cloud-dns 0.23.0</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/azure-stack-appliance-choices-widen-as-pricing-questions-linger/</guid>
       <description>&lt;p&gt;Customers should get answers very soon about the types of programs and contract terms for Microsoft Azure Stack, the hybrid cloud product that &amp;hellip;  &lt;a href=&#34;http://searchdatacenter.techtarget.com/news/450413752/Azure-Stack-appliance-choices-widen-as-pricing-questions-linger&#34; onclick=&#34;trackOutboundLink(&#39;http://searchdatacenter.techtarget.com/news/450413752/Azure-Stack-appliance-choices-widen-as-pricing-questions-linger&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Get started with the Azure API Management service</title>
-      <link>//crypt0.net/post/get-started-with-the-azure-api-management-service/</link>
-      <pubDate>Fri, 24 Feb 2017 09:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/get-started-with-the-azure-api-management-service/</guid>
-      <description>&lt;p&gt;Microsoft previewed API capabilities on ARM in November 2016, and made it generally available in December. After April 3, 2017, the Azure API &amp;hellip;  &lt;a href=&#34;http://searchcloudcomputing.techtarget.com/tip/Get-started-with-the-Azure-API-Management-service&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudcomputing.techtarget.com/tip/Get-started-with-the-Azure-API-Management-service&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
