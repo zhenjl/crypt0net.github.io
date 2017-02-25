@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 24 Feb 2017 15:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2017 16:10:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>google-cloud-dns 0.23.0</title>
+      <link>//crypt0.net/post/googleclouddns-0230/</link>
+      <pubDate>Fri, 24 Feb 2017 16:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/googleclouddns-0230/</guid>
+      <description>&lt;p&gt;possible. Check out the Authentication section in our documentation to learn &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/google-cloud-dns/0.23.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/google-cloud-dns/0.23.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Using data science to resolve global challenges</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/get-started-with-the-azure-api-management-service/</guid>
       <description>&lt;p&gt;Microsoft previewed API capabilities on ARM in November 2016, and made it generally available in December. After April 3, 2017, the Azure API &amp;hellip;  &lt;a href=&#34;http://searchcloudcomputing.techtarget.com/tip/Get-started-with-the-Azure-API-Management-service&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudcomputing.techtarget.com/tip/Get-started-with-the-Azure-API-Management-service&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google cloud debuts Intel&#39;s latest Skylake processors</title>
-      <link>//crypt0.net/post/google-cloud-debuts-intels-latest-skylake-processors/</link>
-      <pubDate>Fri, 24 Feb 2017 08:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-debuts-intels-latest-skylake-processors/</guid>
-      <description>&lt;p&gt;Google today announced that it is the first IaaS public cloud provider to run the newest version of Intel&amp;rsquo;s chips, named Skylake. The news comes just &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3173995/cloud-computing/google-cloud-debuts-intel-s-latest-skylake-processors.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3173995/cloud-computing/google-cloud-debuts-intel-s-latest-skylake-processors.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
