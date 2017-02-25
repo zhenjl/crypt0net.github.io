@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 24 Feb 2017 18:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2017 19:30:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1667557 OPENSTACK_KEYSTONE_URL and AVAILABLE_REGIONS are n...</title>
+      <link>//crypt0.net/post/bug-1667557-openstackkeystoneurl-and-availableregions-are-n/</link>
+      <pubDate>Fri, 24 Feb 2017 19:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1667557-openstackkeystoneurl-and-availableregions-are-n/</guid>
+      <description>&lt;p&gt;the settings don&amp;rsquo;t define both OPENSTACK_KEYSTONE_URL and &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1667557&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1667557&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Apple&#39;s &#39;Spaceship&#39; Headquarters Schedule to Open in April</title>
@@ -312,18 +324,6 @@
       
       <guid>//crypt0.net/post/how-microsoft-edge-security-features-protect-you-from-browserbased/</guid>
       <description>&lt;p&gt;In a two-part series, the Windows Blog looks at security features in Microsoft Edge, &amp;hellip; Microsoft Azure is now generally available from two new cloud   &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/02/24/how-microsoft-edge-security-features-protect-you-from-browser-based-vulnerabilities/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/02/24/how-microsoft-edge-security-features-protect-you-from-browser-based-vulnerabilities/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google announces Intel Xeon Skylake processors availability for its Cloud</title>
-      <link>//crypt0.net/post/google-announces-intel-xeon-skylake-processors-availability-for-its-cloud/</link>
-      <pubDate>Fri, 24 Feb 2017 11:50:08 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-announces-intel-xeon-skylake-processors-availability-for-its-cloud/</guid>
-      <description>&lt;p&gt;Neowin Google announced in a blog post today the availability of the next generation Intel Xeon processor, known as Skylake, for the Google Cloud Platform.  &lt;a href=&#34;https://www.neowin.net/news/google-announces-intel-xeon-skylake-processors-availability-for-its-cloud-platform&#34; onclick=&#34;trackOutboundLink(&#39;https://www.neowin.net/news/google-announces-intel-xeon-skylake-processors-availability-for-its-cloud-platform&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
