@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 25 Feb 2017 19:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Feb 2017 19:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1667965 openstack-panko-api is not installed during Newton...</title>
+      <link>//crypt0.net/post/bug-1667965-openstackpankoapi-is-not-installed-during-newton/</link>
+      <pubDate>Sat, 25 Feb 2017 19:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1667965-openstackpankoapi-is-not-installed-during-newton/</guid>
+      <description>&lt;p&gt;upgrade proces fails with: Error: Could not set &amp;lsquo;present&amp;rsquo; on ensure: No &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1667965&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1667965&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tutorial against MS Azure - Images broken</title>
@@ -207,18 +219,6 @@
       
       <guid>//crypt0.net/post/apples-spaceship-headquarters-schedule-to-open-in-april/</guid>
       <description>&lt;p&gt;&amp;hellip; tests delivery trucks equipped with drones as efficiency booster; GPU support becomes available for Google Cloud customers; and there&amp;rsquo;s more.  &lt;a href=&#34;http://www.eweek.com/video/apples-spaceship-headquarters-schedule-to-open-in-april.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/video/apples-spaceship-headquarters-schedule-to-open-in-april.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OpenStack as part of the telecom virtualization journey  NFV/SDN Reality</title>
-      <link>//crypt0.net/post/openstack-as-part-of-the-telecom-virtualization-journey--nfvsdn-reality/</link>
-      <pubDate>Fri, 24 Feb 2017 18:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-as-part-of-the-telecom-virtualization-journey--nfvsdn-reality/</guid>
-      <description>&lt;p&gt;RCR Wireless News Canonical expands on the impact and potential for telecommunication operators that have embraced OpenStack as part of their virtualization plans.  &lt;a href=&#34;http://www.rcrwireless.com/rcrtv/openstack-as-part-of-the-telecom-virtualization-journey-nfvsdn-reality-check-ep-92-tag2&#34; onclick=&#34;trackOutboundLink(&#39;http://www.rcrwireless.com/rcrtv/openstack-as-part-of-the-telecom-virtualization-journey-nfvsdn-reality-check-ep-92-tag2&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
