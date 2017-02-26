@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 25 Feb 2017 22:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Feb 2017 23:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1667989 Open vSwitch: Self-service networks in Networking ...</title>
+      <link>//crypt0.net/post/bug-1667989-open-vswitch-selfservice-networks-in-networking-/</link>
+      <pubDate>Sat, 25 Feb 2017 23:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1667989-open-vswitch-selfservice-networks-in-networking-/</guid>
+      <description>&lt;p&gt;&amp;ldquo;east-west&amp;rdquo; scenario from part &amp;ldquo;East-west scenario 1: Instances on the same network&amp;rdquo;.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1667989&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1667989&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft, Azure Networking - Subscription license (1 month) - 200 reserved</title>
@@ -207,18 +219,6 @@
       
       <guid>//crypt0.net/post/53-new-things-to-look-for-in-openstack-ocata/</guid>
       <description>&lt;p&gt;53 new features of interest in OpenStack Ocata, but with so many projects &amp;hellip;  &lt;a href=&#34;https://www.mirantis.com/blog/53-new-things-to-look-for-in-openstack-ocata/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/53-new-things-to-look-for-in-openstack-ocata/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bug #1667557 OPENSTACK_KEYSTONE_URL and AVAILABLE_REGIONS are n...</title>
-      <link>//crypt0.net/post/bug-1667557-openstackkeystoneurl-and-availableregions-are-n/</link>
-      <pubDate>Fri, 24 Feb 2017 19:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1667557-openstackkeystoneurl-and-availableregions-are-n/</guid>
-      <description>&lt;p&gt;the settings don&amp;rsquo;t define both OPENSTACK_KEYSTONE_URL and &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1667557&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1667557&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
