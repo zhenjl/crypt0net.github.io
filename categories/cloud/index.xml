@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 26 Feb 2017 20:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Feb 2017 22:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google trumpets cloudy Skylake silicon nobody else is running</title>
+      <link>//crypt0.net/post/google-trumpets-cloudy-skylake-silicon-nobody-else-is-running/</link>
+      <pubDate>Sun, 26 Feb 2017 22:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-trumpets-cloudy-skylake-silicon-nobody-else-is-running/</guid>
+      <description>&lt;p&gt;Remember when PC or server-makers would breathlessly announce they&amp;rsquo;d just become the first, the very first, to get their hands on some new silicon &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/02/27/google_cloud_offers_skylake_xeon_avx_512/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/02/27/google_cloud_offers_skylake_xeon_avx_512/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Using On-Premises Azure Backup Instant File Recovery</title>
@@ -204,18 +216,6 @@
       
       <guid>//crypt0.net/post/bug-1667965-openstackpankoapi-is-not-installed-during-newton/</guid>
       <description>&lt;p&gt;upgrade proces fails with: Error: Could not set &amp;lsquo;present&amp;rsquo; on ensure: No &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1667965&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1667965&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tutorial against MS Azure - Images broken</title>
-      <link>//crypt0.net/post/tutorial-against-ms-azure--images-broken/</link>
-      <pubDate>Sat, 25 Feb 2017 19:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/tutorial-against-ms-azure--images-broken/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://hortonworks.com/hadoop-tutorial/deploying-hortonworks-sandbox-on-mi&#34;&gt;https://hortonworks.com/hadoop-tutorial/deploying-hortonworks-sandbox-on-mi&lt;/a&gt; crosoft-azure/ are broken.  &lt;a href=&#34;https://community.hortonworks.com/questions/85666/tutorial-against-ms-azure-images-broken.html&#34; onclick=&#34;trackOutboundLink(&#39;https://community.hortonworks.com/questions/85666/tutorial-against-ms-azure-images-broken.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
