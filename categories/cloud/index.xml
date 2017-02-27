@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 26 Feb 2017 23:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Feb 2017 23:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to Configure a Citrix XenApp 7.11 Server in Azure ARM</title>
+      <link>//crypt0.net/post/how-to-configure-a-citrix-xenapp-711-server-in-azure-arm/</link>
+      <pubDate>Sun, 26 Feb 2017 23:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-configure-a-citrix-xenapp-711-server-in-azure-arm/</guid>
+      <description>&lt;p&gt;Since the release of Citrix latest XenDesktop/XenApp version 7.11 the software became supported for the Microsoft Azure Resource Manager platform &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/how-to-configure-a-citrix-xenapp-7-11-server-in-azure-arm/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/how-to-configure-a-citrix-xenapp-7-11-server-in-azure-arm/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google&#39;s thoughts on the direction the cloud drifting towards</title>
@@ -204,18 +216,6 @@
       
       <guid>//crypt0.net/post/bug-1667989-open-vswitch-selfservice-networks-in-networking-/</guid>
       <description>&lt;p&gt;&amp;ldquo;east-west&amp;rdquo; scenario from part &amp;ldquo;East-west scenario 1: Instances on the same network&amp;rdquo;.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1667989&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1667989&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft, Azure Networking - Subscription license (1 month) - 200 reserved</title>
-      <link>//crypt0.net/post/microsoft-azure-networking--subscription-license-1-month--200-reserved/</link>
-      <pubDate>Sat, 25 Feb 2017 22:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-networking--subscription-license-1-month--200-reserved/</guid>
-      <description>&lt;p&gt;Microsoft Azure is a cloud platform: a growing collection of integrated services - compute, storage, data, networking, and app - that help you move &amp;hellip;  &lt;a href=&#34;http://www.pcm.com/p/Microsoft-Graphics-&amp;-Development-Software-Licensing-w/-Maint/product~dpno~13243288~pdp.iiffjbg&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcm.com/p/Microsoft-Graphics-&amp;-Development-Software-Licensing-w/-Maint/product~dpno~13243288~pdp.iiffjbg&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
