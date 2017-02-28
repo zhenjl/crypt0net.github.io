@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 27 Feb 2017 19:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Feb 2017 19:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Certificate name mismatch on Google Cloud Load Balancer</title>
+      <link>//crypt0.net/post/certificate-name-mismatch-on-google-cloud-load-balancer/</link>
+      <pubDate>Mon, 27 Feb 2017 19:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/certificate-name-mismatch-on-google-cloud-load-balancer/</guid>
+      <description>&lt;p&gt;Balancer. What I did: 1) Create a manual certificate with the lovely certbot: &amp;hellip;  &lt;a href=&#34;https://community.letsencrypt.org/t/certificate-name-mismatch-on-google-cloud-load-balancer/28806&#34; onclick=&#34;trackOutboundLink(&#39;https://community.letsencrypt.org/t/certificate-name-mismatch-on-google-cloud-load-balancer/28806&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Brown Advisory Inc. Increases Stake in Iridium Communications Inc</title>
@@ -445,18 +457,6 @@
       <description>&lt;p&gt;Data Economy  From Cirque du Soleil to Facebook, Microsoft and Alibaba, Rackspace&amp;rsquo;s &amp;hellip; Microsoft Azure, OpenStack and VMware, along with dedicated servers.  &lt;a href=&#34;https://data-economy.com/cirque-du-soleil-facebook-microsoft-alibaba-rackspaces-board-directors-lands-big-names/&#34; onclick=&#34;trackOutboundLink(&#39;https://data-economy.com/cirque-du-soleil-facebook-microsoft-alibaba-rackspaces-board-directors-lands-big-names/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>500 Startups-backed blockchain analytics startup acquired</title>
-      <link>//crypt0.net/post/500-startupsbacked-blockchain-analytics-startup-acquired/</link>
-      <pubDate>Mon, 27 Feb 2017 17:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/500-startupsbacked-blockchain-analytics-startup-acquired/</guid>
-      <description>&lt;p&gt;500 Startups-backed blockchain analytics startup Skry is being acquired by Chicago-based Bloq. It&amp;rsquo;s Bloq&amp;rsquo;s first major acquisition since its launch in &amp;hellip;  &lt;a href=&#34;http://www.bizjournals.com/sanjose/news/2017/02/27/500-startups-backed-blockchain-analytics-startup.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bizjournals.com/sanjose/news/2017/02/27/500-startups-backed-blockchain-analytics-startup.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

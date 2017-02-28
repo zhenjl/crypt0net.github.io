@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 27 Feb 2017 19:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Feb 2017 19:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Certificate name mismatch on Google Cloud Load Balancer</title>
+      <link>//crypt0.net/post/certificate-name-mismatch-on-google-cloud-load-balancer/</link>
+      <pubDate>Mon, 27 Feb 2017 19:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/certificate-name-mismatch-on-google-cloud-load-balancer/</guid>
+      <description>&lt;p&gt;Balancer. What I did: 1) Create a manual certificate with the lovely certbot: &amp;hellip;  &lt;a href=&#34;https://community.letsencrypt.org/t/certificate-name-mismatch-on-google-cloud-load-balancer/28806&#34; onclick=&#34;trackOutboundLink(&#39;https://community.letsencrypt.org/t/certificate-name-mismatch-on-google-cloud-load-balancer/28806&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The complete walkthrough of Microsoft Azure cloud services</title>
@@ -255,18 +267,6 @@
       
       <guid>//crypt0.net/post/nimble-storage-launches-service-so-enterprises-can-hop-between-aws/</guid>
       <description>&lt;p&gt;ZDNet Nimble Storage rolled out a service, called Cloud Volumes, that&amp;rsquo;s designed to run applications across Microsoft Azure and Amazon Web Services with &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/nimble-storage-launches-service-so-enterprises-can-hop-between-aws-microsoft-azure/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/nimble-storage-launches-service-so-enterprises-can-hop-between-aws-microsoft-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Parallels Showcases Simplified IT, Mobility, and Productivity Benefits of</title>
-      <link>//crypt0.net/post/parallels-showcases-simplified-it-mobility-and-productivity-benefits-of/</link>
-      <pubDate>Mon, 27 Feb 2017 17:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/parallels-showcases-simplified-it-mobility-and-productivity-benefits-of/</guid>
-      <description>&lt;p&gt;Business Wire (press release) Microsoft Azure brings even more cost savings and simplicity to our solution, enabling SMBs to install Parallels RAS and deploy virtual desktops and &amp;hellip;  &lt;a href=&#34;http://www.businesswire.com/news/home/20170227005431/en/Parallels-Showcases-Simplified-Mobility-Productivity-Benefits-Parallels&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20170227005431/en/Parallels-Showcases-Simplified-Mobility-Productivity-Benefits-Parallels&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
