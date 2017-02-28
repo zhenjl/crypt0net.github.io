@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 27 Feb 2017 21:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Feb 2017 21:10:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Command Line 2.0 now generally available</title>
+      <link>//crypt0.net/post/azure-command-line-20-now-generally-available/</link>
+      <pubDate>Mon, 27 Feb 2017 21:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-command-line-20-now-generally-available/</guid>
+      <description>&lt;p&gt;production, with full support by Microsoft both through our Azure &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/announcing-general-availability-of-vm-storage-and-network-azure-cli-2-0/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/announcing-general-availability-of-vm-storage-and-network-azure-cli-2-0/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>3 Internet of Things Stocks That Could Double Your Money</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/the-complete-walkthrough-of-microsoft-azure-cloud-services/</guid>
       <description>&lt;p&gt;out hands-on exercises of key services.  &lt;a href=&#34;https://www.udemy.com/the-complete-walkthrough-of-microsoft-azure-services/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.udemy.com/the-complete-walkthrough-of-microsoft-azure-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>azure-cli-nspkg 2.0.0</title>
-      <link>//crypt0.net/post/azureclinspkg-200/</link>
-      <pubDate>Mon, 27 Feb 2017 19:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azureclinspkg-200/</guid>
-      <description>&lt;p&gt;namespace package. This package is not intended to be installed directly by &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/azure-cli-nspkg/2.0.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/azure-cli-nspkg/2.0.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
