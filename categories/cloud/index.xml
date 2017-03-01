@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 28 Feb 2017 23:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2017 00:10:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
+      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
+      <pubDate>Wed, 01 Mar 2017 00:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
+      <description>&lt;p&gt;Google cloud. After about 20 min of training, I tried to validate the model, but &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/29411/mixture-of-experts-model?forumMessageId=164444&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/29411/mixture-of-experts-model?forumMessageId=164444&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>update: all is well in cyber space, amazon web services outage has ended</title>
+      <link>//crypt0.net/post/update-all-is-well-in-cyber-space-amazon-web-services-outage-has-ended/</link>
+      <pubDate>Wed, 01 Mar 2017 00:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/update-all-is-well-in-cyber-space-amazon-web-services-outage-has-ended/</guid>
+      <description>&lt;p&gt;computing services, suffered an unspecified breakdown in its eastern U.S. &amp;hellip;  &lt;a href=&#34;http://www.iheartradio.ca/newstalk-1010/news/update-all-is-well-in-cyber-space-amazon-web-services-outage-has-ended-1.2436133&#34; onclick=&#34;trackOutboundLink(&#39;http://www.iheartradio.ca/newstalk-1010/news/update-all-is-well-in-cyber-space-amazon-web-services-outage-has-ended-1.2436133&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>deprecation of use_neutron option breaks ostf</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/with-azure-container-service-microsoft-works-to-make-container-management/</guid>
       <description>&lt;p&gt;Linux.com (blog) Burns moved from Google to Microsoft seven months ago to run ACS with the vision of turning it into a really managed service that can deliver not &amp;hellip;  &lt;a href=&#34;https://www.linux.com/news/azure-container-service-microsoft-works-make-container-management-boring&#34; onclick=&#34;trackOutboundLink(&#39;https://www.linux.com/news/azure-container-service-microsoft-works-make-container-management-boring&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A flaw in a little-known Amazon service is causing havoc across the web</title>
-      <link>//crypt0.net/post/a-flaw-in-a-littleknown-amazon-service-is-causing-havoc-across-the-web/</link>
-      <pubDate>Tue, 28 Feb 2017 20:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/a-flaw-in-a-littleknown-amazon-service-is-causing-havoc-across-the-web/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s not a household name for most consumers, but Amazon Web Services plays a huge role on the web  and as I write this, parts of the service aren&amp;rsquo;t &amp;hellip;  &lt;a href=&#34;http://www.vox.com/new-money/2017/2/28/14765490/aws-s3-amazon-outage&#34; onclick=&#34;trackOutboundLink(&#39;http://www.vox.com/new-money/2017/2/28/14765490/aws-s3-amazon-outage&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google says its CDN Interconnect ecosystem has grown to 8 providers</title>
-      <link>//crypt0.net/post/google-says-its-cdn-interconnect-ecosystem-has-grown-to-8-providers/</link>
-      <pubDate>Tue, 28 Feb 2017 20:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-says-its-cdn-interconnect-ecosystem-has-grown-to-8-providers/</guid>
-      <description>&lt;p&gt;Google this evening has announced that with the general availability of Google Cloud CDN, it has expanded the number of CDNs in the ecosystem to &amp;hellip;  &lt;a href=&#34;https://9to5google.com/2017/02/28/google-cdn-interconnect-8/&#34; onclick=&#34;trackOutboundLink(&#39;https://9to5google.com/2017/02/28/google-cdn-interconnect-8/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
