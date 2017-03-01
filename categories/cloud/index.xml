@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 01 Mar 2017 00:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2017 02:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Under Octata&#39;s covers: Resource management, scheduling, containers</title>
+      <link>//crypt0.net/post/under-octatas-covers-resource-management-scheduling-containers/</link>
+      <pubDate>Wed, 01 Mar 2017 02:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/under-octatas-covers-resource-management-scheduling-containers/</guid>
+      <description>&lt;p&gt;Interview Last week, OpenStack took the covers off its Ocata release. Today, The Register spoke to OpenStack foundation executive director Jonathan &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/03/01/under_octata_deep_dive/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/03/01/under_octata_deep_dive/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Change is Everywhere! How an OpenStack Cloud Can Help You Deal With It.</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/azure-functions-process-events-with-a-serverless-code-architecture/</guid>
       <description>&lt;p&gt;Azure Functions: Process Events With a Serverless Code Architecture &amp;hellip; Microsoft offers us a web editor to edit our functions directly in the browser, &amp;hellip;  &lt;a href=&#34;https://dzone.com/articles/azure-functions-process-events-with-a-serverless-code-architecture&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/azure-functions-process-events-with-a-serverless-code-architecture&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon&#39;s AWS storage crashed in the middle of an AWSome conference</title>
-      <link>//crypt0.net/post/amazons-aws-storage-crashed-in-the-middle-of-an-awsome-conference/</link>
-      <pubDate>Tue, 28 Feb 2017 21:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazons-aws-storage-crashed-in-the-middle-of-an-awsome-conference/</guid>
-      <description>&lt;p&gt;&amp;hellip; so the fact that it holds frequent conferences celebrating and educating people about Amazon Web Services (AWS) isn&amp;rsquo;t particularly odd. But for one &amp;hellip;  &lt;a href=&#34;http://bgr.com/2017/02/28/internet-outage-amazon-awsome-day-aws/&#34; onclick=&#34;trackOutboundLink(&#39;http://bgr.com/2017/02/28/internet-outage-amazon-awsome-day-aws/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
