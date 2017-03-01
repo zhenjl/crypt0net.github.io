@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 28 Feb 2017 20:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2017 20:20:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A flaw in a little-known Amazon service is causing havoc across the web</title>
+      <link>//crypt0.net/post/a-flaw-in-a-littleknown-amazon-service-is-causing-havoc-across-the-web/</link>
+      <pubDate>Tue, 28 Feb 2017 20:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/a-flaw-in-a-littleknown-amazon-service-is-causing-havoc-across-the-web/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s not a household name for most consumers, but Amazon Web Services plays a huge role on the web  and as I write this, parts of the service aren&amp;rsquo;t &amp;hellip;  &lt;a href=&#34;http://www.vox.com/new-money/2017/2/28/14765490/aws-s3-amazon-outage&#34; onclick=&#34;trackOutboundLink(&#39;http://www.vox.com/new-money/2017/2/28/14765490/aws-s3-amazon-outage&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google says its CDN Interconnect ecosystem has grown to 8 providers</title>
+      <link>//crypt0.net/post/google-says-its-cdn-interconnect-ecosystem-has-grown-to-8-providers/</link>
+      <pubDate>Tue, 28 Feb 2017 20:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-says-its-cdn-interconnect-ecosystem-has-grown-to-8-providers/</guid>
+      <description>&lt;p&gt;Google this evening has announced that with the general availability of Google Cloud CDN, it has expanded the number of CDNs in the ecosystem to &amp;hellip;  &lt;a href=&#34;https://9to5google.com/2017/02/28/google-cdn-interconnect-8/&#34; onclick=&#34;trackOutboundLink(&#39;https://9to5google.com/2017/02/28/google-cdn-interconnect-8/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Web Services goes down, taking swaths of internet with it</title>
@@ -267,30 +291,6 @@
       
       <guid>//crypt0.net/post/massive-east-coast-internet-outage-pinned-on-amazon-cloud-failure/</guid>
       <description>&lt;p&gt;Amazon Web Services is the cloud services arm of Amazon, and its Amazon Simple Storage Service (S3) is used by everyone from Netflix to Reddit.  &lt;a href=&#34;http://www.zerohedge.com/news/2017-02-28/amazon-cloud-reporting-increased-error-rates-secgov-possibly-impacted&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zerohedge.com/news/2017-02-28/amazon-cloud-reporting-increased-error-rates-secgov-possibly-impacted&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure AD Monitoring Features Hit Prime Time</title>
-      <link>//crypt0.net/post/azure-ad-monitoring-features-hit-prime-time/</link>
-      <pubDate>Tue, 28 Feb 2017 16:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-ad-monitoring-features-hit-prime-time/</guid>
-      <description>&lt;p&gt;A pair of Azure Active Directory monitoring capabilities are now out of the preview stage. Microsoft on Monday announced the general availability of &amp;hellip;  &lt;a href=&#34;https://rcpmag.com/articles/2017/02/28/azure-ad-monitoring-features.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://rcpmag.com/articles/2017/02/28/azure-ad-monitoring-features.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Announces Killer New Services, Office 365 Subscribers Can</title>
-      <link>//crypt0.net/post/microsoft-azure-announces-killer-new-services-office-365-subscribers-can/</link>
-      <pubDate>Tue, 28 Feb 2017 15:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-announces-killer-new-services-office-365-subscribers-can/</guid>
-      <description>&lt;p&gt;University Herald Microsoft Azure Cloud is getting some big lift this week as Microsoft announced some great news for Azure customers. The company is adding some &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/67136/20170228/microsoft-azure-azure-computing-cloud-computing-it-computers-enterprise-azure-active-directory-software-azure-news-microsoft-developers-developers-azure-developers-devops.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/67136/20170228/microsoft-azure-azure-computing-cloud-computing-it-computers-enterprise-azure-active-directory-software-azure-news-microsoft-developers-developers-azure-developers-devops.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
