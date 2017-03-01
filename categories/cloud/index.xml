@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 01 Mar 2017 02:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2017 03:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure puts weight behind Ethereum</title>
+      <link>//crypt0.net/post/microsoft-azure-puts-weight-behind-ethereum/</link>
+      <pubDate>Wed, 01 Mar 2017 03:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-puts-weight-behind-ethereum/</guid>
+      <description>&lt;p&gt;Ethereum was the first blockchain supported in Azure and it is evolving to address the needs of enterprises globally. Focusing on requirements like &amp;hellip;  &lt;a href=&#34;https://www.finextra.com/pressarticle/68251/microsoft-azure-puts-weight-behind-ethereum&#34; onclick=&#34;trackOutboundLink(&#39;https://www.finextra.com/pressarticle/68251/microsoft-azure-puts-weight-behind-ethereum&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Under Octata&#39;s covers: Resource management, scheduling, containers</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/google-beefing-up-technology-for-school-district/</guid>
       <description>&lt;p&gt;&amp;hellip; Education Service District provided and continues to provide Internet service to the district, but the district&amp;rsquo;s emails are stored in Google&amp;rsquo;s cloud.  &lt;a href=&#34;http://sweethomenews.com/google-beefing-up-technology-for-school-district-p7492-1.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://sweethomenews.com/google-beefing-up-technology-for-school-district-p7492-1.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure Functions: Process Events With a Serverless Code Architecture</title>
-      <link>//crypt0.net/post/azure-functions-process-events-with-a-serverless-code-architecture/</link>
-      <pubDate>Tue, 28 Feb 2017 21:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-functions-process-events-with-a-serverless-code-architecture/</guid>
-      <description>&lt;p&gt;Azure Functions: Process Events With a Serverless Code Architecture &amp;hellip; Microsoft offers us a web editor to edit our functions directly in the browser, &amp;hellip;  &lt;a href=&#34;https://dzone.com/articles/azure-functions-process-events-with-a-serverless-code-architecture&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/azure-functions-process-events-with-a-serverless-code-architecture&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
