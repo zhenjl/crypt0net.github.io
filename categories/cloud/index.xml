@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 01 Mar 2017 20:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2017 21:00:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bouncing Back To Private Clouds With OpenStack</title>
+      <link>//crypt0.net/post/bouncing-back-to-private-clouds-with-openstack/</link>
+      <pubDate>Wed, 01 Mar 2017 21:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bouncing-back-to-private-clouds-with-openstack/</guid>
+      <description>&lt;p&gt;Some companies, say the folks that run the OpenStack project, are ricocheting back from the public cloud to build their own private cloud analogues, &amp;hellip;  &lt;a href=&#34;https://www.nextplatform.com/2017/03/01/bouncing-back-private-clouds-openstack/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.nextplatform.com/2017/03/01/bouncing-back-private-clouds-openstack/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Enterprise Alliance Formed By Microsoft, Intel, UBS, Secures Support of ETH</title>
@@ -267,18 +279,6 @@
       
       <guid>//crypt0.net/post/microsoft-azure-puts-weight-behind-ethereum/</guid>
       <description>&lt;p&gt;Ethereum was the first blockchain supported in Azure and it is evolving to address the needs of enterprises globally. Focusing on requirements like &amp;hellip;  &lt;a href=&#34;https://www.finextra.com/pressarticle/68251/microsoft-azure-puts-weight-behind-ethereum&#34; onclick=&#34;trackOutboundLink(&#39;https://www.finextra.com/pressarticle/68251/microsoft-azure-puts-weight-behind-ethereum&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Under Octata&#39;s covers: Resource management, scheduling, containers</title>
-      <link>//crypt0.net/post/under-octatas-covers-resource-management-scheduling-containers/</link>
-      <pubDate>Wed, 01 Mar 2017 02:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/under-octatas-covers-resource-management-scheduling-containers/</guid>
-      <description>&lt;p&gt;Interview Last week, OpenStack took the covers off its Ocata release. Today, The Register spoke to OpenStack foundation executive director Jonathan &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/03/01/under_octata_deep_dive/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/03/01/under_octata_deep_dive/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
