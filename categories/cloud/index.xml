@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 01 Mar 2017 18:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2017 19:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Internet outages sparked by Amazon web services errors</title>
+      <link>//crypt0.net/post/internet-outages-sparked-by-amazon-web-services-errors/</link>
+      <pubDate>Wed, 01 Mar 2017 19:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/internet-outages-sparked-by-amazon-web-services-errors/</guid>
+      <description>&lt;p&gt;Jeff Bezos, the founder and CEO of Amazon.com, whose Amazon Web Services reported &amp;ldquo;high error rates&amp;rdquo; with its S3 service. SUSAN WALSH.  &lt;a href=&#34;http://www.afr.com/technology/cloud-computing/internet-outages-sparked-by-amazon-web-services-errors-20170301-guol79&#34; onclick=&#34;trackOutboundLink(&#39;http://www.afr.com/technology/cloud-computing/internet-outages-sparked-by-amazon-web-services-errors-20170301-guol79&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>No, It&#39;s Not Time to Treat Amazon as a Monopoly</title>
@@ -267,18 +279,6 @@
       
       <guid>//crypt0.net/post/update-all-is-well-in-cyber-space-amazon-web-services-outage-has-ended/</guid>
       <description>&lt;p&gt;computing services, suffered an unspecified breakdown in its eastern U.S. &amp;hellip;  &lt;a href=&#34;http://www.iheartradio.ca/newstalk-1010/news/update-all-is-well-in-cyber-space-amazon-web-services-outage-has-ended-1.2436133&#34; onclick=&#34;trackOutboundLink(&#39;http://www.iheartradio.ca/newstalk-1010/news/update-all-is-well-in-cyber-space-amazon-web-services-outage-has-ended-1.2436133&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>deprecation of use_neutron option breaks ostf</title>
-      <link>//crypt0.net/post/deprecation-of-useneutron-option-breaks-ostf/</link>
-      <pubDate>Tue, 28 Feb 2017 23:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/deprecation-of-useneutron-option-breaks-ostf/</guid>
-      <description>&lt;p&gt;use_neutron option, but nova code on Fuel CI still uses use_neutron option.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1668623&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1668623&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
