@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 01 Mar 2017 22:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2017 22:50:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hybrid application innovation with Azure and Azure Stack</title>
+      <link>//crypt0.net/post/hybrid-application-innovation-with-azure-and-azure-stack/</link>
+      <pubDate>Wed, 01 Mar 2017 22:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/hybrid-application-innovation-with-azure-and-azure-stack/</guid>
+      <description>&lt;p&gt;on-premises environments, only Azure and Azure Stack deliver a truly &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/resources/hybrid-app-innovation-azure-stack/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/resources/hybrid-app-innovation-azure-stack/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our view: Lessons learned from Amazon cloud outage</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/internet-outages-sparked-by-amazon-web-services-errors/</guid>
       <description>&lt;p&gt;Jeff Bezos, the founder and CEO of Amazon.com, whose Amazon Web Services reported &amp;ldquo;high error rates&amp;rdquo; with its S3 service. SUSAN WALSH.  &lt;a href=&#34;http://www.afr.com/technology/cloud-computing/internet-outages-sparked-by-amazon-web-services-errors-20170301-guol79&#34; onclick=&#34;trackOutboundLink(&#39;http://www.afr.com/technology/cloud-computing/internet-outages-sparked-by-amazon-web-services-errors-20170301-guol79&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>No, It&#39;s Not Time to Treat Amazon as a Monopoly</title>
-      <link>//crypt0.net/post/no-its-not-time-to-treat-amazon-as-a-monopoly/</link>
-      <pubDate>Wed, 01 Mar 2017 18:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/no-its-not-time-to-treat-amazon-as-a-monopoly/</guid>
-      <description>&lt;p&gt;Because Amazon Web Services experienced an outage. Numerous websites and other web-dependent products were affected. Based on their bitter &amp;hellip;  &lt;a href=&#34;http://www.inc.com/sonya-mann/aws-outage-centralization.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.inc.com/sonya-mann/aws-outage-centralization.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
