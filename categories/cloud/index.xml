@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 02 Mar 2017 01:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Mar 2017 02:10:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon S3 outage cripples Instagram, IMDb, huge chunk of internet</title>
+      <link>//crypt0.net/post/amazon-s3-outage-cripples-instagram-imdb-huge-chunk-of-internet/</link>
+      <pubDate>Thu, 02 Mar 2017 02:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-s3-outage-cripples-instagram-imdb-huge-chunk-of-internet/</guid>
+      <description>&lt;p&gt;Updates on Amazon&amp;rsquo;s efforts to repair the problem are being posted on the Amazon Web Services Twitter account. While Amazon&amp;rsquo;s engineers busy &amp;hellip;  &lt;a href=&#34;http://technology.inquirer.net/59303/amazon-s3-outage-cripples-instagram-imdb-huge-chunk-of-internet&#34; onclick=&#34;trackOutboundLink(&#39;http://technology.inquirer.net/59303/amazon-s3-outage-cripples-instagram-imdb-huge-chunk-of-internet&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>masakari-engine fails with latest OpenStack installed with devstack giving</title>
+      <link>//crypt0.net/post/masakariengine-fails-with-latest-openstack-installed-with-devstack-giving/</link>
+      <pubDate>Thu, 02 Mar 2017 02:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/masakariengine-fails-with-latest-openstack-installed-with-devstack-giving/</guid>
+      <description>&lt;p&gt;When you install OpenStack with latest devstack it doesn&amp;rsquo;t create adminURL for nova. masakari-engine calls nova with defaulted &amp;lsquo;adminURL&amp;rsquo; which is &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1669280&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1669280&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Migrating Your Servers to Google Cloud [Live Q&amp;A]</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/microsoft-is-bringing-support-for-google-calendar-and-contacts-to-outlook/</guid>
       <description>&lt;p&gt;Thurrott.com (blog) &amp;hellip; 2016 for Mac, you know that the product currently only supports Gmail email, which limits its usefulness to those who use Google cloud services.  &lt;a href=&#34;https://www.thurrott.com/cloud/office-365/105744/microsoft-bringing-support-google-calendar-contacts-outlook-2016-mac&#34; onclick=&#34;trackOutboundLink(&#39;https://www.thurrott.com/cloud/office-365/105744/microsoft-bringing-support-google-calendar-contacts-outlook-2016-mac&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Server Density CEO to Discuss Effective Use of Google Cloud Bigtable in</title>
-      <link>//crypt0.net/post/server-density-ceo-to-discuss-effective-use-of-google-cloud-bigtable-in/</link>
-      <pubDate>Wed, 01 Mar 2017 21:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/server-density-ceo-to-discuss-effective-use-of-google-cloud-bigtable-in/</guid>
-      <description>&lt;p&gt;EIN News (press release) /EIN News/ &amp;ndash; New York, March 01, 2017 (GLOBE NEWSWIRE) &amp;ndash; David Mytton, founder and CEO of Server Density, a provider of a cloud-based &amp;hellip;  &lt;a href=&#34;http://www.einnews.com/pr_news/368899134/server-density-ceo-to-discuss-effective-use-of-google-cloud-bigtable-in-applications-at-google-cloud-next-17-conference&#34; onclick=&#34;trackOutboundLink(&#39;http://www.einnews.com/pr_news/368899134/server-density-ceo-to-discuss-effective-use-of-google-cloud-bigtable-in-applications-at-google-cloud-next-17-conference&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services outage cripples thousands of sites</title>
-      <link>//crypt0.net/post/amazon-web-services-outage-cripples-thousands-of-sites/</link>
-      <pubDate>Wed, 01 Mar 2017 21:10:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-web-services-outage-cripples-thousands-of-sites/</guid>
-      <description>&lt;p&gt;Amazon&amp;rsquo;s Simple Storage Service had difficulty sending and receiving clients&amp;rsquo; data for more than 3 hours. PHOTO: AFP. Web users experienced &amp;hellip;  &lt;a href=&#34;https://tribune.com.pk/story/1342610/amazon-web-services-outage-cripples-thousands-sites/&#34; onclick=&#34;trackOutboundLink(&#39;https://tribune.com.pk/story/1342610/amazon-web-services-outage-cripples-thousands-sites/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
