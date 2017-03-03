@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 03 Mar 2017 09:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Mar 2017 12:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>homebridge-mqtt-power-consumption-log-tasmota</title>
+      <link>//crypt0.net/post/homebridgemqttpowerconsumptionlogtasmota/</link>
+      <pubDate>Fri, 03 Mar 2017 12:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/homebridgemqttpowerconsumptionlogtasmota/</guid>
+      <description>&lt;p&gt;firmware Sonoff-Tasmota via MQTT with log data to file. Partially &amp;hellip;  &lt;a href=&#34;https://www.npmjs.com/package/homebridge-mqtt-power-consumption-log-tasmota&#34; onclick=&#34;trackOutboundLink(&#39;https://www.npmjs.com/package/homebridge-mqtt-power-consumption-log-tasmota&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Better Buy: CalAmp vs. Sierra Wireless</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/bringing-blockchain-to-the-world-of-food-traceability/</guid>
       <description>&lt;p&gt;TechWatch&amp;rsquo;s Emily McDaid spoke to Brendan Smyth of Arc-net, a food traceability start-up that uses blockchain to ensure authenticity. Inspired by the &amp;hellip;  &lt;a href=&#34;https://www.siliconrepublic.com/start-ups/arcnet-food-traceability-blockchain&#34; onclick=&#34;trackOutboundLink(&#39;https://www.siliconrepublic.com/start-ups/arcnet-food-traceability-blockchain&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deutsche Bourse Fintech Arm To Invest In Blockchain And AI This Year</title>
-      <link>//crypt0.net/post/deutsche-bourse-fintech-arm-to-invest-in-blockchain-and-ai-this-year/</link>
-      <pubDate>Fri, 03 Mar 2017 03:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/deutsche-bourse-fintech-arm-to-invest-in-blockchain-and-ai-this-year/</guid>
-      <description>&lt;p&gt;The team will target two different sectors, as both blockchain and artificial intelligence are of great importance. It is unclear which companies they plan &amp;hellip;  &lt;a href=&#34;http://www.newsbtc.com/2017/03/03/deutsche-bourse-fintech-arm-invest-blockchain-ai-year/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newsbtc.com/2017/03/03/deutsche-bourse-fintech-arm-invest-blockchain-ai-year/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
