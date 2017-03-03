@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 02 Mar 2017 17:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Mar 2017 17:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What to consider about signatureless malware detection</title>
+      <link>//crypt0.net/post/what-to-consider-about-signatureless-malware-detection/</link>
+      <pubDate>Thu, 02 Mar 2017 17:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/what-to-consider-about-signatureless-malware-detection/</guid>
+      <description>&lt;p&gt;&amp;hellip; malware detection, but after digging into them more, you&amp;rsquo;d find that they were more of an endpoint detection and response (EDR) offering, and didn&amp;rsquo;t &amp;hellip;  &lt;a href=&#34;http://searchsecurity.techtarget.com/tip/What-to-consider-about-signatureless-malware-detection&#34; onclick=&#34;trackOutboundLink(&#39;http://searchsecurity.techtarget.com/tip/What-to-consider-about-signatureless-malware-detection&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>NSW partners braced to share blame for data breaches</title>
@@ -151,18 +163,6 @@
       <description>&lt;p&gt;&amp;hellip; and wireless security services, mobile payment solutions, machine-to-machine services, mobile banking, virtual private network services, video calls &amp;hellip;  &lt;a href=&#34;http://stockznews.com/news-recap-america-movil-s-a-b-de-c-v-nyseamx-tiffany-co-nysetif/&#34; onclick=&#34;trackOutboundLink(&#39;http://stockznews.com/news-recap-america-movil-s-a-b-de-c-v-nyseamx-tiffany-co-nysetif/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What to consider about signatureless malware detection</title>
-      <link>//crypt0.net/post/what-to-consider-about-signatureless-malware-detection/</link>
-      <pubDate>Thu, 02 Mar 2017 13:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-to-consider-about-signatureless-malware-detection/</guid>
-      <description>&lt;p&gt;There will always be a need for endpoint protection, no matter what anyone says. No one in their right mind is going to leave an endpoint purposely &amp;hellip;  &lt;a href=&#34;http://searchsecurity.techtarget.com/tip/What-to-consider-about-signatureless-malware-detection&#34; onclick=&#34;trackOutboundLink(&#39;http://searchsecurity.techtarget.com/tip/What-to-consider-about-signatureless-malware-detection&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

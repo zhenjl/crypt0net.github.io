@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 02 Mar 2017 17:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Mar 2017 17:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What to consider about signatureless malware detection</title>
+      <link>//crypt0.net/post/what-to-consider-about-signatureless-malware-detection/</link>
+      <pubDate>Thu, 02 Mar 2017 17:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/what-to-consider-about-signatureless-malware-detection/</guid>
+      <description>&lt;p&gt;&amp;hellip; malware detection, but after digging into them more, you&amp;rsquo;d find that they were more of an endpoint detection and response (EDR) offering, and didn&amp;rsquo;t &amp;hellip;  &lt;a href=&#34;http://searchsecurity.techtarget.com/tip/What-to-consider-about-signatureless-malware-detection&#34; onclick=&#34;trackOutboundLink(&#39;http://searchsecurity.techtarget.com/tip/What-to-consider-about-signatureless-malware-detection&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>NSW partners braced to share blame for data breaches</title>
@@ -53,18 +65,6 @@
       
       <guid>//crypt0.net/post/health-insurer-excellus-is-latest-to-argue-that-hacked-data-couldve-come/</guid>
       <description>&lt;p&gt;CyberScoop &amp;hellip; consistently rejected arguments from corporations claiming that lawsuits need to immediately and concretely link data misuse to the data breaches.  &lt;a href=&#34;https://www.cyberscoop.com/health-insurer-excellus-latest-argue-hacked-data-couldve-come-anywhere/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cyberscoop.com/health-insurer-excellus-latest-argue-hacked-data-couldve-come-anywhere/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What to consider about signatureless malware detection</title>
-      <link>//crypt0.net/post/what-to-consider-about-signatureless-malware-detection/</link>
-      <pubDate>Thu, 02 Mar 2017 13:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-to-consider-about-signatureless-malware-detection/</guid>
-      <description>&lt;p&gt;There will always be a need for endpoint protection, no matter what anyone says. No one in their right mind is going to leave an endpoint purposely &amp;hellip;  &lt;a href=&#34;http://searchsecurity.techtarget.com/tip/What-to-consider-about-signatureless-malware-detection&#34; onclick=&#34;trackOutboundLink(&#39;http://searchsecurity.techtarget.com/tip/What-to-consider-about-signatureless-malware-detection&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
