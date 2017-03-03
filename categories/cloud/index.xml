@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 02 Mar 2017 22:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Mar 2017 23:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fat finger: Typo caused Amazon&#39;s big cloud-computing outage</title>
+      <link>//crypt0.net/post/fat-finger-typo-caused-amazons-big-cloudcomputing-outage/</link>
+      <pubDate>Thu, 02 Mar 2017 23:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/fat-finger-typo-caused-amazons-big-cloudcomputing-outage/</guid>
+      <description>&lt;p&gt;&amp;hellip; typed command during a routine debugging of its billing system caused the five-hour outage of some Amazon Web Services servers on Tuesday.  &lt;a href=&#34;http://www.kansascity.com/news/business/technology/article136008633.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.kansascity.com/news/business/technology/article136008633.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure Stack to offer never-ending updates, for a bit less than Azure</title>
@@ -285,18 +297,6 @@
       
       <guid>//crypt0.net/post/amazons-aws-s3-outage-impacted-apples-services/</guid>
       <description>&lt;p&gt;As an additional aside, it is worth noting that Apple in late 2015 struck a deal with Google&amp;rsquo;s cloud platform while lessening its reliance upon AWS in the &amp;hellip;  &lt;a href=&#34;http://www.techcentral.ie/amazons-aws-s3-outage-impacted-apples-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techcentral.ie/amazons-aws-s3-outage-impacted-apples-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pythian Achieves Google Cloud Premier Partner Status</title>
-      <link>//crypt0.net/post/pythian-achieves-google-cloud-premier-partner-status/</link>
-      <pubDate>Thu, 02 Mar 2017 11:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/pythian-achieves-google-cloud-premier-partner-status/</guid>
-      <description>&lt;p&gt;Pythian&amp;rsquo;s Google Cloud Platform Qualified Solution Developers, data architects and analysts, and DevOps engineers have the knowledge and &amp;hellip;  &lt;a href=&#34;https://globenewswire.com/news-release/2017/03/02/930090/0/en/Pythian-Achieves-Google-Cloud-Premier-Partner-Status.html&#34; onclick=&#34;trackOutboundLink(&#39;https://globenewswire.com/news-release/2017/03/02/930090/0/en/Pythian-Achieves-Google-Cloud-Premier-Partner-Status.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
