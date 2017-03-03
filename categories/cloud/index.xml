@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 03 Mar 2017 12:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Mar 2017 13:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Releases Azure Stack Technical Preview 3</title>
+      <link>//crypt0.net/post/microsoft-releases-azure-stack-technical-preview-3/</link>
+      <pubDate>Fri, 03 Mar 2017 13:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-releases-azure-stack-technical-preview-3/</guid>
+      <description>&lt;p&gt;This week Microsoft announced the availability to download Azure Stack Technical Preview 3 (TP3). The new update contains new features to enable &amp;hellip;  &lt;a href=&#34;http://www.storagereview.com/microsoft_releases_azure_stack_technical_preview_3&#34; onclick=&#34;trackOutboundLink(&#39;http://www.storagereview.com/microsoft_releases_azure_stack_technical_preview_3&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Overcome problems with public cloud storage providers</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/google-cloud-platform-pushing-hard-on-cloud-migration-tools-google-finally/</guid>
       <description>&lt;p&gt;1redDrop (blog) That&amp;rsquo;s exactly the path Google is taking for its Google Cloud Platform. The velocity of new services being rolled out has definitely gone up a notch in &amp;hellip;  &lt;a href=&#34;http://1reddrop.com/2017/03/03/google-cloud-platform-pushing-hard-migration-tools-google-finally-awake/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/03/03/google-cloud-platform-pushing-hard-migration-tools-google-finally-awake/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Join the first-ever Azure AD &#39;Ask Me Anything&#39; session, coming March 9</title>
-      <link>//crypt0.net/post/join-the-firstever-azure-ad-ask-me-anything-session-coming-march-9/</link>
-      <pubDate>Fri, 03 Mar 2017 03:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/join-the-firstever-azure-ad-ask-me-anything-session-coming-march-9/</guid>
-      <description>&lt;p&gt;Me Anything session from 10 a.m. to 1 p.m. PT on Thursday, March 9.  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/03/02/join-the-first-ever-azure-ad-ask-me-anything-session-coming-march-9/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/03/02/join-the-first-ever-azure-ad-ask-me-anything-session-coming-march-9/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
