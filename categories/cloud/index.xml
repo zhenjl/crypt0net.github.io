@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 03 Mar 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Mar 2017 18:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon Broke the Internet with a Typo</title>
+      <link>//crypt0.net/post/amazon-broke-the-internet-with-a-typo/</link>
+      <pubDate>Fri, 03 Mar 2017 18:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-broke-the-internet-with-a-typo/</guid>
+      <description>&lt;p&gt;&amp;hellip; about Tuesday&amp;rsquo;s disrupted service of S3, part of Amazon Web Services, which provides hosting for hundreds of thousands of websites and apps.  &lt;a href=&#34;http://www.cbs58.com/story/34660654/amazon-broke-the-internet-with-a-typo&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbs58.com/story/34660654/amazon-broke-the-internet-with-a-typo&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Mar 3, 2017</title>
@@ -300,18 +312,6 @@
       
       <guid>//crypt0.net/post/is-apple-ramping-up-for-a-cloud-fight-with-amazon/</guid>
       <description>&lt;p&gt;&amp;hellip; spends hundreds of millions of dollars to run its services on Amazon&amp;rsquo;s Amazon Web Services (or AWS) and Alphabet&amp;rsquo;s (GOOGL) Google Cloud.  &lt;a href=&#34;http://marketrealist.com/2017/03/is-apple-ramping-up-for-a-cloud-fight-with-amazon/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2017/03/is-apple-ramping-up-for-a-cloud-fight-with-amazon/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Releases Azure Stack Technical Preview 3</title>
-      <link>//crypt0.net/post/microsoft-releases-azure-stack-technical-preview-3/</link>
-      <pubDate>Fri, 03 Mar 2017 13:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-releases-azure-stack-technical-preview-3/</guid>
-      <description>&lt;p&gt;This week Microsoft announced the availability to download Azure Stack Technical Preview 3 (TP3). The new update contains new features to enable &amp;hellip;  &lt;a href=&#34;http://www.storagereview.com/microsoft_releases_azure_stack_technical_preview_3&#34; onclick=&#34;trackOutboundLink(&#39;http://www.storagereview.com/microsoft_releases_azure_stack_technical_preview_3&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
