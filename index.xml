@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 03 Mar 2017 23:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Mar 2017 00:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Missing bindings for network spaces in metadata/readme</title>
+      <link>//crypt0.net/post/missing-bindings-for-network-spaces-in-metadatareadme/</link>
+      <pubDate>Sat, 04 Mar 2017 00:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/missing-bindings-for-network-spaces-in-metadatareadme/</guid>
+      <description>&lt;p&gt;the issue where we had not defined it&amp;rsquo;s bindings and therefore could not &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1669824&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1669824&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>VMware to Showcase Joint Solutions at Google Cloud Next</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;NEWS.com.au TELSTRA is making major strides in the telco wars as the country&amp;rsquo;s largest carrier bulks up its network, readying for futuristic applications of 5G and the &amp;hellip;  &lt;a href=&#34;http://www.news.com.au/technology/gadgets/mobile-phones/telstra-bulks-up-its-network-readying-for-futuristic-applications-of-5g-and-the-internet-of-things/news-story/b29462f7fc6be0ae76893dd7e051fcee&#34; onclick=&#34;trackOutboundLink(&#39;http://www.news.com.au/technology/gadgets/mobile-phones/telstra-bulks-up-its-network-readying-for-futuristic-applications-of-5g-and-the-internet-of-things/news-story/b29462f7fc6be0ae76893dd7e051fcee&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon: Typo led to long outage</title>
-      <link>//crypt0.net/post/amazon-typo-led-to-long-outage/</link>
-      <pubDate>Fri, 03 Mar 2017 20:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-typo-led-to-long-outage/</guid>
-      <description>&lt;p&gt;A full restart was required, which took longer than expected because of how fast Amazon Web Services has grown over the past few years. Amazon &amp;hellip;  &lt;a href=&#34;http://www.journalgazette.net/business/Amazon--Typo-led-to-long-outage-18063221&#34; onclick=&#34;trackOutboundLink(&#39;http://www.journalgazette.net/business/Amazon--Typo-led-to-long-outage-18063221&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

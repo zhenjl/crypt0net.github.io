@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 03 Mar 2017 23:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Mar 2017 00:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Missing bindings for network spaces in metadata/readme</title>
+      <link>//crypt0.net/post/missing-bindings-for-network-spaces-in-metadatareadme/</link>
+      <pubDate>Sat, 04 Mar 2017 00:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/missing-bindings-for-network-spaces-in-metadatareadme/</guid>
+      <description>&lt;p&gt;the issue where we had not defined it&amp;rsquo;s bindings and therefore could not &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1669824&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1669824&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>VMware to Showcase Joint Solutions at Google Cloud Next</title>
@@ -300,18 +312,6 @@
       
       <guid>//crypt0.net/post/whats-new-in-openstack-ocata-webinar--qa/</guid>
       <description>&lt;p&gt;OpenStack Ocata&amp;rdquo; webinar, so here they are.  &lt;a href=&#34;https://www.mirantis.com/blog/whats-new-in-openstack-ocata-webinar-qa/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/whats-new-in-openstack-ocata-webinar-qa/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Biz Break: Whoops! Amazon says a typo caused website outages this week</title>
-      <link>//crypt0.net/post/biz-break-whoops-amazon-says-a-typo-caused-website-outages-this-week/</link>
-      <pubDate>Fri, 03 Mar 2017 17:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/biz-break-whoops-amazon-says-a-typo-caused-website-outages-this-week/</guid>
-      <description>&lt;p&gt;The logo of Amazon Web Services. Amazon said a typo by one of its engineers caused many of its web services to go offline earlier in the week in an &amp;hellip;  &lt;a href=&#34;http://www.mercurynews.com/2017/03/03/biz-break-whoops-amazon-says-a-typo-caused-website-outages-this-week/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.mercurynews.com/2017/03/03/biz-break-whoops-amazon-says-a-typo-caused-website-outages-this-week/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
