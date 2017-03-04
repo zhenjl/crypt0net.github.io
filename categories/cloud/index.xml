@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 04 Mar 2017 00:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Mar 2017 00:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>It&#39;s a Complicated World Out There  Thoughts on the Amazon S3 Outage</title>
+      <link>//crypt0.net/post/its-a-complicated-world-out-there--thoughts-on-the-amazon-s3-outage/</link>
+      <pubDate>Sat, 04 Mar 2017 00:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/its-a-complicated-world-out-there--thoughts-on-the-amazon-s3-outage/</guid>
+      <description>&lt;p&gt;Amazon Web Services published their post-mortem and the issue was human error and fully correctable. Despite this, there is no disputing the &amp;hellip;  &lt;a href=&#34;https://blogs.cisco.com/cloud/its-a-complicated-world-thoughts-on-the-amazon-s3-outage&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.cisco.com/cloud/its-a-complicated-world-thoughts-on-the-amazon-s3-outage&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Missing bindings for network spaces in metadata/readme</title>
@@ -300,18 +312,6 @@
       
       <guid>//crypt0.net/post/google-india-telangana-government-to-sign-mou-on-digitisation/</guid>
       <description>&lt;p&gt;HYDERABAD: Google India and the Telangana government signed an Memorandum of Understanding (MoU) on digitisation efforts in the State in &amp;hellip;  &lt;a href=&#34;http://www.newindianexpress.com/states/telangana/2017/mar/04/google-india-telangana-government-to-sign-mou-on-digitisation-1577445.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newindianexpress.com/states/telangana/2017/mar/04/google-india-telangana-government-to-sign-mou-on-digitisation-1577445.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What&#39;s new in OpenStack Ocata webinar -- Q&amp;A</title>
-      <link>//crypt0.net/post/whats-new-in-openstack-ocata-webinar--qa/</link>
-      <pubDate>Fri, 03 Mar 2017 17:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/whats-new-in-openstack-ocata-webinar--qa/</guid>
-      <description>&lt;p&gt;OpenStack Ocata&amp;rdquo; webinar, so here they are.  &lt;a href=&#34;https://www.mirantis.com/blog/whats-new-in-openstack-ocata-webinar-qa/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/whats-new-in-openstack-ocata-webinar-qa/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
