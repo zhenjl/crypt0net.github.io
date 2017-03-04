@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 04 Mar 2017 03:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Mar 2017 05:10:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1669974 Networking service (neutron) command-line client i...</title>
+      <link>//crypt0.net/post/bug-1669974-networking-service-neutron-commandline-client-i/</link>
+      <pubDate>Sat, 04 Mar 2017 05:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1669974-networking-service-neutron-commandline-client-i/</guid>
+      <description>&lt;p&gt;ip_address=IP_ADDR[,mac_address=MAC_ADDR] should be replaced by: &amp;ndash;allowed-address-pair &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1669974&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1669974&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft has Audacious Plans for Azure Stack in Private and Hybrid Cloud</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/get-expert-microsoft-cloud-certification-training-for-49-usually-3180/</guid>
       <description>&lt;p&gt;You&amp;rsquo;ll also receive in-depth instruction on all aspects of Microsoft Azure, the company&amp;rsquo;s expanding suite of cloud-based web services. Azure grants &amp;hellip;  &lt;a href=&#34;https://www.technobuffalo.com/2017/03/03/get-expert-microsoft-cloud-certification-training-for-49-usually-3180/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.technobuffalo.com/2017/03/03/get-expert-microsoft-cloud-certification-training-for-49-usually-3180/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web to introduce AI as it looks to lure partners to Cloud</title>
-      <link>//crypt0.net/post/amazon-web-to-introduce-ai-as-it-looks-to-lure-partners-to-cloud/</link>
-      <pubDate>Fri, 03 Mar 2017 19:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-web-to-introduce-ai-as-it-looks-to-lure-partners-to-cloud/</guid>
-      <description>&lt;p&gt;NEW DELHI: Amazon Web Services (AWS), the biggest cloud-computing provider for startups in India, will soon bring artificial intelligence (AI) to the &amp;hellip;  &lt;a href=&#34;http://economictimes.indiatimes.com/small-biz/startups/amazon-web-to-introduce-ai-as-it-looks-to-lure-partners-to-cloud/articleshow/57441522.cms&#34; onclick=&#34;trackOutboundLink(&#39;http://economictimes.indiatimes.com/small-biz/startups/amazon-web-to-introduce-ai-as-it-looks-to-lure-partners-to-cloud/articleshow/57441522.cms&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
