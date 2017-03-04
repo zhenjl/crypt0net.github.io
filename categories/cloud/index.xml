@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 04 Mar 2017 00:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Mar 2017 01:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>galera_server apt related vars difficult to override</title>
+      <link>//crypt0.net/post/galeraserver-apt-related-vars-difficult-to-override/</link>
+      <pubDate>Sat, 04 Mar 2017 01:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/galeraserver-apt-related-vars-difficult-to-override/</guid>
+      <description>&lt;p&gt;openstack-ansible-galera_server, and I have found that after &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1669897&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1669897&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>It&#39;s a Complicated World Out There  Thoughts on the Amazon S3 Outage</title>
@@ -302,18 +314,6 @@
 
 &lt;p&gt;&lt;h3&gt;Google India, Telangana government to sign MoU on digitisation&lt;/h3&gt;
 &lt;p&gt;HYDERABAD: Google India and the Telangana government signed an Memorandum of Understanding (MoU) on digitisation efforts in the State in &amp;hellip;  &lt;a href=&#34;http://www.newindianexpress.com/states/telangana/2017/mar/04/google-india-telangana-government-to-sign-mou-on-digitisation-1577445.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newindianexpress.com/states/telangana/2017/mar/04/google-india-telangana-government-to-sign-mou-on-digitisation-1577445.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google India, Telangana government to sign MoU on digitisation</title>
-      <link>//crypt0.net/post/google-india-telangana-government-to-sign-mou-on-digitisation/</link>
-      <pubDate>Fri, 03 Mar 2017 17:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-india-telangana-government-to-sign-mou-on-digitisation/</guid>
-      <description>&lt;p&gt;HYDERABAD: Google India and the Telangana government signed an Memorandum of Understanding (MoU) on digitisation efforts in the State in &amp;hellip;  &lt;a href=&#34;http://www.newindianexpress.com/states/telangana/2017/mar/04/google-india-telangana-government-to-sign-mou-on-digitisation-1577445.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newindianexpress.com/states/telangana/2017/mar/04/google-india-telangana-government-to-sign-mou-on-digitisation-1577445.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 04 Mar 2017 00:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Mar 2017 01:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>galera_server apt related vars difficult to override</title>
+      <link>//crypt0.net/post/galeraserver-apt-related-vars-difficult-to-override/</link>
+      <pubDate>Sat, 04 Mar 2017 01:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/galeraserver-apt-related-vars-difficult-to-override/</guid>
+      <description>&lt;p&gt;openstack-ansible-galera_server, and I have found that after &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1669897&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1669897&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Eurotech Announces the BoltMAR 20-28, EN50155 Router with Cisco 5921 ESR</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/internet-of-things-competition-searches-for-bright-ideas/</guid>
       <description>&lt;p&gt;A new challenge is open to find ideas to help decarbonise and improve cities&amp;rsquo; environmental footprints. &amp;lsquo;Internet of Things (IoT) for Greener Cities&amp;rsquo; is a &amp;hellip;  &lt;a href=&#34;https://www.energylivenews.com/2017/03/03/internet-of-things-competition-searches-for-bright-ideas/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.energylivenews.com/2017/03/03/internet-of-things-competition-searches-for-bright-ideas/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Leveraging Data Analytics and Internet of Things in Your Digital</title>
-      <link>//crypt0.net/post/leveraging-data-analytics-and-internet-of-things-in-your-digital/</link>
-      <pubDate>Fri, 03 Mar 2017 21:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/leveraging-data-analytics-and-internet-of-things-in-your-digital/</guid>
-      <description>&lt;p&gt;CIO Introducing the Internet of Things  an ecosystem of sensors, machines, and other everyday items that are producing data and, in many cases, &amp;hellip;  &lt;a href=&#34;http://www.cio.com/article/3175618/analytics/leveraging-data-analytics-and-internet-of-things-in-your-digital-transformation.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3175618/analytics/leveraging-data-analytics-and-internet-of-things-in-your-digital-transformation.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
