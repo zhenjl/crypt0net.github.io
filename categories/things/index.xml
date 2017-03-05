@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 05 Mar 2017 00:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Mar 2017 00:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>how do you open firewall for mqtt broker(mosquitto)</title>
+      <link>//crypt0.net/post/how-do-you-open-firewall-for-mqtt-brokermosquitto/</link>
+      <pubDate>Sun, 05 Mar 2017 00:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-do-you-open-firewall-for-mqtt-brokermosquitto/</guid>
+      <description>&lt;p&gt;mqtt client is used .I am assuming firewall is open. only when using &amp;hellip;  &lt;a href=&#34;https://www.digitalocean.com/community/questions/how-do-you-open-firewall-for-mqtt-broker-mosquitto&#34; onclick=&#34;trackOutboundLink(&#39;https://www.digitalocean.com/community/questions/how-do-you-open-firewall-for-mqtt-broker-mosquitto&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Locally and nationally, pinball has surged in popularity, with competitions</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/digi-international-enabling-iot-in-space/</guid>
       <description>&lt;p&gt;&amp;hellip; a leading global provider of machine-to-machine (M2M) and Internet of Things (IoT) connectivity products and services, announced that on Monday, &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/digi-international-enabling-iot-space-140000801.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/digi-international-enabling-iot-space-140000801.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>why is Esp 8826 mqtt example given in arduino ide not able to connect to</title>
-      <link>//crypt0.net/post/why-is-esp-8826-mqtt-example-given-in-arduino-ide-not-able-to-connect-to/</link>
-      <pubDate>Sat, 04 Mar 2017 05:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-is-esp-8826-mqtt-example-given-in-arduino-ide-not-able-to-connect-to/</guid>
-      <description>&lt;p&gt;using mqtt with esp8826 from example code in arduino ide mosquito broker running on droplet properly but gives following message from esp 8826 &amp;hellip;  &lt;a href=&#34;https://www.digitalocean.com/community/questions/why-is-esp-8826-mqtt-example-given-in-arduino-ide-not-able-to-connect-to-mosquito-broker&#34; onclick=&#34;trackOutboundLink(&#39;https://www.digitalocean.com/community/questions/why-is-esp-8826-mqtt-example-given-in-arduino-ide-not-able-to-connect-to-mosquito-broker&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
