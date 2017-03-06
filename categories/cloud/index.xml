@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 06 Mar 2017 14:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2017 14:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SwiftStack object storage gets two-way Cloud Sync</title>
+      <link>//crypt0.net/post/swiftstack-object-storage-gets-twoway-cloud-sync/</link>
+      <pubDate>Mon, 06 Mar 2017 14:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/swiftstack-object-storage-gets-twoway-cloud-sync/</guid>
+      <description>&lt;p&gt;Hill said a website using SwiftStack object storage with Amazon S3 and Google Cloud Storage could have simply pointed to on-premises storage or &amp;hellip;  &lt;a href=&#34;http://searchcloudstorage.techtarget.com/news/450414392/SwiftStack-object-storage-gets-two-way-Cloud-Sync&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudstorage.techtarget.com/news/450414392/SwiftStack-object-storage-gets-two-way-Cloud-Sync&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure Brings big data, analytics, and visualization capabilities to US</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/gapicgooglecloudfunctionsv1beta2-0153/</guid>
       <description>&lt;p&gt;gapic-google-cloud-functions-v1beta2 uses google-gax (Google API extensions) to provide an &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/gapic-google-cloud-functions-v1beta2/0.15.3&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/gapic-google-cloud-functions-v1beta2/0.15.3&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon shows why you shouldn&#39;t put all your tech eggs in one cloud basket</title>
-      <link>//crypt0.net/post/amazon-shows-why-you-shouldnt-put-all-your-tech-eggs-in-one-cloud-basket/</link>
-      <pubDate>Mon, 06 Mar 2017 09:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-shows-why-you-shouldnt-put-all-your-tech-eggs-in-one-cloud-basket/</guid>
-      <description>&lt;p&gt;A cloud consultant told me his phone was ringing off the hook by Amazon Web Services (AWS) customers who wanted to switch to Azure. You get the &amp;hellip;  &lt;a href=&#34;http://www.computerworld.com/article/3176691/cloud-computing/amazon-shows-why-you-shouldn-t-put-all-your-tech-eggs-in-one-cloud-basket.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computerworld.com/article/3176691/cloud-computing/amazon-shows-why-you-shouldn-t-put-all-your-tech-eggs-in-one-cloud-basket.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
