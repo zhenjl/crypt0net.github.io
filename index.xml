@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 05 Mar 2017 18:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Mar 2017 18:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building a Scalable Online Game with Azure - Part 3</title>
+      <link>//crypt0.net/post/building-a-scalable-online-game-with-azure--part-3/</link>
+      <pubDate>Sun, 05 Mar 2017 18:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/building-a-scalable-online-game-with-azure--part-3/</guid>
+      <description>&lt;p&gt;NotFound) { var database = new Microsoft.Azure.Documents.Database { Id = DatabaseName }; await this.client.CreateDatabaseAsync(database); } &amp;hellip;  &lt;a href=&#34;http://www.gamasutra.com/blogs/NickPruehs/20170305/292955/Building_a_Scalable_Online_Game_with_Azure__Part_3.php&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gamasutra.com/blogs/NickPruehs/20170305/292955/Building_a_Scalable_Online_Game_with_Azure__Part_3.php&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Menlo Security&#39;s perspective: Addressing the Australian Notifiable Data</title>
+      <link>//crypt0.net/post/menlo-securitys-perspective-addressing-the-australian-notifiable-data/</link>
+      <pubDate>Sun, 05 Mar 2017 18:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/menlo-securitys-perspective-addressing-the-australian-notifiable-data/</guid>
+      <description>&lt;p&gt;SecurityBrief Australia With similar laws abandoned in the legislature twice before, the Privacy Amendment (Notifiable Data Breaches) Bill 2016 was introduced into the &amp;hellip;  &lt;a href=&#34;https://securitybrief.com.au/story/menlo-securitys-perspective-addressing-australian-notifiable-data-breaches-bill/&#34; onclick=&#34;trackOutboundLink(&#39;https://securitybrief.com.au/story/menlo-securitys-perspective-addressing-australian-notifiable-data-breaches-bill/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SM:mainline3044: contrail-status not working</title>
+      <link>//crypt0.net/post/smmainline3044-contrailstatus-not-working/</link>
+      <pubDate>Sun, 05 Mar 2017 18:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/smmainline3044-contrailstatus-not-working/</guid>
+      <description>&lt;p&gt;provisioned with centos using server manager mainline 3044 2) Login to the &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1670231&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1670231&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
@@ -283,42 +319,6 @@
       <description>&lt;p&gt;Mitigating the risk of modern data breaches requires special handling. If crucial data is not protected, an organisation &amp;rsquo;s reputation and line of business &amp;hellip;  &lt;a href=&#34;https://securitybrief.com.au/story/identity-key-protecting-sensitive-data-no-matter-where-it-resides/&#34; onclick=&#34;trackOutboundLink(&#39;https://securitybrief.com.au/story/identity-key-protecting-sensitive-data-no-matter-where-it-resides/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon installing rooftop solar power on its warehouses</title>
-      <link>//crypt0.net/post/amazon-installing-rooftop-solar-power-on-its-warehouses/</link>
-      <pubDate>Sun, 05 Mar 2017 13:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-installing-rooftop-solar-power-on-its-warehouses/</guid>
-      <description>&lt;p&gt;There are also wind and solar farms in Indiana, North Carolina, Ohio, and Virginia, that provide power to Amazon Web Services (AWS) datacenters.  &lt;a href=&#34;http://marketbusinessnews.com/amazon-installing-rooftop-solar-power-warehouses/155248&#34; onclick=&#34;trackOutboundLink(&#39;http://marketbusinessnews.com/amazon-installing-rooftop-solar-power-warehouses/155248&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Breeze Bitcoin Wallet to Deploy Production-Ready Tumblebit Anonymizer</title>
-      <link>//crypt0.net/post/breeze-bitcoin-wallet-to-deploy-productionready-tumblebit-anonymizer/</link>
-      <pubDate>Sun, 05 Mar 2017 12:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/breeze-bitcoin-wallet-to-deploy-productionready-tumblebit-anonymizer/</guid>
-      <description>&lt;p&gt;As blockchain surveillance rises, the need for private financial transactions for bitcoin has become a holy grail for bitcoiners. Over the past few months, &amp;hellip;  &lt;a href=&#34;https://www.nigeriatoday.ng/2017/03/breeze-bitcoin-wallet-to-deploy-production-ready-tumblebit-anonymizer/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.nigeriatoday.ng/2017/03/breeze-bitcoin-wallet-to-deploy-production-ready-tumblebit-anonymizer/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hyperledger Project&#39;s Fabric Blockchain Receives Production Ready Status</title>
-      <link>//crypt0.net/post/hyperledger-projects-fabric-blockchain-receives-production-ready-status/</link>
-      <pubDate>Sun, 05 Mar 2017 12:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hyperledger-projects-fabric-blockchain-receives-production-ready-status/</guid>
-      <description>&lt;p&gt;The Linux Foundation led Hyperledger Project has successfully created its first business-ready blockchain, to be released by the end of March 2017.  &lt;a href=&#34;http://www.newsbtc.com/2017/03/05/hyperledger-project-fabric-blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newsbtc.com/2017/03/05/hyperledger-project-fabric-blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

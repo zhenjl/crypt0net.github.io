@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 05 Mar 2017 18:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Mar 2017 18:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building a Scalable Online Game with Azure - Part 3</title>
+      <link>//crypt0.net/post/building-a-scalable-online-game-with-azure--part-3/</link>
+      <pubDate>Sun, 05 Mar 2017 18:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/building-a-scalable-online-game-with-azure--part-3/</guid>
+      <description>&lt;p&gt;NotFound) { var database = new Microsoft.Azure.Documents.Database { Id = DatabaseName }; await this.client.CreateDatabaseAsync(database); } &amp;hellip;  &lt;a href=&#34;http://www.gamasutra.com/blogs/NickPruehs/20170305/292955/Building_a_Scalable_Online_Game_with_Azure__Part_3.php&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gamasutra.com/blogs/NickPruehs/20170305/292955/Building_a_Scalable_Online_Game_with_Azure__Part_3.php&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SM:mainline3044: contrail-status not working</title>
+      <link>//crypt0.net/post/smmainline3044-contrailstatus-not-working/</link>
+      <pubDate>Sun, 05 Mar 2017 18:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/smmainline3044-contrailstatus-not-working/</guid>
+      <description>&lt;p&gt;provisioned with centos using server manager mainline 3044 2) Login to the &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1670231&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1670231&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
@@ -268,30 +292,6 @@
       
       <guid>//crypt0.net/post/amazons-video-game-boss-just-explained-where-its-970-million-twitch/</guid>
       <description>&lt;p&gt;Business Insider Which is where Twitch and the $12 billion Amazon Web Services cloud computing behemoth come in, and where they play so well together.  &lt;a href=&#34;http://www.businessinsider.com/amazon-vp-mike-frazzini-explains-twitch-and-amazon-web-services-2017-3&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businessinsider.com/amazon-vp-mike-frazzini-explains-twitch-and-amazon-web-services-2017-3&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>No, IBM and Microsoft Can&#39;t Easily Oust AWS from its Pole Position in Cloud</title>
-      <link>//crypt0.net/post/no-ibm-and-microsoft-cant-easily-oust-aws-from-its-pole-position-in-cloud/</link>
-      <pubDate>Sat, 04 Mar 2017 16:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/no-ibm-and-microsoft-cant-easily-oust-aws-from-its-pole-position-in-cloud/</guid>
-      <description>&lt;p&gt;1redDrop (blog) New Q4 data from Synergy Research Group shows that Amazon Web Services (AWS) is maintaining its dominant share of the burgeoning public &amp;hellip;  &lt;a href=&#34;http://1reddrop.com/2017/03/04/ibm-microsoft-cannot-easily-oust-aws-top-spot-cloud-computing/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/03/04/ibm-microsoft-cannot-easily-oust-aws-top-spot-cloud-computing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ocius Digital acquires Flying Fox IT to launch cloud services in UK</title>
-      <link>//crypt0.net/post/ocius-digital-acquires-flying-fox-it-to-launch-cloud-services-in-uk/</link>
-      <pubDate>Sat, 04 Mar 2017 14:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ocius-digital-acquires-flying-fox-it-to-launch-cloud-services-in-uk/</guid>
-      <description>&lt;p&gt;Established in 2008, Xero Certified company Flying Fox IT specialises in Google Cloud and Xero integration for small businesses. Dan says with a &amp;hellip;  &lt;a href=&#34;http://www.satprnews.com/2017/03/04/ocius-digital-acquires-flying-fox-it-to-launch-cloud-services-in-uk/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.satprnews.com/2017/03/04/ocius-digital-acquires-flying-fox-it-to-launch-cloud-services-in-uk/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

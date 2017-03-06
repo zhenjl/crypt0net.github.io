@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 05 Mar 2017 18:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Mar 2017 18:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building a Scalable Online Game with Azure - Part 3</title>
+      <link>//crypt0.net/post/building-a-scalable-online-game-with-azure--part-3/</link>
+      <pubDate>Sun, 05 Mar 2017 18:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/building-a-scalable-online-game-with-azure--part-3/</guid>
+      <description>&lt;p&gt;NotFound) { var database = new Microsoft.Azure.Documents.Database { Id = DatabaseName }; await this.client.CreateDatabaseAsync(database); } &amp;hellip;  &lt;a href=&#34;http://www.gamasutra.com/blogs/NickPruehs/20170305/292955/Building_a_Scalable_Online_Game_with_Azure__Part_3.php&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gamasutra.com/blogs/NickPruehs/20170305/292955/Building_a_Scalable_Online_Game_with_Azure__Part_3.php&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Menlo Security&#39;s perspective: Addressing the Australian Notifiable Data</title>
+      <link>//crypt0.net/post/menlo-securitys-perspective-addressing-the-australian-notifiable-data/</link>
+      <pubDate>Sun, 05 Mar 2017 18:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/menlo-securitys-perspective-addressing-the-australian-notifiable-data/</guid>
+      <description>&lt;p&gt;SecurityBrief Australia With similar laws abandoned in the legislature twice before, the Privacy Amendment (Notifiable Data Breaches) Bill 2016 was introduced into the &amp;hellip;  &lt;a href=&#34;https://securitybrief.com.au/story/menlo-securitys-perspective-addressing-australian-notifiable-data-breaches-bill/&#34; onclick=&#34;trackOutboundLink(&#39;https://securitybrief.com.au/story/menlo-securitys-perspective-addressing-australian-notifiable-data-breaches-bill/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SM:mainline3044: contrail-status not working</title>
+      <link>//crypt0.net/post/smmainline3044-contrailstatus-not-working/</link>
+      <pubDate>Sun, 05 Mar 2017 18:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/smmainline3044-contrailstatus-not-working/</guid>
+      <description>&lt;p&gt;provisioned with centos using server manager mainline 3044 2) Login to the &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1670231&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1670231&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
@@ -151,42 +187,6 @@
       <description>&lt;p&gt;The Linux Foundation led Hyperledger Project has successfully created its first business-ready blockchain, to be released by the end of March 2017.  &lt;a href=&#34;http://www.newsbtc.com/2017/03/05/hyperledger-project-fabric-blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newsbtc.com/2017/03/05/hyperledger-project-fabric-blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>VMware, Basic Support / Subscription VMware vCloud Automation Center 6</title>
-      <link>//crypt0.net/post/vmware-basic-support--subscription-vmware-vcloud-automation-center-6/</link>
-      <pubDate>Sun, 05 Mar 2017 12:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vmware-basic-support--subscription-vmware-vcloud-automation-center-6/</guid>
-      <description>&lt;p&gt;VMware Support and Subscription Basic - Technical support - for vCloud Automation Center Development Kit - 1 instance - emergency phone &amp;hellip;  &lt;a href=&#34;http://www.pcm.com/p/VMware-Utilities-Software-Licensing-w/-Maintenance/product~dpno~9848754~pdp.iegbfhb&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcm.com/p/VMware-Utilities-Software-Licensing-w/-Maintenance/product~dpno~9848754~pdp.iegbfhb&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Typo Set in Motion Chain of Events That Shut Down AWS S3 Cloud</title>
-      <link>//crypt0.net/post/typo-set-in-motion-chain-of-events-that-shut-down-aws-s3-cloud/</link>
-      <pubDate>Sun, 05 Mar 2017 12:00:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/typo-set-in-motion-chain-of-events-that-shut-down-aws-s3-cloud/</guid>
-      <description>&lt;p&gt;NEWS ANALYSIS: The causes of the massive Amazon Web Services outages that knocked as many as 150,000 websites offline went way beyond a &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/typo-set-in-motion-chain-of-events-that-shut-down-aws-s3-cloud.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/typo-set-in-motion-chain-of-events-that-shut-down-aws-s3-cloud.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Aadhaar data safe, has helped save Rs 49000 crore, says UIDAI</title>
-      <link>//crypt0.net/post/aadhaar-data-safe-has-helped-save-rs-49000-crore-says-uidai/</link>
-      <pubDate>Sun, 05 Mar 2017 11:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aadhaar-data-safe-has-helped-save-rs-49000-crore-says-uidai/</guid>
-      <description>&lt;p&gt;UIDAI&amp;rsquo;s statement comes amidst concerns about data breaches in Aadhaar when the government is pushing digital transactions post the &amp;hellip;  &lt;a href=&#34;http://www.hindustantimes.com/india-news/aadhaar-data-base-fully-safe-and-secure-says-uidai/story-rMkGys9n1UMnzyKO04BAeM.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.hindustantimes.com/india-news/aadhaar-data-base-fully-safe-and-secure-says-uidai/story-rMkGys9n1UMnzyKO04BAeM.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
