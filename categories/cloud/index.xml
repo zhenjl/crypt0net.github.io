@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 05 Mar 2017 21:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Mar 2017 22:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1670261 Migrate a single instance to another compute host ...</title>
+      <link>//crypt0.net/post/bug-1670261-migrate-a-single-instance-to-another-compute-host-/</link>
+      <pubDate>Sun, 05 Mar 2017 22:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1670261-migrate-a-single-instance-to-another-compute-host-/</guid>
+      <description>&lt;p&gt;way: Related to &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1665860&#34;&gt;https://bugs.launchpad.net/openstack-manuals/+bug/1665860&lt;/a&gt; and &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1670261&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1670261&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Soluo hbrida da VASP aposta em Microsoft Azure para a componente na</title>
@@ -198,18 +210,6 @@
       
       <guid>//crypt0.net/post/amazon-web-services-outage-highlights-cloud-risks/</guid>
       <description>&lt;p&gt;This week, Amazon Web Services (AWS) Simple Storage System (S3) suffered a major outage. The outage lasted throughout most of Tuesday, Feb.  &lt;a href=&#34;http://www.seacoastonline.com/news/20170305/amazon-web-services-outage-highlights-cloud-risks&#34; onclick=&#34;trackOutboundLink(&#39;http://www.seacoastonline.com/news/20170305/amazon-web-services-outage-highlights-cloud-risks&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cloud-Based Development Program SpatialOS Hits Open Beta</title>
-      <link>//crypt0.net/post/cloudbased-development-program-spatialos-hits-open-beta/</link>
-      <pubDate>Sat, 04 Mar 2017 18:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloudbased-development-program-spatialos-hits-open-beta/</guid>
-      <description>&lt;p&gt;The company is also rolling out its Games Innovation Program where it will work with Google Cloud to subsidize studios who want to use SpatialOS to &amp;hellip;  &lt;a href=&#34;https://uploadvr.com/cloud-based-spatialos-open-beta/&#34; onclick=&#34;trackOutboundLink(&#39;https://uploadvr.com/cloud-based-spatialos-open-beta/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
