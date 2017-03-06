@@ -7,8 +7,56 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 06 Mar 2017 01:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2017 01:50:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fixing the Microsoft Azure AD Connect User Name or Password is Incorrect</title>
+      <link>//crypt0.net/post/fixing-the-microsoft-azure-ad-connect-user-name-or-password-is-incorrect/</link>
+      <pubDate>Mon, 06 Mar 2017 01:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/fixing-the-microsoft-azure-ad-connect-user-name-or-password-is-incorrect/</guid>
+      <description>&lt;p&gt;DABCC.com I was setting up a new Microsoft Azure AD subscription for someone and came across this issue. Whenever I tried to sign into Azure AD Connect with a &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/fixing-the-microsoft-azure-ad-connect-user-name-or-password-is-incorrect-error/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/fixing-the-microsoft-azure-ad-connect-user-name-or-password-is-incorrect-error/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
+      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
+      <pubDate>Mon, 06 Mar 2017 01:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
+      <description>&lt;p&gt;inference task, which ran for a while and then reported an error. The cmd line I used &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/29650/error-during-inference-when-using-lstmmodel-with-frame-level-features?forumMessageId=165569&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/29650/error-during-inference-when-using-lstmmodel-with-frame-level-features?forumMessageId=165569&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google cloud training courses are now available on Coursera</title>
+      <link>//crypt0.net/post/google-cloud-training-courses-are-now-available-on-coursera/</link>
+      <pubDate>Mon, 06 Mar 2017 01:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-training-courses-are-now-available-on-coursera/</guid>
+      <description>&lt;p&gt;NEW DELHI, INDIA:Coursera is announcing a collaboration with Google to offer Google Cloud Training courses on its platform. Developed and taught &amp;hellip;  &lt;a href=&#34;http://www.ciol.com/google-cloud-training-courses-are-now-available-on-coursera/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ciol.com/google-cloud-training-courses-are-now-available-on-coursera/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why is Microsoft Rolling Back Unlimited OneDrive Storage for Office 365</title>
+      <link>//crypt0.net/post/why-is-microsoft-rolling-back-unlimited-onedrive-storage-for-office-365/</link>
+      <pubDate>Mon, 06 Mar 2017 01:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-is-microsoft-rolling-back-unlimited-onedrive-storage-for-office-365/</guid>
+      <description>&lt;p&gt;1redDrop (blog) We have to understand that Office 365 and Microsoft Azure have been growing at very healthy two- and three-digit rates for the past several quarters.  &lt;a href=&#34;http://1reddrop.com/2017/03/06/why-microsoft-rolling-back-unlimited-cloud-storage-office-365-users/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/03/06/why-microsoft-rolling-back-unlimited-cloud-storage-office-365-users/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>VMware vCloud NFV 2.0 delivers agile, open and secure networks with</title>
@@ -137,79 +185,6 @@
       
       <guid>//crypt0.net/post/building-a-scalable-online-game-with-azure--part-3/</guid>
       <description>&lt;p&gt;NotFound) { var database = new Microsoft.Azure.Documents.Database { Id = DatabaseName }; await this.client.CreateDatabaseAsync(database); } &amp;hellip;  &lt;a href=&#34;http://www.gamasutra.com/blogs/NickPruehs/20170305/292955/Building_a_Scalable_Online_Game_with_Azure__Part_3.php&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gamasutra.com/blogs/NickPruehs/20170305/292955/Building_a_Scalable_Online_Game_with_Azure__Part_3.php&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SM:mainline3044: contrail-status not working</title>
-      <link>//crypt0.net/post/smmainline3044-contrailstatus-not-working/</link>
-      <pubDate>Sun, 05 Mar 2017 18:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/smmainline3044-contrailstatus-not-working/</guid>
-      <description>&lt;p&gt;provisioned with centos using server manager mainline 3044 2) Login to the &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1670231&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1670231&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
-      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
-      <pubDate>Sun, 05 Mar 2017 18:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
-      <description>&lt;p&gt;the best video tag predictions? Google Cloud  217 teams  3 months &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/29636/model-specification-using-command-line-or-flags-model?forumMessageId=165500&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/29636/model-specification-using-command-line-or-flags-model?forumMessageId=165500&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Cloud Computing News from @cloudfeednet - Mar 5, 2017</title>
-      <link>//crypt0.net/daily/daily-cloud-news-2017-03-05/</link>
-      <pubDate>Sun, 05 Mar 2017 18:05:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/daily/daily-cloud-news-2017-03-05/</guid>
-      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Cloud-Based Development Program SpatialOS Hits Open Beta&lt;/h3&gt;
-&lt;p&gt;The company is also rolling out its Games Innovation Program where it will work with Google Cloud to subsidize studios who want to use SpatialOS to &amp;hellip;  &lt;a href=&#34;https://uploadvr.com/cloud-based-spatialos-open-beta/&#34; onclick=&#34;trackOutboundLink(&#39;https://uploadvr.com/cloud-based-spatialos-open-beta/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon Web Services outage highlights Cloud risks&lt;/h3&gt;
-&lt;p&gt;This week, Amazon Web Services (AWS) Simple Storage System (S3) suffered a major outage. The outage lasted throughout most of Tuesday, Feb.  &lt;a href=&#34;http://www.seacoastonline.com/news/20170305/amazon-web-services-outage-highlights-cloud-risks&#34; onclick=&#34;trackOutboundLink(&#39;http://www.seacoastonline.com/news/20170305/amazon-web-services-outage-highlights-cloud-risks&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The typo that caused one of the biggest Amazon Web Services outage&lt;/h3&gt;
-&lt;p&gt;billing system caused the five-hour outage of some Amazon Web &amp;hellip;  &lt;a href=&#34;http://www.gadgetsnow.com/tech-news/the-typo-that-caused-one-of-the-biggest-amazon-web-services-outage/articleshow/57464317.cms&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gadgetsnow.com/tech-news/the-typo-that-caused-one-of-the-biggest-amazon-web-services-outage/articleshow/57464317.cms&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon.com, Inc. (NASDAQ:AMZN) Receives An Update From Brokers&lt;/h3&gt;
-&lt;p&gt;The Company operates through three segments: North America, International and Amazon Web Services (AWS). The North America segment consists &amp;hellip;  &lt;a href=&#34;http://www.desotoedge.com/stocks/amazon-com-inc-nasdaqamzn-receives-an-update-from-brokers-13/532173&#34; onclick=&#34;trackOutboundLink(&#39;http://www.desotoedge.com/stocks/amazon-com-inc-nasdaqamzn-receives-an-update-from-brokers-13/532173&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Probleme bei Amazon-Rechenzentrum legen Apps und Webseiten lahm&lt;/h3&gt;
-&lt;p&gt;So zumindest lsst sich Amazons Analyse des Serverausfalls bei seinem Cloud-Serverdienst AWS (Amazon Web Services) in dieser Woche &amp;hellip;  &lt;a href=&#34;http://geschichtedergegenwart.com/2017/03/05/probleme-bei-amazon-rechenzentrum-legen-apps-und-webseiten.html&#34; onclick=&#34;trackOutboundLink(&#39;http://geschichtedergegenwart.com/2017/03/05/probleme-bei-amazon-rechenzentrum-legen-apps-und-webseiten.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Typo Set in Motion Chain of Events That Shut Down AWS S3 Cloud&lt;/h3&gt;
-&lt;p&gt;NEWS ANALYSIS: The causes of the massive Amazon Web Services outages that knocked as many as 150,000 websites offline went way beyond a &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/typo-set-in-motion-chain-of-events-that-shut-down-aws-s3-cloud.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/typo-set-in-motion-chain-of-events-that-shut-down-aws-s3-cloud.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;VMware, Basic Support / Subscription VMware vCloud Automation Center 6&lt;/h3&gt;
-&lt;p&gt;VMware Support and Subscription Basic - Technical support - for vCloud Automation Center Development Kit - 1 instance - emergency phone &amp;hellip;  &lt;a href=&#34;http://www.pcm.com/p/VMware-Utilities-Software-Licensing-w/-Maintenance/product~dpno~9848754~pdp.iegbfhb&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcm.com/p/VMware-Utilities-Software-Licensing-w/-Maintenance/product~dpno~9848754~pdp.iegbfhb&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon installing rooftop solar power on its warehouses&lt;/h3&gt;
-&lt;p&gt;There are also wind and solar farms in Indiana, North Carolina, Ohio, and Virginia, that provide power to Amazon Web Services (AWS) datacenters.  &lt;a href=&#34;http://marketbusinessnews.com/amazon-installing-rooftop-solar-power-warehouses/155248&#34; onclick=&#34;trackOutboundLink(&#39;http://marketbusinessnews.com/amazon-installing-rooftop-solar-power-warehouses/155248&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Analysis: Rethinking cloud architecture after the outage of Amazon Web&lt;/h3&gt;
-&lt;p&gt;GeekWire Editor&amp;rsquo;s Note: Brian Guy is Director of Cloud Services for Dev9, a custom software development firm focused on cloud services. Thanks to innovation &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/analysis-rethinking-cloud-architecture-outage-amazon-web-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/analysis-rethinking-cloud-architecture-outage-amazon-web-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon installing rooftop solar power on its warehouses</title>
-      <link>//crypt0.net/post/amazon-installing-rooftop-solar-power-on-its-warehouses/</link>
-      <pubDate>Sun, 05 Mar 2017 13:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-installing-rooftop-solar-power-on-its-warehouses/</guid>
-      <description>&lt;p&gt;There are also wind and solar farms in Indiana, North Carolina, Ohio, and Virginia, that provide power to Amazon Web Services (AWS) datacenters.  &lt;a href=&#34;http://marketbusinessnews.com/amazon-installing-rooftop-solar-power-warehouses/155248&#34; onclick=&#34;trackOutboundLink(&#39;http://marketbusinessnews.com/amazon-installing-rooftop-solar-power-warehouses/155248&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
