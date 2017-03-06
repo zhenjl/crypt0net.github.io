@@ -7,16 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 06 Mar 2017 11:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2017 12:20:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon moves AWS Organizations to general availability</title>
+      <link>//crypt0.net/post/amazon-moves-aws-organizations-to-general-availability/</link>
+      <pubDate>Mon, 06 Mar 2017 12:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-moves-aws-organizations-to-general-availability/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s available now in all Amazon Web Services regions except China and AWS GovCloud. The service was developed to help customers who are &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/amazon-moves-aws-organizations-to-general-availability/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/amazon-moves-aws-organizations-to-general-availability/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Here&#39;s What Google Should Say At Its Big Cloud Event</title>
       <link>//crypt0.net/post/heres-what-google-should-say-at-its-big-cloud-event/</link>
-      <pubDate>Mon, 06 Mar 2017 11:50:04 +0000</pubDate>
+      <pubDate>Mon, 06 Mar 2017 12:20:05 +0000</pubDate>
       
       <guid>//crypt0.net/post/heres-what-google-should-say-at-its-big-cloud-event/</guid>
-      <description>&lt;p&gt;In this race, Google has to catch up with Amazon Web Services, which started blazing the trail in 2006 and wooing big customers soon thereafter and &amp;hellip;  &lt;a href=&#34;http://fortune.com/2017/03/06/google-cloud-event/&#34; onclick=&#34;trackOutboundLink(&#39;http://fortune.com/2017/03/06/google-cloud-event/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;And in this race, Google (goog). must challengeAmazon (amzn) Web Services and Microsoft Azure which are generally seen as the two largest public &amp;hellip;  &lt;a href=&#34;http://fortune.com/2017/03/06/google-cloud-event/&#34; onclick=&#34;trackOutboundLink(&#39;http://fortune.com/2017/03/06/google-cloud-event/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/recent-aws-s3-outage-revealed-amazons-weak-spot-and-the-danger-of-being/</guid>
       <description>&lt;p&gt;University Herald According to GeekWire, which got the full details of the story, Amazon Web Services (AWS) claims human error to blame for the massive AWS S3 &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/67947/20170306/data-centers-cloud-computing-cloud-computing-aws-amazon-aws-s3-aws-outage-server-network-aws-outage-blames-aws-outage-fix-aws-outage-cause-aws-affected-sites-aws-failure.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/67947/20170306/data-centers-cloud-computing-cloud-computing-aws-amazon-aws-s3-aws-outage-server-network-aws-outage-blames-aws-outage-fix-aws-outage-cause-aws-affected-sites-aws-failure.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Red Hat expert: OpenStack May Not Be As Complex As You Think</title>
-      <link>//crypt0.net/post/red-hat-expert-openstack-may-not-be-as-complex-as-you-think/</link>
-      <pubDate>Mon, 06 Mar 2017 08:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/red-hat-expert-openstack-may-not-be-as-complex-as-you-think/</guid>
-      <description>&lt;p&gt;Red Hat&amp;rsquo;s principal cloud architect says you can get into OpenStack, one step at a time, accomplishing business objectives along the way.  &lt;a href=&#34;http://www.informationweek.com/cloud/infrastructure-as-a-service/red-hat-expert-openstack-may-not-be-as-complex-as-you-think-/a/d-id/1328321&#34; onclick=&#34;trackOutboundLink(&#39;http://www.informationweek.com/cloud/infrastructure-as-a-service/red-hat-expert-openstack-may-not-be-as-complex-as-you-think-/a/d-id/1328321&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
