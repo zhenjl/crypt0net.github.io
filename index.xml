@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 05 Mar 2017 23:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2017 00:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Thales Announces Test Drive of Vormetric Transparent Encryption for Google</title>
+      <link>//crypt0.net/post/thales-announces-test-drive-of-vormetric-transparent-encryption-for-google/</link>
+      <pubDate>Mon, 06 Mar 2017 00:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/thales-announces-test-drive-of-vormetric-transparent-encryption-for-google/</guid>
+      <description>&lt;p&gt;Thales Announces Test Drive of Vormetric Transparent Encryption for Google Cloud Platform. Powered by Orbitera, Test Drive enables prospects to try &amp;hellip;  &lt;a href=&#34;https://www.thales-esecurity.com/company/press/news/2017/march/thales-announces-test-drive-of-vormetric-transparent-encryption-for-google-cloud-platform&#34; onclick=&#34;trackOutboundLink(&#39;https://www.thales-esecurity.com/company/press/news/2017/march/thales-announces-test-drive-of-vormetric-transparent-encryption-for-google-cloud-platform&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft&#39;s Azure Stack TP3 Hybrid Cloud available in India</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;NotFound) { var database = new Microsoft.Azure.Documents.Database { Id = DatabaseName }; await this.client.CreateDatabaseAsync(database); } &amp;hellip;  &lt;a href=&#34;http://www.gamasutra.com/blogs/NickPruehs/20170305/292955/Building_a_Scalable_Online_Game_with_Azure__Part_3.php&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gamasutra.com/blogs/NickPruehs/20170305/292955/Building_a_Scalable_Online_Game_with_Azure__Part_3.php&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Menlo Security&#39;s perspective: Addressing the Australian Notifiable Data</title>
-      <link>//crypt0.net/post/menlo-securitys-perspective-addressing-the-australian-notifiable-data/</link>
-      <pubDate>Sun, 05 Mar 2017 18:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/menlo-securitys-perspective-addressing-the-australian-notifiable-data/</guid>
-      <description>&lt;p&gt;SecurityBrief Australia With similar laws abandoned in the legislature twice before, the Privacy Amendment (Notifiable Data Breaches) Bill 2016 was introduced into the &amp;hellip;  &lt;a href=&#34;https://securitybrief.com.au/story/menlo-securitys-perspective-addressing-australian-notifiable-data-breaches-bill/&#34; onclick=&#34;trackOutboundLink(&#39;https://securitybrief.com.au/story/menlo-securitys-perspective-addressing-australian-notifiable-data-breaches-bill/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
