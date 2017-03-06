@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 06 Mar 2017 10:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2017 11:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why you should still trust Amazon Web Services even though it took down the</title>
+      <link>//crypt0.net/post/why-you-should-still-trust-amazon-web-services-even-though-it-took-down-the/</link>
+      <pubDate>Mon, 06 Mar 2017 11:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-you-should-still-trust-amazon-web-services-even-though-it-took-down-the/</guid>
+      <description>&lt;p&gt;Yahoo Finance Amazon&amp;rsquo;s cloud service went offline last week, taking parts of the internet with it. But there&amp;rsquo;s no reason to freak out. More. Amazon (AMZN) Web &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/amazon-web-service-outage-173242970.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/amazon-web-service-outage-173242970.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Comparison: Azure App Services vs Cloud Services</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/microsoft-on-devops-for-iot-part-3--talking-to-azure-iot-hub-from-vsts/</guid>
       <description>&lt;p&gt;It really doesn&amp;rsquo;t matter if your device is running Windows IoT Core (as chosen in my implementation) or any kind or Linux system or something totally &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/microsoft-on-devops-for-iot-part-3-talking-to-azure-iot-hub-from-vsts/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/microsoft-on-devops-for-iot-part-3-talking-to-azure-iot-hub-from-vsts/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nordcloud Listed in Gartner&#39;s Magic Quadrant for Public Cloud</title>
-      <link>//crypt0.net/post/nordcloud-listed-in-gartners-magic-quadrant-for-public-cloud/</link>
-      <pubDate>Mon, 06 Mar 2017 07:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nordcloud-listed-in-gartners-magic-quadrant-for-public-cloud/</guid>
-      <description>&lt;p&gt;PR Web (press release) &amp;hellip; for hyperscale integrated IaaS+PaaS providers  specifically, Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform (GCP).  &lt;a href=&#34;http://www.prweb.com/releases/nordcloud/managed-services/prweb14122535.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prweb.com/releases/nordcloud/managed-services/prweb14122535.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
