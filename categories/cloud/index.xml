@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 06 Mar 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2017 18:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pivotal hops aboard Kubernetes container orchestration tools bandwagon</title>
+      <link>//crypt0.net/post/pivotal-hops-aboard-kubernetes-container-orchestration-tools-bandwagon/</link>
+      <pubDate>Mon, 06 Mar 2017 18:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/pivotal-hops-aboard-kubernetes-container-orchestration-tools-bandwagon/</guid>
+      <description>&lt;p&gt;The integration, dubbed Kubo, will be unveiled Friday, according to multiple industry sources &amp;ndash;possibly as part of a presentation of the Google Cloud &amp;hellip;  &lt;a href=&#34;http://searchitoperations.techtarget.com/news/450414401/Pivotal-hops-aboard-Kubernetes-container-orchestration-tools-bandwagon&#34; onclick=&#34;trackOutboundLink(&#39;http://searchitoperations.techtarget.com/news/450414401/Pivotal-hops-aboard-Kubernetes-container-orchestration-tools-bandwagon&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Mar 6, 2017</title>
@@ -369,18 +381,6 @@
       
       <guid>//crypt0.net/post/heres-what-google-should-say-at-its-big-cloud-event/</guid>
       <description>&lt;p&gt;A managed version of PostgreSQL, a popular open-source database is atop many most-wanted lists among the Google cloud faithful. Google (googl) &amp;hellip;  &lt;a href=&#34;http://fortune.com/2017/03/06/google-cloud-event/&#34; onclick=&#34;trackOutboundLink(&#39;http://fortune.com/2017/03/06/google-cloud-event/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Red Hat expert: OpenStack May Not Be As Complex As You Think</title>
-      <link>//crypt0.net/post/red-hat-expert-openstack-may-not-be-as-complex-as-you-think/</link>
-      <pubDate>Mon, 06 Mar 2017 12:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/red-hat-expert-openstack-may-not-be-as-complex-as-you-think/</guid>
-      <description>&lt;p&gt;OpenStack is perhaps best known for its complexity. It&amp;rsquo;s not a single open source project but a framework meant to contain several projects with the &amp;hellip;  &lt;a href=&#34;http://www.informationweek.com/cloud/infrastructure-as-a-service/red-hat-expert-openstack-may-not-be-as-complex-as-you-think-/a/d-id/1328321?_mc=RSS_IWK_EDT&#34; onclick=&#34;trackOutboundLink(&#39;http://www.informationweek.com/cloud/infrastructure-as-a-service/red-hat-expert-openstack-may-not-be-as-complex-as-you-think-/a/d-id/1328321?_mc=RSS_IWK_EDT&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
