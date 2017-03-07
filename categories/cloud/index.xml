@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 06 Mar 2017 18:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2017 19:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to Avoid an AWS-Style Outage in Azure</title>
+      <link>//crypt0.net/post/how-to-avoid-an-awsstyle-outage-in-azure/</link>
+      <pubDate>Mon, 06 Mar 2017 19:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-avoid-an-awsstyle-outage-in-azure/</guid>
+      <description>&lt;p&gt;Most outages in Azure are localized and planned, such as updates being deployed to the Hyper hosts by Microsoft. Luckily, the hosts are running a &amp;hellip;  &lt;a href=&#34;https://www.petri.com/avoid-aws-style-outage-azure&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/avoid-aws-style-outage-azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Pivotal hops aboard Kubernetes container orchestration tools bandwagon</title>
@@ -369,18 +381,6 @@
       
       <guid>//crypt0.net/post/steady-movements--tg-therapeutics-inc-nasdaqtgtx-microsoft-corporation/</guid>
       <description>&lt;p&gt;Wall Street Times (press release) On Monday, TG Therapeutics Inc (NASDAQ:TGTX)&amp;rsquo;s stock is trading 90.65% higher at $10.18 with a total trading volume of 15.92M shares.  &lt;a href=&#34;http://www.wallstreetnews24.com/steady-movements-tg-therapeutics-inc-nasdaqtgtx-microsoft-corporation-nasdaqmsft/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.wallstreetnews24.com/steady-movements-tg-therapeutics-inc-nasdaqtgtx-microsoft-corporation-nasdaqmsft/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Here&#39;s What Google Should Say At Its Big Cloud Event</title>
-      <link>//crypt0.net/post/heres-what-google-should-say-at-its-big-cloud-event/</link>
-      <pubDate>Mon, 06 Mar 2017 12:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/heres-what-google-should-say-at-its-big-cloud-event/</guid>
-      <description>&lt;p&gt;A managed version of PostgreSQL, a popular open-source database is atop many most-wanted lists among the Google cloud faithful. Google (googl) &amp;hellip;  &lt;a href=&#34;http://fortune.com/2017/03/06/google-cloud-event/&#34; onclick=&#34;trackOutboundLink(&#39;http://fortune.com/2017/03/06/google-cloud-event/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
