@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Mar 2017 14:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Mar 2017 14:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Compare Microsoft Azure vs. Microsoft System Center</title>
+      <link>//crypt0.net/post/compare-microsoft-azure-vs-microsoft-system-center/</link>
+      <pubDate>Wed, 08 Mar 2017 14:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/compare-microsoft-azure-vs-microsoft-system-center/</guid>
+      <description>&lt;p&gt;comparison of microsoft-system-center &amp;amp; microsoft-azure:  features  pricing &amp;hellip;  &lt;a href=&#34;https://comparisons.financesonline.com/microsoft-system-center-vs-microsoft-azure&#34; onclick=&#34;trackOutboundLink(&#39;https://comparisons.financesonline.com/microsoft-system-center-vs-microsoft-azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microsoft, Qualcomm Bring ARM to Azure</title>
+      <link>//crypt0.net/post/microsoft-qualcomm-bring-arm-to-azure/</link>
+      <pubDate>Wed, 08 Mar 2017 14:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-qualcomm-bring-arm-to-azure/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been rumored for years, but it&amp;rsquo;s now a reality: Microsoft will use Qualcomm&amp;rsquo;s ARM processors within its Azure cloud computing platform. The two &amp;hellip;  &lt;a href=&#34;http://www.lightreading.com/enterprise-cloud/microsoft-qualcomm-bring-arm-to-azure/d/d-id/730959&#34; onclick=&#34;trackOutboundLink(&#39;http://www.lightreading.com/enterprise-cloud/microsoft-qualcomm-bring-arm-to-azure/d/d-id/730959&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OpenStack Australia Day Melbourne - 3 months to go!</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/google-cloud-touts-customer-wins-and-reliability-in-wake-of-amazon-web/</guid>
       <description>&lt;p&gt;GeekWire Google is on a mission to become a leading option for businesses making the shift to the cloud, and in the wake of the big Amazon Web Services &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/google-cloud-touts-customer-wins-reliability-wake-amazon-web-services-outage/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/google-cloud-touts-customer-wins-reliability-wake-amazon-web-services-outage/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ARMing the Cloud; Qualcomm&#39;s Centriq 2400 Platform will power Microsoft</title>
-      <link>//crypt0.net/post/arming-the-cloud-qualcomms-centriq-2400-platform-will-power-microsoft/</link>
-      <pubDate>Wed, 08 Mar 2017 10:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/arming-the-cloud-qualcomms-centriq-2400-platform-will-power-microsoft/</guid>
-      <description>&lt;p&gt;PC Perspective Last December Qualcomm announced plans to launch their Centriq 2400 series of platforms for data centres, demonstrating Apache Spark and &amp;hellip;  &lt;a href=&#34;https://www.pcper.com/news/General-Tech/ARMing-Cloud-Qualcomms-Centriq-2400-Platform-will-power-Microsoft-Azure-instances&#34; onclick=&#34;trackOutboundLink(&#39;https://www.pcper.com/news/General-Tech/ARMing-Cloud-Qualcomms-Centriq-2400-Platform-will-power-Microsoft-Azure-instances&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Get faster Azure T-SQL queries using the new database query editor</title>
-      <link>//crypt0.net/post/get-faster-azure-tsql-queries-using-the-new-database-query-editor/</link>
-      <pubDate>Wed, 08 Mar 2017 10:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/get-faster-azure-tsql-queries-using-the-new-database-query-editor/</guid>
-      <description>&lt;p&gt;Microsoft has recently added a SQL Database Query editor to its Azure cloud service. Expert Michael Otey walks you through the new T-SQL &amp;hellip;  &lt;a href=&#34;http://searchcloudapplications.techtarget.com/tip/Get-faster-Azure-T-SQL-queries-using-the-new-database-query-editor&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudapplications.techtarget.com/tip/Get-faster-Azure-T-SQL-queries-using-the-new-database-query-editor&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
