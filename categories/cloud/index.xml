@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 07 Mar 2017 20:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2017 21:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack network mystery: How 2 bytes cost me hours of trouble</title>
+      <link>//crypt0.net/post/openstack-network-mystery-how-2-bytes-cost-me-hours-of-trouble/</link>
+      <pubDate>Tue, 07 Mar 2017 21:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-network-mystery-how-2-bytes-cost-me-hours-of-trouble/</guid>
+      <description>&lt;p&gt;strange connectivity problems with all my OpenStack instances. It was the &amp;hellip;  &lt;a href=&#34;https://www.dynatrace.com/blog/openstack-network-mystery-2-bytes-cost-me-hours-of-trouble/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.dynatrace.com/blog/openstack-network-mystery-2-bytes-cost-me-hours-of-trouble/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft suffers authentication outage as Outlook, Hotmail and Skype users</title>
@@ -41,18 +53,6 @@
       
       <guid>//crypt0.net/post/as-cloud-wars-grow-fiercer-who-will-rule-the-indian-market--aws-azure/</guid>
       <description>&lt;p&gt;YourStory.com While AWS has a strong presence among startups in India, Microsoft Azure seems to have a strong network of enterprise clients and has also recently &amp;hellip;  &lt;a href=&#34;https://yourstory.com/2017/03/cloud-wars-2017-india/&#34; onclick=&#34;trackOutboundLink(&#39;https://yourstory.com/2017/03/cloud-wars-2017-india/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OpenStack network mystery: How 2 bytes cost me hours of trouble</title>
-      <link>//crypt0.net/post/openstack-network-mystery-how-2-bytes-cost-me-hours-of-trouble/</link>
-      <pubDate>Tue, 07 Mar 2017 18:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-network-mystery-how-2-bytes-cost-me-hours-of-trouble/</guid>
-      <description>&lt;p&gt;Once upon a time, I set up an OpenStack cluster and experienced some strange connectivity problems with all my OpenStack instances. It was the &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/4028100&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/4028100&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
