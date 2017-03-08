@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Mar 2017 14:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Mar 2017 15:20:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Is Second Generation the Charm for ARM?</title>
+      <link>//crypt0.net/post/is-second-generation-the-charm-for-arm/</link>
+      <pubDate>Wed, 08 Mar 2017 15:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/is-second-generation-the-charm-for-arm/</guid>
+      <description>&lt;p&gt;Cavium (NASDAQ: CAVM) said the collaboration with Microsoft involves &amp;ldquo;evaluating and enabling&amp;rdquo; Azure cloud workloads running on its ARM-based &amp;hellip;  &lt;a href=&#34;https://www.enterprisetech.com/2017/03/08/second-generation-charm-arm/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.enterprisetech.com/2017/03/08/second-generation-charm-arm/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Cloud Acquires Kaggle, Releases New Machine Learning Products</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/windows-server-on-arm-microsoft-moves-beyond-intel-in-its-azure-cloud/</guid>
       <description>&lt;p&gt;Microsoft will begin using ARM-based servers in its Azure cloud, in a significant move that takes it beyond using only Intel chips in its datacenters.  &lt;a href=&#34;http://www.techrepublic.com/article/windows-server-on-arm-microsoft-moves-beyond-intel-in-its-azure-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techrepublic.com/article/windows-server-on-arm-microsoft-moves-beyond-intel-in-its-azure-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Wise Practitioner  Predictive Analytics Interview Series: George</title>
-      <link>//crypt0.net/post/wise-practitioner--predictive-analytics-interview-series-george/</link>
-      <pubDate>Wed, 08 Mar 2017 11:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/wise-practitioner--predictive-analytics-interview-series-george/</guid>
-      <description>&lt;p&gt;The Predictive Analytics Times A: We show how a solution can be implemented and deployed fast in the cloud, using the flexible on-line Microsoft Azure platform that decouples &amp;hellip;  &lt;a href=&#34;http://www.predictiveanalyticsworld.com/patimes/wise-practitioner-predictive-analytics-interview-series-george-iordanescu-microsoft382017/8522/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.predictiveanalyticsworld.com/patimes/wise-practitioner-predictive-analytics-interview-series-george-iordanescu-microsoft382017/8522/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
