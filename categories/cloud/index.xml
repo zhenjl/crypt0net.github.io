@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 07 Mar 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2017 18:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack network mystery: How 2 bytes cost me hours of trouble</title>
+      <link>//crypt0.net/post/openstack-network-mystery-how-2-bytes-cost-me-hours-of-trouble/</link>
+      <pubDate>Tue, 07 Mar 2017 18:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-network-mystery-how-2-bytes-cost-me-hours-of-trouble/</guid>
+      <description>&lt;p&gt;Once upon a time, I set up an OpenStack cluster and experienced some strange connectivity problems with all my OpenStack instances. It was the &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/4028100&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/4028100&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Mar 7, 2017</title>
@@ -330,18 +342,6 @@
       
       <guid>//crypt0.net/post/amazon-cloud-drive-has-best-pricing-and-terms-but-buggy-app/</guid>
       <description>&lt;p&gt;Its Amazon Web Services division provides backup and cloud services to run small, medium and large websites, with everyone from Netflix and Spotify &amp;hellip;  &lt;a href=&#34;http://www.usatoday.com/story/tech/talkingtech/2017/03/07/amazon-cloud-drive-has-best-pricing-and-terms-but-buggy-app/98812878/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.usatoday.com/story/tech/talkingtech/2017/03/07/amazon-cloud-drive-has-best-pricing-and-terms-but-buggy-app/98812878/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BridgeSTOR Free Coronado V-NAS Archive Access Point for Microsoft Azure</title>
-      <link>//crypt0.net/post/bridgestor-free-coronado-vnas-archive-access-point-for-microsoft-azure/</link>
-      <pubDate>Tue, 07 Mar 2017 09:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bridgestor-free-coronado-vnas-archive-access-point-for-microsoft-azure/</guid>
-      <description>&lt;p&gt;allows up to 5TB of backup data to be stored in Microsoft Azure with no &amp;hellip;  &lt;a href=&#34;http://www.storagenewsletter.com/rubriques/software/bridgestor-free-coronado-v-nas-archive-access-point-for-microsoft-azure/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.storagenewsletter.com/rubriques/software/bridgestor-free-coronado-v-nas-archive-access-point-for-microsoft-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
