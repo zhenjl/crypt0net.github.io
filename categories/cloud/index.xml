@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Mar 2017 02:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Mar 2017 02:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>most of extended server attributes returned in 2.3 api versions should not</title>
+      <link>//crypt0.net/post/most-of-extended-server-attributes-returned-in-23-api-versions-should-not/</link>
+      <pubDate>Wed, 08 Mar 2017 02:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/most-of-extended-server-attributes-returned-in-23-api-versions-should-not/</guid>
+      <description>&lt;p&gt;Since microverison 2.3, the responses from server creation (&lt;a href=&#34;https://developer.openstack.org/api-ref/compute/?expanded=create-server-de&#34;&gt;https://developer.openstack.org/api-ref/compute/?expanded=create-server-de&lt;/a&gt; tail#id8) &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1670978&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1670978&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Visual Studio 2017 Released for Public Download</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/data-management-for-google-cloud-platform/</guid>
       <description>&lt;p&gt;for the Google Cloud Platform.  &lt;a href=&#34;https://www.informatica.com/solutions/cloud-integration-and-data-management/google.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.informatica.com/solutions/cloud-integration-and-data-management/google.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Introducing Check Point vSEC for Google Cloud Platform</title>
-      <link>//crypt0.net/post/introducing-check-point-vsec-for-google-cloud-platform/</link>
-      <pubDate>Tue, 07 Mar 2017 22:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/introducing-check-point-vsec-for-google-cloud-platform/</guid>
-      <description>&lt;p&gt;servers) or migrating back office apps into Google Cloud Platform (GCP), &amp;hellip;  &lt;a href=&#34;http://blog.checkpoint.com/2017/03/07/introducing-check-point-vsec-google-cloud-platform/&#34; onclick=&#34;trackOutboundLink(&#39;http://blog.checkpoint.com/2017/03/07/introducing-check-point-vsec-google-cloud-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
