@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Mar 2017 14:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Mar 2017 14:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Windows Server Comes To ARM Chips, But Only For Azure</title>
+      <link>//crypt0.net/post/windows-server-comes-to-arm-chips-but-only-for-azure/</link>
+      <pubDate>Thu, 09 Mar 2017 14:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/windows-server-comes-to-arm-chips-but-only-for-azure/</guid>
+      <description>&lt;p&gt;The rumors have been running around for years, and they turned out to be true. Microsoft, the world&amp;rsquo;s largest operating system supplier and still the &amp;hellip;  &lt;a href=&#34;https://www.nextplatform.com/2017/03/09/windows-server-comes-arm-chips-azure/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.nextplatform.com/2017/03/09/windows-server-comes-arm-chips-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>In the cloud wars with Amazon and Microsoft, Google&#39;s eighth employee says</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/suse-completes-acquisition-of-openstack-iaas-and-cloud-foundry-paas-talent/</guid>
       <description>&lt;p&gt;SUSE Completes Acquisition of OpenStack IaaS and Cloud Foundry PaaS Talent and Technology Assets from HPE - 100.7 KFM-BFM - San Diego &amp;hellip;  &lt;a href=&#34;http://www.kfmbfm.com/story/34704598/suse-completes-acquisition-of-openstack-iaas-and-cloud-foundry-paas-talent-and-technology-assets-from-hpe&#34; onclick=&#34;trackOutboundLink(&#39;http://www.kfmbfm.com/story/34704598/suse-completes-acquisition-of-openstack-iaas-and-cloud-foundry-paas-talent-and-technology-assets-from-hpe&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bug #1671404 User guide: block-device option is incompatible in...</title>
-      <link>//crypt0.net/post/bug-1671404-user-guide-blockdevice-option-is-incompatible-in/</link>
-      <pubDate>Thu, 09 Mar 2017 03:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1671404-user-guide-blockdevice-option-is-incompatible-in/</guid>
-      <description>&lt;p&gt;replaced with openstack server create command. However, block-device &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1671404&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1671404&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
