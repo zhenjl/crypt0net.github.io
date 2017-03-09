@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Mar 2017 20:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Mar 2017 20:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Unable to create server on openstack with availability zone</title>
+      <link>//crypt0.net/post/unable-to-create-server-on-openstack-with-availability-zone/</link>
+      <pubDate>Wed, 08 Mar 2017 20:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/unable-to-create-server-on-openstack-with-availability-zone/</guid>
+      <description>&lt;p&gt;attribute you get the following error: openstack.exceptions.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1671073&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1671073&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Details Project Olympus Open Compute Standard</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;See how companies use Google Cloud, Chrome, and Android to reimagine the way they engage customers in public spaces and also equip &amp;hellip;  &lt;a href=&#34;https://blog.google/topics/connected-workspaces/how-businesses-are-smartly-transforming-google-cloud-android-and-chrome/&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.google/topics/connected-workspaces/how-businesses-are-smartly-transforming-google-cloud-android-and-chrome/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CrowdStrike Accelerates Significant Growth and Momentum in APAC Region</title>
-      <link>//crypt0.net/post/crowdstrike-accelerates-significant-growth-and-momentum-in-apac-region/</link>
-      <pubDate>Wed, 08 Mar 2017 18:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/crowdstrike-accelerates-significant-growth-and-momentum-in-apac-region/</guid>
-      <description>&lt;p&gt;CrowdStrike Falcon is the only platform that unifies next-generation antivirus (AV), endpoint detection and response (EDR), and a &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt; threat hunting &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/crowdstrike-accelerates-significant-growth-momentum-210000649.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/crowdstrike-accelerates-significant-growth-momentum-210000649.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
