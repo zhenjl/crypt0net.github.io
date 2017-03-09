@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Mar 2017 02:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Mar 2017 02:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>It&#39;s official  SUSE completes acquisition of HPE OpenStack and Cloud</title>
+      <link>//crypt0.net/post/its-official--suse-completes-acquisition-of-hpe-openstack-and-cloud/</link>
+      <pubDate>Thu, 09 Mar 2017 02:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/its-official--suse-completes-acquisition-of-hpe-openstack-and-cloud/</guid>
+      <description>&lt;p&gt;Just three months ago, when we announced the SUSE acquisition of OpenStack IaaS and Cloud Foundry PaaS assets from Hewlett Packard &amp;hellip;  &lt;a href=&#34;https://www.suse.com/communities/blog/its-official-suse-completes-acquisition-of-hpe-openstack-and-cloud-foundry-assets/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.suse.com/communities/blog/its-official-suse-completes-acquisition-of-hpe-openstack-and-cloud-foundry-assets/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HSBC turns to Google Cloud for analytics and machine learning capabilties</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/recent-changes-in-azure-pricing-and-licensing-are-helping-companies-succeed/</guid>
       <description>&lt;p&gt;Recently, Microsoft has made a few changes to their Azure offering that are helping companies make the leap to the cloud. In October of 2016, &amp;hellip;  &lt;a href=&#34;https://www.datapipe.com/blog/2017/03/08/recent-changes-in-azure-pricing/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.datapipe.com/blog/2017/03/08/recent-changes-in-azure-pricing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>designate-manage pool update fails intermittently</title>
-      <link>//crypt0.net/post/designatemanage-pool-update-fails-intermittently/</link>
-      <pubDate>Wed, 08 Mar 2017 23:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/designatemanage-pool-update-fails-intermittently/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://logs.openstack.org/11/441911/1/check/gate-puppet-openstack-integrati&#34;&gt;http://logs.openstack.org/11/441911/1/check/gate-puppet-openstack-integrati&lt;/a&gt; on-4- &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1671206&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1671206&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
