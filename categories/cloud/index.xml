@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Mar 2017 20:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Mar 2017 22:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Citrix: Try XenApp in Azure for the Fastest POC</title>
+      <link>//crypt0.net/post/citrix-try-xenapp-in-azure-for-the-fastest-poc/</link>
+      <pubDate>Wed, 08 Mar 2017 22:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/citrix-try-xenapp-in-azure-for-the-fastest-poc/</guid>
+      <description>&lt;p&gt;Just about a year ago, we released a new way to try XenApphosted in Microsoft Azure and initiated through the Azure Marketplace. One year and &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/citrix-try-xenapp-in-azure-for-the-fastest-poc/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/citrix-try-xenapp-in-azure-for-the-fastest-poc/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Unable to create server on openstack with availability zone</title>
@@ -378,18 +390,6 @@
       
       <guid>//crypt0.net/post/announcing-google-cloud-video-intelligence-api-and-more-cloud-machine/</guid>
       <description>&lt;p&gt;Today at Google Cloud Next &amp;lsquo;17 we&amp;rsquo;re excited to announce new products, research and education programs to ensure machine learning is accessible &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/blog/big-data/2017/03/announcing-google-cloud-video-intelligence-api-and-more-cloud-machine-learning-updates&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/blog/big-data/2017/03/announcing-google-cloud-video-intelligence-api-and-more-cloud-machine-learning-updates&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Developments in our Intel - Google Cloud Strategic Alliance and the Power</title>
-      <link>//crypt0.net/post/developments-in-our-intel--google-cloud-strategic-alliance-and-the-power/</link>
-      <pubDate>Wed, 08 Mar 2017 16:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/developments-in-our-intel--google-cloud-strategic-alliance-and-the-power/</guid>
-      <description>&lt;p&gt;In November, Google Cloud and Intel announced a strategic allianceOpens in a new window to support and accelerate enterprise adoption of cloud.  &lt;a href=&#34;http://itpeernetwork.intel.com/intel-google-cloud-strategic-alliance/&#34; onclick=&#34;trackOutboundLink(&#39;http://itpeernetwork.intel.com/intel-google-cloud-strategic-alliance/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
