@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 08 Mar 2017 23:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Mar 2017 23:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>(HDP) on a Linux on IBM Power Systems server</title>
+      <link>//crypt0.net/post/hdp-on-a-linux-on-ibm-power-systems-server/</link>
+      <pubDate>Wed, 08 Mar 2017 23:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/hdp-on-a-linux-on-ibm-power-systems-server/</guid>
+      <description>&lt;p&gt;IBM Power System LC servers that are running KVM. This article also &amp;hellip;  &lt;a href=&#34;http://www.ibm.com/developerworks/linux/library/l-openstack-cloud-on-ibm-power-systems-trs/index.html?ca=drs-&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ibm.com/developerworks/linux/library/l-openstack-cloud-on-ibm-power-systems-trs/index.html?ca=drs-&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Recent Changes in Azure Pricing and Licensing Are Helping Companies Succeed</title>
@@ -380,18 +392,6 @@
 
 &lt;p&gt;&lt;h3&gt;Google touts new cloud computing clients; analysts skeptical&lt;/h3&gt;
 &lt;p&gt;ticked off a host of new clients, including HSBC, Colgate, Verizon and &amp;hellip;  &lt;a href=&#34;http://www.srnnews.com/google-touts-new-cloud-computing-clients-analysts-skeptical/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.srnnews.com/google-touts-new-cloud-computing-clients-analysts-skeptical/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Gartner Publishes Magic Quadrant for Managed Cloud Service Providers</title>
-      <link>//crypt0.net/post/gartner-publishes-magic-quadrant-for-managed-cloud-service-providers/</link>
-      <pubDate>Wed, 08 Mar 2017 17:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/gartner-publishes-magic-quadrant-for-managed-cloud-service-providers/</guid>
-      <description>&lt;p&gt;For example, Amazon Web Services added nearly 1000 new services last year, and 700 in the year before. Some IT departments will prefer to do the &amp;hellip;  &lt;a href=&#34;http://1reddrop.com/2017/03/08/gartner-publishes-magic-quadrant-managed-cloud-service-providers/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/03/08/gartner-publishes-magic-quadrant-managed-cloud-service-providers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
