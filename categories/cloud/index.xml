@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 10 Mar 2017 04:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Mar 2017 04:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Missing router tab in Horizon Openstack Newton</title>
+      <link>//crypt0.net/post/missing-router-tab-in-horizon-openstack-newton/</link>
+      <pubDate>Fri, 10 Mar 2017 04:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/missing-router-tab-in-horizon-openstack-newton/</guid>
+      <description>&lt;p&gt;apache2.error log the following message appear [Fri Mar 10 09:18:35.676770 &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/horizon/+bug/1671785&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/horizon/+bug/1671785&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Defense in Depth  Running Secure Workloads in Azure</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/trifacta-and-google-collaborate-to-create-google-cloud-dataprep/</guid>
       <description>&lt;p&gt;Trifacta, the global leader in data wrangling, today announced it has collaborated with Google to build Google Cloud Dataprep. Google Cloud &amp;hellip;  &lt;a href=&#34;http://sdtimes.com/trifacta-google-collaborate-create-google-cloud-dataprep/&#34; onclick=&#34;trackOutboundLink(&#39;http://sdtimes.com/trifacta-google-collaborate-create-google-cloud-dataprep/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OCP Summit: Microsoft shows ARM data center servers</title>
-      <link>//crypt0.net/post/ocp-summit-microsoft-shows-arm-data-center-servers/</link>
-      <pubDate>Thu, 09 Mar 2017 23:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ocp-summit-microsoft-shows-arm-data-center-servers/</guid>
-      <description>&lt;p&gt;The company also ported Windows Azure to run on the ARM platform - but only &amp;hellip; Microsoft has accelerated the timetable for cloud data center ARM &amp;hellip;  &lt;a href=&#34;http://www.datacenterdynamics.com/content-tracks/open-data-center/ocp-summit-microsoft-shows-arm-data-center-servers/97946.article&#34; onclick=&#34;trackOutboundLink(&#39;http://www.datacenterdynamics.com/content-tracks/open-data-center/ocp-summit-microsoft-shows-arm-data-center-servers/97946.article&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
