@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 09 Mar 2017 16:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Mar 2017 16:50:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FileMaker Cloud: Amazon Web Services (AWS) EC2 Console troubleshooting</title>
+      <link>//crypt0.net/post/filemaker-cloud-amazon-web-services-aws-ec2-console-troubleshooting/</link>
+      <pubDate>Thu, 09 Mar 2017 16:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/filemaker-cloud-amazon-web-services-aws-ec2-console-troubleshooting/</guid>
+      <description>&lt;p&gt;Services (AWS) EC2 console. For example, if FileMaker Cloud is &amp;hellip;  &lt;a href=&#34;http://help.filemaker.com/app/answers/detail/a_id/16360&#34; onclick=&#34;trackOutboundLink(&#39;http://help.filemaker.com/app/answers/detail/a_id/16360&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google&#39;s Cloud Platform improves its free tier and adds always-free compute</title>
+      <link>//crypt0.net/post/googles-cloud-platform-improves-its-free-tier-and-adds-alwaysfree-compute/</link>
+      <pubDate>Thu, 09 Mar 2017 16:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/googles-cloud-platform-improves-its-free-tier-and-adds-alwaysfree-compute/</guid>
+      <description>&lt;p&gt;TechCrunch The free tier, which now offers enough power to run a small app in Google&amp;rsquo;s cloud, is offered in addition to an expanded free trial program (yep &amp;hellip;  &lt;a href=&#34;https://techcrunch.com/2017/03/09/googles-cloud-platform-improves-its-free-tier-and-adds-always-free-compute-and-storage-services/&#34; onclick=&#34;trackOutboundLink(&#39;https://techcrunch.com/2017/03/09/googles-cloud-platform-improves-its-free-tier-and-adds-always-free-compute-and-storage-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>SUSE Completes Acquisition of OpenStack IaaS and Cloud Foundry PaaS Talent</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/integrating-onpremises-core-infrastructure-with-microsoft-azure/</guid>
       <description>&lt;p&gt;Machines and Azure Cloud Services.  &lt;a href=&#34;https://www.globalknowledge.com/us-en/course/152502/integrating-on-premises-core-infrastructure-with-microsoft-azure-m10992/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.globalknowledge.com/us-en/course/152502/integrating-on-premises-core-infrastructure-with-microsoft-azure-m10992/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rackspace to offer Google Cloud Platform support after similar Azure and</title>
-      <link>//crypt0.net/post/rackspace-to-offer-google-cloud-platform-support-after-similar-azure-and/</link>
-      <pubDate>Thu, 09 Mar 2017 12:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rackspace-to-offer-google-cloud-platform-support-after-similar-azure-and/</guid>
-      <description>&lt;p&gt;www.computing.co.uk &amp;hellip; partner for the Google Cloud Platform (GCP), following on from similar deals it has struck with Microsoft Azure and Amazon Web Services (AWS).  &lt;a href=&#34;http://www.computing.co.uk/ctg/news/3006186/rackspace-to-offer-google-cloud-platform-support-after-similar-azure-and-aws-deals&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computing.co.uk/ctg/news/3006186/rackspace-to-offer-google-cloud-platform-support-after-similar-azure-and-aws-deals&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud adds three new GCP regions</title>
-      <link>//crypt0.net/post/google-cloud-adds-three-new-gcp-regions/</link>
-      <pubDate>Thu, 09 Mar 2017 12:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-adds-three-new-gcp-regions/</guid>
-      <description>&lt;p&gt;Today at Google Cloud Next in San Francisco, the company announced three new regions for its Google Cloud Platform. The Netherlands, Montreal &amp;hellip;  &lt;a href=&#34;https://techcrunch.com/2017/03/09/google-cloud-adds-three-new-gcp-regions/&#34; onclick=&#34;trackOutboundLink(&#39;https://techcrunch.com/2017/03/09/google-cloud-adds-three-new-gcp-regions/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
