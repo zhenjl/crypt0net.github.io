@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 10 Mar 2017 01:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Mar 2017 02:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft announces Premium RS, 4TB storage options for Azure SQL Database</title>
+      <link>//crypt0.net/post/microsoft-announces-premium-rs-4tb-storage-options-for-azure-sql-database/</link>
+      <pubDate>Fri, 10 Mar 2017 02:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-announces-premium-rs-4tb-storage-options-for-azure-sql-database/</guid>
+      <description>&lt;p&gt;Microsoft yesterday announced the preview of Premium RS, a 4TB increase of storage limits for Premium P11 and P15, and an enhanced portal &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-announces-premium-rs-4tb-storage-options-azure-sql-database/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-announces-premium-rs-4tb-storage-options-azure-sql-database/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Enable Openstack Proposal bot for Masakari related projects</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/microsofts-new-cloud-server-to-use-arm-chips/</guid>
       <description>&lt;p&gt;In an interview with Bloomberg News, Microsoft&amp;rsquo;s vice president of its Azure cloud unit, Jason Zander, said Microsoft created a Windows Operating &amp;hellip;  &lt;a href=&#34;http://www.investopedia.com/news/microsofts-new-cloud-server-use-arm-chips/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.investopedia.com/news/microsofts-new-cloud-server-use-arm-chips/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AWS outage lesson: don&#39;t put all tech eggs in one cloud basket</title>
-      <link>//crypt0.net/post/aws-outage-lesson-dont-put-all-tech-eggs-in-one-cloud-basket/</link>
-      <pubDate>Thu, 09 Mar 2017 22:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aws-outage-lesson-dont-put-all-tech-eggs-in-one-cloud-basket/</guid>
-      <description>&lt;p&gt;AWS When Amazon&amp;rsquo;s S3 cloud storage service at Amazon&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://cw.com.hk/opinion/aws-outage-lesson-dont-put-all-tech-eggs-one-cloud-basket&#34; onclick=&#34;trackOutboundLink(&#39;http://cw.com.hk/opinion/aws-outage-lesson-dont-put-all-tech-eggs-one-cloud-basket&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
