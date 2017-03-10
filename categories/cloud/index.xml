@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 10 Mar 2017 03:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Mar 2017 04:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Defense in Depth  Running Secure Workloads in Azure</title>
+      <link>//crypt0.net/post/defense-in-depth--running-secure-workloads-in-azure/</link>
+      <pubDate>Fri, 10 Mar 2017 04:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/defense-in-depth--running-secure-workloads-in-azure/</guid>
+      <description>&lt;p&gt;process of running secure workloads on it. Here&amp;rsquo;s what else you need to know.  &lt;a href=&#34;https://blog.rackspace.com/defense-in-depth-running-secure-workloads-in-azure&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.rackspace.com/defense-in-depth-running-secure-workloads-in-azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google dangles bundle of cloud goodies to lure biz devs away from AWS</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/ocp-summit-microsoft-shows-arm-data-center-servers/</guid>
       <description>&lt;p&gt;The company also ported Windows Azure to run on the ARM platform - but only &amp;hellip; Microsoft has accelerated the timetable for cloud data center ARM &amp;hellip;  &lt;a href=&#34;http://www.datacenterdynamics.com/content-tracks/open-data-center/ocp-summit-microsoft-shows-arm-data-center-servers/97946.article&#34; onclick=&#34;trackOutboundLink(&#39;http://www.datacenterdynamics.com/content-tracks/open-data-center/ocp-summit-microsoft-shows-arm-data-center-servers/97946.article&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Private search firm migrates to OpenStack as it adopts automation</title>
-      <link>//crypt0.net/post/private-search-firm-migrates-to-openstack-as-it-adopts-automation/</link>
-      <pubDate>Thu, 09 Mar 2017 23:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/private-search-firm-migrates-to-openstack-as-it-adopts-automation/</guid>
-      <description>&lt;p&gt;From a virtualization perspective, we&amp;rsquo;re using a combination of VMware and OpenStack, but we&amp;rsquo;re actually migrating everything over to OpenStack &amp;hellip;  &lt;a href=&#34;https://www.techworld.com.au/article/615682/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.techworld.com.au/article/615682/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
