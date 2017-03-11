@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 11 Mar 2017 00:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Mar 2017 01:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure IoT SDKs for Java</title>
+      <link>//crypt0.net/post/microsoft-azure-iot-sdks-for-java/</link>
+      <pubDate>Sat, 11 Mar 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-iot-sdks-for-java/</guid>
+      <description>&lt;p&gt;devices and applications that connect to and are managed by Azure IoT &amp;hellip;  &lt;a href=&#34;https://azure.github.io/azure-iot-sdk-java/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.github.io/azure-iot-sdk-java/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Learn More about Internet of Things</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;There is an adage, not quite yet old, suggesting that compute is free but storage is not. Perhaps a more accurate and, as far as public clouds are &amp;hellip;  &lt;a href=&#34;https://www.linux.com/news/bouncing-back-private-clouds-openstack&#34; onclick=&#34;trackOutboundLink(&#39;https://www.linux.com/news/bouncing-back-private-clouds-openstack&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Maciej Kranz: Building The Internet of Things: Overabundance Of Access</title>
-      <link>//crypt0.net/post/maciej-kranz-building-the-internet-of-things-overabundance-of-access/</link>
-      <pubDate>Fri, 10 Mar 2017 18:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/maciej-kranz-building-the-internet-of-things-overabundance-of-access/</guid>
-      <description>&lt;p&gt;As noted above, we&amp;rsquo;re all facing an overabundance of access technologies. This is further complicated by disparate devices and the tasks we want our &amp;hellip;  &lt;a href=&#34;http://www.theinternetofthings.eu/maciej-kranz-building-internet-things-overabundance-access-technologies&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theinternetofthings.eu/maciej-kranz-building-internet-things-overabundance-access-technologies&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 10 Mar 2017 22:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Mar 2017 01:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure IoT SDKs for Java</title>
+      <link>//crypt0.net/post/microsoft-azure-iot-sdks-for-java/</link>
+      <pubDate>Sat, 11 Mar 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-iot-sdks-for-java/</guid>
+      <description>&lt;p&gt;devices and applications that connect to and are managed by Azure IoT &amp;hellip;  &lt;a href=&#34;https://azure.github.io/azure-iot-sdk-java/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.github.io/azure-iot-sdk-java/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sonata Software Launches Its Enterprise Mobility Platform, Halosys</title>
@@ -312,18 +324,6 @@
       
       <guid>//crypt0.net/post/google-cloud-gets-sap-hana-on-board-to-build-enterprise-momentum/</guid>
       <description>&lt;p&gt;&amp;hellip; such as search and indexing, storage, databases, big data and machine learning,&amp;rdquo; said Leendert van Doorn of Microsoft&amp;rsquo;s Azure unit, in a blog post.  &lt;a href=&#34;http://www.sci-tech-today.com/news/SAP-HANA-Now-Aboard-Google-Cloud/story.xhtml?story_id=022002GG8OUU&#34; onclick=&#34;trackOutboundLink(&#39;http://www.sci-tech-today.com/news/SAP-HANA-Now-Aboard-Google-Cloud/story.xhtml?story_id=022002GG8OUU&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pivotal, Google Cloud Take Aim At Azure With Launch Of Kubo For Deployment,</title>
-      <link>//crypt0.net/post/pivotal-google-cloud-take-aim-at-azure-with-launch-of-kubo-for-deployment/</link>
-      <pubDate>Fri, 10 Mar 2017 14:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/pivotal-google-cloud-take-aim-at-azure-with-launch-of-kubo-for-deployment/</guid>
-      <description>&lt;p&gt;CRN The deal gives Google more firepower to take on Microsoft Azure in the enterprise cloud market, said Jamie Shepard, senior vice president for health &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/cloud/300084152/pivotal-google-cloud-take-aim-at-azure-with-launch-of-kubo-for-deployment-management-of-kubernetes-clusters.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300084152/pivotal-google-cloud-take-aim-at-azure-with-launch-of-kubo-for-deployment-management-of-kubernetes-clusters.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
