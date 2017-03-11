@@ -7,8 +7,56 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 11 Mar 2017 05:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Mar 2017 10:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Channel Beat: HPE&#39;s Nimble Deal, Extreme Gets Avaya&#39;s Networking Business</title>
+      <link>//crypt0.net/post/channel-beat-hpes-nimble-deal-extreme-gets-avayas-networking-business/</link>
+      <pubDate>Sat, 11 Mar 2017 10:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/channel-beat-hpes-nimble-deal-extreme-gets-avayas-networking-business/</guid>
+      <description>&lt;p&gt;CRN Google&amp;rsquo;s cloud business chief Diane Greene keynoted the Google Cloud NEXT 2017 conference, where she made the case that the company is a true &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/channel-programs/video/300084154/channel-beat-hpes-nimble-deal-extreme-gets-avayas-networking-business-and-google-tempts-partners-with-new-incentives.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/channel-programs/video/300084154/channel-beat-hpes-nimble-deal-extreme-gets-avayas-networking-business-and-google-tempts-partners-with-new-incentives.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dataguise enhances sensitive data governance in the cloud by offering</title>
+      <link>//crypt0.net/post/dataguise-enhances-sensitive-data-governance-in-the-cloud-by-offering/</link>
+      <pubDate>Sat, 11 Mar 2017 10:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/dataguise-enhances-sensitive-data-governance-in-the-cloud-by-offering/</guid>
+      <description>&lt;p&gt;CTR Data governance company Dataguise announced this week that DgSecure Detect now supports sensitive data detection on Google Cloud Storage &amp;hellip;  &lt;a href=&#34;http://wwpi.com/2017/03/11/dataguise-enhances-sensitive-data-governance-in-the-cloud-by-offering-support-for-google-cloud-storage/&#34; onclick=&#34;trackOutboundLink(&#39;http://wwpi.com/2017/03/11/dataguise-enhances-sensitive-data-governance-in-the-cloud-by-offering-support-for-google-cloud-storage/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google unveils Cloud Video Intelligence API</title>
+      <link>//crypt0.net/post/google-unveils-cloud-video-intelligence-api/</link>
+      <pubDate>Sat, 11 Mar 2017 10:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-unveils-cloud-video-intelligence-api/</guid>
+      <description>&lt;p&gt;&amp;hellip; dog, flower or human inside video content, said Chief Scientist Google Cloud (Artificial Intelligence and Machine Learning) Fei Fei Li at Cloud Next &amp;hellip;  &lt;a href=&#34;http://www.dailyexcelsior.com/google-unveils-cloud-video-intelligence-api-2/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dailyexcelsior.com/google-unveils-cloud-video-intelligence-api-2/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SystemTap: A Script to Help With Containerization</title>
+      <link>//crypt0.net/post/systemtap-a-script-to-help-with-containerization/</link>
+      <pubDate>Sat, 11 Mar 2017 10:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/systemtap-a-script-to-help-with-containerization/</guid>
+      <description>&lt;p&gt;Chris Ward offers us the latest from Google&amp;rsquo;s Cloud Next conference. From custom security chips like Titan to Cloud Spanner, their truly scalable SQL &amp;hellip;  &lt;a href=&#34;https://dzone.com/articles/a-script-to-help-with-containerization&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/a-script-to-help-with-containerization&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google unveils cloud-based Video Intelligence API</title>
@@ -137,54 +185,6 @@
       
       <guid>//crypt0.net/post/setting-rabbitmqpolicy-failes-during-initial-deployment/</guid>
       <description>&lt;p&gt;name mismatch: root@infra1-rabbit-mq-container-0e654ad7:~# rabbitmqctl &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1671795&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1671795&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>News Recap: Enterprise Products Partners LP (NYSE:EPD) , Amazon.com, Inc.</title>
-      <link>//crypt0.net/post/news-recap-enterprise-products-partners-lp-nyseepd--amazoncom-inc/</link>
-      <pubDate>Sat, 11 Mar 2017 02:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/news-recap-enterprise-products-partners-lp-nyseepd--amazoncom-inc/</guid>
-      <description>&lt;p&gt;NYSE Journal (press release) It operates through the North America, International, and Amazon Web Services (AWS) segments. The company sells merchandise and content &amp;hellip;  &lt;a href=&#34;http://stockznews.com/news-recap-enterprise-products-partners-l-p-nyseepd-amazon-com-inc-nasdaqamzn/&#34; onclick=&#34;trackOutboundLink(&#39;http://stockznews.com/news-recap-enterprise-products-partners-l-p-nyseepd-amazon-com-inc-nasdaqamzn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Newton: repo build still broken with optional components (swift)</title>
-      <link>//crypt0.net/post/newton-repo-build-still-broken-with-optional-components-swift/</link>
-      <pubDate>Sat, 11 Mar 2017 02:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/newton-repo-build-still-broken-with-optional-components-swift/</guid>
-      <description>&lt;p&gt;swift, still leads to build errors: 1st the git clone for the swift repo is skipped: &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-ansible/+bug/1671958&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-ansible/+bug/1671958&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure IoT SDKs for Java</title>
-      <link>//crypt0.net/post/microsoft-azure-iot-sdks-for-java/</link>
-      <pubDate>Sat, 11 Mar 2017 01:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-iot-sdks-for-java/</guid>
-      <description>&lt;p&gt;devices and applications that connect to and are managed by Azure IoT &amp;hellip;  &lt;a href=&#34;https://azure.github.io/azure-iot-sdk-java/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.github.io/azure-iot-sdk-java/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sonata Software Launches Its Enterprise Mobility Platform, Halosys</title>
-      <link>//crypt0.net/post/sonata-software-launches-its-enterprise-mobility-platform-halosys/</link>
-      <pubDate>Fri, 10 Mar 2017 22:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sonata-software-launches-its-enterprise-mobility-platform-halosys/</guid>
-      <description>&lt;p&gt;Availability on Amazon AWS and Microsoft Azure enables customers looking for on premise or private deployment. Halosys on AzureAppGallery &amp;hellip;  &lt;a href=&#34;http://bwdisrupt.businessworld.in/article/Sonata-Software-Launches-Its-Enterprise-Mobility-Platform-Halosys/11-03-2017-114251/&#34; onclick=&#34;trackOutboundLink(&#39;http://bwdisrupt.businessworld.in/article/Sonata-Software-Launches-Its-Enterprise-Mobility-Platform-Halosys/11-03-2017-114251/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
