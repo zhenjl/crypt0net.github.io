@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 10 Mar 2017 19:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Mar 2017 20:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Disaster Recovery with Amazon Web Services</title>
+      <link>//crypt0.net/post/disaster-recovery-with-amazon-web-services/</link>
+      <pubDate>Fri, 10 Mar 2017 20:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/disaster-recovery-with-amazon-web-services/</guid>
+      <description>&lt;p&gt;integration with Amazon Web Services (AWS) Simple Storage Service (S3) and &amp;hellip;  &lt;a href=&#34;https://www.commvault.com/solutions/by-topic/cloud-data-management/cloud-disaster-recovery/amazon-aws&#34; onclick=&#34;trackOutboundLink(&#39;https://www.commvault.com/solutions/by-topic/cloud-data-management/cloud-disaster-recovery/amazon-aws&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cybercrime, Branding, Mobile: Fixing Finance&#39;s Big Data Challenges</title>
@@ -538,18 +550,6 @@
       <description>&lt;p&gt;I thought I&amp;rsquo;d give it a shot here maybe the documentation is missing this info, &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1671929&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1671929&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cisco: First-gen internet is &#39;not fit for purpose&#39; for IoT</title>
-      <link>//crypt0.net/post/cisco-firstgen-internet-is-not-fit-for-purpose-for-iot/</link>
-      <pubDate>Fri, 10 Mar 2017 16:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cisco-firstgen-internet-is-not-fit-for-purpose-for-iot/</guid>
-      <description>&lt;p&gt;&amp;ldquo;When you&amp;rsquo;re looking at the Internet of Things, you&amp;rsquo;re actually doing the reverse of that: In many cases, you&amp;rsquo;ve got no power, you can&amp;rsquo;t charge batteries &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/cisco-first-gen-internet-is-not-fit-for-purpose-for-iot/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/cisco-first-gen-internet-is-not-fit-for-purpose-for-iot/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

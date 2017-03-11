@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 10 Mar 2017 19:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Mar 2017 20:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Disaster Recovery with Amazon Web Services</title>
+      <link>//crypt0.net/post/disaster-recovery-with-amazon-web-services/</link>
+      <pubDate>Fri, 10 Mar 2017 20:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/disaster-recovery-with-amazon-web-services/</guid>
+      <description>&lt;p&gt;integration with Amazon Web Services (AWS) Simple Storage Service (S3) and &amp;hellip;  &lt;a href=&#34;https://www.commvault.com/solutions/by-topic/cloud-data-management/cloud-disaster-recovery/amazon-aws&#34; onclick=&#34;trackOutboundLink(&#39;https://www.commvault.com/solutions/by-topic/cloud-data-management/cloud-disaster-recovery/amazon-aws&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Modified project information and members but unable to modify project</title>
@@ -312,18 +324,6 @@
       
       <guid>//crypt0.net/post/senlin-for-vmware-integrated-openstack-brings-open-source-up-to-speed/</guid>
       <description>&lt;p&gt;Senlin, a clustering service for OpenStack clouds, gained traction through a post on VMware&amp;rsquo;s OpenStack blog that explained how the tool can be &amp;hellip;  &lt;a href=&#34;http://searchvmware.techtarget.com/tip/Senlin-for-VMware-Integrated-OpenStack-brings-open-source-up-to-speed&#34; onclick=&#34;trackOutboundLink(&#39;http://searchvmware.techtarget.com/tip/Senlin-for-VMware-Integrated-OpenStack-brings-open-source-up-to-speed&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>VMware demonstrates software driven digital transformation</title>
-      <link>//crypt0.net/post/vmware-demonstrates-software-driven-digital-transformation/</link>
-      <pubDate>Fri, 10 Mar 2017 11:40:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vmware-demonstrates-software-driven-digital-transformation/</guid>
-      <description>&lt;p&gt;With more than 80 NFV deployments by more than 45 CSPs serving more than 300 million subscribers worldwide, VMware vCloud NFV accelerates &amp;hellip;  &lt;a href=&#34;http://www.dqindia.com/vmware-demonstrates-software-driven-digital-transformation/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dqindia.com/vmware-demonstrates-software-driven-digital-transformation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
