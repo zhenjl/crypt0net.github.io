@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 12 Mar 2017 09:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Mar 2017 09:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Three Experts on Big Data Engineering</title>
+      <link>//crypt0.net/post/three-experts-on-big-data-engineering/</link>
+      <pubDate>Sun, 12 Mar 2017 09:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/three-experts-on-big-data-engineering/</guid>
+      <description>&lt;p&gt;Roger Barga is general manager and director of development for Amazon Kinesis data-streaming services at Amazon Web Services. Contact him at &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/articles/big-data-engineering&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/articles/big-data-engineering&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Windows Server on ARM for internal use only</title>
@@ -175,112 +187,6 @@
       <description>&lt;p&gt;In honor of International Women&amp;rsquo;s Day, our CTO Bridget Frey spoke alongside other female leaders on a panel at Google Cloud Next&amp;rsquo;17.  &lt;a href=&#34;https://www.redfin.com/blog/2017/03/bridget-frey-discusses-diversity-inclusion-in-the-tech-industry-at-google-cloud-next.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.redfin.com/blog/2017/03/bridget-frey-discusses-diversity-inclusion-in-the-tech-industry-at-google-cloud-next.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Cloud Computing News from @cloudfeednet - Mar 11, 2017</title>
-      <link>//crypt0.net/daily/daily-cloud-news-2017-03-11/</link>
-      <pubDate>Sat, 11 Mar 2017 18:05:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/daily/daily-cloud-news-2017-03-11/</guid>
-      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Bouncing Back To Private Clouds With OpenStack&lt;/h3&gt;
-&lt;p&gt;There is an adage, not quite yet old, suggesting that compute is free but storage is not. Perhaps a more accurate and, as far as public clouds are &amp;hellip;  &lt;a href=&#34;https://www.linux.com/news/bouncing-back-private-clouds-openstack&#34; onclick=&#34;trackOutboundLink(&#39;https://www.linux.com/news/bouncing-back-private-clouds-openstack&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Modified project information and members but unable to modify project&lt;/h3&gt;
-&lt;p&gt;Description of problem: Modified project information and members but unable to modify project quotas when modifying volume quota in horizon admin &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1671911&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1671911&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Disaster Recovery with Amazon Web Services&lt;/h3&gt;
-&lt;p&gt;integration with Amazon Web Services (AWS) Simple Storage Service (S3) and &amp;hellip;  &lt;a href=&#34;https://www.commvault.com/solutions/by-topic/cloud-data-management/cloud-disaster-recovery/amazon-aws&#34; onclick=&#34;trackOutboundLink(&#39;https://www.commvault.com/solutions/by-topic/cloud-data-management/cloud-disaster-recovery/amazon-aws&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Sonata Software Launches Its Enterprise Mobility Platform, Halosys&lt;/h3&gt;
-&lt;p&gt;Availability on Amazon AWS and Microsoft Azure enables customers looking for on premise or private deployment. Halosys on AzureAppGallery &amp;hellip;  &lt;a href=&#34;http://bwdisrupt.businessworld.in/article/Sonata-Software-Launches-Its-Enterprise-Mobility-Platform-Halosys/11-03-2017-114251/&#34; onclick=&#34;trackOutboundLink(&#39;http://bwdisrupt.businessworld.in/article/Sonata-Software-Launches-Its-Enterprise-Mobility-Platform-Halosys/11-03-2017-114251/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Azure IoT SDKs for Java&lt;/h3&gt;
-&lt;p&gt;devices and applications that connect to and are managed by Azure IoT &amp;hellip;  &lt;a href=&#34;https://azure.github.io/azure-iot-sdk-java/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.github.io/azure-iot-sdk-java/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;News Recap: Enterprise Products Partners LP (NYSE:EPD) , Amazon.com, Inc.&lt;/h3&gt;
-&lt;p&gt;NYSE Journal (press release) It operates through the North America, International, and Amazon Web Services (AWS) segments. The company sells merchandise and content &amp;hellip;  &lt;a href=&#34;http://stockznews.com/news-recap-enterprise-products-partners-l-p-nyseepd-amazon-com-inc-nasdaqamzn/&#34; onclick=&#34;trackOutboundLink(&#39;http://stockznews.com/news-recap-enterprise-products-partners-l-p-nyseepd-amazon-com-inc-nasdaqamzn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Newton: repo build still broken with optional components (swift)&lt;/h3&gt;
-&lt;p&gt;swift, still leads to build errors: 1st the git clone for the swift repo is skipped: &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-ansible/+bug/1671958&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-ansible/+bug/1671958&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Cloud Platform adds free tier&lt;/h3&gt;
-&lt;p&gt;Stressing its fundamental commitment to openness, Google on Friday announced that it&amp;rsquo;s adding a free tier to the Google Cloud Platform (GCP).  &lt;a href=&#34;http://www.zdnet.com/article/google-cloud-platform-adds-free-tier/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/google-cloud-platform-adds-free-tier/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Cloud Polishes Its Appeal To Enterprise&lt;/h3&gt;
-&lt;p&gt;There&amp;rsquo;s little question that Google has brought its enterprise focus and concentrated spending to its Google Cloud Platform late in the game. Before &amp;hellip;  &lt;a href=&#34;http://www.informationweek.com/google-cloud-polishes-its-appeal-to-enterprise/d/d-id/1328363&#34; onclick=&#34;trackOutboundLink(&#39;http://www.informationweek.com/google-cloud-polishes-its-appeal-to-enterprise/d/d-id/1328363&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google&amp;rsquo;s secret weapon in cloud computing: people&lt;/h3&gt;
-&lt;p&gt;SAN FRANCISCO - Google had several big tech and service announcements at this week&amp;rsquo;s second annual Google Cloud Next conference here.  &lt;a href=&#34;http://www.computerworld.com/article/3179764/cloud-computing/googles-secret-weapon-in-cloud-computing-people.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computerworld.com/article/3179764/cloud-computing/googles-secret-weapon-in-cloud-computing-people.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Pivotal, Google Cloud Take Aim At Azure With Launch Of Kubo For Deployment,&lt;/h3&gt;
-&lt;p&gt;CRN Dell EMC&amp;rsquo;s Pivotal unit and Google Cloud have launched a new open source project called Kubo that is designed to deploy and manage Kubernetes &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/cloud/300084152/pivotal-google-cloud-take-aim-at-azure-with-launch-of-kubo-for-deployment-management-of-kubernetes-clusters.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300084152/pivotal-google-cloud-take-aim-at-azure-with-launch-of-kubo-for-deployment-management-of-kubernetes-clusters.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Cloud announcements, AI partnership from IBM and Salesforce: News IT&lt;/h3&gt;
-&lt;p&gt;Financial Post The Google Cloud Next conference was the scene of multiple announcements from the tech giant this week. It announced a revamped App Engine, &amp;hellip;  &lt;a href=&#34;http://business.financialpost.com/fp-tech-desk/cio/google-cloud-announcements-ai-partnership-from-ibm-and-salesforce-news-it-leaders-need-to-know&#34; onclick=&#34;trackOutboundLink(&#39;http://business.financialpost.com/fp-tech-desk/cio/google-cloud-announcements-ai-partnership-from-ibm-and-salesforce-news-it-leaders-need-to-know&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;setting rabbitmq_policy failes during initial deployment&lt;/h3&gt;
-&lt;p&gt;name mismatch: root@infra1-rabbit-mq-container-0e654ad7:~# rabbitmqctl &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1671795&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1671795&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Azure Government Now Has Facial And Voice Recognition Features&lt;/h3&gt;
-&lt;p&gt;A logo sits illuminated outside the Microsoft pavilion on the opening day of the World Mobile Congress at the Fira Gran Via Complex on February 22, &amp;hellip;  &lt;a href=&#34;http://www.autoworldnews.com/articles/34213/20170311/microsoft-azure-government-now-facial-voice-recognition-features.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.autoworldnews.com/articles/34213/20170311/microsoft-azure-government-now-facial-voice-recognition-features.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockstack&amp;rsquo;s decentralized app platform comes to Amazon Web Services&lt;/h3&gt;
-&lt;p&gt;New York-based Blockstack Inc. Thursday announced the release of its blockchain app infrastructure on the Amazon Web Services Marketplace and &amp;hellip;  &lt;a href=&#34;http://siliconangle.com/blog/2017/03/10/blockstack-decentralized-internet-platform-now-available-amazon-web-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://siliconangle.com/blog/2017/03/10/blockstack-decentralized-internet-platform-now-available-amazon-web-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google unveils cloud-based Video Intelligence API&lt;/h3&gt;
-&lt;p&gt;The API quickly annotates videos stored in Google Cloud Storage with &amp;hellip; video content,&amp;rdquo; said Chief Scientist Google Cloud (Artificial Intelligence and &amp;hellip;  &lt;a href=&#34;http://www.deccanchronicle.com/technology/in-other-news/100317/google-unveils-cloud-based-video-intelligence-api.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.deccanchronicle.com/technology/in-other-news/100317/google-unveils-cloud-based-video-intelligence-api.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google&amp;rsquo;s doubling down on enterprise&lt;/h3&gt;
-&lt;p&gt;Thursday was day 2 of the Google Cloud Next conference, and booooy was it a barnburner. Our news stream was filled with Googly updates on topics &amp;hellip;  &lt;a href=&#34;https://thehustle.co/google-cloud-next&#34; onclick=&#34;trackOutboundLink(&#39;https://thehustle.co/google-cloud-next&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Growth = Wasted Spend on Microsoft Azure&lt;/h3&gt;
-&lt;p&gt;If you read any cloud or tech blogs, you&amp;rsquo;ve probably seen the latest financials that show that Microsoft Azure is growing  and that it&amp;rsquo;s currently the &amp;hellip;  &lt;a href=&#34;http://www.business2community.com/tech-gadgets/growth-wasted-spend-microsoft-azure-01796827&#34; onclick=&#34;trackOutboundLink(&#39;http://www.business2community.com/tech-gadgets/growth-wasted-spend-microsoft-azure-01796827&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Dataguise enhances sensitive data governance in the cloud by offering&lt;/h3&gt;
-&lt;p&gt;CTR Data governance company Dataguise announced this week that DgSecure Detect now supports sensitive data detection on Google Cloud Storage &amp;hellip;  &lt;a href=&#34;http://wwpi.com/2017/03/11/dataguise-enhances-sensitive-data-governance-in-the-cloud-by-offering-support-for-google-cloud-storage/&#34; onclick=&#34;trackOutboundLink(&#39;http://wwpi.com/2017/03/11/dataguise-enhances-sensitive-data-governance-in-the-cloud-by-offering-support-for-google-cloud-storage/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google unveils Cloud Video Intelligence API&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; dog, flower or human inside video content, said Chief Scientist Google Cloud (Artificial Intelligence and Machine Learning) Fei Fei Li at Cloud Next &amp;hellip;  &lt;a href=&#34;http://www.dailyexcelsior.com/google-unveils-cloud-video-intelligence-api-2/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dailyexcelsior.com/google-unveils-cloud-video-intelligence-api-2/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Channel Beat: HPE&amp;rsquo;s Nimble Deal, Extreme Gets Avaya&amp;rsquo;s Networking Business&lt;/h3&gt;
-&lt;p&gt;CRN Google&amp;rsquo;s cloud business chief Diane Greene keynoted the Google Cloud NEXT 2017 conference, where she made the case that the company is a true &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/channel-programs/video/300084154/channel-beat-hpes-nimble-deal-extreme-gets-avayas-networking-business-and-google-tempts-partners-with-new-incentives.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/channel-programs/video/300084154/channel-beat-hpes-nimble-deal-extreme-gets-avayas-networking-business-and-google-tempts-partners-with-new-incentives.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;SystemTap: A Script to Help With Containerization&lt;/h3&gt;
-&lt;p&gt;Chris Ward offers us the latest from Google&amp;rsquo;s Cloud Next conference. From custom security chips like Titan to Cloud Spanner, their truly scalable SQL &amp;hellip;  &lt;a href=&#34;https://dzone.com/articles/a-script-to-help-with-containerization&#34; onclick=&#34;trackOutboundLink(&#39;https://dzone.com/articles/a-script-to-help-with-containerization&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Makes Another Major Cloud Killings, Beats Rivals In The SaaS &amp;amp;&lt;/h3&gt;
-&lt;p&gt;University Herald Microsoft is making another major cloud salvo, making its Azure Cloud platform even more secure. The software company today announced a preview &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/68838/20170311/azure-azure-ad-saas-microsoft-microsoft-azure-microsoft-office-365-office-365-cloud-cloud-computing-cloud-services-azure-news-azure-update-azure-stack-cloud-news.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/68838/20170311/azure-azure-ad-saas-microsoft-microsoft-azure-microsoft-office-365-office-365-cloud-cloud-computing-cloud-services-azure-news-azure-update-azure-stack-cloud-news.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;How to Turn Off File Explorer Advertising on Windows 10 Creators Update and&lt;/h3&gt;
-&lt;p&gt;1redDrop (blog) But Microsoft is not out to create a perfect world; it&amp;rsquo;s out to create a Microsoft world  a world of Windows 10, Office 365, Microsoft Azure and Surface &amp;hellip;  &lt;a href=&#34;http://1reddrop.com/2017/03/11/turn-off-new-file-explorer-advertising-windows-10-creators-update-anniversary-update/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/03/11/turn-off-new-file-explorer-advertising-windows-10-creators-update-anniversary-update/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Parent Alphabet Acquires AppBridge for G Suite Data Transfer&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; its plans to acquire AppBridge, a Canadian tech firm that specializes in helping companies move their data to G Suite on Google&amp;rsquo;s cloud servers.  &lt;a href=&#34;http://1reddrop.com/2017/03/11/alphabet-googles-parent-company-acquires-appbridge-google-cloud-platform-data-transfer/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/03/11/alphabet-googles-parent-company-acquires-appbridge-google-cloud-platform-data-transfer/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Infonuagique: Montreal becomes the seventh region of Google&lt;/h3&gt;
-&lt;p&gt;Google&amp;rsquo;s cloud structure is currently divided into six regions, with three centers in the United States, one in Belgium, Japan and Taiwan. The network is &amp;hellip;  &lt;a href=&#34;http://sivertimes.com/infonuagique-montreal-becomes-the-seventh-region-of-google/26982&#34; onclick=&#34;trackOutboundLink(&#39;http://sivertimes.com/infonuagique-montreal-becomes-the-seventh-region-of-google/26982&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;DMI Achieves Google Cloud Partner Specialization in Application Development&lt;/h3&gt;
-&lt;p&gt;Achieving recognition from the Google Cloud Partner Specialization Program is further validation of our commitment to transforming businesses &amp;hellip;  &lt;a href=&#34;http://www.pr.com/press-release/708396&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pr.com/press-release/708396&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft and HEC to host Imagine Cup in Pakistan with $100000 prize money&lt;/h3&gt;
-&lt;p&gt;Addition to this amount a chance for mentorship will be provided that can help to launch the project to a higher level. NOTE: Microsoft Azure, an open, &amp;hellip;  &lt;a href=&#34;https://www.techlist.pk/microsoft-hec-imagine-cup-pakistan/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.techlist.pk/microsoft-hec-imagine-cup-pakistan/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Cloud announces Machine Learning Startup Competition&lt;/h3&gt;
-&lt;p&gt;Today, Google Cloud is excited to announce a Machine Learning Startup Competition in collaboration with venture capital firms Data Collective and &amp;hellip;  &lt;a href=&#34;http://newsroomamerica.com/story/626983.html&#34; onclick=&#34;trackOutboundLink(&#39;http://newsroomamerica.com/story/626983.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Webinar: Microsoft Azure Functions and Serverless Computing&lt;/h3&gt;
-&lt;p&gt;computing is one of the hottest trends in computing at the moment.  &lt;a href=&#34;http://www.greymatter.com/corporate/events/webinar-microsoft-azure-functions-and-serverless-computing/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.greymatter.com/corporate/events/webinar-microsoft-azure-functions-and-serverless-computing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon Alexa Could Bring $10 Billion in Revenues by 2020: RBC Capital&lt;/h3&gt;
-&lt;p&gt;1redDrop (blog) &amp;hellip; million requests over the free tier limit  but at scale and volume, it could translate into billions of dollars in cloud revenue for Amazon Web Services.  &lt;a href=&#34;http://1reddrop.com/2017/03/11/amazon-alexa-bring-10-billion-revenues-2020-rbc-capital-markets/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/03/11/amazon-alexa-bring-10-billion-revenues-2020-rbc-capital-markets/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Kaggle effect: Google launches a new, machine learning startup competition&lt;/h3&gt;
-&lt;p&gt;They will also get an opportunity to engage with engineers at Google Cloud and 10 G-Suite seats for 12 months. The runner-up, on the other hand, will &amp;hellip;  &lt;a href=&#34;http://www.ciol.com/kaggle-effect-google-launches-a-new-machine-learning-startup-competition/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ciol.com/kaggle-effect-google-launches-a-new-machine-learning-startup-competition/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
