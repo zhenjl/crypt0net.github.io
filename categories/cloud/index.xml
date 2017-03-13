@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 12 Mar 2017 20:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Mar 2017 20:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
+      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
+      <pubDate>Sun, 12 Mar 2017 20:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
+      <description>&lt;p&gt;code on frame level features. I am using a batch_size of 32 and use 1 &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/29815/out-of-memory-error-for-lstm-model?forumMessageId=167146&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/29815/out-of-memory-error-for-lstm-model?forumMessageId=167146&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Power tender for Amazon data centres</title>
@@ -249,18 +261,6 @@
       
       <guid>//crypt0.net/post/google-cloud-sap-forge-tieup-to-develop-enterprise-solutions/</guid>
       <description>&lt;p&gt;Partners, Google Cloud, said, &amp;ldquo;The partnership represents the start of a close engineering collaboration between SAP and Google. Google Cloud is &amp;hellip;  &lt;a href=&#34;http://www.deccanchronicle.com/technology/in-other-news/120317/google-cloud-sap-forge-tie-up-to-develop-enterprise-solutions-1.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.deccanchronicle.com/technology/in-other-news/120317/google-cloud-sap-forge-tie-up-to-develop-enterprise-solutions-1.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Three Experts on Big Data Engineering</title>
-      <link>//crypt0.net/post/three-experts-on-big-data-engineering/</link>
-      <pubDate>Sun, 12 Mar 2017 09:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/three-experts-on-big-data-engineering/</guid>
-      <description>&lt;p&gt;Roger Barga is general manager and director of development for Amazon Kinesis data-streaming services at Amazon Web Services. Contact him at &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/articles/big-data-engineering&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/articles/big-data-engineering&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
