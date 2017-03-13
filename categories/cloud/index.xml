@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 12 Mar 2017 21:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Mar 2017 23:00:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>device_id/device_owner field in Admin Edit Port form are not filled with</title>
+      <link>//crypt0.net/post/deviceiddeviceowner-field-in-admin-edit-port-form-are-not-filled-with/</link>
+      <pubDate>Sun, 12 Mar 2017 23:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/deviceiddeviceowner-field-in-admin-edit-port-form-are-not-filled-with/</guid>
+      <description>&lt;p&gt;device_id/device_owner field in Admin Edit Port form are not filled with the current values. They should be filled with the current values. Otherwise &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/horizon/+bug/1672215&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/horizon/+bug/1672215&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Cloud Platform Gains Serverless Features, More</title>
@@ -249,18 +261,6 @@
       
       <guid>//crypt0.net/post/housecanary-collaborates-with-google-cloud-platform-commercial-datasets/</guid>
       <description>&lt;p&gt;HouseCanary, Inc. is collaborating with Google Cloud Platform Commercial Datasets to power residential real estate datasets for the Google Cloud &amp;hellip;  &lt;a href=&#34;http://rismedia.com/2017/03/12/housecanary-collaborates-google-cloud-platform-commercial-datasets/&#34; onclick=&#34;trackOutboundLink(&#39;http://rismedia.com/2017/03/12/housecanary-collaborates-google-cloud-platform-commercial-datasets/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>//No Comment - Assessing Code Authorship, Git Blame Who? &amp; The Case of</title>
-      <link>//crypt0.net/post/no-comment--assessing-code-authorship-git-blame-who--the-case-of/</link>
-      <pubDate>Sun, 12 Mar 2017 10:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/no-comment--assessing-code-authorship-git-blame-who--the-case-of/</guid>
-      <description>&lt;p&gt;iProgrammer Sometimes the news is reported well enough elsewhere and we have little to add other than to bring it to your attention. No Comment is a format &amp;hellip;  &lt;a href=&#34;http://www.i-programmer.info/news/136-open-source/10594-no-comment-assessing-code-authorship-git-blame-who-a-the-case-of-openstack.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.i-programmer.info/news/136-open-source/10594-no-comment-assessing-code-authorship-git-blame-who-a-the-case-of-openstack.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
