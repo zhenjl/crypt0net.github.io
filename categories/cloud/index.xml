@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 13 Mar 2017 05:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Mar 2017 06:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Task v_rsync_core_puppet fails on all nodes</title>
+      <link>//crypt0.net/post/task-vrsynccorepuppet-fails-on-all-nodes/</link>
+      <pubDate>Mon, 13 Mar 2017 06:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/task-vrsynccorepuppet-fails-on-all-nodes/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://product-ci.infra.mirantis.net/view/10.0/job/10.0.main.ubuntu.bvt_2/&#34;&gt;https://product-ci.infra.mirantis.net/view/10.0/job/10.0.main.ubuntu.bvt_2/&lt;/a&gt; 1380/ The deployment fails at an early stage with &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1672310&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1672310&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Actiance Helps Simplify Security in the Cloud</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/power-tender-for-amazon-data-centres/</guid>
       <description>&lt;p&gt;Last November, Amazon Web Services announced that it would build five solar farms in Virginia to power its cloud data centres. Four of the five &amp;hellip;  &lt;a href=&#34;http://www.independent.ie/business/technology/power-tender-for-amazon-data-centres-35524138.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.independent.ie/business/technology/power-tender-for-amazon-data-centres-35524138.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services AWS Interview Preparation</title>
-      <link>//crypt0.net/post/amazon-web-services-aws-interview-preparation/</link>
-      <pubDate>Sun, 12 Mar 2017 19:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-web-services-aws-interview-preparation/</guid>
-      <description>&lt;p&gt;world. This course is designed to help you achieve your goals in AWS &amp;hellip;  &lt;a href=&#34;https://www.udemy.com/amazon-web-services-aws-interview-preparation/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.udemy.com/amazon-web-services-aws-interview-preparation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
