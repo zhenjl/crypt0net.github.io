@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 13 Mar 2017 18:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Mar 2017 18:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deploying Ironic in OpenStack Newton...: Buzz</title>
+      <link>//crypt0.net/post/deploying-ironic-in-openstack-newton-buzz/</link>
+      <pubDate>Mon, 13 Mar 2017 18:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/deploying-ironic-in-openstack-newton-buzz/</guid>
+      <description>&lt;p&gt;multi-controller deployment with TripleO or the director, a new feature introduced in Red &amp;hellip;  &lt;a href=&#34;https://www.bebee.com/buzz/1303943&#34; onclick=&#34;trackOutboundLink(&#39;https://www.bebee.com/buzz/1303943&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Garage&#39;s Project Lively lets you collaborate without the cloud</title>
@@ -276,18 +288,6 @@
       
       <guid>//crypt0.net/post/can-google-lure-more-enterprises-inside-its-data-centers/</guid>
       <description>&lt;p&gt;Rackspace Inks Strategic Partnership with Google Cloud Platform  Google Expands Cloud Partner Program. Advertisement. Brought to you by Data &amp;hellip;  &lt;a href=&#34;http://thevarguy.com/cloud-computing-services-and-business-solutions/can-google-lure-more-enterprises-inside-its-data-cen&#34; onclick=&#34;trackOutboundLink(&#39;http://thevarguy.com/cloud-computing-services-and-business-solutions/can-google-lure-more-enterprises-inside-its-data-cen&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Targets Mobile Back-End Development</title>
-      <link>//crypt0.net/post/google-targets-mobile-backend-development/</link>
-      <pubDate>Mon, 13 Mar 2017 14:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-targets-mobile-backend-development/</guid>
-      <description>&lt;p&gt;In a blog post, Google cloud exec Brian Stevens cited openness and developer choice in announcing an expansion to App Engine focused on the &amp;hellip;  &lt;a href=&#34;https://adtmag.com/articles/2017/03/13/google-mobile-backend.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://adtmag.com/articles/2017/03/13/google-mobile-backend.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
