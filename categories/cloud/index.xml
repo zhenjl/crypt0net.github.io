@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 13 Mar 2017 19:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Mar 2017 19:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How JD.com Moved to Kubernetes from OpenStack</title>
+      <link>//crypt0.net/post/how-jdcom-moved-to-kubernetes-from-openstack/</link>
+      <pubDate>Mon, 13 Mar 2017 19:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-jdcom-moved-to-kubernetes-from-openstack/</guid>
+      <description>&lt;p&gt;OpenStack was used as the orchestration layer, with the nova Docker driver for container management. The team adopted Docker as the container &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2017/03/jd-kubernetes-openstack&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2017/03/jd-kubernetes-openstack&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ONAP is Driving Much-Needed Standards in NFV</title>
+      <link>//crypt0.net/post/onap-is-driving-muchneeded-standards-in-nfv/</link>
+      <pubDate>Mon, 13 Mar 2017 19:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/onap-is-driving-muchneeded-standards-in-nfv/</guid>
+      <description>&lt;p&gt;A major lesson we learned from the OpenStack community is the importance of usersin this case, carriersthat are committed to deploying the &amp;hellip;  &lt;a href=&#34;https://www.wirelessweek.com/article/2017/03/onap-driving-much-needed-standards-nfv&#34; onclick=&#34;trackOutboundLink(&#39;https://www.wirelessweek.com/article/2017/03/onap-driving-much-needed-standards-nfv&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Cloud Next &#39;17: Impressive, But Hard To Find Definitive</title>
@@ -264,30 +288,6 @@
       
       <guid>//crypt0.net/post/video-watch-aws-try-to-blow-up-its-snowball-edge-box/</guid>
       <description>&lt;p&gt;Amazon Web Services (AWS) released a video shock-testing its Snowball Edge data transfer device to see if its systems meet the MIL-S-901D military &amp;hellip;  &lt;a href=&#34;http://talkincloud.com/cloud-computing/video-watch-aws-try-blow-its-snowball-edge-box&#34; onclick=&#34;trackOutboundLink(&#39;http://talkincloud.com/cloud-computing/video-watch-aws-try-blow-its-snowball-edge-box&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Laid Back Google Gives Way to Aggressive Alphabet in Cloud Computing</title>
-      <link>//crypt0.net/post/laid-back-google-gives-way-to-aggressive-alphabet-in-cloud-computing/</link>
-      <pubDate>Mon, 13 Mar 2017 16:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/laid-back-google-gives-way-to-aggressive-alphabet-in-cloud-computing/</guid>
-      <description>&lt;p&gt;Much has been done in the year just passed, and Alphabet was apparently well prepared for the three-day Google Cloud Next conference held &amp;hellip;  &lt;a href=&#34;http://1reddrop.com/2017/03/13/google-alphabet-cloud-computing/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/03/13/google-alphabet-cloud-computing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud entices digital-conscious firms with tech, pricing innovations</title>
-      <link>//crypt0.net/post/google-cloud-entices-digitalconscious-firms-with-tech-pricing-innovations/</link>
-      <pubDate>Mon, 13 Mar 2017 15:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-entices-digitalconscious-firms-with-tech-pricing-innovations/</guid>
-      <description>&lt;p&gt;&amp;hellip; Delivering an opening keynote for the three-day Google Cloud Next &amp;hellip;  &lt;a href=&#34;https://www.pressreader.com/indonesia/the-jakarta-post/20170313/282016147130561&#34; onclick=&#34;trackOutboundLink(&#39;https://www.pressreader.com/indonesia/the-jakarta-post/20170313/282016147130561&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
