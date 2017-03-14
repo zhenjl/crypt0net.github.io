@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Mar 2017 02:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Mar 2017 02:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Is Red Hat Openstack Director backward compatible</title>
+      <link>//crypt0.net/post/is-red-hat-openstack-director-backward-compatible/</link>
+      <pubDate>Tue, 14 Mar 2017 02:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/is-red-hat-openstack-director-backward-compatible/</guid>
+      <description>&lt;p&gt;OpenStack Platform. Category; Install. Tags; OpenStack director.  &lt;a href=&#34;https://access.redhat.com/solutions/2967651&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2967651&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Breaking with Tradition: Microsoft&#39;s New Windows MDM Approach</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/how-jdcom-moved-to-kubernetes-from-openstack/</guid>
       <description>&lt;p&gt;OpenStack was used as the orchestration layer, with the nova Docker driver for container management. The team adopted Docker as the container &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2017/03/jd-kubernetes-openstack&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2017/03/jd-kubernetes-openstack&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ONAP is Driving Much-Needed Standards in NFV</title>
-      <link>//crypt0.net/post/onap-is-driving-muchneeded-standards-in-nfv/</link>
-      <pubDate>Mon, 13 Mar 2017 19:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/onap-is-driving-muchneeded-standards-in-nfv/</guid>
-      <description>&lt;p&gt;A major lesson we learned from the OpenStack community is the importance of usersin this case, carriersthat are committed to deploying the &amp;hellip;  &lt;a href=&#34;https://www.wirelessweek.com/article/2017/03/onap-driving-much-needed-standards-nfv&#34; onclick=&#34;trackOutboundLink(&#39;https://www.wirelessweek.com/article/2017/03/onap-driving-much-needed-standards-nfv&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
