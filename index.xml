@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 15 Mar 2017 02:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Mar 2017 03:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack Private Cloud is Doing Just Fine</title>
+      <link>//crypt0.net/post/openstack-private-cloud-is-doing-just-fine/</link>
+      <pubDate>Wed, 15 Mar 2017 03:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-private-cloud-is-doing-just-fine/</guid>
+      <description>&lt;p&gt;true? Well  after some digging the answer appears to be yes and no.  &lt;a href=&#34;https://www.suse.com/communities/blog/openstack-private-cloud-just-fine/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.suse.com/communities/blog/openstack-private-cloud-just-fine/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Arrow Electronics Boosts Collaboration between Hong Kong Startups and</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Telecommunications companies face greater security and privacy challenges. Attackers are becoming more sophisticated, and regulations are &amp;hellip;  &lt;a href=&#34;http://www.vanillaplus.com/2017/03/15/26005-machine-learning-might-save-telco-data/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.vanillaplus.com/2017/03/15/26005-machine-learning-might-save-telco-data/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Disaster recovery for applications, not just virtual machines using Azure</title>
-      <link>//crypt0.net/post/disaster-recovery-for-applications-not-just-virtual-machines-using-azure/</link>
-      <pubDate>Tue, 14 Mar 2017 23:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/disaster-recovery-for-applications-not-just-virtual-machines-using-azure/</guid>
-      <description>&lt;p&gt;Azure Site Recovery is Microsoft&amp;rsquo;s single disaster recovery offering for applications that works with multiple native application-level replication &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/app-aware-asr/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/app-aware-asr/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
