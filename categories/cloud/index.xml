@@ -7,8 +7,165 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Mar 2017 17:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Mar 2017 18:05:01 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Cloud Computing News from @cloudfeednet - Mar 14, 2017</title>
+      <link>//crypt0.net/daily/daily-cloud-news-2017-03-14/</link>
+      <pubDate>Tue, 14 Mar 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-cloud-news-2017-03-14/</guid>
+      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Cloud Next &amp;lsquo;17: Impressive, But Hard To Find Definitive&lt;/h3&gt;
+&lt;p&gt;Forbes I attended Google&amp;rsquo;s annual, enterprise-focused event, Google Cloud Next &amp;lsquo;17, last week in San Francisco, paying close attention to all the &amp;hellip;  &lt;a href=&#34;https://www.forbes.com/sites/patrickmoorhead/2017/03/13/google-cloud-next-17-impressive-but-hard-to-find-definitive-differentiators-after-day-1/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forbes.com/sites/patrickmoorhead/2017/03/13/google-cloud-next-17-impressive-but-hard-to-find-definitive-differentiators-after-day-1/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;How JD.com Moved to Kubernetes from OpenStack&lt;/h3&gt;
+&lt;p&gt;OpenStack was used as the orchestration layer, with the nova Docker driver for container management. The team adopted Docker as the container &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2017/03/jd-kubernetes-openstack&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2017/03/jd-kubernetes-openstack&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;ONAP is Driving Much-Needed Standards in NFV&lt;/h3&gt;
+&lt;p&gt;A major lesson we learned from the OpenStack community is the importance of usersin this case, carriersthat are committed to deploying the &amp;hellip;  &lt;a href=&#34;https://www.wirelessweek.com/article/2017/03/onap-driving-much-needed-standards-nfv&#34; onclick=&#34;trackOutboundLink(&#39;https://www.wirelessweek.com/article/2017/03/onap-driving-much-needed-standards-nfv&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;MS Azure Technical Pre-Sales Architect&lt;/h3&gt;
+&lt;p&gt;who are looking for a MS Azure Technical Pre-Sales Architect. Seeking an &amp;hellip;  &lt;a href=&#34;https://www.nigelfrank.com/us/vacancy/213878/ms-azure-technical-pre-sales-architect&#34; onclick=&#34;trackOutboundLink(&#39;https://www.nigelfrank.com/us/vacancy/213878/ms-azure-technical-pre-sales-architect&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Ask HN: How to build a Google Cloud Shell like feature?&lt;/h3&gt;
+&lt;p&gt;21 minutes ago | hide | past | web | discuss | favorite. Recently, I started &amp;hellip;  &lt;a href=&#34;https://news.ycombinator.com/item?id=13863978&#34; onclick=&#34;trackOutboundLink(&#39;https://news.ycombinator.com/item?id=13863978&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Cloud Platform Comes Of Age With Solid Enterprise Capabilities&lt;/h3&gt;
+&lt;p&gt;Last week at the Cloud Next event, the annual user conference for developers and customers, Google&amp;rsquo;s leadership team articulated the vision and the &amp;hellip;  &lt;a href=&#34;https://www.forbes.com/sites/janakirammsv/2017/03/13/google-cloud-platform-comes-of-age-with-solid-enterprise-capabilities/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forbes.com/sites/janakirammsv/2017/03/13/google-cloud-platform-comes-of-age-with-solid-enterprise-capabilities/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Ask HN: Static Sites on Google Cloud&lt;/h3&gt;
+&lt;p&gt;feeling really good about the direction it&amp;rsquo;s heading (an alternative to &amp;hellip;  &lt;a href=&#34;https://news.ycombinator.com/item?id=13864566&#34; onclick=&#34;trackOutboundLink(&#39;https://news.ycombinator.com/item?id=13864566&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Azure Data Lake Analytics and Data Lake Store now available in Europe&lt;/h3&gt;
+&lt;p&gt;the North Europe region. For more information about pricing, please visit &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-data-lake-analytics-and-data-lake-store-now-available-in-europe/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/azure-data-lake-analytics-and-data-lake-store-now-available-in-europe/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;On the move! Blue Chip present the Microsoft Azure Discovery Roadshow&lt;/h3&gt;
+&lt;p&gt;(1888PressRelease) March 14, 2017  With Microsoft opening new datacentres in the UK, their Azure offering has become a hot topic. In order to help &amp;hellip;  &lt;a href=&#34;http://www.satprnews.com/2017/03/14/on-the-move-blue-chip-present-the-microsoft-azure-discovery-roadshow/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.satprnews.com/2017/03/14/on-the-move-blue-chip-present-the-microsoft-azure-discovery-roadshow/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Webinar Thursday, March 16, 2017: Moving to Amazon Web Services (AWS)&lt;/h3&gt;
+&lt;p&gt;on Thursday, March 16, 2017 at 7:00 a.m. PDT / 10:00 a.m. EDT &amp;hellip;  &lt;a href=&#34;https://www.percona.com/blog/2017/03/13/webinar-thursday-march-16-2017-moving-amazon-web-services-aws/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.percona.com/blog/2017/03/13/webinar-thursday-march-16-2017-moving-amazon-web-services-aws/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Just Google It: Cloud Has Arrived&lt;/h3&gt;
+&lt;p&gt;Francisco on Wednesday, means that SAP HANA is now available on the &amp;hellip;  &lt;a href=&#34;https://news.sap.com/africa/2017/03/13/just-google-it-cloud-has-arrived/&#34; onclick=&#34;trackOutboundLink(&#39;https://news.sap.com/africa/2017/03/13/just-google-it-cloud-has-arrived/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;How do I Configure Microsoft Azure AD for 8x8 Virtual Office SSO/SAML?&lt;/h3&gt;
+&lt;p&gt;for configuring both Azure and 8x8 Virtual Office. Since Azure&amp;rsquo;s tutorial is &amp;hellip;  &lt;a href=&#34;https://support.8x8.com/products/virtual-office-integrations/how-do-i-configure-microsoft-azure-ad-8x8-virtual-office&#34; onclick=&#34;trackOutboundLink(&#39;https://support.8x8.com/products/virtual-office-integrations/how-do-i-configure-microsoft-azure-ad-8x8-virtual-office&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Global Cloud-based Database Market 2017  Amazon Web Services, Google, IBM,&lt;/h3&gt;
+&lt;p&gt;Aperture Games Supported by comprehensive primary as well as secondary research, the report Global Cloud-based Database Industry 2017 presents profitable &amp;hellip;  &lt;a href=&#34;http://aperturegames.com/7454/global-cloud-based-database-market-2017-2022/&#34; onclick=&#34;trackOutboundLink(&#39;http://aperturegames.com/7454/global-cloud-based-database-market-2017-2022/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;In 2012 China vowed &amp;lsquo;OpenStack will smash the monopoly of western cloud&lt;/h3&gt;
+&lt;p&gt;The Register Tristan Goode recalls that at the first OpenStack conference in China, in 2012, the deputy director of nation&amp;rsquo;s Ministry of Industry and Information &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/03/14/huawei_become_platinum_openstack_member/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/03/14/huawei_become_platinum_openstack_member/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Cloud Partners With SAP To Create Enterprise Applications&lt;/h3&gt;
+&lt;p&gt;SAN FRANCISCO, CA - JUNE 25: Urs Holzle, Senior Vice President for Technical Infrastructure at Google, speaks on the Google Cloud Platform &amp;hellip;  &lt;a href=&#34;http://www.itechpost.com/articles/91567/20170314/google-cloud-partners-sap-create-enterprise-applications.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itechpost.com/articles/91567/20170314/google-cloud-partners-sap-create-enterprise-applications.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Breaking with Tradition: Microsoft&amp;rsquo;s New Windows MDM Approach&lt;/h3&gt;
+&lt;p&gt;The properties of Azure Information Protection, available in EMS to prevent leakage of data, are now available in the Windows 10 Anniversary Update.  &lt;a href=&#34;https://redmondmag.com/articles/2017/03/01/breaking-with-tradition.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/articles/2017/03/01/breaking-with-tradition.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Is Red Hat Openstack Director backward compatible&lt;/h3&gt;
+&lt;p&gt;OpenStack Platform. Category; Install. Tags; OpenStack director.  &lt;a href=&#34;https://access.redhat.com/solutions/2967651&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2967651&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Cloud to offer support as a service: Is accidental IT provider the&lt;/h3&gt;
+&lt;p&gt;The Register He runs the cloud component of his corporate IT on AWS and Microsoft&amp;rsquo;s Azure. If there&amp;rsquo;s a problem, I don&amp;rsquo;t want to be on the phone to California and &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/03/14/google_engineering_paid_support/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/03/14/google_engineering_paid_support/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;TypeError when use doc tools to generate configuration difference&lt;/h3&gt;
+&lt;p&gt;options&amp;rdquo; for Networking service, I failed with &amp;ldquo;TypeError: &amp;lsquo;module&amp;rsquo; object &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1672377&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1672377&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Cloud to offer support as a service: Is accidental IT provider the&lt;/h3&gt;
+&lt;p&gt;The Register We don&amp;rsquo;t use Google, the CIO of a fairly major enterprise with a very recognizable brand told me some time ago. He runs the cloud component of his &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/03/14/google_engineering_paid_support/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/03/14/google_engineering_paid_support/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Qualcomm muscles into Microsoft Azure and the Open Compute Platform&lt;/h3&gt;
+&lt;p&gt;Microsoft has been showing off its Project Olympus server platform at the Open Compute Summit, and giving Intel headaches in the process. On show &amp;hellip;  &lt;a href=&#34;http://rethinkresearch.biz/articles/qualcomm-muscles-microsoft-azure-open-compute-platform/&#34; onclick=&#34;trackOutboundLink(&#39;http://rethinkresearch.biz/articles/qualcomm-muscles-microsoft-azure-open-compute-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft adds new service tier to Azure SQL Database, increases storage&lt;/h3&gt;
+&lt;p&gt;GeekWire Microsoft is making a series of enhancements to its Azure SQL Database, including a new Premium RS tier, as the big public cloud providers roll out &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/microsoft-adds-new-service-tier-azure-sql-database-increases-storage-limits-existing-databases/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/microsoft-adds-new-service-tier-azure-sql-database-increases-storage-limits-existing-databases/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Informatica Partners With Google Cloud to Bring Quick-Scale Marketing&lt;/h3&gt;
+&lt;p&gt;MarTech Series (press release) (blog) Informatica Cloud extends partnership with Google Cloud. It will offer data integration solution for Google BigQuery. The company also announced &amp;hellip;  &lt;a href=&#34;http://martechseries.com/analytics/data-management-platforms/informatica-partners-google-cloud-to-bring-enhanced-marketing-analytics/&#34; onclick=&#34;trackOutboundLink(&#39;http://martechseries.com/analytics/data-management-platforms/informatica-partners-google-cloud-to-bring-enhanced-marketing-analytics/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Deep Dive: Extending to the Cloud Blog on &lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;23&lt;/sub&gt;&lt;/h3&gt;
+&lt;p&gt;power, storage options, and advanced networking that integrate with your &amp;hellip;  &lt;a href=&#34;https://blogs.vmware.com/vcloud/2017/03/deep-dive-extending-cloud-blog-323.html&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.vmware.com/vcloud/2017/03/deep-dive-extending-cloud-blog-323.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Amazon Chime  Did AWS Buy the Wrong Company?&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; lots of attention and, as you may already have read about here on No Jitter, has led to a host of questions about Amazon Web Services&amp;rsquo; intentions.  &lt;a href=&#34;http://www.nojitter.com/post/240172487/amazon-chime--did-aws-buy-the-wrong-company&#34; onclick=&#34;trackOutboundLink(&#39;http://www.nojitter.com/post/240172487/amazon-chime--did-aws-buy-the-wrong-company&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Azure Stack TP3, Road Map, and Licensing Announced&lt;/h3&gt;
+&lt;p&gt;There has been lots of news about Azure Stack recently. This post will share some of that news, including when Microsoft plans to release Azure Stack &amp;hellip;  &lt;a href=&#34;https://www.petri.com/azure-stack-tp3-road-map-licensing-announced&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/azure-stack-tp3-road-map-licensing-announced&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Telehouse Enhances Connectivity With Telehouse Cloud Link and Announces&lt;/h3&gt;
+&lt;p&gt;MilTech The new Cloud Link service is officially available from April 2017 with one of the leading cloud connectivity services, Microsoft Azure ExpressRoute, &amp;hellip;  &lt;a href=&#34;http://www.military-technologies.net/2017/03/14/telehouse-enhances-connectivity-with-telehouse-cloud-link-and-announces-global-integration-with-microsoft-expressroute/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.military-technologies.net/2017/03/14/telehouse-enhances-connectivity-with-telehouse-cloud-link-and-announces-global-integration-with-microsoft-expressroute/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Amazon Web Services and Datapipe Selected as Infrastructure Providers for&lt;/h3&gt;
+&lt;p&gt;The ANNA Derivatives Service Bureau (DSB) today announced that Amazon Web Services (AWS) has been selected as the cloud services provider &amp;hellip;  &lt;a href=&#34;https://www.comparethecloud.net/articles/cloud/amazon-web-services-and-datapipe-selected-as-infrastructure-providers-for-the-anna-derivatives-service-bureau-for-otc-isins/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.comparethecloud.net/articles/cloud/amazon-web-services-and-datapipe-selected-as-infrastructure-providers-for-the-anna-derivatives-service-bureau-for-otc-isins/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Lenovo ThinkAgile For Microsoft Azure Stack: 5 Key Points For Partners&lt;/h3&gt;
+&lt;p&gt;Lenovo this month is releasing the ThinkAgile for Microsoft Azure Stack, a convergence appliance designed to give customers the convenience of &amp;hellip;  &lt;a href=&#34;http://www.crn.com/slide-shows/storage/300084172/lenovo-thinkagile-for-microsoft-azure-stack-5-key-points-for-partners.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/slide-shows/storage/300084172/lenovo-thinkagile-for-microsoft-azure-stack-5-key-points-for-partners.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Telehouse launches multi-cloud connectivity exchange with Microsoft Azure&lt;/h3&gt;
+&lt;p&gt;Data Economy Ross Ortega, Partner PM, Microsoft Azure at Microsoft, said: The cloud is driving transformation through new business models, global expansion and &amp;hellip;  &lt;a href=&#34;https://data-economy.com/telehouse-launches-multi-cloud-connectivity-exchange-microsoft-azure-expressroute/&#34; onclick=&#34;trackOutboundLink(&#39;https://data-economy.com/telehouse-launches-multi-cloud-connectivity-exchange-microsoft-azure-expressroute/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Cloud Tests ARM Processors for its Servers&lt;/h3&gt;
+&lt;p&gt;Microsoft is eyeing ARM for its low-power chips, testing it for its Azure servers. This is seen as a step toward being price-competitive, since ARM chips &amp;hellip;  &lt;a href=&#34;http://www.readitquik.com/news/networking/microsoft-cloud-tests-arm-processors-for-its-servers/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.readitquik.com/news/networking/microsoft-cloud-tests-arm-processors-for-its-servers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Zerto Introduces New Technical Alliances Program to Deliver Business&lt;/h3&gt;
+&lt;p&gt;Yahoo Finance &amp;ldquo;As more and more organizations move to Microsoft Azure, our relationship with Zerto continues to build and adds tremendous value to our customer &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/zerto-introduces-technical-alliances-program-131600997.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/zerto-introduces-technical-alliances-program-131600997.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Understanding Azure Storage: Managed Disks and Storage Accounts&lt;/h3&gt;
+&lt;p&gt;If understanding Azure Storage and creating storage accounts seems like too much hard work, then Microsoft has made it easy to create VMs in Azure &amp;hellip;  &lt;a href=&#34;https://www.petri.com/understanding-azure-storage-managed-disks-storage-accounts&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/understanding-azure-storage-managed-disks-storage-accounts&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;VMware, Inc.&amp;rsquo;s (VMW) stock price is Worth at $89.88 while finishes with&lt;/h3&gt;
+&lt;p&gt;Hot Stocks Point March 1, 2017 VMware, Inc. (VMW) announced VMware vCloud NFV 2.0, designed to modernize and transform network architectures and &amp;hellip;  &lt;a href=&#34;http://www.hotstockspoint.com/vmware-inc-s-vmw-stock-price-is-worth-at-89-88-while-finishes-with-change-of-0-02-stock-trending-alert/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.hotstockspoint.com/vmware-inc-s-vmw-stock-price-is-worth-at-89-88-while-finishes-with-change-of-0-02-stock-trending-alert/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Cloud price wars are back on&lt;/h3&gt;
+&lt;p&gt;At the Google NEXT cloud conference last week the company announced new Committed Use Discounts (CUDs) in which customers receive a &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3180473/cloud-computing/cloud-price-wars-are-back-on.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3180473/cloud-computing/cloud-price-wars-are-back-on.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;SocGen Floats Toward the Cloud as European Banks Target Costs&lt;/h3&gt;
+&lt;p&gt;It is more something that has opened up in the last 18 months to two years, said Matt McNeill, the head of Google Cloud Platform for the UK &amp;amp; Ireland.  &lt;a href=&#34;https://www.bloomberg.com/news/articles/2017-03-14/socgen-floats-toward-the-cloud-as-european-banks-target-costs&#34; onclick=&#34;trackOutboundLink(&#39;https://www.bloomberg.com/news/articles/2017-03-14/socgen-floats-toward-the-cloud-as-european-banks-target-costs&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Blockstack Launches Third-Ever Blockchain Product On Amazon Marketplace&lt;/h3&gt;
+&lt;p&gt;Decentralized Internet developer Blockstack has debuted on Amazon Web Services Marketplace, becoming only the third Blockchain product to &amp;hellip;  &lt;a href=&#34;https://cointelegraph.com/news/blockstack-launches-third-ever-blockchain-product-on-amazon-marketplace&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/blockstack-launches-third-ever-blockchain-product-on-amazon-marketplace&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Europe IoT IAM Market Market 2017 - Key Players are Amazon Web Services, CA&lt;/h3&gt;
+&lt;p&gt;openPR (press release) MarketResearchReports.biz is the most comprehensive collection of market research reports. MarketResearchReports.Biz services are specially &amp;hellip;  &lt;a href=&#34;http://www.openpr.com/news/467381/Europe-IoT-IAM-Market-Market-2017-Key-Players-are-Amazon-Web-Services-CA-Technologies-LogMeln-Inc-Gemalto-NV-and-More.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.openpr.com/news/467381/Europe-IoT-IAM-Market-Market-2017-Key-Players-are-Amazon-Web-Services-CA-Technologies-LogMeln-Inc-Gemalto-NV-and-More.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google App Engine Adds .NET Support As It Races to Be The PaaS of Choice&lt;/h3&gt;
+&lt;p&gt;NET, Google is clearly looking to capture the great many businesses and developers may have previously viewed the PaaS side of Microsoft Azure as &amp;hellip;  &lt;a href=&#34;https://www.programmableweb.com/news/google-app-engine-adds-net-support-it-races-to-be-paas-choice/analysis/2017/03/14&#34; onclick=&#34;trackOutboundLink(&#39;https://www.programmableweb.com/news/google-app-engine-adds-net-support-it-races-to-be-paas-choice/analysis/2017/03/14&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;What You Missed At Google Cloud Next 2017&lt;/h3&gt;
+&lt;p&gt;water is sweet, for the most part. The conference has a lot of moving parts, &amp;hellip;  &lt;a href=&#34;https://aragonresearch.com/what-you-missed-google-cloud-next-2017/&#34; onclick=&#34;trackOutboundLink(&#39;https://aragonresearch.com/what-you-missed-google-cloud-next-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Paxata Advances the Adaptive Information Platform for Microsoft Azure &lt;/h3&gt;
+&lt;p&gt;SAN JOSE, Calif., March 14, 2017 (GLOBE NEWSWIRE) &amp;ndash; (Strata + Hadoop World 2017, Booth #1025) &amp;ndash; Paxata, the pioneer and leader in &amp;hellip;  &lt;a href=&#34;http://www.euroinvestor.com/news/2017/03/14/paxata-advances-the-adaptive-information-platform-for-microsoft-azure-launches-hybrid-multi-cloud-support-with-intercloud-connect/13553128&#34; onclick=&#34;trackOutboundLink(&#39;http://www.euroinvestor.com/news/2017/03/14/paxata-advances-the-adaptive-information-platform-for-microsoft-azure-launches-hybrid-multi-cloud-support-with-intercloud-connect/13553128&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Confirms Windows Server on ARM Strictly for Internal Use&lt;/h3&gt;
+&lt;p&gt;Microsoft Confirms Windows Server on ARM Strictly for Internal Use &amp;hellip; learning,&amp;rdquo; said Leendert van Doorn of Microsoft&amp;rsquo;s Azure unit, in a blog post.  &lt;a href=&#34;http://www.toptechnews.com/article/index.php?story_id=03200101J1PC&#34; onclick=&#34;trackOutboundLink(&#39;http://www.toptechnews.com/article/index.php?story_id=03200101J1PC&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;AWS follows Google with Reserved Instance flexibility changes&lt;/h3&gt;
+&lt;p&gt;Customers who have Reserved Instance contracts with Amazon Web Services will be able to subdivide some of their Linux and Unix virtual machine &amp;hellip;  &lt;a href=&#34;http://www.pcworld.com/article/3180821/cloud-computing/aws-follows-google-with-reserved-instance-flexibility-changes.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcworld.com/article/3180821/cloud-computing/aws-follows-google-with-reserved-instance-flexibility-changes.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;China Telecom Allies with OpenStack with Government Support for the&lt;/h3&gt;
+&lt;p&gt;Yahoo Finance Large and small businesses, telecoms, public cloud service providers, government organizations and researchers around the world use OpenStack&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/china-telecom-allies-openstack-government-140000998.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/china-telecom-allies-openstack-government-140000998.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;IT Brief Australia - RSL Queensland marks 100th anniversary with Microsoft&lt;/h3&gt;
+&lt;p&gt;IT Brief Australia Leveraging Microsoft Azure, Office 365, Dynamics365 and Teams, chief information officer Simon Button is building a flexible, scalable platform, &amp;hellip;  &lt;a href=&#34;https://itbrief.com.au/story/rsl-queensland-marks-100th-anniversary-microsoft-tech-transformation/&#34; onclick=&#34;trackOutboundLink(&#39;https://itbrief.com.au/story/rsl-queensland-marks-100th-anniversary-microsoft-tech-transformation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft, AWS, IBM, HPE join growing hybrid cloud alliance&lt;/h3&gt;
+&lt;p&gt;Zerto&amp;rsquo;s solution for Microsoft Azure not only provides our customers with the BC/DR and hybrid cloud capabilities they need, but the coordinated &amp;hellip;  &lt;a href=&#34;https://data-economy.com/microsoft-aws-ibm-hpe-join-growing-hybrid-cloud-alliance/&#34; onclick=&#34;trackOutboundLink(&#39;https://data-economy.com/microsoft-aws-ibm-hpe-join-growing-hybrid-cloud-alliance/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Amazon Web Services&amp;rsquo; Users Can Pre-pay for SD2 Cloud Tech&lt;/h3&gt;
+&lt;p&gt;Amazon Web Services (AWS) to pre-pay for their use of the cloud platform, &amp;hellip;  &lt;a href=&#34;https://www.pressreader.com/india/economic-times/20170315/282076276676812&#34; onclick=&#34;trackOutboundLink(&#39;https://www.pressreader.com/india/economic-times/20170315/282076276676812&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;GTT Communications (GTT) director Brian Thompson, Acquired $175938 in&lt;/h3&gt;
+&lt;p&gt;Wolcott Daily The company has market cap of $407.82 billion. The Firm operates through three divisions: North America, International and Amazon Web Services .  &lt;a href=&#34;https://wolcottdaily.com/gtt-communications-gtt-director-brian-thompson-acquired-175938-in-stock-37-bullish-analysts-covering-amazon-com-inc-amzn/&#34; onclick=&#34;trackOutboundLink(&#39;https://wolcottdaily.com/gtt-communications-gtt-director-brian-thompson-acquired-175938-in-stock-37-bullish-analysts-covering-amazon-com-inc-amzn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Behind the Scenes: How Shelfie Built a Xamarin.Forms mobile app that&lt;/h3&gt;
+&lt;p&gt;Microsoft - Channel 9 (blog) Forms and Azure Mobile Services to deliver a cross-platform app for iOS, Android and Windows users that talks to a Ruby on Rails back end migrated &amp;hellip;  &lt;a href=&#34;https://channel9.msdn.com/Blogs/DevRadio/DR1718&#34; onclick=&#34;trackOutboundLink(&#39;https://channel9.msdn.com/Blogs/DevRadio/DR1718&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Behind the Scenes: How Shelfie Built a Xamarin.Forms mobile app that</title>
@@ -173,18 +330,6 @@
       
       <guid>//crypt0.net/post/socgen-floats-toward-the-cloud-as-european-banks-target-costs/</guid>
       <description>&lt;p&gt;It is more something that has opened up in the last 18 months to two years, said Matt McNeill, the head of Google Cloud Platform for the UK &amp;amp; Ireland.  &lt;a href=&#34;https://www.bloomberg.com/news/articles/2017-03-14/socgen-floats-toward-the-cloud-as-european-banks-target-costs&#34; onclick=&#34;trackOutboundLink(&#39;https://www.bloomberg.com/news/articles/2017-03-14/socgen-floats-toward-the-cloud-as-european-banks-target-costs&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>VMware, Inc.&#39;s (VMW) stock price is Worth at $89.88 while finishes with</title>
-      <link>//crypt0.net/post/vmware-incs-vmw-stock-price-is-worth-at-8988-while-finishes-with/</link>
-      <pubDate>Tue, 14 Mar 2017 11:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vmware-incs-vmw-stock-price-is-worth-at-8988-while-finishes-with/</guid>
-      <description>&lt;p&gt;Hot Stocks Point March 1, 2017 VMware, Inc. (VMW) announced VMware vCloud NFV 2.0, designed to modernize and transform network architectures and &amp;hellip;  &lt;a href=&#34;http://www.hotstockspoint.com/vmware-inc-s-vmw-stock-price-is-worth-at-89-88-while-finishes-with-change-of-0-02-stock-trending-alert/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.hotstockspoint.com/vmware-inc-s-vmw-stock-price-is-worth-at-89-88-while-finishes-with-change-of-0-02-stock-trending-alert/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
