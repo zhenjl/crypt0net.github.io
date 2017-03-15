@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Mar 2017 18:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Mar 2017 19:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack platform deployments: Not every app is a candidate</title>
+      <link>//crypt0.net/post/openstack-platform-deployments-not-every-app-is-a-candidate/</link>
+      <pubDate>Tue, 14 Mar 2017 19:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-platform-deployments-not-every-app-is-a-candidate/</guid>
+      <description>&lt;p&gt;&amp;ldquo;OpenStack is a great platform for 60% to 80% of the applications that a typical large business is running, but it&amp;rsquo;s not a solution for 100% of them,&amp;rdquo; said &amp;hellip;  &lt;a href=&#34;http://searchcio.techtarget.com/tip/OpenStack-platform-deployments-Not-every-app-is-a-candidate&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcio.techtarget.com/tip/OpenStack-platform-deployments-Not-every-app-is-a-candidate&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Using templates to customize restored VMs from Azure Backup</title>
@@ -318,18 +330,6 @@
       
       <guid>//crypt0.net/post/what-you-missed-at-google-cloud-next-2017/</guid>
       <description>&lt;p&gt;water is sweet, for the most part. The conference has a lot of moving parts, &amp;hellip;  &lt;a href=&#34;https://aragonresearch.com/what-you-missed-google-cloud-next-2017/&#34; onclick=&#34;trackOutboundLink(&#39;https://aragonresearch.com/what-you-missed-google-cloud-next-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google App Engine Adds .NET Support As It Races to Be The PaaS of Choice</title>
-      <link>//crypt0.net/post/google-app-engine-adds-net-support-as-it-races-to-be-the-paas-of-choice/</link>
-      <pubDate>Tue, 14 Mar 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-app-engine-adds-net-support-as-it-races-to-be-the-paas-of-choice/</guid>
-      <description>&lt;p&gt;NET, Google is clearly looking to capture the great many businesses and developers may have previously viewed the PaaS side of Microsoft Azure as &amp;hellip;  &lt;a href=&#34;https://www.programmableweb.com/news/google-app-engine-adds-net-support-it-races-to-be-paas-choice/analysis/2017/03/14&#34; onclick=&#34;trackOutboundLink(&#39;https://www.programmableweb.com/news/google-app-engine-adds-net-support-it-races-to-be-paas-choice/analysis/2017/03/14&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

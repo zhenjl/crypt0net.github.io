@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Mar 2017 19:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Mar 2017 19:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack platform deployments: Not every app is a candidate</title>
+      <link>//crypt0.net/post/openstack-platform-deployments-not-every-app-is-a-candidate/</link>
+      <pubDate>Tue, 14 Mar 2017 19:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-platform-deployments-not-every-app-is-a-candidate/</guid>
+      <description>&lt;p&gt;&amp;ldquo;OpenStack is a great platform for 60% to 80% of the applications that a typical large business is running, but it&amp;rsquo;s not a solution for 100% of them,&amp;rdquo; said &amp;hellip;  &lt;a href=&#34;http://searchcio.techtarget.com/tip/OpenStack-platform-deployments-Not-every-app-is-a-candidate&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcio.techtarget.com/tip/OpenStack-platform-deployments-Not-every-app-is-a-candidate&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Genesys Study of IoT Maturity Puts Southeast Asia Low in Rankings</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Wind River, an IoT software division of Intel, wants to help industrial users bring their legacy machine-to-machine systems into the age of open source &amp;hellip;  &lt;a href=&#34;http://www.pcworld.com/article/3181048/internet-of-things/wind-river-uses-virtualization-to-turn-m2m-into-iot.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcworld.com/article/3181048/internet-of-things/wind-river-uses-virtualization-to-turn-m2m-into-iot.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Behind the Scenes: How Shelfie Built a Xamarin.Forms mobile app that</title>
-      <link>//crypt0.net/post/behind-the-scenes-how-shelfie-built-a-xamarinforms-mobile-app-that/</link>
-      <pubDate>Tue, 14 Mar 2017 17:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/behind-the-scenes-how-shelfie-built-a-xamarinforms-mobile-app-that/</guid>
-      <description>&lt;p&gt;Microsoft - Channel 9 (blog) Forms and Azure Mobile Services to deliver a cross-platform app for iOS, Android and Windows users that talks to a Ruby on Rails back end migrated &amp;hellip;  &lt;a href=&#34;https://channel9.msdn.com/Blogs/DevRadio/DR1718&#34; onclick=&#34;trackOutboundLink(&#39;https://channel9.msdn.com/Blogs/DevRadio/DR1718&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
