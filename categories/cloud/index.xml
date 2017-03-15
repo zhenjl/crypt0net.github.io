@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Mar 2017 18:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Mar 2017 18:20:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using templates to customize restored VMs from Azure Backup</title>
+      <link>//crypt0.net/post/using-templates-to-customize-restored-vms-from-azure-backup/</link>
+      <pubDate>Tue, 14 Mar 2017 18:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/using-templates-to-customize-restored-vms-from-azure-backup/</guid>
+      <description>&lt;p&gt;customize the restored VM.  &lt;a href=&#34;https://azure.microsoft.com/en-in/blog/azure-backup-restore-template/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-in/blog/azure-backup-restore-template/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vyatta 5600 -Unable to do install image in Mirantis openstack</title>
+      <link>//crypt0.net/post/vyatta-5600-unable-to-do-install-image-in-mirantis-openstack/</link>
+      <pubDate>Tue, 14 Mar 2017 18:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/vyatta-5600-unable-to-do-install-image-in-mirantis-openstack/</guid>
+      <description>&lt;p&gt;RAM,80GB Disk,4VCPUS) in Mirantis Openstack. we observed that &amp;hellip;  &lt;a href=&#34;http://community.brocade.com/t5/Virtual-Router-Firewall-VPN/Vyatta-5600-Unable-to-do-install-image-in-Mirantis-openstack/m-p/91384&#34; onclick=&#34;trackOutboundLink(&#39;http://community.brocade.com/t5/Virtual-Router-Firewall-VPN/Vyatta-5600-Unable-to-do-install-image-in-Mirantis-openstack/m-p/91384&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Washington Post software deal a double win for Bezos</title>
@@ -306,30 +330,6 @@
       
       <guid>//crypt0.net/post/google-app-engine-adds-net-support-as-it-races-to-be-the-paas-of-choice/</guid>
       <description>&lt;p&gt;NET, Google is clearly looking to capture the great many businesses and developers may have previously viewed the PaaS side of Microsoft Azure as &amp;hellip;  &lt;a href=&#34;https://www.programmableweb.com/news/google-app-engine-adds-net-support-it-races-to-be-paas-choice/analysis/2017/03/14&#34; onclick=&#34;trackOutboundLink(&#39;https://www.programmableweb.com/news/google-app-engine-adds-net-support-it-races-to-be-paas-choice/analysis/2017/03/14&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Europe IoT IAM Market Market 2017 - Key Players are Amazon Web Services, CA</title>
-      <link>//crypt0.net/post/europe-iot-iam-market-market-2017--key-players-are-amazon-web-services-ca/</link>
-      <pubDate>Tue, 14 Mar 2017 12:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/europe-iot-iam-market-market-2017--key-players-are-amazon-web-services-ca/</guid>
-      <description>&lt;p&gt;openPR (press release) MarketResearchReports.biz is the most comprehensive collection of market research reports. MarketResearchReports.Biz services are specially &amp;hellip;  &lt;a href=&#34;http://www.openpr.com/news/467381/Europe-IoT-IAM-Market-Market-2017-Key-Players-are-Amazon-Web-Services-CA-Technologies-LogMeln-Inc-Gemalto-NV-and-More.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.openpr.com/news/467381/Europe-IoT-IAM-Market-Market-2017-Key-Players-are-Amazon-Web-Services-CA-Technologies-LogMeln-Inc-Gemalto-NV-and-More.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cloud price wars are back on</title>
-      <link>//crypt0.net/post/cloud-price-wars-are-back-on/</link>
-      <pubDate>Tue, 14 Mar 2017 12:00:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloud-price-wars-are-back-on/</guid>
-      <description>&lt;p&gt;At the Google NEXT cloud conference last week the company announced new Committed Use Discounts (CUDs) in which customers receive a &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3180473/cloud-computing/cloud-price-wars-are-back-on.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3180473/cloud-computing/cloud-price-wars-are-back-on.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
