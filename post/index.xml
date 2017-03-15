@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Mar 2017 23:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Mar 2017 23:30:06 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Disaster recovery for applications, not just virtual machines using Azure</title>
+      <link>//crypt0.net/post/disaster-recovery-for-applications-not-just-virtual-machines-using-azure/</link>
+      <pubDate>Tue, 14 Mar 2017 23:30:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/disaster-recovery-for-applications-not-just-virtual-machines-using-azure/</guid>
+      <description>&lt;p&gt;Azure Site Recovery is Microsoft&amp;rsquo;s single disaster recovery offering for applications that works with multiple native application-level replication &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/app-aware-asr/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/app-aware-asr/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Verizon sought $925 million penalty for Yahoo&#39;s lax security</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;With Internet of Things (IoT) at the top of the hype curve it is no surprise that there is a growing abundance of products and services tagged with &amp;ldquo;IoT.  &lt;a href=&#34;https://adtmag.com/articles/2017/03/14/iot-platforms.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://adtmag.com/articles/2017/03/14/iot-platforms.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Voices In the blogs: Insuring against data breaches</title>
-      <link>//crypt0.net/post/voices-in-the-blogs-insuring-against-data-breaches/</link>
-      <pubDate>Tue, 14 Mar 2017 19:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/voices-in-the-blogs-insuring-against-data-breaches/</guid>
-      <description>&lt;p&gt;Frictionless tax compliance; ATGs; giving up bonus depreciation and other highlights from our favorite tax bloggers.  &lt;a href=&#34;https://www.accountingtoday.com/opinion/in-the-blogs-insuring-against-data-breaches&#34; onclick=&#34;trackOutboundLink(&#39;https://www.accountingtoday.com/opinion/in-the-blogs-insuring-against-data-breaches&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

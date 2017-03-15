@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 14 Mar 2017 22:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Mar 2017 23:30:06 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Disaster recovery for applications, not just virtual machines using Azure</title>
+      <link>//crypt0.net/post/disaster-recovery-for-applications-not-just-virtual-machines-using-azure/</link>
+      <pubDate>Tue, 14 Mar 2017 23:30:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/disaster-recovery-for-applications-not-just-virtual-machines-using-azure/</guid>
+      <description>&lt;p&gt;Azure Site Recovery is Microsoft&amp;rsquo;s single disaster recovery offering for applications that works with multiple native application-level replication &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/app-aware-asr/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/app-aware-asr/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blackmores plans major ERP cloud shift</title>
@@ -318,18 +330,6 @@
       
       <guid>//crypt0.net/post/it-brief-australia--rsl-queensland-marks-100th-anniversary-with-microsoft/</guid>
       <description>&lt;p&gt;IT Brief Australia Leveraging Microsoft Azure, Office 365, Dynamics365 and Teams, chief information officer Simon Button is building a flexible, scalable platform, &amp;hellip;  &lt;a href=&#34;https://itbrief.com.au/story/rsl-queensland-marks-100th-anniversary-microsoft-tech-transformation/&#34; onclick=&#34;trackOutboundLink(&#39;https://itbrief.com.au/story/rsl-queensland-marks-100th-anniversary-microsoft-tech-transformation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AWS follows Google with Reserved Instance flexibility changes</title>
-      <link>//crypt0.net/post/aws-follows-google-with-reserved-instance-flexibility-changes/</link>
-      <pubDate>Tue, 14 Mar 2017 14:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aws-follows-google-with-reserved-instance-flexibility-changes/</guid>
-      <description>&lt;p&gt;Customers who have Reserved Instance contracts with Amazon Web Services will be able to subdivide some of their Linux and Unix virtual machine &amp;hellip;  &lt;a href=&#34;http://www.pcworld.com/article/3180821/cloud-computing/aws-follows-google-with-reserved-instance-flexibility-changes.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcworld.com/article/3180821/cloud-computing/aws-follows-google-with-reserved-instance-flexibility-changes.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
