@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Mar 2017 00:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2017 01:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Storage service outage affected multiple Azure services last night</title>
+      <link>//crypt0.net/post/azure-storage-service-outage-affected-multiple-azure-services-last-night/</link>
+      <pubDate>Thu, 16 Mar 2017 01:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-storage-service-outage-affected-multiple-azure-services-last-night/</guid>
+      <description>&lt;p&gt;Microsoft Azure Storage service experienced outage for several hours last night. Along with Azure Storage service, all the dependent services like &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/azure-storage-service-outage-affected-multiple-azure-services-last-night/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/azure-storage-service-outage-affected-multiple-azure-services-last-night/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Secure and Free PBX in your Cloud in Minutes : Hop-On the PBX Express</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/bug-1673252-select-hosts-where-instances-are-launched-in-admin/</guid>
       <description>&lt;p&gt;&amp;ldquo;HOST is an optional parameter. In such cases, use the &amp;ndash;availability-zone &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1673252&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1673252&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Spark Connector for Azure DocumentDB Supports Data Science</title>
-      <link>//crypt0.net/post/microsoft-spark-connector-for-azure-documentdb-supports-data-science/</link>
-      <pubDate>Wed, 15 Mar 2017 19:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-spark-connector-for-azure-documentdb-supports-data-science/</guid>
-      <description>&lt;p&gt;Microsoft&amp;rsquo;s introduces the new Apache Spark connector for Azure DocumentDB at the Strata + Hadoop World conference along with several new &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/microsoft-spark-connector-for-azure-documentdb-supports-data-science&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/microsoft-spark-connector-for-azure-documentdb-supports-data-science&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
