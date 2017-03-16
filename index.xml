@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 15 Mar 2017 23:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Mar 2017 23:30:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Security focus shifts from prevention to detection: Gartner</title>
+      <link>//crypt0.net/post/security-focus-shifts-from-prevention-to-detection-gartner/</link>
+      <pubDate>Wed, 15 Mar 2017 23:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/security-focus-shifts-from-prevention-to-detection-gartner/</guid>
+      <description>&lt;p&gt;&amp;hellip; better detect and respond to security incidents has also created new security product segments such as deception, endpoint detection and response &amp;hellip;  &lt;a href=&#34;http://www.itwire.com/security/77297-security-focus-shifts-from-prevention-to-detection-gartner.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itwire.com/security/77297-security-focus-shifts-from-prevention-to-detection-gartner.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cloudability acquires Australian cloud automation firm</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/google-and-sap-partner-to-provide-sap-hana-platforms-on-google-cloud/</guid>
       <description>&lt;p&gt;The SAP HANA express edition platform is now available from Google Cloud Launcher, allowing users the space to grow and gain real-time insights.  &lt;a href=&#34;http://www.dbta.com/Editorial/News-Flashes/Google-and-SAP-Partner-to-Provide-SAP-HANA-Platforms-on-Google-Cloud-116965.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dbta.com/Editorial/News-Flashes/Google-and-SAP-Partner-to-Provide-SAP-HANA-Platforms-on-Google-Cloud-116965.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ionic Delivers Key Management Service Support for Google Cloud Storage</title>
-      <link>//crypt0.net/post/ionic-delivers-key-management-service-support-for-google-cloud-storage/</link>
-      <pubDate>Wed, 15 Mar 2017 19:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ionic-delivers-key-management-service-support-for-google-cloud-storage/</guid>
-      <description>&lt;p&gt;CSEK allows you to provide a third party 256-bit string, such as an AES encryption key, for use in protecting your data at rest in Google Cloud Storage.  &lt;a href=&#34;http://www.prnewswire.com/news-releases/ionic-delivers-key-management-service-support-for-google-cloud-storage-300423907.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prnewswire.com/news-releases/ionic-delivers-key-management-service-support-for-google-cloud-storage-300423907.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
