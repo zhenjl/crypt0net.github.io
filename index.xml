@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 15 Mar 2017 19:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Mar 2017 19:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1673252 Select hosts where instances are launched in Admin...</title>
+      <link>//crypt0.net/post/bug-1673252-select-hosts-where-instances-are-launched-in-admin/</link>
+      <pubDate>Wed, 15 Mar 2017 19:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1673252-select-hosts-where-instances-are-launched-in-admin/</guid>
+      <description>&lt;p&gt;&amp;ldquo;HOST is an optional parameter. In such cases, use the &amp;ndash;availability-zone &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1673252&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1673252&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Spark Connector for Azure DocumentDB Supports Data Science</title>
@@ -427,18 +439,6 @@
       <description>&lt;p&gt;By collaborating with Visa, IBM will use its own Watson Internet of Things (IoT) platform to allow businesses to quickly add secure payment options to &amp;hellip;  &lt;a href=&#34;http://www.digitaltrends.com/outdoors/ibm-visa-mobile-payments/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digitaltrends.com/outdoors/ibm-visa-mobile-payments/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Huawei becomes platinum member of OpenStack Foundation</title>
-      <link>//crypt0.net/post/huawei-becomes-platinum-member-of-openstack-foundation/</link>
-      <pubDate>Wed, 15 Mar 2017 17:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/huawei-becomes-platinum-member-of-openstack-foundation/</guid>
-      <description>&lt;p&gt;Chinese information and communications technology (ICT) solutions provider Huawei has been selected as a platinum member of the OpenStack &amp;hellip;  &lt;a href=&#34;http://in.pcmag.com/openstack/113277/news/huawei-becomes-platinum-member-of-openstack-foundation&#34; onclick=&#34;trackOutboundLink(&#39;http://in.pcmag.com/openstack/113277/news/huawei-becomes-platinum-member-of-openstack-foundation&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

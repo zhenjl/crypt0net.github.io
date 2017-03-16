@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 15 Mar 2017 19:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Mar 2017 19:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1673252 Select hosts where instances are launched in Admin...</title>
+      <link>//crypt0.net/post/bug-1673252-select-hosts-where-instances-are-launched-in-admin/</link>
+      <pubDate>Wed, 15 Mar 2017 19:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1673252-select-hosts-where-instances-are-launched-in-admin/</guid>
+      <description>&lt;p&gt;&amp;ldquo;HOST is an optional parameter. In such cases, use the &amp;ndash;availability-zone &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1673252&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1673252&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Spark Connector for Azure DocumentDB Supports Data Science</title>
@@ -243,18 +255,6 @@
       
       <guid>//crypt0.net/post/can-oracle-keep-up-its-cloud-revenue-growth-in-the-third-quarter/</guid>
       <description>&lt;p&gt;Amazon Web Services reported $3.53 billion in revenue for Q4 2016, up 47% from Q4 2015. To put that into perspective, Amazon&amp;rsquo;s cloud business is &amp;hellip;  &lt;a href=&#34;https://www.benzinga.com/analyst-ratings/analyst-color/17/03/9175101/can-oracle-keep-up-its-cloud-revenue-growth-in-the-third&#34; onclick=&#34;trackOutboundLink(&#39;https://www.benzinga.com/analyst-ratings/analyst-color/17/03/9175101/can-oracle-keep-up-its-cloud-revenue-growth-in-the-third&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Visual Studio 2017, Refining The Fundamentals</title>
-      <link>//crypt0.net/post/microsoft-visual-studio-2017-refining-the-fundamentals/</link>
-      <pubDate>Wed, 15 Mar 2017 07:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-visual-studio-2017-refining-the-fundamentals/</guid>
-      <description>&lt;p&gt;It is now a full 20-years since Microsoft first offered its Visual Studio software &amp;hellip; Microsoft makes much of the use of its own IntelliSense technology in &amp;hellip; and services to [the Microsoft] Azure [cloud], directly from the IDE,&amp;rdquo; wrote Liuson, &amp;hellip;  &lt;a href=&#34;https://www.forbes.com/sites/adrianbridgwater/2017/03/15/microsoft-visual-studio-2017-refining-the-fundamentals/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forbes.com/sites/adrianbridgwater/2017/03/15/microsoft-visual-studio-2017-refining-the-fundamentals/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
