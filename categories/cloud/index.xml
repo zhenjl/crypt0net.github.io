@@ -7,8 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Mar 2017 11:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2017 12:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How is OpenvSwitch MTU determined in Red Hat OpenStack Platform</title>
+      <link>//crypt0.net/post/how-is-openvswitch-mtu-determined-in-red-hat-openstack-platform/</link>
+      <pubDate>Thu, 16 Mar 2017 12:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-is-openvswitch-mtu-determined-in-red-hat-openstack-platform/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Red Hat OpenStack Platform 9. Red Hat OpenStack Platform 10 &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2971561&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2971561&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Gartner Positions Rackspace in the Leaders Quadrant of Its New Magic</title>
@@ -173,18 +187,6 @@
       
       <guid>//crypt0.net/post/pulsant-gets-ready-to-deploy-azure-stack/</guid>
       <description>&lt;p&gt;Pulsant will roll out the most up to date technical preview (TP3) of Microsoft&amp;rsquo;s Azure Stack to its datacentres next month, enabling customers to get a &amp;hellip;  &lt;a href=&#34;http://www.cloudpro.co.uk/cloud-essentials/public-cloud/6686/pulsant-gets-ready-to-deploy-azure-stack&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cloudpro.co.uk/cloud-essentials/public-cloud/6686/pulsant-gets-ready-to-deploy-azure-stack&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Where to Find Rackspace Experts at OpenStack Summit Boston</title>
-      <link>//crypt0.net/post/where-to-find-rackspace-experts-at-openstack-summit-boston/</link>
-      <pubDate>Thu, 16 Mar 2017 04:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/where-to-find-rackspace-experts-at-openstack-summit-boston/</guid>
-      <description>&lt;p&gt;first time since 2011. While a lot has changed in the last six years, one &amp;hellip;  &lt;a href=&#34;https://blog.rackspace.com/where-to-find-rackspace-experts-at-openstack-summit-boston&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.rackspace.com/where-to-find-rackspace-experts-at-openstack-summit-boston&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
