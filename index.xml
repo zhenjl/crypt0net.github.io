@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Mar 2017 01:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2017 01:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Assessing the Google Cloud security strategy</title>
+      <link>//crypt0.net/post/assessing-the-google-cloud-security-strategy/</link>
+      <pubDate>Thu, 16 Mar 2017 01:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/assessing-the-google-cloud-security-strategy/</guid>
+      <description>&lt;p&gt;This week, bloggers assess the Google Cloud security strategy, Cisco&amp;rsquo;s lessons from OpenStack and Arista&amp;rsquo;s new containerized network operating &amp;hellip;  &lt;a href=&#34;http://searchnetworking.techtarget.com/news/450414915/Assessing-the-Google-Cloud-security-strategy&#34; onclick=&#34;trackOutboundLink(&#39;http://searchnetworking.techtarget.com/news/450414915/Assessing-the-Google-Cloud-security-strategy&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure Storage service outage affected multiple Azure services last night</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/storage-issues-hit-microsofts-azure-cloud-service/</guid>
       <description>&lt;p&gt;Microsoft said that storage issues are affecting Azure services in the Eastern United States, after earlier issues affected its cloud-based services &amp;hellip;  &lt;a href=&#34;http://www.channelnews.com.au/storage-issues-hit-microsofts-azure-cloud-service/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.channelnews.com.au/storage-issues-hit-microsofts-azure-cloud-service/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Will Oracle&#39;s Bare Metal Cloud Move ahead of Amazon Web Services?</title>
-      <link>//crypt0.net/post/will-oracles-bare-metal-cloud-move-ahead-of-amazon-web-services/</link>
-      <pubDate>Wed, 15 Mar 2017 21:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/will-oracles-bare-metal-cloud-move-ahead-of-amazon-web-services/</guid>
-      <description>&lt;p&gt;Earlier in the series, we discussed how a temporary setback suffered by Amazon&amp;rsquo;s (AMZN) Amazon Web Services (or AWS) could provide a growth &amp;hellip;  &lt;a href=&#34;http://marketrealist.com/2017/03/will-oracles-bare-metal-cloud-move-ahead-of-amazon-web-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2017/03/will-oracles-bare-metal-cloud-move-ahead-of-amazon-web-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

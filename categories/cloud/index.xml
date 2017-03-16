@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Mar 2017 01:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2017 01:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Assessing the Google Cloud security strategy</title>
+      <link>//crypt0.net/post/assessing-the-google-cloud-security-strategy/</link>
+      <pubDate>Thu, 16 Mar 2017 01:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/assessing-the-google-cloud-security-strategy/</guid>
+      <description>&lt;p&gt;This week, bloggers assess the Google Cloud security strategy, Cisco&amp;rsquo;s lessons from OpenStack and Arista&amp;rsquo;s new containerized network operating &amp;hellip;  &lt;a href=&#34;http://searchnetworking.techtarget.com/news/450414915/Assessing-the-Google-Cloud-security-strategy&#34; onclick=&#34;trackOutboundLink(&#39;http://searchnetworking.techtarget.com/news/450414915/Assessing-the-Google-Cloud-security-strategy&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure Storage service outage affected multiple Azure services last night</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/is-googles-cloud-potential-underrated/</guid>
       <description>&lt;p&gt;Even if Google were to only hold its current market share, it would represent significant growth. The differentiator that may propel Google&amp;rsquo;s cloud &amp;hellip;  &lt;a href=&#34;http://seekingalpha.com/article/4055419-googles-cloud-potential-underrated&#34; onclick=&#34;trackOutboundLink(&#39;http://seekingalpha.com/article/4055419-googles-cloud-potential-underrated&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bug #1673252 Select hosts where instances are launched in Admin...</title>
-      <link>//crypt0.net/post/bug-1673252-select-hosts-where-instances-are-launched-in-admin/</link>
-      <pubDate>Wed, 15 Mar 2017 19:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1673252-select-hosts-where-instances-are-launched-in-admin/</guid>
-      <description>&lt;p&gt;&amp;ldquo;HOST is an optional parameter. In such cases, use the &amp;ndash;availability-zone &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1673252&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1673252&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
