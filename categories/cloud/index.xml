@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Mar 2017 04:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2017 04:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pulsant gets ready to deploy Azure Stack</title>
+      <link>//crypt0.net/post/pulsant-gets-ready-to-deploy-azure-stack/</link>
+      <pubDate>Thu, 16 Mar 2017 04:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/pulsant-gets-ready-to-deploy-azure-stack/</guid>
+      <description>&lt;p&gt;Pulsant will roll out the most up to date technical preview (TP3) of Microsoft&amp;rsquo;s Azure Stack to its datacentres next month, enabling customers to get a &amp;hellip;  &lt;a href=&#34;http://www.cloudpro.co.uk/cloud-essentials/public-cloud/6686/pulsant-gets-ready-to-deploy-azure-stack&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cloudpro.co.uk/cloud-essentials/public-cloud/6686/pulsant-gets-ready-to-deploy-azure-stack&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Where to Find Rackspace Experts at OpenStack Summit Boston</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/microsoft-fires-up-storageoptimised-azure-instances/</guid>
       <description>&lt;p&gt;Microsoft&amp;rsquo;s decided Azure needs virtual machines optimised for storage, &amp;hellip; Microsoft says the new instance type is for workloads that require low &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/03/16/microsoft_fires_up_storageoptimised_azure_instances/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/03/16/microsoft_fires_up_storageoptimised_azure_instances/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft to Hold AI Immersion Workshop in Seattle</title>
-      <link>//crypt0.net/post/microsoft-to-hold-ai-immersion-workshop-in-seattle/</link>
-      <pubDate>Wed, 15 Mar 2017 20:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-to-hold-ai-immersion-workshop-in-seattle/</guid>
-      <description>&lt;p&gt;Microsoft&amp;rsquo;s Build is aimed towards software and web developers using Windows, Windows Phone, Microsoft Azure, and other technologies. First held &amp;hellip;  &lt;a href=&#34;https://winbuzzer.com/2017/03/15/microsoft-announces-ai-immersion-workshop-seattle-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/03/15/microsoft-announces-ai-immersion-workshop-seattle-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
