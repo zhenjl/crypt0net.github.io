@@ -7,8 +7,162 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Mar 2017 16:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2017 18:05:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Cloud Computing News from @cloudfeednet - Mar 16, 2017</title>
+      <link>//crypt0.net/daily/daily-cloud-news-2017-03-16/</link>
+      <pubDate>Thu, 16 Mar 2017 18:05:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-cloud-news-2017-03-16/</guid>
+      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Oracle continues to hammer at Amazon in the cloud&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; the company&amp;rsquo;s efforts in cloud computing, its infrastructure business that directly competes with Amazon Web Services will be Oracle&amp;rsquo;s biggest cloud &amp;hellip;  &lt;a href=&#34;http://www.marketwatch.com/story/oracle-continues-to-hammer-at-amazon-in-the-cloud-2017-03-15&#34; onclick=&#34;trackOutboundLink(&#39;http://www.marketwatch.com/story/oracle-continues-to-hammer-at-amazon-in-the-cloud-2017-03-15&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;17 data, analytics and machine learning session video now online - Google&lt;/h3&gt;
+&lt;p&gt;Watch the keynote by Fei-Fei Li, Chief Scientist, Google Cloud AI and ML and explore all session video about data analytics and machine learning.  &lt;a href=&#34;https://cloud.google.com/blog/big-data/2017/03/google-cloud-next-17-data-analytics-and-machine-learning-session-video-now-online&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/blog/big-data/2017/03/google-cloud-next-17-data-analytics-and-machine-learning-session-video-now-online&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Spark Connector for Azure DocumentDB Supports Data Science&lt;/h3&gt;
+&lt;p&gt;Microsoft&amp;rsquo;s introduces the new Apache Spark connector for Azure DocumentDB at the Strata + Hadoop World conference along with several new &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/microsoft-spark-connector-for-azure-documentdb-supports-data-science&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/microsoft-spark-connector-for-azure-documentdb-supports-data-science&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Bug #1673252 Select hosts where instances are launched in Admin&amp;hellip;&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;HOST is an optional parameter. In such cases, use the &amp;ndash;availability-zone &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1673252&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1673252&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Cloud adds new customer-supplied encryption key partners&lt;/h3&gt;
+&lt;p&gt;The company now offers multiple levels of encryption offerings for its Google Cloud Platform (GCP) customers. By default, GCP encrypts customer &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/google-cloud-adds-new-customer-supplied-encryption-key-partners/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/google-cloud-adds-new-customer-supplied-encryption-key-partners/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Coca-Cola Looks to Google to Boost Retail Sales&lt;/h3&gt;
+&lt;p&gt;Beverage giant Coca-Cola is using several Google technologies to power a digital signage system designed to be less expensive than existing &amp;hellip;  &lt;a href=&#34;http://fortune.com/2017/03/15/coke-google-cloud-sales/&#34; onclick=&#34;trackOutboundLink(&#39;http://fortune.com/2017/03/15/coke-google-cloud-sales/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google and SAP Partner to Provide SAP HANA Platforms on Google Cloud&lt;/h3&gt;
+&lt;p&gt;The SAP HANA express edition platform is now available from Google Cloud Launcher, allowing users the space to grow and gain real-time insights.  &lt;a href=&#34;http://www.dbta.com/Editorial/News-Flashes/Google-and-SAP-Partner-to-Provide-SAP-HANA-Platforms-on-Google-Cloud-116965.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dbta.com/Editorial/News-Flashes/Google-and-SAP-Partner-to-Provide-SAP-HANA-Platforms-on-Google-Cloud-116965.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Ionic Delivers Key Management Service Support for Google Cloud Storage&lt;/h3&gt;
+&lt;p&gt;CSEK allows you to provide a third party 256-bit string, such as an AES encryption key, for use in protecting your data at rest in Google Cloud Storage.  &lt;a href=&#34;http://www.prnewswire.com/news-releases/ionic-delivers-key-management-service-support-for-google-cloud-storage-300423907.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prnewswire.com/news-releases/ionic-delivers-key-management-service-support-for-google-cloud-storage-300423907.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Is Google&amp;rsquo;s Cloud Potential Underrated?&lt;/h3&gt;
+&lt;p&gt;Even if Google were to only hold its current market share, it would represent significant growth. The differentiator that may propel Google&amp;rsquo;s cloud &amp;hellip;  &lt;a href=&#34;http://seekingalpha.com/article/4055419-googles-cloud-potential-underrated&#34; onclick=&#34;trackOutboundLink(&#39;http://seekingalpha.com/article/4055419-googles-cloud-potential-underrated&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft fires up storage-optimised Azure instances&lt;/h3&gt;
+&lt;p&gt;Microsoft&amp;rsquo;s decided Azure needs virtual machines optimised for storage, &amp;hellip; Microsoft says the new instance type is for workloads that require low &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/03/16/microsoft_fires_up_storageoptimised_azure_instances/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/03/16/microsoft_fires_up_storageoptimised_azure_instances/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft to Hold AI Immersion Workshop in Seattle&lt;/h3&gt;
+&lt;p&gt;Microsoft&amp;rsquo;s Build is aimed towards software and web developers using Windows, Windows Phone, Microsoft Azure, and other technologies. First held &amp;hellip;  &lt;a href=&#34;https://winbuzzer.com/2017/03/15/microsoft-announces-ai-immersion-workshop-seattle-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/03/15/microsoft-announces-ai-immersion-workshop-seattle-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;How Oracle Aims to Compete with Amazon Web Services in the Cloud&lt;/h3&gt;
+&lt;p&gt;So far, we&amp;rsquo;ve learned that a temporary glitch in Amazon&amp;rsquo;s (AMZN) Amazon Web Services (or AWS) platform has shaken enterprises&amp;rsquo; reliances on the &amp;hellip;  &lt;a href=&#34;http://marketrealist.com/2017/03/how-oracle-aims-to-compete-with-amazon-web-services-in-the-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2017/03/how-oracle-aims-to-compete-with-amazon-web-services-in-the-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Storage Issues Hit Microsoft&amp;rsquo;s Azure Cloud Service&lt;/h3&gt;
+&lt;p&gt;Microsoft said that storage issues are affecting Azure services in the Eastern United States, after earlier issues affected its cloud-based services &amp;hellip;  &lt;a href=&#34;http://www.channelnews.com.au/storage-issues-hit-microsofts-azure-cloud-service/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.channelnews.com.au/storage-issues-hit-microsofts-azure-cloud-service/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Will Oracle&amp;rsquo;s Bare Metal Cloud Move ahead of Amazon Web Services?&lt;/h3&gt;
+&lt;p&gt;Earlier in the series, we discussed how a temporary setback suffered by Amazon&amp;rsquo;s (AMZN) Amazon Web Services (or AWS) could provide a growth &amp;hellip;  &lt;a href=&#34;http://marketrealist.com/2017/03/will-oracles-bare-metal-cloud-move-ahead-of-amazon-web-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2017/03/will-oracles-bare-metal-cloud-move-ahead-of-amazon-web-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Cloudability acquires Australian cloud automation firm&lt;/h3&gt;
+&lt;p&gt;Cloud cost management software supplier Cloudability has acquired CloudMGR, a cloud automation specialist, in a bid to capture a slice of Australia&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://www.computerweekly.com/news/450414970/Cloudability-acquires-Australian-cloud-automation-firm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computerweekly.com/news/450414970/Cloudability-acquires-Australian-cloud-automation-firm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Oracle reports strong Q3 earnings on back of growing cloud business, share&lt;/h3&gt;
+&lt;p&gt;The Tech Portal Our new Gen2 IaaS is both faster and lower cost than Amazon Web Services. And now our biggest customers can run their largest and most &amp;hellip;  &lt;a href=&#34;https://thetechportal.com/2017/03/16/oracle-strong-q3-earnings-stock-rockets/&#34; onclick=&#34;trackOutboundLink(&#39;https://thetechportal.com/2017/03/16/oracle-strong-q3-earnings-stock-rockets/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;A Secure and Free PBX in your Cloud in Minutes : Hop-On the PBX Express&lt;/h3&gt;
+&lt;p&gt;Users will be guided through an 8 step process which will create a brand new PBX installation hosted on Google Cloud, Amazon, OVH or in fact any &amp;hellip;  &lt;a href=&#34;http://www.cso.com.au/mediareleases/29278/a-secure-and-free-pbx-in-your-cloud-in-minutes/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cso.com.au/mediareleases/29278/a-secure-and-free-pbx-in-your-cloud-in-minutes/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Azure Storage service outage affected multiple Azure services last night&lt;/h3&gt;
+&lt;p&gt;Microsoft Azure Storage service experienced outage for several hours last night. Along with Azure Storage service, all the dependent services like &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/azure-storage-service-outage-affected-multiple-azure-services-last-night/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/azure-storage-service-outage-affected-multiple-azure-services-last-night/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Assessing the Google Cloud security strategy&lt;/h3&gt;
+&lt;p&gt;This week, bloggers assess the Google Cloud security strategy, Cisco&amp;rsquo;s lessons from OpenStack and Arista&amp;rsquo;s new containerized network operating &amp;hellip;  &lt;a href=&#34;http://searchnetworking.techtarget.com/news/450414915/Assessing-the-Google-Cloud-security-strategy&#34; onclick=&#34;trackOutboundLink(&#39;http://searchnetworking.techtarget.com/news/450414915/Assessing-the-Google-Cloud-security-strategy&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Amazon Lures Alexa Developers With AWS Freebies For More Alexa Skills: How&lt;/h3&gt;
+&lt;p&gt;Tech Times Amazon found a new way to attract more Alexa developers, offering Amazon Web Services cloud computing freebies to make it more worthwhile.  &lt;a href=&#34;http://www.techtimes.com/articles/201775/20170316/amazon-lures-alexa-developers-with-aws-freebies-for-more-alexa-skills-how-it-works.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techtimes.com/articles/201775/20170316/amazon-lures-alexa-developers-with-aws-freebies-for-more-alexa-skills-how-it-works.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Amazon makes building Alexa skills almost free&lt;/h3&gt;
+&lt;p&gt;Amazon has made it free for developers to build and host most Alexa skills, using its Amazon Web Services (AWS). This is a change for the company&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;https://www.telecompaper.com/news/amazon-makes-building-alexa-skills-almost-free--1188215&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/amazon-makes-building-alexa-skills-almost-free--1188215&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Hybrid Cloud Solutions from Veeam and Microsoft Azure&lt;/h3&gt;
+&lt;p&gt;Aaron De Los Reyes, Senior Director of Products at Cognizant, discusses how Cognizant and its clients will leverage Oracle Cloud Machine to create &amp;hellip;  &lt;a href=&#34;http://www.cio.in/cio-tv/hybrid-cloud-solutions-veeam-and-microsoft-azure&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.in/cio-tv/hybrid-cloud-solutions-veeam-and-microsoft-azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google makes AI talent play with Kaggle buy&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; said Fei-Fei Li, chief scientist of artificial intelligence and machine learning at Google Cloud, at the company&amp;rsquo;s Google Cloud Next event last week.  &lt;a href=&#34;http://www.cio.com/article/3180760/artificial-intelligence/google-makes-ai-talent-play-with-kaggle-buy.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3180760/artificial-intelligence/google-makes-ai-talent-play-with-kaggle-buy.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Where to Find Rackspace Experts at OpenStack Summit Boston&lt;/h3&gt;
+&lt;p&gt;first time since 2011. While a lot has changed in the last six years, one &amp;hellip;  &lt;a href=&#34;https://blog.rackspace.com/where-to-find-rackspace-experts-at-openstack-summit-boston&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.rackspace.com/where-to-find-rackspace-experts-at-openstack-summit-boston&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Pulsant gets ready to deploy Azure Stack&lt;/h3&gt;
+&lt;p&gt;Pulsant will roll out the most up to date technical preview (TP3) of Microsoft&amp;rsquo;s Azure Stack to its datacentres next month, enabling customers to get a &amp;hellip;  &lt;a href=&#34;http://www.cloudpro.co.uk/cloud-essentials/public-cloud/6686/pulsant-gets-ready-to-deploy-azure-stack&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cloudpro.co.uk/cloud-essentials/public-cloud/6686/pulsant-gets-ready-to-deploy-azure-stack&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Tool generates commands for a wrong Cinder version&amp;hellip;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://review.openstack.org/#/c/445296/1/doc/cli-reference/source/cinder.r&#34;&gt;https://review.openstack.org/#/c/445296/1/doc/cli-reference/source/cinder.r&lt;/a&gt; st (line &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1673425&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1673425&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Resellers can now set up their own PBX on Google, AWS or OpenStack&lt;/h3&gt;
+&lt;p&gt;In eight steps, businesses can create a brand new PBX installation on Google Cloud, Amazon, OVH or any Openstack based VPS provider.  &lt;a href=&#34;http://www.channelpro.co.uk/news/10373/resellers-can-now-set-up-their-own-pbx-on-google-aws-or-openstack&#34; onclick=&#34;trackOutboundLink(&#39;http://www.channelpro.co.uk/news/10373/resellers-can-now-set-up-their-own-pbx-on-google-aws-or-openstack&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Oracle Continues to Beat Amazon in the Cloud Space&lt;/h3&gt;
+&lt;p&gt;Ellison&amp;rsquo;s biggest concern is if clients change their current Oracle databases to Amazon Web Services  something that the ecommerce giant has been &amp;hellip;  &lt;a href=&#34;https://www.highlandmirror.com/2017-03-16-oracle-continues-to-beat-amazon-in-the-cloud-space&#34; onclick=&#34;trackOutboundLink(&#39;https://www.highlandmirror.com/2017-03-16-oracle-continues-to-beat-amazon-in-the-cloud-space&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;5 reasons you should host your website in Microsoft Azure&lt;/h3&gt;
+&lt;p&gt;five reasons why Microsoft Azure should be top of your list.  &lt;a href=&#34;https://www.clouddirect.net/resources/5-reasons-you-should-host-your-website-in-microsoft-azure/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.clouddirect.net/resources/5-reasons-you-should-host-your-website-in-microsoft-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Telehouse announces multi-cloud connectivity exchange in the UK&lt;/h3&gt;
+&lt;p&gt;When it launches, in April, Cloud Link will provide and manage connections to Microsoft&amp;rsquo;s Azure ExpressRoute, which in turn allows its cloud services &amp;hellip;  &lt;a href=&#34;http://www.datacenterdynamics.com/content-tracks/colo-cloud/telehouse-announces-multi-cloud-connectivity-exchange-in-the-uk/97992.article&#34; onclick=&#34;trackOutboundLink(&#39;http://www.datacenterdynamics.com/content-tracks/colo-cloud/telehouse-announces-multi-cloud-connectivity-exchange-in-the-uk/97992.article&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;What Your Business Can Learn from Amazon Web Service&amp;rsquo;s Recent Outage&lt;/h3&gt;
+&lt;p&gt;When Amazon Web Services experienced a five-hour service disruption on Feb. 28, many cloud customers and websites were knocked offline, &amp;hellip;  &lt;a href=&#34;http://windowsitpro.com/cloud/what-your-business-can-learn-amazon-web-services-recent-outage&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsitpro.com/cloud/what-your-business-can-learn-amazon-web-services-recent-outage&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Venture capitalist Chamath Palihapitiya says Amazon is close to a &amp;lsquo;natural&lt;/h3&gt;
+&lt;p&gt;CNBC Amazon Web Services, the company&amp;rsquo;s fast-growing and lucrative cloud business, has pushed to serverless computing, he said. &amp;ldquo;Essentially what they &amp;hellip;  &lt;a href=&#34;http://www.cnbc.com/2017/03/16/venture-capitalist-palihapitiya-amazon-nearly-a-natural-monopoly.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cnbc.com/2017/03/16/venture-capitalist-palihapitiya-amazon-nearly-a-natural-monopoly.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Agosto Inc. Receives 2016 Google Cloud Partner Award for GCP Customer&lt;/h3&gt;
+&lt;p&gt;Yahoo Finance MINNEAPOLIS, MN&amp;ndash;(Marketwired - March 16, 2017) - Agosto Inc., a cloud services and development company and tier 1 Google Cloud Premier &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/agosto-inc-receives-2016-google-160000905.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/agosto-inc-receives-2016-google-160000905.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;iPhone App Helps IT Engineers and System Administrators Stay on Top of&lt;/h3&gt;
+&lt;p&gt;GlobeNewswire (press release) It provides automated status updates of most of the major cloud services, including Amazon Web Services, Microsoft Azure, Google Cloud, Linode, &amp;hellip;  &lt;a href=&#34;https://globenewswire.com/news-release/2017/03/16/940202/0/en/iPhone-App-Helps-IT-Engineers-and-System-Administrators-Stay-on-Top-of-Their-IT-Infrastructure.html&#34; onclick=&#34;trackOutboundLink(&#39;https://globenewswire.com/news-release/2017/03/16/940202/0/en/iPhone-App-Helps-IT-Engineers-and-System-Administrators-Stay-on-Top-of-Their-IT-Infrastructure.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Oracle Eyes AWS Success, Shifts Its Focus to Infrastructure as a Service&lt;/h3&gt;
+&lt;p&gt;AWS, Azure, and Google Cloud Platform are all significantly ahead of Oracle when it comes to infrastructure. And that means Oracle will have to do &amp;hellip;  &lt;a href=&#34;http://www.sci-tech-today.com/news/Oracle-Touts-IaaS-over-AWS/story.xhtml?story_id=10000B61TT90&#34; onclick=&#34;trackOutboundLink(&#39;http://www.sci-tech-today.com/news/Oracle-Touts-IaaS-over-AWS/story.xhtml?story_id=10000B61TT90&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Gartner Positions Rackspace in the Leaders Quadrant of Its New Magic&lt;/h3&gt;
+&lt;p&gt;Yahoo Finance &amp;hellip; a strategic collaboration with Google, in which the two companies will work to bring Fanatical Support to Google Cloud Platform customers in 2017.  &lt;a href=&#34;http://finance.yahoo.com/news/gartner-positions-rackspace-leaders-quadrant-130000351.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/gartner-positions-rackspace-leaders-quadrant-130000351.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Public Cloud Pitfalls: Microsoft Azure Storage Cluster Loses Power, Puts&lt;/h3&gt;
+&lt;p&gt;CRN Solution providers said &amp;ldquo;storage availability&amp;rdquo; issues affecting Microsoft&amp;rsquo;s Azure public cloud for eight hours and 10 minutes is once again spotlighting &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/cloud/300084211/public-cloud-pitfalls-microsoft-azure-storage-cluster-loses-power-puts-spotlight-on-private-hybrid-cloud-advantages.htm?itc=hp_ots&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300084211/public-cloud-pitfalls-microsoft-azure-storage-cluster-loses-power-puts-spotlight-on-private-hybrid-cloud-advantages.htm?itc=hp_ots&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Gartner Positions Rackspace in the Leaders Quadrant of Its New Magic&lt;/h3&gt;
+&lt;p&gt;Yahoo Finance &amp;ldquo;We launched our initial managed services offerings for AWS and Microsoft Azure in the back half of 2015 and feel this recognition by Gartner is a &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/gartner-positions-rackspace-leaders-quadrant-130000351.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/gartner-positions-rackspace-leaders-quadrant-130000351.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Okta IPO Will Measure Growth of Identity-as a-Service Market&lt;/h3&gt;
+&lt;p&gt;In addition to Microsoft, VMware now offers its namesake VMware Identity &amp;hellip; argued Okta is winning a lot of enterprise IDaaS deals from Microsoft. &amp;hellip; 365 subscriptions, which automatically result in the uptick of Azure AD accounts.  &lt;a href=&#34;https://redmondmag.com/blogs/the-schwartz-report/2017/03/kta-ipo-will-measure-growth-iaas-maret.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/blogs/the-schwartz-report/2017/03/kta-ipo-will-measure-growth-iaas-maret.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;How is OpenvSwitch MTU determined in Red Hat OpenStack Platform&lt;/h3&gt;
+&lt;p&gt;8. Red Hat OpenStack Platform 9. Red Hat OpenStack Platform 10 &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2971561&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2971561&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Continued growth in cloud lifts Oracle Q3 profits&lt;/h3&gt;
+&lt;p&gt;Ellison said: Our new Gen2 IaaS is both faster and lower cost than Amazon Web Services. And now our biggest customers can run their largest and &amp;hellip;  &lt;a href=&#34;http://www.cbronline.com/news/cloud/continued-growth-in-cloud-lifts-oracle-q3-profits/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/cloud/continued-growth-in-cloud-lifts-oracle-q3-profits/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;When Moving to the Cloud Think of House Hunters&lt;/h3&gt;
+&lt;p&gt;available that allow companies to get started with the public cloud quickly.  &lt;a href=&#34;https://blogs.vmware.com/vcloud/2017/03/moving-cloud-think-house-hunters.html&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.vmware.com/vcloud/2017/03/moving-cloud-think-house-hunters.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Huawei Becomes Platinum Member Of Openstack Foundation&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;We are honoured to be selected as a platinum member and will continue to demonstrate our leadership and commitment to developing OpenStack &amp;hellip;  &lt;a href=&#34;http://www.siliconindia.com/news/general/Huawei-Becomes-Platinum-Member-Of-Openstack-Foundation-nid-201926-cid-1.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.siliconindia.com/news/general/Huawei-Becomes-Platinum-Member-Of-Openstack-Foundation-nid-201926-cid-1.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;VNFs Draw Attention to Testing Needs&lt;/h3&gt;
+&lt;p&gt;SDCloud Dev/Test from Criterion Networks, which runs an OpenStack-based virtual environment with a choice of SDN controllers and VNFs in the &amp;hellip;  &lt;a href=&#34;http://www.lightreading.com/testing/test-and-measurement/vnfs-draw-attention-to-testing-needs/a/d-id/731197&#34; onclick=&#34;trackOutboundLink(&#39;http://www.lightreading.com/testing/test-and-measurement/vnfs-draw-attention-to-testing-needs/a/d-id/731197&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Azure cloud gets OK to handle Veterans Affairs&amp;rsquo;s sensitive data&lt;/h3&gt;
+&lt;p&gt;Microsoft Azure Government cloud is approved to handle the Department of Veterans Affairs&amp;rsquo; most sensitive data, the company announced &amp;hellip;  &lt;a href=&#34;https://www.fedscoop.com/microsoft-azure-cloud-gets-ok-handle-veterans-affairss-sensitive-data/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.fedscoop.com/microsoft-azure-cloud-gets-ok-handle-veterans-affairss-sensitive-data/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Amazon Web Services to provide developers with free credit for storage and&lt;/h3&gt;
+&lt;p&gt; A new program from Amazon might encourage developers to keep building and working on Alexa skills. Amazon Web Services is offering US$100 &amp;hellip;  &lt;a href=&#34;http://www.canadianreviewer.com/cr/2017/3/15/amazon-web-services-to-provide-developers-with-free-credit-f.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.canadianreviewer.com/cr/2017/3/15/amazon-web-services-to-provide-developers-with-free-credit-f.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Power BI Gateway Diagnoses Network Health Issues&lt;/h3&gt;
+&lt;p&gt;Microsoft Power BI Gateway Diagnoses Network Health Issues &amp;hellip; Microsoft&amp;rsquo;s March update for Power BI Gateway, an on-premises gateway that &amp;hellip; for example: &amp;lsquo;Gateway can&amp;rsquo;t access the Azure Service Bus endpoint,&amp;rsquo; versus &amp;lsquo;the &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/microsoft-power-bi-gateway-diagnoses-network-health-issues&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/microsoft-power-bi-gateway-diagnoses-network-health-issues&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;How to find out if Microsoft Services are down or not&lt;/h3&gt;
+&lt;p&gt;It recently hit several key services of the company like Office 365, Outlook.com, OneDrive, Skype, XBox Live, Microsoft Azure, etc. The services either &amp;hellip;  &lt;a href=&#34;http://www.thewindowsclub.com/find-out-microsoft-services-down-not&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thewindowsclub.com/find-out-microsoft-services-down-not&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How to find out if Microsoft Services are down or not</title>
@@ -175,18 +329,6 @@
       
       <guid>//crypt0.net/post/oracle-eyes-aws-success-shifts-its-focus-to-infrastructure-as-a-service/</guid>
       <description>&lt;p&gt;AWS, Azure, and Google Cloud Platform are all significantly ahead of Oracle when it comes to infrastructure. And that means Oracle will have to do &amp;hellip;  &lt;a href=&#34;http://www.sci-tech-today.com/news/Oracle-Touts-IaaS-over-AWS/story.xhtml?story_id=10000B61TT90&#34; onclick=&#34;trackOutboundLink(&#39;http://www.sci-tech-today.com/news/Oracle-Touts-IaaS-over-AWS/story.xhtml?story_id=10000B61TT90&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Venture capitalist Chamath Palihapitiya says Amazon is close to a &#39;natural</title>
-      <link>//crypt0.net/post/venture-capitalist-chamath-palihapitiya-says-amazon-is-close-to-a-natural/</link>
-      <pubDate>Thu, 16 Mar 2017 11:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/venture-capitalist-chamath-palihapitiya-says-amazon-is-close-to-a-natural/</guid>
-      <description>&lt;p&gt;CNBC Amazon Web Services, the company&amp;rsquo;s fast-growing and lucrative cloud business, has pushed to serverless computing, he said. &amp;ldquo;Essentially what they &amp;hellip;  &lt;a href=&#34;http://www.cnbc.com/2017/03/16/venture-capitalist-palihapitiya-amazon-nearly-a-natural-monopoly.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cnbc.com/2017/03/16/venture-capitalist-palihapitiya-amazon-nearly-a-natural-monopoly.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
