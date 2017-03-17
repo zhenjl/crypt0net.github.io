@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Mar 2017 19:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2017 20:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>doAzureParallel: Take advantage of Azure&#39;s flexible compute directly from</title>
+      <link>//crypt0.net/post/doazureparallel-take-advantage-of-azures-flexible-compute-directly-from/</link>
+      <pubDate>Thu, 16 Mar 2017 20:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/doazureparallel-take-advantage-of-azures-flexible-compute-directly-from/</guid>
+      <description>&lt;p&gt;We are excited to announce doAzureParallel  a lightweight R package built on top of Azure Batch, that allows you to easily use Azure&amp;rsquo;s flexible &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/doazureparallel/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/doazureparallel/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure storage browns out for eight hours, nobody notices</title>
@@ -317,18 +329,6 @@
       
       <guid>//crypt0.net/post/okta-ipo-will-measure-growth-of-identityas-aservice-market/</guid>
       <description>&lt;p&gt;In addition to Microsoft, VMware now offers its namesake VMware Identity &amp;hellip; argued Okta is winning a lot of enterprise IDaaS deals from Microsoft. &amp;hellip; 365 subscriptions, which automatically result in the uptick of Azure AD accounts.  &lt;a href=&#34;https://redmondmag.com/blogs/the-schwartz-report/2017/03/kta-ipo-will-measure-growth-iaas-maret.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/blogs/the-schwartz-report/2017/03/kta-ipo-will-measure-growth-iaas-maret.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Public Cloud Pitfalls: Microsoft Azure Storage Cluster Loses Power, Puts</title>
-      <link>//crypt0.net/post/public-cloud-pitfalls-microsoft-azure-storage-cluster-loses-power-puts/</link>
-      <pubDate>Thu, 16 Mar 2017 11:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/public-cloud-pitfalls-microsoft-azure-storage-cluster-loses-power-puts/</guid>
-      <description>&lt;p&gt;CRN Solution providers said &amp;ldquo;storage availability&amp;rdquo; issues affecting Microsoft&amp;rsquo;s Azure public cloud for eight hours and 10 minutes is once again spotlighting &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/cloud/300084211/public-cloud-pitfalls-microsoft-azure-storage-cluster-loses-power-puts-spotlight-on-private-hybrid-cloud-advantages.htm?itc=hp_ots&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300084211/public-cloud-pitfalls-microsoft-azure-storage-cluster-loses-power-puts-spotlight-on-private-hybrid-cloud-advantages.htm?itc=hp_ots&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
