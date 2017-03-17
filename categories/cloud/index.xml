@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Mar 2017 18:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2017 19:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure storage browns out for eight hours, nobody notices</title>
+      <link>//crypt0.net/post/azure-storage-browns-out-for-eight-hours-nobody-notices/</link>
+      <pubDate>Thu, 16 Mar 2017 19:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-storage-browns-out-for-eight-hours-nobody-notices/</guid>
+      <description>&lt;p&gt;Users of Microsoft&amp;rsquo;s Azure storage service may have experienced difficulties provisioning new resources or accessing their existing resources  for &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/03/17/azure_storage_brownout/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/03/17/azure_storage_brownout/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Prenez le contrle de votre transition vers le cloud</title>
@@ -317,18 +329,6 @@
       
       <guid>//crypt0.net/post/public-cloud-pitfalls-microsoft-azure-storage-cluster-loses-power-puts/</guid>
       <description>&lt;p&gt;CRN Solution providers said &amp;ldquo;storage availability&amp;rdquo; issues affecting Microsoft&amp;rsquo;s Azure public cloud for eight hours and 10 minutes is once again spotlighting &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/cloud/300084211/public-cloud-pitfalls-microsoft-azure-storage-cluster-loses-power-puts-spotlight-on-private-hybrid-cloud-advantages.htm?itc=hp_ots&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300084211/public-cloud-pitfalls-microsoft-azure-storage-cluster-loses-power-puts-spotlight-on-private-hybrid-cloud-advantages.htm?itc=hp_ots&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Agosto Inc. Receives 2016 Google Cloud Partner Award for GCP Customer</title>
-      <link>//crypt0.net/post/agosto-inc-receives-2016-google-cloud-partner-award-for-gcp-customer/</link>
-      <pubDate>Thu, 16 Mar 2017 11:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/agosto-inc-receives-2016-google-cloud-partner-award-for-gcp-customer/</guid>
-      <description>&lt;p&gt;Yahoo Finance MINNEAPOLIS, MN&amp;ndash;(Marketwired - March 16, 2017) - Agosto Inc., a cloud services and development company and tier 1 Google Cloud Premier &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/agosto-inc-receives-2016-google-160000905.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/agosto-inc-receives-2016-google-160000905.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

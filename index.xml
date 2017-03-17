@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Mar 2017 18:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2017 19:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure storage browns out for eight hours, nobody notices</title>
+      <link>//crypt0.net/post/azure-storage-browns-out-for-eight-hours-nobody-notices/</link>
+      <pubDate>Thu, 16 Mar 2017 19:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-storage-browns-out-for-eight-hours-nobody-notices/</guid>
+      <description>&lt;p&gt;Users of Microsoft&amp;rsquo;s Azure storage service may have experienced difficulties provisioning new resources or accessing their existing resources  for &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/03/17/azure_storage_brownout/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/03/17/azure_storage_brownout/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>GE Digital&#39;s CTO talks acquisitions, competition and Boston tech</title>
@@ -497,18 +509,6 @@
       
       <guid>//crypt0.net/post/two-russian-spies-indicted-by-us-justice-department-for-orchestrating-yahoo/</guid>
       <description>&lt;p&gt;Silicon UK Cyber crime poses a significant threat to our nation&amp;rsquo;s security and prosperity, and this is one of the largest data breaches in history, said US Attorney &amp;hellip;  &lt;a href=&#34;http://www.silicon.co.uk/security/yahoo-hack-russia-207206&#34; onclick=&#34;trackOutboundLink(&#39;http://www.silicon.co.uk/security/yahoo-hack-russia-207206&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Verizon accused of &#39;aiding and abetting&#39; Yahoo executives by using data</title>
-      <link>//crypt0.net/post/verizon-accused-of-aiding-and-abetting-yahoo-executives-by-using-data/</link>
-      <pubDate>Thu, 16 Mar 2017 16:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/verizon-accused-of-aiding-and-abetting-yahoo-executives-by-using-data/</guid>
-      <description>&lt;p&gt;The Mercury News Yahoo CEO Marissa Mayer is the keynote speaker at the Salesforce.com annual trade show at the Moscone Center in San Francisco, Calif., &amp;hellip;  &lt;a href=&#34;http://www.mercurynews.com/2017/03/16/verizon-accused-of-aiding-and-abetting-yahoo-executives-by-using-data-breaches-to-save-350-million/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.mercurynews.com/2017/03/16/verizon-accused-of-aiding-and-abetting-yahoo-executives-by-using-data-breaches-to-save-350-million/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
