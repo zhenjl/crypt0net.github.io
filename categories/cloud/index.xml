@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Mar 2017 23:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2017 23:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alexa comes to Amazon&#39;s shopping app</title>
+      <link>//crypt0.net/post/alexa-comes-to-amazons-shopping-app/</link>
+      <pubDate>Thu, 16 Mar 2017 23:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/alexa-comes-to-amazons-shopping-app/</guid>
+      <description>&lt;p&gt;&amp;hellip; building Alexa skills  the assistant&amp;rsquo;s equivalent of apps, expanding its functionality to include third-part services  in Amazon Web Services (AWS).  &lt;a href=&#34;http://mobilemarketingmagazine.com/alexa-comes-to-amazons-shopping-app&#34; onclick=&#34;trackOutboundLink(&#39;http://mobilemarketingmagazine.com/alexa-comes-to-amazons-shopping-app&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Instant File Recovery from Azure Linux VM backup using Azure Backup</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/azure-storage-browns-out-for-eight-hours-nobody-notices/</guid>
       <description>&lt;p&gt;Users of Microsoft&amp;rsquo;s Azure storage service may have experienced difficulties provisioning new resources or accessing their existing resources  for &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/03/17/azure_storage_brownout/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/03/17/azure_storage_brownout/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Prenez le contrle de votre transition vers le cloud</title>
-      <link>//crypt0.net/post/prenez-le-contrle-de-votre-transition-vers-le-cloud/</link>
-      <pubDate>Thu, 16 Mar 2017 18:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/prenez-le-contrle-de-votre-transition-vers-le-cloud/</guid>
-      <description>&lt;p&gt;Check out what is happening in your area.  &lt;a href=&#34;https://azure.microsoft.com/en-in/community/events/hybridcloud-21march-france/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-in/community/events/hybridcloud-21march-france/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
