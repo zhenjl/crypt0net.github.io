@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Mar 2017 21:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2017 21:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Autoscaling with VMSS and Managed Disks, Part 1: Concepts</title>
+      <link>//crypt0.net/post/azure-autoscaling-with-vmss-and-managed-disks-part-1-concepts/</link>
+      <pubDate>Thu, 16 Mar 2017 21:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-autoscaling-with-vmss-and-managed-disks-part-1-concepts/</guid>
+      <description>&lt;p&gt;A diagnostic agent on each VM collects utilization data, which Microsoft Insights uses to build a picture of the load across the VMs. If utilization goes &amp;hellip;  &lt;a href=&#34;https://www.petri.com/azure-autoscaling-vmss-managed-disks-part-1-concepts&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/azure-autoscaling-vmss-managed-disks-part-1-concepts&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Digital quality control for the modern food lab</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/iridium-communications-inc-irdm-director-purchases-24679000-in-stock/</guid>
       <description>&lt;p&gt;Iridium Communications logo Iridium Communications Inc (NASDAQ:IRDM) Director A B. Krongard bought 29,000 shares of the firm&amp;rsquo;s stock in a &amp;hellip;  &lt;a href=&#34;https://sportsperspectives.com/2017/03/16/iridium-communications-inc-irdm-director-purchases-246790-00-in-stock.html&#34; onclick=&#34;trackOutboundLink(&#39;https://sportsperspectives.com/2017/03/16/iridium-communications-inc-irdm-director-purchases-246790-00-in-stock.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Testing Boards with a Virtual Shake-and-Bake Machine</title>
-      <link>//crypt0.net/post/testing-boards-with-a-virtual-shakeandbake-machine/</link>
-      <pubDate>Thu, 16 Mar 2017 18:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/testing-boards-with-a-virtual-shakeandbake-machine/</guid>
-      <description>&lt;p&gt;We wanted to bring the validation and verification directly next to where parts are introduced so that the find-and-fix process can start sooner, said &amp;hellip;  &lt;a href=&#34;http://electronicdesign.com/dev-tools/testing-boards-virtual-shake-and-bake-machine&#34; onclick=&#34;trackOutboundLink(&#39;http://electronicdesign.com/dev-tools/testing-boards-virtual-shake-and-bake-machine&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

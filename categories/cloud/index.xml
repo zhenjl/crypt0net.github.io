@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 16 Mar 2017 20:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2017 21:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Autoscaling with VMSS and Managed Disks, Part 1: Concepts</title>
+      <link>//crypt0.net/post/azure-autoscaling-with-vmss-and-managed-disks-part-1-concepts/</link>
+      <pubDate>Thu, 16 Mar 2017 21:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-autoscaling-with-vmss-and-managed-disks-part-1-concepts/</guid>
+      <description>&lt;p&gt;A diagnostic agent on each VM collects utilization data, which Microsoft Insights uses to build a picture of the load across the VMs. If utilization goes &amp;hellip;  &lt;a href=&#34;https://www.petri.com/azure-autoscaling-vmss-managed-disks-part-1-concepts&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/azure-autoscaling-vmss-managed-disks-part-1-concepts&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fauna Takes &#39;First Serverless Database&#39; to the Cloud</title>
@@ -315,18 +327,6 @@
       
       <guid>//crypt0.net/post/vnfs-draw-attention-to-testing-needs/</guid>
       <description>&lt;p&gt;SDCloud Dev/Test from Criterion Networks, which runs an OpenStack-based virtual environment with a choice of SDN controllers and VNFs in the &amp;hellip;  &lt;a href=&#34;http://www.lightreading.com/testing/test-and-measurement/vnfs-draw-attention-to-testing-needs/a/d-id/731197&#34; onclick=&#34;trackOutboundLink(&#39;http://www.lightreading.com/testing/test-and-measurement/vnfs-draw-attention-to-testing-needs/a/d-id/731197&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>When Moving to the Cloud Think of House Hunters</title>
-      <link>//crypt0.net/post/when-moving-to-the-cloud-think-of-house-hunters/</link>
-      <pubDate>Thu, 16 Mar 2017 13:50:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/when-moving-to-the-cloud-think-of-house-hunters/</guid>
-      <description>&lt;p&gt;available that allow companies to get started with the public cloud quickly.  &lt;a href=&#34;https://blogs.vmware.com/vcloud/2017/03/moving-cloud-think-house-hunters.html&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.vmware.com/vcloud/2017/03/moving-cloud-think-house-hunters.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
