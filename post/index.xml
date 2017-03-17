@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 17 Mar 2017 12:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2017 12:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
+      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
+      <pubDate>Fri, 17 Mar 2017 12:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
+      <description>&lt;p&gt;level features: BUCKET_NAME=gs://${USER}_yt8m_train_bucket # (One &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/30283/invalid-shapes-error-while-using-lstm-model?forumMessageId=168663&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/30283/invalid-shapes-error-while-using-lstm-model?forumMessageId=168663&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Woolpert Earns Google Cloud Fastest Growing Company Award, Maps Customer</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;CHICAGOWhen it comes to hospitality, you can never be too careful. Data breaches at hotels are widespread and hackers are not just hitting up the &amp;hellip;  &lt;a href=&#34;http://m.hotelbusiness.com/Other/A-Solution-to-Help-Curb-Data-Breaches/56556&#34; onclick=&#34;trackOutboundLink(&#39;http://m.hotelbusiness.com/Other/A-Solution-to-Help-Curb-Data-Breaches/56556&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Recapping Google Next &#39;17: The Great Cloud Shift From Renting Hardware To</title>
-      <link>//crypt0.net/post/recapping-google-next-17-the-great-cloud-shift-from-renting-hardware-to/</link>
-      <pubDate>Fri, 17 Mar 2017 10:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/recapping-google-next-17-the-great-cloud-shift-from-renting-hardware-to/</guid>
-      <description>&lt;p&gt;Forbes Several large customers referred to it as a sort of gateway to Google Cloud, where companies begin migrating key workloads to BigQuery and then &amp;hellip;  &lt;a href=&#34;https://www.forbes.com/sites/kalevleetaru/2017/03/17/recapping-google-next-17-the-great-cloud-shift-from-renting-hardware-to-services-and-experts/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forbes.com/sites/kalevleetaru/2017/03/17/recapping-google-next-17-the-great-cloud-shift-from-renting-hardware-to-services-and-experts/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
