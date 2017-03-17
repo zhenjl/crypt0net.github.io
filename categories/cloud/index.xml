@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 17 Mar 2017 11:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2017 12:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Woolpert Earns Google Cloud Fastest Growing Company Award, Maps Customer</title>
+      <link>//crypt0.net/post/woolpert-earns-google-cloud-fastest-growing-company-award-maps-customer/</link>
+      <pubDate>Fri, 17 Mar 2017 12:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/woolpert-earns-google-cloud-fastest-growing-company-award-maps-customer/</guid>
+      <description>&lt;p&gt;Benzinga Woolpert has been awarded the Google Cloud 2016 Fastest Growing Company Award for Maps Customer Success for North America. This award &amp;hellip;  &lt;a href=&#34;https://www.benzinga.com/pressreleases/17/03/p9186618/woolpert-earns-google-cloud-fastest-growing-company-award-maps-customer&#34; onclick=&#34;trackOutboundLink(&#39;https://www.benzinga.com/pressreleases/17/03/p9186618/woolpert-earns-google-cloud-fastest-growing-company-award-maps-customer&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Gartner Positions Rackspace in the Leaders Quadrant of Its New Magic</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/bug-1673683-placementnotconfigured-this-compute-is-not-config/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://docs.openstack.org/ocata/install-guide-rdo/nova-compute-install.htm&#34;&gt;https://docs.openstack.org/ocata/install-guide-rdo/nova-compute-install.htm&lt;/a&gt; l after &amp;lsquo;systemctl start &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1673683&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1673683&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>golang-google-cloud 0.5.0-1~build1 source package in Ubuntu</title>
-      <link>//crypt0.net/post/golanggooglecloud-0501build1-source-package-in-ubuntu/</link>
-      <pubDate>Fri, 17 Mar 2017 00:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/golanggooglecloud-0501build1-source-package-in-ubuntu/</guid>
-      <description>&lt;p&gt;No-change out-of-archive bootstrap build (golang-golang-x-oauth2 loop).  &lt;a href=&#34;https://launchpad.net/ubuntu/+source/golang-google-cloud/0.5.0-1~build1&#34; onclick=&#34;trackOutboundLink(&#39;https://launchpad.net/ubuntu/+source/golang-google-cloud/0.5.0-1~build1&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
