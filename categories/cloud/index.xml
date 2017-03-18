@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 18 Mar 2017 00:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Mar 2017 00:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ThinkAgile for Microsoft Azure Stack Overview Video</title>
+      <link>//crypt0.net/post/thinkagile-for-microsoft-azure-stack-overview-video/</link>
+      <pubDate>Sat, 18 Mar 2017 00:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/thinkagile-for-microsoft-azure-stack-overview-video/</guid>
+      <description>&lt;p&gt;scale hybrid cloud solution optimized with resilient, high performing, and &amp;hellip;  &lt;a href=&#34;http://solutions.lenovo.com/resource-center/commercial-marketing/thinkagile-for-microsoft-azure-stack-overview-video/&#34; onclick=&#34;trackOutboundLink(&#39;http://solutions.lenovo.com/resource-center/commercial-marketing/thinkagile-for-microsoft-azure-stack-overview-video/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>openstack controller task uses deprecated nova scheduler options</title>
@@ -303,18 +315,6 @@
       
       <guid>//crypt0.net/post/microsoft-turning-azure-cloud-service-skeptics-into-believers/</guid>
       <description>&lt;p&gt;Brent Bracelin of Pacific Crest reaffirmed his Overweight rating on Microsoft Corporation (NASDAQ: MSFT) as he believes Microsoft&amp;rsquo;s Azure is gaining &amp;hellip;  &lt;a href=&#34;https://www.benzinga.com/analyst-ratings/analyst-color/17/03/9186031/microsoft-turning-azure-cloud-service-skeptics-into-beli&#34; onclick=&#34;trackOutboundLink(&#39;https://www.benzinga.com/analyst-ratings/analyst-color/17/03/9186031/microsoft-turning-azure-cloud-service-skeptics-into-beli&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Understanding Azure Storage: Storage Types and Redundancy</title>
-      <link>//crypt0.net/post/understanding-azure-storage-storage-types-and-redundancy/</link>
-      <pubDate>Fri, 17 Mar 2017 13:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/understanding-azure-storage-storage-types-and-redundancy/</guid>
-      <description>&lt;p&gt;In part one of Understanding Azure Storage, I explained the differences &amp;hellip; data is stored in collections of individual documents, or as Microsoft refers to &amp;hellip;  &lt;a href=&#34;https://www.petri.com/understanding-azure-storage-storage-types-redundancy&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/understanding-azure-storage-storage-types-redundancy&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
