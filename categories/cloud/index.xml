@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 18 Mar 2017 00:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Mar 2017 00:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>openstack controller task uses deprecated nova scheduler options</title>
+      <link>//crypt0.net/post/openstack-controller-task-uses-deprecated-nova-scheduler-options/</link>
+      <pubDate>Sat, 18 Mar 2017 00:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-controller-task-uses-deprecated-nova-scheduler-options/</guid>
+      <description>&lt;p&gt;to the main nova class and fuel still is referencing the deprecated options.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1673893&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1673893&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon makes it cheaper to host Alexa skills on AWS</title>
@@ -303,18 +315,6 @@
       
       <guid>//crypt0.net/post/understanding-azure-storage-storage-types-and-redundancy/</guid>
       <description>&lt;p&gt;In part one of Understanding Azure Storage, I explained the differences &amp;hellip; data is stored in collections of individual documents, or as Microsoft refers to &amp;hellip;  &lt;a href=&#34;https://www.petri.com/understanding-azure-storage-storage-types-redundancy&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/understanding-azure-storage-storage-types-redundancy&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
-      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
-      <pubDate>Fri, 17 Mar 2017 12:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
-      <description>&lt;p&gt;level features: BUCKET_NAME=gs://${USER}_yt8m_train_bucket # (One &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/30283/invalid-shapes-error-while-using-lstm-model?forumMessageId=168663&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/30283/invalid-shapes-error-while-using-lstm-model?forumMessageId=168663&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

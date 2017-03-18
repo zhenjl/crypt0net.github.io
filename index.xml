@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 18 Mar 2017 00:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Mar 2017 00:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>openstack controller task uses deprecated nova scheduler options</title>
+      <link>//crypt0.net/post/openstack-controller-task-uses-deprecated-nova-scheduler-options/</link>
+      <pubDate>Sat, 18 Mar 2017 00:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-controller-task-uses-deprecated-nova-scheduler-options/</guid>
+      <description>&lt;p&gt;to the main nova class and fuel still is referencing the deprecated options.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1673893&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1673893&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon makes it cheaper to host Alexa skills on AWS</title>
@@ -305,154 +317,6 @@
 
 &lt;p&gt;&lt;h3&gt;3 Companies Set to Make a Killing From Driverless Cars&lt;/h3&gt;
 &lt;p&gt;The inevitable data increase from driverless and connected cars could power Microsoft&amp;rsquo;s Azure cloud business to new highs in the long run, allowing it &amp;hellip;  &lt;a href=&#34;http://host.madison.com/business/investment/markets-and-stocks/companies-set-to-make-a-killing-from-driverless-cars/article_2c4c2599-6847-5350-9b10-5521174ca437.html&#34; onclick=&#34;trackOutboundLink(&#39;http://host.madison.com/business/investment/markets-and-stocks/companies-set-to-make-a-killing-from-driverless-cars/article_2c4c2599-6847-5350-9b10-5521174ca437.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily IoT/Blockchain News from @surgethings - Mar 17, 2017</title>
-      <link>//crypt0.net/daily/daily-iot-news-2017-03-17/</link>
-      <pubDate>Fri, 17 Mar 2017 18:05:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/daily/daily-iot-news-2017-03-17/</guid>
-      <description>&lt;p&gt;Daily IoT/Blockchain news from &lt;a href=&#34;http://twitter.com/surgethings&#34;&gt;@surgethings&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;GE Digital&amp;rsquo;s CTO talks acquisitions, competition and Boston tech&lt;/h3&gt;
-&lt;p&gt;The Boston Business Journal caught up with him after his presentation to talk more about the promise of the so-called industrial internet of things and &amp;hellip;  &lt;a href=&#34;http://www.bizjournals.com/boston/news/2017/03/16/ge-digitals-cto-talks-acquisitions-competition-and.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bizjournals.com/boston/news/2017/03/16/ge-digitals-cto-talks-acquisitions-competition-and.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain Use Cases: What Does It Mean for Your Business?&lt;/h3&gt;
-&lt;p&gt;understanding how blockchain is applicable to them. Wednesday afternoon at MRC &amp;hellip;  &lt;a href=&#34;http://www.afponline.org/trends-topics/topics/articles/Details/blockchain-use-cases-what-does-it-mean-for-your-business&#34; onclick=&#34;trackOutboundLink(&#39;http://www.afponline.org/trends-topics/topics/articles/Details/blockchain-use-cases-what-does-it-mean-for-your-business&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Digital quality control for the modern food lab&lt;/h3&gt;
-&lt;p&gt;METER Group, Inc.announced the release of Skala, an integrated quality-control download system purpose-built for food quality labs.  &lt;a href=&#34;https://www.smartindustry.com/industrynews/2017-2/digital-quality-control-for-the-modern-food-lab/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.smartindustry.com/industrynews/2017-2/digital-quality-control-for-the-modern-food-lab/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;13th Annual International Conference on Information Technology &amp;amp; Computer&lt;/h3&gt;
-&lt;p&gt;The Athens Institute for Education and Research (ATINER), a world association of academics and researchers based in Athens, organizes its 13th &amp;hellip;  &lt;a href=&#34;http://www.theinternetofthings.eu/13th-annual-international-conference-information-technology-computer-science-15-16-may-2017-athens&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theinternetofthings.eu/13th-annual-international-conference-information-technology-computer-science-15-16-may-2017-athens&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;iRobot Just Dove Deeper Into the Internet of Things&lt;/h3&gt;
-&lt;p&gt;When iRobot Corporation (NASDAQ:IRBT) launched its first Roomba 900-series robotic vacuum in late 2015, I mused that the advanced new bot was &amp;hellip;  &lt;a href=&#34;https://www.fool.com/investing/2017/03/17/irobot-just-dove-deeper-into-the-internet-of-thing.aspx?source=iedfolrf0000001&#34; onclick=&#34;trackOutboundLink(&#39;https://www.fool.com/investing/2017/03/17/irobot-just-dove-deeper-into-the-internet-of-thing.aspx?source=iedfolrf0000001&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The Future of Industrial Internet of Things is Software-Defined&lt;/h3&gt;
-&lt;p&gt;The hype surrounding the Internet of Things (IoT) may be obscuring a more radical change in the way computers and communication technologies &amp;hellip;  &lt;a href=&#34;http://field-service.cioreview.com/cxoinsight/the-future-of-industrial-internet-of-things-is-softwaredefined-nid-23984-cid-93.html&#34; onclick=&#34;trackOutboundLink(&#39;http://field-service.cioreview.com/cxoinsight/the-future-of-industrial-internet-of-things-is-softwaredefined-nid-23984-cid-93.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The FCC Just Made Your Online World Less Private&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; such as our garage openers, refrigerators, thermostats and mattresses, will become connected to the web via The Internet of Things, while billions of &amp;hellip;  &lt;a href=&#34;https://www.forbes.com/sites/ciocentral/2017/03/17/the-fcc-just-made-your-online-world-less-private/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forbes.com/sites/ciocentral/2017/03/17/the-fcc-just-made-your-online-world-less-private/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Four Ways Blockchain Can Transform MSMEs in Emerging Markets&lt;/h3&gt;
-&lt;p&gt;This new peer-to-peer platform for identity, trust and financial transactions will &amp;hellip;  &lt;a href=&#34;http://nextbillion.net/the-distributed-economy-four-ways-blockchain-can-transform-msmes-in-emerging-markets/&#34; onclick=&#34;trackOutboundLink(&#39;http://nextbillion.net/the-distributed-economy-four-ways-blockchain-can-transform-msmes-in-emerging-markets/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain Will Help Us Prove Our Identities in a Digital World&lt;/h3&gt;
-&lt;p&gt;Who are you? may well be the world&amp;rsquo;s most frequently asked question. On a website, in a nightclub, at an airport, or in front of a bank counter, &amp;hellip;  &lt;a href=&#34;https://hbr.org/2017/03/blockchain-will-help-us-prove-our-identities-in-a-digital-world&#34; onclick=&#34;trackOutboundLink(&#39;https://hbr.org/2017/03/blockchain-will-help-us-prove-our-identities-in-a-digital-world&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Four Ways Blockchain Can Disrupt Civic Traditions&lt;/h3&gt;
-&lt;p&gt;Because of its unique ability to secure trust between parties that don&amp;rsquo;t know, or even trust, one another, blockchain tech could be used to tackle some &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/four-ways-blockchain-can-disrupt-civic-traditions/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/four-ways-blockchain-can-disrupt-civic-traditions/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Illinois watchdog first US regulator to join blockchain consortium R3&lt;/h3&gt;
-&lt;p&gt;WASHINGTON (Reuters) - The Illinois Department of Financial and Professional Regulation has joined the blockchain consortium led by startup R3, &amp;hellip;  &lt;a href=&#34;http://whtc.com/news/articles/2017/mar/16/illinois-watchdog-first-us-regulator-to-join-blockchain-consortium-r3/&#34; onclick=&#34;trackOutboundLink(&#39;http://whtc.com/news/articles/2017/mar/16/illinois-watchdog-first-us-regulator-to-join-blockchain-consortium-r3/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Chinese Bank Union to Tackle Receipt Forgery With Blockchain&lt;/h3&gt;
-&lt;p&gt;Eight Chinese banks have teamed up with blockchain research startup Shenzhen Blockchain Financial Services to bring efficiencies and fight forgery &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/chinese-bank-union-to-tackle-receipt-forgery-with-blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/chinese-bank-union-to-tackle-receipt-forgery-with-blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Illinois Government Unveils Expansive Blockchain Support Plan&lt;/h3&gt;
-&lt;p&gt;While much of the US is working to piece together a patchwork of blockchain regulations, Illinois unveiled a sweeping plan yesterday that would see &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/illinois-government-unveils-expansive-blockchain-industry-support-plan/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/illinois-government-unveils-expansive-blockchain-industry-support-plan/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Your microwave probably isn&amp;rsquo;t spying on you. But your fridge and TV might&lt;/h3&gt;
-&lt;p&gt;The Week Magazine Internet of things surveillance  basically, your smart devices being able to spy on you  is a real and serious concern. Set aside, for a moment, the &amp;hellip;  &lt;a href=&#34;http://theweek.com/articles/685935/microwave-probably-isnt-spying-but-fridge-tv-might&#34; onclick=&#34;trackOutboundLink(&#39;http://theweek.com/articles/685935/microwave-probably-isnt-spying-but-fridge-tv-might&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain: a transitional and a transformational technology for shipping&lt;/h3&gt;
-&lt;p&gt;Chief correspondent Jason Jiang follows up on the recent news that Maersk and IBM are collaborating to bring blockchain technology into everyday &amp;hellip;  &lt;a href=&#34;http://splash247.com/blockchain-transitional-transformational-technology-shipping/&#34; onclick=&#34;trackOutboundLink(&#39;http://splash247.com/blockchain-transitional-transformational-technology-shipping/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;MWC 17: Internet of Things Trends for 2017&lt;/h3&gt;
-&lt;p&gt;Loon, Director at Adversitement, discuss IoT trends for 2017 at Mobile World &amp;hellip;  &lt;a href=&#34;https://www.sap.com/assetdetail/2017/03/b446b44d-ae7c-0010-82c7-eda71af511fa.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sap.com/assetdetail/2017/03/b446b44d-ae7c-0010-82c7-eda71af511fa.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Bosch and Nvidia to develop AI-powered autonomous vehicle system&lt;/h3&gt;
-&lt;p&gt;Speaking at Bosch Connected World in Berlin  the company&amp;rsquo;s annual Internet of Things (IoT) event  Bosch CEO Dr Volkmar Denner and Nvidia CEO &amp;hellip;  &lt;a href=&#34;https://internetofbusiness.com/bosch-nvidia-ai-autonomous-vehicle/&#34; onclick=&#34;trackOutboundLink(&#39;https://internetofbusiness.com/bosch-nvidia-ai-autonomous-vehicle/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Singapore fintech startup Invictus turns to IBM for blcockhain support&lt;/h3&gt;
-&lt;p&gt;IBM (NYSE: IBM) today announced Singapore fintech start-up, INVICTUS, is collaborating with them to leverage IBM Cloud and Blockchain &amp;hellip;  &lt;a href=&#34;https://www.finextra.com/pressarticle/68480/singapore-fintech-startup-invictus-turns-to-ibm-for-blcockhain-support&#34; onclick=&#34;trackOutboundLink(&#39;https://www.finextra.com/pressarticle/68480/singapore-fintech-startup-invictus-turns-to-ibm-for-blcockhain-support&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Trending domain name keywords: year, near, drone, blockchain&lt;/h3&gt;
-&lt;p&gt;The top 10 trending keywords registered in .COM and .NET domain names during the month of February 2017 were published by Verisign, the .com &amp;hellip;  &lt;a href=&#34;https://onlinedomain.com/2017/03/16/domain-name-news/trending-domain-name-keywords-year-near-drone-blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;https://onlinedomain.com/2017/03/16/domain-name-news/trending-domain-name-keywords-year-near-drone-blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;First Analysis Sec Just Issued  Equal-Weight Rating on Numerex Corp.&lt;/h3&gt;
-&lt;p&gt;Highland Mirror Numerex Corp. is a provider of on-demand and interactive machine-to-machine enterprise solutions referred to as M2M. The Company&amp;rsquo;s integrated &amp;hellip;  &lt;a href=&#34;https://www.highlandmirror.com/2017-03-17-first-analysis-sec-just-issued-equal-weight-rating-on-numerex-corp-nmrx&#34; onclick=&#34;trackOutboundLink(&#39;https://www.highlandmirror.com/2017-03-17-first-analysis-sec-just-issued-equal-weight-rating-on-numerex-corp-nmrx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Visa Inc (NYSE:v) and International Business Machines Corp. (NYSE:IBM)&lt;/h3&gt;
-&lt;p&gt;Library For Smart Investors A collaboration between Visa Inc (NYSE:V) and International Business Machines Corp. (NYSE:IBM) is seeking to enable the making of payments from &amp;hellip;  &lt;a href=&#34;https://www.libraryforsmartinvestors.com/2017/03/visa-inc-nysev-international-business-machines-corp-nyseibm-collaborate-internet-things-devices/41370539.htm&#34; onclick=&#34;trackOutboundLink(&#39;https://www.libraryforsmartinvestors.com/2017/03/visa-inc-nysev-international-business-machines-corp-nyseibm-collaborate-internet-things-devices/41370539.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The Trump Administration is Buying Into Blockchain Tech&lt;/h3&gt;
-&lt;p&gt;High-level US regulators and officials spoke out in favor of expanding the adoption of blockchain technology across government and the private sector &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/the-trump-administration-is-buying-into-blockchain-tech/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/the-trump-administration-is-buying-into-blockchain-tech/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Chamber of Digital Commerce Forms the Blockchain Intellectual Property&lt;/h3&gt;
-&lt;p&gt;Blockchain News The Chamber of Digital Commerce has formed the Blockchain Intellectual Property Council (BIPC), an initiative to promote innovation in Blockchain &amp;hellip;  &lt;a href=&#34;http://www.the-blockchain.com/2017/03/16/chamber-digital-commerce-forms-blockchain-intellectual-property-council/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.the-blockchain.com/2017/03/16/chamber-digital-commerce-forms-blockchain-intellectual-property-council/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain Capital to raise funds through digital token offering&lt;/h3&gt;
-&lt;p&gt;Blockchain Capital, the premier venture capital firm investing in blockchain technology companies, today announces its intention to raise its third fund &amp;hellip;  &lt;a href=&#34;https://www.finextra.com/pressarticle/68488/blockchain-capital-to-raise-funds-through-digital-token-offering&#34; onclick=&#34;trackOutboundLink(&#39;https://www.finextra.com/pressarticle/68488/blockchain-capital-to-raise-funds-through-digital-token-offering&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;First US Watchdog In Blockchain Consortium&lt;/h3&gt;
-&lt;p&gt;An Illinois regulator has decided to join the consortium led by R3, as global regulators get more serious with the emerging tech. Editor&amp;rsquo;s Remarks: &amp;hellip;  &lt;a href=&#34;http://themarketmogul.com/first-us-watchdog-blockchain-consortium/&#34; onclick=&#34;trackOutboundLink(&#39;http://themarketmogul.com/first-us-watchdog-blockchain-consortium/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Nearly $2 billion has been wiped off bitcoin&amp;rsquo;s value in three days all&lt;/h3&gt;
-&lt;p&gt;CNBC Much of the inverse price movement stems from traders&amp;rsquo; worries over the future of bitcoin and the underpinning blockchain technology.  &lt;a href=&#34;http://www.cnbc.com/2017/03/17/bitcoin-price-blockchain-fork-ethereum.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cnbc.com/2017/03/17/bitcoin-price-blockchain-fork-ethereum.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;DAO.Casino&amp;rsquo;s Ethereum Blockchain Based Platform Ensures Safe, Secure and&lt;/h3&gt;
-&lt;p&gt;newsBTC DAO.Casino announces blockchain based decentralized ethereum gambling ecosystem. DAO.Casino is an open ecosystem for gambling games that &amp;hellip;  &lt;a href=&#34;http://www.newsbtc.com/2017/03/17/dao-casinos-ethereum-blockchain-based-platform-ensures-safe-secure-profitable-gaming-experience/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newsbtc.com/2017/03/17/dao-casinos-ethereum-blockchain-based-platform-ensures-safe-secure-profitable-gaming-experience/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;&amp;lsquo;Blockchain becomes effective when more players are involved&amp;rsquo;&lt;/h3&gt;
-&lt;p&gt;A panel discussed the state of readiness for Indian banks to use Blockchain. Some interesting use cases were also put forth by the panelists.  &lt;a href=&#34;http://bwcio.businessworld.in/article/-Blockchain-becomes-effective-when-more-players-are-involved-/17-03-2017-114590/&#34; onclick=&#34;trackOutboundLink(&#39;http://bwcio.businessworld.in/article/-Blockchain-becomes-effective-when-more-players-are-involved-/17-03-2017-114590/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Programmatic device and gateway registration through HTTP or MQTT - The&lt;/h3&gt;
-&lt;p&gt;Hello, Is there any way to create devices, getaways and get the generated keys using an API call over http or mqtt. I saw this question in the form in &amp;hellip;  &lt;a href=&#34;https://www.thethingsnetwork.org/forum/t/programmatic-device-and-gateway-registration-through-http-or-mqtt/6115&#34; onclick=&#34;trackOutboundLink(&#39;https://www.thethingsnetwork.org/forum/t/programmatic-device-and-gateway-registration-through-http-or-mqtt/6115&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Better Buy: Iridium Communications vs. Globalstar&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; satellites will provide speeds of up to 1.4 Mbps and will be able to support mission-critical communications and machine-to-machine connections.  &lt;a href=&#34;https://www.fool.com/investing/2017/03/17/better-buy-iridium-communications-vs-globalstar.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://www.fool.com/investing/2017/03/17/better-buy-iridium-communications-vs-globalstar.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain IP Council to Address Proprietary Technology vs. Openness&lt;/h3&gt;
-&lt;p&gt;The Washington DC-based Chamber of Digital Commerce has formed the Blockchain Intellectual Property Council (BIPC). The initiative&amp;rsquo;s stated plan &amp;hellip;  &lt;a href=&#34;http://www.financemagnates.com/cryptocurrency/news/blockchain-ip-council-address-proprietary-technology-vs-openness/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.financemagnates.com/cryptocurrency/news/blockchain-ip-council-address-proprietary-technology-vs-openness/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Illinois watchdog first US regulator to join blockchain consortium R3&lt;/h3&gt;
-&lt;p&gt;Illinois watchdog first U.S. regulator to join blockchain consortium R3 &amp;hellip; The Illinois regulator&amp;rsquo;s secretary Bryan Schneider said blockchain&amp;rsquo;s &amp;ldquo;potential &amp;hellip;  &lt;a href=&#34;http://www.reuters.com/article/blockchain-illinois-idUSL2N1GT1WE&#34; onclick=&#34;trackOutboundLink(&#39;http://www.reuters.com/article/blockchain-illinois-idUSL2N1GT1WE&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain: banks must sober up and get practical&lt;/h3&gt;
-&lt;p&gt;Forget the speed-dating, says Sander van Loosbroek, director of distributed ledger technology at Cegeka. For banks to make blockchain work in trade &amp;hellip;  &lt;a href=&#34;http://www.txfnews.com/Ticker/Redirect/c412080e-0b0f-4223-9161-0c29f6166e99&#34; onclick=&#34;trackOutboundLink(&#39;http://www.txfnews.com/Ticker/Redirect/c412080e-0b0f-4223-9161-0c29f6166e99&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;UBI Blockchain Internet, LTD (OTCBB:UBIA) Files An 8-K Change in Shell&lt;/h3&gt;
-&lt;p&gt;Market Exclusive UBI Blockchain Internet, LTD (&amp;ldquo;the Company&amp;rdquo;) ceased to be shell company on March 17, 2017, as a result of new management, a recent change in &amp;hellip;  &lt;a href=&#34;https://marketexclusive.com/ubi-blockchain-internet-ltd-otcbbubia-files-an-8-k-change-in-shell-company-status/83745/&#34; onclick=&#34;trackOutboundLink(&#39;https://marketexclusive.com/ubi-blockchain-internet-ltd-otcbbubia-files-an-8-k-change-in-shell-company-status/83745/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;2017: the year when identity and access management is placed at the heart&lt;/h3&gt;
-&lt;p&gt;Computer Business Review IT and business leaders must collaborate in 2017 and beyond, to ensure that identity and access management is the cornerstone of a successful &amp;hellip;  &lt;a href=&#34;http://www.cbronline.com/news/enterprise-it/software/2017-year-identity-access-management-placed-heart-digital-transformation/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/enterprise-it/software/2017-year-identity-access-management-placed-heart-digital-transformation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;A Bell Labs-inspired initiative for open-source blockchain projects&lt;/h3&gt;
-&lt;p&gt;Bloq, a startup dedicated to developing enterprise-grade blockchain software, has launched an initiative to support open-source projects in the bitcoin &amp;hellip;  &lt;a href=&#34;https://www.americanbanker.com/news/a-bell-labs-inspired-initiative-for-open-source-blockchain-projects&#34; onclick=&#34;trackOutboundLink(&#39;https://www.americanbanker.com/news/a-bell-labs-inspired-initiative-for-open-source-blockchain-projects&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;How AI and blockchain will change business organization&lt;/h3&gt;
-&lt;p&gt;There are good reasons why work is organized around closed, self-contained organizations called companies and corporations.  &lt;a href=&#34;http://www.huffingtonpost.com/entry/how-ai-and-blockchain-will-change-business-organization_us_58cc33f5e4b07112b6472d4a&#34; onclick=&#34;trackOutboundLink(&#39;http://www.huffingtonpost.com/entry/how-ai-and-blockchain-will-change-business-organization_us_58cc33f5e4b07112b6472d4a&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Qtum&amp;rsquo;s Blockchain Crowdfund Scores Over $12M From Bitcoin &amp;amp; Ethereum&lt;/h3&gt;
-&lt;p&gt;Forbes While Qtum, an open-source software based on cryptographic protocol that will exist on the peer-to-peer network hosting the public transaction ledger &amp;hellip;  &lt;a href=&#34;https://www.forbes.com/sites/rogeraitken/2017/03/17/qtums-blockchain-crowdfund-scores-over-12m-from-bitcoin-ethereum-investors/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forbes.com/sites/rogeraitken/2017/03/17/qtums-blockchain-crowdfund-scores-over-12m-from-bitcoin-ethereum-investors/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;How the Internet of Things Can Help Your Business Save Money&lt;/h3&gt;
-&lt;p&gt;The Internet of Things (IoT) is another technology that is already changing and shaping the way the world works, plays and lives. The IoT movement &amp;hellip;  &lt;a href=&#34;https://www.business.com/articles/internet-of-things/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.business.com/articles/internet-of-things/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Innovate ABQ, Duke City joining the internet of things&lt;/h3&gt;
-&lt;p&gt;Ingenu Inc., a San Diego-based company that develops large-scale wireless machine connectivity, announced Thursday it is expanding its Machine &amp;hellip;  &lt;a href=&#34;http://www.bizjournals.com/albuquerque/news/2017/03/17/innovateabq-duke-city-joining-the-internet-of.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bizjournals.com/albuquerque/news/2017/03/17/innovateabq-duke-city-joining-the-internet-of.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Global IoT round-up: Jackets, cars and regulation getting smarter&lt;/h3&gt;
-&lt;p&gt;The We-Vibe 4 Plus was billed as the world&amp;rsquo;s first internet of things (IoT) vibrator, with a Bluetooth connection that can be controlled from afar.  &lt;a href=&#34;https://www.siliconrepublic.com/machines/internet-of-things-autonomous-cars&#34; onclick=&#34;trackOutboundLink(&#39;https://www.siliconrepublic.com/machines/internet-of-things-autonomous-cars&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Ex-FCC Boss: Gut Net Neutrality and You Gut Internet Freedom&lt;/h3&gt;
-&lt;p&gt;Wheeler worries those imbalances could affect other services and devices, including the Internet of Things. (After stepping down as FCC chair, &amp;hellip;  &lt;a href=&#34;https://www.wired.com/2017/03/ex-fcc-boss-gut-net-neutrality-gut-internet-freedom/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.wired.com/2017/03/ex-fcc-boss-gut-net-neutrality-gut-internet-freedom/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Roundtable: Vendor Execs Sound Off On What It Will Take For Partners To Get&lt;/h3&gt;
-&lt;p&gt;CRN  From manufacturing to the medical market, solution providers have an array of verticals where they can deploy Internet of Things (IoT) solutions.  &lt;a href=&#34;http://www.crn.com/internet-of-things/roundtable-vendor-execs-sound-off-on-what-it-will-take-for-partners-to-get-skin-in-the-iot-game.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/internet-of-things/roundtable-vendor-execs-sound-off-on-what-it-will-take-for-partners-to-get-skin-in-the-iot-game.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;How to Build a Business-Ready Internet of Things: Standardization&lt;/h3&gt;
-&lt;p&gt;The Internet of Things (IoT) was one of the top-billed themes at Mobile World Congress this year, but the enterprise side of the space was one of the &amp;hellip;  &lt;a href=&#34;http://www.pcmag.com/article/352375/how-to-build-a-business-ready-internet-of-things-standardiz&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pcmag.com/article/352375/how-to-build-a-business-ready-internet-of-things-standardiz&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;VC Fund Blockchain Capital Launching Initial Coin Offering&lt;/h3&gt;
-&lt;p&gt;Digital currency investors should be on the lookout for a new token from venture capital fund Blockchain Capital. The firm will raise funds through the &amp;hellip;  &lt;a href=&#34;http://www.investopedia.com/news/vc-fund-blockchain-capital-launching-initial-coin-offering/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.investopedia.com/news/vc-fund-blockchain-capital-launching-initial-coin-offering/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Rivada Networks Offers a FirstNet Solution to States&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; wholesale, machine-to-machine, Internet of Things, etc.). Rivada has formed a consortium of leading companiesincluding Black &amp;amp; Veatch, Nokia, &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/rivada-networks-offers-firstnet-solution-213700591.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/rivada-networks-offers-firstnet-solution-213700591.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
