@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 17 Mar 2017 20:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Mar 2017 00:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon makes it cheaper to host Alexa skills on AWS</title>
+      <link>//crypt0.net/post/amazon-makes-it-cheaper-to-host-alexa-skills-on-aws/</link>
+      <pubDate>Sat, 18 Mar 2017 00:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-makes-it-cheaper-to-host-alexa-skills-on-aws/</guid>
+      <description>&lt;p&gt;Amazon Web Services announced today space, training and opportunities that will be available for developers working with Alexa Skills. According to &amp;hellip;  &lt;a href=&#34;http://clicklancashire.com/2017/03/17/amazon-makes-it-cheaper-to-host-alexa-skills-on-aws.html&#34; onclick=&#34;trackOutboundLink(&#39;http://clicklancashire.com/2017/03/17/amazon-makes-it-cheaper-to-host-alexa-skills-on-aws.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS Case Study: Jour de la Terre</title>
@@ -303,18 +315,6 @@
       
       <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
       <description>&lt;p&gt;level features: BUCKET_NAME=gs://${USER}_yt8m_train_bucket # (One &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/30283/invalid-shapes-error-while-using-lstm-model?forumMessageId=168663&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/30283/invalid-shapes-error-while-using-lstm-model?forumMessageId=168663&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Woolpert Earns Google Cloud Fastest Growing Company Award, Maps Customer</title>
-      <link>//crypt0.net/post/woolpert-earns-google-cloud-fastest-growing-company-award-maps-customer/</link>
-      <pubDate>Fri, 17 Mar 2017 12:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/woolpert-earns-google-cloud-fastest-growing-company-award-maps-customer/</guid>
-      <description>&lt;p&gt;Benzinga Woolpert has been awarded the Google Cloud 2016 Fastest Growing Company Award for Maps Customer Success for North America. This award &amp;hellip;  &lt;a href=&#34;https://www.benzinga.com/pressreleases/17/03/p9186618/woolpert-earns-google-cloud-fastest-growing-company-award-maps-customer&#34; onclick=&#34;trackOutboundLink(&#39;https://www.benzinga.com/pressreleases/17/03/p9186618/woolpert-earns-google-cloud-fastest-growing-company-award-maps-customer&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
