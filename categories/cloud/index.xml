@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 18 Mar 2017 20:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Mar 2017 22:30:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
+      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
+      <pubDate>Sat, 18 Mar 2017 22:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
+      <description>&lt;p&gt;minutes ago. 0. I was trying to test the LSTM model and got the following &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/30347/wrong-dimension-for-input-for-rnn-in-lstm?forumMessageId=169009&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/30347/wrong-dimension-for-input-for-rnn-in-lstm?forumMessageId=169009&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft and Alphabet Are Catching Up to Amazon in the Cloud</title>
@@ -225,18 +237,6 @@
       
       <guid>//crypt0.net/post/thinkagile-for-microsoft-azure-stack-overview-video/</guid>
       <description>&lt;p&gt;scale hybrid cloud solution optimized with resilient, high performing, and &amp;hellip;  &lt;a href=&#34;http://solutions.lenovo.com/resource-center/commercial-marketing/thinkagile-for-microsoft-azure-stack-overview-video/&#34; onclick=&#34;trackOutboundLink(&#39;http://solutions.lenovo.com/resource-center/commercial-marketing/thinkagile-for-microsoft-azure-stack-overview-video/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>openstack controller task uses deprecated nova scheduler options</title>
-      <link>//crypt0.net/post/openstack-controller-task-uses-deprecated-nova-scheduler-options/</link>
-      <pubDate>Sat, 18 Mar 2017 00:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-controller-task-uses-deprecated-nova-scheduler-options/</guid>
-      <description>&lt;p&gt;to the main nova class and fuel still is referencing the deprecated options.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1673893&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1673893&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
