@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 19 Mar 2017 04:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2017 05:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rate should be percent not ratio</title>
+      <link>//crypt0.net/post/rate-should-be-percent-not-ratio/</link>
+      <pubDate>Sun, 19 Mar 2017 05:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/rate-should-be-percent-not-ratio/</guid>
+      <description>&lt;p&gt;However, most of openstack-health graphs show percent. So it is confusing for &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-health/+bug/1674066&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-health/+bug/1674066&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deutsche Telekom setting the pace for the Internet of Things</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/russian-spies-behind-2014-hacking-of-yahoo-accounts/</guid>
       <description>&lt;p&gt;The attack on Yahoo, disclosed previous year, was one of the largest ever data breaches and at the time was blamed on a &amp;ldquo;nation-state&amp;rdquo; attacker.  &lt;a href=&#34;http://clicklancashire.com/2017/03/19/russian-spies-behind-2014-hacking-of-yahoo-accounts.html&#34; onclick=&#34;trackOutboundLink(&#39;http://clicklancashire.com/2017/03/19/russian-spies-behind-2014-hacking-of-yahoo-accounts.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cannot uninstall Sophos Endpoint protection on MAC OS X Sierra</title>
-      <link>//crypt0.net/post/cannot-uninstall-sophos-endpoint-protection-on-mac-os-x-sierra/</link>
-      <pubDate>Sat, 18 Mar 2017 17:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cannot-uninstall-sophos-endpoint-protection-on-mac-os-x-sierra/</guid>
-      <description>&lt;p&gt;testing Sophos Home and then installed a trial of Sophos Central.  &lt;a href=&#34;https://community.sophos.com/products/sophos-cloud/f/sophos-central/90066/cannot-uninstall-sophos-endpoint-protection-on-mac-os-x-sierra&#34; onclick=&#34;trackOutboundLink(&#39;https://community.sophos.com/products/sophos-cloud/f/sophos-central/90066/cannot-uninstall-sophos-endpoint-protection-on-mac-os-x-sierra&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
