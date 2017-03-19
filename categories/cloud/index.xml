@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 19 Mar 2017 05:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2017 06:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1674099 datasource missing in LXD in OpenStack which creat... : Bugs</title>
+      <link>//crypt0.net/post/bug-1674099-datasource-missing-in-lxd-in-openstack-which-creat--bugs/</link>
+      <pubDate>Sun, 19 Mar 2017 06:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1674099-datasource-missing-in-lxd-in-openstack-which-creat--bugs/</guid>
+      <description>&lt;p&gt;datasource missing in LXD in OpenStack which created by conjure-up. Bug #1674099 reported by BlueT - Matthew Lien -  56 minutes ago.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1674099&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1674099&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Rate should be percent not ratio</title>
@@ -225,18 +237,6 @@
       
       <guid>//crypt0.net/post/microsoft-azure-implement-azure-active-directory/</guid>
       <description>&lt;p&gt;directories, configure the application access panel, and implement AD for B2C &amp;hellip;  &lt;a href=&#34;https://www.lynda.com/Azure-tutorials/Microsoft-Azure-Implement-Azure-Active-Directory/534640-2.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.lynda.com/Azure-tutorials/Microsoft-Azure-Implement-Azure-Active-Directory/534640-2.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cisco Integrated System for Microsoft Azure Stack: The Game Changer for</title>
-      <link>//crypt0.net/post/cisco-integrated-system-for-microsoft-azure-stack-the-game-changer-for/</link>
-      <pubDate>Sat, 18 Mar 2017 02:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cisco-integrated-system-for-microsoft-azure-stack-the-game-changer-for/</guid>
-      <description>&lt;p&gt;Cisco Blogs (blog) The result is that now with Cisco&amp;rsquo;s Integrated System for Microsoft Azure Stack, service providers can deliver a dynamic and unique platform that will &amp;hellip;  &lt;a href=&#34;http://blogs.cisco.com/datacenter/cisco-integrated-system-for-microsoft-azure-stack-the-game-changer-for-cloud-service-providers&#34; onclick=&#34;trackOutboundLink(&#39;http://blogs.cisco.com/datacenter/cisco-integrated-system-for-microsoft-azure-stack-the-game-changer-for-cloud-service-providers&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
