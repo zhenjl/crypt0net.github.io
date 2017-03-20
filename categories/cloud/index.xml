@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 20 Mar 2017 02:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Mar 2017 03:10:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>openstack output as json end with shell line</title>
+      <link>//crypt0.net/post/openstack-output-as-json-end-with-shell-line/</link>
+      <pubDate>Mon, 20 Mar 2017 03:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-output-as-json-end-with-shell-line/</guid>
+      <description>&lt;p&gt;the shell line. for example: &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1674213&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1674213&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Learn Why 70-473 Microsoft Azure Dumps are Important for Your 70-473 Test</title>
@@ -207,18 +219,6 @@
       
       <guid>//crypt0.net/post/bug-1674099-datasource-missing-in-lxd-in-openstack-which-creat--bugs/</guid>
       <description>&lt;p&gt;datasource missing in LXD in OpenStack which created by conjure-up. Bug #1674099 reported by BlueT - Matthew Lien -  56 minutes ago.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1674099&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1674099&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rate should be percent not ratio</title>
-      <link>//crypt0.net/post/rate-should-be-percent-not-ratio/</link>
-      <pubDate>Sun, 19 Mar 2017 05:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rate-should-be-percent-not-ratio/</guid>
-      <description>&lt;p&gt;However, most of openstack-health graphs show percent. So it is confusing for &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-health/+bug/1674066&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-health/+bug/1674066&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
