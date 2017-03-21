@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 21 Mar 2017 02:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2017 02:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NUCLEO-F746ZG With MQTT Using CubeMX</title>
+      <link>//crypt0.net/post/nucleof746zg-with-mqtt-using-cubemx/</link>
+      <pubDate>Tue, 21 Mar 2017 02:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/nucleof746zg-with-mqtt-using-cubemx/</guid>
+      <description>&lt;p&gt;using MQTT Protocol to transfer my data to MQTT broker ?  &lt;a href=&#34;https://community.st.com/thread/39594-nucleo-f746zg-with-mqtt-using-cubemx&#34; onclick=&#34;trackOutboundLink(&#39;https://community.st.com/thread/39594-nucleo-f746zg-with-mqtt-using-cubemx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IoT is growing exponentially, and Asia Pacific takes top market share</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/consumers-connected-smart-homes-and-wellfounded-security-concerns/</guid>
       <description>&lt;p&gt;Ergo, the Internet of Things, as it is widely known by people due to the added influence of mass media, has been the prized vision of those companies &amp;hellip;  &lt;a href=&#34;https://www.chipin.com/smart-homes-security-concerns/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.chipin.com/smart-homes-security-concerns/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>NYC&#39;s first Neighborhood Innovation Lab brings Internet of Things, apps and</title>
-      <link>//crypt0.net/post/nycs-first-neighborhood-innovation-lab-brings-internet-of-things-apps-and/</link>
-      <pubDate>Mon, 20 Mar 2017 17:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nycs-first-neighborhood-innovation-lab-brings-internet-of-things-apps-and/</guid>
-      <description>&lt;p&gt;StateScoop (registration) &amp;hellip; other stakeholders to solve local problems through data analysis, apps, sensors that monitor neighborhood resources and Internet of Things devices &amp;hellip;  &lt;a href=&#34;http://statescoop.com/nycs-neighborhood-innovation-lab-will&#34; onclick=&#34;trackOutboundLink(&#39;http://statescoop.com/nycs-neighborhood-innovation-lab-will&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
