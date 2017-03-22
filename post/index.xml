@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 21 Mar 2017 20:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2017 20:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Uncaught TypeError: Cannot read property &#39;modal&#39; of null</title>
+      <link>//crypt0.net/post/uncaught-typeerror-cannot-read-property-modal-of-null/</link>
+      <pubDate>Tue, 21 Mar 2017 20:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/uncaught-typeerror-cannot-read-property-modal-of-null/</guid>
+      <description>&lt;p&gt;chrome javascript console throw an exception: openstack Uncau&amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/horizon/+bug/1674863&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/horizon/+bug/1674863&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>LOG-NET announces release of Next Generation Global Transportation</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Data Economy &amp;hellip; Amazon Web Services (AWS), Google Cloud Platform, IBM SoftLayer, Microsoft Azure ExpressRoute and Office 365, Oracle Cloud and Salesforce.  &lt;a href=&#34;https://data-economy.com/colt-latest-data-centre-provider-add-global-public-cloud-services-footprint/&#34; onclick=&#34;trackOutboundLink(&#39;https://data-economy.com/colt-latest-data-centre-provider-add-global-public-cloud-services-footprint/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blockchain Is Helping Us Feed the World&#39;s Hungriest Families</title>
-      <link>//crypt0.net/post/blockchain-is-helping-us-feed-the-worlds-hungriest-families/</link>
-      <pubDate>Tue, 21 Mar 2017 17:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-is-helping-us-feed-the-worlds-hungriest-families/</guid>
-      <description>&lt;p&gt;The World Food Programme (WFP) is using the Ethereum blockchain to securely and transparently distribute cash assistance to the hungry.  &lt;a href=&#34;https://futurism.com/blockchain-is-helping-us-feed-the-worlds-hungriest-families/&#34; onclick=&#34;trackOutboundLink(&#39;https://futurism.com/blockchain-is-helping-us-feed-the-worlds-hungriest-families/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
