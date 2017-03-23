@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 22 Mar 2017 17:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2017 18:00:01 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>module&#39; object has no attribute &#39;__version__&#39; during openstack /devstack</title>
+      <link>//crypt0.net/post/module-object-has-no-attribute-version-during-openstack-devstack/</link>
+      <pubDate>Wed, 22 Mar 2017 18:00:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/module-object-has-no-attribute-version-during-openstack-devstack/</guid>
+      <description>&lt;p&gt;+lib/keystone:create_keystone_accounts:372 local admin_tenant ++lib/keystone:create_keystone_accounts:373 openstack project show admin -f &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-requirements/+bug/1674855&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-requirements/+bug/1674855&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Big Questions for IoT Customers at the IDTechEx Show - 10-11 May</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/orbcomm-pole-star-and-weatherdock-launch-class-b-vessel-tracking-solution/</guid>
       <description>&lt;p&gt;ORBCOMM Inc., a global provider of Machine-to-Machine (M2M) and Internet of Things (IoT) solutions, today announced that it has collaborated with &amp;hellip;  &lt;a href=&#34;http://www.en.portnews.ru/news/236192/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.en.portnews.ru/news/236192/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SAP Ariba Gets in Blockchain Game</title>
-      <link>//crypt0.net/post/sap-ariba-gets-in-blockchain-game/</link>
-      <pubDate>Wed, 22 Mar 2017 15:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sap-ariba-gets-in-blockchain-game/</guid>
-      <description>&lt;p&gt;banking and insurance to agriculture, energy, healthcare, and media, it is &amp;hellip;  &lt;a href=&#34;http://www.thecwprov.com/story/34972840/sap-ariba-gets-in-blockchain-game&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thecwprov.com/story/34972840/sap-ariba-gets-in-blockchain-game&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 22 Mar 2017 17:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2017 18:00:01 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>module&#39; object has no attribute &#39;__version__&#39; during openstack /devstack</title>
+      <link>//crypt0.net/post/module-object-has-no-attribute-version-during-openstack-devstack/</link>
+      <pubDate>Wed, 22 Mar 2017 18:00:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/module-object-has-no-attribute-version-during-openstack-devstack/</guid>
+      <description>&lt;p&gt;+lib/keystone:create_keystone_accounts:372 local admin_tenant ++lib/keystone:create_keystone_accounts:373 openstack project show admin -f &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-requirements/+bug/1674855&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-requirements/+bug/1674855&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tiered Security: Google Approach of Just Enough Security &#43; Cloud Works</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/ecolab-partners-with-microsoft-again-to-enhance-watermonitoring-product/</guid>
       <description>&lt;p&gt;Ecolab (NYSE: ECL) developed the product using environmental data and risk analysis from Trucost and built the model on Microsoft&amp;rsquo;s Azure Cloud, &amp;hellip;  &lt;a href=&#34;http://www.bizjournals.com/twincities/news/2017/03/22/ecolab-partners-with-microsoft-again-to-enhance.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bizjournals.com/twincities/news/2017/03/22/ecolab-partners-with-microsoft-again-to-enhance.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Outage Knocks Out Skype, Office 365, Outlook &amp; Xbox Live</title>
-      <link>//crypt0.net/post/microsoft-azure-outage-knocks-out-skype-office-365-outlook--xbox-live/</link>
-      <pubDate>Wed, 22 Mar 2017 13:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-outage-knocks-out-skype-office-365-outlook--xbox-live/</guid>
-      <description>&lt;p&gt;Microsoft&amp;rsquo;s Azure cloud platform suffered an outage on Tuesday that knocked its Outlook.com, Office 365, Skype and Xbox Live services offline.  &lt;a href=&#34;http://www.silicon.co.uk/cloud/microsoft-azure-outage-207503&#34; onclick=&#34;trackOutboundLink(&#39;http://www.silicon.co.uk/cloud/microsoft-azure-outage-207503&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
