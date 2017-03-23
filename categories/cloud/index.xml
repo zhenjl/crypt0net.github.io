@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 22 Mar 2017 22:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2017 22:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud Tools 17.2.1_2017</title>
+      <link>//crypt0.net/post/google-cloud-tools-17212017/</link>
+      <pubDate>Wed, 22 Mar 2017 22:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-tools-17212017/</guid>
+      <description>&lt;p&gt;shortcuts. (#1061); Check for minimum support Cloud SDK version.  &lt;a href=&#34;https://plugins.jetbrains.com/plugin/8079-google-cloud-tools/update/33653&#34; onclick=&#34;trackOutboundLink(&#39;https://plugins.jetbrains.com/plugin/8079-google-cloud-tools/update/33653&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>building your Cortana Intelligence solution free</title>
@@ -291,18 +303,6 @@
       
       <guid>//crypt0.net/post/module-object-has-no-attribute-version-during-openstack-devstack/</guid>
       <description>&lt;p&gt;+lib/keystone:create_keystone_accounts:372 local admin_tenant ++lib/keystone:create_keystone_accounts:373 openstack project show admin -f &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-requirements/+bug/1674855&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-requirements/+bug/1674855&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tiered Security: Google Approach of Just Enough Security &#43; Cloud Works</title>
-      <link>//crypt0.net/post/tiered-security-google-approach-of-just-enough-security--cloud-works/</link>
-      <pubDate>Wed, 22 Mar 2017 17:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/tiered-security-google-approach-of-just-enough-security--cloud-works/</guid>
-      <description>&lt;p&gt;SuperSite for Windows &amp;hellip; that its approach to internal security is an ideal one, so of course sign up right away for one of those G Suite or Google Cloud Platform packages.  &lt;a href=&#34;http://winsupersite.com/android/tiered-security-google-approach-just-enough-security-cloud-works-employees&#34; onclick=&#34;trackOutboundLink(&#39;http://winsupersite.com/android/tiered-security-google-approach-just-enough-security-cloud-works-employees&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
