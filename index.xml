@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 22 Mar 2017 19:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2017 19:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using R with Google Cloud SQL for MySQL</title>
+      <link>//crypt0.net/post/using-r-with-google-cloud-sql-for-mysql/</link>
+      <pubDate>Wed, 22 Mar 2017 19:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/using-r-with-google-cloud-sql-for-mysql/</guid>
+      <description>&lt;p&gt;Cloud SQL, you can take advantage of all R features on top of a &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/blog/big-data/2017/03/google-cloud-platform-for-data-scientists-using-r-with-google-cloud-sql-for-mysql&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/blog/big-data/2017/03/google-cloud-platform-for-data-scientists-using-r-with-google-cloud-sql-for-mysql&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>3 Things to Know About IBM Blockchain</title>
@@ -490,18 +502,6 @@
 
 &lt;p&gt;&lt;h3&gt;Endgame and Spire Solutions Partner to Introduce Endpoint Protection and&lt;/h3&gt;
 &lt;p&gt;PR Newswire (press release) Endgame, a leading endpoint security platform to close the protection gap against advanced attackers, today announced that Spire Solutions, the &amp;hellip;  &lt;a href=&#34;http://www.prnewswire.com/news-releases/endgame-and-spire-solutions-partner-to-introduce-endpoint-protection-and-threat-hunting-to-the-middle-east-616813504.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prnewswire.com/news-releases/endgame-and-spire-solutions-partner-to-introduce-endpoint-protection-and-threat-hunting-to-the-middle-east-616813504.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>module&#39; object has no attribute &#39;__version__&#39; during openstack /devstack</title>
-      <link>//crypt0.net/post/module-object-has-no-attribute-version-during-openstack-devstack/</link>
-      <pubDate>Wed, 22 Mar 2017 18:00:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/module-object-has-no-attribute-version-during-openstack-devstack/</guid>
-      <description>&lt;p&gt;+lib/keystone:create_keystone_accounts:372 local admin_tenant ++lib/keystone:create_keystone_accounts:373 openstack project show admin -f &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-requirements/+bug/1674855&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-requirements/+bug/1674855&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 22 Mar 2017 19:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2017 19:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using R with Google Cloud SQL for MySQL</title>
+      <link>//crypt0.net/post/using-r-with-google-cloud-sql-for-mysql/</link>
+      <pubDate>Wed, 22 Mar 2017 19:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/using-r-with-google-cloud-sql-for-mysql/</guid>
+      <description>&lt;p&gt;Cloud SQL, you can take advantage of all R features on top of a &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/blog/big-data/2017/03/google-cloud-platform-for-data-scientists-using-r-with-google-cloud-sql-for-mysql&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/blog/big-data/2017/03/google-cloud-platform-for-data-scientists-using-r-with-google-cloud-sql-for-mysql&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>3 Things to Know About IBM Blockchain</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;SuperSite for Windows &amp;hellip; that its approach to internal security is an ideal one, so of course sign up right away for one of those G Suite or Google Cloud Platform packages.  &lt;a href=&#34;http://winsupersite.com/android/tiered-security-google-approach-just-enough-security-cloud-works-employees&#34; onclick=&#34;trackOutboundLink(&#39;http://winsupersite.com/android/tiered-security-google-approach-just-enough-security-cloud-works-employees&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What is blockchain and why does HR need to know about it?</title>
-      <link>//crypt0.net/post/what-is-blockchain-and-why-does-hr-need-to-know-about-it/</link>
-      <pubDate>Wed, 22 Mar 2017 17:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-is-blockchain-and-why-does-hr-need-to-know-about-it/</guid>
-      <description>&lt;p&gt;might affect  and transform  the HR profession.  &lt;a href=&#34;http://www.hrmonline.com.au/section/featured/blockchain-hr-need-know-explainer/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.hrmonline.com.au/section/featured/blockchain-hr-need-know-explainer/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
