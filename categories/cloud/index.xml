@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Mar 2017 01:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 02:10:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Install and configure in Installation Guide</title>
+      <link>//crypt0.net/post/install-and-configure-in-installation-guide/</link>
+      <pubDate>Thu, 23 Mar 2017 02:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/install-and-configure-in-installation-guide/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://docs.openstack.org/ocata/install-guide-ubuntu/horizon-install.html&#34;&gt;https://docs.openstack.org/ocata/install-guide-ubuntu/horizon-install.html&lt;/a&gt; everything is setup as the &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1675259&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1675259&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Android Security report shows Play Store apps got safer in 2016</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/microsoft-and-publicis-strike-cloud-partnership-for-datadriven-ad/</guid>
       <description>&lt;p&gt;GeekWire Publicis Groupe is expanding its alliance with Microsoft  combining the ad company&amp;rsquo;s Cosmos A.I. marketing technology with the tech giant&amp;rsquo;s Azure &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/microsoft-publicis-strike-cloud-partnership-data-driven-ad-targeting/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/microsoft-publicis-strike-cloud-partnership-data-driven-ad-targeting/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft&#39;s Plan to Dominate Connected Cars</title>
-      <link>//crypt0.net/post/microsofts-plan-to-dominate-connected-cars/</link>
-      <pubDate>Wed, 22 Mar 2017 18:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsofts-plan-to-dominate-connected-cars/</guid>
-      <description>&lt;p&gt;The entity, Toyota Connect, uses Microsoft&amp;rsquo;s Azure cloud computing service to crunch data and help develop new products for drivers, businesses with &amp;hellip;  &lt;a href=&#34;http://fortune.com/2017/03/22/microsoft-connected-car-ip/&#34; onclick=&#34;trackOutboundLink(&#39;http://fortune.com/2017/03/22/microsoft-connected-car-ip/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
