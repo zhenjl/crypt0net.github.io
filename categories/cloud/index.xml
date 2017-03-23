@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 22 Mar 2017 20:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2017 21:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1675191 operation_log: mask_fields are always recorded eve...</title>
+      <link>//crypt0.net/post/bug-1675191-operationlog-maskfields-are-always-recorded-eve/</link>
+      <pubDate>Wed, 22 Mar 2017 21:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1675191-operationlog-maskfields-are-always-recorded-eve/</guid>
+      <description>&lt;p&gt;included in a user parameters. It is really confusing.  &lt;a href=&#34;https://bugs.launchpad.net/horizon/+bug/1675191&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/horizon/+bug/1675191&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
@@ -291,18 +303,6 @@
       
       <guid>//crypt0.net/post/cloud-troubles-17-hour-office-365-onedrive-outage-and-outlookcom/</guid>
       <description>&lt;p&gt;CRN Tony Pompliano, CEO of Raleigh, N.C.-based managed cloud provider Anexio, a Microsoft Azure partner and Office 365 reseller, said the outage has &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/cloud/300084286/cloud-troubles-17-hour-office-365-onedrive-outage-and-outlook-com-interruption-shines-the-spotlight-on-need-for-business-continuity.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300084286/cloud-troubles-17-hour-office-365-onedrive-outage-and-outlook-com-interruption-shines-the-spotlight-on-need-for-business-continuity.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure Autoscaling with VMSS and Managed Disks, Part 2: Deployment</title>
-      <link>//crypt0.net/post/azure-autoscaling-with-vmss-and-managed-disks-part-2-deployment/</link>
-      <pubDate>Wed, 22 Mar 2017 15:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-autoscaling-with-vmss-and-managed-disks-part-2-deployment/</guid>
-      <description>&lt;p&gt;In this demo, I&amp;rsquo;m going to use one of Microsoft&amp;rsquo;s Azure Resource Manager (ARM) quickstart templates: 201-vmss-windows-autoscale. It is possible to &amp;hellip;  &lt;a href=&#34;https://www.petri.com/azure-autoscaling-vmss-managed-disks-part-2-deployment&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/azure-autoscaling-vmss-managed-disks-part-2-deployment&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
