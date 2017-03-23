@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Mar 2017 15:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 16:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure Traffic Manager Could Help with Data Sovereignty Concerns</title>
+      <link>//crypt0.net/post/microsoft-azure-traffic-manager-could-help-with-data-sovereignty-concerns/</link>
+      <pubDate>Thu, 23 Mar 2017 16:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-traffic-manager-could-help-with-data-sovereignty-concerns/</guid>
+      <description>&lt;p&gt;Microsoft yesterday announced that it has added geographic routing capability to Azure Traffic Manager, which allows users to localize content &amp;hellip;  &lt;a href=&#34;http://1reddrop.com/2017/03/23/microsoft-azure-traffic-manager-data-sovereignty-concerns-enterprise-customers/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/03/23/microsoft-azure-traffic-manager-data-sovereignty-concerns-enterprise-customers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS Lambda Nods to Node.js Devs with Version Upgrade</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/how-google-is-riding-the-multicloud-wave-to-win-over-the-enterprise/</guid>
       <description>&lt;p&gt;At Google Cloud Next, the company also debuted the beta release of its Committed Use Discount scheme for GCE users, which allows them to bank &amp;hellip;  &lt;a href=&#34;http://www.computerweekly.com/news/450415365/How-Google-is-riding-the-multi-cloud-wave-to-win-over-the-enterprise&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computerweekly.com/news/450415365/How-Google-is-riding-the-multi-cloud-wave-to-win-over-the-enterprise&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IBM in the cloud: Inside the tech giant&#39;s quest to stand out against</title>
-      <link>//crypt0.net/post/ibm-in-the-cloud-inside-the-tech-giants-quest-to-stand-out-against/</link>
-      <pubDate>Thu, 23 Mar 2017 11:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ibm-in-the-cloud-inside-the-tech-giants-quest-to-stand-out-against/</guid>
-      <description>&lt;p&gt;GeekWire &amp;hellip; strengths in business technology, aiming to differentiate itself from public cloud leaders Amazon Web Services, Microsoft Azure and Google Cloud.  &lt;a href=&#34;http://www.geekwire.com/2017/ibm-cloud-inside-tech-giants-quest-compete-amazon-microsoft-google/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/ibm-cloud-inside-tech-giants-quest-compete-amazon-microsoft-google/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
