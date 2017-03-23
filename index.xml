@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Mar 2017 04:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 04:50:06 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Does Spark or Spark JDBC support connection to Google Cloud BigQuery</title>
+      <link>//crypt0.net/post/does-spark-or-spark-jdbc-support-connection-to-google-cloud-bigquery/</link>
+      <pubDate>Thu, 23 Mar 2017 04:50:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/does-spark-or-spark-jdbc-support-connection-to-google-cloud-bigquery/</guid>
+      <description>&lt;p&gt;A community forum to discuss working with Databricks Cloud and Spark.  &lt;a href=&#34;https://forums.databricks.com/questions/11142/does-spark-or-spark-jdbc-support-connection-to-goo.html&#34; onclick=&#34;trackOutboundLink(&#39;https://forums.databricks.com/questions/11142/does-spark-or-spark-jdbc-support-connection-to-goo.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Toward a connected future: Maximizing the Internet of Things</title>
+      <link>//crypt0.net/post/toward-a-connected-future-maximizing-the-internet-of-things/</link>
+      <pubDate>Thu, 23 Mar 2017 04:50:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/toward-a-connected-future-maximizing-the-internet-of-things/</guid>
+      <description>&lt;p&gt;home appliances to cars and healthcare, but how can its potential be &amp;hellip;  &lt;a href=&#34;http://www.techpolicydaily.com/technology/toward-connected-future-maximizing-internet-things/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techpolicydaily.com/technology/toward-connected-future-maximizing-internet-things/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Talk to your bulldozer now using UIB-Cybus solution</title>
@@ -163,30 +187,6 @@
       <description>&lt;p&gt;Blockchain can decentralise transactions and remove middlemen. In its purest form, it is like a digital ledger where users can record transactions that &amp;hellip;  &lt;a href=&#34;http://www.business-standard.com/article/economy-policy/will-blockchain-disrupt-real-estate-industry-here-s-all-you-need-to-know-117032300544_1.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.business-standard.com/article/economy-policy/will-blockchain-disrupt-real-estate-industry-here-s-all-you-need-to-know-117032300544_1.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Your microwave isn&#39;t spying on you. Here&#39;s what is.</title>
-      <link>//crypt0.net/post/your-microwave-isnt-spying-on-you-heres-what-is/</link>
-      <pubDate>Thu, 23 Mar 2017 03:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/your-microwave-isnt-spying-on-you-heres-what-is/</guid>
-      <description>&lt;p&gt;Internet of Things devices are built with functionality in mind, and one of the functions it provides is connectivity; it&amp;rsquo;s connected to other things, &amp;hellip;  &lt;a href=&#34;http://www.montereycountyweekly.com/opinion/local_spin/your-microwave-isn-t-spying-on-you-here-s-what/article_ea4c4650-0f58-11e7-be0f-a7a893e826a2.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.montereycountyweekly.com/opinion/local_spin/your-microwave-isn-t-spying-on-you-here-s-what/article_ea4c4650-0f58-11e7-be0f-a7a893e826a2.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Yahoo!&#39;s big, fat clustered Google Machine Learning wedding</title>
-      <link>//crypt0.net/post/yahoos-big-fat-clustered-google-machine-learning-wedding/</link>
-      <pubDate>Thu, 23 Mar 2017 02:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/yahoos-big-fat-clustered-google-machine-learning-wedding/</guid>
-      <description>&lt;p&gt;Using TFoS you can run TensorFlow free of Google&amp;rsquo;s cloud and have it share servers already running other big-data apps and processes rather than &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/03/23/yahoo_tensorflow_on_spark/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/03/23/yahoo_tensorflow_on_spark/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

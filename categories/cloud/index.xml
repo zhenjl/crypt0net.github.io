@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Mar 2017 04:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 04:50:06 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Does Spark or Spark JDBC support connection to Google Cloud BigQuery</title>
+      <link>//crypt0.net/post/does-spark-or-spark-jdbc-support-connection-to-google-cloud-bigquery/</link>
+      <pubDate>Thu, 23 Mar 2017 04:50:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/does-spark-or-spark-jdbc-support-connection-to-google-cloud-bigquery/</guid>
+      <description>&lt;p&gt;A community forum to discuss working with Databricks Cloud and Spark.  &lt;a href=&#34;https://forums.databricks.com/questions/11142/does-spark-or-spark-jdbc-support-connection-to-goo.html&#34; onclick=&#34;trackOutboundLink(&#39;https://forums.databricks.com/questions/11142/does-spark-or-spark-jdbc-support-connection-to-goo.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Training Thursdays: Self-Paced OpenStack Training New Available On-Line</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/adobe-and-microsoft-release-joint-experience-cloud-azure-services/</guid>
       <description>&lt;p&gt;LAS VEGAS  Six months after announcing their partnership at Microsoft Corp.&amp;rsquo;s Ignite conference in September, the Redmond, Wash.-based tech &amp;hellip;  &lt;a href=&#34;http://www.itbusiness.ca/news/adobe-and-microsoft-release-joint-experience-cloud-azure-services/88278&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itbusiness.ca/news/adobe-and-microsoft-release-joint-experience-cloud-azure-services/88278&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using R with Google Cloud SQL for MySQL</title>
-      <link>//crypt0.net/post/using-r-with-google-cloud-sql-for-mysql/</link>
-      <pubDate>Wed, 22 Mar 2017 19:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/using-r-with-google-cloud-sql-for-mysql/</guid>
-      <description>&lt;p&gt;Cloud SQL, you can take advantage of all R features on top of a &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/blog/big-data/2017/03/google-cloud-platform-for-data-scientists-using-r-with-google-cloud-sql-for-mysql&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/blog/big-data/2017/03/google-cloud-platform-for-data-scientists-using-r-with-google-cloud-sql-for-mysql&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
