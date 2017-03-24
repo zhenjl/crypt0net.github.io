@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Mar 2017 22:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 23:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CoreOS Tectonic Now Installs Kubernetes on OpenStack</title>
+      <link>//crypt0.net/post/coreos-tectonic-now-installs-kubernetes-on-openstack/</link>
+      <pubDate>Thu, 23 Mar 2017 23:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/coreos-tectonic-now-installs-kubernetes-on-openstack/</guid>
+      <description>&lt;p&gt;CoreOS and OpenStack have a somewhat intertwined history, which is why it&amp;rsquo;s somewhat surprising it took until today for CoreOS&amp;rsquo;s Tectonic &amp;hellip;  &lt;a href=&#34;http://www.serverwatch.com/server-news/coreos-tectonic-now-installs-kubernetes-on-openstack.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.serverwatch.com/server-news/coreos-tectonic-now-installs-kubernetes-on-openstack.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Adafruit MQTT with Photon compiler error</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/rdsknight-controls-device-access-to-protect-sensitive-data/</guid>
       <description>&lt;p&gt;The Endpoint Protection feature incorporates a Device Control technology. Simple rules created with Device Control can enforce security policies and &amp;hellip;  &lt;a href=&#34;http://www.digitaljournal.com/pr/3281312&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digitaljournal.com/pr/3281312&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>HIT Think Why insider threats remain the biggest risk to data</title>
-      <link>//crypt0.net/post/hit-think-why-insider-threats-remain-the-biggest-risk-to-data/</link>
-      <pubDate>Thu, 23 Mar 2017 18:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hit-think-why-insider-threats-remain-the-biggest-risk-to-data/</guid>
-      <description>&lt;p&gt;&amp;hellip; ransomware and hacking attacks draw the biggest headlines, it is actually improper insider access that causes the highest number of data breaches.  &lt;a href=&#34;https://www.healthdatamanagement.com/opinion/why-insider-threats-remain-the-biggest-risk-to-data&#34; onclick=&#34;trackOutboundLink(&#39;https://www.healthdatamanagement.com/opinion/why-insider-threats-remain-the-biggest-risk-to-data&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
