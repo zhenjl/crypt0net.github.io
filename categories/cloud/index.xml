@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 24 Mar 2017 12:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2017 12:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Updates Azure Traffic Manager with Support for Geographic Routing</title>
+      <link>//crypt0.net/post/microsoft-updates-azure-traffic-manager-with-support-for-geographic-routing/</link>
+      <pubDate>Fri, 24 Mar 2017 12:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-updates-azure-traffic-manager-with-support-for-geographic-routing/</guid>
+      <description>&lt;p&gt;Azure Traffic Managers new feature lets users direct traffic depending on the physical location of the request, allowing admins to more easily follow &amp;hellip;  &lt;a href=&#34;https://winbuzzer.com/2017/03/24/microsoft-updates-azure-traffic-manager-support-geographic-routing-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/03/24/microsoft-updates-azure-traffic-manager-support-geographic-routing-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CoreOS sees Tectonic shift in Kubernetes adoption with additional platforms</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/breaking-verizon-att-johnson--johnson-join-youtube-boycott/</guid>
       <description>&lt;p&gt;We like the fact that Alphabet continues to innovate around ads, and we see device bidding, expanded text ads, and Google cloud as meaningful &amp;hellip;  &lt;a href=&#34;https://www.digitalmusicnews.com/2017/03/23/verizon-att-google-youtube-boycott/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.digitalmusicnews.com/2017/03/23/verizon-att-google-youtube-boycott/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
-      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
-      <pubDate>Thu, 23 Mar 2017 21:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
-      <description>&lt;p&gt;the best video tag predictions? Google Cloud  335 teams  2 months &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/30564/tensorflow-issue-help-appreciated?forumMessageId=170092&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/30564/tensorflow-issue-help-appreciated?forumMessageId=170092&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
