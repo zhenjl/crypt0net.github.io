@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Mar 2017 16:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 17:20:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CoreOS Extends Tectonic and Quay to New Environments</title>
+      <link>//crypt0.net/post/coreos-extends-tectonic-and-quay-to-new-environments/</link>
+      <pubDate>Thu, 23 Mar 2017 17:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/coreos-extends-tectonic-and-quay-to-new-environments/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s now offering preview availability for Microsoft Azure and OpenStack. It also announced that it&amp;rsquo;s extending Quay, its container image registry, so that &amp;hellip;  &lt;a href=&#34;https://www.sdxcentral.com/articles/news/coreos-extends-tectonic-quay-new-environments/2017/03/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sdxcentral.com/articles/news/coreos-extends-tectonic-quay-new-environments/2017/03/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud and the Network Engineer</title>
+      <link>//crypt0.net/post/google-cloud-and-the-network-engineer/</link>
+      <pubDate>Thu, 23 Mar 2017 17:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-and-the-network-engineer/</guid>
+      <description>&lt;p&gt;can enable network engineers to shift to a strategic focus.  &lt;a href=&#34;http://www.networkcomputing.com/cloud-infrastructure/google-cloud-and-network-engineer/1877519107&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkcomputing.com/cloud-infrastructure/google-cloud-and-network-engineer/1877519107&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Azure Traffic Manager Could Help with Data Sovereignty Concerns</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/huawei-extends-cooperation-with-canonical-with-integration-of-cloudfabric/</guid>
       <description>&lt;p&gt;VanillaPlus (press release) (blog) The joint solution integrates the Agile Controller, Huawei&amp;rsquo;s SDN controller, with Ubuntu OpenStack to improve the efficiency of deploying and &amp;hellip;  &lt;a href=&#34;https://www.vanillaplus.com/2017/03/23/26159-huawei-extends-cooperation-canonical-integration-cloudfabric-data-centre-network-solution-ubuntu-cloud-solutions/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.vanillaplus.com/2017/03/23/26159-huawei-extends-cooperation-canonical-integration-cloudfabric-data-centre-network-solution-ubuntu-cloud-solutions/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IBM helps make Red Hat OpenStack Platform enterprise-friendly</title>
-      <link>//crypt0.net/post/ibm-helps-make-red-hat-openstack-platform-enterprisefriendly/</link>
-      <pubDate>Thu, 23 Mar 2017 13:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ibm-helps-make-red-hat-openstack-platform-enterprisefriendly/</guid>
-      <description>&lt;p&gt;By the end of the month, enterprises can get the Red Hat OpenStack Platform through the IBM Cloud. The offering is expected to make the software for &amp;hellip;  &lt;a href=&#34;http://searchnetworking.techtarget.com/news/450415427/IBM-helps-make-Red-Hat-OpenStack-Platform-enterprise-friendly&#34; onclick=&#34;trackOutboundLink(&#39;http://searchnetworking.techtarget.com/news/450415427/IBM-helps-make-Red-Hat-OpenStack-Platform-enterprise-friendly&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How Google is riding the multi-cloud wave to win over the enterprise</title>
-      <link>//crypt0.net/post/how-google-is-riding-the-multicloud-wave-to-win-over-the-enterprise/</link>
-      <pubDate>Thu, 23 Mar 2017 11:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-google-is-riding-the-multicloud-wave-to-win-over-the-enterprise/</guid>
-      <description>&lt;p&gt;At Google Cloud Next, the company also debuted the beta release of its Committed Use Discount scheme for GCE users, which allows them to bank &amp;hellip;  &lt;a href=&#34;http://www.computerweekly.com/news/450415365/How-Google-is-riding-the-multi-cloud-wave-to-win-over-the-enterprise&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computerweekly.com/news/450415365/How-Google-is-riding-the-multi-cloud-wave-to-win-over-the-enterprise&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
