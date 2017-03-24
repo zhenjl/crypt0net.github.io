@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Mar 2017 18:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 18:40:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Go device to cloud in just 25 kbytes</title>
+      <link>//crypt0.net/post/go-device-to-cloud-in-just-25-kbytes/</link>
+      <pubDate>Thu, 23 Mar 2017 18:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/go-device-to-cloud-in-just-25-kbytes/</guid>
+      <description>&lt;p&gt;The X-Ware IoT Platform leverages all the benefits of NetX Duo and introduces new IoT protocol support for 6LoWPAN, MQTT, CoAP, LWM2M.  &lt;a href=&#34;http://embedded-computing.com/31812-go-device-to-cloud-in-just-25-kbytes/&#34; onclick=&#34;trackOutboundLink(&#39;http://embedded-computing.com/31812-go-device-to-cloud-in-just-25-kbytes/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Connected IO expands customer base for internet of things devices</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/storj-to-migrate-decentralized-storage-service-to-ethereum-blockchain/</guid>
       <description>&lt;p&gt;Atlanta-based Storj Labs has announced that it intends to move its decentralized storage service to the ethereum blockchain. Long based on the &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/storj-migrate-decentralized-storage-service-ethereum-blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/storj-migrate-decentralized-storage-service-ethereum-blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An E-ink calendar that syncs with your Google account is the internet of</title>
-      <link>//crypt0.net/post/an-eink-calendar-that-syncs-with-your-google-account-is-the-internet-of/</link>
-      <pubDate>Thu, 23 Mar 2017 13:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/an-eink-calendar-that-syncs-with-your-google-account-is-the-internet-of/</guid>
-      <description>&lt;p&gt;TechRadar Connected pet feeders, connected kettles, connected hairbrushes  there have been some quite silly connected devices launched to take advantage &amp;hellip;  &lt;a href=&#34;http://www.techradar.com/news/an-e-ink-calendar-that-syncs-with-your-google-account-is-the-internet-of-things-done-right&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techradar.com/news/an-e-ink-calendar-that-syncs-with-your-google-account-is-the-internet-of-things-done-right&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

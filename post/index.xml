@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 23 Mar 2017 18:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 18:40:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Go device to cloud in just 25 kbytes</title>
+      <link>//crypt0.net/post/go-device-to-cloud-in-just-25-kbytes/</link>
+      <pubDate>Thu, 23 Mar 2017 18:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/go-device-to-cloud-in-just-25-kbytes/</guid>
+      <description>&lt;p&gt;The X-Ware IoT Platform leverages all the benefits of NetX Duo and introduces new IoT protocol support for 6LoWPAN, MQTT, CoAP, LWM2M.  &lt;a href=&#34;http://embedded-computing.com/31812-go-device-to-cloud-in-just-25-kbytes/&#34; onclick=&#34;trackOutboundLink(&#39;http://embedded-computing.com/31812-go-device-to-cloud-in-just-25-kbytes/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Honeywell Releases Latest Edition of Pro-Watch Security Management System</title>
+      <link>//crypt0.net/post/honeywell-releases-latest-edition-of-prowatch-security-management-system/</link>
+      <pubDate>Thu, 23 Mar 2017 18:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/honeywell-releases-latest-edition-of-prowatch-security-management-system/</guid>
+      <description>&lt;p&gt;These include third-party solutions such as video management systems, physical security information management solutions, visitor management, &amp;hellip;  &lt;a href=&#34;http://www.securitysales.com/article/honeywell_pro_watch_security_management_system/access&#34; onclick=&#34;trackOutboundLink(&#39;http://www.securitysales.com/article/honeywell_pro_watch_security_management_system/access&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joint Microsoft-Ping Solution for Azure AD Nears Preview</title>
+      <link>//crypt0.net/post/joint-microsoftping-solution-for-azure-ad-nears-preview/</link>
+      <pubDate>Thu, 23 Mar 2017 18:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/joint-microsoftping-solution-for-azure-ad-nears-preview/</guid>
+      <description>&lt;p&gt;Microsoft&amp;rsquo;s partnership with Ping Identity Solutions to create a more streamlined path for organizations seeking single sign-on access to header-based &amp;hellip;  &lt;a href=&#34;https://rcpmag.com/articles/2017/03/23/microsoft-ping-solution-for-azure-ad.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://rcpmag.com/articles/2017/03/23/microsoft-ping-solution-for-azure-ad.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CoreOS Extends Tectonic and Quay to New Environments</title>
@@ -151,42 +187,6 @@
       <description>&lt;p&gt;Microsoft yesterday announced that it has added geographic routing capability to Azure Traffic Manager, which allows users to localize content &amp;hellip;  &lt;a href=&#34;http://1reddrop.com/2017/03/23/microsoft-azure-traffic-manager-data-sovereignty-concerns-enterprise-customers/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/03/23/microsoft-azure-traffic-manager-data-sovereignty-concerns-enterprise-customers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AWS Lambda Nods to Node.js Devs with Version Upgrade</title>
-      <link>//crypt0.net/post/aws-lambda-nods-to-nodejs-devs-with-version-upgrade/</link>
-      <pubDate>Thu, 23 Mar 2017 15:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aws-lambda-nods-to-nodejs-devs-with-version-upgrade/</guid>
-      <description>&lt;p&gt;Amazon Web Services Inc. (AWS), with a formidable head start in the serverless computing arena among major cloud providers, is continuing to court &amp;hellip;  &lt;a href=&#34;https://adtmag.com/articles/2017/03/23/aws-lambda-nodejs.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://adtmag.com/articles/2017/03/23/aws-lambda-nodejs.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fleet Managers and the Internet of Things: What Does It Mean for You?</title>
-      <link>//crypt0.net/post/fleet-managers-and-the-internet-of-things-what-does-it-mean-for-you/</link>
-      <pubDate>Thu, 23 Mar 2017 15:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/fleet-managers-and-the-internet-of-things-what-does-it-mean-for-you/</guid>
-      <description>&lt;p&gt;If you pay any attention to the news at all, you&amp;rsquo;ve heard of the Internet of Things, or IoT. And if you&amp;rsquo;re a consumer of any kind in today&amp;rsquo;s society, you &amp;hellip;  &lt;a href=&#34;http://www.fleetcleanusa.com/fleet-managers-and-the-internet-of-things-what-does-it-mean-for-you/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.fleetcleanusa.com/fleet-managers-and-the-internet-of-things-what-does-it-mean-for-you/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How Digital Disruption Transcends Industry Borders</title>
-      <link>//crypt0.net/post/how-digital-disruption-transcends-industry-borders/</link>
-      <pubDate>Thu, 23 Mar 2017 15:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-digital-disruption-transcends-industry-borders/</guid>
-      <description>&lt;p&gt;As emerging technologies like Augmented Reality, the Internet of Things, and Artificial Intelligence become mainstream, the only thing that&amp;rsquo;s certain &amp;hellip;  &lt;a href=&#34;https://www.forbes.com/sites/ciocentral/2017/03/23/how-digital-disruption-transcends-industry-borders/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forbes.com/sites/ciocentral/2017/03/23/how-digital-disruption-transcends-industry-borders/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
