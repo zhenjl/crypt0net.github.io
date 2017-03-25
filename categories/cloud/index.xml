@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 24 Mar 2017 23:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2017 23:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using Cloud Dataflow for Batch Predictions with TensorFlow</title>
+      <link>//crypt0.net/post/using-cloud-dataflow-for-batch-predictions-with-tensorflow/</link>
+      <pubDate>Fri, 24 Mar 2017 23:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/using-cloud-dataflow-for-batch-predictions-with-tensorflow/</guid>
+      <description>&lt;p&gt;the trained model is exported into a Google Cloud Storage bucket before &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/solutions/using-cloud-dataflow-for-batch-predictions-with-tensorflow&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/solutions/using-cloud-dataflow-for-batch-predictions-with-tensorflow&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Now in preview: Azure Active Directory Business to Consumer access tokens</title>
@@ -252,18 +264,6 @@
       
       <guid>//crypt0.net/post/cloud-sql-for-postgresql--get-your-database-cloud-ready/</guid>
       <description>&lt;p&gt;administrators! Cloud SQL for PostgreSQL is now available on Google &amp;hellip;  &lt;a href=&#34;https://www.geospatialworld.net/cloud-sql-postgresql-database-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.geospatialworld.net/cloud-sql-postgresql-database-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft begins licensing its own IP for connected vehicles</title>
-      <link>//crypt0.net/post/microsoft-begins-licensing-its-own-ip-for-connected-vehicles/</link>
-      <pubDate>Fri, 24 Mar 2017 14:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-begins-licensing-its-own-ip-for-connected-vehicles/</guid>
-      <description>&lt;p&gt;Imagine your car alerting you to a problem, says Doug Seven, Principal Group Program Manager of Azure at Microsoft. It can connect to the platform &amp;hellip;  &lt;a href=&#34;http://www.fudzilla.com/news/43206-microsoft-begins-licensing-its-own-ip-for-connected-vehicles&#34; onclick=&#34;trackOutboundLink(&#39;http://www.fudzilla.com/news/43206-microsoft-begins-licensing-its-own-ip-for-connected-vehicles&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 24 Mar 2017 23:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2017 23:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using Cloud Dataflow for Batch Predictions with TensorFlow</title>
+      <link>//crypt0.net/post/using-cloud-dataflow-for-batch-predictions-with-tensorflow/</link>
+      <pubDate>Fri, 24 Mar 2017 23:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/using-cloud-dataflow-for-batch-predictions-with-tensorflow/</guid>
+      <description>&lt;p&gt;the trained model is exported into a Google Cloud Storage bucket before &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/solutions/using-cloud-dataflow-for-batch-predictions-with-tensorflow&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/solutions/using-cloud-dataflow-for-batch-predictions-with-tensorflow&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Now in preview: Azure Active Directory Business to Consumer access tokens</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/can-blockchain-technology-help-solve-ad-fraud-metax-believes-so/</guid>
       <description>&lt;p&gt;Santa Monica, Calif.-based MetaX is one of the latest ventures to bring blockchain technology to digital advertising. The company&amp;rsquo;s solution, launched &amp;hellip;  &lt;a href=&#34;https://martechtoday.com/metax-blockchain-ad-fraud-solution-196633&#34; onclick=&#34;trackOutboundLink(&#39;https://martechtoday.com/metax-blockchain-ad-fraud-solution-196633&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Orchestrating Identities Across The Internet of Things</title>
-      <link>//crypt0.net/post/orchestrating-identities-across-the-internet-of-things/</link>
-      <pubDate>Fri, 24 Mar 2017 18:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/orchestrating-identities-across-the-internet-of-things/</guid>
-      <description>&lt;p&gt;person, system or thing. It is a symphony of interactions between people, &amp;hellip;  &lt;a href=&#34;https://www.covisint.com/iot-resources/orchestrating-identities-across-the-internet-of-things/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.covisint.com/iot-resources/orchestrating-identities-across-the-internet-of-things/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
