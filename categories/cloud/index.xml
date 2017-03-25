@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 24 Mar 2017 19:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2017 19:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Open Sources Azure Service Fabric .NET SDK</title>
+      <link>//crypt0.net/post/microsoft-open-sources-azure-service-fabric-net-sdk/</link>
+      <pubDate>Fri, 24 Mar 2017 19:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-open-sources-azure-service-fabric-net-sdk/</guid>
+      <description>&lt;p&gt;Microsoft has open-sourced a small portion of its Azure Service Fabric SDK, with plans to open more in the future. The effort signals the company&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;https://winbuzzer.com/2017/03/24/microsoft-open-sources-azure-service-fabric-net-sdk-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/03/24/microsoft-open-sources-azure-service-fabric-net-sdk-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google details Talk transition, SMS removal for Hangouts, other G Suite</title>
@@ -252,18 +264,6 @@
       
       <guid>//crypt0.net/post/coreos-sees-tectonic-shift-in-kubernetes-adoption-with-additional-platforms/</guid>
       <description>&lt;p&gt;CoreOS has brought its Tectonic enterprise Kubernetes solution to Microsoft Azure and OpenStack to expand cloud native container adoption by more &amp;hellip;  &lt;a href=&#34;http://www.cbronline.com/news/cloud/coreos-sees-tectonic-shift-in-kubernetes-adoption-with-additional-platforms/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/cloud/coreos-sees-tectonic-shift-in-kubernetes-adoption-with-additional-platforms/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure Service Fabric takes first tentative steps toward open source</title>
-      <link>//crypt0.net/post/azure-service-fabric-takes-first-tentative-steps-toward-open-source/</link>
-      <pubDate>Fri, 24 Mar 2017 10:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-service-fabric-takes-first-tentative-steps-toward-open-source/</guid>
-      <description>&lt;p&gt;Microsoft&amp;rsquo;s embrace of open source software continues, with Azure Service Fabric making the first tentative foray into the open world. Today, the SDK &amp;hellip;  &lt;a href=&#34;https://arstechnica.com/information-technology/2017/03/azure-service-fabric-starts-moving-towards-open-source-with-sdk-published-on-github/&#34; onclick=&#34;trackOutboundLink(&#39;https://arstechnica.com/information-technology/2017/03/azure-service-fabric-starts-moving-towards-open-source-with-sdk-published-on-github/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
