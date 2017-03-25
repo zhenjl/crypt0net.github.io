@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 25 Mar 2017 02:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2017 06:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Use the OpenStackClient cmd instead of neutron cmd...</title>
+      <link>//crypt0.net/post/use-the-openstackclient-cmd-instead-of-neutron-cmd/</link>
+      <pubDate>Sat, 25 Mar 2017 06:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/use-the-openstackclient-cmd-instead-of-neutron-cmd/</guid>
+      <description>&lt;p&gt;Implements: blueprint use-openstack-command.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1675972&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1675972&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ceph OSD logs are not rotated</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/google-details-talk-transition-sms-removal-for-hangouts-other-g-suite/</guid>
       <description>&lt;p&gt;9to5Google Someone please explain this to me. My Droid as Google&amp;rsquo;s stock Messenger app. My Mac and PC have Google Cloud, where my music, pictures, email &amp;hellip;  &lt;a href=&#34;https://9to5google.com/2017/03/24/google-details-talk-transition-sms-removal-for-hangouts-other-g-suite-changes/&#34; onclick=&#34;trackOutboundLink(&#39;https://9to5google.com/2017/03/24/google-details-talk-transition-sms-removal-for-hangouts-other-g-suite-changes/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Recapping Google NEXT 2017: Deep Learning As A Service</title>
-      <link>//crypt0.net/post/recapping-google-next-2017-deep-learning-as-a-service/</link>
-      <pubDate>Fri, 24 Mar 2017 18:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/recapping-google-next-2017-deep-learning-as-a-service/</guid>
-      <description>&lt;p&gt;&amp;hellip; of thousands of labels and which worked well on imagery sourced from the non-Western world, until I came across Google&amp;rsquo;s Cloud Vision system.  &lt;a href=&#34;https://www.forbes.com/sites/kalevleetaru/2017/03/24/recapping-google-next-2017-deep-learning-as-a-service/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forbes.com/sites/kalevleetaru/2017/03/24/recapping-google-next-2017-deep-learning-as-a-service/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
