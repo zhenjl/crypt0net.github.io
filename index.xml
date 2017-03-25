@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 25 Mar 2017 02:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2017 02:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ceph OSD logs are not rotated</title>
+      <link>//crypt0.net/post/ceph-osd-logs-are-not-rotated/</link>
+      <pubDate>Sat, 25 Mar 2017 02:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/ceph-osd-logs-are-not-rotated/</guid>
+      <description>&lt;p&gt;cat /etc/logrotate.d/fuel.nodaily # managed by puppet.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1675759&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1675759&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[fuel-library] removing of enabled_drivers option breaks noop tests</title>
+      <link>//crypt0.net/post/fuellibrary-removing-of-enableddrivers-option-breaks-noop-tests/</link>
+      <pubDate>Sat, 25 Mar 2017 02:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/fuellibrary-removing-of-enableddrivers-option-breaks-noop-tests/</guid>
+      <description>&lt;p&gt;options for ironic, this makes noop tests fail with error: error during &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/fuel/+bug/1675684&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/fuel/+bug/1675684&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Alibaba taps technology behind bitcoin to tackle food fraud</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/using-cloud-dataflow-for-batch-predictions-with-tensorflow/</guid>
       <description>&lt;p&gt;the trained model is exported into a Google Cloud Storage bucket before &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/solutions/using-cloud-dataflow-for-batch-predictions-with-tensorflow&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/solutions/using-cloud-dataflow-for-batch-predictions-with-tensorflow&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Now in preview: Azure Active Directory Business to Consumer access tokens</title>
-      <link>//crypt0.net/post/now-in-preview-azure-active-directory-business-to-consumer-access-tokens/</link>
-      <pubDate>Fri, 24 Mar 2017 23:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/now-in-preview-azure-active-directory-business-to-consumer-access-tokens/</guid>
-      <description>&lt;p&gt;Directory Business to Consumer access tokens, boosting control of &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/03/24/now-in-preview-azure-active-directory-business-to-consumer-access-tokens/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/03/24/now-in-preview-azure-active-directory-business-to-consumer-access-tokens/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft and Toyota collaborate for advancing car tech</title>
-      <link>//crypt0.net/post/microsoft-and-toyota-collaborate-for-advancing-car-tech/</link>
-      <pubDate>Fri, 24 Mar 2017 23:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-and-toyota-collaborate-for-advancing-car-tech/</guid>
-      <description>&lt;p&gt;Toyota has already been collaborating with Microsoft since April 2016 for furthering its collected car technology, where Microsoft&amp;rsquo;s Azure cloud &amp;hellip;  &lt;a href=&#34;http://www.dnaindia.com/scitech/report-microsoft-and-toyota-collaborate-for-advancing-car-tech-2367097&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dnaindia.com/scitech/report-microsoft-and-toyota-collaborate-for-advancing-car-tech-2367097&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
