@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 25 Mar 2017 10:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2017 11:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dedicated Disaster Recovery User&#39;s Guide crawl here</title>
+      <link>//crypt0.net/post/dedicated-disaster-recovery-users-guide-crawl-here/</link>
+      <pubDate>Sat, 25 Mar 2017 11:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/dedicated-disaster-recovery-users-guide-crawl-here/</guid>
+      <description>&lt;p&gt;GUID-92F65D90-3E3A-4129-9C59-38DF29767D3E.html &amp;hellip;  &lt;a href=&#34;http://pubs.vmware.com/vca/topic/com.vmware.vca.ddr.ug.doc/crawler-index.html&#34; onclick=&#34;trackOutboundLink(&#39;http://pubs.vmware.com/vca/topic/com.vmware.vca.ddr.ug.doc/crawler-index.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cloud Native Computing Foundation (CNCF) Adds Linkerd, gRPC, and CoreDNS to</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;NeuroMesh&amp;rsquo;s solution is to send commands to devices secured by their technology via OP_RETURN codes in the bitcoin blockchain  code that &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/this-bitcoin-botnet-is-vying-to-be-future-of-secure-iot/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/this-bitcoin-botnet-is-vying-to-be-future-of-secure-iot/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ceph OSD logs are not rotated</title>
-      <link>//crypt0.net/post/ceph-osd-logs-are-not-rotated/</link>
-      <pubDate>Sat, 25 Mar 2017 02:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ceph-osd-logs-are-not-rotated/</guid>
-      <description>&lt;p&gt;cat /etc/logrotate.d/fuel.nodaily # managed by puppet.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1675759&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1675759&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
