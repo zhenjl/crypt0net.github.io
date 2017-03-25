@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 25 Mar 2017 09:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2017 10:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cloud Native Computing Foundation (CNCF) Adds Linkerd, gRPC, and CoreDNS to</title>
+      <link>//crypt0.net/post/cloud-native-computing-foundation-cncf-adds-linkerd-grpc-and-coredns-to/</link>
+      <pubDate>Sat, 25 Mar 2017 10:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cloud-native-computing-foundation-cncf-adds-linkerd-grpc-and-coredns-to/</guid>
+      <description>&lt;p&gt;InfoQ.com The current implementation is being used in several of Google&amp;rsquo;s cloud products and externally facing APIs. CoreOS&amp;rsquo;s etcd a distributed key/value store &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2017/03/cncf-growing-portfolio&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2017/03/cncf-growing-portfolio&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Compare Castle.io vs. MQTT Buddy</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/ceph-osd-logs-are-not-rotated/</guid>
       <description>&lt;p&gt;cat /etc/logrotate.d/fuel.nodaily # managed by puppet.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1675759&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1675759&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>[fuel-library] removing of enabled_drivers option breaks noop tests</title>
-      <link>//crypt0.net/post/fuellibrary-removing-of-enableddrivers-option-breaks-noop-tests/</link>
-      <pubDate>Sat, 25 Mar 2017 02:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/fuellibrary-removing-of-enableddrivers-option-breaks-noop-tests/</guid>
-      <description>&lt;p&gt;options for ironic, this makes noop tests fail with error: error during &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/fuel/+bug/1675684&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/fuel/+bug/1675684&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
