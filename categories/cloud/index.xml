@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 24 Mar 2017 23:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2017 00:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Would you trust windows in your Microsoft cars?</title>
+      <link>//crypt0.net/post/would-you-trust-windows-in-your-microsoft-cars/</link>
+      <pubDate>Sat, 25 Mar 2017 00:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/would-you-trust-windows-in-your-microsoft-cars/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Imagine your car alerting you to a problem, said Doug Seven, Principal Group Program Manager of Azure at Microsoft. It can connect to the platform &amp;hellip;  &lt;a href=&#34;http://fudzilla.com/news/43206-microsoft-begins-licensing-its-own-ip-for-connected-vehicles&#34; onclick=&#34;trackOutboundLink(&#39;http://fudzilla.com/news/43206-microsoft-begins-licensing-its-own-ip-for-connected-vehicles&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Using Cloud Dataflow for Batch Predictions with TensorFlow</title>
@@ -252,18 +264,6 @@
       
       <guid>//crypt0.net/post/gemalto-offers-microsoft-azure-clients-a-new-security-tool/</guid>
       <description>&lt;p&gt;Gemalto is offering Microsoft Azure clients a new security tool. The company has announced that its Hold Your Own Key (HYOK) capability based on &amp;hellip;  &lt;a href=&#34;http://mobileidworld.com/gemalto-microsoft-azure-security-003242/&#34; onclick=&#34;trackOutboundLink(&#39;http://mobileidworld.com/gemalto-microsoft-azure-security-003242/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cloud SQL for PostgreSQL  Get your database cloud ready</title>
-      <link>//crypt0.net/post/cloud-sql-for-postgresql--get-your-database-cloud-ready/</link>
-      <pubDate>Fri, 24 Mar 2017 15:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloud-sql-for-postgresql--get-your-database-cloud-ready/</guid>
-      <description>&lt;p&gt;administrators! Cloud SQL for PostgreSQL is now available on Google &amp;hellip;  &lt;a href=&#34;https://www.geospatialworld.net/cloud-sql-postgresql-database-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.geospatialworld.net/cloud-sql-postgresql-database-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
