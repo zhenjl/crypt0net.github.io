@@ -7,8 +7,78 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 25 Mar 2017 11:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2017 18:05:01 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Cloud Computing News from @cloudfeednet - Mar 25, 2017</title>
+      <link>//crypt0.net/daily/daily-cloud-news-2017-03-25/</link>
+      <pubDate>Sat, 25 Mar 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-cloud-news-2017-03-25/</guid>
+      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google details Talk transition, SMS removal for Hangouts, other G Suite&lt;/h3&gt;
+&lt;p&gt;9to5Google Someone please explain this to me. My Droid as Google&amp;rsquo;s stock Messenger app. My Mac and PC have Google Cloud, where my music, pictures, email &amp;hellip;  &lt;a href=&#34;https://9to5google.com/2017/03/24/google-details-talk-transition-sms-removal-for-hangouts-other-g-suite-changes/&#34; onclick=&#34;trackOutboundLink(&#39;https://9to5google.com/2017/03/24/google-details-talk-transition-sms-removal-for-hangouts-other-g-suite-changes/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Open Sources Azure Service Fabric .NET SDK&lt;/h3&gt;
+&lt;p&gt;Microsoft has open-sourced a small portion of its Azure Service Fabric SDK, with plans to open more in the future. The effort signals the company&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;https://winbuzzer.com/2017/03/24/microsoft-open-sources-azure-service-fabric-net-sdk-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/03/24/microsoft-open-sources-azure-service-fabric-net-sdk-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Announces Azure Support for Multi-Member Consortium Blockchain&lt;/h3&gt;
+&lt;p&gt;WinBuzzer Microsoft&amp;rsquo;s multi-member consortium blockchain templates allow for easy deployment across Azure regions and in a variety of usage scenarios.  &lt;a href=&#34;https://winbuzzer.com/2017/03/24/microsoft-announces-azure-support-multi-member-consortium-blockchain-networks-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/03/24/microsoft-announces-azure-support-multi-member-consortium-blockchain-networks-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;AWS acquisition of Thinkbox could lead to more heavy-duty tools, users&lt;/h3&gt;
+&lt;p&gt;Earlier this month, Amazon Web Services acquired Thinkbox Software, which provides a suite of image and particle-rendering management and &amp;hellip;  &lt;a href=&#34;http://searchaws.techtarget.com/news/450415562/AWS-acquisition-of-Thinkbox-could-lead-to-more-heavy-duty-tools-users&#34; onclick=&#34;trackOutboundLink(&#39;http://searchaws.techtarget.com/news/450415562/AWS-acquisition-of-Thinkbox-could-lead-to-more-heavy-duty-tools-users&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Cloud &amp;amp; YouTube-8M Video Understanding Challenge&lt;/h3&gt;
+&lt;p&gt;partition=1/frame_level/train mirror=us python It downloads a file: &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/30624/curl-python-method-error?forumMessageId=170324&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/30624/curl-python-method-error?forumMessageId=170324&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft and Toyota collaborate for advancing car tech&lt;/h3&gt;
+&lt;p&gt;Toyota has already been collaborating with Microsoft since April 2016 for furthering its collected car technology, where Microsoft&amp;rsquo;s Azure cloud &amp;hellip;  &lt;a href=&#34;http://www.dnaindia.com/scitech/report-microsoft-and-toyota-collaborate-for-advancing-car-tech-2367097&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dnaindia.com/scitech/report-microsoft-and-toyota-collaborate-for-advancing-car-tech-2367097&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Now in preview: Azure Active Directory Business to Consumer access tokens&lt;/h3&gt;
+&lt;p&gt;Directory Business to Consumer access tokens, boosting control of &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/03/24/now-in-preview-azure-active-directory-business-to-consumer-access-tokens/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/03/24/now-in-preview-azure-active-directory-business-to-consumer-access-tokens/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Using Cloud Dataflow for Batch Predictions with TensorFlow&lt;/h3&gt;
+&lt;p&gt;the trained model is exported into a Google Cloud Storage bucket before &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/solutions/using-cloud-dataflow-for-batch-predictions-with-tensorflow&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/solutions/using-cloud-dataflow-for-batch-predictions-with-tensorflow&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Would you trust windows in your Microsoft cars?&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Imagine your car alerting you to a problem, said Doug Seven, Principal Group Program Manager of Azure at Microsoft. It can connect to the platform &amp;hellip;  &lt;a href=&#34;http://fudzilla.com/news/43206-microsoft-begins-licensing-its-own-ip-for-connected-vehicles&#34; onclick=&#34;trackOutboundLink(&#39;http://fudzilla.com/news/43206-microsoft-begins-licensing-its-own-ip-for-connected-vehicles&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;inventory overrides causing dynamic_inventory.py to stacktrace&lt;/h3&gt;
+&lt;p&gt;generate.main(**all_args) File &amp;ldquo;/opt/openstack-ansible/playbooks/inventory/../../lib/generate.py&amp;rdquo; &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1675810&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1675810&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;For Cutting Edge IT, You&amp;rsquo;ll Need the Cloud&lt;/h3&gt;
+&lt;p&gt;And Microsoft is adding new Big Data and AI capabilities to its Azure Government Cloud. Two key services are the Power BI Pro and HD Insights data &amp;hellip;  &lt;a href=&#34;http://www.itbusinessedge.com/blogs/infrastructure/for-cutting-edge-it-youll-need-the-cloud.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itbusinessedge.com/blogs/infrastructure/for-cutting-edge-it-youll-need-the-cloud.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Cloud &amp;amp; YouTube-8M Video Understanding Challenge&lt;/h3&gt;
+&lt;p&gt;of the labels. I thought it&amp;rsquo;ll be a simple task, but it has taken me more than &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/30564/tensorflow-issue-help-appreciated?forumMessageId=170318&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/30564/tensorflow-issue-help-appreciated?forumMessageId=170318&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Does TSCO 10.7 support V3 of the Openstack API?&lt;/h3&gt;
+&lt;p&gt;documentation the v2 API is deprecated. The 10.7 documentation still refers &amp;hellip;  &lt;a href=&#34;https://communities.bmc.com/thread/162523?start=0&amp;tstart=0&#34; onclick=&#34;trackOutboundLink(&#39;https://communities.bmc.com/thread/162523?start=0&amp;tstart=0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Ceph OSD logs are not rotated&lt;/h3&gt;
+&lt;p&gt;cat /etc/logrotate.d/fuel.nodaily # managed by puppet.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1675759&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1675759&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;[fuel-library] removing of enabled_drivers option breaks noop tests&lt;/h3&gt;
+&lt;p&gt;options for ironic, this makes noop tests fail with error: error during &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/fuel/+bug/1675684&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/fuel/+bug/1675684&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Use the OpenStackClient cmd instead of neutron cmd&amp;hellip;&lt;/h3&gt;
+&lt;p&gt;Implements: blueprint use-openstack-command.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1675972&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1675972&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Hangouts will stop supporting SMS and Google Talk killed; where will&lt;/h3&gt;
+&lt;p&gt;International Business Times, India Edition Those who followed this year&amp;rsquo;s Google Cloud Next developer conference might be anticipating change coming to the company&amp;rsquo;s messaging platforms &amp;hellip;  &lt;a href=&#34;http://www.ibtimes.co.in/google-hangouts-will-stop-supporting-sms-google-talk-killed-where-will-your-messages-go-now-720819&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ibtimes.co.in/google-hangouts-will-stop-supporting-sms-google-talk-killed-where-will-your-messages-go-now-720819&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Cloud Native Computing Foundation (CNCF) Adds Linkerd, gRPC, and CoreDNS to&lt;/h3&gt;
+&lt;p&gt;InfoQ.com The current implementation is being used in several of Google&amp;rsquo;s cloud products and externally facing APIs. CoreOS&amp;rsquo;s etcd a distributed key/value store &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2017/03/cncf-growing-portfolio&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2017/03/cncf-growing-portfolio&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Dedicated Disaster Recovery User&amp;rsquo;s Guide crawl here&lt;/h3&gt;
+&lt;p&gt;GUID-92F65D90-3E3A-4129-9C59-38DF29767D3E.html &amp;hellip;  &lt;a href=&#34;http://pubs.vmware.com/vca/topic/com.vmware.vca.ddr.ug.doc/crawler-index.html&#34; onclick=&#34;trackOutboundLink(&#39;http://pubs.vmware.com/vca/topic/com.vmware.vca.ddr.ug.doc/crawler-index.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;An issue Nexus 5X and 6P makes camera pics disappear after a while [with&lt;/h3&gt;
+&lt;p&gt;TheAndroidSoul (blog) Google Photos offers literally unlimited syncing of photos to Google&amp;rsquo;s cloud storage. To be honest, the unlimited storage option is only for High quality &amp;hellip;  &lt;a href=&#34;http://www.theandroidsoul.com/an-issue-nexus-5x-and-6p-makes-camera-pics-disappear/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theandroidsoul.com/an-issue-nexus-5x-and-6p-makes-camera-pics-disappear/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An issue Nexus 5X and 6P makes camera pics disappear after a while [with</title>
@@ -173,18 +243,6 @@
       
       <guid>//crypt0.net/post/now-in-preview-azure-active-directory-business-to-consumer-access-tokens/</guid>
       <description>&lt;p&gt;Directory Business to Consumer access tokens, boosting control of &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/03/24/now-in-preview-azure-active-directory-business-to-consumer-access-tokens/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/03/24/now-in-preview-azure-active-directory-business-to-consumer-access-tokens/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft and Toyota collaborate for advancing car tech</title>
-      <link>//crypt0.net/post/microsoft-and-toyota-collaborate-for-advancing-car-tech/</link>
-      <pubDate>Fri, 24 Mar 2017 23:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-and-toyota-collaborate-for-advancing-car-tech/</guid>
-      <description>&lt;p&gt;Toyota has already been collaborating with Microsoft since April 2016 for furthering its collected car technology, where Microsoft&amp;rsquo;s Azure cloud &amp;hellip;  &lt;a href=&#34;http://www.dnaindia.com/scitech/report-microsoft-and-toyota-collaborate-for-advancing-car-tech-2367097&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dnaindia.com/scitech/report-microsoft-and-toyota-collaborate-for-advancing-car-tech-2367097&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

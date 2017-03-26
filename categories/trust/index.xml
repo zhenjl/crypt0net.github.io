@@ -7,8 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 25 Mar 2017 06:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2017 18:05:01 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Security News from @trustpath - Mar 25, 2017</title>
+      <link>//crypt0.net/daily/daily-trust-news-2017-03-25/</link>
+      <pubDate>Sat, 25 Mar 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-trust-news-2017-03-25/</guid>
+      <description>&lt;p&gt;Daily Security news from &lt;a href=&#34;http://twitter.com/trustpath&#34;&gt;@trustpath&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Senate Vote Threatens Consumer Data Security&lt;/h3&gt;
+&lt;p&gt;At a time when data breaches routinely expose consumers to identity theft and other fraud, according to advocates at the National Consumers League &amp;hellip;  &lt;a href=&#34;http://www.ladailypost.com/content/senate-vote-threatens-consumer-data-security&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ladailypost.com/content/senate-vote-threatens-consumer-data-security&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Senate Vote Threatens Consumer Data Security</title>
@@ -228,18 +241,6 @@
       
       <guid>//crypt0.net/post/balabit-cofounder-and-cto-balazs-scheidler-honored-as-gold-winner-for/</guid>
       <description>&lt;p&gt;Yahoo Finance Scheidler is CTO and co-founder of Balabit, and the inventor of several IT security B2B software solutions that aim to prevent data breaches without &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/balabit-co-founder-cto-balazs-090000588.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/balabit-co-founder-cto-balazs-090000588.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Payment Processor Secures Global Network with Stealthwatch</title>
-      <link>//crypt0.net/post/payment-processor-secures-global-network-with-stealthwatch/</link>
-      <pubDate>Thu, 23 Mar 2017 19:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/payment-processor-secures-global-network-with-stealthwatch/</guid>
-      <description>&lt;p&gt;As Stealthwatch collects NetFlow, it builds a baseline of normal network behavior. When a host displays behavior that exceeds thresholds of expected &amp;hellip;  &lt;a href=&#34;http://blogs.cisco.com/security/payment-processor-secures-global-network-with-stealthwatch&#34; onclick=&#34;trackOutboundLink(&#39;http://blogs.cisco.com/security/payment-processor-secures-global-network-with-stealthwatch&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
