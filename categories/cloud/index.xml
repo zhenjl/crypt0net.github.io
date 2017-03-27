@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 26 Mar 2017 21:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Mar 2017 03:30:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Introduced Azure-Based Cloud Platform</title>
+      <link>//crypt0.net/post/microsoft-introduced-azurebased-cloud-platform/</link>
+      <pubDate>Mon, 27 Mar 2017 03:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-introduced-azurebased-cloud-platform/</guid>
+      <description>&lt;p&gt;Microsoft didn&amp;rsquo;t believe in creating its own connected car but has developed an exclusive Azure-based cloud platform that can be utilized by the car &amp;hellip;  &lt;a href=&#34;http://talkdailynews.com/microsoft-introduced-azure-based-cloud-platform/&#34; onclick=&#34;trackOutboundLink(&#39;http://talkdailynews.com/microsoft-introduced-azure-based-cloud-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Azure announces support for multi-member consortium blockchain</title>
@@ -235,18 +247,6 @@
       
       <guid>//crypt0.net/post/fuellibrary-removing-of-enableddrivers-option-breaks-noop-tests/</guid>
       <description>&lt;p&gt;options for ironic, this makes noop tests fail with error: error during &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/fuel/+bug/1675684&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/fuel/+bug/1675684&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Does TSCO 10.7 support V3 of the Openstack API?</title>
-      <link>//crypt0.net/post/does-tsco-107-support-v3-of-the-openstack-api/</link>
-      <pubDate>Sat, 25 Mar 2017 02:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/does-tsco-107-support-v3-of-the-openstack-api/</guid>
-      <description>&lt;p&gt;documentation the v2 API is deprecated. The 10.7 documentation still refers &amp;hellip;  &lt;a href=&#34;https://communities.bmc.com/thread/162523?start=0&amp;tstart=0&#34; onclick=&#34;trackOutboundLink(&#39;https://communities.bmc.com/thread/162523?start=0&amp;tstart=0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
