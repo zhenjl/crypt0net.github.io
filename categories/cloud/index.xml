@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 27 Mar 2017 04:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Mar 2017 10:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google drops SMS from Hangouts, adds enterprise features</title>
+      <link>//crypt0.net/post/google-drops-sms-from-hangouts-adds-enterprise-features/</link>
+      <pubDate>Mon, 27 Mar 2017 10:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-drops-sms-from-hangouts-adds-enterprise-features/</guid>
+      <description>&lt;p&gt;At its recent Google Cloud Next conference the company also announced the introduction of Hangouts Meet and Hangouts chat for business users.  &lt;a href=&#34;https://www.telecompaper.com/news/google-drops-sms-from-hangouts-adds-enterprise-features--1189636&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/google-drops-sms-from-hangouts-adds-enterprise-features--1189636&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Bubble.is app which which lists google cloud storage files</title>
@@ -235,18 +247,6 @@
       
       <guid>//crypt0.net/post/google-hangouts-will-stop-supporting-sms-and-google-talk-killed-where-will/</guid>
       <description>&lt;p&gt;International Business Times, India Edition Those who followed this year&amp;rsquo;s Google Cloud Next developer conference might be anticipating change coming to the company&amp;rsquo;s messaging platforms &amp;hellip;  &lt;a href=&#34;http://www.ibtimes.co.in/google-hangouts-will-stop-supporting-sms-google-talk-killed-where-will-your-messages-go-now-720819&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ibtimes.co.in/google-hangouts-will-stop-supporting-sms-google-talk-killed-where-will-your-messages-go-now-720819&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Use the OpenStackClient cmd instead of neutron cmd...</title>
-      <link>//crypt0.net/post/use-the-openstackclient-cmd-instead-of-neutron-cmd/</link>
-      <pubDate>Sat, 25 Mar 2017 06:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/use-the-openstackclient-cmd-instead-of-neutron-cmd/</guid>
-      <description>&lt;p&gt;Implements: blueprint use-openstack-command.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1675972&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1675972&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
