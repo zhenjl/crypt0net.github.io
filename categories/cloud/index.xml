@@ -7,8 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 26 Mar 2017 15:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Mar 2017 18:05:01 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Cloud Computing News from @cloudfeednet - Mar 26, 2017</title>
+      <link>//crypt0.net/daily/daily-cloud-news-2017-03-26/</link>
+      <pubDate>Sun, 26 Mar 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-cloud-news-2017-03-26/</guid>
+      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Citrix may be selling, but is Microsoft buying?&lt;/h3&gt;
+&lt;p&gt;Spanning Windows 10, Office 365 and Microsoft Azure, compatible Citrix solutions include XenMobile, XenApp, XenDesktop, ShareFile and NetScaler &amp;hellip;  &lt;a href=&#34;http://www.reseller.co.nz/article/616611/citrix-may-selling-microsoft-buying/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.reseller.co.nz/article/616611/citrix-may-selling-microsoft-buying/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google to bring artificial intelligence into daily life&lt;/h3&gt;
+&lt;p&gt;Google&amp;rsquo;s cloud platform already delivers customer applications to over a billion users every day, said Fei-Fei Li, chief scientist of AI and machine &amp;hellip;  &lt;a href=&#34;http://www.thehindu.com/business/Industry/google-to-bring-artificial-intelligence-into-daily-life/article17668274.ece&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thehindu.com/business/Industry/google-to-bring-artificial-intelligence-into-daily-life/article17668274.ece&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google to bring artificial intelligence into daily life</title>
@@ -231,18 +247,6 @@
       
       <guid>//crypt0.net/post/inventory-overrides-causing-dynamicinventorypy-to-stacktrace/</guid>
       <description>&lt;p&gt;generate.main(**all_args) File &amp;ldquo;/opt/openstack-ansible/playbooks/inventory/../../lib/generate.py&amp;rdquo; &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1675810&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1675810&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Would you trust windows in your Microsoft cars?</title>
-      <link>//crypt0.net/post/would-you-trust-windows-in-your-microsoft-cars/</link>
-      <pubDate>Sat, 25 Mar 2017 00:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/would-you-trust-windows-in-your-microsoft-cars/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Imagine your car alerting you to a problem, said Doug Seven, Principal Group Program Manager of Azure at Microsoft. It can connect to the platform &amp;hellip;  &lt;a href=&#34;http://fudzilla.com/news/43206-microsoft-begins-licensing-its-own-ip-for-connected-vehicles&#34; onclick=&#34;trackOutboundLink(&#39;http://fudzilla.com/news/43206-microsoft-begins-licensing-its-own-ip-for-connected-vehicles&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
