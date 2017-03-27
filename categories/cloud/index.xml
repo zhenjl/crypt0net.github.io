@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 27 Mar 2017 03:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Mar 2017 04:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google plans to use artificial intelligence to improve quality of life</title>
+      <link>//crypt0.net/post/google-plans-to-use-artificial-intelligence-to-improve-quality-of-life/</link>
+      <pubDate>Mon, 27 Mar 2017 04:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-plans-to-use-artificial-intelligence-to-improve-quality-of-life/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Google&amp;rsquo;s cloud platform already delivers customer applications to over a billion users every day, Now if you can only imagine, combining the massive &amp;hellip;  &lt;a href=&#34;http://www.gizbot.com/internet/news/google-plans-use-artificial-intelligence-improve-quality-life-039449.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gizbot.com/internet/news/google-plans-use-artificial-intelligence-improve-quality-life-039449.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Introduced Azure-Based Cloud Platform</title>
@@ -235,18 +247,6 @@
       
       <guid>//crypt0.net/post/ceph-osd-logs-are-not-rotated/</guid>
       <description>&lt;p&gt;cat /etc/logrotate.d/fuel.nodaily # managed by puppet.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1675759&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1675759&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>[fuel-library] removing of enabled_drivers option breaks noop tests</title>
-      <link>//crypt0.net/post/fuellibrary-removing-of-enableddrivers-option-breaks-noop-tests/</link>
-      <pubDate>Sat, 25 Mar 2017 02:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/fuellibrary-removing-of-enableddrivers-option-breaks-noop-tests/</guid>
-      <description>&lt;p&gt;options for ironic, this makes noop tests fail with error: error during &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/fuel/+bug/1675684&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/fuel/+bug/1675684&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
