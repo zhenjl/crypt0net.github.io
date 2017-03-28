@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 28 Mar 2017 00:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2017 00:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cloud Pub/Sub Notifications for Google Cloud Storage</title>
+      <link>//crypt0.net/post/cloud-pubsub-notifications-for-google-cloud-storage/</link>
+      <pubDate>Tue, 28 Mar 2017 00:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cloud-pubsub-notifications-for-google-cloud-storage/</guid>
+      <description>&lt;p&gt;Google Cloud Storage. To learn how to set up and use Cloud Pub/Sub &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/storage/docs/pubsub-notifications&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/storage/docs/pubsub-notifications&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Even Ikea wants to make the humble light switch &#39;smart&#39;</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;&amp;hellip; gathering is through greater collaboration, to help businesses prevent, detect and respond to cyberattacks that can lead to payment data breaches.  &lt;a href=&#34;http://www.huffingtonpost.co.za/stephen-w-orfei/expanding-opportunities-in-cybersecurity-for-south-africa_a_22013422/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.huffingtonpost.co.za/stephen-w-orfei/expanding-opportunities-in-cybersecurity-for-south-africa_a_22013422/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IoT is significantly changing the way businesses and communities do things;</title>
-      <link>//crypt0.net/post/iot-is-significantly-changing-the-way-businesses-and-communities-do-things/</link>
-      <pubDate>Mon, 27 Mar 2017 22:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/iot-is-significantly-changing-the-way-businesses-and-communities-do-things/</guid>
-      <description>&lt;p&gt;e27 The internet-of-things (popularly referred to as IoT) is a concept that has been in the works since the 1990s. In fact, the ATM machines that we use &amp;hellip;  &lt;a href=&#34;https://e27.co/internet-things-bedrock-building-connected-20170317/&#34; onclick=&#34;trackOutboundLink(&#39;https://e27.co/internet-things-bedrock-building-connected-20170317/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
