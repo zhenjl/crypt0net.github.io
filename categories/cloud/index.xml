@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 28 Mar 2017 16:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2017 16:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introducing Fanatical Support for Microsoft Azure Stack</title>
+      <link>//crypt0.net/post/introducing-fanatical-support-for-microsoft-azure-stack/</link>
+      <pubDate>Tue, 28 Mar 2017 16:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/introducing-fanatical-support-for-microsoft-azure-stack/</guid>
+      <description>&lt;p&gt;services with the launch of Fanatical Support for Microsoft Azure Stack.  &lt;a href=&#34;https://blog.rackspace.com/introducing-fanatical-support-microsoft-azure-stack&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.rackspace.com/introducing-fanatical-support-microsoft-azure-stack&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OneAgent &amp; Security Gateway release notes for version 115</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/deploying-hybrid-storage-with-cloudian-and-google-cloud-storage/</guid>
       <description>&lt;p&gt;to store data locally on Cloudian and tier data to GCP using configurable &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/solutions/partners/cloudian-deploying-hybrid-storage&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/solutions/partners/cloudian-deploying-hybrid-storage&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AWS launches Amazon Connect, a cloud contact center as a service</title>
-      <link>//crypt0.net/post/aws-launches-amazon-connect-a-cloud-contact-center-as-a-service/</link>
-      <pubDate>Tue, 28 Mar 2017 11:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aws-launches-amazon-connect-a-cloud-contact-center-as-a-service/</guid>
-      <description>&lt;p&gt;How AWS&amp;rsquo; Chime, cloud business productivity apps play into Microsoft Azure, Google Cloud battle | Stacking up the cloud vendors: AWS vs. Microsoft &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/aws-launches-connect-a-cloud-contact-center-as-a-service/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/aws-launches-connect-a-cloud-contact-center-as-a-service/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

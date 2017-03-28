@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 28 Mar 2017 16:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2017 16:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introducing Fanatical Support for Microsoft Azure Stack</title>
+      <link>//crypt0.net/post/introducing-fanatical-support-for-microsoft-azure-stack/</link>
+      <pubDate>Tue, 28 Mar 2017 16:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/introducing-fanatical-support-for-microsoft-azure-stack/</guid>
+      <description>&lt;p&gt;services with the launch of Fanatical Support for Microsoft Azure Stack.  &lt;a href=&#34;https://blog.rackspace.com/introducing-fanatical-support-microsoft-azure-stack&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.rackspace.com/introducing-fanatical-support-microsoft-azure-stack&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keep it simple: Use the FetchItGo remote to control your smart home devices</title>
+      <link>//crypt0.net/post/keep-it-simple-use-the-fetchitgo-remote-to-control-your-smart-home-devices/</link>
+      <pubDate>Tue, 28 Mar 2017 16:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/keep-it-simple-use-the-fetchitgo-remote-to-control-your-smart-home-devices/</guid>
+      <description>&lt;p&gt;Did you really sign on to be your family&amp;rsquo;s smart home device manager? Equipping your home with a suite of smart home devices can make your home &amp;hellip;  &lt;a href=&#34;http://www.digitaltrends.com/home/fetchitgo-iot-remote/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digitaltrends.com/home/fetchitgo-iot-remote/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OneAgent &amp; Security Gateway release notes for version 115</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/red-hats-big-bet-on-the-cloud-seen-as-a-revenue-driver/</guid>
       <description>&lt;p&gt;Red Hat&amp;rsquo;s (RHT) big bet on OpenStack, a cloud computing software standard, seems to be paying off in the wake of its fourth-quarter revenue beat, say &amp;hellip;  &lt;a href=&#34;http://www.investors.com/news/technology/red-hat-openstack-cloud-strategy-seen-revenue-driver/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.investors.com/news/technology/red-hat-openstack-cloud-strategy-seen-revenue-driver/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Consolidate Sprawling Data Centers, in the Cloud, with VMware vCloud Air</title>
-      <link>//crypt0.net/post/consolidate-sprawling-data-centers-in-the-cloud-with-vmware-vcloud-air/</link>
-      <pubDate>Tue, 28 Mar 2017 13:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/consolidate-sprawling-data-centers-in-the-cloud-with-vmware-vcloud-air/</guid>
-      <description>&lt;p&gt;lift and shift your existing on premises data center infrastructure to a secure &amp;hellip;  &lt;a href=&#34;https://blogs.vmware.com/vcloud/2017/03/consolidate-sprawling-data-centers-cloud-vmware-vcloud-air.html&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.vmware.com/vcloud/2017/03/consolidate-sprawling-data-centers-cloud-vmware-vcloud-air.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Core OS offers Tectonic preview for Microsoft Azure</title>
-      <link>//crypt0.net/post/core-os-offers-tectonic-preview-for-microsoft-azure/</link>
-      <pubDate>Tue, 28 Mar 2017 13:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/core-os-offers-tectonic-preview-for-microsoft-azure/</guid>
-      <description>&lt;p&gt;If you recall the early days of Docker and OpenStack, it was quite a challenge to get OpenStack cloud up and running, and even when you got it &amp;hellip;  &lt;a href=&#34;http://www.cio.com/article/3185422/open-source-tools/core-os-offers-tectonic-preview-for-microsoft-azure.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3185422/open-source-tools/core-os-offers-tectonic-preview-for-microsoft-azure.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
