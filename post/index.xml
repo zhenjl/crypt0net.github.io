@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 28 Mar 2017 16:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2017 16:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OneAgent &amp; Security Gateway release notes for version 115</title>
+      <link>//crypt0.net/post/oneagent--security-gateway-release-notes-for-version-115/</link>
+      <pubDate>Tue, 28 Mar 2017 16:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/oneagent--security-gateway-release-notes-for-version-115/</guid>
+      <description>&lt;p&gt;HTTPS support for Keystone endpoint in OpenStack project configuration. Fix for running VM metrics. Metrics now only reflect VMs that have active &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/4043781&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/4043781&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure Autoscaling with VMSS and Managed Disks, Part 3: Vertical Autoscaling</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/core-os-offers-tectonic-preview-for-microsoft-azure/</guid>
       <description>&lt;p&gt;If you recall the early days of Docker and OpenStack, it was quite a challenge to get OpenStack cloud up and running, and even when you got it &amp;hellip;  &lt;a href=&#34;http://www.cio.com/article/3185422/open-source-tools/core-os-offers-tectonic-preview-for-microsoft-azure.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3185422/open-source-tools/core-os-offers-tectonic-preview-for-microsoft-azure.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Red Hat: OpenStack big, getting bigger, OpenShift fatter than Linux</title>
-      <link>//crypt0.net/post/red-hat-openstack-big-getting-bigger-openshift-fatter-than-linux/</link>
-      <pubDate>Tue, 28 Mar 2017 13:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/red-hat-openstack-big-getting-bigger-openshift-fatter-than-linux/</guid>
-      <description>&lt;p&gt;OpenStack drove a chunk of Red Hat&amp;rsquo;s largest deals during the fourth quarter, with cloud proving more lucrative than its trademark Linux business.  &lt;a href=&#34;https://www.theregister.co.uk/2017/03/28/red_hat_cloud_quarter/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/03/28/red_hat_cloud_quarter/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

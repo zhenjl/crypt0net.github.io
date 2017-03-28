@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 28 Mar 2017 16:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2017 16:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OneAgent &amp; Security Gateway release notes for version 115</title>
+      <link>//crypt0.net/post/oneagent--security-gateway-release-notes-for-version-115/</link>
+      <pubDate>Tue, 28 Mar 2017 16:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/oneagent--security-gateway-release-notes-for-version-115/</guid>
+      <description>&lt;p&gt;HTTPS support for Keystone endpoint in OpenStack project configuration. Fix for running VM metrics. Metrics now only reflect VMs that have active &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/4043781&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/4043781&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure Autoscaling with VMSS and Managed Disks, Part 3: Vertical Autoscaling</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/aws-launches-amazon-connect-a-cloud-contact-center-as-a-service/</guid>
       <description>&lt;p&gt;How AWS&amp;rsquo; Chime, cloud business productivity apps play into Microsoft Azure, Google Cloud battle | Stacking up the cloud vendors: AWS vs. Microsoft &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/aws-launches-connect-a-cloud-contact-center-as-a-service/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/aws-launches-connect-a-cloud-contact-center-as-a-service/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Qualys Delivers Continuous Security and Compliance to Google Cloud Platform</title>
-      <link>//crypt0.net/post/qualys-delivers-continuous-security-and-compliance-to-google-cloud-platform/</link>
-      <pubDate>Tue, 28 Mar 2017 11:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/qualys-delivers-continuous-security-and-compliance-to-google-cloud-platform/</guid>
-      <description>&lt;p&gt;PR Newswire (press release) Qualys Virtual Scanner Appliance (QVSA) can now be directly deployed from the Google Cloud Launcher to GCP. With a single click, GCP users can &amp;hellip;  &lt;a href=&#34;http://www.prnewswire.com/news-releases/qualys-delivers-continuous-security-and-compliance-to-google-cloud-platform-customers-300430034.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prnewswire.com/news-releases/qualys-delivers-continuous-security-and-compliance-to-google-cloud-platform-customers-300430034.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
