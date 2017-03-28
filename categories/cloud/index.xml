@@ -7,8 +7,56 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 28 Mar 2017 11:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2017 12:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building a Scalable Online Game with Azure - Part 5</title>
+      <link>//crypt0.net/post/building-a-scalable-online-game-with-azure--part-5/</link>
+      <pubDate>Tue, 28 Mar 2017 12:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/building-a-scalable-online-game-with-azure--part-5/</guid>
+      <description>&lt;p&gt;Sign in to the Microsoft account that you used for accessing the Azure portal. Select the connection endpoint we&amp;rsquo;ve just set up in the Azure portal.  &lt;a href=&#34;http://www.gamasutra.com/blogs/NickPruehs/20170328/294536/Building_a_Scalable_Online_Game_with_Azure__Part_5.php&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gamasutra.com/blogs/NickPruehs/20170328/294536/Building_a_Scalable_Online_Game_with_Azure__Part_5.php&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Core OS offers Tectonic preview for Microsoft Azure</title>
+      <link>//crypt0.net/post/core-os-offers-tectonic-preview-for-microsoft-azure/</link>
+      <pubDate>Tue, 28 Mar 2017 12:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/core-os-offers-tectonic-preview-for-microsoft-azure/</guid>
+      <description>&lt;p&gt;In addition to offering a preview for Microsoft Azure, Core OS has also improved the installer to offer customization options.  &lt;a href=&#34;http://www.cio.com/article/3185422/open-source-tools/core-os-offers-tectonic-preview-for-microsoft-azure.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3185422/open-source-tools/core-os-offers-tectonic-preview-for-microsoft-azure.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Driving digital innovation with Couchbase in the Microsoft Azure cloud</title>
+      <link>//crypt0.net/post/driving-digital-innovation-with-couchbase-in-the-microsoft-azure-cloud/</link>
+      <pubDate>Tue, 28 Mar 2017 12:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/driving-digital-innovation-with-couchbase-in-the-microsoft-azure-cloud/</guid>
+      <description>&lt;p&gt;Microsoft Azure is a collection of integrated cloud services for building, deploying, and managing applications through Microsoft&amp;rsquo;s global network of &amp;hellip;  &lt;a href=&#34;http://www.techrepublic.com/resource-library/webcasts/driving-digital-innovation-with-couchbase-in-the-microsoft-azure-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techrepublic.com/resource-library/webcasts/driving-digital-innovation-with-couchbase-in-the-microsoft-azure-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publicis Groupe, Microsoft Partner To Custom Build Experiences Through AI</title>
+      <link>//crypt0.net/post/publicis-groupe-microsoft-partner-to-custom-build-experiences-through-ai/</link>
+      <pubDate>Tue, 28 Mar 2017 12:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/publicis-groupe-microsoft-partner-to-custom-build-experiences-through-ai/</guid>
+      <description>&lt;p&gt;A decade-long partnership between Publicis Groupe and Microsoft has &amp;hellip; and artificial intelligence designed for marketing with Microsoft Azure and &amp;hellip;  &lt;a href=&#34;http://www.mediapost.com/publications/article/298066/publicis-groupe-microsoft-partner-to-custom-build.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.mediapost.com/publications/article/298066/publicis-groupe-microsoft-partner-to-custom-build.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deploying Hybrid Storage with Cloudian and Google Cloud Storage</title>
@@ -137,54 +185,6 @@
       
       <guid>//crypt0.net/post/artificial-intelligence-is-impacting-our-workplace-and-everyday-lives/</guid>
       <description>&lt;p&gt;&amp;hellip; precision GFLOPS (20,000,000,000,000) which is 100% more than the cloud offerings from Amazon Web Services, Google Cloud and IBM Softlayer &amp;hellip;  &lt;a href=&#34;https://www.suasnews.com/2017/03/artificial-intelligence-impacting-workplace-everyday-lives/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.suasnews.com/2017/03/artificial-intelligence-impacting-workplace-everyday-lives/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Is it possible to use a private Google Cloud Storage instance?</title>
-      <link>//crypt0.net/post/is-it-possible-to-use-a-private-google-cloud-storage-instance/</link>
-      <pubDate>Mon, 27 Mar 2017 20:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/is-it-possible-to-use-a-private-google-cloud-storage-instance/</guid>
-      <description>&lt;p&gt;(&lt;a href=&#34;https://github.com/Rise-Vision/rise-vision-apps&#34;&gt;https://github.com/Rise-Vision/rise-vision-apps&lt;/a&gt;) and built it. Now I was wondering if I could modify it &amp;hellip;  &lt;a href=&#34;https://community.risevision.com/rise_vision_inc/topics/is-it-possible-to-use-a-private-google-cloud-storage-instance&#34; onclick=&#34;trackOutboundLink(&#39;https://community.risevision.com/rise_vision_inc/topics/is-it-possible-to-use-a-private-google-cloud-storage-instance&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Feature Checks for Defects in VM Backups</title>
-      <link>//crypt0.net/post/microsoft-azure-feature-checks-for-defects-in-vm-backups/</link>
-      <pubDate>Mon, 27 Mar 2017 19:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-feature-checks-for-defects-in-vm-backups/</guid>
-      <description>&lt;p&gt;To prevent just such a scenario with Azure virtual machine backups, Microsoft recently introduced a new feature that aims to inspire confidence among &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/storage/microsoft-azure-feature-checks-for-defects-in-vm-backups&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/storage/microsoft-azure-feature-checks-for-defects-in-vm-backups&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Monday: Xbox Live To Support Custom Gamerpics, New Bookings Tool,</title>
-      <link>//crypt0.net/post/microsoft-monday-xbox-live-to-support-custom-gamerpics-new-bookings-tool/</link>
-      <pubDate>Mon, 27 Mar 2017 19:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-monday-xbox-live-to-support-custom-gamerpics-new-bookings-tool/</guid>
-      <description>&lt;p&gt;Forbes This week, Microsoft Monday includes details about gamerpic support &amp;hellip;. The outage prevented users from being able to sign into Azure, Xbox Live, &amp;hellip;  &lt;a href=&#34;https://www.forbes.com/sites/amitchowdhry/2017/03/27/microsoft-monday-xbox-live-to-support-custom-gamerpics-new-bookings-tool-authentication-outage/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forbes.com/sites/amitchowdhry/2017/03/27/microsoft-monday-xbox-live-to-support-custom-gamerpics-new-bookings-tool-authentication-outage/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What Research Libraries And Web Archives Could Learn From The Commercial</title>
-      <link>//crypt0.net/post/what-research-libraries-and-web-archives-could-learn-from-the-commercial/</link>
-      <pubDate>Mon, 27 Mar 2017 19:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-research-libraries-and-web-archives-could-learn-from-the-commercial/</guid>
-      <description>&lt;p&gt;Forbes That&amp;rsquo;s when I came across Google&amp;rsquo;s Cloud Storage Streaming Transfers service, which allows one to live stream effectively infinitely into Google&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;https://www.forbes.com/sites/kalevleetaru/2017/03/27/what-research-libraries-and-web-archives-could-learn-from-the-commercial-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forbes.com/sites/kalevleetaru/2017/03/27/what-research-libraries-and-web-archives-could-learn-from-the-commercial-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
