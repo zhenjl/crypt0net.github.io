@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 28 Mar 2017 14:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2017 15:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>google-cloud-error-reporting 0.23.2</title>
+      <link>//crypt0.net/post/googleclouderrorreporting-0232/</link>
+      <pubDate>Tue, 28 Mar 2017 15:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/googleclouderrorreporting-0232/</guid>
+      <description>&lt;p&gt;painless as possible. Check out the Authentication section in our &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/google-cloud-error-reporting/0.23.2&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/google-cloud-error-reporting/0.23.2&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>1.4 Billion Data Records Exposed in 2016 Breaches</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/carson-mcdowell-launches-information-law-team-in-ni-first/</guid>
       <description>&lt;p&gt;Compliance in this area has become even more time consuming and we&amp;rsquo;ve seen many high profile cases of hacking and data breaches in the past &amp;hellip;  &lt;a href=&#34;http://www.irishlegal.com/6928/carson-mcdowell-launches-information-law-team-in-ni-first/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.irishlegal.com/6928/carson-mcdowell-launches-information-law-team-in-ni-first/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Laptops With More than 3.7 Million Hong Kong Voters&#39; Data Stolen</title>
-      <link>//crypt0.net/post/laptops-with-more-than-37-million-hong-kong-voters-data-stolen/</link>
-      <pubDate>Tue, 28 Mar 2017 12:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/laptops-with-more-than-37-million-hong-kong-voters-data-stolen/</guid>
-      <description>&lt;p&gt;&amp;hellip; city&amp;rsquo;s voters personal information that could be compromised after the one of the most significant, if not the biggest ever data breaches in Hong Kong &amp;hellip;  &lt;a href=&#34;https://www.hackread.com/laptops-with-hong-kong-voters-data-stolen/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.hackread.com/laptops-with-hong-kong-voters-data-stolen/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
