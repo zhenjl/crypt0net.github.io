@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 28 Mar 2017 11:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2017 11:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deploying Hybrid Storage with Cloudian and Google Cloud Storage</title>
+      <link>//crypt0.net/post/deploying-hybrid-storage-with-cloudian-and-google-cloud-storage/</link>
+      <pubDate>Tue, 28 Mar 2017 11:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/deploying-hybrid-storage-with-cloudian-and-google-cloud-storage/</guid>
+      <description>&lt;p&gt;to store data locally on Cloudian and tier data to GCP using configurable &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/solutions/partners/cloudian-deploying-hybrid-storage&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/solutions/partners/cloudian-deploying-hybrid-storage&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS launches Amazon Connect, a cloud contact center as a service</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/what-research-libraries-and-web-archives-could-learn-from-the-commercial/</guid>
       <description>&lt;p&gt;Forbes That&amp;rsquo;s when I came across Google&amp;rsquo;s Cloud Storage Streaming Transfers service, which allows one to live stream effectively infinitely into Google&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;https://www.forbes.com/sites/kalevleetaru/2017/03/27/what-research-libraries-and-web-archives-could-learn-from-the-commercial-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forbes.com/sites/kalevleetaru/2017/03/27/what-research-libraries-and-web-archives-could-learn-from-the-commercial-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Public cloud could become a utility like electricity, lifting AWS, Azure</title>
-      <link>//crypt0.net/post/public-cloud-could-become-a-utility-like-electricity-lifting-aws-azure/</link>
-      <pubDate>Mon, 27 Mar 2017 18:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/public-cloud-could-become-a-utility-like-electricity-lifting-aws-azure/</guid>
-      <description>&lt;p&gt;GeekWire &amp;hellip; takes a fresh look at the potential valuations of cloud providers such as Amazon Web Services, Microsoft Azure, Google Cloud Platform and IBM.  &lt;a href=&#34;http://www.geekwire.com/2017/public-cloud-become-utility-like-electricity-lifting-aws-azure-others-morgan-stanley-says/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/public-cloud-become-utility-like-electricity-lifting-aws-azure-others-morgan-stanley-says/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
