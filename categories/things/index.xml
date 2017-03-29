@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 29 Mar 2017 16:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Mar 2017 16:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NGINX Plus for the IoT: Encrypting and Authenticating MQTT Traffic</title>
+      <link>//crypt0.net/post/nginx-plus-for-the-iot-encrypting-and-authenticating-mqtt-traffic/</link>
+      <pubDate>Wed, 29 Mar 2017 16:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/nginx-plus-for-the-iot-encrypting-and-authenticating-mqtt-traffic/</guid>
+      <description>&lt;p&gt;connections and authenticating clients of MQTT apps.  &lt;a href=&#34;https://www.nginx.com/blog/nginx-plus-iot-security-encrypt-authenticate-mqtt/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.nginx.com/blog/nginx-plus-iot-security-encrypt-authenticate-mqtt/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain in finance: How far we&#39;ve come</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/industry-and-academia-need-to-work-together-to-close-the-skills-gap/</guid>
       <description>&lt;p&gt;It is the Internet of Things, but with an enterprise angle. &amp;hellip; for current jobs or those that are growing in demand, like those around the internet of things.  &lt;a href=&#34;http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Industry-and-academia-need-to-work-together-to-close-the-skills-gap&#34; onclick=&#34;trackOutboundLink(&#39;http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Industry-and-academia-need-to-work-together-to-close-the-skills-gap&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ofinno Announces the Release of Their New Radio for 5G Whitepaper</title>
-      <link>//crypt0.net/post/ofinno-announces-the-release-of-their-new-radio-for-5g-whitepaper/</link>
-      <pubDate>Wed, 29 Mar 2017 12:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ofinno-announces-the-release-of-their-new-radio-for-5g-whitepaper/</guid>
-      <description>&lt;p&gt;&amp;hellip; other technologies such as ultra-reliable low-latency and massive machine-to-machine applications will enhance the mobile broadband experience.  &lt;a href=&#34;https://www.benzinga.com/pressreleases/17/03/p9231910/ofinno-announces-the-release-of-their-new-radio-for-5g-whitepaper&#34; onclick=&#34;trackOutboundLink(&#39;https://www.benzinga.com/pressreleases/17/03/p9231910/ofinno-announces-the-release-of-their-new-radio-for-5g-whitepaper&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
