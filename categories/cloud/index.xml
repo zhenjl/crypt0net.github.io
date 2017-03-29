@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 29 Mar 2017 04:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Mar 2017 04:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Publicis, Microsoft Partner To Create Custom Experiences Via AI</title>
+      <link>//crypt0.net/post/publicis-microsoft-partner-to-create-custom-experiences-via-ai/</link>
+      <pubDate>Wed, 29 Mar 2017 04:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/publicis-microsoft-partner-to-create-custom-experiences-via-ai/</guid>
+      <description>&lt;p&gt;&amp;ldquo;There&amp;rsquo;s Google, Microsoft and AWS, but we made a decision  that Microsoft Azure would become our preferred platform to build assets.&amp;rdquo; Fadli said &amp;hellip;  &lt;a href=&#34;http://www.mediapost.com/publications/article/298066/publicis-microsoft-partner-to-create-custom-exper.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.mediapost.com/publications/article/298066/publicis-microsoft-partner-to-create-custom-exper.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CNCF: Cloud Native Foundation drives portability forward</title>
@@ -270,18 +282,6 @@
       
       <guid>//crypt0.net/post/oneagent--security-gateway-release-notes-for-version-115/</guid>
       <description>&lt;p&gt;HTTPS support for Keystone endpoint in OpenStack project configuration. Fix for running VM metrics. Metrics now only reflect VMs that have active &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/4043781&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/4043781&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure Autoscaling with VMSS and Managed Disks, Part 3: Vertical Autoscaling</title>
-      <link>//crypt0.net/post/azure-autoscaling-with-vmss-and-managed-disks-part-3-vertical-autoscaling/</link>
-      <pubDate>Tue, 28 Mar 2017 16:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-autoscaling-with-vmss-and-managed-disks-part-3-vertical-autoscaling/</guid>
-      <description>&lt;p&gt;This allows the runbook to authenticate with Azure Resource Manager &amp;hellip; Microsoft has created four runbooks for vertical scaling VMs in a VMSS.  &lt;a href=&#34;https://www.petri.com/azure-autoscaling-vmss-managed-disks-part-3-vertical-autoscaling&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/azure-autoscaling-vmss-managed-disks-part-3-vertical-autoscaling&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
