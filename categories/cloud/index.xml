@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 29 Mar 2017 05:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Mar 2017 06:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Big-scale Red Hat OpenStack Telemetry Tuning for Ceph Storage</title>
+      <link>//crypt0.net/post/bigscale-red-hat-openstack-telemetry-tuning-for-ceph-storage/</link>
+      <pubDate>Wed, 29 Mar 2017 06:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bigscale-red-hat-openstack-telemetry-tuning-for-ceph-storage/</guid>
+      <description>&lt;p&gt;the Telemetry service in order to work properly and not overstress/kill the &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2985761&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2985761&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>451 Research Highlights IndependenceIT&#39;s Ability to Simplify WaaS</title>
@@ -272,18 +284,6 @@
 
 &lt;p&gt;&lt;h3&gt;Microsoft Hit with $5 Million Class Action Suit on Windows 10 Installs&lt;/h3&gt;
 &lt;p&gt;A class action lawsuit filed in Illinois last week alleges that Microsoft did not do enough to ensure that its Windows 10 operating system wouldn&amp;rsquo;t cause &amp;hellip;  &lt;a href=&#34;http://www.toptechnews.com/article/index.php?story_id=1300042F7XEK&#34; onclick=&#34;trackOutboundLink(&#39;http://www.toptechnews.com/article/index.php?story_id=1300042F7XEK&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Hit with $5 Million Class Action Suit on Windows 10 Installs</title>
-      <link>//crypt0.net/post/microsoft-hit-with-5-million-class-action-suit-on-windows-10-installs/</link>
-      <pubDate>Tue, 28 Mar 2017 17:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-hit-with-5-million-class-action-suit-on-windows-10-installs/</guid>
-      <description>&lt;p&gt;A class action lawsuit filed in Illinois last week alleges that Microsoft did not do enough to ensure that its Windows 10 operating system wouldn&amp;rsquo;t cause &amp;hellip;  &lt;a href=&#34;http://www.toptechnews.com/article/index.php?story_id=1300042F7XEK&#34; onclick=&#34;trackOutboundLink(&#39;http://www.toptechnews.com/article/index.php?story_id=1300042F7XEK&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
