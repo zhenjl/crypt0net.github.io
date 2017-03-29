@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 29 Mar 2017 11:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Mar 2017 11:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to print to a local network printer from a Chromebook</title>
+      <link>//crypt0.net/post/how-to-print-to-a-local-network-printer-from-a-chromebook/</link>
+      <pubDate>Wed, 29 Mar 2017 11:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-print-to-a-local-network-printer-from-a-chromebook/</guid>
+      <description>&lt;p&gt;That&amp;rsquo;s great news if you want to use a Chromebook with network printers that don&amp;rsquo;t support Google Cloud Print. Local printing also allows you to print &amp;hellip;  &lt;a href=&#34;http://www.techrepublic.com/article/how-to-print-to-a-local-network-printer-from-a-chromebook/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techrepublic.com/article/how-to-print-to-a-local-network-printer-from-a-chromebook/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A smart-building platform for energy efficiency</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;PR Newswire (press release) (NASDAQ: CY), the leader in wireless connectivity solutions for the Internet of Things, today announced that Samsung Electronics Co., Ltd. (SSNLF) &amp;hellip;  &lt;a href=&#34;http://www.prnewswire.com/news-releases/samsung-selects-cypress-wireless-connectivity-solution-for-secure-artik-internet-of-things-platform-300429844.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prnewswire.com/news-releases/samsung-selects-cypress-wireless-connectivity-solution-for-secure-artik-internet-of-things-platform-300429844.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big-scale Red Hat OpenStack Telemetry Tuning for Ceph Storage</title>
-      <link>//crypt0.net/post/bigscale-red-hat-openstack-telemetry-tuning-for-ceph-storage/</link>
-      <pubDate>Wed, 29 Mar 2017 06:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bigscale-red-hat-openstack-telemetry-tuning-for-ceph-storage/</guid>
-      <description>&lt;p&gt;the Telemetry service in order to work properly and not overstress/kill the &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2985761&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2985761&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

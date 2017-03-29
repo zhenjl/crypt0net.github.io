@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 29 Mar 2017 11:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Mar 2017 11:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to print to a local network printer from a Chromebook</title>
+      <link>//crypt0.net/post/how-to-print-to-a-local-network-printer-from-a-chromebook/</link>
+      <pubDate>Wed, 29 Mar 2017 11:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-print-to-a-local-network-printer-from-a-chromebook/</guid>
+      <description>&lt;p&gt;That&amp;rsquo;s great news if you want to use a Chromebook with network printers that don&amp;rsquo;t support Google Cloud Print. Local printing also allows you to print &amp;hellip;  &lt;a href=&#34;http://www.techrepublic.com/article/how-to-print-to-a-local-network-printer-from-a-chromebook/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techrepublic.com/article/how-to-print-to-a-local-network-printer-from-a-chromebook/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Consider OpenStack benefits, but lack of automation must be overcome</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/new-tutorials-and-howtos-for-openstack/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;ve got experience working with OpenStack, landing that next position ought to be no problem. But how do you gain OpenStack skills and keep &amp;hellip;  &lt;a href=&#34;https://opensource.com/article/17/3/openstack-tutorials&#34; onclick=&#34;trackOutboundLink(&#39;https://opensource.com/article/17/3/openstack-tutorials&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Red Hat CEO calls on channel in emerging tech push</title>
-      <link>//crypt0.net/post/red-hat-ceo-calls-on-channel-in-emerging-tech-push/</link>
-      <pubDate>Wed, 29 Mar 2017 00:40:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/red-hat-ceo-calls-on-channel-in-emerging-tech-push/</guid>
-      <description>&lt;p&gt;&amp;hellip; it&amp;rsquo;s much more with our container technologies and with OpenStack we can come in and say &amp;lsquo;let&amp;rsquo;s talk about your next set of issues and challenges &amp;hellip;  &lt;a href=&#34;http://www.channelnomics.com/channelnomics-us/news/3007390/red-hat-ceo-calls-on-channel-in-emerging-tech-push&#34; onclick=&#34;trackOutboundLink(&#39;http://www.channelnomics.com/channelnomics-us/news/3007390/red-hat-ceo-calls-on-channel-in-emerging-tech-push&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
