@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 29 Mar 2017 18:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Mar 2017 18:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack Services Removed from Pacemaker Not Enabled in Systemd</title>
+      <link>//crypt0.net/post/openstack-services-removed-from-pacemaker-not-enabled-in-systemd/</link>
+      <pubDate>Wed, 29 Mar 2017 18:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-services-removed-from-pacemaker-not-enabled-in-systemd/</guid>
+      <description>&lt;p&gt;Platform 10, services that are removed from Pacemaker control are not &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2986341&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2986341&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parallels announces support for Azure - huge opportunities for IT</title>
+      <link>//crypt0.net/post/parallels-announces-support-for-azure--huge-opportunities-for-it/</link>
+      <pubDate>Wed, 29 Mar 2017 18:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/parallels-announces-support-for-azure--huge-opportunities-for-it/</guid>
+      <description>&lt;p&gt;Parallels recently announced that Parallels Remote Application Server (RAS) now features additional support for Microsoft Azure and its worldwide &amp;hellip;  &lt;a href=&#34;https://itbrief.co.nz/story/parallels-announces-support-azure-huge-opportunities-it/&#34; onclick=&#34;trackOutboundLink(&#39;https://itbrief.co.nz/story/parallels-announces-support-azure-huge-opportunities-it/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How to Hold Politicians and the City Accountable with the Involuntary</title>
@@ -503,30 +527,6 @@
       
       <guid>//crypt0.net/post/nginx-plus-for-the-iot-encrypting-and-authenticating-mqtt-traffic/</guid>
       <description>&lt;p&gt;connections and authenticating clients of MQTT apps.  &lt;a href=&#34;https://www.nginx.com/blog/nginx-plus-iot-security-encrypt-authenticate-mqtt/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.nginx.com/blog/nginx-plus-iot-security-encrypt-authenticate-mqtt/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cloud Developer Research: AWS Crushes the High End, Challenged in the Low</title>
-      <link>//crypt0.net/post/cloud-developer-research-aws-crushes-the-high-end-challenged-in-the-low/</link>
-      <pubDate>Wed, 29 Mar 2017 16:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloud-developer-research-aws-crushes-the-high-end-challenged-in-the-low/</guid>
-      <description>&lt;p&gt;Among those competitors, the report said, only the Microsoft Azure cloud and the Google Cloud Platform can be considered as serious challengers, &amp;hellip;  &lt;a href=&#34;https://adtmag.com/articles/2017/03/29/visionmobile-developer-report.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://adtmag.com/articles/2017/03/29/visionmobile-developer-report.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blockchain in finance: How far we&#39;ve come</title>
-      <link>//crypt0.net/post/blockchain-in-finance-how-far-weve-come/</link>
-      <pubDate>Wed, 29 Mar 2017 16:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-in-finance-how-far-weve-come/</guid>
-      <description>&lt;p&gt;finding the opportunities available for me to influence so many things.  &lt;a href=&#34;https://www.ibm.com/blogs/blockchain/2017/03/blockchain-in-finance-how-far-weve-come/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.ibm.com/blogs/blockchain/2017/03/blockchain-in-finance-how-far-weve-come/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
