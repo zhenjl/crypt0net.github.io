@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 30 Mar 2017 14:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Mar 2017 14:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using Komprise to Archive Cold Data to Cloud Storage</title>
+      <link>//crypt0.net/post/using-komprise-to-archive-cold-data-to-cloud-storage/</link>
+      <pubDate>Thu, 30 Mar 2017 14:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/using-komprise-to-archive-cold-data-to-cloud-storage/</guid>
+      <description>&lt;p&gt;storage to identify cold data and then move it to Google Cloud Storage.  &lt;a href=&#34;https://cloud.google.com/solutions/partners/komprise-archiving-cold-data&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/solutions/partners/komprise-archiving-cold-data&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>JFrog Expands its Universal Approach with Artifactory SaaS on Microsoft</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/6-googlesque-examples-where-machine-learning-provides-business-advantage/</guid>
       <description>&lt;p&gt;Using Google Cloud&amp;rsquo;s ML Engine, Airbus reduced the error rate from 11% to 3%, a 72% improvement. Furthermore, by using recently-released GPU &amp;hellip;  &lt;a href=&#34;http://diginomica.com/2017/03/30/creating-competitive-business-advantage-machine-learning/&#34; onclick=&#34;trackOutboundLink(&#39;http://diginomica.com/2017/03/30/creating-competitive-business-advantage-machine-learning/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hybrid Cloud Solutions for Microsoft Azure</title>
-      <link>//crypt0.net/post/hybrid-cloud-solutions-for-microsoft-azure/</link>
-      <pubDate>Thu, 30 Mar 2017 09:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hybrid-cloud-solutions-for-microsoft-azure/</guid>
-      <description>&lt;p&gt;and Microsoft Azure. Begin building your hybrid-storage enterprise today.  &lt;a href=&#34;http://www.netapp.com/us/products/cloud-storage/microsoft-azure.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.netapp.com/us/products/cloud-storage/microsoft-azure.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
