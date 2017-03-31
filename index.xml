@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 31 Mar 2017 16:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2017 16:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud KMS: What are the security benefits?</title>
+      <link>//crypt0.net/post/google-cloud-kms-what-are-the-security-benefits/</link>
+      <pubDate>Fri, 31 Mar 2017 16:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-kms-what-are-the-security-benefits/</guid>
+      <description>&lt;p&gt;Google Cloud KMS is a new encryption key management service available for Google customers. Expert Matthew Pascucci discusses how this service &amp;hellip;  &lt;a href=&#34;http://searchcloudsecurity.techtarget.com/answer/Google-Cloud-KMS-What-are-the-security-benefits&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudsecurity.techtarget.com/answer/Google-Cloud-KMS-What-are-the-security-benefits&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>It&#39;s malware, my lord, in a flatbed scanner</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;That at least gets you beyond the problem faced by victims of some of the massive account data breaches of the past few years. It wasn&amp;rsquo;t so much the &amp;hellip;  &lt;a href=&#34;http://bcc.rcav.org/opinion-and-editorial/7031-hackers-access-personal-data-via-smart-devices&#34; onclick=&#34;trackOutboundLink(&#39;http://bcc.rcav.org/opinion-and-editorial/7031-hackers-access-personal-data-via-smart-devices&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft opens Its first European lab for Internet of Things</title>
-      <link>//crypt0.net/post/microsoft-opens-its-first-european-lab-for-internet-of-things/</link>
-      <pubDate>Fri, 31 Mar 2017 13:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-opens-its-first-european-lab-for-internet-of-things/</guid>
-      <description>&lt;p&gt;(Bloomberg) &amp;ndash; As Europe&amp;rsquo;s industrial companies attempt to modernize production with sensors and software, Microsoft Corp. is trying to grab a piece &amp;hellip;  &lt;a href=&#34;https://www.information-management.com/news/microsoft-opens-its-first-european-lab-for-internet-of-things&#34; onclick=&#34;trackOutboundLink(&#39;https://www.information-management.com/news/microsoft-opens-its-first-european-lab-for-internet-of-things&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
