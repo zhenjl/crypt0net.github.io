@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 31 Mar 2017 04:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2017 04:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Execute powershell commands from NiFi(in linux) to login microsoft azure</title>
+      <link>//crypt0.net/post/execute-powershell-commands-from-nifiin-linux-to-login-microsoft-azure/</link>
+      <pubDate>Fri, 31 Mar 2017 04:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/execute-powershell-commands-from-nifiin-linux-to-login-microsoft-azure/</guid>
+      <description>&lt;p&gt;I installed powershell(3.0) in my ubuntu machine(16.04) and installed AzureRM module from powershell using the following steps. Install-Package &amp;hellip;  &lt;a href=&#34;https://community.hortonworks.com/questions/92209/execute-powershell-commands-from-nifiin-linux-to-l.html&#34; onclick=&#34;trackOutboundLink(&#39;https://community.hortonworks.com/questions/92209/execute-powershell-commands-from-nifiin-linux-to-l.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BlazeClan achieves recognition as an APN DevOps Competency Partner by</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/leveraging-the-edge-of-the-network/</guid>
       <description>&lt;p&gt;The argument surrounding the Industrial Internet of Things (IIoT) that says data needs to not just be gathered but actually be usable is not only about &amp;hellip;  &lt;a href=&#34;https://www.automationworld.com/industrial-internet-things/leveraging-edge-network&#34; onclick=&#34;trackOutboundLink(&#39;https://www.automationworld.com/industrial-internet-things/leveraging-edge-network&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft to Open Its Third IoT and AI Lab in Germany</title>
-      <link>//crypt0.net/post/microsoft-to-open-its-third-iot-and-ai-lab-in-germany/</link>
-      <pubDate>Fri, 31 Mar 2017 01:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-to-open-its-third-iot-and-ai-lab-in-germany/</guid>
-      <description>&lt;p&gt;&amp;hellip; Europe and the Middle East that are pursuing opportunities in the growing markets for internet of things (IoT) and artificial intelligence (AI) products.  &lt;a href=&#34;http://www.eweek.com/networking/microsoft-to-open-its-third-iot-and-ai-lab-in-germany&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/networking/microsoft-to-open-its-third-iot-and-ai-lab-in-germany&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

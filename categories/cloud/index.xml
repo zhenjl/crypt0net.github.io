@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 31 Mar 2017 04:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2017 04:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Execute powershell commands from NiFi(in linux) to login microsoft azure</title>
+      <link>//crypt0.net/post/execute-powershell-commands-from-nifiin-linux-to-login-microsoft-azure/</link>
+      <pubDate>Fri, 31 Mar 2017 04:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/execute-powershell-commands-from-nifiin-linux-to-login-microsoft-azure/</guid>
+      <description>&lt;p&gt;I installed powershell(3.0) in my ubuntu machine(16.04) and installed AzureRM module from powershell using the following steps. Install-Package &amp;hellip;  &lt;a href=&#34;https://community.hortonworks.com/questions/92209/execute-powershell-commands-from-nifiin-linux-to-l.html&#34; onclick=&#34;trackOutboundLink(&#39;https://community.hortonworks.com/questions/92209/execute-powershell-commands-from-nifiin-linux-to-l.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BlazeClan achieves recognition as an APN DevOps Competency Partner by</title>
@@ -327,18 +339,6 @@
       
       <guid>//crypt0.net/post/crowdcube-announces-partnership-with-amazon-web-services/</guid>
       <description>&lt;p&gt;UK-based equity crowdfunding platform Crowdcube announced on Wednesday it has formed a new partnership with Amazon Web Services. This new &amp;hellip;  &lt;a href=&#34;https://www.crowdfundinsider.com/2017/03/97993-crowdcube-announces-partnership-amazon-web-services/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.crowdfundinsider.com/2017/03/97993-crowdcube-announces-partnership-amazon-web-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why Wal-Mart Shareholders Have Something to Worry About</title>
-      <link>//crypt0.net/post/why-walmart-shareholders-have-something-to-worry-about/</link>
-      <pubDate>Thu, 30 Mar 2017 15:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-walmart-shareholders-have-something-to-worry-about/</guid>
-      <description>&lt;p&gt;(Some of that spending goes to support Amazon Web Services, Amazon&amp;rsquo;s cloud-computing division, as well as Prime Instant Video). Wal-Mart may &amp;hellip;  &lt;a href=&#34;https://www.fool.com/investing/2017/03/30/why-wal-mart-shareholders-have-something-to-worry.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://www.fool.com/investing/2017/03/30/why-wal-mart-shareholders-have-something-to-worry.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
