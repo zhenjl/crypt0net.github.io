@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 30 Mar 2017 19:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Mar 2017 21:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Remove database purge code from analytics-api</title>
+      <link>//crypt0.net/post/remove-database-purge-code-from-analyticsapi/</link>
+      <pubDate>Thu, 30 Mar 2017 21:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/remove-database-purge-code-from-analyticsapi/</guid>
+      <description>&lt;p&gt;appropriate ttl values can be set based on the disk size. Purging data from &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1677694&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1677694&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Cloud Dataflow example project released</title>
@@ -327,18 +339,6 @@
       
       <guid>//crypt0.net/post/microsofts-high-valuation-is-justified-for-these-reasons/</guid>
       <description>&lt;p&gt;There was the Office 365 bundle for employee collaboration; there was Dynamics 365 to take care of sales and service and Microsoft Azure for &amp;hellip;  &lt;a href=&#34;http://www.gurufocus.com/news/496911/microsofts-high-valuation-is-justified-for-these-reasons&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gurufocus.com/news/496911/microsofts-high-valuation-is-justified-for-these-reasons&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Earth Enterprise Now Available on GitHub as Open Source</title>
-      <link>//crypt0.net/post/google-earth-enterprise-now-available-on-github-as-open-source/</link>
-      <pubDate>Thu, 30 Mar 2017 13:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-earth-enterprise-now-available-on-github-as-open-source/</guid>
-      <description>&lt;p&gt;Thermopylae Sciences &amp;amp; Technology is one of Google&amp;rsquo;s top globally performing Google Cloud Premier Partners, with a decade of close collaboration &amp;hellip;  &lt;a href=&#34;http://www.promotionworld.com/news/press/170330-google-earth-enterprise-now-available-github-open-source&#34; onclick=&#34;trackOutboundLink(&#39;http://www.promotionworld.com/news/press/170330-google-earth-enterprise-now-available-github-open-source&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
