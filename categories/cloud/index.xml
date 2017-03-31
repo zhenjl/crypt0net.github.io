@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 30 Mar 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Mar 2017 19:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud Dataflow example project released</title>
+      <link>//crypt0.net/post/google-cloud-dataflow-example-project-released/</link>
+      <pubDate>Thu, 30 Mar 2017 19:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-dataflow-example-project-released/</guid>
+      <description>&lt;p&gt;Example Project! This is a simple time series analysis stream processing &amp;hellip;  &lt;a href=&#34;http://snowplowanalytics.com/blog/2017/03/30/google-cloud-dataflow-example-project-released/&#34; onclick=&#34;trackOutboundLink(&#39;http://snowplowanalytics.com/blog/2017/03/30/google-cloud-dataflow-example-project-released/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Mar 30, 2017</title>
@@ -327,18 +339,6 @@
       
       <guid>//crypt0.net/post/google-earth-enterprise-now-available-on-github-as-open-source/</guid>
       <description>&lt;p&gt;Thermopylae Sciences &amp;amp; Technology is one of Google&amp;rsquo;s top globally performing Google Cloud Premier Partners, with a decade of close collaboration &amp;hellip;  &lt;a href=&#34;http://www.promotionworld.com/news/press/170330-google-earth-enterprise-now-available-github-open-source&#34; onclick=&#34;trackOutboundLink(&#39;http://www.promotionworld.com/news/press/170330-google-earth-enterprise-now-available-github-open-source&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>security groups assigned neutron port is not displayed</title>
-      <link>//crypt0.net/post/security-groups-assigned-neutron-port-is-not-displayed/</link>
-      <pubDate>Thu, 30 Mar 2017 13:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/security-groups-assigned-neutron-port-is-not-displayed/</guid>
-      <description>&lt;p&gt;way to see them in horizon. Once bug 1637444 (which allows users to &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/horizon/+bug/1677535&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/horizon/+bug/1677535&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
