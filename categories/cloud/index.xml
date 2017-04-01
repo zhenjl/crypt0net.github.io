@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 01 Apr 2017 01:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2017 01:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>kolla-ansible quick start don&#39;t include explanation how to select services.</title>
+      <link>//crypt0.net/post/kollaansible-quick-start-dont-include-explanation-how-to-select-services/</link>
+      <pubDate>Sat, 01 Apr 2017 01:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/kollaansible-quick-start-dont-include-explanation-how-to-select-services/</guid>
+      <description>&lt;p&gt;(&lt;a href=&#34;https://docs.openstack.org/developer/kolla-ansible/quickstart.html&#34;&gt;https://docs.openstack.org/developer/kolla-ansible/quickstart.html&lt;/a&gt;) This Quick Start guide explain about globals.yml, but that &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1678348&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1678348&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google&#39;s First Interplanetary Data Platform Ziggy Stardust</title>
@@ -282,18 +294,6 @@
       
       <guid>//crypt0.net/post/microsoft-thwarts-cyberattacks-with-azure-web-application/</guid>
       <description>&lt;p&gt;The Azure Web Application Firewall is now generally available, allowing customers to deflect cyber-attacks aimed at application hosted on Microsoft&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/security/microsoft-thwarts-cyber-attacks-with-azure-web-application-firewall&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/security/microsoft-thwarts-cyber-attacks-with-azure-web-application-firewall&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Managing Performance for SaaS-Based Applications - @CloudExpo #Cloud</title>
-      <link>//crypt0.net/post/managing-performance-for-saasbased-applications--cloudexpo-cloud/</link>
-      <pubDate>Fri, 31 Mar 2017 15:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/managing-performance-for-saasbased-applications--cloudexpo-cloud/</guid>
-      <description>&lt;p&gt;SYS-CON Media (press release) &amp;hellip; Google data center in Belgium was struck by successive lightning strikes, causing problems for numerous Google cloud infrastructure service users.  &lt;a href=&#34;http://news.sys-con.com/node/4046331&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/4046331&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
