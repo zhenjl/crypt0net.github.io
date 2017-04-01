@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 01 Apr 2017 11:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2017 14:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft adds Cross-Platform Support for Azure Relay Hybrid Connections</title>
+      <link>//crypt0.net/post/microsoft-adds-crossplatform-support-for-azure-relay-hybrid-connections/</link>
+      <pubDate>Sat, 01 Apr 2017 14:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-adds-crossplatform-support-for-azure-relay-hybrid-connections/</guid>
+      <description>&lt;p&gt;Microsoft recently announced their Azure Relay Hybrid Connections service has reached General Availability. The Azure Relay Hybrid Connections &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2017/04/Azure-Hybrid-Connections&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2017/04/Azure-Hybrid-Connections&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft announces general availability of Azure Advisor, Monitor, and</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/openstack-extraconfig-script-not-running-on-compute-scale-out/</guid>
       <description>&lt;p&gt;overcloud compute node after the initial installation postscript run only on new &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/2960831&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2960831&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Roundup: All the April Fools&#39; products from Google, Alphabet, and more</title>
-      <link>//crypt0.net/post/roundup-all-the-april-fools-products-from-google-alphabet-and-more/</link>
-      <pubDate>Fri, 31 Mar 2017 23:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/roundup-all-the-april-fools-products-from-google-alphabet-and-more/</guid>
-      <description>&lt;p&gt;This moonshot aims to combat Holland&amp;rsquo;s 145 days of rain a year by leveraging the Google Cloud Platform to control the weather. Specifically, machine &amp;hellip;  &lt;a href=&#34;http://9to5google.com/2017/03/31/roundup-april-fools-products-google-alphabet-more/&#34; onclick=&#34;trackOutboundLink(&#39;http://9to5google.com/2017/03/31/roundup-april-fools-products-google-alphabet-more/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
