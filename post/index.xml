@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 02 Apr 2017 06:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Apr 2017 07:10:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Load MySQL data to Microsoft Azure SQL Data Warehouse in minutes.</title>
+      <link>//crypt0.net/post/load-mysql-data-to-microsoft-azure-sql-data-warehouse-in-minutes/</link>
+      <pubDate>Sun, 02 Apr 2017 07:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/load-mysql-data-to-microsoft-azure-sql-data-warehouse-in-minutes/</guid>
+      <description>&lt;p&gt;performance of your SQL queries at scale and to generate custom real-time &amp;hellip;  &lt;a href=&#34;https://www.alooma.com/integrations/mysql/microsoft-azure&#34; onclick=&#34;trackOutboundLink(&#39;https://www.alooma.com/integrations/mysql/microsoft-azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Visualize Google Cloud SQL MySQL data in QuickSight.</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;with raising Exception, the project view will redirect to DEBUG page.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1678351&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1678351&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IoT is more than just internet and things</title>
-      <link>//crypt0.net/post/iot-is-more-than-just-internet-and-things/</link>
-      <pubDate>Sat, 01 Apr 2017 18:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/iot-is-more-than-just-internet-and-things/</guid>
-      <description>&lt;p&gt;There can be no one with even a passing interest in information technology who hasn&amp;rsquo;t come across the Internet of Things (IoT) recently, and not &amp;hellip;  &lt;a href=&#34;https://www.businesspost.ie/technology/iot-just-internet-things-383425&#34; onclick=&#34;trackOutboundLink(&#39;https://www.businesspost.ie/technology/iot-just-internet-things-383425&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

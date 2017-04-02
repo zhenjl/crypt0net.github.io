@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 02 Apr 2017 06:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Apr 2017 07:10:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Load MySQL data to Microsoft Azure SQL Data Warehouse in minutes.</title>
+      <link>//crypt0.net/post/load-mysql-data-to-microsoft-azure-sql-data-warehouse-in-minutes/</link>
+      <pubDate>Sun, 02 Apr 2017 07:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/load-mysql-data-to-microsoft-azure-sql-data-warehouse-in-minutes/</guid>
+      <description>&lt;p&gt;performance of your SQL queries at scale and to generate custom real-time &amp;hellip;  &lt;a href=&#34;https://www.alooma.com/integrations/mysql/microsoft-azure&#34; onclick=&#34;trackOutboundLink(&#39;https://www.alooma.com/integrations/mysql/microsoft-azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Visualize Google Cloud SQL MySQL data in QuickSight.</title>
@@ -240,18 +252,6 @@
       
       <guid>//crypt0.net/post/apps-that-work-with-google-cloud-print--google-cloud-print/</guid>
       <description>&lt;p&gt;job, you can use the Google Cloud Print management page to track it.  &lt;a href=&#34;https://www.google.com/cloudprint/learn/apps/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.google.com/cloudprint/learn/apps/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>April Fool&#39;s Day roundup: The best tech pranks from around the web</title>
-      <link>//crypt0.net/post/april-fools-day-roundup-the-best-tech-pranks-from-around-the-web/</link>
-      <pubDate>Sat, 01 Apr 2017 09:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/april-fools-day-roundup-the-best-tech-pranks-from-around-the-web/</guid>
-      <description>&lt;p&gt;Waze won&amp;rsquo;t be the only Google product heading to Mars. The Google Cloud Platform is also heading to the red planet, complete with a data center.  &lt;a href=&#34;https://www.yahoo.com/tech/april-fool-day-roundup-best-tech-pranks-around-153533228.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.yahoo.com/tech/april-fool-day-roundup-best-tech-pranks-around-153533228.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
