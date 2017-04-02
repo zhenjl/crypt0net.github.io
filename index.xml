@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 02 Apr 2017 10:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Apr 2017 11:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>libvirt 2.5 without kvm requires cpu_mode=none</title>
+      <link>//crypt0.net/post/libvirt-25-without-kvm-requires-cpumodenone/</link>
+      <pubDate>Sun, 02 Apr 2017 11:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/libvirt-25-without-kvm-requires-cpumodenone/</guid>
+      <description>&lt;p&gt;second note: When running qemu without no support for HW virtualization setting &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1678636&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1678636&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IT Infra World Magazine Named Neeve Research Amongst the Top 10 Internet</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;1redDrop (blog) &amp;hellip; developers around the world are utilizing top cloud service providers such as Amazon Web Services, Microsoft Azure and Google Cloud Platform.  &lt;a href=&#34;http://1reddrop.com/2017/04/02/aws-tough-microsoft-google-beat-cloud-computing/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/04/02/aws-tough-microsoft-google-beat-cloud-computing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>This is an era of Internet of Things: Top quotes from PM Modi&#39;s address at</title>
-      <link>//crypt0.net/post/this-is-an-era-of-internet-of-things-top-quotes-from-pm-modis-address-at/</link>
-      <pubDate>Sun, 02 Apr 2017 02:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/this-is-an-era-of-internet-of-things-top-quotes-from-pm-modis-address-at/</guid>
-      <description>&lt;p&gt;On Saturday, Prime Minister Narendra Modi addressed over 10,000 aspiring innovators who will be aiming to solve 598 problems at &amp;lsquo;Smart India &amp;hellip;  &lt;a href=&#34;http://www.theinternetofthings.eu/era-internet-things-top-quotes-pm-modi%E2%80%99s-address-hackathon&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theinternetofthings.eu/era-internet-things-top-quotes-pm-modi%E2%80%99s-address-hackathon&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
