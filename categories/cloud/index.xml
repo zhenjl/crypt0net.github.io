@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Apr 2017 03:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2017 03:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Red Hat SDS business to become less direct</title>
+      <link>//crypt0.net/post/red-hat-sds-business-to-become-less-direct/</link>
+      <pubDate>Mon, 03 Apr 2017 03:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/red-hat-sds-business-to-become-less-direct/</guid>
+      <description>&lt;p&gt;For people who are deploying [Red Hat&amp;rsquo;s open source PaaS offering] OpenShift and OpenStack, and they need to have some sort of storage from on it.  &lt;a href=&#34;http://www.channelnomics.com/channelnomics-us/news/3007624/red-hat-sds-business-to-become-less-direct&#34; onclick=&#34;trackOutboundLink(&#39;http://www.channelnomics.com/channelnomics-us/news/3007624/red-hat-sds-business-to-become-less-direct&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ROK Technologies, LLC Unveils Latest IoT Solution</title>
@@ -207,18 +219,6 @@
       
       <guid>//crypt0.net/post/visualize-google-cloud-sql-mysql-data-in-quicksight/</guid>
       <description>&lt;p&gt;a Service.  &lt;a href=&#34;https://www.alooma.com/integrations/google-cloud-mysql/quicksight&#34; onclick=&#34;trackOutboundLink(&#39;https://www.alooma.com/integrations/google-cloud-mysql/quicksight&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Configure live migrations in Administrator Guide</title>
-      <link>//crypt0.net/post/configure-live-migrations-in-administrator-guide/</link>
-      <pubDate>Sun, 02 Apr 2017 05:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/configure-live-migrations-in-administrator-guide/</guid>
-      <description>&lt;p&gt;KVM part points to a wrong paragraph at the config-reference. This should &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1678601&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1678601&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
