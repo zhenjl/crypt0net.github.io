@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Apr 2017 04:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2017 05:00:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1679008 charm should error on invalid min/max_l3_agents co...</title>
+      <link>//crypt0.net/post/bug-1679008-charm-should-error-on-invalid-minmaxl3agents-co/</link>
+      <pubDate>Mon, 03 Apr 2017 05:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1679008-charm-should-error-on-invalid-minmaxl3agents-co/</guid>
+      <description>&lt;p&gt;happily continues but neutron itself fails with: &amp;hellip; 2017-04-03 10:08:52.152 15766 &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1679008&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1679008&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why investors are so keen on Amazon</title>
+      <link>//crypt0.net/post/why-investors-are-so-keen-on-amazon/</link>
+      <pubDate>Mon, 03 Apr 2017 05:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-investors-are-so-keen-on-amazon/</guid>
+      <description>&lt;p&gt;Amazon&amp;rsquo;s e-commerce site and Amazon Web Services (AWS), which provides cloud computing, both benefit from virtuous cycles. The more sellers &amp;hellip;  &lt;a href=&#34;http://www.economist.com/blogs/economist-explains/2017/04/economist-explains&#34; onclick=&#34;trackOutboundLink(&#39;http://www.economist.com/blogs/economist-explains/2017/04/economist-explains&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Government gives Google until late April to pay taxes</title>
@@ -29,18 +53,6 @@
       
       <guid>//crypt0.net/post/red-hat-sds-business-to-become-less-direct/</guid>
       <description>&lt;p&gt;For people who are deploying [Red Hat&amp;rsquo;s open source PaaS offering] OpenShift and OpenStack, and they need to have some sort of storage from on it.  &lt;a href=&#34;http://www.channelnomics.com/channelnomics-us/news/3007624/red-hat-sds-business-to-become-less-direct&#34; onclick=&#34;trackOutboundLink(&#39;http://www.channelnomics.com/channelnomics-us/news/3007624/red-hat-sds-business-to-become-less-direct&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ROK Technologies, LLC Unveils Latest IoT Solution</title>
-      <link>//crypt0.net/post/rok-technologies-llc-unveils-latest-iot-solution/</link>
-      <pubDate>Mon, 03 Apr 2017 03:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rok-technologies-llc-unveils-latest-iot-solution/</guid>
-      <description>&lt;p&gt;&amp;hellip; (ROK) will unveil its latest IoT and accelerated data solution; ROK&amp;rsquo;s Private Cloud will now be part of Amazon Web Services (AWS) Direct Connect.  &lt;a href=&#34;https://www.benzinga.com/pressreleases/17/04/p9246642/rok-technologies-llc-unveils-latest-iot-solution&#34; onclick=&#34;trackOutboundLink(&#39;https://www.benzinga.com/pressreleases/17/04/p9246642/rok-technologies-llc-unveils-latest-iot-solution&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -207,18 +219,6 @@
       
       <guid>//crypt0.net/post/libvirt-25-without-kvm-requires-cpumodenone/</guid>
       <description>&lt;p&gt;second note: When running qemu without no support for HW virtualization setting &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1678636&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1678636&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Load MySQL data to Microsoft Azure SQL Data Warehouse in minutes.</title>
-      <link>//crypt0.net/post/load-mysql-data-to-microsoft-azure-sql-data-warehouse-in-minutes/</link>
-      <pubDate>Sun, 02 Apr 2017 07:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/load-mysql-data-to-microsoft-azure-sql-data-warehouse-in-minutes/</guid>
-      <description>&lt;p&gt;performance of your SQL queries at scale and to generate custom real-time &amp;hellip;  &lt;a href=&#34;https://www.alooma.com/integrations/mysql/microsoft-azure&#34; onclick=&#34;trackOutboundLink(&#39;https://www.alooma.com/integrations/mysql/microsoft-azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
