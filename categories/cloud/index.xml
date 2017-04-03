@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 02 Apr 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Apr 2017 19:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Web Application Firewall Generally Available</title>
+      <link>//crypt0.net/post/azure-web-application-firewall-generally-available/</link>
+      <pubDate>Sun, 02 Apr 2017 19:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-web-application-firewall-generally-available/</guid>
+      <description>&lt;p&gt;Microsoft&amp;rsquo;s cloud platform Azure has a new addition to the family. All public regions now have the Web Application Firewall available, following its &amp;hellip;  &lt;a href=&#34;https://www.lifehacker.com.au/2017/04/azure-web-application-firewall-generally-available/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.lifehacker.com.au/2017/04/azure-web-application-firewall-generally-available/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Apr 2, 2017</title>
@@ -274,18 +286,6 @@
       
       <guid>//crypt0.net/post/microsoft-partnership-to-revolutionise-underwater-quality-testing/</guid>
       <description>&lt;p&gt;The partnership generated a prototype that utilises Fujitsu GlobeRanger software, Microsoft Azure and a cellular connection from Digicel to gather &amp;hellip;  &lt;a href=&#34;http://www.looptt.com/content/microsoft-partnership-revolutionise-underwater-quality-testing&#34; onclick=&#34;trackOutboundLink(&#39;http://www.looptt.com/content/microsoft-partnership-revolutionise-underwater-quality-testing&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft adds Cross-Platform Support for Azure Relay Hybrid Connections</title>
-      <link>//crypt0.net/post/microsoft-adds-crossplatform-support-for-azure-relay-hybrid-connections/</link>
-      <pubDate>Sat, 01 Apr 2017 14:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-adds-crossplatform-support-for-azure-relay-hybrid-connections/</guid>
-      <description>&lt;p&gt;Microsoft recently announced their Azure Relay Hybrid Connections service has reached General Availability. The Azure Relay Hybrid Connections &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2017/04/Azure-Hybrid-Connections&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2017/04/Azure-Hybrid-Connections&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

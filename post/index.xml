@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 02 Apr 2017 19:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Apr 2017 19:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Web Application Firewall Generally Available</title>
+      <link>//crypt0.net/post/azure-web-application-firewall-generally-available/</link>
+      <pubDate>Sun, 02 Apr 2017 19:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-web-application-firewall-generally-available/</guid>
+      <description>&lt;p&gt;Microsoft&amp;rsquo;s cloud platform Azure has a new addition to the family. All public regions now have the Web Application Firewall available, following its &amp;hellip;  &lt;a href=&#34;https://www.lifehacker.com.au/2017/04/azure-web-application-firewall-generally-available/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.lifehacker.com.au/2017/04/azure-web-application-firewall-generally-available/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Interview: Commvault on data protection, security &amp; why businesses must</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;second note: When running qemu without no support for HW virtualization setting &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1678636&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1678636&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vantage point: Insights from cutting-edge research</title>
-      <link>//crypt0.net/post/vantage-point-insights-from-cuttingedge-research/</link>
-      <pubDate>Sun, 02 Apr 2017 10:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vantage-point-insights-from-cuttingedge-research/</guid>
-      <description>&lt;p&gt;Gemalto, an international digital security company, has released the findings of the Breach Level Index. About 33 reported data breaches led to almost &amp;hellip;  &lt;a href=&#34;http://www.business-standard.com/article/companies/vantage-point-insights-from-cutting-edge-research-117040200732_1.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.business-standard.com/article/companies/vantage-point-insights-from-cutting-edge-research-117040200732_1.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
