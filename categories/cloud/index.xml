@@ -7,8 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 02 Apr 2017 15:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Apr 2017 18:05:01 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Cloud Computing News from @cloudfeednet - Apr 2, 2017</title>
+      <link>//crypt0.net/daily/daily-cloud-news-2017-04-02/</link>
+      <pubDate>Sun, 02 Apr 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-cloud-news-2017-04-02/</guid>
+      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;The view of project snapshot gets error&lt;/h3&gt;
+&lt;p&gt;with raising Exception, the project view will redirect to DEBUG page.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1678351&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1678351&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Forget Google Moonshots, Alphabet to Open Data Center in Mars Next Year&lt;/h3&gt;
+&lt;p&gt;But now, Google Cloud Platform has suddenly been resurrected in a big way (not that it died, but it was fairly dormant) and plans are afoot to expand &amp;hellip;  &lt;a href=&#34;http://1reddrop.com/2017/04/01/forget-google-moonshots-alphabet-open-data-center-mars-next-year/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/04/01/forget-google-moonshots-alphabet-open-data-center-mars-next-year/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;AWS QuickSight now lets you export data in CSV format&lt;/h3&gt;
+&lt;p&gt;Public cloud infrastructure provider Amazon Web Services (AWS) today announced a small but helpful update to Amazon QuickSight, its web-based &amp;hellip;  &lt;a href=&#34;https://venturebeat.com/2017/04/01/aws-quicksight-now-lets-you-export-data-in-csv-format/&#34; onclick=&#34;trackOutboundLink(&#39;https://venturebeat.com/2017/04/01/aws-quicksight-now-lets-you-export-data-in-csv-format/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;One More Reason Why AWS is Tough for Microsoft and Google to Beat in Cloud&lt;/h3&gt;
+&lt;p&gt;1redDrop (blog) As expected, Amazon Web Services is the most popular cloud service provider, running away with medium to large enterprises segment, while &amp;hellip;  &lt;a href=&#34;http://1reddrop.com/2017/04/02/aws-tough-microsoft-google-beat-cloud-computing/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/04/02/aws-tough-microsoft-google-beat-cloud-computing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;One More Reason Why AWS is Tough for Microsoft and Google to Beat in Cloud&lt;/h3&gt;
+&lt;p&gt;1redDrop (blog) &amp;hellip; developers around the world are utilizing top cloud service providers such as Amazon Web Services, Microsoft Azure and Google Cloud Platform.  &lt;a href=&#34;http://1reddrop.com/2017/04/02/aws-tough-microsoft-google-beat-cloud-computing/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/04/02/aws-tough-microsoft-google-beat-cloud-computing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;One More Reason Why AWS is Tough for Microsoft and Google to Beat in Cloud&lt;/h3&gt;
+&lt;p&gt;1redDrop (blog) &amp;hellip; developers around the world are utilizing top cloud service providers such as Amazon Web Services, Microsoft Azure and Google Cloud Platform.  &lt;a href=&#34;http://1reddrop.com/2017/04/02/aws-tough-microsoft-google-beat-cloud-computing/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/04/02/aws-tough-microsoft-google-beat-cloud-computing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Configure live migrations in Administrator Guide&lt;/h3&gt;
+&lt;p&gt;KVM part points to a wrong paragraph at the config-reference. This should &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1678601&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1678601&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Visualize Google Cloud SQL MySQL data in QuickSight.&lt;/h3&gt;
+&lt;p&gt;a Service.  &lt;a href=&#34;https://www.alooma.com/integrations/google-cloud-mysql/quicksight&#34; onclick=&#34;trackOutboundLink(&#39;https://www.alooma.com/integrations/google-cloud-mysql/quicksight&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Load MySQL data to Microsoft Azure SQL Data Warehouse in minutes.&lt;/h3&gt;
+&lt;p&gt;performance of your SQL queries at scale and to generate custom real-time &amp;hellip;  &lt;a href=&#34;https://www.alooma.com/integrations/mysql/microsoft-azure&#34; onclick=&#34;trackOutboundLink(&#39;https://www.alooma.com/integrations/mysql/microsoft-azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;libvirt 2.5 without kvm requires cpu_mode=none&lt;/h3&gt;
+&lt;p&gt;second note: When running qemu without no support for HW virtualization setting &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1678636&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1678636&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Barron&amp;rsquo;s Picks And Pans: Under Armour, CarMax, Lowe&amp;rsquo;s And More&lt;/h3&gt;
+&lt;p&gt;Amazon Web Services as a launch pad for a new generation of start-ups. Why asset managers are marrying stock picking to quant models. How to &amp;hellip;  &lt;a href=&#34;https://www.benzinga.com/trading-ideas/long-ideas/17/04/9246018/barrons-picks-and-pans-under-armour-carmax-lowes-and-more&#34; onclick=&#34;trackOutboundLink(&#39;https://www.benzinga.com/trading-ideas/long-ideas/17/04/9246018/barrons-picks-and-pans-under-armour-carmax-lowes-and-more&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;The Icehouse&amp;rsquo;s Flux Accelerator picks 6 start-ups for 2017 cohort&lt;/h3&gt;
+&lt;p&gt;Through Amazon Web Services&amp;rsquo; Activate program, the six startups will have access to advice from AWS architects and engineers and a grant of credits &amp;hellip;  &lt;a href=&#34;http://www.voxy.co.nz/business/5/279177&#34; onclick=&#34;trackOutboundLink(&#39;http://www.voxy.co.nz/business/5/279177&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Icehouse&#39;s Flux Accelerator picks 6 start-ups for 2017 cohort</title>
@@ -240,18 +286,6 @@
       
       <guid>//crypt0.net/post/microsoft-adds-crossplatform-support-for-azure-relay-hybrid-connections/</guid>
       <description>&lt;p&gt;Microsoft recently announced their Azure Relay Hybrid Connections service has reached General Availability. The Azure Relay Hybrid Connections &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2017/04/Azure-Hybrid-Connections&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2017/04/Azure-Hybrid-Connections&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft announces general availability of Azure Advisor, Monitor, and</title>
-      <link>//crypt0.net/post/microsoft-announces-general-availability-of-azure-advisor-monitor-and/</link>
-      <pubDate>Sat, 01 Apr 2017 11:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-announces-general-availability-of-azure-advisor-monitor-and/</guid>
-      <description>&lt;p&gt;MSPoweruser Microsoft yesterday announced the general availability of Azure Advisor, Monitor, and resource health which will offer robust monitoring &amp;amp; alerting &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-announces-general-availability-azure-advisor-monitor-resource-health/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-announces-general-availability-azure-advisor-monitor-resource-health/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
