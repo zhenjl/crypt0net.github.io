@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Apr 2017 00:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 00:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Core Blimey! Azure moving from physical to virtual cores</title>
+      <link>//crypt0.net/post/core-blimey-azure-moving-from-physical-to-virtual-cores/</link>
+      <pubDate>Tue, 04 Apr 2017 00:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/core-blimey-azure-moving-from-physical-to-virtual-cores/</guid>
+      <description>&lt;p&gt;Microsoft&amp;rsquo;s revealed that virtual machines in its Azure cloud will soon be defined by virtual rather than physical cores. Microsoft says the change is is a &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/04/04/azure_moving_from_physical_to_virtual_cores/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/04/04/azure_moving_from_physical_to_virtual_cores/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google&#39;s video recognition AI is trivially trollable</title>
@@ -282,18 +294,6 @@
       
       <guid>//crypt0.net/post/understanding-microsofts-strategy-to-succeed-in-the-cloud/</guid>
       <description>&lt;p&gt;Microsoft&amp;rsquo;s Commercial Cloud business has an annualized revenue run rate &amp;hellip; In fiscal 2Q17, Microsoft&amp;rsquo;s Azure revenues rose 93%, and its computing &amp;hellip;  &lt;a href=&#34;http://marketrealist.com/2017/04/how-office-365-could-determine-microsofts-success-in-the-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2017/04/how-office-365-could-determine-microsofts-success-in-the-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft to Shut CodePlex to Focus on Cloud Opportunity</title>
-      <link>//crypt0.net/post/microsoft-to-shut-codeplex-to-focus-on-cloud-opportunity/</link>
-      <pubDate>Mon, 03 Apr 2017 16:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-to-shut-codeplex-to-focus-on-cloud-opportunity/</guid>
-      <description>&lt;p&gt;&amp;hellip; with the presence of other major players such as Amazon&amp;rsquo;s AMZN AWS, IBM Corp&amp;rsquo;s IBM IBM Cloud and Alphabet&amp;rsquo;s GOOGL Google Cloud Platform.  &lt;a href=&#34;http://www.nasdaq.com/article/microsoft-to-shut-codeplex-to-focus-on-cloud-opportunity-cm769296&#34; onclick=&#34;trackOutboundLink(&#39;http://www.nasdaq.com/article/microsoft-to-shut-codeplex-to-focus-on-cloud-opportunity-cm769296&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
