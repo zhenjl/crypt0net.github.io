@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Apr 2017 23:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 00:00:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google&#39;s video recognition AI is trivially trollable</title>
+      <link>//crypt0.net/post/googles-video-recognition-ai-is-trivially-trollable/</link>
+      <pubDate>Tue, 04 Apr 2017 00:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/googles-video-recognition-ai-is-trivially-trollable/</guid>
+      <description>&lt;p&gt;Note that we could deceive the Google&amp;rsquo;s Cloud Video Intelligence API, without having any knowledge about the learning algorithms, video annotation &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/04/04/googles_video_ai_is_trivially_trollable/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/04/04/googles_video_ai_is_trivially_trollable/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Why digital advertising is experimenting with blockchain</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/microsofts-open-approach-to-networking/</guid>
       <description>&lt;p&gt;containers, we just announced Microsoft Azure VNet for Containers.  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/microsoft-s-open-approach-to-networking/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/microsoft-s-open-approach-to-networking/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Alibaba, China&#39;s largest cloud provider, to adopt Azure Cloud Switch SONiC</title>
-      <link>//crypt0.net/post/alibaba-chinas-largest-cloud-provider-to-adopt-azure-cloud-switch-sonic/</link>
-      <pubDate>Mon, 03 Apr 2017 20:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/alibaba-chinas-largest-cloud-provider-to-adopt-azure-cloud-switch-sonic/</guid>
-      <description>&lt;p&gt;MSPoweruser Microsoft has announced today that Alibaba, sometimes called Asia&amp;rsquo;s &amp;hellip; for Open Networking in the Cloud, previously called Azure Cloud Switch.  &lt;a href=&#34;https://mspoweruser.com/alibaba-chinas-largest-cloud-provider-adopt-azure-cloud-switch-sonic-platform/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/alibaba-chinas-largest-cloud-provider-adopt-azure-cloud-switch-sonic-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
