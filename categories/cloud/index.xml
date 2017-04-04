@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Apr 2017 12:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 12:10:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>We installed an OpenStack cluster with close to 1000 nodes on Kubernetes.</title>
+      <link>//crypt0.net/post/we-installed-an-openstack-cluster-with-close-to-1000-nodes-on-kubernetes/</link>
+      <pubDate>Tue, 04 Apr 2017 12:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/we-installed-an-openstack-cluster-with-close-to-1000-nodes-on-kubernetes/</guid>
+      <description>&lt;p&gt;Late last year, we did a number of tests that looked at deploying close to 1000 OpenStack nodes on a pre-installed Kubernetes cluster as a way of &amp;hellip;  &lt;a href=&#34;https://www.mirantis.com/blog/we-installed-an-openstack-cluster-with-close-to-1000-nodes-on-kubernetes-heres-what-we-found-out/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/we-installed-an-openstack-cluster-with-close-to-1000-nodes-on-kubernetes-heres-what-we-found-out/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google serves Espresso link-ups for Cloud</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/core-blimey-azure-moving-from-physical-to-virtual-cores/</guid>
       <description>&lt;p&gt;Microsoft&amp;rsquo;s revealed that virtual machines in its Azure cloud will soon be defined by virtual rather than physical cores. Microsoft says the change is is a &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/04/04/azure_moving_from_physical_to_virtual_cores/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/04/04/azure_moving_from_physical_to_virtual_cores/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google&#39;s video recognition AI is trivially trollable</title>
-      <link>//crypt0.net/post/googles-video-recognition-ai-is-trivially-trollable/</link>
-      <pubDate>Tue, 04 Apr 2017 00:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/googles-video-recognition-ai-is-trivially-trollable/</guid>
-      <description>&lt;p&gt;Note that we could deceive the Google&amp;rsquo;s Cloud Video Intelligence API, without having any knowledge about the learning algorithms, video annotation &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/04/04/googles_video_ai_is_trivially_trollable/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/04/04/googles_video_ai_is_trivially_trollable/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

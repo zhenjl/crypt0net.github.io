@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Apr 2017 12:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 12:10:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>We installed an OpenStack cluster with close to 1000 nodes on Kubernetes.</title>
+      <link>//crypt0.net/post/we-installed-an-openstack-cluster-with-close-to-1000-nodes-on-kubernetes/</link>
+      <pubDate>Tue, 04 Apr 2017 12:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/we-installed-an-openstack-cluster-with-close-to-1000-nodes-on-kubernetes/</guid>
+      <description>&lt;p&gt;Late last year, we did a number of tests that looked at deploying close to 1000 OpenStack nodes on a pre-installed Kubernetes cluster as a way of &amp;hellip;  &lt;a href=&#34;https://www.mirantis.com/blog/we-installed-an-openstack-cluster-with-close-to-1000-nodes-on-kubernetes-heres-what-we-found-out/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/we-installed-an-openstack-cluster-with-close-to-1000-nodes-on-kubernetes-heres-what-we-found-out/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google serves Espresso link-ups for Cloud</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/bureau-of-prisons-selects-kevadiya-and-orbcomm-to-provide-telematics/</guid>
       <description>&lt;p&gt;Yahoo Finance ORBCOMM Inc. (ORBC), a leading global provider of Machine-to-Machine (M2M) and Internet of Things (IoT) solutions, announced today that &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/bureau-prisons-selects-kevadiya-orbcomm-123000700.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/bureau-prisons-selects-kevadiya-orbcomm-123000700.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How software architects can control the future of software architecture</title>
-      <link>//crypt0.net/post/how-software-architects-can-control-the-future-of-software-architecture/</link>
-      <pubDate>Tue, 04 Apr 2017 10:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-software-architects-can-control-the-future-of-software-architecture/</guid>
-      <description>&lt;p&gt;According to Richards, these are machine-to-machine communications that it give humans the ability to communicate with our coffee makers, our &amp;hellip;  &lt;a href=&#34;http://sdtimes.com/software-architects-can-control-future-software-architecture/&#34; onclick=&#34;trackOutboundLink(&#39;http://sdtimes.com/software-architects-can-control-future-software-architecture/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
