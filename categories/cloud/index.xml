@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Apr 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Apr 2017 18:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Announcing general availability of Azure HDInsight 3.6</title>
+      <link>//crypt0.net/post/announcing-general-availability-of-azure-hdinsight-36/</link>
+      <pubDate>Tue, 04 Apr 2017 18:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/announcing-general-availability-of-azure-hdinsight-36/</guid>
+      <description>&lt;p&gt;availability of Azure HDInsight 3.6 backed by our enterprise grade SLA.  &lt;a href=&#34;https://azure.microsoft.com/blog/announcing-general-availability-of-azure-hdinsight-3-6/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/blog/announcing-general-availability-of-azure-hdinsight-3-6/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Talks About Upcoming Changes to Azure Access Control Service</title>
+      <link>//crypt0.net/post/microsoft-talks-about-upcoming-changes-to-azure-access-control-service/</link>
+      <pubDate>Tue, 04 Apr 2017 18:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-talks-about-upcoming-changes-to-azure-access-control-service/</guid>
+      <description>&lt;p&gt;Users of Azure Access Control Service (ACS) will see changes to the way service namespaces are created this June, while Microsoft has also &amp;hellip;  &lt;a href=&#34;https://winbuzzer.com/2017/04/04/microsoft-talks-upcoming-changes-azure-access-control-service-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/04/04/microsoft-talks-upcoming-changes-azure-access-control-service-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Apr 4, 2017</title>
@@ -270,30 +294,6 @@
       
       <guid>//crypt0.net/post/dxc-technology-and-microsoft-advance-azure-services-to-accelerate-business/</guid>
       <description>&lt;p&gt;Business Wire (press release) DXC and Microsoft will enable a common experience and consistent service management of Azure services across private DXC data centers and &amp;hellip;  &lt;a href=&#34;http://www.businesswire.com/news/home/20170404006179/en/DXC-Technology-Microsoft-Advance-Azure-Services-Accelerate&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20170404006179/en/DXC-Technology-Microsoft-Advance-Azure-Services-Accelerate&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Advisor, Monitor, and Resource Health Features Hit General</title>
-      <link>//crypt0.net/post/microsoft-azure-advisor-monitor-and-resource-health-features-hit-general/</link>
-      <pubDate>Tue, 04 Apr 2017 12:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-advisor-monitor-and-resource-health-features-hit-general/</guid>
-      <description>&lt;p&gt;WindowsItPro (subscription) Today Microsoft&amp;rsquo;s Oren Rosenbloom, the Principal Program Manager for Microsoft Azure, announced on the Microsoft Azure blog that three new &amp;hellip;  &lt;a href=&#34;http://windowsitpro.com/azure/microsoft-azure-advisor-monitor-and-resource-health-features-hit-general-availability&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsitpro.com/azure/microsoft-azure-advisor-monitor-and-resource-health-features-hit-general-availability&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>We installed an OpenStack cluster with close to 1000 nodes on Kubernetes.</title>
-      <link>//crypt0.net/post/we-installed-an-openstack-cluster-with-close-to-1000-nodes-on-kubernetes/</link>
-      <pubDate>Tue, 04 Apr 2017 12:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/we-installed-an-openstack-cluster-with-close-to-1000-nodes-on-kubernetes/</guid>
-      <description>&lt;p&gt;Late last year, we did a number of tests that looked at deploying close to 1000 OpenStack nodes on a pre-installed Kubernetes cluster as a way of &amp;hellip;  &lt;a href=&#34;https://www.mirantis.com/blog/we-installed-an-openstack-cluster-with-close-to-1000-nodes-on-kubernetes-heres-what-we-found-out/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mirantis.com/blog/we-installed-an-openstack-cluster-with-close-to-1000-nodes-on-kubernetes-heres-what-we-found-out/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
