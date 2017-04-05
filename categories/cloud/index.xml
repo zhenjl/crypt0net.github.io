@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Apr 2017 11:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2017 12:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Azure Cloud Environment Health Check</title>
+      <link>//crypt0.net/post/microsoft-azure-cloud-environment-health-check/</link>
+      <pubDate>Wed, 05 Apr 2017 12:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-cloud-environment-health-check/</guid>
+      <description>&lt;p&gt;&amp;ldquo;health check&amp;rdquo; on an enterprise Azure cloud environment. It would be three days, &amp;hellip;  &lt;a href=&#34;https://www.airtasker.com/tasks/microsoft-azure-cloud-environment-health-check-4426998/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.airtasker.com/tasks/microsoft-azure-cloud-environment-health-check-4426998/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Free Node.js Builds on Google Cloud Functions</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/wrong-values-in-openstack-quota-show-command/</guid>
       <description>&lt;p&gt;project_id fields. step 1. openstack quota show &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1679906&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1679906&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Theres&#39;s no shame in VMware quitting the public cloud</title>
-      <link>//crypt0.net/post/theress-no-shame-in-vmware-quitting-the-public-cloud/</link>
-      <pubDate>Tue, 04 Apr 2017 23:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/theress-no-shame-in-vmware-quitting-the-public-cloud/</guid>
-      <description>&lt;p&gt;ANALYSIS VMware quitting the public cloud by selling vCloud Air to OVH looks like failure, but is the best possible sort of failure because the company &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/04/05/vmware_sells_vcloud_air_to_ovh_analysis/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/04/05/vmware_sells_vcloud_air_to_ovh_analysis/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
