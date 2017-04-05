@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Apr 2017 05:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2017 11:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Free Node.js Builds on Google Cloud Functions</title>
+      <link>//crypt0.net/post/free-nodejs-builds-on-google-cloud-functions/</link>
+      <pubDate>Wed, 05 Apr 2017 11:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/free-nodejs-builds-on-google-cloud-functions/</guid>
+      <description>&lt;p&gt;because they allow developers to think more about code and less &amp;hellip;  &lt;a href=&#34;https://hackernoon.com/free-node-js-builds-on-google-cloud-functions-6e305623e249&#34; onclick=&#34;trackOutboundLink(&#39;https://hackernoon.com/free-node-js-builds-on-google-cloud-functions-6e305623e249&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Provider: google-cloud] Terraform should expect state changes when</title>
+      <link>//crypt0.net/post/provider-googlecloud-terraform-should-expect-state-changes-when/</link>
+      <pubDate>Wed, 05 Apr 2017 11:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/provider-googlecloud-terraform-should-expect-state-changes-when/</guid>
+      <description>&lt;p&gt;[Provider: google-cloud] Terraform should expect state changes when deleting &amp;hellip;.. grubernaut added bug provider/google-cloud labels 25 minutes ago.  &lt;a href=&#34;https://github.com/hashicorp/terraform/issues/13377&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/hashicorp/terraform/issues/13377&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jelastic Private PaaS on Google Cloud Platform: Test Drive in Just a Few</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/theress-no-shame-in-vmware-quitting-the-public-cloud/</guid>
       <description>&lt;p&gt;ANALYSIS VMware quitting the public cloud by selling vCloud Air to OVH looks like failure, but is the best possible sort of failure because the company &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/04/05/vmware_sells_vcloud_air_to_ovh_analysis/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/04/05/vmware_sells_vcloud_air_to_ovh_analysis/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OpenStack becomes a powerful tool for telcos seeking scalable cloud</title>
-      <link>//crypt0.net/post/openstack-becomes-a-powerful-tool-for-telcos-seeking-scalable-cloud/</link>
-      <pubDate>Tue, 04 Apr 2017 22:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-becomes-a-powerful-tool-for-telcos-seeking-scalable-cloud/</guid>
-      <description>&lt;p&gt;SiliconANGLE (blog) OpenStack is a free and open-source software platform for cloud computing that was initially developed by Rackspace and NASA. Used for years by &amp;hellip;  &lt;a href=&#34;http://siliconangle.com/blog/2017/04/04/openstack-becomes-powerful-tool-telcos-seeking-scalable-cloud-solutions-ons2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://siliconangle.com/blog/2017/04/04/openstack-becomes-powerful-tool-telcos-seeking-scalable-cloud-solutions-ons2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>google-python-cloud-debugger 1.15</title>
-      <link>//crypt0.net/post/googlepythonclouddebugger-115/</link>
-      <pubDate>Tue, 04 Apr 2017 22:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/googlepythonclouddebugger-115/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/cloud-debug-python&#34;&gt;https://github.com/GoogleCloudPlatform/cloud-debug-python&lt;/a&gt;; Keywords: google cloud debugger; License: Apache &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/google-python-cloud-debugger/1.15&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/google-python-cloud-debugger/1.15&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
