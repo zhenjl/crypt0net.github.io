@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Apr 2017 23:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2017 01:10:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Docs for V-72055 are incorrect.</title>
+      <link>//crypt0.net/post/docs-for-v72055-are-incorrect/</link>
+      <pubDate>Wed, 05 Apr 2017 01:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/docs-for-v72055-are-incorrect/</guid>
+      <description>&lt;p&gt;implemented and should be documented as such.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1679766&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1679766&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>wrong values in openstack quota show command</title>
@@ -282,18 +294,6 @@
       
       <guid>//crypt0.net/post/amazon-and-googles-reported-interest-in-toshibas-chip-unit-could-be-a/</guid>
       <description>&lt;p&gt;TheStreet.com Both Amazon Web Services (AWS) and the Google Cloud Platform (GCP) now provide clients with a number of computing instances that feature &amp;hellip;  &lt;a href=&#34;http://realmoney.thestreet.com/articles/04/04/2017/amazon-and-googles-reported-interest-toshibas-chip-unit-could-be-sign-things-come&#34; onclick=&#34;trackOutboundLink(&#39;http://realmoney.thestreet.com/articles/04/04/2017/amazon-and-googles-reported-interest-toshibas-chip-unit-could-be-sign-things-come&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Updates coming to Microsoft Azure Access Control Service</title>
-      <link>//crypt0.net/post/updates-coming-to-microsoft-azure-access-control-service/</link>
-      <pubDate>Tue, 04 Apr 2017 16:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/updates-coming-to-microsoft-azure-access-control-service/</guid>
-      <description>&lt;p&gt;authorizing users to gain access to web applications and services, will soon &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/04/04/updates-coming-to-microsoft-azure-access-control-service/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/04/04/updates-coming-to-microsoft-azure-access-control-service/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
