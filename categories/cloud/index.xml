@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Apr 2017 01:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2017 02:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud SQL for PostgreSQL supports PostGIS</title>
+      <link>//crypt0.net/post/google-cloud-sql-for-postgresql-supports-postgis/</link>
+      <pubDate>Wed, 05 Apr 2017 02:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-sql-for-postgresql-supports-postgis/</guid>
+      <description>&lt;p&gt;PostgreSQL 9.6 and seems like they plan to stay in line with PostgreSQL &amp;hellip;  &lt;a href=&#34;http://www.bostongis.com/blog/index.php?/archives/260-Google-Cloud-SQL-for-PostgreSQL-supports-PostGIS.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bostongis.com/blog/index.php?/archives/260-Google-Cloud-SQL-for-PostgreSQL-supports-PostGIS.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cloud Wars: Microsoft Azure closes the gap on leader AWS</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/making-google-cloud-faster-more-available-and-costeffective-by-extending/</guid>
       <description>&lt;p&gt;Newsroom America Today, we gave a keynote presentation at the Open Networking Summit, where we shared details about Espresso, Google&amp;rsquo;s peering edge architecture &amp;hellip;  &lt;a href=&#34;http://newsroomamerica.com/story/631136.html&#34; onclick=&#34;trackOutboundLink(&#39;http://newsroomamerica.com/story/631136.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Announcing general availability of Azure HDInsight 3.6</title>
-      <link>//crypt0.net/post/announcing-general-availability-of-azure-hdinsight-36/</link>
-      <pubDate>Tue, 04 Apr 2017 18:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/announcing-general-availability-of-azure-hdinsight-36/</guid>
-      <description>&lt;p&gt;availability of Azure HDInsight 3.6 backed by our enterprise grade SLA.  &lt;a href=&#34;https://azure.microsoft.com/blog/announcing-general-availability-of-azure-hdinsight-3-6/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/blog/announcing-general-availability-of-azure-hdinsight-3-6/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
