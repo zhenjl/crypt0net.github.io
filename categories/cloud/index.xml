@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Apr 2017 22:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2017 23:10:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>neutron : &#39;unicode&#39; object has no attribute &#39;get&#39;</title>
+      <link>//crypt0.net/post/neutron--unicode-object-has-no-attribute-get/</link>
+      <pubDate>Wed, 05 Apr 2017 23:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/neutron--unicode-object-has-no-attribute-get/</guid>
+      <description>&lt;p&gt;list, the shell returns &amp;lsquo;unicode&amp;rsquo; object has no attribute &amp;lsquo;get&amp;rsquo; openstack network &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680071&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680071&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>#TodayIAm sharing stories of amazing women at Google Cloud</title>
@@ -279,18 +291,6 @@
       
       <guid>//crypt0.net/post/survey-large-enterprises-favor-microsoft-azure-over-amazon-cloud/</guid>
       <description>&lt;p&gt;Amazon Web Services (AWS) may be the dominant provider in the overall public cloud market, but new research suggests that it faces serious &amp;hellip;  &lt;a href=&#34;https://rcpmag.com/articles/2017/04/05/azure-vs-aws-in-enterprise.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://rcpmag.com/articles/2017/04/05/azure-vs-aws-in-enterprise.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rackspace Sees Dramatic Growth in Customer Usage of OpenStack</title>
-      <link>//crypt0.net/post/rackspace-sees-dramatic-growth-in-customer-usage-of-openstack/</link>
-      <pubDate>Wed, 05 Apr 2017 16:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rackspace-sees-dramatic-growth-in-customer-usage-of-openstack/</guid>
-      <description>&lt;p&gt;SAN ANTONIO, TX&amp;ndash;(Marketwired - April 05, 2017) - Over the last two years, there have been articles in the press suggesting OpenStack is in trouble.  &lt;a href=&#34;http://www.marketwired.com/press-release/rackspace-sees-dramatic-growth-in-customer-usage-of-openstack-2207951.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.marketwired.com/press-release/rackspace-sees-dramatic-growth-in-customer-usage-of-openstack-2207951.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
