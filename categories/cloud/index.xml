@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Apr 2017 19:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2017 19:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1680165 Changing Openstack project name is not reflected i...</title>
+      <link>//crypt0.net/post/bug-1680165-changing-openstack-project-name-is-not-reflected-i/</link>
+      <pubDate>Wed, 05 Apr 2017 19:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1680165-changing-openstack-project-name-is-not-reflected-i/</guid>
+      <description>&lt;p&gt;an existing project in Openstack, the project name displayed in Contrail UI &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680165&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680165&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DEMO: Oracle OpenStack for Oracle Linux Release 3 Deployment and Management</title>
@@ -279,18 +291,6 @@
       
       <guid>//crypt0.net/post/free-nodejs-builds-on-google-cloud-functions/</guid>
       <description>&lt;p&gt;because they allow developers to think more about code and less &amp;hellip;  &lt;a href=&#34;https://hackernoon.com/free-node-js-builds-on-google-cloud-functions-6e305623e249&#34; onclick=&#34;trackOutboundLink(&#39;https://hackernoon.com/free-node-js-builds-on-google-cloud-functions-6e305623e249&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>[Provider: google-cloud] Terraform should expect state changes when</title>
-      <link>//crypt0.net/post/provider-googlecloud-terraform-should-expect-state-changes-when/</link>
-      <pubDate>Wed, 05 Apr 2017 11:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/provider-googlecloud-terraform-should-expect-state-changes-when/</guid>
-      <description>&lt;p&gt;[Provider: google-cloud] Terraform should expect state changes when deleting &amp;hellip;.. grubernaut added bug provider/google-cloud labels 25 minutes ago.  &lt;a href=&#34;https://github.com/hashicorp/terraform/issues/13377&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/hashicorp/terraform/issues/13377&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
