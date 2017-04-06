@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 06 Apr 2017 04:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Apr 2017 06:10:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IBM Bare Metal Cloud Targets AI with New P100 GPUs</title>
+      <link>//crypt0.net/post/ibm-bare-metal-cloud-targets-ai-with-new-p100-gpus/</link>
+      <pubDate>Thu, 06 Apr 2017 06:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/ibm-bare-metal-cloud-targets-ai-with-new-p100-gpus/</guid>
+      <description>&lt;p&gt;Google  The Google Cloud platform website states that P100s are coming soon. Google will also incorporate AMD FirePro S9300 x2 GPUS into its &amp;hellip;  &lt;a href=&#34;https://www.enterprisetech.com/2017/04/05/ibm-bare-metal-cloud-targets-ai-new-p100-gpus/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.enterprisetech.com/2017/04/05/ibm-bare-metal-cloud-targets-ai-new-p100-gpus/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OVH ramps up US business with vCloud Air buyout</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/google-updates-kubernetes-cloud-container-management/</guid>
       <description>&lt;p&gt;Organizations can use Container-Optimized OS to run Docker containers on Google&amp;rsquo;s Cloud Platform. The operating system is based on the open &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/google-updates-kubernetes-cloud-container-management-capabilities&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/google-updates-kubernetes-cloud-container-management-capabilities&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google unveils Espresso for the peering-edge</title>
-      <link>//crypt0.net/post/google-unveils-espresso-for-the-peeringedge/</link>
-      <pubDate>Wed, 05 Apr 2017 21:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-unveils-espresso-for-the-peeringedge/</guid>
-      <description>&lt;p&gt;Espresso leverages the Google Cloud to create dynamic connection points for customers, resolved in real time, based on constantly updated &amp;hellip;  &lt;a href=&#34;https://thestack.com/cloud/2017/04/05/google-unveils-espresso-for-the-peering-edge/&#34; onclick=&#34;trackOutboundLink(&#39;https://thestack.com/cloud/2017/04/05/google-unveils-espresso-for-the-peering-edge/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
