@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 06 Apr 2017 20:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Apr 2017 21:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Document openstack-doc-tools and openstackdocstheme</title>
+      <link>//crypt0.net/post/document-openstackdoctools-and-openstackdocstheme/</link>
+      <pubDate>Thu, 06 Apr 2017 21:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/document-openstackdoctools-and-openstackdocstheme/</guid>
+      <description>&lt;p&gt;openstackdocstheme, and consolidate it into a new OpenStack Documentation &amp;hellip;  &lt;a href=&#34;https://blueprints.launchpad.net/openstack-doc-tools/+spec/document-tools&#34; onclick=&#34;trackOutboundLink(&#39;https://blueprints.launchpad.net/openstack-doc-tools/+spec/document-tools&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>packaging issues installing contrail on 16.04.2</title>
@@ -258,18 +270,6 @@
       
       <guid>//crypt0.net/post/next-chapter-in-cloud-security-iaas--puleng-technologies-press-office/</guid>
       <description>&lt;p&gt;While in the past, we have thought of start-ups and cloud service providers as the companies dealing with AWS, Azure, or Google Cloud Platform &amp;hellip;  &lt;a href=&#34;http://www.itweb.co.za/index.php?option=com_content&amp;view=article&amp;id=160835&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itweb.co.za/index.php?option=com_content&amp;view=article&amp;id=160835&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Equinix launches new Equinix Cloud Exchange in Ireland</title>
-      <link>//crypt0.net/post/equinix-launches-new-equinix-cloud-exchange-in-ireland/</link>
-      <pubDate>Thu, 06 Apr 2017 03:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/equinix-launches-new-equinix-cloud-exchange-in-ireland/</guid>
-      <description>&lt;p&gt;&amp;hellip; private connections to leading CSPs, including Amazon Web Services (AWS), Google Cloud Platform, IBM SoftLayer, Microsoft Azure ExpressRoute &amp;hellip;  &lt;a href=&#34;https://www.telecompaper.com/news/equinix-launches-new-equinix-cloud-exchange-in-ireland--1191229&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/equinix-launches-new-equinix-cloud-exchange-in-ireland--1191229&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
