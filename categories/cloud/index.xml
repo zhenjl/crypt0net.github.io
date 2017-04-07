@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Apr 2017 15:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Apr 2017 16:00:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Missing HA Guide content: Pacemaker active/passive with HAproxy</title>
+      <link>//crypt0.net/post/missing-ha-guide-content-pacemaker-activepassive-with-haproxy/</link>
+      <pubDate>Fri, 07 Apr 2017 16:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/missing-ha-guide-content-pacemaker-activepassive-with-haproxy/</guid>
+      <description>&lt;p&gt;with HAproxy for replicated storage and shared storage.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680685&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680685&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A New Threat To Intel&#39;s Dominance Of The Datacenter</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/open-source-elastic-analytics-snaps-into-googles-cloud-platform/</guid>
       <description>&lt;p&gt;Open-source search analytics are coming to Google&amp;rsquo;s Cloud Platform courtesty of Elastic. GCP will host Elastic&amp;rsquo;s open-source search and analytics &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/04/07/google_cloud_platform_partners_with_elastic_in_new_analytics_stretch/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/04/07/google_cloud_platform_partners_with_elastic_in_new_analytics_stretch/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Are there any good alternative Google Cloud Platform docs/examples?</title>
-      <link>//crypt0.net/post/are-there-any-good-alternative-google-cloud-platform-docsexamples/</link>
-      <pubDate>Fri, 07 Apr 2017 07:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/are-there-any-good-alternative-google-cloud-platform-docsexamples/</guid>
-      <description>&lt;p&gt;1 point by tiplus 29 minutes ago | hide | past | web | discuss | favorite.  &lt;a href=&#34;https://news.ycombinator.com/item?id=14058195&#34; onclick=&#34;trackOutboundLink(&#39;https://news.ycombinator.com/item?id=14058195&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
