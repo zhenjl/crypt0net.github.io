@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Apr 2017 12:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Apr 2017 12:10:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to get data fom MQTT broker into GE predix cloud</title>
+      <link>//crypt0.net/post/how-to-get-data-fom-mqtt-broker-into-ge-predix-cloud/</link>
+      <pubDate>Fri, 07 Apr 2017 12:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-get-data-fom-mqtt-broker-into-ge-predix-cloud/</guid>
+      <description>&lt;p&gt;sending time series data to MQTT broker. I want to get data received data in &amp;hellip;  &lt;a href=&#34;https://forum.predix.io/questions/20966/how-to-get-data-fom-mqtt-broker-into-ge-predix-clo.html&#34; onclick=&#34;trackOutboundLink(&#39;https://forum.predix.io/questions/20966/how-to-get-data-fom-mqtt-broker-into-ge-predix-clo.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google releases the third developer preview of Android Things</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/ptc-channel-chief-were-developing-a-new-operational-technology-channel-to/</guid>
       <description>&lt;p&gt;CRN based company has looked to Internet of Things technology to enhance its traditional visualization software products, including CAD (computer-aided &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/internet-of-things/300084472/ptc-channel-chief-were-developing-a-new-operational-technology-channel-to-tackle-industrial-iot.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/internet-of-things/300084472/ptc-channel-chief-were-developing-a-new-operational-technology-channel-to-tackle-industrial-iot.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Regulatory framework for M2M on anvil: TRAI</title>
-      <link>//crypt0.net/post/regulatory-framework-for-m2m-on-anvil-trai/</link>
-      <pubDate>Fri, 07 Apr 2017 08:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/regulatory-framework-for-m2m-on-anvil-trai/</guid>
-      <description>&lt;p&gt;Telecom regulator TRAI is coming out with Machine-to-Machine framework guidelines for which it is currently in the process of making &amp;hellip;  &lt;a href=&#34;http://bureaucracytoday.com/latestnews.aspx?id=172948&#34; onclick=&#34;trackOutboundLink(&#39;http://bureaucracytoday.com/latestnews.aspx?id=172948&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
