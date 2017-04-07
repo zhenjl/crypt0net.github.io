@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 06 Apr 2017 20:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Apr 2017 20:40:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>packaging issues installing contrail on 16.04.2</title>
+      <link>//crypt0.net/post/packaging-issues-installing-contrail-on-16042/</link>
+      <pubDate>Thu, 06 Apr 2017 20:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/packaging-issues-installing-contrail-on-16042/</guid>
+      <description>&lt;p&gt;DPkg::Options::=&amp;ndash;force-confold install contrail-openstack Reading package &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680536&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680536&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Here&#39;s why hackers find it so easy to steal your most personal data</title>
@@ -421,18 +433,6 @@
       <description>&lt;p&gt;Data#3 has deployed a hybrid cloud solution within the Victoria State Emergency Service (VIC SES), leveraging Microsoft Azure in a three-year &amp;hellip;  &lt;a href=&#34;http://www.arnnet.com.au/article/617333/data-3-takes-victoria-state-emergency-service-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.arnnet.com.au/article/617333/data-3-takes-victoria-state-emergency-service-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Everything you need to know about the Internet of Things</title>
-      <link>//crypt0.net/post/everything-you-need-to-know-about-the-internet-of-things/</link>
-      <pubDate>Thu, 06 Apr 2017 17:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/everything-you-need-to-know-about-the-internet-of-things/</guid>
-      <description>&lt;p&gt;The Internet of Things is transforming every part of our everyday lives from the home and the office to the city around us. Also known as IoT it refers to &amp;hellip;  &lt;a href=&#34;http://www.manchestereveningnews.co.uk/business/business-news/everything-you-need-know-internet-12857630&#34; onclick=&#34;trackOutboundLink(&#39;http://www.manchestereveningnews.co.uk/business/business-news/everything-you-need-know-internet-12857630&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
