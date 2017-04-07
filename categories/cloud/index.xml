@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 06 Apr 2017 21:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Apr 2017 22:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1680395 [openstack-pike][containers][major-upgrade]docker ...</title>
+      <link>//crypt0.net/post/bug-1680395-openstackpikecontainersmajorupgradedocker-/</link>
+      <pubDate>Thu, 06 Apr 2017 22:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1680395-openstackpikecontainersmajorupgradedocker-/</guid>
+      <description>&lt;p&gt;compute node after upgrading overcloud to containarized services.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680395&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680395&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Document openstack-doc-tools and openstackdocstheme</title>
@@ -258,18 +270,6 @@
       
       <guid>//crypt0.net/post/google-develops-new-machine-learning-api/</guid>
       <description>&lt;p&gt;Apart from the extraction of metadata, the API also allows users to tag scene changes in a video. The videos have to be stored in Google&amp;rsquo;s cloud &amp;hellip;  &lt;a href=&#34;http://www.deccanchronicle.com/technology/in-other-news/060417/google-develops-new-machine-learning-api.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.deccanchronicle.com/technology/in-other-news/060417/google-develops-new-machine-learning-api.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Next chapter in cloud security: IaaS - Puleng Technologies Press Office</title>
-      <link>//crypt0.net/post/next-chapter-in-cloud-security-iaas--puleng-technologies-press-office/</link>
-      <pubDate>Thu, 06 Apr 2017 04:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/next-chapter-in-cloud-security-iaas--puleng-technologies-press-office/</guid>
-      <description>&lt;p&gt;While in the past, we have thought of start-ups and cloud service providers as the companies dealing with AWS, Azure, or Google Cloud Platform &amp;hellip;  &lt;a href=&#34;http://www.itweb.co.za/index.php?option=com_content&amp;view=article&amp;id=160835&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itweb.co.za/index.php?option=com_content&amp;view=article&amp;id=160835&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
