@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Apr 2017 02:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Apr 2017 02:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BitTitan&#39;s Expanded MSPComplete Is All About the Playbook</title>
+      <link>//crypt0.net/post/bittitans-expanded-mspcomplete-is-all-about-the-playbook/</link>
+      <pubDate>Fri, 07 Apr 2017 02:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bittitans-expanded-mspcomplete-is-all-about-the-playbook/</guid>
+      <description>&lt;p&gt;With its close associations to Microsoft, many of those projects are related to Office 365, FastTrack, Azure, OneDrive and other Microsoft products and &amp;hellip;  &lt;a href=&#34;https://rcpmag.com/blogs/scott-bekker/2017/04/bittitan-expands-mspcomplete.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://rcpmag.com/blogs/scott-bekker/2017/04/bittitan-expands-mspcomplete.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Connecting to Microsoft Azure with Node-RED</title>
+      <link>//crypt0.net/post/connecting-to-microsoft-azure-with-nodered/</link>
+      <pubDate>Fri, 07 Apr 2017 02:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/connecting-to-microsoft-azure-with-nodered/</guid>
+      <description>&lt;p&gt;This guide will walk you through adding the IoT Cloud repository to your Intel IoT Gateway and adding support for Microsoft Azure* so you can begin &amp;hellip;  &lt;a href=&#34;http://www.digit.in/apps/connecting-to-microsoft-azure-with-node-red-34497.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digit.in/apps/connecting-to-microsoft-azure-with-node-red-34497.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google&#39;s First Machine Learning Chip (TPU) Is 30x Faster Than CPUs And GPUs</title>
+      <link>//crypt0.net/post/googles-first-machine-learning-chip-tpu-is-30x-faster-than-cpus-and-gpus/</link>
+      <pubDate>Fri, 07 Apr 2017 02:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/googles-first-machine-learning-chip-tpu-is-30x-faster-than-cpus-and-gpus/</guid>
+      <description>&lt;p&gt;TPUs are now powering various Google products like Image Search, Photos, Google Cloud Vision, etc. They also contributed to the drastic &amp;hellip;  &lt;a href=&#34;https://fossbytes.com/googles-home-made-ai-processor-is-30x-faster-than-cpus-and-gpus/&#34; onclick=&#34;trackOutboundLink(&#39;https://fossbytes.com/googles-home-made-ai-processor-is-30x-faster-than-cpus-and-gpus/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Global Internet of Things (IoT) Managed Services Market Research Report</title>
@@ -151,42 +187,6 @@
       <description>&lt;p&gt;CRN DXC Technology is looking to introduce key vendors like ServiceNow and Oracle and sell more Amazon Web Services into the legacy HPE Enterprise &amp;hellip;  &lt;a href=&#34;http://www.crn.com/slide-shows/managed-services/300084436/dxc-evp-mike-nefkens-and-cto-dan-hushon-on-the-aws-opportunity-hpe-relationship-and-competing-against-global-systems-integrators.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/slide-shows/managed-services/300084436/dxc-evp-mike-nefkens-and-cto-dan-hushon-on-the-aws-opportunity-hpe-relationship-and-competing-against-global-systems-integrators.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>EnterpriseDB Releases EDB Postgres Ark DBaaS on the Amazon Web Services</title>
-      <link>//crypt0.net/post/enterprisedb-releases-edb-postgres-ark-dbaas-on-the-amazon-web-services/</link>
-      <pubDate>Fri, 07 Apr 2017 01:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/enterprisedb-releases-edb-postgres-ark-dbaas-on-the-amazon-web-services/</guid>
-      <description>&lt;p&gt;CSO Australia EnterpriseDB (EDB), the database platform company for digital business, today announced the release of the EDB Postgres Ark &amp;hellip;  &lt;a href=&#34;http://www.cso.com.au/mediareleases/29377/enterprisedb-releases-edb-postgres-ark-dbaas-on/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cso.com.au/mediareleases/29377/enterprisedb-releases-edb-postgres-ark-dbaas-on/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hospitals put your personal data at risk: study</title>
-      <link>//crypt0.net/post/hospitals-put-your-personal-data-at-risk-study/</link>
-      <pubDate>Fri, 07 Apr 2017 01:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hospitals-put-your-personal-data-at-risk-study/</guid>
-      <description>&lt;p&gt;Researchers at Michigan State University (MSU) in the US found nearly 1,800 occurrences of large data breaches in patient information over a &amp;hellip;  &lt;a href=&#34;http://indiatoday.intoday.in/story/hospitals-put-your-personal-data-at-risk-study/1/922852.html&#34; onclick=&#34;trackOutboundLink(&#39;http://indiatoday.intoday.in/story/hospitals-put-your-personal-data-at-risk-study/1/922852.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An Ethereum Voting Scheme That Doesn&#39;t Give Away Your Vote</title>
-      <link>//crypt0.net/post/an-ethereum-voting-scheme-that-doesnt-give-away-your-vote/</link>
-      <pubDate>Fri, 07 Apr 2017 00:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/an-ethereum-voting-scheme-that-doesnt-give-away-your-vote/</guid>
-      <description>&lt;p&gt;Voting on the blockchain sounds like a brilliant idea, promising to eliminate fraud while providing complete transparency to the final results.  &lt;a href=&#34;http://www.coindesk.com/voting-scheme-ethereum-doesnt-give-away-vote/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/voting-scheme-ethereum-doesnt-give-away-vote/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
