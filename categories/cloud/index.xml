@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Apr 2017 18:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Apr 2017 21:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1680956 Fail to launch an OpenStack Instance with hugepage...</title>
+      <link>//crypt0.net/post/bug-1680956-fail-to-launch-an-openstack-instance-with-hugepage/</link>
+      <pubDate>Fri, 07 Apr 2017 21:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1680956-fail-to-launch-an-openstack-instance-with-hugepage/</guid>
+      <description>&lt;p&gt;16.04, on top of OpenvSwitch with DPDK, and OVN. I can launch an &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680956&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680956&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Data#3 moves emergency services infrastructure to the cloud in</title>
@@ -309,18 +321,6 @@
       
       <guid>//crypt0.net/post/google-cloud-to-host-open-source-elasticsearch/</guid>
       <description>&lt;p&gt;The Elastic stack &amp;ndash; Elasticsearch, Kibana, and Logstash &amp;ndash; has become a powerful open source alternative for doing real-time searches on generated &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3188332/search-engines/google-cloud-to-host-open-source-elasticsearch.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3188332/search-engines/google-cloud-to-host-open-source-elasticsearch.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Shares New Details About its TPU Machine-Learning Chips</title>
-      <link>//crypt0.net/post/google-shares-new-details-about-its-tpu-machinelearning-chips/</link>
-      <pubDate>Fri, 07 Apr 2017 12:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-shares-new-details-about-its-tpu-machinelearning-chips/</guid>
-      <description>&lt;p&gt;&amp;hellip; throughout our products,&amp;rdquo; Norm Jouppi, a Distinguished Hardware Engineer at Google, wrote in an April 5 post on the Google Cloud Platform Blog.  &lt;a href=&#34;http://windowsitpro.com/business-intelligence/google-shares-new-details-about-its-tpu-machine-learning-chips&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsitpro.com/business-intelligence/google-shares-new-details-about-its-tpu-machine-learning-chips&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
