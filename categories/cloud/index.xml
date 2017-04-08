@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 08 Apr 2017 09:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Apr 2017 12:40:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Add Fullstack test for openstack connector</title>
+      <link>//crypt0.net/post/add-fullstack-test-for-openstack-connector/</link>
+      <pubDate>Sat, 08 Apr 2017 12:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/add-fullstack-test-for-openstack-connector/</guid>
+      <description>&lt;p&gt;test covered os_brick but not openstack connector. We need to setup another &amp;hellip;  &lt;a href=&#34;https://blueprints.launchpad.net/fuxi/+spec/fullstack-for-openstack-connector&#34; onclick=&#34;trackOutboundLink(&#39;https://blueprints.launchpad.net/fuxi/+spec/fullstack-for-openstack-connector&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bug #1680986 Remove consistency group volumes form exception re...</title>
@@ -309,18 +321,6 @@
       
       <guid>//crypt0.net/post/with-vcloud-air-sale-vmware-clears-cloud-computing-path/</guid>
       <description>&lt;p&gt;With the sale of its long languishing vCloud Air offering this week, VMware found a way to step away from the product that has had an uncertain future &amp;hellip;  &lt;a href=&#34;http://searchcloudcomputing.techtarget.com/blog/The-Troposphere/With-vCloud-Air-sale-VMware-clears-cloud-computing-path&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudcomputing.techtarget.com/blog/The-Troposphere/With-vCloud-Air-sale-VMware-clears-cloud-computing-path&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>f5-openstack-agent 9.3.0</title>
-      <link>//crypt0.net/post/f5openstackagent-930/</link>
-      <pubDate>Fri, 07 Apr 2017 16:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/f5openstackagent-930/</guid>
-      <description>&lt;p&gt;f5-openstack-agent-9.3.0.linux-x86_64.tar.gz. F5 Networks Agent for OpenStack services &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/f5-openstack-agent/9.3.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/f5-openstack-agent/9.3.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
