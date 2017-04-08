@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 08 Apr 2017 07:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Apr 2017 09:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bug #1680986 Remove consistency group volumes form exception re...</title>
+      <link>//crypt0.net/post/bug-1680986-remove-consistency-group-volumes-form-exception-re/</link>
+      <pubDate>Sat, 08 Apr 2017 09:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1680986-remove-consistency-group-volumes-form-exception-re/</guid>
+      <description>&lt;p&gt;and execute exception, it will throws an exception. Exception info: &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680986&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680986&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Azure Stack Now Has Support For Apps Service And Azure Functions,</title>
@@ -309,18 +321,6 @@
       
       <guid>//crypt0.net/post/f5openstackagent-930/</guid>
       <description>&lt;p&gt;f5-openstack-agent-9.3.0.linux-x86_64.tar.gz. F5 Networks Agent for OpenStack services &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/f5-openstack-agent/9.3.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/f5-openstack-agent/9.3.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Missing HA Guide content: Pacemaker active/passive with HAproxy</title>
-      <link>//crypt0.net/post/missing-ha-guide-content-pacemaker-activepassive-with-haproxy/</link>
-      <pubDate>Fri, 07 Apr 2017 16:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/missing-ha-guide-content-pacemaker-activepassive-with-haproxy/</guid>
-      <description>&lt;p&gt;with HAproxy for replicated storage and shared storage.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680685&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680685&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
