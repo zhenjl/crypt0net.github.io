@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Apr 2017 17:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Apr 2017 17:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Missing HA Guide content: Messaging service for high availability</title>
+      <link>//crypt0.net/post/missing-ha-guide-content-messaging-service-for-high-availability/</link>
+      <pubDate>Fri, 07 Apr 2017 17:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/missing-ha-guide-content-messaging-service-for-high-availability/</guid>
+      <description>&lt;p&gt;configure RabbitMQ in an active/passive setup using Pacemaker for &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680690&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680690&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Surface Pro 5 News: Microsoft Employee Says Surface Pro 5 Might</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/blockchain-low-among-corporate-investment-priorities-pwc-finds/</guid>
       <description>&lt;p&gt;&amp;lsquo;Big Four&amp;rsquo; consulting firm and accountancy PwC has published a detailed report on the current state of blockchain at large companies. The report &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/blockchain-low-among-large-corporate-investment-priorities-pwc-finds/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/blockchain-low-among-large-corporate-investment-priorities-pwc-finds/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blockchain Tracker: How Blockchain Technology Could Impact Voting in U.S.</title>
-      <link>//crypt0.net/post/blockchain-tracker-how-blockchain-technology-could-impact-voting-in-us/</link>
-      <pubDate>Fri, 07 Apr 2017 15:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-tracker-how-blockchain-technology-could-impact-voting-in-us/</guid>
-      <description>&lt;p&gt;PYMNTS.com With President Trump&amp;rsquo;s claim of voter fraud on a massive scale in the 2016 presidential election, it may be time for the country to rethink its voting &amp;hellip;  &lt;a href=&#34;http://www.pymnts.com/news/blockchain-distributed-ledger/2017/blockchain-tracker-how-blockchain-technology-could-impact-voting-in-u-s-elections-politics-post-election/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pymnts.com/news/blockchain-distributed-ledger/2017/blockchain-tracker-how-blockchain-technology-could-impact-voting-in-u-s-elections-politics-post-election/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Apr 2017 17:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Apr 2017 17:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Missing HA Guide content: Messaging service for high availability</title>
+      <link>//crypt0.net/post/missing-ha-guide-content-messaging-service-for-high-availability/</link>
+      <pubDate>Fri, 07 Apr 2017 17:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/missing-ha-guide-content-messaging-service-for-high-availability/</guid>
+      <description>&lt;p&gt;configure RabbitMQ in an active/passive setup using Pacemaker for &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680690&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680690&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Surface Pro 5 News: Microsoft Employee Says Surface Pro 5 Might</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/todayiam-sharing-stories-of-amazing-women-at-google-cloud/</guid>
       <description>&lt;p&gt;building great customer experiences with Google Cloud technology.  &lt;a href=&#34;http://www.blog.google/topics/google-cloud/todayiam-sharing-stories-amazing-women-google-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.blog.google/topics/google-cloud/todayiam-sharing-stories-amazing-women-google-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How to Copy a Virtual Hard Disk in Microsoft Azure</title>
-      <link>//crypt0.net/post/how-to-copy-a-virtual-hard-disk-in-microsoft-azure/</link>
-      <pubDate>Fri, 07 Apr 2017 09:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-copy-a-virtual-hard-disk-in-microsoft-azure/</guid>
-      <description>&lt;p&gt;For instance, if you choose to deploy Windows Server 2016 Datacenter, &amp;hellip; I will use the AZCopy tool to copy the OS disk of an existing Azure VM to a &amp;hellip;  &lt;a href=&#34;https://www.petri.com/copy-virtual-hard-disk-microsoft-azure&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/copy-virtual-hard-disk-microsoft-azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
