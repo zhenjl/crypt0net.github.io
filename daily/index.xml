@@ -7,8 +7,449 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 06 Apr 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Apr 2017 18:05:01 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/daily/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Cloud Computing News from @cloudfeednet - Apr 7, 2017</title>
+      <link>//crypt0.net/daily/daily-cloud-news-2017-04-07/</link>
+      <pubDate>Fri, 07 Apr 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-cloud-news-2017-04-07/</guid>
+      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;A few reasons why companies choose Dynatrace for monitoring OpenStack&lt;/h3&gt;
+&lt;p&gt;entire application ecosystem around it, and how AppDynamics, New Relic, &amp;hellip;  &lt;a href=&#34;https://www.dynatrace.com/technologies/cloud-and-microservices/openstack-monitoring/appdynamics-new-relic-datadog-compare/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.dynatrace.com/technologies/cloud-and-microservices/openstack-monitoring/appdynamics-new-relic-datadog-compare/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;packaging issues installing contrail on 16.04.2&lt;/h3&gt;
+&lt;p&gt;DPkg::Options::=&amp;ndash;force-confold install contrail-openstack Reading package &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680536&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680536&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Document openstack-doc-tools and openstackdocstheme&lt;/h3&gt;
+&lt;p&gt;openstackdocstheme, and consolidate it into a new OpenStack Documentation &amp;hellip;  &lt;a href=&#34;https://blueprints.launchpad.net/openstack-doc-tools/+spec/document-tools&#34; onclick=&#34;trackOutboundLink(&#39;https://blueprints.launchpad.net/openstack-doc-tools/+spec/document-tools&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Bug #1680395 [openstack-pike][containers][major-upgrade]docker &amp;hellip;&lt;/h3&gt;
+&lt;p&gt;compute node after upgrading overcloud to containarized services.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680395&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680395&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;OVH Announces Intent to Acquire VMware vCloud Air Business&lt;/h3&gt;
+&lt;p&gt;as Foundation for OVH&amp;rsquo;s Launch into the US.  &lt;a href=&#34;http://www.channelpronetwork.com/news/ovh-announces-intent-acquire-vmware-vcloud-air-business&#34; onclick=&#34;trackOutboundLink(&#39;http://www.channelpronetwork.com/news/ovh-announces-intent-acquire-vmware-vcloud-air-business&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Amazon Web Services to open data centers in Sweden in 2018, continuing&lt;/h3&gt;
+&lt;p&gt;GeekWire Amazon Web Services said it will open data centers in Sweden next year to serve customers in Nordic countries such as Denmark, Finland, Iceland &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/amazon-web-services-open-data-centers-sweden-2018/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/amazon-web-services-open-data-centers-sweden-2018/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;BRIEF-DXC Technology announces expanded alliance with Amazon Web Services&lt;/h3&gt;
+&lt;p&gt;April 6 Britain&amp;rsquo;s FTSE 100 index is seen opening down 67 points at 7,264 on Thursday, according to financial bookmakers. * SHELL: Royal Dutch &amp;hellip;  &lt;a href=&#34;http://www.reuters.com/article/brief-dxc-technology-announces-expanded-idUSFWN1HD0NH&#34; onclick=&#34;trackOutboundLink(&#39;http://www.reuters.com/article/brief-dxc-technology-announces-expanded-idUSFWN1HD0NH&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;DXC EVP Mike Nefkens And CTO Dan Hushon On The AWS Opportunity, HPE&lt;/h3&gt;
+&lt;p&gt;CRN DXC Technology is looking to introduce key vendors like ServiceNow and Oracle and sell more Amazon Web Services into the legacy HPE Enterprise &amp;hellip;  &lt;a href=&#34;http://www.crn.com/slide-shows/managed-services/300084436/dxc-evp-mike-nefkens-and-cto-dan-hushon-on-the-aws-opportunity-hpe-relationship-and-competing-against-global-systems-integrators.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/slide-shows/managed-services/300084436/dxc-evp-mike-nefkens-and-cto-dan-hushon-on-the-aws-opportunity-hpe-relationship-and-competing-against-global-systems-integrators.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;EnterpriseDB Releases EDB Postgres Ark DBaaS on the Amazon Web Services&lt;/h3&gt;
+&lt;p&gt;CSO Australia EnterpriseDB (EDB), the database platform company for digital business, today announced the release of the EDB Postgres Ark &amp;hellip;  &lt;a href=&#34;http://www.cso.com.au/mediareleases/29377/enterprisedb-releases-edb-postgres-ark-dbaas-on/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cso.com.au/mediareleases/29377/enterprisedb-releases-edb-postgres-ark-dbaas-on/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Cloud compute services market to hit $68.4 bn in 2020&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;By 2019, 90 per cent of native Cloud IaaS providers will be forced out of this market by the Amazon Web Services (AWS)-Microsoft duopoly,&amp;rdquo; Gartner &amp;hellip;  &lt;a href=&#34;http://economictimes.indiatimes.com/tech/internet/cloud-compute-services-market-to-hit-68-4-bn-in-2020/articleshow/58029383.cms&#34; onclick=&#34;trackOutboundLink(&#39;http://economictimes.indiatimes.com/tech/internet/cloud-compute-services-market-to-hit-68-4-bn-in-2020/articleshow/58029383.cms&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Brings a New Search Option to Its Cloud&lt;/h3&gt;
+&lt;p&gt;The company is working with Elastic to add a new managed search and related analytics services to the Google Cloud Platform, the business that &amp;hellip;  &lt;a href=&#34;http://fortune.com/2017/04/06/google-cloud-elasticsearch/&#34; onclick=&#34;trackOutboundLink(&#39;http://fortune.com/2017/04/06/google-cloud-elasticsearch/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google will launch an Elasticsearch cloud service in second half of 2017&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; and Verizon all do business with both Elastic and Google, Nan Boden, head of global technology partners at Google Cloud, wrote in a blog post.  &lt;a href=&#34;https://venturebeat.com/2017/04/06/google-will-launch-an-elasticsearch-cloud-service-in-second-half-of-2017/&#34; onclick=&#34;trackOutboundLink(&#39;https://venturebeat.com/2017/04/06/google-will-launch-an-elasticsearch-cloud-service-in-second-half-of-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google shows off game changing TPU chips&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; built and collocation data centre projects, Google Cloud Platform appears to have removed this need thanks to a Tensor Processing Unit (TPU).  &lt;a href=&#34;http://www.cbronline.com/news/data-centre/infrastructure/google-shows-off-game-changing-tpu-chips/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/data-centre/infrastructure/google-shows-off-game-changing-tpu-chips/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Cloud Foundry Announces Diverse Speaker Lineup For Silicon Valley Summit&lt;/h3&gt;
+&lt;p&gt;Yahoo News Cloud Foundry&amp;rsquo;s container-based architecture runs apps in any language on your choice of cloud  Google Cloud Platform (GCP), Amazon Web &amp;hellip;  &lt;a href=&#34;https://www.yahoo.com/tech/cloud-foundry-announces-diverse-speaker-lineup-silicon-valley-150000553.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.yahoo.com/tech/cloud-foundry-announces-diverse-speaker-lineup-silicon-valley-150000553.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Connecting to Microsoft Azure with Node-RED&lt;/h3&gt;
+&lt;p&gt;This guide will walk you through adding the IoT Cloud repository to your Intel IoT Gateway and adding support for Microsoft Azure* so you can begin &amp;hellip;  &lt;a href=&#34;http://www.digit.in/apps/connecting-to-microsoft-azure-with-node-red-34497.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digit.in/apps/connecting-to-microsoft-azure-with-node-red-34497.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;BitTitan&amp;rsquo;s Expanded MSPComplete Is All About the Playbook&lt;/h3&gt;
+&lt;p&gt;With its close associations to Microsoft, many of those projects are related to Office 365, FastTrack, Azure, OneDrive and other Microsoft products and &amp;hellip;  &lt;a href=&#34;https://rcpmag.com/blogs/scott-bekker/2017/04/bittitan-expands-mspcomplete.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://rcpmag.com/blogs/scott-bekker/2017/04/bittitan-expands-mspcomplete.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google&amp;rsquo;s First Machine Learning Chip (TPU) Is 30x Faster Than CPUs And GPUs&lt;/h3&gt;
+&lt;p&gt;TPUs are now powering various Google products like Image Search, Photos, Google Cloud Vision, etc. They also contributed to the drastic &amp;hellip;  &lt;a href=&#34;https://fossbytes.com/googles-home-made-ai-processor-is-30x-faster-than-cpus-and-gpus/&#34; onclick=&#34;trackOutboundLink(&#39;https://fossbytes.com/googles-home-made-ai-processor-is-30x-faster-than-cpus-and-gpus/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Cloud partners with Elastic for advanced search and analytics&lt;/h3&gt;
+&lt;p&gt;Google Cloud has announced a new partnership with Elastic, the open source data analytics company behind Kibana, Beats, and Elasticsearch.  &lt;a href=&#34;https://thestack.com/big-data/2017/04/07/google-cloud-partners-with-elastic-for-advanced-search-and-analytics/&#34; onclick=&#34;trackOutboundLink(&#39;https://thestack.com/big-data/2017/04/07/google-cloud-partners-with-elastic-for-advanced-search-and-analytics/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Azure Edging Closer To AWS, Leveraging On Multi-Cloud; Joined by&lt;/h3&gt;
+&lt;p&gt;University Herald Microsoft Azure could wrestle the long-held reign of Amazon Web Services (AWS) now that multi-cloud adoption is gaining ground. Now it gets the &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/72021/20170407/microsoft-azure-edging-closer-aws-leveraging-multi-cloud-joined-alibaba.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/72021/20170407/microsoft-azure-edging-closer-aws-leveraging-multi-cloud-joined-alibaba.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Elastic Brings Search And Analytics To Google Cloud Platform&lt;/h3&gt;
+&lt;p&gt;Google Cloud Platform (GCP) has partnered with California-based data firm Elastic to bring managed support of its open source search and analytics &amp;hellip;  &lt;a href=&#34;http://www.silicon.co.uk/cloud/elastic-google-cloud-platform-208963&#34; onclick=&#34;trackOutboundLink(&#39;http://www.silicon.co.uk/cloud/elastic-google-cloud-platform-208963&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Equinix Exec: We Spent $17B on Data Centers, but Cloud Giants Spend Much&lt;/h3&gt;
+&lt;p&gt;Data Center Knowledge &amp;hellip; the company&amp;rsquo;s senior VP for technical infrastructure, said in his keynote address at the Google Cloud Next conference in San Francisco in March.  &lt;a href=&#34;http://www.datacenterknowledge.com/archives/2017/04/06/equinix-exec-spent-17b-data-centers-cloud-giants-spend-much/?utm_source=internal-link&amp;utm_medium=foot-link&amp;utm_campaign=previous&#34; onclick=&#34;trackOutboundLink(&#39;http://www.datacenterknowledge.com/archives/2017/04/06/equinix-exec-spent-17b-data-centers-cloud-giants-spend-much/?utm_source=internal-link&amp;utm_medium=foot-link&amp;utm_campaign=previous&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Why Google BigQuery excels at BI on big data concurrency&lt;/h3&gt;
+&lt;p&gt;Additionally, the process of moving data to the Google cloud and loading it into BigQuery was simple and well-documented, though Klahr notes the &amp;hellip;  &lt;a href=&#34;http://www.cio.com/article/3188329/big-data/why-google-bigquery-excels-at-bi-on-big-data-concurrency.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3188329/big-data/why-google-bigquery-excels-at-bi-on-big-data-concurrency.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;5 Red-Hot Large-Cap Tech Stocks That Should Beat Earnings Estimates&lt;/h3&gt;
+&lt;p&gt;The analysts point to Google Cloud, which is the largest cloud infrastructure and engages in more technology, infrastructure research and &amp;hellip;  &lt;a href=&#34;http://247wallst.com/technology-3/2017/04/07/5-red-hot-large-cap-tech-stocks-that-should-beat-earnings-estimates/&#34; onclick=&#34;trackOutboundLink(&#39;http://247wallst.com/technology-3/2017/04/07/5-red-hot-large-cap-tech-stocks-that-should-beat-earnings-estimates/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Azure On Fire, Announces Big Update &amp;amp; Now A Formidable Competitor&lt;/h3&gt;
+&lt;p&gt;University Herald Microsoft Azure is on fire again, adding a number of key features on board. The software company this week announced its latest burst of an upgrade &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/72041/20170407/microsoft-azure-azure-stack-microsoft-azure-cloud-computing-cloud-aws-amazon-web-services-azure-news-azure-update-aws-news-azure-pricing-microsoft-news.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/72041/20170407/microsoft-azure-azure-stack-microsoft-azure-cloud-computing-cloud-aws-amazon-web-services-azure-news-azure-update-aws-news-azure-pricing-microsoft-news.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Citrix XenApp and XenDesktop Essentials arrive on Azure Marketplace&lt;/h3&gt;
+&lt;p&gt;Citrix XenApp Essentials and Citrix XenDesktop Essentials are now available on the Microsoft Azure Marketplace on a subscription basis, the &amp;hellip;  &lt;a href=&#34;http://www.cloudpro.co.uk/collaboration/6730/citrix-xenapp-and-xendesktop-essentials-arrive-on-azure-marketplace&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cloudpro.co.uk/collaboration/6730/citrix-xenapp-and-xendesktop-essentials-arrive-on-azure-marketplace&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;MediaValet Announces Integration With Microsoft SharePoint;&lt;/h3&gt;
+&lt;p&gt;Microsoft launched Sharepoint in 2001 to address organizations&amp;rsquo; &amp;hellip; Built exclusively on Microsoft Azure and available on 34 highly secure and hyper &amp;hellip;  &lt;a href=&#34;https://www10.mcadcafe.com/nbc/articles/1/1496848/MediaValet-Announces-Integration-With-Microsoft-SharePoint;-Enabling-Rich-Media-Design-3D-CAD-Files&#34; onclick=&#34;trackOutboundLink(&#39;https://www10.mcadcafe.com/nbc/articles/1/1496848/MediaValet-Announces-Integration-With-Microsoft-SharePoint;-Enabling-Rich-Media-Design-3D-CAD-Files&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Are there any good alternative Google Cloud Platform docs/examples?&lt;/h3&gt;
+&lt;p&gt;1 point by tiplus 29 minutes ago | hide | past | web | discuss | favorite.  &lt;a href=&#34;https://news.ycombinator.com/item?id=14058195&#34; onclick=&#34;trackOutboundLink(&#39;https://news.ycombinator.com/item?id=14058195&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Open source Elastic analytics snaps into Google&amp;rsquo;s Cloud Platform&lt;/h3&gt;
+&lt;p&gt;Open-source search analytics are coming to Google&amp;rsquo;s Cloud Platform courtesty of Elastic. GCP will host Elastic&amp;rsquo;s open-source search and analytics &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/04/07/google_cloud_platform_partners_with_elastic_in_new_analytics_stretch/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/04/07/google_cloud_platform_partners_with_elastic_in_new_analytics_stretch/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;LogoGrab Wins Google Adopt a Startup Spring Programme 2017&lt;/h3&gt;
+&lt;p&gt;The winners will receive 10,000 in Adwords credit, and will become eligible for the Google Cloud Platform for Startup program which comes with &amp;hellip;  &lt;a href=&#34;http://irishtechnews.ie/logograb-wins-google-adopt-a-startup-spring-programme-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://irishtechnews.ie/logograb-wins-google-adopt-a-startup-spring-programme-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;How to Copy a Virtual Hard Disk in Microsoft Azure&lt;/h3&gt;
+&lt;p&gt;For instance, if you choose to deploy Windows Server 2016 Datacenter, &amp;hellip; I will use the AZCopy tool to copy the OS disk of an existing Azure VM to a &amp;hellip;  &lt;a href=&#34;https://www.petri.com/copy-virtual-hard-disk-microsoft-azure&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/copy-virtual-hard-disk-microsoft-azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Dynamics 365 Brings InsideSales Playbooks To Sales Teams;&lt;/h3&gt;
+&lt;p&gt;University Herald Microsoft Dynamics 365 enriches its extensive portfolio by integrating &amp;hellip; highest score for Microsoft Azure in the &amp;ldquo;understand my business&amp;rdquo; category.  &lt;a href=&#34;http://www.universityherald.com/articles/72128/20170407/microsoft-dynamics-365-brings-insidesales-playbooks-sales-teams-continues-reign.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/72128/20170407/microsoft-dynamics-365-brings-insidesales-playbooks-sales-teams-continues-reign.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;TodayIAm sharing stories of amazing women at Google Cloud&lt;/h3&gt;
+&lt;p&gt;building great customer experiences with Google Cloud technology.  &lt;a href=&#34;http://www.blog.google/topics/google-cloud/todayiam-sharing-stories-amazing-women-google-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.blog.google/topics/google-cloud/todayiam-sharing-stories-amazing-women-google-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Report: Microsoft Catching Up to AWS in Enterprise IaaS Race&lt;/h3&gt;
+&lt;p&gt;IaaS vendors are still led by Amazon Web Services (AWS), but Microsoft Azure has emerged as the top competitor. Over half of respondents (55.8 &amp;hellip;  &lt;a href=&#34;http://mspmentor.net/cloud-computing/report-microsoft-catching-aws-enterprise-iaas-race&#34; onclick=&#34;trackOutboundLink(&#39;http://mspmentor.net/cloud-computing/report-microsoft-catching-aws-enterprise-iaas-race&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Cloud to host open source Elasticsearch&lt;/h3&gt;
+&lt;p&gt;The Elastic stack &amp;ndash; Elasticsearch, Kibana, and Logstash &amp;ndash; has become a powerful open source alternative for doing real-time searches on generated &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3188332/search-engines/google-cloud-to-host-open-source-elasticsearch.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3188332/search-engines/google-cloud-to-host-open-source-elasticsearch.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Shares New Details About its TPU Machine-Learning Chips&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; throughout our products,&amp;rdquo; Norm Jouppi, a Distinguished Hardware Engineer at Google, wrote in an April 5 post on the Google Cloud Platform Blog.  &lt;a href=&#34;http://windowsitpro.com/business-intelligence/google-shares-new-details-about-its-tpu-machine-learning-chips&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsitpro.com/business-intelligence/google-shares-new-details-about-its-tpu-machine-learning-chips&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;eGeneration, Cloudly ink deal to provide clients with cloud service&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; between eGeneration and Cloudly, their clients worldwide will be able to use global-standard services like Amazon web services and Google cloud &amp;hellip;  &lt;a href=&#34;http://www.thefinancialexpress-bd.com/2017/04/07/66241/eGeneration,-Cloudly-ink-deal-to-provide-clients-with-cloud-service&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thefinancialexpress-bd.com/2017/04/07/66241/eGeneration,-Cloudly-ink-deal-to-provide-clients-with-cloud-service&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;IoT Channel Chronicles: 10th Magnitude Teams Up With Microsoft To Secure&lt;/h3&gt;
+&lt;p&gt;CRN Microsoft is looking to its channel partners to bring its Azure IoT Suite&amp;rsquo;s security services to customers deploying Internet of Things applications through &amp;hellip;  &lt;a href=&#34;http://m.crn.com/slide-shows/internet-of-things/300084484/iot-channel-chronicles-10th-magnitude-teams-up-with-microsoft-to-secure-medical-suppliers-iot-solution.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://m.crn.com/slide-shows/internet-of-things/300084484/iot-channel-chronicles-10th-magnitude-teams-up-with-microsoft-to-secure-medical-suppliers-iot-solution.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft announces general availability of Azure HDInsight 3.6&lt;/h3&gt;
+&lt;p&gt;At DataWorks Summit, Microsoft announced the general availability of Azure HDInsight 3.6. HDInsight 3.6 comes with various updates to various open &amp;hellip;  &lt;a href=&#34;https://mspoweruser.com/microsoft-announces-general-availability-azure-hdinsight-3-6/&#34; onclick=&#34;trackOutboundLink(&#39;https://mspoweruser.com/microsoft-announces-general-availability-azure-hdinsight-3-6/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Azure Container Registry Manages Docker Images&lt;/h3&gt;
+&lt;p&gt;Microsoft is joining Google and Amazon Web Services in offering a registry for Docker container images as an additional service for Azure Cloud &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/cloud/microsoft-azure-container-registry-manages-docker-images&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/cloud/microsoft-azure-container-registry-manages-docker-images&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Missing HA Guide content: Neutron L3&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://git.openstack.org/cgit/openstack/openstack-manuals/tree/doc/ha-&#34;&gt;https://git.openstack.org/cgit/openstack/openstack-manuals/tree/doc/ha-&lt;/a&gt; &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680692&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680692&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;A New Threat To Intel&amp;rsquo;s Dominance Of The Datacenter&lt;/h3&gt;
+&lt;p&gt;So for Intel, the best-case scenario is that its usage remains limited to Google&amp;rsquo;s cloud itself. As of yet, there is no indication whether Google is planning &amp;hellip;  &lt;a href=&#34;https://seekingalpha.com/article/4061165-new-threat-intels-dominance-datacenter&#34; onclick=&#34;trackOutboundLink(&#39;https://seekingalpha.com/article/4061165-new-threat-intels-dominance-datacenter&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Missing HA Guide content: Pacemaker active/passive with HAproxy&lt;/h3&gt;
+&lt;p&gt;with HAproxy for replicated storage and shared storage.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680685&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680685&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;f5-openstack-agent 9.3.0&lt;/h3&gt;
+&lt;p&gt;f5-openstack-agent-9.3.0.linux-x86_64.tar.gz. F5 Networks Agent for OpenStack services &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/f5-openstack-agent/9.3.0&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/f5-openstack-agent/9.3.0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;With vCloud Air sale, VMware clears cloud computing path&lt;/h3&gt;
+&lt;p&gt;With the sale of its long languishing vCloud Air offering this week, VMware found a way to step away from the product that has had an uncertain future &amp;hellip;  &lt;a href=&#34;http://searchcloudcomputing.techtarget.com/blog/The-Troposphere/With-vCloud-Air-sale-VMware-clears-cloud-computing-path&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudcomputing.techtarget.com/blog/The-Troposphere/With-vCloud-Air-sale-VMware-clears-cloud-computing-path&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Surface Pro 5 News: Microsoft Employee Says Surface Pro 5 Might&lt;/h3&gt;
+&lt;p&gt;University Herald Nonetheless, a Microsoft employee suggested that the hybrid device might be &amp;hellip; Microsoft is said to unleash the Surface Pro 5 to fix several issues of its &amp;hellip;. Apr 07, 2017 AM EDTMicrosoft&amp;rsquo;s Azure Stack preview adds support for Azure &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/72070/20170407/microsoft-surface-pro-5-news-employee-launch-2018-fix-4.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/72070/20170407/microsoft-surface-pro-5-news-employee-launch-2018-fix-4.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Missing HA Guide content: Messaging service for high availability&lt;/h3&gt;
+&lt;p&gt;configure RabbitMQ in an active/passive setup using Pacemaker for &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680690&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680690&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily IoT/Blockchain News from @surgethings - Apr 7, 2017</title>
+      <link>//crypt0.net/daily/daily-iot-news-2017-04-07/</link>
+      <pubDate>Fri, 07 Apr 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-iot-news-2017-04-07/</guid>
+      <description>&lt;p&gt;Daily IoT/Blockchain news from &lt;a href=&#34;http://twitter.com/surgethings&#34;&gt;@surgethings&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Connected IO launches new miniature modem for Internet of Things&lt;/h3&gt;
+&lt;p&gt;ASX-listed Connected IO continues to blaze a trail in the burgeoning internet of things global market with the launch of a new wireless modem device &amp;hellip;  &lt;a href=&#34;https://www.businessnews.com.au/article/Connected-IO-launches-new-miniature-modem-for-Internet-of-Things&#34; onclick=&#34;trackOutboundLink(&#39;https://www.businessnews.com.au/article/Connected-IO-launches-new-miniature-modem-for-Internet-of-Things&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Latest Report Reveals Mac Malware Grew 744% in 2016!&lt;/h3&gt;
+&lt;p&gt;While it&amp;rsquo;s still easier to stay safe from Mac malware  try not to install malicious software  it&amp;rsquo;s more difficult to secure Internet of Things. The Threat &amp;hellip;  &lt;a href=&#34;https://wccftech.com/mac-malware-grew-744-2016/&#34; onclick=&#34;trackOutboundLink(&#39;https://wccftech.com/mac-malware-grew-744-2016/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;W3C: Linked Data Could Help Standardize the Internet of Things&lt;/h3&gt;
+&lt;p&gt;things, temperature, environment, actions, turning the heater on, turning the &amp;hellip;  &lt;a href=&#34;https://thenewstack.io/w3c-linked-data-help-standardize-internet-things/&#34; onclick=&#34;trackOutboundLink(&#39;https://thenewstack.io/w3c-linked-data-help-standardize-internet-things/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Blockchain at the SAP Alumni Help the World Run Better Event on March 24,&lt;/h3&gt;
+&lt;p&gt;Blockchain is currently a topic of great importance among industry professionals and market analysts. It is a cryptographically secure system of sharing &amp;hellip;  &lt;a href=&#34;https://blogs.sap.com/2017/04/06/blockchain-at-the-sap-alumni-help-the-world-run-better-event-on-march-24-2017/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.sap.com/2017/04/06/blockchain-at-the-sap-alumni-help-the-world-run-better-event-on-march-24-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;How Blockchain Improves Security and Transaction Times&lt;/h3&gt;
+&lt;p&gt;important for any individual or business in the coming years.  &lt;a href=&#34;https://due.com/blog/blockchain-improves-security-transaction-times/&#34; onclick=&#34;trackOutboundLink(&#39;https://due.com/blog/blockchain-improves-security-transaction-times/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;New regulations on the horizon: Are your IoT data protection measures up to&lt;/h3&gt;
+&lt;p&gt;TechTarget (blog) It is the Internet of Things, but with an enterprise angle. &amp;hellip; that these imminent changes will affect organizations that analyze internet of things data.  &lt;a href=&#34;http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/New-regulations-on-the-horizon-Are-your-IoT-data-protection-measures-up-to-par&#34; onclick=&#34;trackOutboundLink(&#39;http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/New-regulations-on-the-horizon-Are-your-IoT-data-protection-measures-up-to-par&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Samsung Targets Blockchain Consortia With Nexledger Tech&lt;/h3&gt;
+&lt;p&gt;Global technology giant Samsung today unveiled its Nexledger blockchain platform, alongside a series of other announcements. The solution is &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/samsung-reveals-technology-service-blockchain-consortia/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/samsung-reveals-technology-service-blockchain-consortia/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Blockchain Voting May Lead to Liquid Democracy Globally in 20 Years&lt;/h3&gt;
+&lt;p&gt;Since the advent of the Blockchain and immutable data technology, there have been innovations of voting systems claiming to make it trustless, &amp;hellip;  &lt;a href=&#34;https://cointelegraph.com/news/blockchain-voting-may-lead-to-liquid-democracy-globally-in-20-years&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/blockchain-voting-may-lead-to-liquid-democracy-globally-in-20-years&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;How Does Blockchain Work? - Transactions Without An Intermediary&lt;/h3&gt;
+&lt;p&gt;Blockchain enables transactions in a peer-to-peer network to be validated without the need for an intermediary, thus ensuring traceability and &amp;hellip;  &lt;a href=&#34;https://www.informationsecuritybuzz.com/articles/blockchain-work-transactions-without-intermediary/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.informationsecuritybuzz.com/articles/blockchain-work-transactions-without-intermediary/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Retail distribution made easy by mobile and blockchain&lt;/h3&gt;
+&lt;p&gt;Retailers applying blockchain into retail distribution could eliminate these inefficiencies. Although blockchain took its first breath through bitcoin, the &amp;hellip;  &lt;a href=&#34;http://mobilebusinessinsights.com/2017/04/retail-distribution-made-easy-by-mobile-and-blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;http://mobilebusinessinsights.com/2017/04/retail-distribution-made-easy-by-mobile-and-blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;San Francisco Blockchain Collective Hosts Genesis Launching Event On April&lt;/h3&gt;
+&lt;p&gt;Genesis, a blockchain collaborative hub based in San Francisco, brings together subcultures in arts, technology and entrepreneurship to collaborate, &amp;hellip;  &lt;a href=&#34;http://www.thecwprov.com/story/35075660/san-francisco-blockchain-collective-hosts-genesis-launching-event-on-april-14th&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thecwprov.com/story/35075660/san-francisco-blockchain-collective-hosts-genesis-launching-event-on-april-14th&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google adds Bluetooth APIs and USB support to Android Things Developer&lt;/h3&gt;
+&lt;p&gt;Android Central &amp;hellip; Developer Preview in an effort to encourage developers to make apps and devices that work with its rebranded Internet of Things (IoT) platform.  &lt;a href=&#34;http://www.androidcentral.com/google-adds-helpful-bluetooth-apis-and-usb-support-android-things-developer-preview&#34; onclick=&#34;trackOutboundLink(&#39;http://www.androidcentral.com/google-adds-helpful-bluetooth-apis-and-usb-support-android-things-developer-preview&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;TMX Group Launches First Blockchain-Based Prototype&lt;/h3&gt;
+&lt;p&gt;The company developed the electronic shareholder voting system prototype based on DLT, more commonly known as blockchain technology, &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/tmx-group-launches-first-blockchain-130000302.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/tmx-group-launches-first-blockchain-130000302.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;International Cyber Security Conference Focussed on Blockchain Research&lt;/h3&gt;
+&lt;p&gt;New research on blockchain, bitcoin, data security and privacy was presented at the week-long event, which focuses on the security of vital systems &amp;hellip;  &lt;a href=&#34;http://allcoinsnews.com/2017/04/07/international-cyber-security-conference-focussed-on-blockchain-research/&#34; onclick=&#34;trackOutboundLink(&#39;http://allcoinsnews.com/2017/04/07/international-cyber-security-conference-focussed-on-blockchain-research/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;BRIEF-Nova Lifestyle announces new facility on company&amp;rsquo;s blockchain-based&lt;/h3&gt;
+&lt;p&gt;Reuters &amp;hellip; * Sealed Air Corp - CEO Jerome A. Peribere&amp;rsquo;s 2016 total compensation was $14.8 million versus $8.1 million in 2015 - sec filing &amp;hellip;  &lt;a href=&#34;http://in.reuters.com/article/brief-nova-lifestyle-announces-new-facil-idINFWN1HE0AQ&#34; onclick=&#34;trackOutboundLink(&#39;http://in.reuters.com/article/brief-nova-lifestyle-announces-new-facil-idINFWN1HE0AQ&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Rash of in-the-wild attacks permanently destroys poorly secured IoT devices&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; a botnet made up of network cameras, digital video recorders, and other so-called Internet-of-things devices. The point of Mirai is to build an army of &amp;hellip;  &lt;a href=&#34;https://arstechnica.co.uk/security/2017/04/rash-of-in-the-wild-attacks-permanently-destroys-poorly-secured-iot-devices/&#34; onclick=&#34;trackOutboundLink(&#39;https://arstechnica.co.uk/security/2017/04/rash-of-in-the-wild-attacks-permanently-destroys-poorly-secured-iot-devices/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Institutional FX Blockchain Startup Cobalt DL Partners with LMRKTS&lt;/h3&gt;
+&lt;p&gt;Cobalt DL, a blockchain startup co-founded by former Traiana CEO Andrew Coyne and former Mako FX owner Adrian Patten for developing an FX &amp;hellip;  &lt;a href=&#34;https://www.financemagnates.com/cryptocurrency/news/institutional-fx-blockchain-startup-cobalt-dl-partners-lmrkts/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.financemagnates.com/cryptocurrency/news/institutional-fx-blockchain-startup-cobalt-dl-partners-lmrkts/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Russian banks fail to access R3 blockchain consortium membership Report&lt;/h3&gt;
+&lt;p&gt;A source told Kommersant that the bank&amp;rsquo;s application to join the blockchain consortium would not pass due to the sanctions, as quoted by CoinFox.  &lt;a href=&#34;http://www.econotimes.com/Russian-banks-fail-to-access-R3-blockchain-consortium-membership--Report-632708&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/Russian-banks-fail-to-access-R3-blockchain-consortium-membership--Report-632708&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;An Ethereum Voting Scheme That Doesn&amp;rsquo;t Give Away Your Vote&lt;/h3&gt;
+&lt;p&gt;Voting on the blockchain sounds like a brilliant idea, promising to eliminate fraud while providing complete transparency to the final results.  &lt;a href=&#34;http://www.coindesk.com/voting-scheme-ethereum-doesnt-give-away-vote/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/voting-scheme-ethereum-doesnt-give-away-vote/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Tackling The Frontiers, And War Fronts, Of Cyberspace&lt;/h3&gt;
+&lt;p&gt;This is exacerbated when the Internet of Things can be used as a botnet of things, as he defined it. China&amp;rsquo;s own activities in this space can be thought &amp;hellip;  &lt;a href=&#34;http://www.pymnts.com/news/security-and-risk/2017/tackling-the-frontiers-and-war-fronts-of-cyberspace-cybersecurity-innovation-project-2017-internet-of-things/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pymnts.com/news/security-and-risk/2017/tackling-the-frontiers-and-war-fronts-of-cyberspace-cybersecurity-innovation-project-2017-internet-of-things/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Global Internet of Things (IoT) Managed Services Market Research Report&lt;/h3&gt;
+&lt;p&gt;openPR (press release) Internet of Things (IoT) Managed Services Report by Material, Application, and Geography  Global Forecast to 2021 is a professional and in-depth &amp;hellip;  &lt;a href=&#34;http://www.openpr.com/news/494525/Global-Internet-of-Things-IoT-Managed-Services-Market-Research-Report-2017-Analysis-And-Forecast-To-2022.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.openpr.com/news/494525/Global-Internet-of-Things-IoT-Managed-Services-Market-Research-Report-2017-Analysis-And-Forecast-To-2022.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;PTC launches Kinex app range to simplify IIoT adoption&lt;/h3&gt;
+&lt;p&gt;Software company PTC has this week launched a new range of role-based applications for the industrial Internet of Things (IIoT). The new Kinex &amp;hellip;  &lt;a href=&#34;https://internetofbusiness.com/ptc-kinex-app-iiot/&#34; onclick=&#34;trackOutboundLink(&#39;https://internetofbusiness.com/ptc-kinex-app-iiot/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Strategic Sub-Saharan Africa partnership with VOD Communications&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; mobility, cloud, Internet of things (IOT) and machine-to-machine (M2M) product/service offering in the Sub-Saharan African region. The Omni &amp;hellip;  &lt;a href=&#34;http://www.itweb.co.za/index.php?option=com_content&amp;view=article&amp;id=160850&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itweb.co.za/index.php?option=com_content&amp;view=article&amp;id=160850&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;After Mirai, BrickerBot threatens to brick insecure IoT devices&lt;/h3&gt;
+&lt;p&gt;New malware has been spotted in the wild targeting insecure Internet of Things (IoT) devices. But instead of harnessing them to a distributed denial of &amp;hellip;  &lt;a href=&#34;http://www.v3.co.uk/v3-uk/news/3008026/after-mirai-brickerbot-threatens-to-brick-insecure-iot-devices&#34; onclick=&#34;trackOutboundLink(&#39;http://www.v3.co.uk/v3-uk/news/3008026/after-mirai-brickerbot-threatens-to-brick-insecure-iot-devices&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Internet of Things: supply chain&amp;rsquo;s great leap forward&lt;/h3&gt;
+&lt;p&gt;The Internet of Things is dramatically reshaping how retail supply chains operate now and in the future. In the second part of our supply-chain series, &amp;hellip;  &lt;a href=&#34;https://www.retail-week.com/topics/supply-chain/internet-of-things-supply-chains-great-leap-forward/7019705.article&#34; onclick=&#34;trackOutboundLink(&#39;https://www.retail-week.com/topics/supply-chain/internet-of-things-supply-chains-great-leap-forward/7019705.article&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Explore flame detectors market primed to integrate internet of things in&lt;/h3&gt;
+&lt;p&gt;WhaTech Flame detectors have been in use for several decades and the market for flame detectors will continue to grow owing to the critical applications of &amp;hellip;  &lt;a href=&#34;https://www.whatech.com/market-research/consumer/284502-explore-flame-detectors-market-primed-to-integrate-internet-of-things-in-fire-safety-equipment&#34; onclick=&#34;trackOutboundLink(&#39;https://www.whatech.com/market-research/consumer/284502-explore-flame-detectors-market-primed-to-integrate-internet-of-things-in-fire-safety-equipment&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Iridium Communications Inc (IRDM) Stake Increased by State Street Corp&lt;/h3&gt;
+&lt;p&gt;Iridium Communications logo State Street Corp boosted its stake in Iridium Communications Inc (NASDAQ:IRDM) by 10.9% during the fourth quarter, &amp;hellip;  &lt;a href=&#34;https://www.themarketsdaily.com/2017/04/07/iridium-communications-inc-irdm-stake-increased-by-state-street-corp.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.themarketsdaily.com/2017/04/07/iridium-communications-inc-irdm-stake-increased-by-state-street-corp.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Grace Chileshe Will Share Her View On The Impact Of The Internet Of Things&lt;/h3&gt;
+&lt;p&gt;Creamer Media&amp;rsquo;s Engineering News The dawn of the 4th industrial revolution has brought about the phenomena of the Internet of Things (IoT)  a platform that allows for the &amp;hellip;  &lt;a href=&#34;http://www.engineeringnews.co.za/article/grace-chileshe-will-share-her-view-on-the-impact-of-the-internet-of-things-iot-on-asset-management-processes-in-the-oil-gas-industry-at-this-years-saama-conference-2017-04-07&#34; onclick=&#34;trackOutboundLink(&#39;http://www.engineeringnews.co.za/article/grace-chileshe-will-share-her-view-on-the-impact-of-the-internet-of-things-iot-on-asset-management-processes-in-the-oil-gas-industry-at-this-years-saama-conference-2017-04-07&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;IoT and Government: how new tech is driving economic development&lt;/h3&gt;
+&lt;p&gt;Investing in the Internet of Things (IoT) local and national governments are finding a more sustainable way to manage each factor of urban growth and &amp;hellip;  &lt;a href=&#34;http://www.information-age.com/iot-government-new-technology-driving-economic-development-123465610/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.information-age.com/iot-government-new-technology-driving-economic-development-123465610/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Realistic ways to lock down IoT&lt;/h3&gt;
+&lt;p&gt;A lot of recent headlines around the Internet of Things space has revealed how little security are attached to these devices. With more and more &amp;hellip;  &lt;a href=&#34;http://www.csoonline.com/article/3188201/application-security/realistic-ways-to-lock-down-iot.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.csoonline.com/article/3188201/application-security/realistic-ways-to-lock-down-iot.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Samsung Unveils Blockchain-fuelled Nexledger Enterprise Platform&lt;/h3&gt;
+&lt;p&gt;The Korean computing giant Samsung has unveiled three new Blockchain products this week as the firm moves to become a forerunner in the &amp;hellip;  &lt;a href=&#34;https://cointelegraph.com/news/samsung-unveils-blockchain-fuelled-nexledger-enterprise-platform&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/samsung-unveils-blockchain-fuelled-nexledger-enterprise-platform&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;TMX Selects Hyperledger For Blockchain Voting Prototype&lt;/h3&gt;
+&lt;p&gt;Financial services firm TMX Group yesterday became the latest to join the heated race to provide stockholders with blockchain solutions for voting.  &lt;a href=&#34;http://www.coindesk.com/tmx-selects-hyperledger-blockchain-voting-prototype/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/tmx-selects-hyperledger-blockchain-voting-prototype/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Industry Thought Leaders Invest With Blockchain Capital in its&lt;/h3&gt;
+&lt;p&gt;Yahoo Finance SAN FRANCISCO, April 7, 2017 /PRNewswire/ &amp;ndash; Blockchain Capital, the premier venture capital firm investing in blockchain technology companies, &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/industry-thought-leaders-invest-blockchain-120000723.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/industry-thought-leaders-invest-blockchain-120000723.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Ethereum-Based Blockchain Solution for Digital Advertising to Fight Fraud&lt;/h3&gt;
+&lt;p&gt;An LA-based company is using the blockchain for digital advertising to solve the issue of fraud, which can be seen through traditional channels. MetaX &amp;hellip;  &lt;a href=&#34;https://www.cryptocoinsnews.com/ethereum-based-blockchain-solution-digital-advertising-fight-fraud/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cryptocoinsnews.com/ethereum-based-blockchain-solution-digital-advertising-fight-fraud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;DTCC to create &amp;lsquo;golden copy&amp;rsquo; for CDS with blockchain&lt;/h3&gt;
+&lt;p&gt;The Depository Trust and Clearing Corporation (DTCC) is deploying blockchain technology to create a replica of its golden copy of record of Credit &amp;hellip;  &lt;a href=&#34;http://www.globalcustodian.com/Technology/DTCC-to-create--golden-copy--for-CDS-with-blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.globalcustodian.com/Technology/DTCC-to-create--golden-copy--for-CDS-with-blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Getting Started with Hyperledger (Blockchain) in the Cloud&lt;/h3&gt;
+&lt;p&gt;their workshop on the basics of Hyperledger and the coding exercise &amp;hellip;  &lt;a href=&#34;https://developer.ibm.com/tv/getting-started-with-hyperledger-blockchain-in-the-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://developer.ibm.com/tv/getting-started-with-hyperledger-blockchain-in-the-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;&amp;lsquo;Firing&amp;rsquo; the customer and other cringe-worthy behaviour hurting trust in&lt;/h3&gt;
+&lt;p&gt;Montreal Gazette Companies involved in the Internet of Things will have to do better than that. After all, trusting the safety and security of your garage door, especially to &amp;hellip;  &lt;a href=&#34;http://montrealgazette.com/opinion/firing-the-customer-and-other-cringe-worthy-behaviour-hurting-trust-in-smart-devices&#34; onclick=&#34;trackOutboundLink(&#39;http://montrealgazette.com/opinion/firing-the-customer-and-other-cringe-worthy-behaviour-hurting-trust-in-smart-devices&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Better Buy: Cypress Semiconductor vs. Synaptics&lt;/h3&gt;
+&lt;p&gt;What&amp;rsquo;s more, the semiconductor specialist&amp;rsquo;s product development moves to target the Internet of Things (IoT) and connected cars seem to be inspiring &amp;hellip;  &lt;a href=&#34;https://www.fool.com/investing/2017/04/07/better-buy-cypress-semiconductor-vs-synaptics.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://www.fool.com/investing/2017/04/07/better-buy-cypress-semiconductor-vs-synaptics.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;IBM Spells Out Its Views On Blockchain In Three &amp;lsquo;Key Elements&amp;rsquo;&lt;/h3&gt;
+&lt;p&gt;IBM has outlined three key elements of Blockchain technology which senior executives should evaluate when considering exploring its benefits.  &lt;a href=&#34;https://cointelegraph.com/news/ibm-spells-out-its-views-on-blockchain-in-three-key-elements&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/ibm-spells-out-its-views-on-blockchain-in-three-key-elements&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;How Blockchain Improves Security And Transaction Times&lt;/h3&gt;
+&lt;p&gt;Originally created as part of the cryptocurrency Bitcoin, Blockchain has come to the forefront as a powerful technology that can be implemented across &amp;hellip;  &lt;a href=&#34;http://www.nasdaq.com/article/how-blockchain-improves-security-and-transaction-times-cm771339&#34; onclick=&#34;trackOutboundLink(&#39;http://www.nasdaq.com/article/how-blockchain-improves-security-and-transaction-times-cm771339&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;77 pct of global financial services companies plan to adopt blockchain in&lt;/h3&gt;
+&lt;p&gt;EconoTimes Blockchain technology is moving from hype to reality and real life use cases are set to become much more common, PwC said in a new report.  &lt;a href=&#34;http://www.econotimes.com/77-pct-of-global-financial-services-companies-plan-to-adopt-blockchain-in-live-production-systems-by-2020-PwC-Report-632828&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/77-pct-of-global-financial-services-companies-plan-to-adopt-blockchain-in-live-production-systems-by-2020-PwC-Report-632828&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;UBI BLOCKCHAIN INTERNET, LTD. (OTCBB:UBIA) Files An 8-K Unregistered Sales&lt;/h3&gt;
+&lt;p&gt;Market Exclusive On April 3, 2005, we issued 8,400,000 unregistered restricted Class C non voting common shares, par value $0.001, of UBI Blockchain Internet, Ltd., &amp;hellip;  &lt;a href=&#34;https://marketexclusive.com/ubi-blockchain-internet-ltd-otcbbubia-files-an-8-k-unregistered-sales-of-equity-securities/91128/&#34; onclick=&#34;trackOutboundLink(&#39;https://marketexclusive.com/ubi-blockchain-internet-ltd-otcbbubia-files-an-8-k-unregistered-sales-of-equity-securities/91128/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Blockgeeks Lab to host $25000 Hackathon in Toronto with Vitalik Buterin&lt;/h3&gt;
+&lt;p&gt;On Friday, April 21st, Vitalik will take center stage at MaRS Discovery District to discuss the power of the blockchain. Vitalik&amp;rsquo;s speech will center around &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/press-releases/blockgeeks-lab-host-25000-hackathon-toronto-vitalik-buterin/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/press-releases/blockgeeks-lab-host-25000-hackathon-toronto-vitalik-buterin/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Regulatory framework for M2M on anvil: TRAI&lt;/h3&gt;
+&lt;p&gt;Telecom regulator TRAI is coming out with Machine-to-Machine framework guidelines for which it is currently in the process of making &amp;hellip;  &lt;a href=&#34;http://bureaucracytoday.com/latestnews.aspx?id=172948&#34; onclick=&#34;trackOutboundLink(&#39;http://bureaucracytoday.com/latestnews.aspx?id=172948&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Intraday Movers: STARWOOD PROPERTY TRUST, INC. (NYSE:STWD) , Tangoe, Inc.&lt;/h3&gt;
+&lt;p&gt;NYSE Journal (press release) &amp;hellip; and usage, cloud software, infrastructure and services, machine-to-machine connections, enterprise social, and information technology connections, &amp;hellip;  &lt;a href=&#34;http://stockznews.com/intraday-movers-starwood-property-trust-inc-nysestwd-tangoe-inc-nasdaqtngo/&#34; onclick=&#34;trackOutboundLink(&#39;http://stockznews.com/intraday-movers-starwood-property-trust-inc-nysestwd-tangoe-inc-nasdaqtngo/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;PTC Channel Chief: We&amp;rsquo;re Developing A New Operational Technology Channel To&lt;/h3&gt;
+&lt;p&gt;CRN based company has looked to Internet of Things technology to enhance its traditional visualization software products, including CAD (computer-aided &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/internet-of-things/300084472/ptc-channel-chief-were-developing-a-new-operational-technology-channel-to-tackle-industrial-iot.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/internet-of-things/300084472/ptc-channel-chief-were-developing-a-new-operational-technology-channel-to-tackle-industrial-iot.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Researcher: 90% Of &amp;lsquo;Smart&amp;rsquo; TVs Can Be Compromised Remotely&lt;/h3&gt;
+&lt;p&gt;So we&amp;rsquo;ve noted for some time how &amp;ldquo;smart&amp;rdquo; TVs, like most internet of things devices, have exposed countless users&amp;rsquo; privacy courtesy of some decidedly &amp;hellip;  &lt;a href=&#34;https://www.techdirt.com/articles/20170329/14530537039/researcher-90-smart-tvs-can-be-compromised-remotely.shtml&#34; onclick=&#34;trackOutboundLink(&#39;https://www.techdirt.com/articles/20170329/14530537039/researcher-90-smart-tvs-can-be-compromised-remotely.shtml&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Industry Thought Leaders Invest With Blockchain Capital in its&lt;/h3&gt;
+&lt;p&gt;SOURCE Blockchain Capital. SAN FRANCISCO, April 7, 2017 /PRNewswire/ &amp;ndash; Blockchain Capital, the premier venture capital firm investing in &amp;hellip;  &lt;a href=&#34;http://www.kfmbfm.com/story/35094937/industry-thought-leaders-invest-with-blockchain-capital-in-its-ground-breaking-ico&#34; onclick=&#34;trackOutboundLink(&#39;http://www.kfmbfm.com/story/35094937/industry-thought-leaders-invest-with-blockchain-capital-in-its-ground-breaking-ico&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;CSCU 2017 Conference: Millennial, Mobile &amp;amp; the IoT Shaping Payments&lt;/h3&gt;
+&lt;p&gt;The interconnection of emerging payment technology with millennials, mobile, the Internet of Things, artificial intelligence were recurring themes in the &amp;hellip;  &lt;a href=&#34;http://www.cutimes.com/2017/04/07/cscu-2017-conference-millennial-mobile-the-iot-sh&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cutimes.com/2017/04/07/cscu-2017-conference-millennial-mobile-the-iot-sh&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Internet of Things (IoT) Market Size to Reach $185.9 Billion by 2023&lt;/h3&gt;
+&lt;p&gt;MarketWatch Worldwide Internet of Things (IoT) markets are poised to achieve significant growth with the use of sensors, cameras, and platforms that are used to &amp;hellip;  &lt;a href=&#34;http://www.marketwatch.com/story/internet-of-things-iot-market-size-to-reach-1859-billion-by-2023-forecasts-a-report-at-reportsnreportscom-2017-04-07-12203115&#34; onclick=&#34;trackOutboundLink(&#39;http://www.marketwatch.com/story/internet-of-things-iot-market-size-to-reach-1859-billion-by-2023-forecasts-a-report-at-reportsnreportscom-2017-04-07-12203115&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Owner-controlled PKI: The next step in securing the future of IoT&lt;/h3&gt;
+&lt;p&gt;It is the Internet of Things, but with an enterprise angle. &amp;hellip; The internet of things is quickly achieving this status as we barely recognize all the devices &amp;hellip;  &lt;a href=&#34;http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Owner-controlled-PKI-The-next-step-in-securing-the-future-of-IoT&#34; onclick=&#34;trackOutboundLink(&#39;http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Owner-controlled-PKI-The-next-step-in-securing-the-future-of-IoT&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;IoT monetization starts with customer need, not a sales target&lt;/h3&gt;
+&lt;p&gt;For CIOs tasked with building a new revenue stream from internet of things services, understanding your customers&amp;rsquo; expectations comes first.  &lt;a href=&#34;http://internetofthingsagenda.techtarget.com/news/450416479/IoT-monetization-starts-with-customer-need-not-a-sales-target&#34; onclick=&#34;trackOutboundLink(&#39;http://internetofthingsagenda.techtarget.com/news/450416479/IoT-monetization-starts-with-customer-need-not-a-sales-target&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Flexible Thermoelectric Fabric Lets You Power Devices Using Your Body Heat&lt;/h3&gt;
+&lt;p&gt;A newly developed flexible thermoelectric generator can be woven to fit any shape, and could power Internet of Things (IoT) devices without batteries.  &lt;a href=&#34;https://futurism.com/flexible-thermoelectric-fabric-lets-you-power-devices-using-your-body-heat/&#34; onclick=&#34;trackOutboundLink(&#39;https://futurism.com/flexible-thermoelectric-fabric-lets-you-power-devices-using-your-body-heat/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Research and Markets - India Internet of Things Market to Grow at a CAGR of&lt;/h3&gt;
+&lt;p&gt;The internet of things market in India is projected to exhibit a CAGR of over &amp;hellip; Internet of Things (IoT) is an ecosystem, comprising various embedded &amp;hellip;  &lt;a href=&#34;http://www.crossroadstoday.com/story/35096843/research-and-markets-india-internet-of-things-market-to-grow-at-a-cagr-of-22-by-2022-growing-need-for-connectivity-among-devices-in-order-to-automate&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crossroadstoday.com/story/35096843/research-and-markets-india-internet-of-things-market-to-grow-at-a-cagr-of-22-by-2022-growing-need-for-connectivity-among-devices-in-order-to-automate&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Best Internet of Things App Development Companies&lt;/h3&gt;
+&lt;p&gt;connected-devices technology is certainly hard and here is where the relevance of this &amp;hellip;  &lt;a href=&#34;https://growthhackers.com/articles/best-internet-of-things-app-development-companies&#34; onclick=&#34;trackOutboundLink(&#39;https://growthhackers.com/articles/best-internet-of-things-app-development-companies&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;SAP Cloud Platform and the Internet of Things (IoT) with 1Wire, MQTT and&lt;/h3&gt;
+&lt;p&gt;SAP Cloud Platform and the Internet of Things (IoT) with 1Wire, MQTT and Raspberry Pi  Part 3. April 7, 2017 | 1 Views | &amp;hellip;  &lt;a href=&#34;https://blogs.sap.com/2017/04/07/sap-cloud-platform-and-the-internet-of-things-iot-with-1wire-mqtt-and-raspberry-pi-part-3/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.sap.com/2017/04/07/sap-cloud-platform-and-the-internet-of-things-iot-with-1wire-mqtt-and-raspberry-pi-part-3/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Favorable Press Coverage Somewhat Likely to Impact Iridium Communications&lt;/h3&gt;
+&lt;p&gt;Community Financial News Iridium Communications logo Media coverage about Iridium Communications (NASDAQ:IRDM) has trended positive on Friday, according to Alpha &amp;hellip;  &lt;a href=&#34;https://www.com-unik.info/2017/04/07/favorable-press-coverage-somewhat-likely-to-impact-iridium-communications-irdm-stock-price.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.com-unik.info/2017/04/07/favorable-press-coverage-somewhat-likely-to-impact-iridium-communications-irdm-stock-price.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Key Takeaways from the Internet of Manufacturing Business Conference&lt;/h3&gt;
+&lt;p&gt;On behalf of Cisco and the Internet of Things (IoT) Talent Consortium, I recently participated in a panel discussion, Solving the IoT Talent Puzzle, at &amp;hellip;  &lt;a href=&#34;https://blogs.cisco.com/manufacturing/key-takeaways-from-the-internet-of-manufacturing-business-conference&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.cisco.com/manufacturing/key-takeaways-from-the-internet-of-manufacturing-business-conference&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google releases the third developer preview of Android Things&lt;/h3&gt;
+&lt;p&gt;Google is adding new features and bug fixes to its Internet of Things development platform. The company revealed a recent update to the platform, &amp;hellip;  &lt;a href=&#34;http://sdtimes.com/google-releases-third-developer-preview-android-things/&#34; onclick=&#34;trackOutboundLink(&#39;http://sdtimes.com/google-releases-third-developer-preview-android-things/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;How to get data fom MQTT broker into GE predix cloud&lt;/h3&gt;
+&lt;p&gt;sending time series data to MQTT broker. I want to get data received data in &amp;hellip;  &lt;a href=&#34;https://forum.predix.io/questions/20966/how-to-get-data-fom-mqtt-broker-into-ge-predix-clo.html&#34; onclick=&#34;trackOutboundLink(&#39;https://forum.predix.io/questions/20966/how-to-get-data-fom-mqtt-broker-into-ge-predix-clo.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Internet of Things Microcontroller Market: Segmented by Application,and&lt;/h3&gt;
+&lt;p&gt;MilTech Internet of Things Microcontroller Market research report is a professional and in-depth study on the current state of the Internet of Things &amp;hellip;  &lt;a href=&#34;http://www.military-technologies.net/2017/04/07/internet-of-things-microcontroller-market-segmented-by-applicationand-geography-trends-growth-and-forecasts/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.military-technologies.net/2017/04/07/internet-of-things-microcontroller-market-segmented-by-applicationand-geography-trends-growth-and-forecasts/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Highlights of the 15th Annual IBM China Forum&lt;/h3&gt;
+&lt;p&gt;of Things General Manager, who will deliver a keynote speech on cognitive &amp;hellip;  &lt;a href=&#34;https://www.ibm.com/blogs/internet-of-things/15th-annual-ibm-china-forum/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.ibm.com/blogs/internet-of-things/15th-annual-ibm-china-forum/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;The Risks Associated with The Internet of Things (IoT)&lt;/h3&gt;
+&lt;p&gt;It is exciting to see so many new electronic innovations being created today: artificial intelligence (AI) products, innovative apps, smart-home &amp;hellip;  &lt;a href=&#34;http://www.huffingtonpost.com/entry/the-risks-associated-with-the-internet-of-things-iot_us_58e7d029e4b00dd8e016eb5e&#34; onclick=&#34;trackOutboundLink(&#39;http://www.huffingtonpost.com/entry/the-risks-associated-with-the-internet-of-things-iot_us_58e7d029e4b00dd8e016eb5e&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Blockchain Low Among Corporate Investment Priorities, PwC Finds&lt;/h3&gt;
+&lt;p&gt;&amp;lsquo;Big Four&amp;rsquo; consulting firm and accountancy PwC has published a detailed report on the current state of blockchain at large companies. The report &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/blockchain-low-among-large-corporate-investment-priorities-pwc-finds/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/blockchain-low-among-large-corporate-investment-priorities-pwc-finds/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Blockchain Tracker: How Blockchain Technology Could Impact Voting in U.S.&lt;/h3&gt;
+&lt;p&gt;PYMNTS.com With President Trump&amp;rsquo;s claim of voter fraud on a massive scale in the 2016 presidential election, it may be time for the country to rethink its voting &amp;hellip;  &lt;a href=&#34;http://www.pymnts.com/news/blockchain-distributed-ledger/2017/blockchain-tracker-how-blockchain-technology-could-impact-voting-in-u-s-elections-politics-post-election/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pymnts.com/news/blockchain-distributed-ledger/2017/blockchain-tracker-how-blockchain-technology-could-impact-voting-in-u-s-elections-politics-post-election/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;BlockShow Europe 2017 by Cointelegraph Events Became Massive Success,&lt;/h3&gt;
+&lt;p&gt;CoinTelegraph With 560 attendees, 26 exhibitors, and 26 speakers, Blockshow 2017 became the largest international Blockchain-related event ever organized in &amp;hellip;  &lt;a href=&#34;https://cointelegraph.com/news/blockshow-europe-2017-by-cointelegraph-events-became-massive-success-hundreds-attended&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/blockshow-europe-2017-by-cointelegraph-events-became-massive-success-hundreds-attended&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;By This Summer, Bitcoin Will Be Accepted at More Than 260000 Stores in&lt;/h3&gt;
+&lt;p&gt;Futurism Each block in a blockchain is maintain by so-called miners through servers spread all over the world. These miners then receive cryptocurrencies in &amp;hellip;  &lt;a href=&#34;https://futurism.com/by-this-summer-bitcoin-will-be-accepted-at-more-than-260000-stores-in-japan/&#34; onclick=&#34;trackOutboundLink(&#39;https://futurism.com/by-this-summer-bitcoin-will-be-accepted-at-more-than-260000-stores-in-japan/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;BrickerBot malware attacks and destroys unsecure IoT devices&lt;/h3&gt;
+&lt;p&gt;The security firm Radware has come across two new forms of Denial of Service (DOS) malware that is not only attacking but bricking Internet of Things &amp;hellip;  &lt;a href=&#34;https://www.scmagazine.com/brickerbot-malware-attacks-and-destroys-unsecure-iot-devices/article/649375/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.scmagazine.com/brickerbot-malware-attacks-and-destroys-unsecure-iot-devices/article/649375/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Flexible PCB&amp;rsquo;s and the Internet of Things: How the Landscape of PCB Design&lt;/h3&gt;
+&lt;p&gt;With the emerging popularity of the Internet of Things, PCB designers are looking to new strategies to make great designs for this exciting category of &amp;hellip;  &lt;a href=&#34;http://www.altium.com/blog/flexible-pcb%E2%80%99s-and-internet-things-how-landscape-pcb-design-rapidly-changing&#34; onclick=&#34;trackOutboundLink(&#39;http://www.altium.com/blog/flexible-pcb%E2%80%99s-and-internet-things-how-landscape-pcb-design-rapidly-changing&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;3D Printing Will Change How We Build Fabricate Speed Parts&lt;/h3&gt;
+&lt;p&gt;Print times vary from machine to machine and part to part. Factors like the machine&amp;rsquo;s maximum travel speeds (which can be increased to a point before &amp;hellip;  &lt;a href=&#34;http://www.hotrod.com/articles/3d-printing-will-change-build-fabricate-speed-parts/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.hotrod.com/articles/3d-printing-will-change-build-fabricate-speed-parts/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Think Blockchain Is Bullst? This New Initiative Might Change Your Mind&lt;/h3&gt;
+&lt;p&gt;Here are three more reasons to believe in blockchain&amp;rsquo;s chances: ASCAP, SACEM, and PRS for Music. There more than a thousand reasons why &amp;hellip;  &lt;a href=&#34;http://www.digitalmusicnews.com/2017/04/07/blockchain-music-initiative/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digitalmusicnews.com/2017/04/07/blockchain-music-initiative/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily Security News from @trustpath - Apr 7, 2017</title>
+      <link>//crypt0.net/daily/daily-trust-news-2017-04-07/</link>
+      <pubDate>Fri, 07 Apr 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-trust-news-2017-04-07/</guid>
+      <description>&lt;p&gt;Daily Security news from &lt;a href=&#34;http://twitter.com/trustpath&#34;&gt;@trustpath&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;CrowdStrike Named a Leader in IDC MarketScape: Worldwide Endpoint&lt;/h3&gt;
+&lt;p&gt;Business Wire (press release) CrowdStrike Falcon is the first cloud-native endpoint protection solution and the only platform that unifies next-generation AV, endpoint detection and &amp;hellip;  &lt;a href=&#34;http://www.businesswire.com/news/home/20170406005408/en/CrowdStrike-Named-Leader-IDC-MarketScape-Worldwide%C2%A0Endpoint-Specialized&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20170406005408/en/CrowdStrike-Named-Leader-IDC-MarketScape-Worldwide%C2%A0Endpoint-Specialized&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;First time exhibitor Q&amp;amp;A: Live Earth&lt;/h3&gt;
+&lt;p&gt;While enterprise-class video management systems (VMS) and physical security information management (PSIM) software solutions have done a &amp;hellip;  &lt;a href=&#34;http://www.securityinfowatch.com/article/12321814/first-time-exhibitor-qa-live-earth&#34; onclick=&#34;trackOutboundLink(&#39;http://www.securityinfowatch.com/article/12321814/first-time-exhibitor-qa-live-earth&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Here&amp;rsquo;s why hackers find it so easy to steal your most personal data&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; phishing emails, responsible for more than 90-percent of all data breaches), and it&amp;rsquo;s clear that the security community is failing to provide meaningful &amp;hellip;  &lt;a href=&#34;http://www.sandiegouniontribune.com/news/cyber-life/sd-me-connected-stoppinghackers-20170317-story.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.sandiegouniontribune.com/news/cyber-life/sd-me-connected-stoppinghackers-20170317-story.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Large Teaching Hospitals Face Greater Risk of Data Breaches&lt;/h3&gt;
+&lt;p&gt;Response: We examined the hospital data breaches between 2009 and 2016 and found that larger hospitals and hospitals that have a major teaching &amp;hellip;  &lt;a href=&#34;https://medicalresearch.com/author-interviews/large-teaching-hospitals-face-greater-risk-data-breaches/33588/&#34; onclick=&#34;trackOutboundLink(&#39;https://medicalresearch.com/author-interviews/large-teaching-hospitals-face-greater-risk-data-breaches/33588/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;CrowdStrike Named a Leader in IDC MarketScape: Worldwide Endpoint&lt;/h3&gt;
+&lt;p&gt;Yahoo Finance &amp;hellip; unifies next-generation AV, endpoint detection and response (EDR), and a &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt; threat hunting service  all delivered via a single lightweight agent.  &lt;a href=&#34;http://finance.yahoo.com/news/crowdstrike-named-leader-idc-marketscape-120000788.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/crowdstrike-named-leader-idc-marketscape-120000788.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Hospitals put your personal data at risk: study&lt;/h3&gt;
+&lt;p&gt;Researchers at Michigan State University (MSU) in the US found nearly 1,800 occurrences of large data breaches in patient information over a &amp;hellip;  &lt;a href=&#34;http://indiatoday.intoday.in/story/hospitals-put-your-personal-data-at-risk-study/1/922852.html&#34; onclick=&#34;trackOutboundLink(&#39;http://indiatoday.intoday.in/story/hospitals-put-your-personal-data-at-risk-study/1/922852.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Technology Safeguarding The Age-Old Practice Of Financial Data Sharing&lt;/h3&gt;
+&lt;p&gt;Companies like Finicity are striking data-sharing deals in a market climate wrought with data breaches and fraud, too: Earlier this year, the Identity &amp;hellip;  &lt;a href=&#34;http://www.pymnts.com/news/b2b-payments/2017/finicity-data-sharing-exchange-financial-services-wells-fargo-api-privacy-security-finserv-cfpb/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pymnts.com/news/b2b-payments/2017/finicity-data-sharing-exchange-financial-services-wells-fargo-api-privacy-security-finserv-cfpb/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;CrowdStrike Named a Leader in IDC MarketScape: Worldwide Endpoint&lt;/h3&gt;
+&lt;p&gt;Yahoo Finance CrowdStrike Falcon is the first cloud-native endpoint protection solution and the only platform that unifies next-generation AV, endpoint detection and &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/crowdstrike-named-leader-idc-marketscape-120000788.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/crowdstrike-named-leader-idc-marketscape-120000788.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Corporate Cybersecurity Can Only Be as Strong as Your Weakest Link&lt;/h3&gt;
+&lt;p&gt;Data breaches are inevitable; but liability for those breaches may be minimized. Proper training and supervision of employees is an essential element &amp;hellip;  &lt;a href=&#34;http://www.lexology.com/library/detail.aspx?g=d80318b0-68e0-4089-b621-63902c2b2209&#34; onclick=&#34;trackOutboundLink(&#39;http://www.lexology.com/library/detail.aspx?g=d80318b0-68e0-4089-b621-63902c2b2209&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Study finds large data breaches at U.S. hospitals&lt;/h3&gt;
+&lt;p&gt; From 2009 to 2016 healthcare providers reported 1,225 of the total 1,798 data breaches in the United States, researchers at Michigan State University &amp;hellip;  &lt;a href=&#34;http://www.upi.com/Health_News/2017/04/07/Study-finds-large-data-breaches-at-US-hospitals/9881491567297/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.upi.com/Health_News/2017/04/07/Study-finds-large-data-breaches-at-US-hospitals/9881491567297/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Doubt swirls around today&amp;rsquo;s planned wiping of millions of Apple accounts&lt;/h3&gt;
+&lt;p&gt;He found that the vast majority  98 percent  matched accounts already listed as compromised in the Have I Been Pwned collection of data breaches.  &lt;a href=&#34;http://techaeris.com/2017/04/07/planned-wiping-millions-apple-accounts/&#34; onclick=&#34;trackOutboundLink(&#39;http://techaeris.com/2017/04/07/planned-wiping-millions-apple-accounts/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Large Teaching Hospitals more prone to breaches&lt;/h3&gt;
+&lt;p&gt;Large teaching hospitals, or hospitals affiliated with medical schools, are more prone to data breaches according to a recent report published JAMA &amp;hellip;  &lt;a href=&#34;https://www.scmagazine.com/hospitals-affiliated-with-education-institutions-linked-to-more-breaches/article/649200/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.scmagazine.com/hospitals-affiliated-with-education-institutions-linked-to-more-breaches/article/649200/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;CounterTack Adds Data Loss Prevention Capabilities&amp;hellip;&lt;/h3&gt;
+&lt;p&gt;Security vendor bolsters its Endpoint Detection and Response capabilities with the addition of Data Loss Prevention, in a bid to help reduce risk.  &lt;a href=&#34;http://www.eweek.com/security/countertack-adds-data-loss-prevention-capabilities-to-threat-platform&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/security/countertack-adds-data-loss-prevention-capabilities-to-threat-platform&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;CrowdStrike Named a Leader in IDC MarketScape: Worldwide Endpoint&lt;/h3&gt;
+&lt;p&gt;CSO Australia April 7, 2017  CrowdStrike Inc., the leader in cloud-delivered next-generation endpoint protection, today announced that it has been named a &amp;hellip;  &lt;a href=&#34;http://www.cso.com.au/mediareleases/29407/crowdstrike-named-a-leader-in-idc-marketscape/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cso.com.au/mediareleases/29407/crowdstrike-named-a-leader-in-idc-marketscape/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Dtex April Insider Threat Alert: Tax Season May Lead to Increased&lt;/h3&gt;
+&lt;p&gt;MilTech Not all insider threat-driven data breaches are the result of malicious insiders. In fact, most are caused when vulnerable employees fall prey to &amp;hellip;  &lt;a href=&#34;http://www.military-technologies.net/2017/04/07/dtex-april-insider-threat-alert-tax-season-may-lead-to-increased-employee-driven-data-breaches-privacy-violations-2/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.military-technologies.net/2017/04/07/dtex-april-insider-threat-alert-tax-season-may-lead-to-increased-employee-driven-data-breaches-privacy-violations-2/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Should a forced password reset be standard after a data breach?&lt;/h3&gt;
+&lt;p&gt;Yahoo reportedly rejected a forced password reset after numerous data breaches compromised user data. Expert Mike O. Villegas discusses whether &amp;hellip;  &lt;a href=&#34;http://searchsecurity.techtarget.com/answer/Should-a-forced-password-reset-be-standard-after-a-data-breach&#34; onclick=&#34;trackOutboundLink(&#39;http://searchsecurity.techtarget.com/answer/Should-a-forced-password-reset-be-standard-after-a-data-breach&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Insider Threats: What We Know Now&lt;/h3&gt;
+&lt;p&gt;The Verizon report is based on 10,489 real life incidents with 172 confirmed data breaches. Even though the data is different (perception vs reality), &amp;hellip;  &lt;a href=&#34;https://www.forbes.com/sites/robertvamosi/2017/04/07/insider-threats-what-we-know-now/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forbes.com/sites/robertvamosi/2017/04/07/insider-threats-what-we-know-now/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Hundreds of major hospital data breaches gone unreported&lt;/h3&gt;
+&lt;p&gt;Cyber attacks in hospitals are far more prevalent than we think, a new report warns - and experts warn no patient&amp;rsquo;s data is safe anymore. There were &amp;hellip;  &lt;a href=&#34;http://www.dailymail.co.uk/health/article-4391424/Hundreds-major-hospital-data-breaches-gone-unreported.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dailymail.co.uk/health/article-4391424/Hundreds-major-hospital-data-breaches-gone-unreported.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;CounterTack Adds Data Loss Prevention to Endpoint Threat Platform&lt;/h3&gt;
+&lt;p&gt;The security vendor bolsters the endpoint detection and response capabilities of its Endpoint Threat Platform with the addition of data loss prevention &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/security/countertack-adds-data-loss-prevention-to-endpoint-threat-platform&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/security/countertack-adds-data-loss-prevention-to-endpoint-threat-platform&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Monness Crespi Indicates Potential 33.24% Increase In Shares Of Palo Alto&lt;/h3&gt;
+&lt;p&gt;Fiscal Standard Its Advanced Endpoint Protection prevents cyber attacks that run malicious code or exploit software vulnerabilities on a range of fixed and virtual &amp;hellip;  &lt;a href=&#34;http://www.fiscalstandard.com/2017/04/07/monness-crespi-indicates-potential-33-24-increase-in-shares-of-palo-alto-networks/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.fiscalstandard.com/2017/04/07/monness-crespi-indicates-potential-33-24-increase-in-shares-of-palo-alto-networks/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Apr 6, 2017</title>
@@ -1375,135 +1816,6 @@
 
 &lt;p&gt;&lt;h3&gt;Windows Defender tops AV-Test zero-day malware charts for the 3rd straight&lt;/h3&gt;
 &lt;p&gt;TWCN Tech News (blog) &amp;hellip; Symantec Endpoint Protection 14, Symantec Endpoint Protection Cloud 22.8 and Trend Micro Office Scan 12.0 were found as effective as Windows &amp;hellip;  &lt;a href=&#34;http://news.thewindowsclub.com/windows-defender-tops-av-test-zero-day-malware-charts-89233/&#34; onclick=&#34;trackOutboundLink(&#39;http://news.thewindowsclub.com/windows-defender-tops-av-test-zero-day-malware-charts-89233/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Cloud Computing News from @cloudfeednet - Apr 2, 2017</title>
-      <link>//crypt0.net/daily/daily-cloud-news-2017-04-02/</link>
-      <pubDate>Sun, 02 Apr 2017 18:05:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/daily/daily-cloud-news-2017-04-02/</guid>
-      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The view of project snapshot gets error&lt;/h3&gt;
-&lt;p&gt;with raising Exception, the project view will redirect to DEBUG page.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1678351&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1678351&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Forget Google Moonshots, Alphabet to Open Data Center in Mars Next Year&lt;/h3&gt;
-&lt;p&gt;But now, Google Cloud Platform has suddenly been resurrected in a big way (not that it died, but it was fairly dormant) and plans are afoot to expand &amp;hellip;  &lt;a href=&#34;http://1reddrop.com/2017/04/01/forget-google-moonshots-alphabet-open-data-center-mars-next-year/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/04/01/forget-google-moonshots-alphabet-open-data-center-mars-next-year/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;AWS QuickSight now lets you export data in CSV format&lt;/h3&gt;
-&lt;p&gt;Public cloud infrastructure provider Amazon Web Services (AWS) today announced a small but helpful update to Amazon QuickSight, its web-based &amp;hellip;  &lt;a href=&#34;https://venturebeat.com/2017/04/01/aws-quicksight-now-lets-you-export-data-in-csv-format/&#34; onclick=&#34;trackOutboundLink(&#39;https://venturebeat.com/2017/04/01/aws-quicksight-now-lets-you-export-data-in-csv-format/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;One More Reason Why AWS is Tough for Microsoft and Google to Beat in Cloud&lt;/h3&gt;
-&lt;p&gt;1redDrop (blog) As expected, Amazon Web Services is the most popular cloud service provider, running away with medium to large enterprises segment, while &amp;hellip;  &lt;a href=&#34;http://1reddrop.com/2017/04/02/aws-tough-microsoft-google-beat-cloud-computing/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/04/02/aws-tough-microsoft-google-beat-cloud-computing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;One More Reason Why AWS is Tough for Microsoft and Google to Beat in Cloud&lt;/h3&gt;
-&lt;p&gt;1redDrop (blog) &amp;hellip; developers around the world are utilizing top cloud service providers such as Amazon Web Services, Microsoft Azure and Google Cloud Platform.  &lt;a href=&#34;http://1reddrop.com/2017/04/02/aws-tough-microsoft-google-beat-cloud-computing/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/04/02/aws-tough-microsoft-google-beat-cloud-computing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;One More Reason Why AWS is Tough for Microsoft and Google to Beat in Cloud&lt;/h3&gt;
-&lt;p&gt;1redDrop (blog) &amp;hellip; developers around the world are utilizing top cloud service providers such as Amazon Web Services, Microsoft Azure and Google Cloud Platform.  &lt;a href=&#34;http://1reddrop.com/2017/04/02/aws-tough-microsoft-google-beat-cloud-computing/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/04/02/aws-tough-microsoft-google-beat-cloud-computing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Configure live migrations in Administrator Guide&lt;/h3&gt;
-&lt;p&gt;KVM part points to a wrong paragraph at the config-reference. This should &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1678601&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1678601&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Visualize Google Cloud SQL MySQL data in QuickSight.&lt;/h3&gt;
-&lt;p&gt;a Service.  &lt;a href=&#34;https://www.alooma.com/integrations/google-cloud-mysql/quicksight&#34; onclick=&#34;trackOutboundLink(&#39;https://www.alooma.com/integrations/google-cloud-mysql/quicksight&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Load MySQL data to Microsoft Azure SQL Data Warehouse in minutes.&lt;/h3&gt;
-&lt;p&gt;performance of your SQL queries at scale and to generate custom real-time &amp;hellip;  &lt;a href=&#34;https://www.alooma.com/integrations/mysql/microsoft-azure&#34; onclick=&#34;trackOutboundLink(&#39;https://www.alooma.com/integrations/mysql/microsoft-azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;libvirt 2.5 without kvm requires cpu_mode=none&lt;/h3&gt;
-&lt;p&gt;second note: When running qemu without no support for HW virtualization setting &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1678636&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1678636&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Barron&amp;rsquo;s Picks And Pans: Under Armour, CarMax, Lowe&amp;rsquo;s And More&lt;/h3&gt;
-&lt;p&gt;Amazon Web Services as a launch pad for a new generation of start-ups. Why asset managers are marrying stock picking to quant models. How to &amp;hellip;  &lt;a href=&#34;https://www.benzinga.com/trading-ideas/long-ideas/17/04/9246018/barrons-picks-and-pans-under-armour-carmax-lowes-and-more&#34; onclick=&#34;trackOutboundLink(&#39;https://www.benzinga.com/trading-ideas/long-ideas/17/04/9246018/barrons-picks-and-pans-under-armour-carmax-lowes-and-more&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The Icehouse&amp;rsquo;s Flux Accelerator picks 6 start-ups for 2017 cohort&lt;/h3&gt;
-&lt;p&gt;Through Amazon Web Services&amp;rsquo; Activate program, the six startups will have access to advice from AWS architects and engineers and a grant of credits &amp;hellip;  &lt;a href=&#34;http://www.voxy.co.nz/business/5/279177&#34; onclick=&#34;trackOutboundLink(&#39;http://www.voxy.co.nz/business/5/279177&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily IoT/Blockchain News from @surgethings - Apr 2, 2017</title>
-      <link>//crypt0.net/daily/daily-iot-news-2017-04-02/</link>
-      <pubDate>Sun, 02 Apr 2017 18:05:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/daily/daily-iot-news-2017-04-02/</guid>
-      <description>&lt;p&gt;Daily IoT/Blockchain news from &lt;a href=&#34;http://twitter.com/surgethings&#34;&gt;@surgethings&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;What is the Internet of Things?&lt;/h3&gt;
-&lt;p&gt;It features heavily in discussions about the future  and, increasingly, the &amp;hellip;  &lt;a href=&#34;http://www.starproperty.my/index.php/articles/property-news/what-is-the-internet-of-things/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.starproperty.my/index.php/articles/property-news/what-is-the-internet-of-things/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;This is an era of Internet of Things: Top quotes from PM Modi&amp;rsquo;s address at&lt;/h3&gt;
-&lt;p&gt;On Saturday, Prime Minister Narendra Modi addressed over 10,000 aspiring innovators who will be aiming to solve 598 problems at &amp;lsquo;Smart India &amp;hellip;  &lt;a href=&#34;http://www.theinternetofthings.eu/era-internet-things-top-quotes-pm-modi%E2%80%99s-address-hackathon&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theinternetofthings.eu/era-internet-things-top-quotes-pm-modi%E2%80%99s-address-hackathon&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain Entertainment Studio Ropes in Hollywood Talent as Advisor&lt;/h3&gt;
-&lt;p&gt;SingularDTV, a blockchain entertainment studio and rights management platform building a decentralized entertainment industry on the Ethereum &amp;hellip;  &lt;a href=&#34;https://www.cryptocoinsnews.com/blockchain-studio-singulardtv-ropes-in-hollywood-talent/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cryptocoinsnews.com/blockchain-studio-singulardtv-ropes-in-hollywood-talent/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Law Firms in Singapore and Malaysia Launch FinTech Practice&lt;/h3&gt;
-&lt;p&gt;Even though the European Securities and Markets Authority (ESMA) has said that regulatory action for the blockchain at this &amp;lsquo;early stage&amp;rsquo; is still &amp;hellip;  &lt;a href=&#34;https://www.cryptocoinsnews.com/law-firms-singapore-malaysia-launch-fintech-practice/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cryptocoinsnews.com/law-firms-singapore-malaysia-launch-fintech-practice/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Techno techno techno: how gig going in the future will be transformed by&lt;/h3&gt;
-&lt;p&gt;TechRadar The Internet of Things, however, could change this. Researchers at Kingston University in London are taking part in a 15 million Europe-wide project &amp;hellip;  &lt;a href=&#34;http://www.techradar.com/news/techno-techno-techno-how-gig-going-in-the-future-will-be-transformed-by-technology&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techradar.com/news/techno-techno-techno-how-gig-going-in-the-future-will-be-transformed-by-technology&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The Bitcoin / Blockchain Storm Will Completely Change Digital Marketing As&lt;/h3&gt;
-&lt;p&gt;The Bitcoin / Blockchain Storm Will Completely Change Digital Marketing As We Know It. Everything changes! The only constant thing about things, &amp;hellip;  &lt;a href=&#34;https://www.bebee.com/producer/@aleen-zakka/the-bitcoin-blockchain-storm-will-completely-change-digital-marketing-as-we-know-it&#34; onclick=&#34;trackOutboundLink(&#39;https://www.bebee.com/producer/@aleen-zakka/the-bitcoin-blockchain-storm-will-completely-change-digital-marketing-as-we-know-it&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Chain Looks to Secure Blockchain Transactions With Thales&amp;rsquo; Hardware&lt;/h3&gt;
-&lt;p&gt;Chain Inc., a provider of blockchain networks, has integrated a hardware security module from Thales, a provider of data protection solutions, &amp;hellip;  &lt;a href=&#34;https://www.cryptocoinsnews.com/chain-partners-thales-to-secure-blockchain-transactions/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cryptocoinsnews.com/chain-partners-thales-to-secure-blockchain-transactions/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;People from Blockchain industry share their stories about the connections&lt;/h3&gt;
-&lt;p&gt;CoinTelegraph We were looking for the right person to fill the Business development role at Vaultoro. Our needs were very specific, and after tons of ads in different &amp;hellip;  &lt;a href=&#34;https://cointelegraph.com/how-to-make-connections-that-matter&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/how-to-make-connections-that-matter&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amelia Dalton: The Wild West of IoT To the Edge and Back Again with Avnet&lt;/h3&gt;
-&lt;p&gt;Break out your best show saddle and get those spurs on tight. A whole new paradigm is breaking on the horizon. Join us as Jim Beneke (Avnet) and I &amp;hellip;  &lt;a href=&#34;http://www.theinternetofthings.eu/amelia-dalton-wild-west-iot-edge-and-back-again-avnet-and-att&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theinternetofthings.eu/amelia-dalton-wild-west-iot-edge-and-back-again-avnet-and-att&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;IT Infra World Magazine Named Neeve Research Amongst the Top 10 Internet&lt;/h3&gt;
-&lt;p&gt;PR.com (press release) Neeve Research has a successful track record of pioneering, rapidly developing and launching innovative products and services in the IoT arena, &amp;hellip;  &lt;a href=&#34;http://www.pr.com/press-release/711091&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pr.com/press-release/711091&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Understanding Microsoft&amp;rsquo;s Internet of Things Story&lt;/h3&gt;
-&lt;p&gt;The Internet of Things (IoT) is the name used to describe the growing network of connected devices and sensors. This trend is creating an explosion of &amp;hellip;  &lt;a href=&#34;https://www.fool.com/investing/2017/04/02/understanding-microsofts-internet-of-things-story.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://www.fool.com/investing/2017/04/02/understanding-microsofts-internet-of-things-story.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;How to Connect a MQTT Device using C++&lt;/h3&gt;
-&lt;p&gt;For MQTT got one sample program in Java &amp;hellip;  &lt;a href=&#34;https://developer.ibm.com/answers/questions/366763/how-to-connect-a-mqtt-device-using-c.html&#34; onclick=&#34;trackOutboundLink(&#39;https://developer.ibm.com/answers/questions/366763/how-to-connect-a-mqtt-device-using-c.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Kiwi Govt &amp;amp; digital sector align to drive NZ&amp;rsquo;s digital transformation&lt;/h3&gt;
-&lt;p&gt;The New Zealand Government has officially launched a digital sector alliance to explore the economic and social benefits of the Internet of Things &amp;hellip;  &lt;a href=&#34;https://itbrief.co.nz/story/kiwi-govt-digital-sector-align-drive-nzs-digital-transformation/&#34; onclick=&#34;trackOutboundLink(&#39;https://itbrief.co.nz/story/kiwi-govt-digital-sector-align-drive-nzs-digital-transformation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;XPED Ltd (ASX:XPE) Telink Port Completion&lt;/h3&gt;
-&lt;p&gt;Telink is dedicated to the development of highly integrated low power radio frequency and mixed-signal chips fo Internet of Things (&amp;ldquo;IoT&amp;rdquo;) applications.  &lt;a href=&#34;http://www.abnnewswire.net/press/en/87730/XPED-Ltd-(ASX-XPE)-Telink-Port-Completion-87730.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.abnnewswire.net/press/en/87730/XPED-Ltd-(ASX-XPE)-Telink-Port-Completion-87730.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Security News from @trustpath - Apr 2, 2017</title>
-      <link>//crypt0.net/daily/daily-trust-news-2017-04-02/</link>
-      <pubDate>Sun, 02 Apr 2017 18:05:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/daily/daily-trust-news-2017-04-02/</guid>
-      <description>&lt;p&gt;Daily Security news from &lt;a href=&#34;http://twitter.com/trustpath&#34;&gt;@trustpath&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;SIEM Security: As Secure As It SIEMs&lt;/h3&gt;
-&lt;p&gt;security can protect your business from dangerous threats without &amp;hellip;  &lt;a href=&#34;http://www.blackstratus.com/tag/security-event-management/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.blackstratus.com/tag/security-event-management/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;SIEM Security: As Secure As It SIEMs&lt;/h3&gt;
-&lt;p&gt;security can protect your business from dangerous threats without &amp;hellip;  &lt;a href=&#34;http://www.blackstratus.com/tag/security-information-management/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.blackstratus.com/tag/security-information-management/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Gemalto releases findings of 2016 Breach Level Index&lt;/h3&gt;
-&lt;p&gt;Gemalto released the findings of the 2016 Breach Level Index (BLI) revealing that Middle East data breaches are up 16.67 per cent compared to 2015.  &lt;a href=&#34;http://cpifinancial.net/news/post/40349/gemalto-releases-findings-of-2016-breach-level-index&#34; onclick=&#34;trackOutboundLink(&#39;http://cpifinancial.net/news/post/40349/gemalto-releases-findings-of-2016-breach-level-index&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Middle East data hacks on the rise, research shows&lt;/h3&gt;
-&lt;p&gt;The number of data breaches in the Middle East has risen 16.67 percent since 2015 as hackers become increasingly sophisticated, according to &amp;hellip;  &lt;a href=&#34;http://www.arabianbusiness.com/middle-east-data-hacks-on-rise-research-shows-669327.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.arabianbusiness.com/middle-east-data-hacks-on-rise-research-shows-669327.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Vantage point: Insights from cutting-edge research&lt;/h3&gt;
-&lt;p&gt;Gemalto, an international digital security company, has released the findings of the Breach Level Index. About 33 reported data breaches led to almost &amp;hellip;  &lt;a href=&#34;http://www.business-standard.com/article/companies/vantage-point-insights-from-cutting-edge-research-117040200732_1.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.business-standard.com/article/companies/vantage-point-insights-from-cutting-edge-research-117040200732_1.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;More than 44 data records comprised every second in 2016 - digital security&lt;/h3&gt;
-&lt;p&gt;Irish Independent Global digital security company Gemalto&amp;rsquo;s 2016 Breach Level Index shows that 1,792 data breaches led to almost 1.4 billion data records being &amp;hellip;  &lt;a href=&#34;http://www.independent.ie/datasec/more-than-44-data-records-comprised-every-second-in-2016-digital-security-report-35587280.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.independent.ie/datasec/more-than-44-data-records-comprised-every-second-in-2016-digital-security-report-35587280.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Gemalto&amp;rsquo;s Breach Level Index: 1.4 billion compromised data records&lt;/h3&gt;
-&lt;p&gt;Gemalto released the results of its Breach Level Index last week, proving once again that data breaches across the world continue to increase in scale &amp;hellip;  &lt;a href=&#34;https://securitybrief.com.au/story/gemaltos-breach-level-index-14-billion-compromised-data-records/&#34; onclick=&#34;trackOutboundLink(&#39;https://securitybrief.com.au/story/gemaltos-breach-level-index-14-billion-compromised-data-records/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
