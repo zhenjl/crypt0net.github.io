@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 09 Apr 2017 15:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Apr 2017 15:40:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deploying Liferay DXP in Amazon Web Services</title>
+      <link>//crypt0.net/post/deploying-liferay-dxp-in-amazon-web-services/</link>
+      <pubDate>Sun, 09 Apr 2017 15:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/deploying-liferay-dxp-in-amazon-web-services/</guid>
+      <description>&lt;p&gt;infrastructures and cloud-based environments, including Amazon Web Services.  &lt;a href=&#34;https://www.liferay.com/resource/1645493/Deploying+Liferay+DXP+in+Amazon+Web+Services&#34; onclick=&#34;trackOutboundLink(&#39;https://www.liferay.com/resource/1645493/Deploying+Liferay+DXP+in+Amazon+Web+Services&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Better Buy: Amazon.com, Inc. vs Google</title>
@@ -210,18 +222,6 @@
       
       <guid>//crypt0.net/post/10-big-reasons-why-hybrid-cloud-adoption-is-gaining-tremendous-momentum/</guid>
       <description>&lt;p&gt;Evernote, the cross-platform workplace app, moved to Google Cloud Platform recently. It took them 70 days to move 3PB of data into Google Cloud.  &lt;a href=&#34;http://1reddrop.com/2017/04/08/10-big-reasons-hybrid-cloud-adoption-gaining-tremendous-momentum/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/04/08/10-big-reasons-hybrid-cloud-adoption-gaining-tremendous-momentum/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Add Fullstack test for openstack connector</title>
-      <link>//crypt0.net/post/add-fullstack-test-for-openstack-connector/</link>
-      <pubDate>Sat, 08 Apr 2017 12:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/add-fullstack-test-for-openstack-connector/</guid>
-      <description>&lt;p&gt;test covered os_brick but not openstack connector. We need to setup another &amp;hellip;  &lt;a href=&#34;https://blueprints.launchpad.net/fuxi/+spec/fullstack-for-openstack-connector&#34; onclick=&#34;trackOutboundLink(&#39;https://blueprints.launchpad.net/fuxi/+spec/fullstack-for-openstack-connector&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
