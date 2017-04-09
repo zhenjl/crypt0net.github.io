@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 08 Apr 2017 20:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Apr 2017 00:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Get Hands-on with the VM-Series on Microsoft Azure</title>
+      <link>//crypt0.net/post/get-handson-with-the-vmseries-on-microsoft-azure/</link>
+      <pubDate>Sun, 09 Apr 2017 00:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/get-handson-with-the-vmseries-on-microsoft-azure/</guid>
+      <description>&lt;p&gt;Enterprise is unparalleled. Microsoft has built on this legacy with Microsoft Azure to &amp;hellip;  &lt;a href=&#34;https://www.paloaltonetworks.com/company/events/62577/62580/85258/243553&#34; onclick=&#34;trackOutboundLink(&#39;https://www.paloaltonetworks.com/company/events/62577/62580/85258/243553&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Azure Gets New Update; Here Are The Details</title>
@@ -210,18 +222,6 @@
       
       <guid>//crypt0.net/post/bug-1680956-fail-to-launch-an-openstack-instance-with-hugepage/</guid>
       <description>&lt;p&gt;16.04, on top of OpenvSwitch with DPDK, and OVN. I can launch an &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1680956&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1680956&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Data#3 moves emergency services infrastructure to the cloud in</title>
-      <link>//crypt0.net/post/data3-moves-emergency-services-infrastructure-to-the-cloud-in/</link>
-      <pubDate>Fri, 07 Apr 2017 18:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/data3-moves-emergency-services-infrastructure-to-the-cloud-in/</guid>
-      <description>&lt;p&gt;CRN Australia Data#3 was chosen as Vic SES&amp;rsquo;s preferred partner primarily due to their Microsoft capabilities and Azure expertise, as well as their experience in the &amp;hellip;  &lt;a href=&#34;https://www.crn.com.au/news/data3-moves-emergency-services-infrastructure-to-the-cloud-in-australian-first-457522&#34; onclick=&#34;trackOutboundLink(&#39;https://www.crn.com.au/news/data3-moves-emergency-services-infrastructure-to-the-cloud-in-australian-first-457522&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
