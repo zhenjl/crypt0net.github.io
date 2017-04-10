@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 10 Apr 2017 15:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2017 16:30:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Buying Deis To Facilitate Kubernetes on Azure</title>
+      <link>//crypt0.net/post/microsoft-buying-deis-to-facilitate-kubernetes-on-azure/</link>
+      <pubDate>Mon, 10 Apr 2017 16:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-buying-deis-to-facilitate-kubernetes-on-azure/</guid>
+      <description>&lt;p&gt;Microsoft announced plans today to acquire Deis, a startup company that offers open source tools and training to facilitate Kubernetes use.  &lt;a href=&#34;https://redmondmag.com/articles/2017/04/10/microsoft-buying-deis.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/articles/2017/04/10/microsoft-buying-deis.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Look Out AWS and Azure  Google Is Betting Big On The Enterprise Channel</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/microsoft-acquires-opensource-software-builder-deis-to-bolster-container/</guid>
       <description>&lt;p&gt;GeekWire The acquisition is part of Microsoft&amp;rsquo;s overall vision to make Azure the best place to develop reliable and scalable applications. Microsoft cloud chief &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/microsoft-acquires-open-source-software-builder-deis-to-bolster-container-platforms/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/microsoft-acquires-open-source-software-builder-deis-to-bolster-container-platforms/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Container Engine features aim to automate node management</title>
-      <link>//crypt0.net/post/google-container-engine-features-aim-to-automate-node-management/</link>
-      <pubDate>Mon, 10 Apr 2017 09:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-container-engine-features-aim-to-automate-node-management/</guid>
-      <description>&lt;p&gt;Google Cloud Platform looks to persuade users to give its container service another look with automated upgrades and repairs.  &lt;a href=&#34;http://searchitoperations.techtarget.com/news/450416565/Google-Container-Engine-features-aim-to-automate-node-management&#34; onclick=&#34;trackOutboundLink(&#39;http://searchitoperations.techtarget.com/news/450416565/Google-Container-Engine-features-aim-to-automate-node-management&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
