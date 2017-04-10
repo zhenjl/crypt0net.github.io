@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 10 Apr 2017 00:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2017 01:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Episode 71: Mark Mandel, Google Cloud Platform</title>
+      <link>//crypt0.net/post/episode-71-mark-mandel-google-cloud-platform/</link>
+      <pubDate>Mon, 10 Apr 2017 01:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/episode-71-mark-mandel-google-cloud-platform/</guid>
+      <description>&lt;p&gt;Promotion. Scott Bellware presents a Ruby Microservices workshop in &amp;hellip;  &lt;a href=&#34;http://www.vancouvertechpodcast.ca/episodes/65745-episode-71-mark-mandel-google-cloud-platform&#34; onclick=&#34;trackOutboundLink(&#39;http://www.vancouvertechpodcast.ca/episodes/65745-episode-71-mark-mandel-google-cloud-platform&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Can Google Challenge Microsoft And Amazon For Cloud Supremacy?</title>
@@ -207,18 +219,6 @@
       
       <guid>//crypt0.net/post/datastax-on-azure-deploying-an-industryleading-data-platform-to-bring/</guid>
       <description>&lt;p&gt;Microsoft Azure Events. IT Camps, Dev Camps, Community Events and more. See what&amp;rsquo;s happening in your area.  &lt;a href=&#34;https://azure.microsoft.com/en-gb/community/events/datastax-on-azure-apr28/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-gb/community/events/datastax-on-azure-apr28/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Beyond Alexa: inside Lex, Polly and Rekognition, Amazon&#39;s other AI</title>
-      <link>//crypt0.net/post/beyond-alexa-inside-lex-polly-and-rekognition-amazons-other-ai/</link>
-      <pubDate>Sun, 09 Apr 2017 04:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/beyond-alexa-inside-lex-polly-and-rekognition-amazons-other-ai/</guid>
-      <description>&lt;p&gt;Amazon is a company with many fingers in many pies, which alongside its behemoth retail arm runs Amazon Web Services (AWS), a cloud computing &amp;hellip;  &lt;a href=&#34;https://inews.co.uk/essentials/news/technology/beyond-alexa-inside-lex-polly-rekognition-amazons-ai/&#34; onclick=&#34;trackOutboundLink(&#39;https://inews.co.uk/essentials/news/technology/beyond-alexa-inside-lex-polly-rekognition-amazons-ai/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
