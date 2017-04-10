@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 09 Apr 2017 17:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Apr 2017 17:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pubsub integration to Google Cloud truncated after 255bytes</title>
+      <link>//crypt0.net/post/pubsub-integration-to-google-cloud-truncated-after-255bytes/</link>
+      <pubDate>Sun, 09 Apr 2017 17:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/pubsub-integration-to-google-cloud-truncated-after-255bytes/</guid>
+      <description>&lt;p&gt;PubSub is limited to 10meg messages. I&amp;rsquo;m also seeing the full payload &amp;hellip;  &lt;a href=&#34;https://community.particle.io/t/pubsub-integration-to-google-cloud-truncated-after-255bytes/31522&#34; onclick=&#34;trackOutboundLink(&#39;https://community.particle.io/t/pubsub-integration-to-google-cloud-truncated-after-255bytes/31522&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Nokia and University of Technology Sydney collaborate to drive digital</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;It seems the credit can be only used for several times. So I am wondering &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/31360/how-to-effectively-train-neural-network-model?forumMessageId=173956&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/31360/how-to-effectively-train-neural-network-model?forumMessageId=173956&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>3 Business Benefits of Connected Devices</title>
-      <link>//crypt0.net/post/3-business-benefits-of-connected-devices/</link>
-      <pubDate>Sun, 09 Apr 2017 10:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/3-business-benefits-of-connected-devices/</guid>
-      <description>&lt;p&gt;As you&amp;rsquo;re well aware, the Internet of Things is growing and we&amp;rsquo;re seeing incredible expansion in terms of business applications. But what are the &amp;hellip;  &lt;a href=&#34;https://smallbiztrends.com/2017/04/benefits-of-connected-devices.html&#34; onclick=&#34;trackOutboundLink(&#39;https://smallbiztrends.com/2017/04/benefits-of-connected-devices.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
