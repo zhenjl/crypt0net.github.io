@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Apr 2017 09:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 09:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft buys Deis to improve container support on Azure</title>
+      <link>//crypt0.net/post/microsoft-buys-deis-to-improve-container-support-on-azure/</link>
+      <pubDate>Tue, 11 Apr 2017 09:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-buys-deis-to-improve-container-support-on-azure/</guid>
+      <description>&lt;p&gt;Microsoft has agreed to acquire California-based startup Deis for an undisclosed amount, as it looks to improve support for containerized workloads &amp;hellip;  &lt;a href=&#34;http://www.datacenterdynamics.com/content-tracks/colo-cloud/microsoft-buys-deis-to-improve-container-support-on-azure/98150.article&#34; onclick=&#34;trackOutboundLink(&#39;http://www.datacenterdynamics.com/content-tracks/colo-cloud/microsoft-buys-deis-to-improve-container-support-on-azure/98150.article&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The one thing you need to compete in cloud</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/google-cloud-tools-for-eclipse-documentation/</guid>
       <description>&lt;p&gt;Google-sponsored open source plugin that supports the App Engine &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/eclipse/docs?hl=lt&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/eclipse/docs?hl=lt&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Stands To Gain A Lot From Acquisition Of Container Expert</title>
-      <link>//crypt0.net/post/microsoft-azure-stands-to-gain-a-lot-from-acquisition-of-container-expert/</link>
-      <pubDate>Tue, 11 Apr 2017 03:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-stands-to-gain-a-lot-from-acquisition-of-container-expert/</guid>
-      <description>&lt;p&gt;The acquisition is one major step for Microsoft to ensure that Azure stays on top of its game. The company realized that its cloud computing service is &amp;hellip;  &lt;a href=&#34;http://www.itechpost.com/articles/95516/20170411/microsoft-azure-stands-gain-lot-acquisition-container-expert.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itechpost.com/articles/95516/20170411/microsoft-azure-stands-gain-lot-acquisition-container-expert.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
