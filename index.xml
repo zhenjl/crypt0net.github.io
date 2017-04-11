@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Apr 2017 02:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 02:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Incorrect keystone with multiple memcache configur...</title>
+      <link>//crypt0.net/post/incorrect-keystone-with-multiple-memcache-configur/</link>
+      <pubDate>Tue, 11 Apr 2017 02:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/incorrect-keystone-with-multiple-memcache-configur/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/openstack/openstack-ansible-os_keystone/blob/master/temp&#34;&gt;https://github.com/openstack/openstack-ansible-os_keystone/blob/master/temp&lt;/a&gt; lates/keystone.conf.j2#L45 I&amp;rsquo;m seeing that this is not the &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-ansible/+bug/1681695&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-ansible/+bug/1681695&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>And Then There Were Two: Closing the Gap on State-Level Data Breach</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/researchers-poised-to-clear-internet-of-things-hurdle/</guid>
       <description>&lt;p&gt;IOT devices on a desk One day, very soon, the magic of the Internet of Things will bathe us all in electronically coordinated convenience and simplicity.  &lt;a href=&#34;http://www.gocertify.com/articles/researchers-poised-to-clear-internet-of-things-hurdle&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gocertify.com/articles/researchers-poised-to-clear-internet-of-things-hurdle&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blockchain in Dubai: Smart cities from concept to reality</title>
-      <link>//crypt0.net/post/blockchain-in-dubai-smart-cities-from-concept-to-reality/</link>
-      <pubDate>Mon, 10 Apr 2017 23:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-in-dubai-smart-cities-from-concept-to-reality/</guid>
-      <description>&lt;p&gt;blockchain smart cities more of a reality and serves as a road map to others.  &lt;a href=&#34;https://www.ibm.com/blogs/blockchain/2017/04/blockchain-in-dubai-smart-cities-from-concept-to-reality/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.ibm.com/blogs/blockchain/2017/04/blockchain-in-dubai-smart-cities-from-concept-to-reality/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

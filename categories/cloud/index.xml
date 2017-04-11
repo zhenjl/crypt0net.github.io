@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Apr 2017 02:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 02:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Incorrect keystone with multiple memcache configur...</title>
+      <link>//crypt0.net/post/incorrect-keystone-with-multiple-memcache-configur/</link>
+      <pubDate>Tue, 11 Apr 2017 02:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/incorrect-keystone-with-multiple-memcache-configur/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/openstack/openstack-ansible-os_keystone/blob/master/temp&#34;&gt;https://github.com/openstack/openstack-ansible-os_keystone/blob/master/temp&lt;/a&gt; lates/keystone.conf.j2#L45 I&amp;rsquo;m seeing that this is not the &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-ansible/+bug/1681695&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-ansible/+bug/1681695&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Nokia Android phones are going to be similar to Google Nexus phones</title>
@@ -288,18 +300,6 @@
       
       <guid>//crypt0.net/post/google-shares-pixel--pixel-xl-tips-on-taking-better-photos/</guid>
       <description>&lt;p&gt;Thankfully, the Google Pixel comes with Google cloud backup, helping to preserve your favorite memories. Google Photos allows you backup &amp;hellip;  &lt;a href=&#34;https://www.androidheadlines.com/2017/04/google-shares-pixel-pixel-xl-tips-on-taking-better-photos.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.androidheadlines.com/2017/04/google-shares-pixel-pixel-xl-tips-on-taking-better-photos.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Global customer access and additional services now available for Azure in</title>
-      <link>//crypt0.net/post/global-customer-access-and-additional-services-now-available-for-azure-in/</link>
-      <pubDate>Mon, 10 Apr 2017 13:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/global-customer-access-and-additional-services-now-available-for-azure-in/</guid>
-      <description>&lt;p&gt;Since the launch of the Microsoft Cloud in India, we have seen tremendous growth of our customers&amp;rsquo; &amp;hellip; Tom Keane General Manager, Microsoft Azure.  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/global-customer-access-and-additional-services-now-available-for-azure-in-india/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/global-customer-access-and-additional-services-now-available-for-azure-in-india/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
