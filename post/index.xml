@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 10 Apr 2017 19:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2017 19:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft Warns of Dying Azure Active Directory Sync Tools</title>
+      <link>//crypt0.net/post/microsoft-warns-of-dying-azure-active-directory-sync-tools/</link>
+      <pubDate>Mon, 10 Apr 2017 19:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-warns-of-dying-azure-active-directory-sync-tools/</guid>
+      <description>&lt;p&gt;Microsoft is pounding the nails into the coffins of its deprecated Windows Azure Active Directory Sync (DirSync) and Azure AD Sync tools, warning that &amp;hellip;  &lt;a href=&#34;https://redmondmag.com/articles/2017/04/10/dying-azure-active-directory-sync-tools.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/articles/2017/04/10/dying-azure-active-directory-sync-tools.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Patient records left on car roof and scattered in hospital grounds in data</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Federal law generally requires health organizations to inform the government and affected patients of data breaches involving private health &amp;hellip;  &lt;a href=&#34;http://bangordailynews.com/2017/04/10/health/hackers-steal-patients-personal-data-from-bangor-mental-health-practice/&#34; onclick=&#34;trackOutboundLink(&#39;http://bangordailynews.com/2017/04/10/health/hackers-steal-patients-personal-data-from-bangor-mental-health-practice/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Buying Deis To Facilitate Kubernetes on Azure</title>
-      <link>//crypt0.net/post/microsoft-buying-deis-to-facilitate-kubernetes-on-azure/</link>
-      <pubDate>Mon, 10 Apr 2017 16:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-buying-deis-to-facilitate-kubernetes-on-azure/</guid>
-      <description>&lt;p&gt;Microsoft announced plans today to acquire Deis, a startup company that offers open source tools and training to facilitate Kubernetes use.  &lt;a href=&#34;https://redmondmag.com/articles/2017/04/10/microsoft-buying-deis.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/articles/2017/04/10/microsoft-buying-deis.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
