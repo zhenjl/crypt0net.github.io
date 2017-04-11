@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Apr 2017 04:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 04:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>tripleo-puppet-elements 7.0.0.0b1</title>
+      <link>//crypt0.net/post/tripleopuppetelements-7000b1/</link>
+      <pubDate>Tue, 11 Apr 2017 04:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/tripleopuppetelements-7000b1/</guid>
+      <description>&lt;p&gt;.org/badges/tripleo-puppet-elements.svg)](&lt;a href=&#34;http://governance.openstack.org/r&#34;&gt;http://governance.openstack.org/r&lt;/a&gt; eference/tags/index.html)  &lt;a href=&#34;https://pypi.python.org/pypi/tripleo-puppet-elements/7.0.0.0b1&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/tripleo-puppet-elements/7.0.0.0b1&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft nabs startup to power Kubernetes on Azure</title>
@@ -288,18 +300,6 @@
       
       <guid>//crypt0.net/post/monday-spotlight-oracle-openstack-for-oracle-linux-r3-webcast-and-more/</guid>
       <description>&lt;p&gt;based on upstream Mitaka, you can read about the details of this &amp;hellip;  &lt;a href=&#34;https://blogs.oracle.com/linux/entry/monday_spotlight_oracle_openstack_for&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.oracle.com/linux/entry/monday_spotlight_oracle_openstack_for&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Buying Deis To Facilitate Kubernetes on Azure</title>
-      <link>//crypt0.net/post/microsoft-buying-deis-to-facilitate-kubernetes-on-azure/</link>
-      <pubDate>Mon, 10 Apr 2017 16:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-buying-deis-to-facilitate-kubernetes-on-azure/</guid>
-      <description>&lt;p&gt;Microsoft announced plans today to acquire Deis, a startup company that offers open source tools and training to facilitate Kubernetes use.  &lt;a href=&#34;https://redmondmag.com/articles/2017/04/10/microsoft-buying-deis.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/articles/2017/04/10/microsoft-buying-deis.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
