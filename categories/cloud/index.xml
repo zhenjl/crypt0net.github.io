@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Apr 2017 04:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 05:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Risk or Reward: First Nvidia DGX-1 Boxes Hit the Cloud</title>
+      <link>//crypt0.net/post/risk-or-reward-first-nvidia-dgx1-boxes-hit-the-cloud/</link>
+      <pubDate>Tue, 11 Apr 2017 05:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/risk-or-reward-first-nvidia-dgx1-boxes-hit-the-cloud/</guid>
+      <description>&lt;p&gt;&amp;hellip; machines) to capture a broader set of GPU users in machine learning and HPC with Pascal with the same being true of Azure and Google Cloud.  &lt;a href=&#34;https://www.nextplatform.com/2017/04/11/risk-reward-first-nvidia-dgx-1-boxes-hit-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.nextplatform.com/2017/04/11/risk-reward-first-nvidia-dgx-1-boxes-hit-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>tripleo-puppet-elements 7.0.0.0b1</title>
@@ -288,18 +300,6 @@
       
       <guid>//crypt0.net/post/vancouver-tech-podcast-ep71-mark-mandel-google-cloud-developer-advocate/</guid>
       <description>&lt;p&gt;Our special guest this week, Mark Mandel, tells us about Google Cloud Platform and some ridiculous(ly great) things you can do with cloud computing.  &lt;a href=&#34;http://betakit.com/vancouver-tech-podcast-ep-71-mark-mandel-google-cloud-developer-advocate/&#34; onclick=&#34;trackOutboundLink(&#39;http://betakit.com/vancouver-tech-podcast-ep-71-mark-mandel-google-cloud-developer-advocate/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MONDAY SPOTLIGHT: Oracle OpenStack for Oracle Linux R3 Webcast and More</title>
-      <link>//crypt0.net/post/monday-spotlight-oracle-openstack-for-oracle-linux-r3-webcast-and-more/</link>
-      <pubDate>Mon, 10 Apr 2017 16:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/monday-spotlight-oracle-openstack-for-oracle-linux-r3-webcast-and-more/</guid>
-      <description>&lt;p&gt;based on upstream Mitaka, you can read about the details of this &amp;hellip;  &lt;a href=&#34;https://blogs.oracle.com/linux/entry/monday_spotlight_oracle_openstack_for&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.oracle.com/linux/entry/monday_spotlight_oracle_openstack_for&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
