@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Apr 2017 15:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 15:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Announcing Azure SDK for Node.js 2.0 preview</title>
+      <link>//crypt0.net/post/announcing-azure-sdk-for-nodejs-20-preview/</link>
+      <pubDate>Tue, 11 Apr 2017 15:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/announcing-azure-sdk-for-nodejs-20-preview/</guid>
+      <description>&lt;p&gt;generic requests to Azure with the authenticated client. This is useful when &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/announcing-azure-sdk-node-2-preview/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/announcing-azure-sdk-node-2-preview/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What You Need to Know about Alphabet&#39;s Cloud Business</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/new-connected-transportation-research-outlines-disruptive-influences/</guid>
       <description>&lt;p&gt;Connected truck technologies, digital freight brokering, Big Data/Internet of Things, and health, wellness, and wellbeing (HWW) technologies will &amp;hellip;  &lt;a href=&#34;http://www.iotevolutionworld.com/smart-transport/articles/431168-new-connected-transportation-research-outlines-disruptive-influences.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.iotevolutionworld.com/smart-transport/articles/431168-new-connected-transportation-research-outlines-disruptive-influences.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blockchain: The Future of Health Data</title>
-      <link>//crypt0.net/post/blockchain-the-future-of-health-data/</link>
-      <pubDate>Tue, 11 Apr 2017 12:40:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-the-future-of-health-data/</guid>
-      <description>&lt;p&gt;Blockchain is an information technology that was developed to create a virtual financial ledger for transactions. You will recognize its most famous &amp;hellip;  &lt;a href=&#34;http://www.diagnosticimaging.com/blog/blockchain-future-health-data&#34; onclick=&#34;trackOutboundLink(&#39;http://www.diagnosticimaging.com/blog/blockchain-future-health-data&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
