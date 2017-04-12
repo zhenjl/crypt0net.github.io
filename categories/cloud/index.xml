@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Apr 2017 02:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 03:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWS adds cloud migration support for MongoDB databases</title>
+      <link>//crypt0.net/post/aws-adds-cloud-migration-support-for-mongodb-databases/</link>
+      <pubDate>Wed, 12 Apr 2017 03:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-adds-cloud-migration-support-for-mongodb-databases/</guid>
+      <description>&lt;p&gt;The service will go head-to-head with MongoDB&amp;rsquo;s own DBaaS solution, which is supported across cloud environments including AWS, Google Cloud &amp;hellip;  &lt;a href=&#34;http://www.cloudpro.co.uk/leadership/cloud-essentials/6734/aws-adds-cloud-migration-support-for-mongodb-databases&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cloudpro.co.uk/leadership/cloud-essentials/6734/aws-adds-cloud-migration-support-for-mongodb-databases&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Juju seems to ignore openstack image constraints</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/whats-indigo-and-how-does-it-fit-into-the-alphabet-story/</guid>
       <description>&lt;p&gt;If that remains its dream, then it is safe to conclude that Indigo will serve Google&amp;rsquo;s cloud data centers in those regions. Google is racing to catch up with &amp;hellip;  &lt;a href=&#34;http://marketrealist.com/2017/04/whats-indigo-and-how-does-it-fit-into-the-alphabet-story/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2017/04/whats-indigo-and-how-does-it-fit-into-the-alphabet-story/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure&#39;s Evangelist: 120000 New Subscribers Monthly</title>
-      <link>//crypt0.net/post/microsoft-azures-evangelist-120000-new-subscribers-monthly/</link>
-      <pubDate>Tue, 11 Apr 2017 21:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azures-evangelist-120000-new-subscribers-monthly/</guid>
-      <description>&lt;p&gt;CHANNEL PARTNERS CONFERENCE &amp;amp; EXPO  A Microsoft Azure evangelist shared numbers of the public cloud&amp;rsquo;s growth at the Channel Partners &amp;hellip;  &lt;a href=&#34;http://www.channelpartnersonline.com/news/2017/04/microsoft-azure-s-evangelist-120-000-new-subscrib.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.channelpartnersonline.com/news/2017/04/microsoft-azure-s-evangelist-120-000-new-subscrib.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
