@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Apr 2017 06:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 07:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft swallows open sourcy cloud container Deis</title>
+      <link>//crypt0.net/post/microsoft-swallows-open-sourcy-cloud-container-deis/</link>
+      <pubDate>Wed, 12 Apr 2017 07:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-swallows-open-sourcy-cloud-container-deis/</guid>
+      <description>&lt;p&gt;According to Vole, there are shedloads of customers looking to build and deploy containerised workloads on the Azure cloud, and the new acquisition &amp;hellip;  &lt;a href=&#34;http://fudzilla.com/news/43360-microsoft-swallows-open-sourcy-cloud-container-deis&#34; onclick=&#34;trackOutboundLink(&#39;http://fudzilla.com/news/43360-microsoft-swallows-open-sourcy-cloud-container-deis&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publishing an ASP.NET Core Application to Azure</title>
+      <link>//crypt0.net/post/publishing-an-aspnet-core-application-to-azure/</link>
+      <pubDate>Wed, 12 Apr 2017 07:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/publishing-an-aspnet-core-application-to-azure/</guid>
+      <description>&lt;p&gt;platform, the difference between IaaS (Infrastructure as a Service) and PaaS &amp;hellip;  &lt;a href=&#34;https://teamtreehouse.com/library/overview-of-microsofts-azure-cloud-computing-platform&#34; onclick=&#34;trackOutboundLink(&#39;https://teamtreehouse.com/library/overview-of-microsofts-azure-cloud-computing-platform&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Allrecipes.com selects Neudesic for Cloud Innovation, Migration to</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/microsoft-makes-a-small-acquisition-to-help-it-catch-amazons-cloud/</guid>
       <description>&lt;p&gt;Whether it was Apple and Android for creating mobile apps, Amazon Web Services for testing and running websites, or free open source technologies &amp;hellip;  &lt;a href=&#34;http://www.cnbc.com/2017/04/10/microsoft-acquires-deis-in-latest-bid-to-catch-aws.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cnbc.com/2017/04/10/microsoft-acquires-deis-in-latest-bid-to-catch-aws.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft buys startup to boost its cloud</title>
-      <link>//crypt0.net/post/microsoft-buys-startup-to-boost-its-cloud/</link>
-      <pubDate>Wed, 12 Apr 2017 01:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-buys-startup-to-boost-its-cloud/</guid>
-      <description>&lt;p&gt;Software giant Microsoft has bought startup Deis that specialises in &amp;hellip; like Microsoft Azure and Amazon Web Services &amp;ndash; to run their applications.  &lt;a href=&#34;http://cio.economictimes.indiatimes.com/news/cloud-computing/microsoft-buys-startup-to-boost-its-cloud/58126795&#34; onclick=&#34;trackOutboundLink(&#39;http://cio.economictimes.indiatimes.com/news/cloud-computing/microsoft-buys-startup-to-boost-its-cloud/58126795&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>[config-ref] Update api-paste.ini for manila</title>
-      <link>//crypt0.net/post/configref-update-apipasteini-for-manila/</link>
-      <pubDate>Wed, 12 Apr 2017 00:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/configref-update-apipasteini-for-manila/</guid>
-      <description>&lt;p&gt;doc now. Need to update it.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1682009&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1682009&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
