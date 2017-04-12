@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Apr 2017 13:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 14:20:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Missing include template in admin migrate host page</title>
+      <link>//crypt0.net/post/missing-include-template-in-admin-migrate-host-page/</link>
+      <pubDate>Wed, 12 Apr 2017 14:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/missing-include-template-in-admin-migrate-host-page/</guid>
+      <description>&lt;p&gt;/compute/migrate_host.html not include &amp;ldquo;_migrate_host.html&amp;rdquo;  &lt;a href=&#34;https://bugs.launchpad.net/horizon/+bug/1682114&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/horizon/+bug/1682114&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft launches a brand new service to help enterprises move to Azure</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/alphabet-inc-nasdaqgoogl-offers-free-cloud-services-to-koreas-media/</guid>
       <description>&lt;p&gt;Market Exclusive These will easily be found in Google&amp;rsquo;s Spark Package and will be used in Google Cloud Platform and Firebase products. It will also have an additional &amp;hellip;  &lt;a href=&#34;https://marketexclusive.com/alphabet-inc-nasdaqgoogl-googles-offer-free-cloud-services-koreas-media-startups/92304/&#34; onclick=&#34;trackOutboundLink(&#39;https://marketexclusive.com/alphabet-inc-nasdaqgoogl-googles-offer-free-cloud-services-koreas-media-startups/92304/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud Search Assistant Launched for iOS Devices</title>
-      <link>//crypt0.net/post/google-cloud-search-assistant-launched-for-ios-devices/</link>
-      <pubDate>Wed, 12 Apr 2017 08:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-search-assistant-launched-for-ios-devices/</guid>
-      <description>&lt;p&gt;Google has launched its Google Cloud Search assistant for iOS devices. The digital assistant for G Suite users was previously made available as &amp;hellip;  &lt;a href=&#34;http://gadgets.ndtv.com/apps/news/google-cloud-search-assistant-launched-for-ios-devices-1680580&#34; onclick=&#34;trackOutboundLink(&#39;http://gadgets.ndtv.com/apps/news/google-cloud-search-assistant-launched-for-ios-devices-1680580&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
