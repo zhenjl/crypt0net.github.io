@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Apr 2017 22:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 22:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Routed provider networks in Networking Guide</title>
+      <link>//crypt0.net/post/routed-provider-networks-in-networking-guide/</link>
+      <pubDate>Tue, 11 Apr 2017 22:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/routed-provider-networks-in-networking-guide/</guid>
+      <description>&lt;p&gt;perspective, for example: &amp;ldquo;Experimental feature&amp;rdquo; - I think routed networks aren&amp;rsquo;t &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1682005&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1682005&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CRN Exclusive: A10 Networks Launches Cloud Offensive With New ADC</title>
@@ -285,18 +297,6 @@
       
       <guid>//crypt0.net/post/resource-get-free-training-on-microsoft-cloud-technologies/</guid>
       <description>&lt;p&gt;The Microsoft hands-on labs at &lt;a href=&#34;https://www.microsoft.com/handsonlabs&#34;&gt;https://www.microsoft.com/handsonlabs&lt;/a&gt; is a resource that you should consider using for free training relating to &amp;hellip;  &lt;a href=&#34;http://windowsitpro.com/azure/resource-get-free-training-microsoft-cloud-technologies&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsitpro.com/azure/resource-get-free-training-microsoft-cloud-technologies&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Event-driven applications drive next wave of IaaS evolution</title>
-      <link>//crypt0.net/post/eventdriven-applications-drive-next-wave-of-iaas-evolution/</link>
-      <pubDate>Tue, 11 Apr 2017 13:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/eventdriven-applications-drive-next-wave-of-iaas-evolution/</guid>
-      <description>&lt;p&gt;Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform have all recognized that they can add features to IaaS for differentiation, &amp;hellip;  &lt;a href=&#34;http://searchcloudcomputing.techtarget.com/opinion/Event-driven-applications-drive-next-wave-of-IaaS-evolution&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudcomputing.techtarget.com/opinion/Event-driven-applications-drive-next-wave-of-IaaS-evolution&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
