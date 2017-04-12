@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Apr 2017 09:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 09:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Service Fabric SDK Becomes Open Source</title>
+      <link>//crypt0.net/post/azure-service-fabric-sdk-becomes-open-source/</link>
+      <pubDate>Wed, 12 Apr 2017 09:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-service-fabric-sdk-becomes-open-source/</guid>
+      <description>&lt;p&gt;Microsoft recently announced it opened the source code of its Azure Service Fabric SDK. Azure Service Fabric is a distributed systems platform to &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2017/04/service-fabric-sdk-open-source&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2017/04/service-fabric-sdk-open-source&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microsoft adds new Azure tools to migrate data to the cloud and collaborate</title>
+      <link>//crypt0.net/post/microsoft-adds-new-azure-tools-to-migrate-data-to-the-cloud-and-collaborate/</link>
+      <pubDate>Wed, 12 Apr 2017 09:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-adds-new-azure-tools-to-migrate-data-to-the-cloud-and-collaborate/</guid>
+      <description>&lt;p&gt;GeekWire Microsoft this morning announced several new Azure tools and features focused on migrating data to the cloud and helping businesses work securely &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/microsoft-adds-new-azure-tools-migrate-data-cloud-collaborate-securely-partners/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/microsoft-adds-new-azure-tools-migrate-data-cloud-collaborate-securely-partners/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Openstack dosen&#39;t allow the gateway to be the first address</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/aws-adds-cloud-migration-support-for-mongodb-databases/</guid>
       <description>&lt;p&gt;The service will go head-to-head with MongoDB&amp;rsquo;s own DBaaS solution, which is supported across cloud environments including AWS, Google Cloud &amp;hellip;  &lt;a href=&#34;http://www.cloudpro.co.uk/leadership/cloud-essentials/6734/aws-adds-cloud-migration-support-for-mongodb-databases&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cloudpro.co.uk/leadership/cloud-essentials/6734/aws-adds-cloud-migration-support-for-mongodb-databases&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Juju seems to ignore openstack image constraints</title>
-      <link>//crypt0.net/post/juju-seems-to-ignore-openstack-image-constraints/</link>
-      <pubDate>Wed, 12 Apr 2017 02:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/juju-seems-to-ignore-openstack-image-constraints/</guid>
-      <description>&lt;p&gt;The image that we have specified when generating the image metadata has &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1682050&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1682050&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft buys cloud-based giant Deis</title>
-      <link>//crypt0.net/post/microsoft-buys-cloudbased-giant-deis/</link>
-      <pubDate>Wed, 12 Apr 2017 02:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-buys-cloudbased-giant-deis/</guid>
-      <description>&lt;p&gt;The software King Kong Microsoft, has acquired Deis, the startup that builds containers  a new and modern-era &amp;hellip; a company, considerable growth in both development and deployment of container-oriented applications on Azure.  &lt;a href=&#34;http://www.tgdaily.com/technology/microsoft-buys-cloud-based-giant-deis&#34; onclick=&#34;trackOutboundLink(&#39;http://www.tgdaily.com/technology/microsoft-buys-cloud-based-giant-deis&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
