@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Apr 2017 08:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 09:20:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Openstack dosen&#39;t allow the gateway to be the first address</title>
+      <link>//crypt0.net/post/openstack-dosent-allow-the-gateway-to-be-the-first-address/</link>
+      <pubDate>Wed, 12 Apr 2017 09:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-dosent-allow-the-gateway-to-be-the-first-address/</guid>
+      <description>&lt;p&gt;error. Example to reproduce for an flat provider network: $ openstack network &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1682094&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1682094&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Allscripts&#39; (MDRX) dbMotion Solution Available Through Azure</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/microsoft-buys-cloudbased-giant-deis/</guid>
       <description>&lt;p&gt;The software King Kong Microsoft, has acquired Deis, the startup that builds containers  a new and modern-era &amp;hellip; a company, considerable growth in both development and deployment of container-oriented applications on Azure.  &lt;a href=&#34;http://www.tgdaily.com/technology/microsoft-buys-cloud-based-giant-deis&#34; onclick=&#34;trackOutboundLink(&#39;http://www.tgdaily.com/technology/microsoft-buys-cloud-based-giant-deis&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services plays role in NASA&#39;s first ultra-HD live video from</title>
-      <link>//crypt0.net/post/amazon-web-services-plays-role-in-nasas-first-ultrahd-live-video-from/</link>
-      <pubDate>Wed, 12 Apr 2017 01:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-web-services-plays-role-in-nasas-first-ultrahd-live-video-from/</guid>
-      <description>&lt;p&gt;GeekWire Peggy Whitson on ISS The International Space Station&amp;rsquo;s commander, NASA astronaut Peggy Whitson, will chat with AWS Elemental&amp;rsquo;s CEO during the &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/amazon-web-services-nasa-uhd/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/amazon-web-services-nasa-uhd/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
