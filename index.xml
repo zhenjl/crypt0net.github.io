@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Apr 2017 17:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 17:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Broken links in federated identity docs</title>
+      <link>//crypt0.net/post/broken-links-in-federated-identity-docs/</link>
+      <pubDate>Tue, 11 Apr 2017 17:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/broken-links-in-federated-identity-docs/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://specs.openstack.org/openstack/keystone-specs/api/v3/identity-api-v3-&#34;&gt;http://specs.openstack.org/openstack/keystone-specs/api/v3/identity-api-v3-&lt;/a&gt; os-federation-ext.html on the doc page for &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1681950&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1681950&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>3 principles for better understanding blockchain</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Unlimited mobile data only applies to a single device. That usually means a phone. Users can&amp;rsquo;t tether their laptops or tablets to the device. Nor can &amp;hellip;  &lt;a href=&#34;https://www.geekzone.co.nz/content.asp?contentid=21431&#34; onclick=&#34;trackOutboundLink(&#39;https://www.geekzone.co.nz/content.asp?contentid=21431&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Announcing Azure SDK for Node.js 2.0 preview</title>
-      <link>//crypt0.net/post/announcing-azure-sdk-for-nodejs-20-preview/</link>
-      <pubDate>Tue, 11 Apr 2017 15:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/announcing-azure-sdk-for-nodejs-20-preview/</guid>
-      <description>&lt;p&gt;generic requests to Azure with the authenticated client. This is useful when &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/announcing-azure-sdk-node-2-preview/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/announcing-azure-sdk-node-2-preview/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
