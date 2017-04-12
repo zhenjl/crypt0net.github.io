@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Apr 2017 04:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 05:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A10 Networks&#39; Harmony Controller brings per-app analytics to multi-cloud</title>
+      <link>//crypt0.net/post/a10-networks-harmony-controller-brings-perapp-analytics-to-multicloud/</link>
+      <pubDate>Wed, 12 Apr 2017 05:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/a10-networks-harmony-controller-brings-perapp-analytics-to-multicloud/</guid>
+      <description>&lt;p&gt;ZDNet The A10 Harmony Controller and Thunder ADC integration, HAProxy load balancer analytics and native Google Cloud Platform load balancing and &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/a10-networks-harmony-controller-brings-per-app-analytics-to-multi-cloud-deployments/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/a10-networks-harmony-controller-brings-per-app-analytics-to-multi-cloud-deployments/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft buys-up Deis for open-source Kubernetes containers expertise</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/fujitsu--cyrusone-offer-opensource-cloud-technology-to-customers/</guid>
       <description>&lt;p&gt;The open source technologies are based in OpenStack architecture, which the company says reduces vendor lock-in and is backed by robust Service &amp;hellip;  &lt;a href=&#34;https://datacenternews.asia/story/fujitsu-cyrusone-offer-open-source-cloud-technology-customers/&#34; onclick=&#34;trackOutboundLink(&#39;https://datacenternews.asia/story/fujitsu-cyrusone-offer-open-source-cloud-technology-customers/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Routed provider networks in Networking Guide</title>
-      <link>//crypt0.net/post/routed-provider-networks-in-networking-guide/</link>
-      <pubDate>Tue, 11 Apr 2017 22:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/routed-provider-networks-in-networking-guide/</guid>
-      <description>&lt;p&gt;perspective, for example: &amp;ldquo;Experimental feature&amp;rdquo; - I think routed networks aren&amp;rsquo;t &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1682005&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1682005&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
