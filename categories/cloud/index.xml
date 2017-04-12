@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Apr 2017 09:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 10:10:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud announced merger with Kaggle; offering free cloud services to</title>
+      <link>//crypt0.net/post/google-cloud-announced-merger-with-kaggle-offering-free-cloud-services-to/</link>
+      <pubDate>Wed, 12 Apr 2017 10:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-announced-merger-with-kaggle-offering-free-cloud-services-to/</guid>
+      <description>&lt;p&gt;Plunge Daily Search engine giant Google has announced that Kaggle will join Google Cloud in coming days. With a user base of more than 80,000 data scientists, &amp;hellip;  &lt;a href=&#34;https://mybigplunge.com/tech-plunge/technology/google-cloud-kaggle-cloud-services/&#34; onclick=&#34;trackOutboundLink(&#39;https://mybigplunge.com/tech-plunge/technology/google-cloud-kaggle-cloud-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Azure Service Fabric SDK Becomes Open Source</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/how-openstack-releases-get-their-names/</guid>
       <description>&lt;p&gt;Several projects within OpenStack are on their second name: Quantum became Neutron, Savanna became Sahara, and Marconi became Zaqar.  &lt;a href=&#34;https://opensource.com/article/17/4/openstack-release-names&#34; onclick=&#34;trackOutboundLink(&#39;https://opensource.com/article/17/4/openstack-release-names&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AWS adds cloud migration support for MongoDB databases</title>
-      <link>//crypt0.net/post/aws-adds-cloud-migration-support-for-mongodb-databases/</link>
-      <pubDate>Wed, 12 Apr 2017 03:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aws-adds-cloud-migration-support-for-mongodb-databases/</guid>
-      <description>&lt;p&gt;The service will go head-to-head with MongoDB&amp;rsquo;s own DBaaS solution, which is supported across cloud environments including AWS, Google Cloud &amp;hellip;  &lt;a href=&#34;http://www.cloudpro.co.uk/leadership/cloud-essentials/6734/aws-adds-cloud-migration-support-for-mongodb-databases&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cloudpro.co.uk/leadership/cloud-essentials/6734/aws-adds-cloud-migration-support-for-mongodb-databases&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
