@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Apr 2017 03:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 03:40:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How OpenStack releases get their names</title>
+      <link>//crypt0.net/post/how-openstack-releases-get-their-names/</link>
+      <pubDate>Wed, 12 Apr 2017 03:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-openstack-releases-get-their-names/</guid>
+      <description>&lt;p&gt;Several projects within OpenStack are on their second name: Quantum became Neutron, Savanna became Sahara, and Marconi became Zaqar.  &lt;a href=&#34;https://opensource.com/article/17/4/openstack-release-names&#34; onclick=&#34;trackOutboundLink(&#39;https://opensource.com/article/17/4/openstack-release-names&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS adds cloud migration support for MongoDB databases</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/crn-exclusive-a10-networks-launches-cloud-offensive-with-new-adc/</guid>
       <description>&lt;p&gt;CRN &amp;hellip; an ADC controller that provides multi-cloud and multi-service management that supports cloud titans such as Amazon Web Services and Google.  &lt;a href=&#34;http://www.crn.com/news/networking/300084528/crn-exclusive-a10-networks-launches-cloud-offensive-with-new-adc-controller-supporting-google-aws-and-azure-clouds.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/networking/300084528/crn-exclusive-a10-networks-launches-cloud-offensive-with-new-adc-controller-supporting-google-aws-and-azure-clouds.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Forecast: Amazon will command half of US e-commerce market by 2021</title>
-      <link>//crypt0.net/post/forecast-amazon-will-command-half-of-us-ecommerce-market-by-2021/</link>
-      <pubDate>Wed, 12 Apr 2017 01:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/forecast-amazon-will-command-half-of-us-ecommerce-market-by-2021/</guid>
-      <description>&lt;p&gt;Amazon&amp;rsquo;s e-commerce market share is on pace to rise from 34% to 50% by 2021, according to a note released Monday by investment banking and &amp;hellip;  &lt;a href=&#34;http://www.retaildive.com/news/forecast-amazon-will-command-half-of-us-e-commerce-market-by-2021/440240/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.retaildive.com/news/forecast-amazon-will-command-half-of-us-e-commerce-market-by-2021/440240/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

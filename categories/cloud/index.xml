@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Apr 2017 03:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 03:40:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How OpenStack releases get their names</title>
+      <link>//crypt0.net/post/how-openstack-releases-get-their-names/</link>
+      <pubDate>Wed, 12 Apr 2017 03:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-openstack-releases-get-their-names/</guid>
+      <description>&lt;p&gt;Several projects within OpenStack are on their second name: Quantum became Neutron, Savanna became Sahara, and Marconi became Zaqar.  &lt;a href=&#34;https://opensource.com/article/17/4/openstack-release-names&#34; onclick=&#34;trackOutboundLink(&#39;https://opensource.com/article/17/4/openstack-release-names&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS adds cloud migration support for MongoDB databases</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/google-to-offer-korean-media-startups-free-cloud/</guid>
       <description>&lt;p&gt;Google will offer free cloud services to 10 select media startups in Korea, the company announced. The companies will be offered the Google Cloud &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/google-to-offer-korean-media-startups-free-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/google-to-offer-korean-media-startups-free-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What&#39;s Indigo and How Does It Fit into the Alphabet Story?</title>
-      <link>//crypt0.net/post/whats-indigo-and-how-does-it-fit-into-the-alphabet-story/</link>
-      <pubDate>Tue, 11 Apr 2017 22:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/whats-indigo-and-how-does-it-fit-into-the-alphabet-story/</guid>
-      <description>&lt;p&gt;If that remains its dream, then it is safe to conclude that Indigo will serve Google&amp;rsquo;s cloud data centers in those regions. Google is racing to catch up with &amp;hellip;  &lt;a href=&#34;http://marketrealist.com/2017/04/whats-indigo-and-how-does-it-fit-into-the-alphabet-story/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2017/04/whats-indigo-and-how-does-it-fit-into-the-alphabet-story/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
