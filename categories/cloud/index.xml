@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Apr 2017 23:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 00:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>[config-ref] Update api-paste.ini for manila</title>
+      <link>//crypt0.net/post/configref-update-apipasteini-for-manila/</link>
+      <pubDate>Wed, 12 Apr 2017 00:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/configref-update-apipasteini-for-manila/</guid>
+      <description>&lt;p&gt;doc now. Need to update it.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1682009&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1682009&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PointStar Expands its Cloud Computing Investment in Indonesia with its New</title>
@@ -285,18 +297,6 @@
       
       <guid>//crypt0.net/post/kingsoft-adds-cloud-support-to-wps-office/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s worth mentioning that rather than using the new service, Kingsoft customers can utilize Microsoft or Google cloud storage for their WPS Office &amp;hellip;  &lt;a href=&#34;http://www.linuxinsider.com/story/84450.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.linuxinsider.com/story/84450.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Announcing Azure SDK for Node.js 2.0 preview</title>
-      <link>//crypt0.net/post/announcing-azure-sdk-for-nodejs-20-preview/</link>
-      <pubDate>Tue, 11 Apr 2017 15:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/announcing-azure-sdk-for-nodejs-20-preview/</guid>
-      <description>&lt;p&gt;generic requests to Azure with the authenticated client. This is useful when &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/announcing-azure-sdk-node-2-preview/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/announcing-azure-sdk-node-2-preview/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
