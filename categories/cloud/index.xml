@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Apr 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 18:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Creating a console (os-consoles) doesn&#39;t work</title>
+      <link>//crypt0.net/post/creating-a-console-osconsoles-doesnt-work/</link>
+      <pubDate>Wed, 12 Apr 2017 18:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/creating-a-console-osconsoles-doesnt-work/</guid>
+      <description>&lt;p&gt;image (specifically, cirros-0.3.5-x86_64-disk image). 2) Create a &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1682303&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1682303&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Apr 12, 2017</title>
@@ -312,18 +324,6 @@
       
       <guid>//crypt0.net/post/microsoft-touts-new-hybridcloud-tools-rolls-out-azure-ad-b2b/</guid>
       <description>&lt;p&gt;ZDNet On April 12, Microsoft officials blogged about three hybrid migration tools the company is making available to customers. Azure Site Recovery &amp;ndash; a tool &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/microsoft-touts-new-hybrid-cloud-tools-rolls-out-azure-ad-b2b-authentication-service/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/microsoft-touts-new-hybrid-cloud-tools-rolls-out-azure-ad-b2b-authentication-service/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud announced merger with Kaggle; offering free cloud services to</title>
-      <link>//crypt0.net/post/google-cloud-announced-merger-with-kaggle-offering-free-cloud-services-to/</link>
-      <pubDate>Wed, 12 Apr 2017 10:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-announced-merger-with-kaggle-offering-free-cloud-services-to/</guid>
-      <description>&lt;p&gt;Plunge Daily Search engine giant Google has announced that Kaggle will join Google Cloud in coming days. With a user base of more than 80,000 data scientists, &amp;hellip;  &lt;a href=&#34;https://mybigplunge.com/tech-plunge/technology/google-cloud-kaggle-cloud-services/&#34; onclick=&#34;trackOutboundLink(&#39;https://mybigplunge.com/tech-plunge/technology/google-cloud-kaggle-cloud-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
