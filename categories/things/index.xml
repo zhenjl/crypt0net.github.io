@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 13 Apr 2017 05:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Apr 2017 05:30:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to fix MQTT PUBACK EVENT not present</title>
+      <link>//crypt0.net/post/how-to-fix-mqtt-puback-event-not-present/</link>
+      <pubDate>Thu, 13 Apr 2017 05:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-fix-mqtt-puback-event-not-present/</guid>
+      <description>&lt;p&gt;that the PUBACK message does not produce an event. The problem is &amp;hellip;  &lt;a href=&#34;https://devzone.nordicsemi.com/question/128410/how-to-fix-mqtt-puback-event-not-present/&#34; onclick=&#34;trackOutboundLink(&#39;https://devzone.nordicsemi.com/question/128410/how-to-fix-mqtt-puback-event-not-present/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Dash Cryptocurrency Signs on with Kraken</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/staying-safe-in-an-internet-of-things-world/</guid>
       <description>&lt;p&gt;about the future of connected devices: A remotely-exploitable Smart TV hack &amp;hellip;  &lt;a href=&#34;http://www.msn.com/en-us/money/technology/staying-safe-in-an-internet-of-things-world/ar-BBzJfUB&#34; onclick=&#34;trackOutboundLink(&#39;http://www.msn.com/en-us/money/technology/staying-safe-in-an-internet-of-things-world/ar-BBzJfUB&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spark, 2degrees unlimited mobile data plans reveal 4G limits</title>
-      <link>//crypt0.net/post/spark-2degrees-unlimited-mobile-data-plans-reveal-4g-limits/</link>
-      <pubDate>Thu, 13 Apr 2017 00:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/spark-2degrees-unlimited-mobile-data-plans-reveal-4g-limits/</guid>
-      <description>&lt;p&gt;Nor can they use their device as a Wi-Fi hotspot or use machine-to-machine communications. Customers on the 2degrees network are told the plans &amp;hellip;  &lt;a href=&#34;http://www.scoop.co.nz/stories/HL1704/S00045/spark-2degrees-unlimited-mobile-data-plans-reveal-4g-limits.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.scoop.co.nz/stories/HL1704/S00045/spark-2degrees-unlimited-mobile-data-plans-reveal-4g-limits.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
