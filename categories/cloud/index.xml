@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 14 Apr 2017 09:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2017 09:20:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Manage OpenStack deployments with Red Hat&#39;s Platform Director</title>
+      <link>//crypt0.net/post/manage-openstack-deployments-with-red-hats-platform-director/</link>
+      <pubDate>Fri, 14 Apr 2017 09:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/manage-openstack-deployments-with-red-hats-platform-director/</guid>
+      <description>&lt;p&gt;An OpenStack deployment doesn&amp;rsquo;t always come easy for an IT team. Learn how Red Hat&amp;rsquo;s Platform Director can help with OpenStack implementation &amp;hellip;  &lt;a href=&#34;http://searchcloudcomputing.techtarget.com/tip/Manage-OpenStack-deployments-with-Red-Hats-Platform-Director&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudcomputing.techtarget.com/tip/Manage-OpenStack-deployments-with-Red-Hats-Platform-Director&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Axiomatics&#39; Policy Server Now Available for Amazon Web Services</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/the-complete-lowdown-on-microsoft-ax7/</guid>
       <description>&lt;p&gt;The hosting environment has to be the cloud-based hosting provided by Microsoft Azure  the production environment hosted by the tech giant itself.  &lt;a href=&#34;http://www.businesszone.co.uk/community/blogs/ethanmillar/the-complete-lowdown-on-microsoft-ax7&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesszone.co.uk/community/blogs/ethanmillar/the-complete-lowdown-on-microsoft-ax7&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google quietly starts testing its job application tracking platform --</title>
-      <link>//crypt0.net/post/google-quietly-starts-testing-its-job-application-tracking-platform-/</link>
-      <pubDate>Fri, 14 Apr 2017 01:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-quietly-starts-testing-its-job-application-tracking-platform-/</guid>
-      <description>&lt;p&gt;The Tech Portal &amp;hellip; an enterprise cloud service provider co-founded by Vmware co-founder Diane Green (currently appointed as Google Cloud&amp;rsquo;s Senior VP), which was &amp;hellip;  &lt;a href=&#34;https://thetechportal.com/2017/04/14/google-hire-recruitment-tool-testing/&#34; onclick=&#34;trackOutboundLink(&#39;https://thetechportal.com/2017/04/14/google-hire-recruitment-tool-testing/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
