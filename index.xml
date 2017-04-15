@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 15 Apr 2017 13:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2017 16:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Swift-storage dies if rsyslog is stopped</title>
+      <link>//crypt0.net/post/swiftstorage-dies-if-rsyslog-is-stopped/</link>
+      <pubDate>Sat, 15 Apr 2017 16:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/swiftstorage-dies-if-rsyslog-is-stopped/</guid>
+      <description>&lt;p&gt;constantly falling over on 2 nodes. This occurs whenever rsyslog restarts, &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1683076&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1683076&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BitFury to Work on Blockchain-based eGovernance in Ukraine</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;70-534 Microsoft Azure Exam Dumps. DumpsNetwork | Most &amp;hellip;  &lt;a href=&#34;https://spark.adobe.com/page/Gilly95NoRuRo/&#34; onclick=&#34;trackOutboundLink(&#39;https://spark.adobe.com/page/Gilly95NoRuRo/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The eight steps you need to take to start threat hunting</title>
-      <link>//crypt0.net/post/the-eight-steps-you-need-to-take-to-start-threat-hunting/</link>
-      <pubDate>Sat, 15 Apr 2017 07:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-eight-steps-you-need-to-take-to-start-threat-hunting/</guid>
-      <description>&lt;p&gt;step-by-step instructions on how to conduct a hunt.  &lt;a href=&#34;https://www.cybereason.com/blog-the-eight-steps-to-threat-hunting/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cybereason.com/blog-the-eight-steps-to-threat-hunting/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
