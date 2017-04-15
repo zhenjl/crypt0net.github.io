@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 15 Apr 2017 04:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2017 07:10:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The eight steps you need to take to start threat hunting</title>
+      <link>//crypt0.net/post/the-eight-steps-you-need-to-take-to-start-threat-hunting/</link>
+      <pubDate>Sat, 15 Apr 2017 07:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-eight-steps-you-need-to-take-to-start-threat-hunting/</guid>
+      <description>&lt;p&gt;step-by-step instructions on how to conduct a hunt.  &lt;a href=&#34;https://www.cybereason.com/blog-the-eight-steps-to-threat-hunting/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cybereason.com/blog-the-eight-steps-to-threat-hunting/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What happens to your data once it is on the dark web?</title>
@@ -226,18 +238,6 @@
       
       <guid>//crypt0.net/post/grocers-are-a-popular-target-for-security-data-breaches/</guid>
       <description>&lt;p&gt;Rippleshot, a Chicago-based fraud protection firm, said grocers make up the No. 1 channel for data breaches in terms of the percentage of &amp;hellip;  &lt;a href=&#34;http://www.fooddive.com/news/grocery--grocers-are-a-popular-target-for-security-data-breaches/440415/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.fooddive.com/news/grocery--grocers-are-a-popular-target-for-security-data-breaches/440415/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Carbon Black Named a Leader in IDC MarketScape: Worldwide Endpoint</title>
-      <link>//crypt0.net/post/carbon-black-named-a-leader-in-idc-marketscape-worldwide-endpoint/</link>
-      <pubDate>Thu, 13 Apr 2017 10:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/carbon-black-named-a-leader-in-idc-marketscape-worldwide-endpoint/</guid>
-      <description>&lt;p&gt;Yahoo Finance Additionally, Carbon Black was the only vendor to secure a perfect prevention score in NSS Labs&amp;rsquo; Advanced Endpoint Protection (AEP) test (2016).  &lt;a href=&#34;http://finance.yahoo.com/news/carbon-black-named-leader-idc-130000298.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/carbon-black-named-leader-idc-130000298.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
