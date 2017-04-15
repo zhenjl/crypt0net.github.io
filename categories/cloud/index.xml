@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 14 Apr 2017 16:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2017 17:20:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Intel Pulls Out of OpenStack Effort It Founded with Rackspace</title>
+      <link>//crypt0.net/post/intel-pulls-out-of-openstack-effort-it-founded-with-rackspace/</link>
+      <pubDate>Fri, 14 Apr 2017 17:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/intel-pulls-out-of-openstack-effort-it-founded-with-rackspace/</guid>
+      <description>&lt;p&gt;Intel has cut funding for an effort it launched last year with Rackspace to encourage the use of OpenStack software technology for big business &amp;hellip;  &lt;a href=&#34;http://fortune.com/2017/04/14/intel-openstack-project-rackspace/&#34; onclick=&#34;trackOutboundLink(&#39;http://fortune.com/2017/04/14/intel-openstack-project-rackspace/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Resources Tout Hybrid Azure Scenarios</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/how-can-we-get-full-admin-rights-without-restriction-using-openstack-api/</guid>
       <description>&lt;p&gt;In our Generic Openstack Liberty environment or other Openstack platform, we are able to execute the get-pools command with the admin user that &amp;hellip;  &lt;a href=&#34;https://developer.ibm.com/answers/questions/368963/how-can-we-get-full-admin-rights-without-restricti.html&#34; onclick=&#34;trackOutboundLink(&#39;https://developer.ibm.com/answers/questions/368963/how-can-we-get-full-admin-rights-without-restricti.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services outage provides disaster recovery lessons</title>
-      <link>//crypt0.net/post/amazon-web-services-outage-provides-disaster-recovery-lessons/</link>
-      <pubDate>Fri, 14 Apr 2017 07:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-web-services-outage-provides-disaster-recovery-lessons/</guid>
-      <description>&lt;p&gt;If you depend on Amazon Web Services or another cloud service provider, make sure you have a proper disaster recovery plan in place in the event of &amp;hellip;  &lt;a href=&#34;http://searchdisasterrecovery.techtarget.com/tip/Amazon-Web-Services-outage-provides-disaster-recovery-lessons&#34; onclick=&#34;trackOutboundLink(&#39;http://searchdisasterrecovery.techtarget.com/tip/Amazon-Web-Services-outage-provides-disaster-recovery-lessons&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
