@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 16 Apr 2017 22:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Apr 2017 22:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
+      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
+      <pubDate>Sun, 16 Apr 2017 22:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
+      <description>&lt;p&gt;command: gcloud ml-engine local train \ &amp;ndash;package-path=youtube-8m &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/31690/tensorflow-not-starting-training?forumMessageId=175696&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/31690/tensorflow-not-starting-training?forumMessageId=175696&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Insurtech startup Etherisc wins Most Innovative Blockchain Startup award at</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;&amp;hellip; numbers, were disclosed to colleagues in a series of embarrassing data breaches at the State&amp;rsquo;s HR and pensions system, a new report has found.  &lt;a href=&#34;http://www.independent.ie/business/irish/data-watchdog-reveals-civil-service-breaches-35626252.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.independent.ie/business/irish/data-watchdog-reveals-civil-service-breaches-35626252.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>US Government Invests in Blockchain to Protect Healthcare Companies from</title>
-      <link>//crypt0.net/post/us-government-invests-in-blockchain-to-protect-healthcare-companies-from/</link>
-      <pubDate>Sun, 16 Apr 2017 10:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/us-government-invests-in-blockchain-to-protect-healthcare-companies-from/</guid>
-      <description>&lt;p&gt;CoinTelegraph The Office of the National Coordinator for Health Information Technology (ONC) recently published a research paper on the applicability of Blockchain &amp;hellip;  &lt;a href=&#34;https://cointelegraph.com/news/us-government-invests-in-blockchain-to-protect-healthcare-companies-from-hackers&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/us-government-invests-in-blockchain-to-protect-healthcare-companies-from-hackers&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

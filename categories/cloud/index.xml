@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 16 Apr 2017 21:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Apr 2017 22:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
+      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
+      <pubDate>Sun, 16 Apr 2017 22:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
+      <description>&lt;p&gt;command: gcloud ml-engine local train \ &amp;ndash;package-path=youtube-8m &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/31690/tensorflow-not-starting-training?forumMessageId=175696&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/31690/tensorflow-not-starting-training?forumMessageId=175696&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>SUSE eye cloud and datacentre market, post HPE OpenStack and Cloud Foundry</title>
@@ -123,18 +135,6 @@
       
       <guid>//crypt0.net/post/c5s-cloud-fund-invests-25-million-in-gcc-tech-startup-onegcc/</guid>
       <description>&lt;p&gt;&amp;hellip; its cloud fund following the launch in September 2016 of its Cloud 10 technology accelerator programme powered by Amazon Web Services (AWS).  &lt;a href=&#34;http://www.cpifinancial.net/news/category/sme-finance/post/40610/c5s-cloud-fund-invests-2-5-million-in-gcc-tech-start-up-onegcc&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cpifinancial.net/news/category/sme-finance/post/40610/c5s-cloud-fund-invests-2-5-million-in-gcc-tech-start-up-onegcc&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
-      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
-      <pubDate>Sat, 15 Apr 2017 23:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
-      <description>&lt;p&gt;in order to understand the topic behind these labels.  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/31660/cluster-and-visualize-youtube-labels?forumMessageId=175555&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/31660/cluster-and-visualize-youtube-labels?forumMessageId=175555&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
