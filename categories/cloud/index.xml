@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 17 Apr 2017 16:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2017 16:50:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FIX: SQL Server 2014 Backup to Microsoft Azure Blob storage service URL</title>
+      <link>//crypt0.net/post/fix-sql-server-2014-backup-to-microsoft-azure-blob-storage-service-url/</link>
+      <pubDate>Mon, 17 Apr 2017 16:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/fix-sql-server-2014-backup-to-microsoft-azure-blob-storage-service-url/</guid>
+      <description>&lt;p&gt;Fixes an issue in which the backup from Microsoft SQL Server 2014 to Microsoft Azure Blob Storage Service URL fails with an error if your client server &amp;hellip;  &lt;a href=&#34;https://support.microsoft.com/en-in/help/4017023/fix-sql-server-2014-backup-to-microsoft-azure-blob-storage-service-url&#34; onclick=&#34;trackOutboundLink(&#39;https://support.microsoft.com/en-in/help/4017023/fix-sql-server-2014-backup-to-microsoft-azure-blob-storage-service-url&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Xompass Releases SaaS Industry-Leading Internet of Things (IoT) App on</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/report-intel-pulls-the-plug-on-openstack-support/</guid>
       <description>&lt;p&gt;Intel will no longer support the OpenStack Innovation Center, a project it formed with Rackspace two years ago to increase the use of OpenStack &amp;hellip;  &lt;a href=&#34;http://www.ciodive.com/news/report-intel-pulls-the-plug-on-openstack-support/440517/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ciodive.com/news/report-intel-pulls-the-plug-on-openstack-support/440517/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Updates for VMware vSAN and the vCloud Air Network</title>
-      <link>//crypt0.net/post/updates-for-vmware-vsan-and-the-vcloud-air-network/</link>
-      <pubDate>Mon, 17 Apr 2017 11:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/updates-for-vmware-vsan-and-the-vcloud-air-network/</guid>
-      <description>&lt;p&gt;release contains several new features and capabilities.  &lt;a href=&#34;https://blogs.vmware.com/vcloud/2017/04/vmware-vsan-and-the-vcloud-air-network.html&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.vmware.com/vcloud/2017/04/vmware-vsan-and-the-vcloud-air-network.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

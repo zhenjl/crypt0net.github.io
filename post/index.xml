@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 17 Apr 2017 16:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2017 16:50:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FIX: SQL Server 2014 Backup to Microsoft Azure Blob storage service URL</title>
+      <link>//crypt0.net/post/fix-sql-server-2014-backup-to-microsoft-azure-blob-storage-service-url/</link>
+      <pubDate>Mon, 17 Apr 2017 16:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/fix-sql-server-2014-backup-to-microsoft-azure-blob-storage-service-url/</guid>
+      <description>&lt;p&gt;Fixes an issue in which the backup from Microsoft SQL Server 2014 to Microsoft Azure Blob Storage Service URL fails with an error if your client server &amp;hellip;  &lt;a href=&#34;https://support.microsoft.com/en-in/help/4017023/fix-sql-server-2014-backup-to-microsoft-azure-blob-storage-service-url&#34; onclick=&#34;trackOutboundLink(&#39;https://support.microsoft.com/en-in/help/4017023/fix-sql-server-2014-backup-to-microsoft-azure-blob-storage-service-url&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microsoft System Center Endpoint Protection - subscription license</title>
+      <link>//crypt0.net/post/microsoft-system-center-endpoint-protection--subscription-license/</link>
+      <pubDate>Mon, 17 Apr 2017 16:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-system-center-endpoint-protection--subscription-license/</guid>
+      <description>&lt;p&gt;1 user or other Network Management Software at CDW.com.  &lt;a href=&#34;https://www.cdw.com/shop/products/Microsoft-System-Center-Endpoint-Protection-subscription-license-1-user/3291552.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cdw.com/shop/products/Microsoft-System-Center-Endpoint-Protection-subscription-license-1-user/3291552.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Xompass Releases SaaS Industry-Leading Internet of Things (IoT) App on</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/new-azure-migration-tools-analyze-which-apps-should-move-to-the-cloud/</guid>
       <description>&lt;p&gt;Microsoft has sweetened the pot for potential cloud customers with new Azure migration tools and Windows Servers discounts.  &lt;a href=&#34;http://searchcloudcomputing.techtarget.com/news/450416932/New-Azure-migration-tools-analyze-which-apps-should-move-to-the-cloud&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudcomputing.techtarget.com/news/450416932/New-Azure-migration-tools-analyze-which-apps-should-move-to-the-cloud&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Look at Amazon&#39;s and Peers&#39; Growth in the Cloud Space</title>
-      <link>//crypt0.net/post/a-look-at-amazons-and-peers-growth-in-the-cloud-space/</link>
-      <pubDate>Mon, 17 Apr 2017 13:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/a-look-at-amazons-and-peers-growth-in-the-cloud-space/</guid>
-      <description>&lt;p&gt;InvestorPlace, citing Recode, stated that Google&amp;rsquo;s cloud revenue is estimated to have a run rate of $1 billion. Salesforce aims to become a $20 billion &amp;hellip;  &lt;a href=&#34;http://marketrealist.com/2017/04/a-look-at-amazons-and-peers-growth-in-the-cloud-space/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2017/04/a-look-at-amazons-and-peers-growth-in-the-cloud-space/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CREDIT SUISSE: Here&#39;s why Amazon&#39;s stock is going to soar</title>
-      <link>//crypt0.net/post/credit-suisse-heres-why-amazons-stock-is-going-to-soar/</link>
-      <pubDate>Mon, 17 Apr 2017 13:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/credit-suisse-heres-why-amazons-stock-is-going-to-soar/</guid>
-      <description>&lt;p&gt;Amazon Web Services is becoming more and more important to Amazon&amp;rsquo;s growth. Ju says that price cuts at AWS, which have stemmed growth, will &amp;hellip;  &lt;a href=&#34;http://markets.businessinsider.com/news/stocks/credit-suisse-amazon-stock-price-worth-1050-in-the-next-12-months-2017-4-1001924675&#34; onclick=&#34;trackOutboundLink(&#39;http://markets.businessinsider.com/news/stocks/credit-suisse-amazon-stock-price-worth-1050-in-the-next-12-months-2017-4-1001924675&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
