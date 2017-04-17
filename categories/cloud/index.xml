@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 17 Apr 2017 09:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2017 11:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Analysis Services Backup and Restore</title>
+      <link>//crypt0.net/post/azure-analysis-services-backup-and-restore/</link>
+      <pubDate>Mon, 17 Apr 2017 11:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-analysis-services-backup-and-restore/</guid>
+      <description>&lt;p&gt;useful tools for moving large files in to Azure. In addition, if you restore a &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-analysis-services-backup-and-restore/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/azure-analysis-services-backup-and-restore/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Intel Pulls Out of OpenStack Effort It Founded wit...</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/review-vmm-2016-stiffs-azure-older-hyperv/</guid>
       <description>&lt;p&gt;Microsoft would be doing us a huge disservice if it didn&amp;rsquo;t provide a way to manage Nano Servers, rolling cluster upgrades, shielded VMs, and other &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3189948/data-center/review-vmm-2016-stiffs-azure-older-hyper-v.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3189948/data-center/review-vmm-2016-stiffs-azure-older-hyper-v.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Promises Free Cloud Services To Korean Media Startups</title>
-      <link>//crypt0.net/post/google-promises-free-cloud-services-to-korean-media-startups/</link>
-      <pubDate>Mon, 17 Apr 2017 03:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-promises-free-cloud-services-to-korean-media-startups/</guid>
-      <description>&lt;p&gt;Google is going to provide the spark package which will give $20000 credit for use in Google Cloud Platform and Firebase products. For the support &amp;hellip;  &lt;a href=&#34;https://www.technewsinc.com/google-free-cloud-services-korean-startups-58749/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.technewsinc.com/google-free-cloud-services-korean-startups-58749/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
