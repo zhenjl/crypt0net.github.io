@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 18 Apr 2017 02:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 03:10:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack: Pleeeeease stop panicking, Intel and Rackspace still love us</title>
+      <link>//crypt0.net/post/openstack-pleeeeease-stop-panicking-intel-and-rackspace-still-love-us/</link>
+      <pubDate>Tue, 18 Apr 2017 03:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-pleeeeease-stop-panicking-intel-and-rackspace-still-love-us/</guid>
+      <description>&lt;p&gt;Intel has walked out of a major OpenStack collaboration with Rackspace  but both companies and the OpenStack Foundation insist everything&amp;rsquo;s fine.  &lt;a href=&#34;https://www.theregister.co.uk/2017/04/18/openstack_talks_down_intel_fears/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/04/18/openstack_talks_down_intel_fears/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome to Microsoft Azure CLI Shell Preview</title>
@@ -175,142 +187,6 @@
       <description>&lt;p&gt;Ju cites moderated long term deceleration for Amazon Web Services&amp;rsquo; growth, one of the company&amp;rsquo;s fastest and most lucrative businesses.  &lt;a href=&#34;http://www.investopedia.com/news/why-credit-suisse-thinks-amazon-will-fly-higher-amzn/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.investopedia.com/news/why-credit-suisse-thinks-amazon-will-fly-higher-amzn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Cloud Computing News from @cloudfeednet - Apr 17, 2017</title>
-      <link>//crypt0.net/daily/daily-cloud-news-2017-04-17/</link>
-      <pubDate>Mon, 17 Apr 2017 18:05:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/daily/daily-cloud-news-2017-04-17/</guid>
-      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;SUSE eye cloud and datacentre market, post HPE OpenStack and Cloud Foundry&lt;/h3&gt;
-&lt;p&gt;ETCIO.com Bangalore: Following the HPE OpenStack and Cloud Foundry assets acquisition, SUSE  a major Linux provider has strengthened its position in the &amp;hellip;  &lt;a href=&#34;http://cio.economictimes.indiatimes.com/news/corporate-news/suse-eye-cloud-and-datacentre-market-post-hpe-openstack-and-cloud-foundry-buyout/58215481&#34; onclick=&#34;trackOutboundLink(&#39;http://cio.economictimes.indiatimes.com/news/corporate-news/suse-eye-cloud-and-datacentre-market-post-hpe-openstack-and-cloud-foundry-buyout/58215481&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Cloud &amp;amp; YouTube-8M Video Understanding Challenge&lt;/h3&gt;
-&lt;p&gt;command: gcloud ml-engine local train \ &amp;ndash;package-path=youtube-8m &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/31690/tensorflow-not-starting-training?forumMessageId=175696&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/31690/tensorflow-not-starting-training?forumMessageId=175696&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Openstack endpoint delete,show,set catch errors.&lt;/h3&gt;
-&lt;p&gt;cf1a85e427ab4b02a0f01b6205df7fch Failed to delete endpoint with ID &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1683231&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1683231&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft adds AI to cloud-computing service&lt;/h3&gt;
-&lt;p&gt;Earlier, Microsoft opened two data center regions in Seoul and the southern port city of Busan for its open cloud computing platform called Azure.  &lt;a href=&#34;http://www.koreaherald.com/view.php?ud=20170417000811&#34; onclick=&#34;trackOutboundLink(&#39;http://www.koreaherald.com/view.php?ud=20170417000811&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft may come up with Surface Cloud&lt;/h3&gt;
-&lt;p&gt;Windows Cloud will provide an alternative to Google&amp;rsquo;s Chromebook, which threatens the Windows OS and automatically ties users to Google&amp;rsquo;s cloud.  &lt;a href=&#34;http://www.gizbot.com/miscellaneous/news/microsoft-may-come-up-with-surface-cloud-040016.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gizbot.com/miscellaneous/news/microsoft-may-come-up-with-surface-cloud-040016.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Authentic Microsoft Azure 70-473 Exam Dumps - Download 70-473 New Questions&lt;/h3&gt;
-&lt;p&gt;Most Updated 70-473 Microsoft Azure Exam Dumps.  &lt;a href=&#34;https://spark.adobe.com/page/Jz3nuB126hW5c/&#34; onclick=&#34;trackOutboundLink(&#39;https://spark.adobe.com/page/Jz3nuB126hW5c/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Promises Free Cloud Services To Korean Media Startups&lt;/h3&gt;
-&lt;p&gt;Google is going to provide the spark package which will give $20000 credit for use in Google Cloud Platform and Firebase products. For the support &amp;hellip;  &lt;a href=&#34;https://www.technewsinc.com/google-free-cloud-services-korean-startups-58749/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.technewsinc.com/google-free-cloud-services-korean-startups-58749/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Review: VMM 2016 stiffs Azure, older Hyper-V&lt;/h3&gt;
-&lt;p&gt;Microsoft would be doing us a huge disservice if it didn&amp;rsquo;t provide a way to manage Nano Servers, rolling cluster upgrades, shielded VMs, and other &amp;hellip;  &lt;a href=&#34;http://www.infoworld.com/article/3189948/data-center/review-vmm-2016-stiffs-azure-older-hyper-v.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3189948/data-center/review-vmm-2016-stiffs-azure-older-hyper-v.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Oracle Corporation (NYSE:ORCL) plans to beat Amazon Web Services&lt;/h3&gt;
-&lt;p&gt;Oracle Corporation (NYSE:ORCL) seems to believe it can top public cloud market leaders Amazon Web Services, Microsoft Azure and Google&amp;rsquo;s Cloud &amp;hellip;  &lt;a href=&#34;http://www.benchmarkmonitor.com/oracle-corporation-nyseorcl-plans-to-beat-amazon-web-services/205478&#34; onclick=&#34;trackOutboundLink(&#39;http://www.benchmarkmonitor.com/oracle-corporation-nyseorcl-plans-to-beat-amazon-web-services/205478&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Credit Suisse Just Issued Outperform Rating on Amazon.com (AMZN)&lt;/h3&gt;
-&lt;p&gt;It serves developers and enterprises through Amazon Web Services (AWS). It serves authors and independent publishers with Kindle Direct &amp;hellip;  &lt;a href=&#34;https://www.highlandmirror.com/2017-04-17-credit-suisse-just-issued-outperform-rating-on-amazon-com-amzn&#34; onclick=&#34;trackOutboundLink(&#39;https://www.highlandmirror.com/2017-04-17-credit-suisse-just-issued-outperform-rating-on-amazon-com-amzn&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Oracle CEO Confident of Beating Amazon and Microsoft in the Cloud Race&lt;/h3&gt;
-&lt;p&gt;While the first is the undisputed market leader in public cloud, Microsoft Azure follows close on its heels. They are followed by Google Cloud.  &lt;a href=&#34;http://www.readitquik.com/articles/elastic-computing/oracle-ceo-confident-of-beating-amazon-and-microsoft-in-the-cloud-race/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.readitquik.com/articles/elastic-computing/oracle-ceo-confident-of-beating-amazon-and-microsoft-in-the-cloud-race/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Summit preparations, Technical Committee elections, and more OpenStack news&lt;/h3&gt;
-&lt;p&gt;Welcome to Opensource.com&amp;rsquo;s monthly look at what&amp;rsquo;s happening in the world of OpenStack, the open source cloud infrastructure project. We bring &amp;hellip;  &lt;a href=&#34;https://opensource.com/article/17/4/openstack-news-april-2017&#34; onclick=&#34;trackOutboundLink(&#39;https://opensource.com/article/17/4/openstack-news-april-2017&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Salesforce eyes regional growth after Australian Amazon Web Services cloud&lt;/h3&gt;
-&lt;p&gt;The Australian Financial Review The company signed a deal with Amazon Web Services to host its Intelligence Customer Success Platform in AWS&amp;rsquo; Sydney data centres, ending years &amp;hellip;  &lt;a href=&#34;http://www.afr.com/technology/cloud-computing/salesforce-eyes-regional-growth-after-australian-amazon-web-services-cloud-deal-20170320-gv1wwn&#34; onclick=&#34;trackOutboundLink(&#39;http://www.afr.com/technology/cloud-computing/salesforce-eyes-regional-growth-after-australian-amazon-web-services-cloud-deal-20170320-gv1wwn&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The Next Shoe to Drop at Amazon&lt;/h3&gt;
-&lt;p&gt;Amazon Marketplace and Amazon Web Services are examples of this. The real meaning of &amp;ldquo;Protecting Saplings&amp;rdquo; is a little harder to decipher.  &lt;a href=&#34;https://www.bloomberg.com/gadfly/articles/2017-04-17/amazon-s-learn-burn-churn-method-puts-zappos-at-risk&#34; onclick=&#34;trackOutboundLink(&#39;https://www.bloomberg.com/gadfly/articles/2017-04-17/amazon-s-learn-burn-churn-method-puts-zappos-at-risk&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Oracle CEO Confident of Beating Amazon and Microsoft in the Cloud Race&lt;/h3&gt;
-&lt;p&gt;They are followed by Google Cloud. According to a study by Synergy Research, AWS continues to enjoy a large 40% market share in the IaaS and &amp;hellip;  &lt;a href=&#34;http://www.readitquik.com/articles/elastic-computing/oracle-ceo-confident-of-beating-amazon-and-microsoft-in-the-cloud-race/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.readitquik.com/articles/elastic-computing/oracle-ceo-confident-of-beating-amazon-and-microsoft-in-the-cloud-race/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Azure Adds New Tools to Outshine AWS in the Battle for Cloud&lt;/h3&gt;
-&lt;p&gt;MobiPicker Microsoft has added new features to its Azure cloud platform, making it much more convenient for businesses to tap into the Azure datacenter services &amp;hellip;  &lt;a href=&#34;http://www.mobipicker.com/microsoft-azure-adds-new-tools-outshine-aws-battle-cloud-supremacy/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.mobipicker.com/microsoft-azure-adds-new-tools-outshine-aws-battle-cloud-supremacy/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Merck &amp;amp; Co., Inc. (NYSE:MRK) and Amazon Web-Services launched contest for&lt;/h3&gt;
-&lt;p&gt;Benchmark Monitor Merck &amp;amp; Co., Inc. (NYSE:MRK) and Amazon Web Services launched a contest for developers to channel artificial intelligence for Type 2 diabetes, &amp;hellip;  &lt;a href=&#34;http://www.benchmarkmonitor.com/merck-co-inc-nysemrk-and-amazon-web-services-launched-contest-for-developers/205770&#34; onclick=&#34;trackOutboundLink(&#39;http://www.benchmarkmonitor.com/merck-co-inc-nysemrk-and-amazon-web-services-launched-contest-for-developers/205770&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Using the Azure Total Cost of Ownership (TCO) Tool for a Cloud Migration&lt;/h3&gt;
-&lt;p&gt;Windows IT Pro You can get started with their Microsoft Azure Total Cost of Ownership (TCO Calculator located at &lt;a href=&#34;http://tco.microsoft.com/&#34;&gt;http://tco.microsoft.com/&lt;/a&gt;. This tool is no good unless &amp;hellip;  &lt;a href=&#34;http://windowsitpro.com/azure/using-azure-total-cost-ownership-tco-tool-cloud-migration-assessment&#34; onclick=&#34;trackOutboundLink(&#39;http://windowsitpro.com/azure/using-azure-total-cost-ownership-tco-tool-cloud-migration-assessment&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Cloud &amp;amp; YouTube-8M Video Understanding Challenge&lt;/h3&gt;
-&lt;p&gt;for 4337 items in my local machine, apparently something wrong here &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/31699/why-the-total-size-of-the-video-level-features-is-11-67-gb-on-disk-for?forumMessageId=175728&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/31699/why-the-total-size-of-the-video-level-features-is-11-67-gb-on-disk-for?forumMessageId=175728&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Firebase &amp;amp; Google Cloud at Coworking Day&lt;/h3&gt;
-&lt;p&gt;from Google Cloud &amp;amp; Firebase will be giving tech talks &amp;amp; 1:1 &amp;hellip;  &lt;a href=&#34;http://www.garysguide.com/events/ohks84z/Firebase-Google-Cloud-at-Coworking-Day&#34; onclick=&#34;trackOutboundLink(&#39;http://www.garysguide.com/events/ohks84z/Firebase-Google-Cloud-at-Coworking-Day&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Tamkeen offers &amp;lsquo;cloud&amp;rsquo; certification with AWS&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; a range of professional certificates in cloud computing to its range of certification programme, in partnership with Amazon Web Services (AWS) .  &lt;a href=&#34;http://www.tradearabia.com/news/EDU_323596.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.tradearabia.com/news/EDU_323596.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Intel Pulls Out of OpenStack Effort It Founded wit&amp;hellip;&lt;/h3&gt;
-&lt;p&gt;standard/reference implementation. It was destroyed by it&amp;rsquo;s own grandiose goals.  &lt;a href=&#34;https://news.ycombinator.com/item?id=14130890&#34; onclick=&#34;trackOutboundLink(&#39;https://news.ycombinator.com/item?id=14130890&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Azure Analysis Services Backup and Restore&lt;/h3&gt;
-&lt;p&gt;useful tools for moving large files in to Azure. In addition, if you restore a &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/azure-analysis-services-backup-and-restore/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/azure-analysis-services-backup-and-restore/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Report: Intel pulls the plug on OpenStack support&lt;/h3&gt;
-&lt;p&gt;Intel will no longer support the OpenStack Innovation Center, a project it formed with Rackspace two years ago to increase the use of OpenStack &amp;hellip;  &lt;a href=&#34;http://www.ciodive.com/news/report-intel-pulls-the-plug-on-openstack-support/440517/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ciodive.com/news/report-intel-pulls-the-plug-on-openstack-support/440517/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Updates for VMware vSAN and the vCloud Air Network&lt;/h3&gt;
-&lt;p&gt;release contains several new features and capabilities.  &lt;a href=&#34;https://blogs.vmware.com/vcloud/2017/04/vmware-vsan-and-the-vcloud-air-network.html&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.vmware.com/vcloud/2017/04/vmware-vsan-and-the-vcloud-air-network.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon&amp;rsquo;s AWS Connect Contact Center  A Possible Industry Disruptor&lt;/h3&gt;
-&lt;p&gt;On March 29 at Enterprise Connect, Amazon Web Services (AWS) announced Amazon Connect. According to Amazon, Amazon Connect is a simple &amp;hellip;  &lt;a href=&#34;http://www.ucstrategies.com/unified-communications-strategies-views/amazons-aws-connect-contact-center-a-possible-industry-disruptor.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ucstrategies.com/unified-communications-strategies-views/amazons-aws-connect-contact-center-a-possible-industry-disruptor.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Elasticsearch cloud partnership plays to Google&amp;rsquo;s base&lt;/h3&gt;
-&lt;p&gt;Google&amp;rsquo;s cloud partnership with Elastic brings the open source search engine and analytics tool to GCP as Google tries to appeal to enterprises &amp;hellip;  &lt;a href=&#34;http://searchcloudcomputing.techtarget.com/news/450416923/Elasticsearch-cloud-partnership-plays-to-Googles-base&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudcomputing.techtarget.com/news/450416923/Elasticsearch-cloud-partnership-plays-to-Googles-base&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Cable Vet Kathy Payne Joins Amazon&amp;rsquo;s Ranks as Channels Content Executive&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; given the company&amp;rsquo;s substantial investment in [cloud computing platform Amazon Web Services] and in licensed and original TV and movie content, &amp;hellip;  &lt;a href=&#34;http://www.multichannel.com/cable-vet-kathy-payne-joins-amazon-s-ranks-channels-content-executive/412213&#34; onclick=&#34;trackOutboundLink(&#39;http://www.multichannel.com/cable-vet-kathy-payne-joins-amazon-s-ranks-channels-content-executive/412213&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Transparency: How Microsoft&amp;rsquo;s and Peers&amp;rsquo; Cloud Offerings Stack Up&lt;/h3&gt;
-&lt;p&gt;Google&amp;rsquo;s cloud platform is a combination of apps and ML (machine learning), which can be viewed as a compelling offering. It is also betting on AI &amp;hellip;  &lt;a href=&#34;http://marketrealist.com/2017/04/transparency-how-microsofts-and-peers-cloud-offerings-stack-up/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2017/04/transparency-how-microsofts-and-peers-cloud-offerings-stack-up/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Visualize Azure Machine Learning Models with MicroStrategy Desktop&lt;/h3&gt;
-&lt;p&gt;drag-n-drop interface so users can efficiently plan, create and glean insights from &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/visualize-azure-machine-learning-models-with-microstrategy-desktop/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/visualize-azure-machine-learning-models-with-microstrategy-desktop/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;CREDIT SUISSE: Here&amp;rsquo;s why Amazon&amp;rsquo;s stock is going to soar&lt;/h3&gt;
-&lt;p&gt;Amazon Web Services is becoming more and more important to Amazon&amp;rsquo;s growth. Ju says that price cuts at AWS, which have stemmed growth, will &amp;hellip;  &lt;a href=&#34;http://markets.businessinsider.com/news/stocks/credit-suisse-amazon-stock-price-worth-1050-in-the-next-12-months-2017-4-1001924675&#34; onclick=&#34;trackOutboundLink(&#39;http://markets.businessinsider.com/news/stocks/credit-suisse-amazon-stock-price-worth-1050-in-the-next-12-months-2017-4-1001924675&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;A Look at Amazon&amp;rsquo;s and Peers&amp;rsquo; Growth in the Cloud Space&lt;/h3&gt;
-&lt;p&gt;InvestorPlace, citing Recode, stated that Google&amp;rsquo;s cloud revenue is estimated to have a run rate of $1 billion. Salesforce aims to become a $20 billion &amp;hellip;  &lt;a href=&#34;http://marketrealist.com/2017/04/a-look-at-amazons-and-peers-growth-in-the-cloud-space/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2017/04/a-look-at-amazons-and-peers-growth-in-the-cloud-space/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;New Azure migration tools analyze which apps should move to the cloud&lt;/h3&gt;
-&lt;p&gt;Microsoft has sweetened the pot for potential cloud customers with new Azure migration tools and Windows Servers discounts.  &lt;a href=&#34;http://searchcloudcomputing.techtarget.com/news/450416932/New-Azure-migration-tools-analyze-which-apps-should-move-to-the-cloud&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudcomputing.techtarget.com/news/450416932/New-Azure-migration-tools-analyze-which-apps-should-move-to-the-cloud&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Alphabet&amp;rsquo;s stock may finally outperform Facebook and Amazon&lt;/h3&gt;
-&lt;p&gt;But that underperformance relative to its big-cap rivals could soon change as YouTube and Google Cloud take up a larger piece of its total revenue &amp;hellip;  &lt;a href=&#34;http://www.marketwatch.com/story/alphabets-stock-may-finally-outperform-facebook-and-amazon-2017-04-17&#34; onclick=&#34;trackOutboundLink(&#39;http://www.marketwatch.com/story/alphabets-stock-may-finally-outperform-facebook-and-amazon-2017-04-17&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft releases more details in the Interactive Azure Platform&lt;/h3&gt;
-&lt;p&gt;Microsoft had launched the Interactive Azure Platform last year i.e. in May 2016. The cloud platform from Microsoft got the interactive touch so as to &amp;hellip;  &lt;a href=&#34;http://news.thewindowsclub.com/microsoft-releases-details-interactive-azure-platform-89446/&#34; onclick=&#34;trackOutboundLink(&#39;http://news.thewindowsclub.com/microsoft-releases-details-interactive-azure-platform-89446/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;VMware vCloud Suite Advanced (v. 7) - license - 1 processor&lt;/h3&gt;
-&lt;p&gt;Server Virtualization Software at CDW.com.  &lt;a href=&#34;https://www.cdw.com/shop/products/VMware-vCloud-Suite-Advanced-v.-7-license-1-processor/4038144.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cdw.com/shop/products/VMware-vCloud-Suite-Advanced-v.-7-license-1-processor/4038144.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Xompass Releases SaaS Industry-Leading Internet of Things (IoT) App on&lt;/h3&gt;
-&lt;p&gt;PR Urgent (press release) Xompass Cloud is built on Azure infrastructure, Azure IoT Hub, and Cortana &amp;hellip; Microsoft Azure scales easily, allowing Xompass to meet the rapid &amp;hellip;  &lt;a href=&#34;http://www.prurgent.com/2017-04-17/pressrelease425478.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prurgent.com/2017-04-17/pressrelease425478.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;se60800 - cloud manager with openstack for zvm: compute node error if cont&lt;/h3&gt;
-&lt;p&gt;CLOUD MANAGER WITH OPENSTACK FOR ZVM: COMPUTE NODE ERROR IF CONT ROLLER IS RESTARTED.  &lt;a href=&#34;https://www.ibm.com/support/docview.wss?uid=nas2SE60800&#34; onclick=&#34;trackOutboundLink(&#39;https://www.ibm.com/support/docview.wss?uid=nas2SE60800&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;FIX: SQL Server 2014 Backup to Microsoft Azure Blob storage service URL&lt;/h3&gt;
-&lt;p&gt;Fixes an issue in which the backup from Microsoft SQL Server 2014 to Microsoft Azure Blob Storage Service URL fails with an error if your client server &amp;hellip;  &lt;a href=&#34;https://support.microsoft.com/en-in/help/4017023/fix-sql-server-2014-backup-to-microsoft-azure-blob-storage-service-url&#34; onclick=&#34;trackOutboundLink(&#39;https://support.microsoft.com/en-in/help/4017023/fix-sql-server-2014-backup-to-microsoft-azure-blob-storage-service-url&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;OS250: OpenStack Accelerated Bootcamp with Exam&lt;/h3&gt;
-&lt;p&gt;with the first four days spent in bootcamp, and the exam held on the 5th day.  &lt;a href=&#34;https://training.mirantis.com/course-catalog/9-os250-openstack-accelerated-bootcamp-with-exam/&#34; onclick=&#34;trackOutboundLink(&#39;https://training.mirantis.com/course-catalog/9-os250-openstack-accelerated-bootcamp-with-exam/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Cloud &amp;amp; YouTube-8M Video Understanding Challenge&lt;/h3&gt;
-&lt;p&gt;model ? That is, we are cloning the GIT hub repo onto cloud in the initial &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/31731/submit-own-model?forumMessageId=175855&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/31731/submit-own-model?forumMessageId=175855&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Pickles Auctions takes on digital future with UXC Eclipse&lt;/h3&gt;
-&lt;p&gt;He says by adopting Azure and Dynamics 365 for Operations, the company is &amp;hellip; The company is also adopting a range of other Microsoft and Azure &amp;hellip;  &lt;a href=&#34;https://channellife.com.au/story/pickles-auctions-takes-digital-future-uxc-eclipse/&#34; onclick=&#34;trackOutboundLink(&#39;https://channellife.com.au/story/pickles-auctions-takes-digital-future-uxc-eclipse/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
