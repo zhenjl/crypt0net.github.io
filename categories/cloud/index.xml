@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 17 Apr 2017 16:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2017 17:00:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OS250: OpenStack Accelerated Bootcamp with Exam</title>
+      <link>//crypt0.net/post/os250-openstack-accelerated-bootcamp-with-exam/</link>
+      <pubDate>Mon, 17 Apr 2017 17:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/os250-openstack-accelerated-bootcamp-with-exam/</guid>
+      <description>&lt;p&gt;with the first four days spent in bootcamp, and the exam held on the 5th day.  &lt;a href=&#34;https://training.mirantis.com/course-catalog/9-os250-openstack-accelerated-bootcamp-with-exam/&#34; onclick=&#34;trackOutboundLink(&#39;https://training.mirantis.com/course-catalog/9-os250-openstack-accelerated-bootcamp-with-exam/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>FIX: SQL Server 2014 Backup to Microsoft Azure Blob storage service URL</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/elasticsearch-cloud-partnership-plays-to-googles-base/</guid>
       <description>&lt;p&gt;Google&amp;rsquo;s cloud partnership with Elastic brings the open source search engine and analytics tool to GCP as Google tries to appeal to enterprises &amp;hellip;  &lt;a href=&#34;http://searchcloudcomputing.techtarget.com/news/450416923/Elasticsearch-cloud-partnership-plays-to-Googles-base&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudcomputing.techtarget.com/news/450416923/Elasticsearch-cloud-partnership-plays-to-Googles-base&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Report: Intel pulls the plug on OpenStack support</title>
-      <link>//crypt0.net/post/report-intel-pulls-the-plug-on-openstack-support/</link>
-      <pubDate>Mon, 17 Apr 2017 11:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/report-intel-pulls-the-plug-on-openstack-support/</guid>
-      <description>&lt;p&gt;Intel will no longer support the OpenStack Innovation Center, a project it formed with Rackspace two years ago to increase the use of OpenStack &amp;hellip;  &lt;a href=&#34;http://www.ciodive.com/news/report-intel-pulls-the-plug-on-openstack-support/440517/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ciodive.com/news/report-intel-pulls-the-plug-on-openstack-support/440517/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
