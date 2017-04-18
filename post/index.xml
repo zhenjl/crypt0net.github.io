@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 17 Apr 2017 18:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2017 18:50:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Enable osprofiler support in OpenStack services</title>
+      <link>//crypt0.net/post/enable-osprofiler-support-in-openstack-services/</link>
+      <pubDate>Mon, 17 Apr 2017 18:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/enable-osprofiler-support-in-openstack-services/</guid>
+      <description>&lt;p&gt;osprofiler now). Is usefull for developers and people learning how internally &amp;hellip;  &lt;a href=&#34;https://blueprints.launchpad.net/kolla-ansible/+spec/enable-osprofiler&#34; onclick=&#34;trackOutboundLink(&#39;https://blueprints.launchpad.net/kolla-ansible/+spec/enable-osprofiler&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Manage Azure Resources with Visual Studio Cloud Explorer</title>
+      <link>//crypt0.net/post/manage-azure-resources-with-visual-studio-cloud-explorer/</link>
+      <pubDate>Mon, 17 Apr 2017 18:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/manage-azure-resources-with-visual-studio-cloud-explorer/</guid>
+      <description>&lt;p&gt;Microsoft&amp;rsquo;s Azure cloud platform is large and complex. It is expanding every month with new features. Love it or hate it, the web management portal&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;https://www.petri.com/manage-azure-resources-visual-studio-cloud-explorer&#34; onclick=&#34;trackOutboundLink(&#39;https://www.petri.com/manage-azure-resources-visual-studio-cloud-explorer&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The legal impact of data protection and management in the digital age</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/chain-inc-hires-goldmans-jessop-to-boost-blockchain-effort/</guid>
       <description>&lt;p&gt;Chain Inc. has hired a senior technology executive from Goldman Sachs Group Inc., Tom Jessop, to boost its efforts deploying the technology behind &amp;hellip;  &lt;a href=&#34;https://www.wsj.com/articles/chain-inc-hires-goldmans-jessop-to-boost-blockchain-effort-1492465884&#34; onclick=&#34;trackOutboundLink(&#39;https://www.wsj.com/articles/chain-inc-hires-goldmans-jessop-to-boost-blockchain-effort-1492465884&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How Fog Computing Will Shape The Future Of IoT Applications And</title>
-      <link>//crypt0.net/post/how-fog-computing-will-shape-the-future-of-iot-applications-and/</link>
-      <pubDate>Mon, 17 Apr 2017 16:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-fog-computing-will-shape-the-future-of-iot-applications-and/</guid>
-      <description>&lt;p&gt;ISBuzz News Fog computing may be the next big thing for the Internet of things. The fog computing market, valued at $22.3 million in 2017, will expand at an &amp;hellip;  &lt;a href=&#34;http://www.informationsecuritybuzz.com/articles/fog-computing-will-shape-future-iot-applications-cybersecurity/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.informationsecuritybuzz.com/articles/fog-computing-will-shape-future-iot-applications-cybersecurity/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ethereum Developers Eye Proof-of-Stake Shift with New Geth Update</title>
-      <link>//crypt0.net/post/ethereum-developers-eye-proofofstake-shift-with-new-geth-update/</link>
-      <pubDate>Mon, 17 Apr 2017 15:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ethereum-developers-eye-proofofstake-shift-with-new-geth-update/</guid>
-      <description>&lt;p&gt;In the past year and a half, the project has been laying the groundwork to move away from proof-of-work  also utilized in other public blockchains like &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/ethereum-proof-of-stake-new-geth-update/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/ethereum-proof-of-stake-new-geth-update/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
