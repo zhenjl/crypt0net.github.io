@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 18 Apr 2017 14:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 14:50:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>(RDO docs) auth_strategy should be in [api] section, not [DEFAULT]</title>
+      <link>//crypt0.net/post/rdo-docs-authstrategy-should-be-in-api-section-not-default/</link>
+      <pubDate>Tue, 18 Apr 2017 14:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/rdo-docs-authstrategy-should-be-in-api-section-not-default/</guid>
+      <description>&lt;p&gt;section, not [DEFAULT] - [ ] This is a doc addition request. - [x] I have a fix to the &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1683815&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1683815&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Could an unsung Microsoft Azure feature make containers yesterday&#39;s news?</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/astro-uses-amazon-web-services-to-spur-digital-transformation/</guid>
       <description>&lt;p&gt;KUALA LUMPUR: Astro Malaysia Holdings Bhd has signed an agreement with US-based Amazon Web Services Inc. to spur Astro&amp;rsquo;s digital and &amp;hellip;  &lt;a href=&#34;http://english.astroawani.com/business-news/astro-uses-amazon-web-services-spur-digital-transformation-139766&#34; onclick=&#34;trackOutboundLink(&#39;http://english.astroawani.com/business-news/astro-uses-amazon-web-services-spur-digital-transformation-139766&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MS Azure Solution Architect- Top Secret Clearance - DC $90 ph</title>
-      <link>//crypt0.net/post/ms-azure-solution-architect-top-secret-clearance--dc-90-ph/</link>
-      <pubDate>Tue, 18 Apr 2017 12:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ms-azure-solution-architect-top-secret-clearance--dc-90-ph/</guid>
-      <description>&lt;p&gt;Microsoft Partner located in the Washington DC is in need of an Azure &amp;hellip;  &lt;a href=&#34;https://www.nigelfrank.com/us/vacancy/220538/ms-azure-solution-architect--top-secret-clearance---dc-90-p&#34; onclick=&#34;trackOutboundLink(&#39;https://www.nigelfrank.com/us/vacancy/220538/ms-azure-solution-architect--top-secret-clearance---dc-90-p&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
