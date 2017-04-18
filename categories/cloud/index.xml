@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 18 Apr 2017 14:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 15:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google&#39;s cloud clients now have full access to its speech recognition</title>
+      <link>//crypt0.net/post/googles-cloud-clients-now-have-full-access-to-its-speech-recognition/</link>
+      <pubDate>Tue, 18 Apr 2017 15:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/googles-cloud-clients-now-have-full-access-to-its-speech-recognition/</guid>
+      <description>&lt;p&gt;Recode Google has released an improved version of its speech software for its cloud customers, and is allowing them to use the software more widely.  &lt;a href=&#34;https://www.recode.net/2017/4/18/15345740/google-speech-recognition-ai-cloud&#34; onclick=&#34;trackOutboundLink(&#39;https://www.recode.net/2017/4/18/15345740/google-speech-recognition-ai-cloud&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>(RDO docs) auth_strategy should be in [api] section, not [DEFAULT]</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/cloud-adoption-with-vcloud-air-hybrid-cloud-manager-and-hybrid-dmz/</guid>
       <description>&lt;p&gt;such as vCloud Air Hybrid Cloud Manager and Hybrid DMZ.  &lt;a href=&#34;https://blogs.vmware.com/vcloud/2017/04/cloud-adoption-vcloud-hybrid-manager-dmz.html&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.vmware.com/vcloud/2017/04/cloud-adoption-vcloud-hybrid-manager-dmz.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
-      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
-      <pubDate>Tue, 18 Apr 2017 10:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
-      <description>&lt;p&gt;locally and I tried running it with inference.py on a sample file (to understand how &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/31773/inference-py-error?forumMessageId=176046&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/31773/inference-py-error?forumMessageId=176046&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
