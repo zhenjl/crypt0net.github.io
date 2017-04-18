@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 18 Apr 2017 06:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 07:00:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Unitas Global and Canonical provide Fully-Managed Enterprise OpenStack</title>
+      <link>//crypt0.net/post/unitas-global-and-canonical-provide-fullymanaged-enterprise-openstack/</link>
+      <pubDate>Tue, 18 Apr 2017 07:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/unitas-global-and-canonical-provide-fullymanaged-enterprise-openstack/</guid>
+      <description>&lt;p&gt;consume open source infrastructure, OpenStack and Kubernetes, without &amp;hellip;  &lt;a href=&#34;https://insights.ubuntu.com/2017/04/18/unitas-global-and-canonical-provide-fully-managed-enterprise-openstack/&#34; onclick=&#34;trackOutboundLink(&#39;https://insights.ubuntu.com/2017/04/18/unitas-global-and-canonical-provide-fully-managed-enterprise-openstack/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Archive360 Named Finalist for 2017 DBTA Readers&#39; Choice Awards</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/welcome-to-microsoft-azure-cli-shell-preview/</guid>
       <description>&lt;p&gt;A few months ago, Azure CLI 2.0 was released. It provides a command line interface to manage/administer Azure resources. Azure CLI is optimized to &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/welcome-to-microsoft-azure-cli-shell-preview/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/welcome-to-microsoft-azure-cli-shell-preview/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bug #1683594 Permission denied /var/lib/openstack-dashboard/sec...</title>
-      <link>//crypt0.net/post/bug-1683594-permission-denied-varlibopenstackdashboardsec/</link>
-      <pubDate>Tue, 18 Apr 2017 01:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1683594-permission-denied-varlibopenstackdashboardsec/</guid>
-      <description>&lt;p&gt;&amp;ldquo;internal server error&amp;rdquo;. /var/log/apache2/error.log shows: [Mon Apr 17 21:43:05.829182 &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1683594&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1683594&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
