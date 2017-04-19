@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 19 Apr 2017 05:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 06:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>For The New York Times, a move to the cloud</title>
+      <link>//crypt0.net/post/for-the-new-york-times-a-move-to-the-cloud/</link>
+      <pubDate>Wed, 19 Apr 2017 06:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/for-the-new-york-times-a-move-to-the-cloud/</guid>
+      <description>&lt;p&gt;Oracle database-dependent applications will be deployed on AWS, while the rest will mostly be run in containers on Google Cloud Platform, &amp;hellip;  &lt;a href=&#34;http://www.datacenterdynamics.com/content-tracks/colo-cloud/for-the-new-york-times-a-move-to-the-cloud/98184.article&#34; onclick=&#34;trackOutboundLink(&#39;http://www.datacenterdynamics.com/content-tracks/colo-cloud/for-the-new-york-times-a-move-to-the-cloud/98184.article&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bug #1683977: admin guide - Configure Compute service groups</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/scalable-enterprise-and-cloudready-architecture-accelerates-windows-10/</guid>
       <description>&lt;p&gt;CSO Australia The DesktopNow Cloud Best Practice Guide for Microsoft Azure can be &amp;hellip; .com/white-papers/IVI-1805-hosting-desktopnow-in-microsoft-azure.pdf.  &lt;a href=&#34;http://www.cso.com.au/mediareleases/29445/ivanti-releases-best-practice-guides-for-hosting/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cso.com.au/mediareleases/29445/ivanti-releases-best-practice-guides-for-hosting/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Equinix to enable hybrid kubernetes architecture with Google cloud</title>
-      <link>//crypt0.net/post/equinix-to-enable-hybrid-kubernetes-architecture-with-google-cloud/</link>
-      <pubDate>Tue, 18 Apr 2017 18:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/equinix-to-enable-hybrid-kubernetes-architecture-with-google-cloud/</guid>
-      <description>&lt;p&gt;Maintaining an enterprise private cloud at Equinix, and using Kubernetes to move containers between their private cloud and Google Cloud Platform, &amp;hellip;  &lt;a href=&#34;https://datacenternews.asia/story/equinix-enable-hybrid-kubernetes-architecture-google-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://datacenternews.asia/story/equinix-enable-hybrid-kubernetes-architecture-google-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

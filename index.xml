@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 19 Apr 2017 06:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 06:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>For The New York Times, a move to the cloud</title>
+      <link>//crypt0.net/post/for-the-new-york-times-a-move-to-the-cloud/</link>
+      <pubDate>Wed, 19 Apr 2017 06:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/for-the-new-york-times-a-move-to-the-cloud/</guid>
+      <description>&lt;p&gt;Oracle database-dependent applications will be deployed on AWS, while the rest will mostly be run in containers on Google Cloud Platform, &amp;hellip;  &lt;a href=&#34;http://www.datacenterdynamics.com/content-tracks/colo-cloud/for-the-new-york-times-a-move-to-the-cloud/98184.article&#34; onclick=&#34;trackOutboundLink(&#39;http://www.datacenterdynamics.com/content-tracks/colo-cloud/for-the-new-york-times-a-move-to-the-cloud/98184.article&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain app platform Lisk moves closer to first major release with</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/noop-duplicate-declaration-of-reauthentication-method/</guid>
       <description>&lt;p&gt;tests we need to prepare fuel-library to this.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1684042&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1684042&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SoftBank Leads $16.5 Million Strategic Investment in Dome9 Security</title>
-      <link>//crypt0.net/post/softbank-leads-165-million-strategic-investment-in-dome9-security/</link>
-      <pubDate>Wed, 19 Apr 2017 04:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/softbank-leads-165-million-strategic-investment-in-dome9-security/</guid>
-      <description>&lt;p&gt;&amp;hellip; and the Google Cloud Platform (GCP) as well as an agent-based approach that extends the Dome9 platform to other public clouds and on-premises &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/4059748&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/4059748&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
