@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 19 Apr 2017 11:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 11:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Release: AWS Lambda on 2017-4-18</title>
+      <link>//crypt0.net/post/release-aws-lambda-on-2017418/</link>
+      <pubDate>Wed, 19 Apr 2017 11:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/release-aws-lambda-on-2017418/</guid>
+      <description>&lt;p&gt;support for the Python 3.6 runtime. Details. Release Date: April 18, 2017 &amp;hellip;  &lt;a href=&#34;https://aws.amazon.com/releasenotes/5198208415517126&#34; onclick=&#34;trackOutboundLink(&#39;https://aws.amazon.com/releasenotes/5198208415517126&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[monitorstack] KVM plugin doesn&#39;t return variables...</title>
+      <link>//crypt0.net/post/monitorstack-kvm-plugin-doesnt-return-variables/</link>
+      <pubDate>Wed, 19 Apr 2017 11:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/monitorstack-kvm-plugin-doesnt-return-variables/</guid>
+      <description>&lt;p&gt;data: * Variables are not returned after the plugin runs * The plugin isn&amp;rsquo;t &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-ansible/+bug/1684235&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-ansible/+bug/1684235&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Verily to gather info on 10000 patients, host trial data on Google Cloud</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/broadview-cloud-now-qualified-for-amazon/</guid>
       <description>&lt;p&gt;Now, these are available for rapid deployment through any of Amazon Web Services&amp;rsquo; (AWS) global data center regions worldwide.  &lt;a href=&#34;http://www.broadcastingcable.com/thewire/broadview-cloud-now-qualified-amazon-ec2/165027&#34; onclick=&#34;trackOutboundLink(&#39;http://www.broadcastingcable.com/thewire/broadview-cloud-now-qualified-amazon-ec2/165027&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Connectria Launches TRIA For Microsoft Azure</title>
-      <link>//crypt0.net/post/connectria-launches-tria-for-microsoft-azure/</link>
-      <pubDate>Wed, 19 Apr 2017 08:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/connectria-launches-tria-for-microsoft-azure/</guid>
-      <description>&lt;p&gt;In concert withTRIA for Amazon Web Servicesreleased in 2016, TRIA for Microsoft Azure gives Connectria and its customers a powerful set of tools &amp;hellip;  &lt;a href=&#34;http://www.hostreview.com/news/170419-connectria-launches-tria-for-microsoft-azure&#34; onclick=&#34;trackOutboundLink(&#39;http://www.hostreview.com/news/170419-connectria-launches-tria-for-microsoft-azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Equinix partners with Google for cloud containerization</title>
-      <link>//crypt0.net/post/equinix-partners-with-google-for-cloud-containerization/</link>
-      <pubDate>Wed, 19 Apr 2017 08:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/equinix-partners-with-google-for-cloud-containerization/</guid>
-      <description>&lt;p&gt;The end product, leveraging Equinix and Google Cloud together, will allow customers direct, secure access to the Google Cloud and other Google &amp;hellip;  &lt;a href=&#34;https://thestack.com/cloud/2017/04/19/equinix-partners-with-google-for-cloud-containerization/&#34; onclick=&#34;trackOutboundLink(&#39;https://thestack.com/cloud/2017/04/19/equinix-partners-with-google-for-cloud-containerization/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

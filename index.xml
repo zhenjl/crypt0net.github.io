@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 19 Apr 2017 11:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 11:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Release: AWS Lambda on 2017-4-18</title>
+      <link>//crypt0.net/post/release-aws-lambda-on-2017418/</link>
+      <pubDate>Wed, 19 Apr 2017 11:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/release-aws-lambda-on-2017418/</guid>
+      <description>&lt;p&gt;support for the Python 3.6 runtime. Details. Release Date: April 18, 2017 &amp;hellip;  &lt;a href=&#34;https://aws.amazon.com/releasenotes/5198208415517126&#34; onclick=&#34;trackOutboundLink(&#39;https://aws.amazon.com/releasenotes/5198208415517126&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[monitorstack] KVM plugin doesn&#39;t return variables...</title>
+      <link>//crypt0.net/post/monitorstack-kvm-plugin-doesnt-return-variables/</link>
+      <pubDate>Wed, 19 Apr 2017 11:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/monitorstack-kvm-plugin-doesnt-return-variables/</guid>
+      <description>&lt;p&gt;data: * Variables are not returned after the plugin runs * The plugin isn&amp;rsquo;t &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-ansible/+bug/1684235&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-ansible/+bug/1684235&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Verily to gather info on 10000 patients, host trial data on Google Cloud</title>
@@ -163,30 +187,6 @@
       <description>&lt;p&gt;New and exciting technology is just within our grasp, by the look of things. Scientists at Trinity College Dublin have come up with an intriguing idea to &amp;hellip;  &lt;a href=&#34;https://themerkle.com/flat-transistors-provide-every-object-with-internet-of-things-capabilities/&#34; onclick=&#34;trackOutboundLink(&#39;https://themerkle.com/flat-transistors-provide-every-object-with-internet-of-things-capabilities/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Cyber Part IV: Are There Appropriate Ethical Limits on Hacking?</title>
-      <link>//crypt0.net/post/the-cyber-part-iv-are-there-appropriate-ethical-limits-on-hacking/</link>
-      <pubDate>Wed, 19 Apr 2017 10:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-cyber-part-iv-are-there-appropriate-ethical-limits-on-hacking/</guid>
-      <description>&lt;p&gt;&amp;hellip; field, including censys.io, a network search engine for researchers, and shodan.io, which styles itself as a search engine for the Internet of Things.  &lt;a href=&#34;https://cdt.org/blog/the-cyber-part-iv-are-there-appropriate-ethical-limits-on-hacking/&#34; onclick=&#34;trackOutboundLink(&#39;https://cdt.org/blog/the-cyber-part-iv-are-there-appropriate-ethical-limits-on-hacking/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>HHS Settlement with Healthcare Provider Underscores Importance of</title>
-      <link>//crypt0.net/post/hhs-settlement-with-healthcare-provider-underscores-importance-of/</link>
-      <pubDate>Wed, 19 Apr 2017 09:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hhs-settlement-with-healthcare-provider-underscores-importance-of/</guid>
-      <description>&lt;p&gt;Lexology (registration) And the costs from these data breaches are adding up: a 2016 study found that data breaches are costing the US healthcare industry $6.2 billion per &amp;hellip;  &lt;a href=&#34;http://www.lexology.com/library/detail.aspx?g=480e58f3-52d9-426f-84a1-108512082b85&#34; onclick=&#34;trackOutboundLink(&#39;http://www.lexology.com/library/detail.aspx?g=480e58f3-52d9-426f-84a1-108512082b85&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
