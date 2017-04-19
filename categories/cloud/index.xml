@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 19 Apr 2017 09:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 09:50:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>than 60 Red Hat-led sessions confirmed for OpenStack Summit Boston</title>
+      <link>//crypt0.net/post/than-60-red-hatled-sessions-confirmed-for-openstack-summit-boston/</link>
+      <pubDate>Wed, 19 Apr 2017 09:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/than-60-red-hatled-sessions-confirmed-for-openstack-summit-boston/</guid>
+      <description>&lt;p&gt;educational event. The OpenStack Foundation has posted the final &amp;hellip;  &lt;a href=&#34;http://redhatstackblog.redhat.com/2017/04/18/60-red-hat-sessions-openstack-summit-boston/&#34; onclick=&#34;trackOutboundLink(&#39;http://redhatstackblog.redhat.com/2017/04/18/60-red-hat-sessions-openstack-summit-boston/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Dunkin&#39; Brands Selects AWS as its Cloud Infrastructure Provider</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/for-the-new-york-times-a-move-to-the-cloud/</guid>
       <description>&lt;p&gt;Oracle database-dependent applications will be deployed on AWS, while the rest will mostly be run in containers on Google Cloud Platform, &amp;hellip;  &lt;a href=&#34;http://www.datacenterdynamics.com/content-tracks/colo-cloud/for-the-new-york-times-a-move-to-the-cloud/98184.article&#34; onclick=&#34;trackOutboundLink(&#39;http://www.datacenterdynamics.com/content-tracks/colo-cloud/for-the-new-york-times-a-move-to-the-cloud/98184.article&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bug #1683977: admin guide - Configure Compute service groups</title>
-      <link>//crypt0.net/post/bug-1683977-admin-guide--configure-compute-service-groups/</link>
-      <pubDate>Wed, 19 Apr 2017 05:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1683977-admin-guide--configure-compute-service-groups/</guid>
-      <description>&lt;p&gt;formatting for &amp;ldquo;Database ServiceGroup driver&amp;rdquo;.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1683977&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1683977&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
