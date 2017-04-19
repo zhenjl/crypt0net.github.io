@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 18 Apr 2017 18:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 18:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Equinix to enable hybrid kubernetes architecture with Google cloud</title>
+      <link>//crypt0.net/post/equinix-to-enable-hybrid-kubernetes-architecture-with-google-cloud/</link>
+      <pubDate>Tue, 18 Apr 2017 18:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/equinix-to-enable-hybrid-kubernetes-architecture-with-google-cloud/</guid>
+      <description>&lt;p&gt;Maintaining an enterprise private cloud at Equinix, and using Kubernetes to move containers between their private cloud and Google Cloud Platform, &amp;hellip;  &lt;a href=&#34;https://datacenternews.asia/story/equinix-enable-hybrid-kubernetes-architecture-google-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://datacenternews.asia/story/equinix-enable-hybrid-kubernetes-architecture-google-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IBM Is Still Not Reaping Rewards from its Big Bets</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/intel-kills-its-idf-event-promotes-new-chief-engineering-officer/</guid>
       <description>&lt;p&gt;However, this comes at a time when the company is in the midst of shifting its focus away from PC towards data in AI, Internet of Things (IoT), wireless &amp;hellip;  &lt;a href=&#34;http://www.computerdealernews.com/news/intel-kills-its-idf-event-promotes-new-chief-engineering-officer/53927&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computerdealernews.com/news/intel-kills-its-idf-event-promotes-new-chief-engineering-officer/53927&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Traceability Analysis of Monero&#39;s Blockchain</title>
-      <link>//crypt0.net/post/a-traceability-analysis-of-moneros-blockchain/</link>
-      <pubDate>Tue, 18 Apr 2017 16:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/a-traceability-analysis-of-moneros-blockchain/</guid>
-      <description>&lt;p&gt;Kumar. National University of Singapore amrit@comp.nus.edu.sg. Clment &amp;hellip;  &lt;a href=&#34;https://eprint.iacr.org/2017/338.pdf&#34; onclick=&#34;trackOutboundLink(&#39;https://eprint.iacr.org/2017/338.pdf&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
