@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 19 Apr 2017 00:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 02:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon&#39;s web services brings flexibility to its users</title>
+      <link>//crypt0.net/post/amazons-web-services-brings-flexibility-to-its-users/</link>
+      <pubDate>Wed, 19 Apr 2017 02:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazons-web-services-brings-flexibility-to-its-users/</guid>
+      <description>&lt;p&gt;Cloud computing provides the capacity for businesses to grow, says Amazon Web Services Cloud Architecture Strategy vice-president Adrian &amp;hellip;  &lt;a href=&#34;http://www.thestar.com.my/tech/tech-news/2017/04/19/cloud-enthusiasts-convene-at-aws-summit-kuala-lumpur-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thestar.com.my/tech/tech-news/2017/04/19/cloud-enthusiasts-convene-at-aws-summit-kuala-lumpur-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>VMware Sells Its Struggling vCloud Air Platform</title>
@@ -360,18 +372,6 @@
       
       <guid>//crypt0.net/post/googles-cloud-clients-now-have-full-access-to-its-speech-recognition/</guid>
       <description>&lt;p&gt;Recode Google has released an improved version of its speech software for its cloud customers, and is allowing them to use the software more widely.  &lt;a href=&#34;https://www.recode.net/2017/4/18/15345740/google-speech-recognition-ai-cloud&#34; onclick=&#34;trackOutboundLink(&#39;https://www.recode.net/2017/4/18/15345740/google-speech-recognition-ai-cloud&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>(RDO docs) auth_strategy should be in [api] section, not [DEFAULT]</title>
-      <link>//crypt0.net/post/rdo-docs-authstrategy-should-be-in-api-section-not-default/</link>
-      <pubDate>Tue, 18 Apr 2017 14:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rdo-docs-authstrategy-should-be-in-api-section-not-default/</guid>
-      <description>&lt;p&gt;section, not [DEFAULT] - [ ] This is a doc addition request. - [x] I have a fix to the &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1683815&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1683815&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
