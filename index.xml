@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 19 Apr 2017 20:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 20:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon confirms it&#39;s coming Down Under</title>
+      <link>//crypt0.net/post/amazon-confirms-its-coming-down-under/</link>
+      <pubDate>Wed, 19 Apr 2017 20:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-confirms-its-coming-down-under/</guid>
+      <description>&lt;p&gt;It has 11 online marketplaces worldwide, including in the UK, across Europe, China and Japan. Amazon Web Services launched in Australia in 2012, &amp;hellip;  &lt;a href=&#34;https://au.news.yahoo.com/a/35097145/amazon-builds-for-local-marketplace-launch/&#34; onclick=&#34;trackOutboundLink(&#39;https://au.news.yahoo.com/a/35097145/amazon-builds-for-local-marketplace-launch/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>My journey into the Cloud (15): Actuator board with the ESP8266</title>
@@ -175,187 +187,6 @@
       <description>&lt;p&gt;Serverless is an unfortunate moniker since code services like AWS Lambda and Azure or Google Cloud Functions executes still run on server &amp;hellip;  &lt;a href=&#34;http://diginomica.com/2017/04/19/will-microsofts-serverless-future-turn-into-a-faas/&#34; onclick=&#34;trackOutboundLink(&#39;http://diginomica.com/2017/04/19/will-microsofts-serverless-future-turn-into-a-faas/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Cloud Computing News from @cloudfeednet - Apr 19, 2017</title>
-      <link>//crypt0.net/daily/daily-cloud-news-2017-04-19/</link>
-      <pubDate>Wed, 19 Apr 2017 18:05:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/daily/daily-cloud-news-2017-04-19/</guid>
-      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Equinix to enable hybrid kubernetes architecture with Google cloud&lt;/h3&gt;
-&lt;p&gt;Maintaining an enterprise private cloud at Equinix, and using Kubernetes to move containers between their private cloud and Google Cloud Platform, &amp;hellip;  &lt;a href=&#34;https://datacenternews.asia/story/equinix-enable-hybrid-kubernetes-architecture-google-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://datacenternews.asia/story/equinix-enable-hybrid-kubernetes-architecture-google-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Scalable, Enterprise- and Cloud-Ready Architecture Accelerates Windows 10&lt;/h3&gt;
-&lt;p&gt;CSO Australia The DesktopNow Cloud Best Practice Guide for Microsoft Azure can be &amp;hellip; .com/white-papers/IVI-1805-hosting-desktopnow-in-microsoft-azure.pdf.  &lt;a href=&#34;http://www.cso.com.au/mediareleases/29445/ivanti-releases-best-practice-guides-for-hosting/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cso.com.au/mediareleases/29445/ivanti-releases-best-practice-guides-for-hosting/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Astro signs deal with Amazon Web Services&lt;/h3&gt;
-&lt;p&gt;KUALA LUMPUR: Astro Malaysia Holdings Bhd has signed an agreement with Amazon Web Services Inc (AWS) to use cloud computing services and &amp;hellip;  &lt;a href=&#34;http://www.thestar.com.my/business/business-news/2017/04/19/astro-signs-deal-with-amazon-web-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thestar.com.my/business/business-news/2017/04/19/astro-signs-deal-with-amazon-web-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft PowerApps Makes Short Work of Large SharePoint Lists&lt;/h3&gt;
-&lt;p&gt;Microsoft PowerApps Makes Short Work of Large SharePoint Lists &amp;hellip; &amp;ldquo;Developers can now more easily register existing Azure Functions and other &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/enterprise-apps/microsoft-powerapps-makes-short-work-of-large-sharepoint-lists&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/enterprise-apps/microsoft-powerapps-makes-short-work-of-large-sharepoint-lists&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google&amp;rsquo;s cloudy image recognition is easily blinded, say boffins&lt;/h3&gt;
-&lt;p&gt;Google&amp;rsquo;s Cloud Vision API is easily blinded by the addition of a little noise to the images it analyses, say a trio of researchers from the Network Security &amp;hellip;  &lt;a href=&#34;https://www.theregister.co.uk/2017/04/19/cloud_vision_api_defeated_by_noise/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/04/19/cloud_vision_api_defeated_by_noise/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;VMware Sells Its Struggling vCloud Air Platform&lt;/h3&gt;
-&lt;p&gt;The latest news from the technology business revealed that VMware would be officially selling off its hybrid product, known as vCloud air, in a deal &amp;hellip;  &lt;a href=&#34;https://www.commstrader.com/news/vmware-sells-struggling-vcloud-air-platform/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.commstrader.com/news/vmware-sells-struggling-vcloud-air-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon&amp;rsquo;s web services brings flexibility to its users&lt;/h3&gt;
-&lt;p&gt;Cloud computing provides the capacity for businesses to grow, says Amazon Web Services Cloud Architecture Strategy vice-president Adrian &amp;hellip;  &lt;a href=&#34;http://www.thestar.com.my/tech/tech-news/2017/04/19/cloud-enthusiasts-convene-at-aws-summit-kuala-lumpur-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.thestar.com.my/tech/tech-news/2017/04/19/cloud-enthusiasts-convene-at-aws-summit-kuala-lumpur-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The best minds in open source gather at OpenStack Summit Boston&lt;/h3&gt;
-&lt;p&gt;In my keynote address a year ago at the OpenStack Summit Austin, I offered the OpenStack community an ultimatum. First, I described how our world &amp;hellip;  &lt;a href=&#34;https://opensource.com/article/17/4/openstack-open-source-days&#34; onclick=&#34;trackOutboundLink(&#39;https://opensource.com/article/17/4/openstack-open-source-days&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;800m data centre close to Lockerbie given three more years for planning&lt;/h3&gt;
-&lt;p&gt;Data Economy The facility has 16MW of power and direct connectivity to cloud providers, including Amazon Web Services, Microsoft Azure, and Google Cloud &amp;hellip;  &lt;a href=&#34;https://data-economy.com/800m-data-centre-close-lockerbie-given-three-years-planning-talks-going-nearly-decade/&#34; onclick=&#34;trackOutboundLink(&#39;https://data-economy.com/800m-data-centre-close-lockerbie-given-three-years-planning-talks-going-nearly-decade/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;SolarWinds Database Performance Analyzer with Support for Microsoft Azure&lt;/h3&gt;
-&lt;p&gt;GlobeNewswire (press release) SolarWinds Database Performance Analyzer delivers deep visibility into the performance of top database platforms, including Microsoft SQL Server &amp;hellip;  &lt;a href=&#34;https://globenewswire.com/news-release/2017/04/19/962040/0/en/SolarWinds-Database-Performance-Analyzer-with-Support-for-Microsoft-Azure-SQL-Database-Now-Available-in-the-Microsoft-Azure-Marketplace.html&#34; onclick=&#34;trackOutboundLink(&#39;https://globenewswire.com/news-release/2017/04/19/962040/0/en/SolarWinds-Database-Performance-Analyzer-with-Support-for-Microsoft-Azure-SQL-Database-Now-Available-in-the-Microsoft-Azure-Marketplace.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;TSYS Inks PRIME Software License Deal With Enfuce Financial Services&lt;/h3&gt;
-&lt;p&gt;In a press release, the company said it signed a PRIME license and that Enfuce will operate PRIME in the Amazon Web Services (AWS) cloud &amp;hellip;  &lt;a href=&#34;http://www.pymnts.com/news/payment-methods/2017/tsys-inks-prime-software-license-deal-with-enfuce-financial-services-licensing-amazon-web-services-scandinavia-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pymnts.com/news/payment-methods/2017/tsys-inks-prime-software-license-deal-with-enfuce-financial-services-licensing-amazon-web-services-scandinavia-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;SoftBank Leads $16.5 Million Strategic Investment in Dome9 Security&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; and the Google Cloud Platform (GCP) as well as an agent-based approach that extends the Dome9 platform to other public clouds and on-premises &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/4059748&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/4059748&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;[noop] duplicate declaration of reauthentication method&lt;/h3&gt;
-&lt;p&gt;tests we need to prepare fuel-library to this.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1684042&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1684042&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;SolarWinds Database Performance Analyzer with Support for Microsoft Azure&lt;/h3&gt;
-&lt;p&gt;SolarWinds Database Performance Analyzer with Support for Microsoft Azure SQL Database Now Available in the Microsoft Azure Marketplace.  &lt;a href=&#34;http://www.euroinvestor.com/news/2017/04/19/solarwinds-database-performance-analyzer-with-support-for-microsoft-azure-sql-database-now-available-in-the-microsoft-azure-marketplace/13577770&#34; onclick=&#34;trackOutboundLink(&#39;http://www.euroinvestor.com/news/2017/04/19/solarwinds-database-performance-analyzer-with-support-for-microsoft-azure-sql-database-now-available-in-the-microsoft-azure-marketplace/13577770&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;20 years of AWS: Time flies when you&amp;rsquo;re winning&lt;/h3&gt;
-&lt;p&gt;Amazon Web Services is another example. With AWS, we&amp;rsquo;re building a new business focused on a new customer set &amp;hellip; software developers.  &lt;a href=&#34;http://www.infoworld.com/article/3190697/cloud-computing/20-years-of-aws-time-flies-when-youre-winning.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3190697/cloud-computing/20-years-of-aws-time-flies-when-youre-winning.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Bug #1683977: admin guide - Configure Compute service groups&lt;/h3&gt;
-&lt;p&gt;formatting for &amp;ldquo;Database ServiceGroup driver&amp;rdquo;.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1683977&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1683977&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;For The New York Times, a move to the cloud&lt;/h3&gt;
-&lt;p&gt;Oracle database-dependent applications will be deployed on AWS, while the rest will mostly be run in containers on Google Cloud Platform, &amp;hellip;  &lt;a href=&#34;http://www.datacenterdynamics.com/content-tracks/colo-cloud/for-the-new-york-times-a-move-to-the-cloud/98184.article&#34; onclick=&#34;trackOutboundLink(&#39;http://www.datacenterdynamics.com/content-tracks/colo-cloud/for-the-new-york-times-a-move-to-the-cloud/98184.article&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Frontier Tunes in Amazon Web Services Unit for Video Service&lt;/h3&gt;
-&lt;p&gt;AWS Elemental, the recently rebranded Amazon Web Services unit formed via the acquisition of Elemental Technologies in 2015, said it has won a &amp;hellip;  &lt;a href=&#34;http://www.multichannel.com/news/distribution/frontier-tunes-amazon-web-services-unit-video-service/412280&#34; onclick=&#34;trackOutboundLink(&#39;http://www.multichannel.com/news/distribution/frontier-tunes-amazon-web-services-unit-video-service/412280&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Says Tool Eases Creation of Software that Listens&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; way to add voice search and voice commands to applications and to analyze speech to applications running on the broader Google Cloud Platform.  &lt;a href=&#34;http://fortune.com/2017/04/19/google-opens-up-speech-recognition/&#34; onclick=&#34;trackOutboundLink(&#39;http://fortune.com/2017/04/19/google-opens-up-speech-recognition/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Connectria Launches TRIA For Microsoft Azure&lt;/h3&gt;
-&lt;p&gt;In concert withTRIA for Amazon Web Servicesreleased in 2016, TRIA for Microsoft Azure gives Connectria and its customers a powerful set of tools &amp;hellip;  &lt;a href=&#34;http://www.hostreview.com/news/170419-connectria-launches-tria-for-microsoft-azure&#34; onclick=&#34;trackOutboundLink(&#39;http://www.hostreview.com/news/170419-connectria-launches-tria-for-microsoft-azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Data Amp heralds Python in SQL Server 2017, and lots more&lt;/h3&gt;
-&lt;p&gt;Last month, Microsoft announced Data Amp, a online event focusing on its &amp;hellip; Microsoft is announcing General Availability of several Azure Cognitive &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/microsoft-data-amp-heralds-python-in-sql-server-2017-and-lots-more/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/microsoft-data-amp-heralds-python-in-sql-server-2017-and-lots-more/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon Web Services Now Dunkin&amp;rsquo; Brands&amp;rsquo; Cloud Infrastructure Provider&lt;/h3&gt;
-&lt;p&gt;Amazon.com (AMZN) said on Wednesday that its Amazon Web Services is now the cloud infrastructure provider for Dunkin&amp;rsquo; Brands (DNKN) . &amp;ldquo;Dunkin &amp;hellip;  &lt;a href=&#34;https://www.thestreet.com/story/14092770/1/amazon-web-services-now-dunkin-brands-cloud-infrastructure-provider.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.thestreet.com/story/14092770/1/amazon-web-services-now-dunkin-brands-cloud-infrastructure-provider.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;BROADVIEW CLOUD NOW QUALIFIED FOR AMAZON&lt;/h3&gt;
-&lt;p&gt;Now, these are available for rapid deployment through any of Amazon Web Services&amp;rsquo; (AWS) global data center regions worldwide.  &lt;a href=&#34;http://www.broadcastingcable.com/thewire/broadview-cloud-now-qualified-amazon-ec2/165027&#34; onclick=&#34;trackOutboundLink(&#39;http://www.broadcastingcable.com/thewire/broadview-cloud-now-qualified-amazon-ec2/165027&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Equinix partners with Google for cloud containerization&lt;/h3&gt;
-&lt;p&gt;The end product, leveraging Equinix and Google Cloud together, will allow customers direct, secure access to the Google Cloud and other Google &amp;hellip;  &lt;a href=&#34;https://thestack.com/cloud/2017/04/19/equinix-partners-with-google-for-cloud-containerization/&#34; onclick=&#34;trackOutboundLink(&#39;https://thestack.com/cloud/2017/04/19/equinix-partners-with-google-for-cloud-containerization/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;New York Times goes from data centres to cloud&lt;/h3&gt;
-&lt;p&gt;Instead, the workloads will be transferred to Google Cloud Platform and Amazon Web Services. Recently, the New York Times has seen a growth in its &amp;hellip;  &lt;a href=&#34;https://thestack.com/cloud/2017/04/19/new-york-times-goes-data-centres-google-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://thestack.com/cloud/2017/04/19/new-york-times-goes-data-centres-google-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Azure, AWS, Docker and Google Cloud headline GeekWire&amp;rsquo;s&lt;/h3&gt;
-&lt;p&gt;GeekWire Scott Guthrie, executive vice president of the Microsoft Cloud and Enterprise Group, will kick off the inaugural GeekWire Cloud Tech Summit.  &lt;a href=&#34;http://www.geekwire.com/2017/microsoft-azure-aws-docker-google-cloud-headline-geekwires-first-ever-cloud-tech-summit/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/microsoft-azure-aws-docker-google-cloud-headline-geekwires-first-ever-cloud-tech-summit/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Priasoft Delivers Optimal Migration Synchronization Methodology to&lt;/h3&gt;
-&lt;p&gt;Benzinga The newly enhanced Priasoft Migration Suite for Exchange (PMSE) enables customers that use the Microsoft Azure AD Connect (AADC) to seamlessly &amp;hellip;  &lt;a href=&#34;https://www.benzinga.com/pressreleases/17/04/p9317698/priasoft-delivers-optimal-migration-synchronization-methodology-to-micr&#34; onclick=&#34;trackOutboundLink(&#39;https://www.benzinga.com/pressreleases/17/04/p9317698/priasoft-delivers-optimal-migration-synchronization-methodology-to-micr&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Dunkin&amp;rsquo; Brands Selects AWS as its Cloud Infrastructure Provider&lt;/h3&gt;
-&lt;p&gt;SEATTLE&amp;ndash;(BUSINESS WIRE)&amp;ndash;Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Dunkin&amp;rsquo; &amp;hellip;  &lt;a href=&#34;http://www.businesswire.com/news/home/20170419005538/en/Dunkin%E2%80%99-Brands-Selects-AWS-Cloud-Infrastructure-Provider&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20170419005538/en/Dunkin%E2%80%99-Brands-Selects-AWS-Cloud-Infrastructure-Provider&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Steve Ballmer says Azure has a lot of work to do, fires off Skype bug&lt;/h3&gt;
-&lt;p&gt;OnMSFT (blog) They are going to have to push very hard with Azure versus Amazon Web Services With Amazon Web Services, Azure is the challenger, it has only &amp;hellip;  &lt;a href=&#34;https://www.onmsft.com/news/steve-ballmer-says-azure-has-a-lot-of-work-to-do-fires-off-skype-bug-reports-to-satya-nadella&#34; onclick=&#34;trackOutboundLink(&#39;https://www.onmsft.com/news/steve-ballmer-says-azure-has-a-lot-of-work-to-do-fires-off-skype-bug-reports-to-satya-nadella&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Azure, AWS, Docker and Google Cloud headline GeekWire&amp;rsquo;s&lt;/h3&gt;
-&lt;p&gt;GeekWire Later in the morning, we&amp;rsquo;ll feature Google Cloud Platform Vice President Sam Ramji, and a session with Swami Sivasubramanian, Vice President of &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/microsoft-azure-aws-docker-google-cloud-headline-geekwires-first-ever-cloud-tech-summit/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/microsoft-azure-aws-docker-google-cloud-headline-geekwires-first-ever-cloud-tech-summit/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Steve Ballmer: Azure Has a Lot of Work to Do as Amazon Maintains Cloud&lt;/h3&gt;
-&lt;p&gt;WinBuzzer Google Cloud has also enjoyed growth year-on-year, from 10 percent to 15 percent. Juggling the math is headache inducing, but it&amp;rsquo;s worth a try.  &lt;a href=&#34;https://winbuzzer.com/2017/04/19/steve-ballmer-azure-lot-work-amazon-maintains-cloud-lead-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/04/19/steve-ballmer-azure-lot-work-amazon-maintains-cloud-lead-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;than 60 Red Hat-led sessions confirmed for OpenStack Summit Boston&lt;/h3&gt;
-&lt;p&gt;educational event. The OpenStack Foundation has posted the final &amp;hellip;  &lt;a href=&#34;http://redhatstackblog.redhat.com/2017/04/18/60-red-hat-sessions-openstack-summit-boston/&#34; onclick=&#34;trackOutboundLink(&#39;http://redhatstackblog.redhat.com/2017/04/18/60-red-hat-sessions-openstack-summit-boston/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Steve Ballmer: Azure Has a Lot of Work to Do as Amazon Maintains Cloud&lt;/h3&gt;
-&lt;p&gt;WinBuzzer In an interview with CNBC, former Microsoft CEO Steve Ballmer said Microsoft faces challenges to compete with Amazon Web Services, but Azure is &amp;hellip;  &lt;a href=&#34;https://winbuzzer.com/2017/04/19/steve-ballmer-azure-lot-work-amazon-maintains-cloud-lead-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/04/19/steve-ballmer-azure-lot-work-amazon-maintains-cloud-lead-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft announces SQL Server 2017, Azure Analysis Services at Data Amp&lt;/h3&gt;
-&lt;p&gt;Geared towards teaching developers how data can impact their apps and services, the Microsoft Data Amp event hosted today tossed in a bit of news &amp;hellip;  &lt;a href=&#34;https://www.onmsft.com/news/microsoft-announces-sql-server-2017-azure-analysis-services-at-data-amp&#34; onclick=&#34;trackOutboundLink(&#39;https://www.onmsft.com/news/microsoft-announces-sql-server-2017-azure-analysis-services-at-data-amp&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;SoftBank leads $16.5m funding round for Dome9 Security&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; security for every public cloud, including the primary suspects of Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform. Dome9 &amp;hellip;  &lt;a href=&#34;https://www.cloudcomputing-news.net/news/2017/apr/19/softbank-leads-165m-funding-round-dome9-security/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cloudcomputing-news.net/news/2017/apr/19/softbank-leads-165m-funding-round-dome9-security/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Steve Ballmer: Azure Has a Lot of Work to Do as Amazon Maintains Cloud&lt;/h3&gt;
-&lt;p&gt;WinBuzzer In an interview with CNBC, former Microsoft CEO Steve Ballmer said Microsoft faces challenges to compete with Amazon Web Services, but Azure is &amp;hellip;  &lt;a href=&#34;https://winbuzzer.com/2017/04/19/steve-ballmer-azure-lot-work-amazon-maintains-cloud-lead-xcxwbn/&#34; onclick=&#34;trackOutboundLink(&#39;https://winbuzzer.com/2017/04/19/steve-ballmer-azure-lot-work-amazon-maintains-cloud-lead-xcxwbn/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Mirantis launches its new OpenStack and Kubernetes cloud platform&lt;/h3&gt;
-&lt;p&gt;Mirantis, one of the earliest players in the OpenStack ecosystem, today announced that it will end-of-life Mirantis OpenStack support in September &amp;hellip;  &lt;a href=&#34;https://techcrunch.com/2017/04/19/mirantis-launches-its-new-openstack-and-kubernetes-cloud-platform/&#34; onclick=&#34;trackOutboundLink(&#39;https://techcrunch.com/2017/04/19/mirantis-launches-its-new-openstack-and-kubernetes-cloud-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Verizon Digital Media Adds Microsoft Cloud Storage&lt;/h3&gt;
-&lt;p&gt;Verizon Digital Media Services is extending its relationship with Microsoft (NASDAQ:MSFT) to make cloud-based storage from Microsoft Azure &amp;hellip;  &lt;a href=&#34;http://www.btreport.net/articles/2017/04/verizon-digital-media-adds-microsoft-cloud-storage.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.btreport.net/articles/2017/04/verizon-digital-media-adds-microsoft-cloud-storage.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Verily to gather info on 10000 patients, host trial data on Google Cloud&lt;/h3&gt;
-&lt;p&gt;The study&amp;rsquo;s data repository will be built on Google computing infrastructure and hosted on Google Cloud Platform, which, Verily said, meets rigorous &amp;hellip;  &lt;a href=&#34;http://www.healthcareitnews.com/news/verily-gather-info-10000-patients-host-trial-data-google-cloud&#34; onclick=&#34;trackOutboundLink(&#39;http://www.healthcareitnews.com/news/verily-gather-info-10000-patients-host-trial-data-google-cloud&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Release: AWS Lambda on 2017-4-18&lt;/h3&gt;
-&lt;p&gt;support for the Python 3.6 runtime. Details. Release Date: April 18, 2017 &amp;hellip;  &lt;a href=&#34;https://aws.amazon.com/releasenotes/5198208415517126&#34; onclick=&#34;trackOutboundLink(&#39;https://aws.amazon.com/releasenotes/5198208415517126&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;[monitorstack] KVM plugin doesn&amp;rsquo;t return variables&amp;hellip;&lt;/h3&gt;
-&lt;p&gt;data: * Variables are not returned after the plugin runs * The plugin isn&amp;rsquo;t &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-ansible/+bug/1684235&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-ansible/+bug/1684235&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Verizon teams with Microsoft to boost cloud CDN&lt;/h3&gt;
-&lt;p&gt;Verizon Digital Media Services is extending its relationship with Microsoft to make cloud-based storage from Microsoft Azure available to all its &amp;hellip;  &lt;a href=&#34;https://www.rapidtvnews.com/2017041946910/verizon-teams-with-microsoft-to-boost-cloud-cdn.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.rapidtvnews.com/2017041946910/verizon-teams-with-microsoft-to-boost-cloud-cdn.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;How LumApps and G Suite keep employees organized and informed&lt;/h3&gt;
-&lt;p&gt;This year at Google Cloud Next, we recognized some of our partners for outstanding innovation. One of those partners, LumApps, received the &amp;hellip;  &lt;a href=&#34;http://www.newsroomamerica.com/story/633925.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.newsroomamerica.com/story/633925.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Here&amp;rsquo;s everything announced at Wednesday&amp;rsquo;s AWS Summit&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; Werner Vogels took the stage at the company&amp;rsquo;s AWS Summit Wednesday to announce a smorgasbord of new features for Amazon Web Services.  &lt;a href=&#34;http://www.computerworld.com.au/article/617945/here-everything-announced-wednesday-aws-summit/?fp=16&amp;fpid=1&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computerworld.com.au/article/617945/here-everything-announced-wednesday-aws-summit/?fp=16&amp;fpid=1&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Announcing Azure Analysis Services general availability&lt;/h3&gt;
-&lt;p&gt;Microsoft Azure Analysis Services, the latest addition to our data platform &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/announcing-azure-analysis-services-general-availability/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/announcing-azure-analysis-services-general-availability/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Striim Updates Signtaure Platform to Include Integrations with Microsoft&lt;/h3&gt;
-&lt;p&gt;Database Trends and Applications Version 3.7 includes several hybrid cloud integrations with Microsoft data solutions running on Azure, and enhanced application-to-database &amp;hellip;  &lt;a href=&#34;http://www.dbta.com/Editorial/News-Flashes/Striim-Updates-Signtaure-Platform-to-Include-Integrations-with-Microsoft-Azure-117649.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dbta.com/Editorial/News-Flashes/Striim-Updates-Signtaure-Platform-to-Include-Integrations-with-Microsoft-Azure-117649.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon Web Services Embraces Container Networking&lt;/h3&gt;
-&lt;p&gt;AUSTIN, Texas  Amazon Web Services (AWS) is gearing up to deploy embedded support for container networking directly within its EC2 Container &amp;hellip;  &lt;a href=&#34;https://www.sdxcentral.com/articles/news/amazon-web-services-embraces-container-networking/2017/04/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sdxcentral.com/articles/news/amazon-web-services-embraces-container-networking/2017/04/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Dunkin&amp;rsquo; Brands, HERE select Amazon Web Services (AWS) as cloud provider&lt;/h3&gt;
-&lt;p&gt;The Amazon Web Services (AWS), a unit of Amazon.com Inc (NASDAQ: AMZN) continues to dominate the cloud market. It is now the cloud &amp;hellip;  &lt;a href=&#34;https://vanguarddaily.com/dunkin-brands-here-select-amazon-web-services-aws-as-cloud-provider/&#34; onclick=&#34;trackOutboundLink(&#39;https://vanguarddaily.com/dunkin-brands-here-select-amazon-web-services-aws-as-cloud-provider/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Forrester: Demise of OpenStack Innovation Center does not mean demise of&lt;/h3&gt;
-&lt;p&gt;DABCC.com The ever-dependable Barb Darrow at Fortune reported late last week that the OpenStack Innovation Center (OSIC) is to shut down. Cue wailing &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/forrester-demise-of-openstack-innovation-center-does-not-mean-demise-of-openstack/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/forrester-demise-of-openstack-innovation-center-does-not-mean-demise-of-openstack/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon cloud chief jabs Oracle over customer lock-in: &amp;lsquo;Customers are sick&lt;/h3&gt;
-&lt;p&gt;CNBC &amp;hellip; called Amazon&amp;rsquo;s cloud infrastructure &amp;ldquo;old&amp;rdquo; and claimed his company was gaining share, Amazon Web Services chief Andy Jassy slammed Oracle for &amp;hellip;  &lt;a href=&#34;http://www.cnbc.com/2017/04/19/amazon-aws-chief-andy-jassy-on-oracle-customers-are-sick-of-it.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cnbc.com/2017/04/19/amazon-aws-chief-andy-jassy-on-oracle-customers-are-sick-of-it.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon Web Services CEO Andy Jassy Amazon&lt;/h3&gt;
-&lt;p&gt;Andy Jassy, the CEO of Amazon&amp;rsquo;s massively profitable $14 billion Amazon Web Services cloud computing business, thinks that there&amp;rsquo;s something that &amp;hellip;  &lt;a href=&#34;http://uk.businessinsider.com/amazon-web-services-ceo-andy-jassy-amazon-culture-2017-4&#34; onclick=&#34;trackOutboundLink(&#39;http://uk.businessinsider.com/amazon-web-services-ceo-andy-jassy-amazon-culture-2017-4&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google&amp;rsquo;s healthcare cousin to stick 10000 human guinea pigs under the&lt;/h3&gt;
-&lt;p&gt;The Register The huge swathes of data will be kept in Google&amp;rsquo;s cloud and meets the rigorous compliance standards that test for data safety, privacy and security.  &lt;a href=&#34;https://www.theregister.co.uk/2017/04/19/alphabets_healthcare_verily/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.theregister.co.uk/2017/04/19/alphabets_healthcare_verily/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Box Platform is Now Available on the AWS Marketplace&lt;/h3&gt;
-&lt;p&gt;offering several products that are highly complementary to Box Platform&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;https://blog.box.com/blog/box-platform-available-on-aws-marketplace/&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.box.com/blog/box-platform-available-on-aws-marketplace/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Will Microsoft&amp;rsquo;s serverless future turn into a FaaS?&lt;/h3&gt;
-&lt;p&gt;Azure CTO Mark Russinovich started off the event by sharing Microsoft&amp;rsquo;s vision of the progression of cloud technology from IaaS to serverless, &amp;hellip;  &lt;a href=&#34;http://diginomica.com/2017/04/19/will-microsofts-serverless-future-turn-into-a-faas/&#34; onclick=&#34;trackOutboundLink(&#39;http://diginomica.com/2017/04/19/will-microsofts-serverless-future-turn-into-a-faas/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon Web Services fires back at rivals with new cloud AI and database&lt;/h3&gt;
-&lt;p&gt;SiliconANGLE (blog) Firing new shots at cloud computing rivals such as Oracle Corp. and Microsoft Corp., Amazon Web Services today checked off more boxes to make it &amp;hellip;  &lt;a href=&#34;http://siliconangle.com/blog/2017/04/19/amazon-web-services-fires-back-rivals-new-cloud-ai-database-features/&#34; onclick=&#34;trackOutboundLink(&#39;http://siliconangle.com/blog/2017/04/19/amazon-web-services-fires-back-rivals-new-cloud-ai-database-features/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Sumo Logic Extends Support for SaaS Contracts on AWS Marketplace&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; buy and start using software and technical services that run on Amazon Web Services (AWS) with a single click. SaaS Contracts provide customers &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/sumo-logic-extends-support-saas-234126956.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/sumo-logic-extends-support-saas-234126956.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon Web Services Marketplace: ecosystem by API?&lt;/h3&gt;
-&lt;p&gt;One company that has done a great job of turning products into APIs is Amazon Web Services. Indeed, the whole company is a series of APIs: Need &amp;hellip;  &lt;a href=&#34;http://siliconangle.com/blog/2017/04/19/amazon-web-services-marketplace-ecosystem-api/&#34; onclick=&#34;trackOutboundLink(&#39;http://siliconangle.com/blog/2017/04/19/amazon-web-services-marketplace-ecosystem-api/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
