@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 20 Apr 2017 15:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2017 15:10:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack cloud deployments are up, but Intel scales back</title>
+      <link>//crypt0.net/post/openstack-cloud-deployments-are-up-but-intel-scales-back/</link>
+      <pubDate>Thu, 20 Apr 2017 15:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-cloud-deployments-are-up-but-intel-scales-back/</guid>
+      <description>&lt;p&gt;OpenStack Foundation is upbeat about user participation in its cloud endeavor, despite a recent cutback on a related project from key sponsor Intel.  &lt;a href=&#34;http://www.infoworld.com/article/3191274/cloud-computing/openstack-cloud-deployments-are-up-but-intel-scales-back.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3191274/cloud-computing/openstack-cloud-deployments-are-up-but-intel-scales-back.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IoTium to Speak and Exhibit at 2017 Smart Building Energy Summit</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;GeekWire A great example is the complicated-but-exciting Internet of Things, and on Thursday Microsoft improved its IoT story for Azure customers with a new &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/new-iot-services-microsoft-azure-promise-make-managing-connected-devices-way-easier/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/new-iot-services-microsoft-azure-promise-make-managing-connected-devices-way-easier/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Azure SQL Data Warehouse - Part 4</title>
-      <link>//crypt0.net/post/getting-started-with-azure-sql-data-warehouse--part-4/</link>
-      <pubDate>Thu, 20 Apr 2017 12:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/getting-started-with-azure-sql-data-warehouse--part-4/</guid>
-      <description>&lt;p&gt;Microsoft introduced Azure SQL Data Warehouse, a new enterprise-class, elastic petabyte-scale, data warehouse service that can scale according to &amp;hellip;  &lt;a href=&#34;http://www.databasejournal.com/features/mssql/getting-started-with-azure-sql-data-warehouse-part-4.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.databasejournal.com/features/mssql/getting-started-with-azure-sql-data-warehouse-part-4.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

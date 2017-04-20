@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 20 Apr 2017 14:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2017 15:10:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack cloud deployments are up, but Intel scales back</title>
+      <link>//crypt0.net/post/openstack-cloud-deployments-are-up-but-intel-scales-back/</link>
+      <pubDate>Thu, 20 Apr 2017 15:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-cloud-deployments-are-up-but-intel-scales-back/</guid>
+      <description>&lt;p&gt;OpenStack Foundation is upbeat about user participation in its cloud endeavor, despite a recent cutback on a related project from key sponsor Intel.  &lt;a href=&#34;http://www.infoworld.com/article/3191274/cloud-computing/openstack-cloud-deployments-are-up-but-intel-scales-back.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3191274/cloud-computing/openstack-cloud-deployments-are-up-but-intel-scales-back.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft&#39;s new Azure Time Series Insights allows you to explore real-time</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/get-started-with-microsoft-azure-functions/</guid>
       <description>&lt;p&gt;Microsoft recently released Azure Functions to stand up to AWS Lambda. Learn how to get started with this event-driven service, and if it&amp;rsquo;s the right fit &amp;hellip;  &lt;a href=&#34;http://searchcloudcomputing.techtarget.com/tip/Get-started-with-Microsoft-Azure-Functions&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudcomputing.techtarget.com/tip/Get-started-with-Microsoft-Azure-Functions&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Object Storage is Latest Front in Cloud Price Wars</title>
-      <link>//crypt0.net/post/object-storage-is-latest-front-in-cloud-price-wars/</link>
-      <pubDate>Thu, 20 Apr 2017 10:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/object-storage-is-latest-front-in-cloud-price-wars/</guid>
-      <description>&lt;p&gt;The IBM (NYSE: IBM) public cloud offering along with rivals Google Cloud Platform and Microsoft Azure together are estimated to account for about 24 &amp;hellip;  &lt;a href=&#34;https://www.enterprisetech.com/2017/04/20/object-storage-latest-front-cloud-price-wars/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.enterprisetech.com/2017/04/20/object-storage-latest-front-cloud-price-wars/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
