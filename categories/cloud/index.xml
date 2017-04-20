@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 20 Apr 2017 10:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2017 10:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Get started with Microsoft Azure Functions</title>
+      <link>//crypt0.net/post/get-started-with-microsoft-azure-functions/</link>
+      <pubDate>Thu, 20 Apr 2017 10:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/get-started-with-microsoft-azure-functions/</guid>
+      <description>&lt;p&gt;Microsoft recently released Azure Functions to stand up to AWS Lambda. Learn how to get started with this event-driven service, and if it&amp;rsquo;s the right fit &amp;hellip;  &lt;a href=&#34;http://searchcloudcomputing.techtarget.com/tip/Get-started-with-Microsoft-Azure-Functions&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudcomputing.techtarget.com/tip/Get-started-with-Microsoft-Azure-Functions&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Object Storage is Latest Front in Cloud Price Wars</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/a-brave-new-world-top-features-coming-to-sql-server-2017/</guid>
       <description>&lt;p&gt;It is rare for a Microsoft launch event to omit news about cloud services, and Wednesday&amp;rsquo;s event was no exception. Microsoft Azure SQL Database &amp;hellip;  &lt;a href=&#34;https://redmondmag.com/articles/2017/04/19/sql-server-2017-preview.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/articles/2017/04/19/sql-server-2017-preview.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Cloud gets file sharing and collaboration boost with Box integration</title>
-      <link>//crypt0.net/post/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/</link>
-      <pubDate>Thu, 20 Apr 2017 06:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Amazon Web Services and the Box Platform offers developers a breadth of cloud services, developer tools and application services that can provide &amp;hellip;  &lt;a href=&#34;http://www.techrepublic.com/article/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techrepublic.com/article/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
