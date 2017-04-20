@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 20 Apr 2017 07:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2017 08:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>XG Firewall on Openstack gives ERROR: firstboot failed: swapon /dev/swap</title>
+      <link>//crypt0.net/post/xg-firewall-on-openstack-gives-error-firstboot-failed-swapon-devswap/</link>
+      <pubDate>Thu, 20 Apr 2017 08:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/xg-firewall-on-openstack-gives-error-firstboot-failed-swapon-devswap/</guid>
+      <description>&lt;p&gt;of XG firewall on a public Openstack cloud. I uploaded the qcow image and &amp;hellip;  &lt;a href=&#34;https://community.sophos.com/products/xg-firewall/f/initial-setup/91099/xg-firewall-on-openstack-gives-error-firstboot-failed-swapon-dev-swap&#34; onclick=&#34;trackOutboundLink(&#39;https://community.sophos.com/products/xg-firewall/f/initial-setup/91099/xg-firewall-on-openstack-gives-error-firstboot-failed-swapon-dev-swap&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Updates the Cloud Speech API, Now Available to Developers</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/spyrus-announces-hardware-root-of-trust-product-family-supporting/</guid>
       <description>&lt;p&gt;Broadway World SAN JOSE, CA - SPYRUS, Inc. today announced that its Rosetta Hardware &amp;ldquo;Root of Trust&amp;rdquo; product suite will be fully compatible with Microsoft Azure &amp;hellip;  &lt;a href=&#34;http://www.broadwayworld.com/bwwgeeks/article/SPYRUS-Announces-Hardware-Root-of-Trust-Product-Family-Supporting-Microsoft-Azure-IoT-Hub-20170420&#34; onclick=&#34;trackOutboundLink(&#39;http://www.broadwayworld.com/bwwgeeks/article/SPYRUS-Announces-Hardware-Root-of-Trust-Product-Family-Supporting-Microsoft-Azure-IoT-Hub-20170420&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cloud wars: Object storage replaces VMs as new battleground for AWS, Google</title>
-      <link>//crypt0.net/post/cloud-wars-object-storage-replaces-vms-as-new-battleground-for-aws-google/</link>
-      <pubDate>Thu, 20 Apr 2017 02:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloud-wars-object-storage-replaces-vms-as-new-battleground-for-aws-google/</guid>
-      <description>&lt;p&gt;Computer Business Review Of course, AWS hasn&amp;rsquo;t been alone in its cost reduction with Google Cloud Platform and Microsoft also lowering prices. The research pointed to GCP &amp;hellip;  &lt;a href=&#34;http://www.cbronline.com/news/verticals/cio-agenda/cloud-wars-object-storage-replaces-vms-new-battleground-aws-google-microsoft/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cbronline.com/news/verticals/cio-agenda/cloud-wars-object-storage-replaces-vms-new-battleground-aws-google-microsoft/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
