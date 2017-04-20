@@ -7,16 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 20 Apr 2017 11:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2017 11:50:06 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Amazon Web Services releases CodeStar and X-Ray</title>
-      <link>//crypt0.net/post/amazon-web-services-releases-codestar-and-xray/</link>
-      <pubDate>Thu, 20 Apr 2017 11:30:04 +0000</pubDate>
+      <title>CISOs Admit They Are Unable to Keep Pace with Data Breaches</title>
+      <link>//crypt0.net/post/cisos-admit-they-are-unable-to-keep-pace-with-data-breaches/</link>
+      <pubDate>Thu, 20 Apr 2017 11:50:06 +0000</pubDate>
       
-      <guid>//crypt0.net/post/amazon-web-services-releases-codestar-and-xray/</guid>
-      <description>&lt;p&gt;Amazon is releasing a new tool to build, develop and deploy apps on Amazon Web Services (AWS). The company announced CodeStar, a new cloud &amp;hellip;  &lt;a href=&#34;http://sdtimes.com/amazon-web-services-releases-codestar-x-ray/&#34; onclick=&#34;trackOutboundLink(&#39;http://sdtimes.com/amazon-web-services-releases-codestar-x-ray/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+      <guid>//crypt0.net/post/cisos-admit-they-are-unable-to-keep-pace-with-data-breaches/</guid>
+      <description>&lt;p&gt;For the most part, cybersecurity seems to continue to be reactive rather than proactive. Yes, security systems are in place to prevent potential incidents, &amp;hellip;  &lt;a href=&#34;http://www.itbusinessedge.com/blogs/data-security/cisos-admit-they-are-unable-to-keep-pace-with-data-breaches.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itbusinessedge.com/blogs/data-security/cisos-admit-they-are-unable-to-keep-pace-with-data-breaches.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Openstack-helm broken URL in developer docs</title>
+      <link>//crypt0.net/post/openstackhelm-broken-url-in-developer-docs/</link>
+      <pubDate>Thu, 20 Apr 2017 11:50:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstackhelm-broken-url-in-developer-docs/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Openstack-Helm Minikube Troubleshooting&amp;rdquo; which points to &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/openstack-manuals/+bug/1684969&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/openstack-manuals/+bug/1684969&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -25,10 +37,22 @@
     <item>
       <title>Report: Microsoft In Talks To Acquire Cloud Cost Optimization Vendor</title>
       <link>//crypt0.net/post/report-microsoft-in-talks-to-acquire-cloud-cost-optimization-vendor/</link>
-      <pubDate>Thu, 20 Apr 2017 11:30:04 +0000</pubDate>
+      <pubDate>Thu, 20 Apr 2017 11:50:06 +0000</pubDate>
       
       <guid>//crypt0.net/post/report-microsoft-in-talks-to-acquire-cloud-cost-optimization-vendor/</guid>
-      <description>&lt;p&gt;CRN &amp;hellip; with Microsoft to support its Azure public cloud, as it does Amazon Web Services, Google Cloud Platform and OpenStack-based infrastructure.  &lt;a href=&#34;http://www.crn.com/news/cloud/300084636/report-microsoft-in-talks-to-acquire-cloud-cost-optimization-vendor-cloudyn.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300084636/report-microsoft-in-talks-to-acquire-cloud-cost-optimization-vendor-cloudyn.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;CRN The startup initially developed those non-Microsoft capabilities firstonly adding Azure support after receiving a Series A funding round of $4 million &amp;hellip;  &lt;a href=&#34;http://www.crn.com/news/cloud/300084636/report-microsoft-in-talks-to-acquire-cloud-cost-optimization-vendor-cloudyn.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crn.com/news/cloud/300084636/report-microsoft-in-talks-to-acquire-cloud-cost-optimization-vendor-cloudyn.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amazon Web Services releases CodeStar and X-Ray</title>
+      <link>//crypt0.net/post/amazon-web-services-releases-codestar-and-xray/</link>
+      <pubDate>Thu, 20 Apr 2017 11:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-web-services-releases-codestar-and-xray/</guid>
+      <description>&lt;p&gt;Amazon is releasing a new tool to build, develop and deploy apps on Amazon Web Services (AWS). The company announced CodeStar, a new cloud &amp;hellip;  &lt;a href=&#34;http://sdtimes.com/amazon-web-services-releases-codestar-x-ray/&#34; onclick=&#34;trackOutboundLink(&#39;http://sdtimes.com/amazon-web-services-releases-codestar-x-ray/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -163,30 +187,6 @@
       <description>&lt;p&gt;Unilever bids to show its resilience. FT Opening Quote, with commentary by Matthew Vincent, is your early Square Mile briefing. You can sign up for &amp;hellip;  &lt;a href=&#34;http://insidebitcoins.com/news/ft-opening-quote-unilever-bids-to-show-its-resilience/43162&#34; onclick=&#34;trackOutboundLink(&#39;http://insidebitcoins.com/news/ft-opening-quote-unilever-bids-to-show-its-resilience/43162&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Internet of Things (IoT): Businesses to Spend Nearly $1 Trillion on IoT in</title>
-      <link>//crypt0.net/post/internet-of-things-iot-businesses-to-spend-nearly-1-trillion-on-iot-in/</link>
-      <pubDate>Thu, 20 Apr 2017 10:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/internet-of-things-iot-businesses-to-spend-nearly-1-trillion-on-iot-in/</guid>
-      <description>&lt;p&gt;Formtek Blog (blog) Businesses are increasingly using the Internet of Things (IoT). A recent survey by Gartner found that about one third of IoT applications are driven by &amp;hellip;  &lt;a href=&#34;http://formtek.com/blog/internet-of-things-iot-businesses-to-spend-nearly-1-trillion-on-iot-in-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://formtek.com/blog/internet-of-things-iot-businesses-to-spend-nearly-1-trillion-on-iot-in-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure App Service lets developers build cloud applications</title>
-      <link>//crypt0.net/post/microsoft-azure-app-service-lets-developers-build-cloud-applications/</link>
-      <pubDate>Thu, 20 Apr 2017 09:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-app-service-lets-developers-build-cloud-applications/</guid>
-      <description>&lt;p&gt;For businesses looking to modernize legacy apps, Microsoft Azure App Service hosts several features that let users create web, mobile and Azure API &amp;hellip;  &lt;a href=&#34;http://searchmicroservices.techtarget.com/feature/Microsoft-Azure-App-Service-lets-developers-build-cloud-applications&#34; onclick=&#34;trackOutboundLink(&#39;http://searchmicroservices.techtarget.com/feature/Microsoft-Azure-App-Service-lets-developers-build-cloud-applications&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
