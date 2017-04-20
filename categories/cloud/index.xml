@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 20 Apr 2017 13:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2017 14:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Journey to the Cloud: Migration Webcast</title>
+      <link>//crypt0.net/post/journey-to-the-cloud-migration-webcast/</link>
+      <pubDate>Thu, 20 Apr 2017 14:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/journey-to-the-cloud-migration-webcast/</guid>
+      <description>&lt;p&gt;ins and outs of hybrid cloud migration beginning to end.  &lt;a href=&#34;https://blogs.vmware.com/vcloud/2017/04/journey-cloud-migration-webcast.html&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.vmware.com/vcloud/2017/04/journey-cloud-migration-webcast.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Lessons learned from working on large scale, cross-project initiatives in</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/microsoft-azure-app-service-lets-developers-build-cloud-applications/</guid>
       <description>&lt;p&gt;For businesses looking to modernize legacy apps, Microsoft Azure App Service hosts several features that let users create web, mobile and Azure API &amp;hellip;  &lt;a href=&#34;http://searchmicroservices.techtarget.com/feature/Microsoft-Azure-App-Service-lets-developers-build-cloud-applications&#34; onclick=&#34;trackOutboundLink(&#39;http://searchmicroservices.techtarget.com/feature/Microsoft-Azure-App-Service-lets-developers-build-cloud-applications&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Oracle hopes to win the cloud by going cheap on data centers. Good luck</title>
-      <link>//crypt0.net/post/oracle-hopes-to-win-the-cloud-by-going-cheap-on-data-centers-good-luck/</link>
-      <pubDate>Thu, 20 Apr 2017 09:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/oracle-hopes-to-win-the-cloud-by-going-cheap-on-data-centers-good-luck/</guid>
-      <description>&lt;p&gt;TechRepublic While AWS, Microsoft, and Google Cloud keep climbing, legacy IT vendors &amp;hellip; IaaS cloud revenue that, say, AWS or Microsoft Azure keep growing.  &lt;a href=&#34;http://www.techrepublic.com/article/oracle-hopes-to-win-the-cloud-by-going-cheap-on-data-centers-good-luck-with-that/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techrepublic.com/article/oracle-hopes-to-win-the-cloud-by-going-cheap-on-data-centers-good-luck-with-that/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
