@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 19 Apr 2017 20:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 20:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My journey into the Cloud (15): Actuator board with the ESP8266</title>
+      <link>//crypt0.net/post/my-journey-into-the-cloud-15-actuator-board-with-the-esp8266/</link>
+      <pubDate>Wed, 19 Apr 2017 20:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/my-journey-into-the-cloud-15-actuator-board-with-the-esp8266/</guid>
+      <description>&lt;p&gt;In this installment we take a closer look at the other end of the control chain to operate an actuator and find out about the MQTT ping mechanism.  &lt;a href=&#34;https://www.elektormagazine.com/news/my-journey-into-the-cloud-15-actuator-board-with-the-esp8266&#34; onclick=&#34;trackOutboundLink(&#39;https://www.elektormagazine.com/news/my-journey-into-the-cloud-15-actuator-board-with-the-esp8266&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Use Cases and Impact on Markets in Europe</title>
+      <link>//crypt0.net/post/use-cases-and-impact-on-markets-in-europe/</link>
+      <pubDate>Wed, 19 Apr 2017 20:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/use-cases-and-impact-on-markets-in-europe/</guid>
+      <description>&lt;p&gt;technologies (DLT) with a focus on their impact on the European regional &amp;hellip;  &lt;a href=&#34;http://www.idc.com/getdoc.jsp?containerId=EMEA42456417&#34; onclick=&#34;trackOutboundLink(&#39;http://www.idc.com/getdoc.jsp?containerId=EMEA42456417&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>May Be the First Hilariously Epic Failure on &#39;The Internet of Things&#39;</title>
@@ -332,281 +356,6 @@
 
 &lt;p&gt;&lt;h3&gt;Amazon Web Services Marketplace: ecosystem by API?&lt;/h3&gt;
 &lt;p&gt;One company that has done a great job of turning products into APIs is Amazon Web Services. Indeed, the whole company is a series of APIs: Need &amp;hellip;  &lt;a href=&#34;http://siliconangle.com/blog/2017/04/19/amazon-web-services-marketplace-ecosystem-api/&#34; onclick=&#34;trackOutboundLink(&#39;http://siliconangle.com/blog/2017/04/19/amazon-web-services-marketplace-ecosystem-api/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily IoT/Blockchain News from @surgethings - Apr 19, 2017</title>
-      <link>//crypt0.net/daily/daily-iot-news-2017-04-19/</link>
-      <pubDate>Wed, 19 Apr 2017 18:05:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/daily/daily-iot-news-2017-04-19/</guid>
-      <description>&lt;p&gt;Daily IoT/Blockchain news from &lt;a href=&#34;http://twitter.com/surgethings&#34;&gt;@surgethings&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;New Tech Paper: Blockchain Technology for Ports&lt;/h3&gt;
-&lt;p&gt;Executives in the port, harbour and terminal industries need to understand the potential impact and implications of DLT and blockchain  in business, &amp;hellip;  &lt;a href=&#34;https://www.porttechnology.org/news/new_tech_paper_blockchain_technology_for_ports&#34; onclick=&#34;trackOutboundLink(&#39;https://www.porttechnology.org/news/new_tech_paper_blockchain_technology_for_ports&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Smart mirror doesn&amp;rsquo;t prove to be bright idea for UCSD grad&lt;/h3&gt;
-&lt;p&gt;Martin was pitching an Internet of Things product, and the IoT is hotter than blazes. Firefly&amp;rsquo;s product video had something to do with it. The video was &amp;hellip;  &lt;a href=&#34;http://www.sandiegouniontribune.com/news/science/sd-me-smart-mirror-20170418-story.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.sandiegouniontribune.com/news/science/sd-me-smart-mirror-20170418-story.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;New Internet of Things Botnet to Mine Bitcoin Found&lt;/h3&gt;
-&lt;p&gt;That&amp;rsquo;s where they paid attention towards Internet of Things (IoT). However, the technological development is not just being used for the betterment of &amp;hellip;  &lt;a href=&#34;http://insidebitcoins.com/news/new-internet-of-things-botnet-to-mine-bitcoin-found/42718&#34; onclick=&#34;trackOutboundLink(&#39;http://insidebitcoins.com/news/new-internet-of-things-botnet-to-mine-bitcoin-found/42718&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Russian Political Party Launches Blockchain-based Social Project &amp;lsquo;Upcoin&amp;rsquo;&lt;/h3&gt;
-&lt;p&gt;Initially, when bitcoin and the blockchain first made waves in Russia, the government&amp;rsquo;s perception towards the digital currency and its underlying &amp;hellip;  &lt;a href=&#34;http://insidebitcoins.com/news/russian-political-party-launches-blockchain-based-social-project-upcoin/42714&#34; onclick=&#34;trackOutboundLink(&#39;http://insidebitcoins.com/news/russian-political-party-launches-blockchain-based-social-project-upcoin/42714&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Internet of Things connected customer journeys and experiences driving&lt;/h3&gt;
-&lt;p&gt;WebWire (press release) Internet of Things connected customer journeys and experiences driving customer-focused digital transformation and new business agility.  &lt;a href=&#34;http://www.webwire.com/ViewPressRel.asp?aId=208818&#34; onclick=&#34;trackOutboundLink(&#39;http://www.webwire.com/ViewPressRel.asp?aId=208818&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain for Social Good, and For All!&lt;/h3&gt;
-&lt;p&gt;is dedicated to leveraging the Ethereum blockchain to solve the world&amp;rsquo;s &amp;hellip;  &lt;a href=&#34;https://media.consensys.net/blockchain-for-social-good-and-for-all-82ad56011267&#34; onclick=&#34;trackOutboundLink(&#39;https://media.consensys.net/blockchain-for-social-good-and-for-all-82ad56011267&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Japanese government lists criteria to evaluate blockchain-based systems&lt;/h3&gt;
-&lt;p&gt;Japan&amp;rsquo;s Ministry of Economy, Trade and Industry has recently published a document which lists the criteria for evaluating blockchain-based systems.  &lt;a href=&#34;http://www.econotimes.com/Japanese-government-lists-criteria-to-evaluate-blockchain-based-systems-648948&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/Japanese-government-lists-criteria-to-evaluate-blockchain-based-systems-648948&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Double-digit growth is elementary with IBM&amp;rsquo;s Watson: Sanjay Brahmawar, Head&lt;/h3&gt;
-&lt;p&gt;Economic Times IBM expects its Watson Internet of Things (IoT) business in India to grow at a minimum double-digit rate as it taps into and makes sense of the massive &amp;hellip;  &lt;a href=&#34;http://economictimes.indiatimes.com/articleshow/58255595.cms&#34; onclick=&#34;trackOutboundLink(&#39;http://economictimes.indiatimes.com/articleshow/58255595.cms&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Traveling in a blockchain enabled world&lt;/h3&gt;
-&lt;p&gt;all the impediments (technical, regulatory, security, privacy, cost, &amp;hellip;  &lt;a href=&#34;http://hotelmarketing.com/index.php/content/article/traveling_in_a_blockchain_enabled_world&#34; onclick=&#34;trackOutboundLink(&#39;http://hotelmarketing.com/index.php/content/article/traveling_in_a_blockchain_enabled_world&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Hypercat: Unlocking the value of the Internet of Things&lt;/h3&gt;
-&lt;p&gt;enabling connected devices and data to work together.  &lt;a href=&#34;https://home.kpmg.com/au/en/home/insights/2017/04/hypercat-internet-of-things-unlocking-value.html&#34; onclick=&#34;trackOutboundLink(&#39;https://home.kpmg.com/au/en/home/insights/2017/04/hypercat-internet-of-things-unlocking-value.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain Hype: People Love Talking About It More Than Using It&lt;/h3&gt;
-&lt;p&gt;Over three years have passed with billions of US dollars invested in the technology. Yet, no companies have demonstrated the commercial success of &amp;hellip;  &lt;a href=&#34;https://cointelegraph.com/news/blockchain-hype-people-love-talking-about-it-more-than-using-it&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/blockchain-hype-people-love-talking-about-it-more-than-using-it&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain Music Service token.FM To Launch In May&lt;/h3&gt;
-&lt;p&gt;Adam B. Levine&amp;rsquo;s Tokenly will launch a trial version of its token.FM Blockchain music service in May, and has announced a series A funding round.  &lt;a href=&#34;https://cointelegraph.com/news/blockchain-music-service-tokenfm-to-launch-in-may&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/blockchain-music-service-tokenfm-to-launch-in-may&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;HARMAN and IBM Watson Internet of Things Introduce Cognitive Rooms that&lt;/h3&gt;
-&lt;p&gt;Yahoo Finance ARMONK, N.Y. and NORTHRIDGE, Calif., April 19, 2017 /PRNewswire/ &amp;ndash; HARMAN Professional Solutions and IBM (NYSE: IBM) Watson Internet of &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/harman-ibm-watson-internet-things-100000795.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/harman-ibm-watson-internet-things-100000795.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Live Update of OLED module in Python&lt;/h3&gt;
-&lt;p&gt;this is probably a beginner/no-brainer question about a command I &amp;hellip;  &lt;a href=&#34;https://www.element14.com/community/thread/59807/l/live-update-of-oled-module-in-python?displayFullThread=true&#34; onclick=&#34;trackOutboundLink(&#39;https://www.element14.com/community/thread/59807/l/live-update-of-oled-module-in-python?displayFullThread=true&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain: &amp;lsquo;Overhyped&amp;rsquo; buzzword or real-deal enterprise solution?&lt;/h3&gt;
-&lt;p&gt;While blockchain is among the hottest technologies in the enterprise security, data storage and file-sharing arenas, many experts question its use or &amp;hellip;  &lt;a href=&#34;https://www.techworld.com.au/article/617908/blockchain-overhyped-buzzword-real-deal-enterprise-solution/?fp=16&amp;fpid=1&#34; onclick=&#34;trackOutboundLink(&#39;https://www.techworld.com.au/article/617908/blockchain-overhyped-buzzword-real-deal-enterprise-solution/?fp=16&amp;fpid=1&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Japanese Government Unveils Evaluation Process for Blockchain Platforms&lt;/h3&gt;
-&lt;p&gt;The Japanese ministry&amp;rsquo;s evaluation methodology includes 32 distinct pointers &amp;lsquo;which are especially closely related to the characteristics of blockchain &amp;hellip;  &lt;a href=&#34;https://www.cryptocoinsnews.com/japan-evaluation-blockchain-platforms/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cryptocoinsnews.com/japan-evaluation-blockchain-platforms/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Enphase Inverter logs solar production data to SolarCoin Blockchain&lt;/h3&gt;
-&lt;p&gt;node solar Datalogger streaming SolarCoins based on production data from &amp;hellip;  &lt;a href=&#34;https://solarcoin.org/en/enphase-inverter-logs-solar-production-data-to-solarcoin-blockchain-video/&#34; onclick=&#34;trackOutboundLink(&#39;https://solarcoin.org/en/enphase-inverter-logs-solar-production-data-to-solarcoin-blockchain-video/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;IoT Time: M2M/Internet of Things weekly digest&lt;/h3&gt;
-&lt;p&gt;Saudi Arabian cellco Mobily has claimed the country&amp;rsquo;s first successful trial of a LoRaWAN-based long range low power (LPWA) IoT network, &amp;hellip;  &lt;a href=&#34;https://www.telegeography.com/products/commsupdate/articles/2017/04/19/iot-time-m2minternet-of-things-weekly-digest/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telegeography.com/products/commsupdate/articles/2017/04/19/iot-time-m2minternet-of-things-weekly-digest/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Industrial Internet of Things use cases: The IIoT at sea&lt;/h3&gt;
-&lt;p&gt;sensors and unified platforms designed to provide increased visibility for &amp;hellip;  &lt;a href=&#34;https://www.ibm.com/blogs/internet-of-things/the-iiot-at-sea/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.ibm.com/blogs/internet-of-things/the-iiot-at-sea/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;White Space Alliance&amp;rsquo;s WiFAR comes closer to launch&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; to support a range of emerging applications, including machine-to-machine communications, IoT, smart grid deployment and industrial automation.  &lt;a href=&#34;http://rethinkresearch.biz/articles/white-space-alliances-wifar-comes-closer-launch/&#34; onclick=&#34;trackOutboundLink(&#39;http://rethinkresearch.biz/articles/white-space-alliances-wifar-comes-closer-launch/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Arizona&amp;rsquo;s Blockchain Gun Tracking Bill is Close to Becoming Law&lt;/h3&gt;
-&lt;p&gt;Arizona legislators have completed a bill that seeks to prevent blockchains from being used as a tool for trackarms tracking. First filed by an Arizona &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/arizonas-blockchain-gun-tracking-bill-close-becoming-law/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/arizonas-blockchain-gun-tracking-bill-close-becoming-law/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain firm Factom secures additional 8M in Series A funding round&lt;/h3&gt;
-&lt;p&gt;The closing of the funding round follows after Factom $5.3 million of the round, including investment from noted venture capitalist and blockchain &amp;hellip;  &lt;a href=&#34;http://www.econotimes.com/Blockchain-firm-Factom-secures-additional-8M-in-Series-A-funding-round-648929&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/Blockchain-firm-Factom-secures-additional-8M-in-Series-A-funding-round-648929&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Outcomes of the Moscow forum Blockchain: dialogue of business and&lt;/h3&gt;
-&lt;p&gt;The research and practice forum Blockchain: dialogue of business and authorities was held in Moscow on April 13. The event was attended by &amp;hellip;  &lt;a href=&#34;https://blog.wavesplatform.com/outcomes-of-the-moscow-forum-blockchain-dialogue-of-business-and-authorities-d5b3f933c2e0&#34; onclick=&#34;trackOutboundLink(&#39;https://blog.wavesplatform.com/outcomes-of-the-moscow-forum-blockchain-dialogue-of-business-and-authorities-d5b3f933c2e0&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Children online: the undertow of the internet&lt;/h3&gt;
-&lt;p&gt;In fact, AI and internet of things have been already investigated by another report initiated by the House of Commons&amp;rsquo; Science Technology Committee &amp;hellip;  &lt;a href=&#34;http://uk.blastingnews.com/education/2017/04/children-online-the-undertow-of-the-internet-001636683.html&#34; onclick=&#34;trackOutboundLink(&#39;http://uk.blastingnews.com/education/2017/04/children-online-the-undertow-of-the-internet-001636683.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;HARMAN and IBM Watson Internet of Things Introduce Cognitive Roo -&lt;/h3&gt;
-&lt;p&gt;Companies Collaborate at IBM&amp;rsquo;s Watson Internet of Things Headquarters in Munich Germany to Drive Continued Innovation. ARMONK, N.Y. and &amp;hellip;  &lt;a href=&#34;http://www.crossroadstoday.com/story/35184703/harman-and-ibm-watson-internet-of-things-introduce-cognitive-rooms-that-bring-connected-experiences-to-the-consumer&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crossroadstoday.com/story/35184703/harman-and-ibm-watson-internet-of-things-introduce-cognitive-rooms-that-bring-connected-experiences-to-the-consumer&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain app platform Lisk moves closer to first major release with&lt;/h3&gt;
-&lt;p&gt;EconoTimes With our first major release, Lisk 1.0.0, in sight, we are closer to becoming the innovative, safe, and seamless blockchain application platform outlined &amp;hellip;  &lt;a href=&#34;http://www.econotimes.com/Blockchain-app-platform-Lisk-moves-closer-to-first-major-release-with-updates-to-full-suite-of-applications-648928&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/Blockchain-app-platform-Lisk-moves-closer-to-first-major-release-with-updates-to-full-suite-of-applications-648928&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;IoT Time Podcast S.2 Ep. 22 BPI&lt;/h3&gt;
-&lt;p&gt;This episode is sponsored by IoT Time: Evolving Trends in the Internet of Things, a new book by Ken Briodagh about the ongoing influences shaping &amp;hellip;  &lt;a href=&#34;http://www.iotevolutionworld.com/iot/articles/431326-iot-time-podcast-s2-ep-22-bpi.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.iotevolutionworld.com/iot/articles/431326-iot-time-podcast-s2-ep-22-bpi.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Intel cans IDF as it looks beyond PCs to 5G, IoT and virtual reality&lt;/h3&gt;
-&lt;p&gt;In particular, the new events Intel will focus on include the Internet of Things, where it has a growing range of low-power products, 5G communications, &amp;hellip;  &lt;a href=&#34;http://www.theinquirer.net/inquirer/news/3008556/intel-cans-idf-as-it-looks-beyond-pcs-to-5g-iot-and-virtual-reality&#34; onclick=&#34;trackOutboundLink(&#39;http://www.theinquirer.net/inquirer/news/3008556/intel-cans-idf-as-it-looks-beyond-pcs-to-5g-iot-and-virtual-reality&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;FIME supports BKM to develop Turkey&amp;rsquo;s first domestic payment scheme&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; contactless, EMV chip, near field communication (NFC), host card emulation (HCE), tokenization, secure element (SE), machine to machine (M2M), &amp;hellip;  &lt;a href=&#34;http://www.bobsguide.com/guide/news/2017/Apr/19/fime-supports-bkm-to-develop-turkeys-first-domestic-payment-scheme/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bobsguide.com/guide/news/2017/Apr/19/fime-supports-bkm-to-develop-turkeys-first-domestic-payment-scheme/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Top Cryptocurrency Players Descend on Moscow to Integrate Blockchain&lt;/h3&gt;
-&lt;p&gt;Today, the world&amp;rsquo;s premiere exhibition of crypto wallet and mining hardware is coming to Moscow&amp;rsquo;s Digital October in the form of Blockchain &amp;amp; Bitcoin &amp;hellip;  &lt;a href=&#34;http://www.onlinecasinoreports.com/articles/top-cryptocurrency-players-descend-on-moscow-to-integrate-blockchain.php&#34; onclick=&#34;trackOutboundLink(&#39;http://www.onlinecasinoreports.com/articles/top-cryptocurrency-players-descend-on-moscow-to-integrate-blockchain.php&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Accredent Managing Partner to Participate in IoT Strategy Panel at IoT Fuse&lt;/h3&gt;
-&lt;p&gt;WebWire (press release) &amp;hellip; monetization, and transformation through Internet of Things (IoT) and advanced data analytics, announced that its managing partner, Kent Strand, &amp;hellip;  &lt;a href=&#34;http://www.webwire.com/ViewPressRel.asp?aId=208816&#34; onclick=&#34;trackOutboundLink(&#39;http://www.webwire.com/ViewPressRel.asp?aId=208816&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Involution Studios&amp;rsquo; Principal Featured Speaker at BIOMEDevice Healthcare&lt;/h3&gt;
-&lt;p&gt;Benzinga Mr. Sonin will be speaking about his revolutionary Healthroom concept, using sensor technologies and the Internet of Things (IoT), to transform our &amp;hellip;  &lt;a href=&#34;https://www.benzinga.com/pressreleases/17/04/p9315471/involution-studios-principal-featured-speaker-at-biomedevice-healthcare&#34; onclick=&#34;trackOutboundLink(&#39;https://www.benzinga.com/pressreleases/17/04/p9315471/involution-studios-principal-featured-speaker-at-biomedevice-healthcare&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Internet of Things &amp;amp; Security (Panel discussion)&lt;/h3&gt;
-&lt;p&gt;to each other, we are provided with new opportunities for hackers to pose &amp;hellip;  &lt;a href=&#34;https://www.qt.io/event/iotsecurity/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.qt.io/event/iotsecurity/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Cisco, Bosch Reveal New Details on IoT-Blockchain Projects&lt;/h3&gt;
-&lt;p&gt;Following a formal unveiling in January, members of a consortium focused on the intersection of blockchain and the Internet of Things (IoT) are &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/cisco-bosch-reveal-new-details-iot-blockchain-projects/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/cisco-bosch-reveal-new-details-iot-blockchain-projects/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;BNP Paribas Taps Blockchain for Fund Distribution Platform&lt;/h3&gt;
-&lt;p&gt;A subsidiary of French banking giant BNP Paribas revealed today that it is utilizing blockchain tech for a fund-distribution platform currently in &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/bnp-paribas-taps-blockchain-fund-distribution-platform/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/bnp-paribas-taps-blockchain-fund-distribution-platform/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Homeland Security warns of &amp;lsquo;BrickerBot&amp;rsquo; malware that destroys unsecured&lt;/h3&gt;
-&lt;p&gt;ZDNet A new kind of attack is targeting unsecured Internet of Things devices by scrambling their code and rendering them useless. Security firm Radware first &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/homeland-security-warns-of-brickerbot-malware-that-destroys-unsecured-internet-connected-devices/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/homeland-security-warns-of-brickerbot-malware-that-destroys-unsecured-internet-connected-devices/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Cisco, Bosch Reveal New Details on IoT-Blockchain Projects&lt;/h3&gt;
-&lt;p&gt;Following a formal unveiling in January, members of a consortium focused on the intersection of blockchain and the Internet of Things (IoT) are &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/cisco-bosch-reveal-new-details-iot-blockchain-projects/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/cisco-bosch-reveal-new-details-iot-blockchain-projects/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;VC firm YourNest has three new advisors&lt;/h3&gt;
-&lt;p&gt;&amp;ldquo;Creating global tech companies requires that our entrepreneurs further build on available technologies like internet of things and artificial intelligence &amp;hellip;  &lt;a href=&#34;http://economictimes.indiatimes.com/small-biz/hr-leadership/leadership/vc-firm-yournest-has-three-new-advisors/articleshow/58252622.cms&#34; onclick=&#34;trackOutboundLink(&#39;http://economictimes.indiatimes.com/small-biz/hr-leadership/leadership/vc-firm-yournest-has-three-new-advisors/articleshow/58252622.cms&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Criminals Leverage CLDAP Protocol to Conduct Amplified DDoS Attacks&lt;/h3&gt;
-&lt;p&gt;Given the vulnerability of the Internet of Things devices, leveraging a hundred devices can now become as powerful as using 7,000 devices in a &amp;hellip;  &lt;a href=&#34;https://themerkle.com/criminals-leverage-cldap-protocol-to-conduct-amplified-ddos-attacks/&#34; onclick=&#34;trackOutboundLink(&#39;https://themerkle.com/criminals-leverage-cldap-protocol-to-conduct-amplified-ddos-attacks/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Global Internet of Things (IoT) in Manufacturing Market By Softw&lt;/h3&gt;
-&lt;p&gt;at a CAGR of 29.68% during the forecast period of 2017-2022. Every gadget &amp;hellip;  &lt;a href=&#34;http://www.erienewsnow.com/story/35187375/global-internet-of-things-iot-in-manufacturing-market-by-software-connectivity-services-application-industry-geography-trends-and-forecast-to-2022&#34; onclick=&#34;trackOutboundLink(&#39;http://www.erienewsnow.com/story/35187375/global-internet-of-things-iot-in-manufacturing-market-by-software-connectivity-services-application-industry-geography-trends-and-forecast-to-2022&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Consumer comes first, will continue to let telcos decide tariffs: TRAI&lt;/h3&gt;
-&lt;p&gt;Moneycontrol.com &amp;hellip; laws, finalising recommendation on net neutrality, working in the space of new concepts like machine-to-machine application and Internet of Things.  &lt;a href=&#34;http://www.moneycontrol.com/news/business/consumer-comes-first-will-continue-to-let-telcos-decide-tariffs-trai-chief-2261477.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.moneycontrol.com/news/business/consumer-comes-first-will-continue-to-let-telcos-decide-tariffs-trai-chief-2261477.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;MyBit, a Berlin-based startup, is utilizing the Ethereum and Bitcoin&lt;/h3&gt;
-&lt;p&gt;CoinTelegraph Some multi-billion dollar companies in the insurance and healthcare industries are attempting to utilize private Blockchain networks created on top of &amp;hellip;  &lt;a href=&#34;https://cointelegraph.com/news/the-unbreachable-data-made-possible-with-bitcoin-ethereum-blockchain-heres-how&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/the-unbreachable-data-made-possible-with-bitcoin-ethereum-blockchain-heres-how&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;BNP Paribas AXA join hands to build blockchain fund distribution platform&lt;/h3&gt;
-&lt;p&gt;BNP Paribas Securities Services has joined hands with AXA and is building a blockchain-based fund distribution platform using smart contracts in &amp;hellip;  &lt;a href=&#34;http://www.econotimes.com/BNP-Paribas-AXA-join-hands-to-build-blockchain-fund-distribution-platform-649629&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/BNP-Paribas-AXA-join-hands-to-build-blockchain-fund-distribution-platform-649629&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Flat Transistors Provide Every Object With Internet of Things Capabilities&lt;/h3&gt;
-&lt;p&gt;New and exciting technology is just within our grasp, by the look of things. Scientists at Trinity College Dublin have come up with an intriguing idea to &amp;hellip;  &lt;a href=&#34;https://themerkle.com/flat-transistors-provide-every-object-with-internet-of-things-capabilities/&#34; onclick=&#34;trackOutboundLink(&#39;https://themerkle.com/flat-transistors-provide-every-object-with-internet-of-things-capabilities/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The Cyber Part IV: Are There Appropriate Ethical Limits on Hacking?&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; field, including censys.io, a network search engine for researchers, and shodan.io, which styles itself as a search engine for the Internet of Things.  &lt;a href=&#34;https://cdt.org/blog/the-cyber-part-iv-are-there-appropriate-ethical-limits-on-hacking/&#34; onclick=&#34;trackOutboundLink(&#39;https://cdt.org/blog/the-cyber-part-iv-are-there-appropriate-ethical-limits-on-hacking/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The Blockchain Users Group Welcomes Joe Ciccolo as Regulatory Compliance&lt;/h3&gt;
-&lt;p&gt;CoinDesk The Blockchain Users Group (BUG) is excited to welcome Joe Ciccolo as its Regulatory Compliance Advisor. Joe is the Founder of BitAML, a bitcoin &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/press-releases/blockchain-users-group-welcomes-joe-ciccolo-regulatory-compliance-advisor/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/press-releases/blockchain-users-group-welcomes-joe-ciccolo-regulatory-compliance-advisor/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain and Internet of Things Consortium Progresses Towards Ecosystem&lt;/h3&gt;
-&lt;p&gt;Yahoo Finance The protocol allows users to register multiple kinds of weaker identities, including serial numbers, QR codes, and UPC code identities, and bind them &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/blockchain-internet-things-consortium-progresses-162600577.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/blockchain-internet-things-consortium-progresses-162600577.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Industrial Internet Consortium expands TSN testbed&lt;/h3&gt;
-&lt;p&gt;IIC has nearly two dozen testbed focused on various aspects of the industrial internet of things, from smart water or energy management to edge &amp;hellip;  &lt;a href=&#34;http://www.rcrwireless.com/20170418/wireless/industrial-internet-consortium-expands-tsn-testbeds-tag6&#34; onclick=&#34;trackOutboundLink(&#39;http://www.rcrwireless.com/20170418/wireless/industrial-internet-consortium-expands-tsn-testbeds-tag6&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The Blockchain Users Group Welcomes Marc Wolenik as Executive Director for&lt;/h3&gt;
-&lt;p&gt;CoinDesk The Blockchain Users Group (BUG) is excited to welcome Marc Wolenik as Executive Director for Europe. Marc is CEO of Dapps.ai - A blockchain &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/press-releases/blockchain-users-group-welcomes-marc-wolenik-executive-director-europe/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/press-releases/blockchain-users-group-welcomes-marc-wolenik-executive-director-europe/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Cornell researcher warns blockchain isn&amp;rsquo;t foolproof&lt;/h3&gt;
-&lt;p&gt;Blockchain technology may not be the interoperability savior everyone is hoping for, according to a Cornell researcher who splashed cold water on the &amp;hellip;  &lt;a href=&#34;http://www.fiercehealthcare.com/privacy-security/cornell-researcher-warns-blockchain-isn-t-foolproof&#34; onclick=&#34;trackOutboundLink(&#39;http://www.fiercehealthcare.com/privacy-security/cornell-researcher-warns-blockchain-isn-t-foolproof&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Embedded device analytics: Benefits and use cases&lt;/h3&gt;
-&lt;p&gt;It is the Internet of Things, but with an enterprise angle. Take that to mean industry vertical applications, development ecosystems, product design, &amp;hellip;  &lt;a href=&#34;http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Embedded-device-analytics-Benefits-and-use-cases&#34; onclick=&#34;trackOutboundLink(&#39;http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Embedded-device-analytics-Benefits-and-use-cases&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Music Society Giants Turn to Blockchain Technology&lt;/h3&gt;
-&lt;p&gt;Robert Ashcroft, PRS for Music&amp;rsquo;s Chief Executive, said that the blockchain and DLT are opening up new opportunities for many sectors to address &amp;hellip;  &lt;a href=&#34;https://www.cryptocoinsnews.com/music-society-giants-turn-blockchain-technology/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cryptocoinsnews.com/music-society-giants-turn-blockchain-technology/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Georgia: Authorities Use Bitcoin as Model for Developing Land Registry&lt;/h3&gt;
-&lt;p&gt;Georgian authorities created the system with the assistance of Bitfury, a firm specializing in developing blockchain-based software and hardware.  &lt;a href=&#34;http://www.valuewalk.com/2017/04/bitcoin-blockchain-land-registry/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.valuewalk.com/2017/04/bitcoin-blockchain-land-registry/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Why Comcast Is Pursuing Internet Upgrades&lt;/h3&gt;
-&lt;p&gt;Demand for high-speed Internet access is on the rise, thanks mostly to OTT (over-the-top) video services and IoT (Internet of Things). By offering faster &amp;hellip;  &lt;a href=&#34;http://marketrealist.com/2017/04/why-comcast-is-pursuing-internet-upgrades/&#34; onclick=&#34;trackOutboundLink(&#39;http://marketrealist.com/2017/04/why-comcast-is-pursuing-internet-upgrades/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Orbcomm Exec on Balancing Satellite, Terrestrial Networks&lt;/h3&gt;
-&lt;p&gt;The two sides, he said, offer different benefits but can also complement each other&amp;rsquo;s weaknesses, particularly in the Machine-to-Machine (M2M)/IOT &amp;hellip;  &lt;a href=&#34;http://www.satellitetoday.com/telecom/2017/04/19/orbcomm-exec-balancing-satellite-terrestrial-networks/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.satellitetoday.com/telecom/2017/04/19/orbcomm-exec-balancing-satellite-terrestrial-networks/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Porsche Invites Startups For 25000 Blockchain Disruption Contest&lt;/h3&gt;
-&lt;p&gt;German automaker Porsche is seeking founders and startups in the blockchain industry to participate in a contest as it seeks to explore blockchain &amp;hellip;  &lt;a href=&#34;https://www.cryptocoinsnews.com/porsche-startups-blockchain-contest/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cryptocoinsnews.com/porsche-startups-blockchain-contest/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;IBM&amp;rsquo;s Cloud Computing Holds Major Potential: Should You Buy?&lt;/h3&gt;
-&lt;p&gt;And with Watson, IBM is advancing in vital areas like Internet of Things, healthcare, and financial services end-markets that will support growth in the &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/ibm-apos-cloud-computing-holds-174305953.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/ibm-apos-cloud-computing-holds-174305953.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Tokenly to launch trial of tokenFM blockchain music service in May&lt;/h3&gt;
-&lt;p&gt;Tokenly, a blockchain-based technology solutions company, announced that it will launch the initial trial of blockchain music service token.FM in early &amp;hellip;  &lt;a href=&#34;http://www.econotimes.com/Tokenly-to-launch-trial-of-tokenFM-blockchain-music-service-in-May-649197&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/Tokenly-to-launch-trial-of-tokenFM-blockchain-music-service-in-May-649197&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Storj Labs to Announce Token Sale on Ethereum Blockchain&lt;/h3&gt;
-&lt;p&gt;contained on this page is provided by an independent third-party content &amp;hellip;  &lt;a href=&#34;http://www.crossroadstoday.com/story/35190861/storj-labs-to-announce-token-sale-on-ethereum-blockchain&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crossroadstoday.com/story/35190861/storj-labs-to-announce-token-sale-on-ethereum-blockchain&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Power Trio: AI, Big Data and the IoT&lt;/h3&gt;
-&lt;p&gt;The Internet of Things (IoT) and artificial intelligence (AI), often supported by Big Data, will combine, overlap and in other ways systematically drive &amp;hellip;  &lt;a href=&#34;http://www.itbusinessedge.com/blogs/data-and-telecom/power-trio-ai-big-data-and-the-iot.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itbusinessedge.com/blogs/data-and-telecom/power-trio-ai-big-data-and-the-iot.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Big IoT adoption on horizon, claims new report&lt;/h3&gt;
-&lt;p&gt;Seven in 10 retailers will be investing in Internet of Things technologies as a way to improve customer experience, according to the newly released &amp;hellip;  &lt;a href=&#34;https://www.mobilepaymentstoday.com/news/big-iot-adoption-on-horizon-claims-new-report/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.mobilepaymentstoday.com/news/big-iot-adoption-on-horizon-claims-new-report/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Can Hong Kong compete with Singapore as fintech hub?&lt;/h3&gt;
-&lt;p&gt;I think the fact that Hong Kong and Singapore are such trade hubs make them natural locations for fintech and blockchain development. There are &amp;hellip;  &lt;a href=&#34;http://www.gtreview.com/news/asia/can-hong-kong-compete-with-singapore-as-fintech-hub/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.gtreview.com/news/asia/can-hong-kong-compete-with-singapore-as-fintech-hub/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Revealing the hidden links in the Monero blockchain&lt;/h3&gt;
-&lt;p&gt;graph, clicking the links to move from one transaction to the next. These linkages &amp;hellip;  &lt;a href=&#34;http://hackingdistributed.com/2017/04/19/monero-linkability/&#34; onclick=&#34;trackOutboundLink(&#39;http://hackingdistributed.com/2017/04/19/monero-linkability/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Internet of things (IoT): technology &amp;amp; significance in 2017 just published&lt;/h3&gt;
-&lt;p&gt;Survey results reveal that the majority of executives indicated that they are aware about IoT and it is applicable for them. Wi-Fi, mobile computing, and &amp;hellip;  &lt;a href=&#34;https://www.whatech.com/market-research/it/290985-internet-of-things-iot-technology-significance-in-2017-just-published&#34; onclick=&#34;trackOutboundLink(&#39;https://www.whatech.com/market-research/it/290985-internet-of-things-iot-technology-significance-in-2017-just-published&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Panasonic aims for 1000 AI engineers within 5 years&lt;/h3&gt;
-&lt;p&gt;OSAKA &amp;ndash; Panasonic will focus its research and development on artificial intelligence and the &amp;ldquo;internet of things&amp;rdquo; to drive growth in hopes of reversing &amp;hellip;  &lt;a href=&#34;http://asia.nikkei.com/Business/Companies/Panasonic-aims-for-1-000-AI-engineers-within-5-years&#34; onclick=&#34;trackOutboundLink(&#39;http://asia.nikkei.com/Business/Companies/Panasonic-aims-for-1-000-AI-engineers-within-5-years&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The Internet of Things, telcos and their place in the ecosystem&lt;/h3&gt;
-&lt;p&gt;Manager of the Telecoms Business at SAP and I met him World Congress in &amp;hellip;  &lt;a href=&#34;http://tomraftery.libsyn.com/episode-23-the-internet-of-things-telcos-and-their-place-in-the-ecosystem&#34; onclick=&#34;trackOutboundLink(&#39;http://tomraftery.libsyn.com/episode-23-the-internet-of-things-telcos-and-their-place-in-the-ecosystem&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain Is Helping to Build a New Kind of Energy Grid&lt;/h3&gt;
-&lt;p&gt;The system uses blockchainthe electronic ledger technology that underpins the digital currency Bitcointo facilitate and record the transactions.  &lt;a href=&#34;https://www.technologyreview.com/s/604227/blockchain-is-helping-to-build-a-new-kind-of-energy-grid/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.technologyreview.com/s/604227/blockchain-is-helping-to-build-a-new-kind-of-energy-grid/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Smart Dubai picks Avanza for blockchain payments platform&lt;/h3&gt;
-&lt;p&gt;The UAE&amp;rsquo;s Smart Dubai Office, a government entity, has signed a memorandum of understanding (MoU) with Avanza Solutions to implement a &amp;hellip;  &lt;a href=&#34;https://www.telecompaper.com/news/smart-dubai-picks-avanza-for-blockchain-payments-platform--1192567&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/smart-dubai-picks-avanza-for-blockchain-payments-platform--1192567&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Siemens plants Internet of Trains software development center in Midtown&lt;/h3&gt;
-&lt;p&gt;The city is home to a growing base of industrial Internet of Things (IoT) companies, including General Electric Co. (NYSE: GE) and startups, such as &amp;hellip;  &lt;a href=&#34;http://www.bizjournals.com/atlanta/news/2017/04/19/siemens-plants-internet-of-trains-software.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.bizjournals.com/atlanta/news/2017/04/19/siemens-plants-internet-of-trains-software.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The IMF Just Finished its First &amp;lsquo;High Level&amp;rsquo; Meeting on Blockchain&lt;/h3&gt;
-&lt;p&gt;Initially announced in March, the advisory group also consists of members from the blockchain industry including Chris Larsen, the executive chairman &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/imf-just-finished-first-high-level-meeting-blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/imf-just-finished-first-high-level-meeting-blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Blockchain and Internet of Things Consortium Progresses Towards&lt;/h3&gt;
-&lt;p&gt;Protocol Integrated with Ethereum, Hyperledger, and More. Information &amp;hellip;  &lt;a href=&#34;http://www.crossroadstoday.com/story/35189155/blockchain-and-internet-of-things-consortium-progresses-towards-ecosystem-protocol-integrated-with-ethereum-hyperledger-and-more&#34; onclick=&#34;trackOutboundLink(&#39;http://www.crossroadstoday.com/story/35189155/blockchain-and-internet-of-things-consortium-progresses-towards-ecosystem-protocol-integrated-with-ethereum-hyperledger-and-more&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Security News from @trustpath - Apr 19, 2017</title>
-      <link>//crypt0.net/daily/daily-trust-news-2017-04-19/</link>
-      <pubDate>Wed, 19 Apr 2017 18:05:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/daily/daily-trust-news-2017-04-19/</guid>
-      <description>&lt;p&gt;Daily Security news from &lt;a href=&#34;http://twitter.com/trustpath&#34;&gt;@trustpath&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Vanderbilt joins with Citel Spa for greater security in Italy&amp;rsquo;s financial&lt;/h3&gt;
-&lt;p&gt;SecurityInfoWatch &amp;hellip; has announced a new partnership with Citel Spa, a premier supplier of physical security information management (PSIM) software to Italy&amp;rsquo;s financial &amp;hellip;  &lt;a href=&#34;http://www.securityinfowatch.com/press_release/12326515/vanderbilt-and-citel-spa-join-forces-for-greater-security-in-italys-financial-sector&#34; onclick=&#34;trackOutboundLink(&#39;http://www.securityinfowatch.com/press_release/12326515/vanderbilt-and-citel-spa-join-forces-for-greater-security-in-italys-financial-sector&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;How businesses should prepare for Australia&amp;rsquo;s new mandatory data breach&lt;/h3&gt;
-&lt;p&gt;SecurityBrief Australia Australia, like other countries, has not been immune to data breaches in which personal information has been exposed. The much-anticipated Privacy &amp;hellip;  &lt;a href=&#34;https://securitybrief.com.au/story/how-businesses-should-prepare-australias-new-mandatory-data-breach-notification-laws/&#34; onclick=&#34;trackOutboundLink(&#39;https://securitybrief.com.au/story/how-businesses-should-prepare-australias-new-mandatory-data-breach-notification-laws/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Hacking Threat Increasingly Targeting Smaller Financial Firms&lt;/h3&gt;
-&lt;p&gt;In just one yearfrom 2015 to 2016the increase in malicious data breaches rose 40 percent, the two companies said, with the number of network &amp;hellip;  &lt;a href=&#34;http://www.brinknews.com/hacking-threat-increasingly-targeting-smaller-financial-firms/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.brinknews.com/hacking-threat-increasingly-targeting-smaller-financial-firms/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Cyber Security Centre survey reveals alarming rate of data breaches&lt;/h3&gt;
-&lt;p&gt;A survey conducted by the Australian Cyber Security Centre among organisations that are currently partners of the ACSC and its member agencies &amp;hellip;  &lt;a href=&#34;http://www.computerworld.com.au/article/617897/cyber-security-centre-survey-reveals-alarming-rate-data-breaches/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.computerworld.com.au/article/617897/cyber-security-centre-survey-reveals-alarming-rate-data-breaches/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;IHG reports major breach of card data&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; bank statements and report unauthorized charges to card issuers. Hilton, Hyatt and Starwood have reported data breaches at hotels since 2015.  &lt;a href=&#34;http://www.travelweekly.com/Travel-News/Hotel-News/IHG-reports-major-breach-of-card-data&#34; onclick=&#34;trackOutboundLink(&#39;http://www.travelweekly.com/Travel-News/Hotel-News/IHG-reports-major-breach-of-card-data&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Cyber-Insurance: Assess Risk, Policy &amp;amp; Obligations&lt;/h3&gt;
-&lt;p&gt;The threat of cyber-incidents is a top concern of businesses around the world, and insuring companies against data breaches is becoming a huge &amp;hellip;  &lt;a href=&#34;http://www.baselinemag.com/security/cyber-insurance-assess-risk-policy-obligationscyber-insurance-assess-risk-policy-obligations.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.baselinemag.com/security/cyber-insurance-assess-risk-policy-obligationscyber-insurance-assess-risk-policy-obligations.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;FireMon Study Confirms Security Management Solutions Critical to Avoiding&lt;/h3&gt;
-&lt;p&gt;Yahoo Finance OVERLAND PARK, Kan. and DALLAS, April 19, 2017 (GLOBE NEWSWIRE) &amp;ndash; FireMon, the leader in Intelligent Security Management, today &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/firemon-study-confirms-security-management-130000073.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/firemon-study-confirms-security-management-130000073.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;MyBit, a Berlin-based startup, is utilizing the Ethereum and Bitcoin&lt;/h3&gt;
-&lt;p&gt;CoinTelegraph If most data breaches and hacking attacks launched since the early 2000&amp;rsquo;s are evaluated, the issue of the vast majority of successful attacks stems &amp;hellip;  &lt;a href=&#34;https://cointelegraph.com/news/the-unbreachable-data-made-possible-with-bitcoin-ethereum-blockchain-heres-how&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/the-unbreachable-data-made-possible-with-bitcoin-ethereum-blockchain-heres-how&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;The Human Factor: The unspoken threat in cybersecurity&lt;/h3&gt;
-&lt;p&gt;Examples of how errors by workers led to data breaches are rife  and many of them rely on social engineering, spear-phishing, and other e-mail and &amp;hellip;  &lt;a href=&#34;http://www.itproportal.com/features/the-human-factor-the-unspoken-threat-in-cybersecurity/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itproportal.com/features/the-human-factor-the-unspoken-threat-in-cybersecurity/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;HHS Settlement with Healthcare Provider Underscores Importance of&lt;/h3&gt;
-&lt;p&gt;Lexology (registration) And the costs from these data breaches are adding up: a 2016 study found that data breaches are costing the US healthcare industry $6.2 billion per &amp;hellip;  &lt;a href=&#34;http://www.lexology.com/library/detail.aspx?g=480e58f3-52d9-426f-84a1-108512082b85&#34; onclick=&#34;trackOutboundLink(&#39;http://www.lexology.com/library/detail.aspx?g=480e58f3-52d9-426f-84a1-108512082b85&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Holiday Inn Parent Confirms Data Breach at Nearly 1200 Hotels&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; institutions is as yet unknown, the figures reported by IHG would make this breach one of the largest hotel company data breaches in recent years.  &lt;a href=&#34;http://bankingjournal.aba.com/2017/04/holiday-inn-parent-confirms-data-breach-at-nearly-1200-hotels/&#34; onclick=&#34;trackOutboundLink(&#39;http://bankingjournal.aba.com/2017/04/holiday-inn-parent-confirms-data-breach-at-nearly-1200-hotels/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Endpoint Protection 12.1.6 MP7 vs V14&lt;/h3&gt;
-&lt;p&gt;Protection Solution. This is my first dive into SEP so forgive me, if this is a &amp;hellip;  &lt;a href=&#34;https://www.symantec.com/connect/forums/endpoint-protection-1216-mp7-vs-v14&#34; onclick=&#34;trackOutboundLink(&#39;https://www.symantec.com/connect/forums/endpoint-protection-1216-mp7-vs-v14&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Report finds identity theft protection not always a good investment&lt;/h3&gt;
-&lt;p&gt;Like many of you, I&amp;rsquo;ve been the victim of data breaches where my credit card information was stolen. Each time, I ignored the offers of free identity theft &amp;hellip;  &lt;a href=&#34;http://www.mcall.com/news/local/watchdog/mc-is-identity-theft-protection-worth-buying-watchdog-20170419-column.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.mcall.com/news/local/watchdog/mc-is-identity-theft-protection-worth-buying-watchdog-20170419-column.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;March Sees an Uptick in Health Data Breaches&lt;/h3&gt;
-&lt;p&gt;The monthly breach report issued by Protenus last week outlining data breaches that occurred in the month of March concludes that there was an &amp;hellip;  &lt;a href=&#34;http://www.jdsupra.com/legalnews/march-sees-an-uptick-in-health-data-64466/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.jdsupra.com/legalnews/march-sees-an-uptick-in-health-data-64466/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
