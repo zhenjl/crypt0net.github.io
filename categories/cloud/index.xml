@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 20 Apr 2017 20:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Apr 2017 20:50:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Announcing new functionality to automatically provision devices to Azure</title>
+      <link>//crypt0.net/post/announcing-new-functionality-to-automatically-provision-devices-to-azure/</link>
+      <pubDate>Thu, 20 Apr 2017 20:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/announcing-new-functionality-to-automatically-provision-devices-to-azure/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;re announcing a great new service to Azure IoT Hub that allows customers to provision millions of devices in a secure and scalable manner. Azure &amp;hellip;  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/announcing-new-functionality-to-automatically-provision-devices-to-azure-iot-hub/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/announcing-new-functionality-to-automatically-provision-devices-to-azure-iot-hub/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS Rolls Out New-Gen Tools for DB Admins, Data Scientists</title>
@@ -348,18 +360,6 @@
       
       <guid>//crypt0.net/post/journey-to-the-cloud-migration-webcast/</guid>
       <description>&lt;p&gt;ins and outs of hybrid cloud migration beginning to end.  &lt;a href=&#34;https://blogs.vmware.com/vcloud/2017/04/journey-cloud-migration-webcast.html&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.vmware.com/vcloud/2017/04/journey-cloud-migration-webcast.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lessons learned from working on large scale, cross-project initiatives in</title>
-      <link>//crypt0.net/post/lessons-learned-from-working-on-large-scale-crossproject-initiatives-in/</link>
-      <pubDate>Thu, 20 Apr 2017 13:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/lessons-learned-from-working-on-large-scale-crossproject-initiatives-in/</guid>
-      <description>&lt;p&gt;I have been involved with OpenStack development since just before the Folsom summit in 2012. Over the course of that time, I have participated in &amp;hellip;  &lt;a href=&#34;https://doughellmann.com/blog/2017/04/20/lessons-learned-from-working-on-large-scale-cross-project-initiatives-in-openstack/&#34; onclick=&#34;trackOutboundLink(&#39;https://doughellmann.com/blog/2017/04/20/lessons-learned-from-working-on-large-scale-cross-project-initiatives-in-openstack/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
