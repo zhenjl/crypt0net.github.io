@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Apr 2017 06:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2017 06:40:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to get access to the MQTT topic of a message received in ThingWorx.</title>
+      <link>//crypt0.net/post/how-to-get-access-to-the-mqtt-topic-of-a-message-received-in-thingworx/</link>
+      <pubDate>Fri, 21 Apr 2017 06:40:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-get-access-to-the-mqtt-topic-of-a-message-received-in-thingworx/</guid>
+      <description>&lt;p&gt;things are connected to an MQTT broker (Subscribing process for each thing &amp;hellip;  &lt;a href=&#34;https://community.thingworx.com/thread/41301&#34; onclick=&#34;trackOutboundLink(&#39;https://community.thingworx.com/thread/41301&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft aims to simplify enterprise IoT deployments with SaaS offering,</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Lexology (registration) In both cases, which involved large-scale data breaches affecting thousands of employees, the courts absolved the employers of any potential liability &amp;hellip;  &lt;a href=&#34;http://www.lexology.com/library/detail.aspx?g=5662322c-711e-4298-b1f3-55bfbc1c51d3&#34; onclick=&#34;trackOutboundLink(&#39;http://www.lexology.com/library/detail.aspx?g=5662322c-711e-4298-b1f3-55bfbc1c51d3&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon is great for consumers and not so good for competitors</title>
-      <link>//crypt0.net/post/amazon-is-great-for-consumers-and-not-so-good-for-competitors/</link>
-      <pubDate>Fri, 21 Apr 2017 04:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-is-great-for-consumers-and-not-so-good-for-competitors/</guid>
-      <description>&lt;p&gt;The technology and content numbers in relation to e-commerce are distorted by the expansion of Amazon Web Services, a data storage and cloud &amp;hellip;  &lt;a href=&#34;http://www.afr.com/brand/chanticleer/amazon-is-great-for-consumers-and-not-so-good-for-competitors-20170421-gvpx3r&#34; onclick=&#34;trackOutboundLink(&#39;http://www.afr.com/brand/chanticleer/amazon-is-great-for-consumers-and-not-so-good-for-competitors-20170421-gvpx3r&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

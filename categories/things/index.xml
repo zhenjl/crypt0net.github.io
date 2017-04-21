@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Apr 2017 06:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2017 06:40:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to get access to the MQTT topic of a message received in ThingWorx.</title>
+      <link>//crypt0.net/post/how-to-get-access-to-the-mqtt-topic-of-a-message-received-in-thingworx/</link>
+      <pubDate>Fri, 21 Apr 2017 06:40:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-get-access-to-the-mqtt-topic-of-a-message-received-in-thingworx/</guid>
+      <description>&lt;p&gt;things are connected to an MQTT broker (Subscribing process for each thing &amp;hellip;  &lt;a href=&#34;https://community.thingworx.com/thread/41301&#34; onclick=&#34;trackOutboundLink(&#39;https://community.thingworx.com/thread/41301&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft brings IoT to the enterprise</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/coffee-rides-the-xborder-blockchain/</guid>
       <description>&lt;p&gt;As the latest X-Border Payments Optimization Tracker reveals, sales and the consumer demand for international goods is higher than ever, as the &amp;hellip;  &lt;a href=&#34;http://www.pymnts.com/news/cross-border-commerce/2017/coffee-logistics-social-commerce/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pymnts.com/news/cross-border-commerce/2017/coffee-logistics-social-commerce/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Wisekey to open blockchain IoT centre in Zug</title>
-      <link>//crypt0.net/post/wisekey-to-open-blockchain-iot-centre-in-zug/</link>
-      <pubDate>Fri, 21 Apr 2017 02:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/wisekey-to-open-blockchain-iot-centre-in-zug/</guid>
-      <description>&lt;p&gt;WISeKey announced its intention to establish an Internet of Things Blockchain Center of Excellence in the Swiss canton of Zug, where the company is &amp;hellip;  &lt;a href=&#34;https://www.telecompaper.com/news/wisekey-to-open-blockchain-iot-centre-in-zug--1193008&#34; onclick=&#34;trackOutboundLink(&#39;https://www.telecompaper.com/news/wisekey-to-open-blockchain-iot-centre-in-zug--1193008&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
