@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Apr 2017 10:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2017 11:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack keystone projects not syncing with Contrail</title>
+      <link>//crypt0.net/post/openstack-keystone-projects-not-syncing-with-contrail/</link>
+      <pubDate>Fri, 21 Apr 2017 11:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-keystone-projects-not-syncing-with-contrail/</guid>
+      <description>&lt;p&gt;created in openstack, they are not syncing automatically to contrail and not &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685059&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685059&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft IoT Central, HPE ArcSight Investigate, Mirantis Cloud Platform</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/microsoft-aims-to-simplify-enterprise-iot-deployments-with-saas-offering/</guid>
       <description>&lt;p&gt;TechRepublic Microsoft IoT Central, a new managed software as a service (SaaS) solution, &amp;hellip; Microsoft IoT Central will be available alongside the Azure IoT Suite, &amp;hellip;  &lt;a href=&#34;http://www.techrepublic.com/article/microsoft-aims-to-simplify-enterprise-iot-deployments-with-saas-offering-analytics-tools/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.techrepublic.com/article/microsoft-aims-to-simplify-enterprise-iot-deployments-with-saas-offering-analytics-tools/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IvyCamp inks partnership with Amazon, IBM and others</title>
-      <link>//crypt0.net/post/ivycamp-inks-partnership-with-amazon-ibm-and-others/</link>
-      <pubDate>Fri, 21 Apr 2017 05:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ivycamp-inks-partnership-with-amazon-ibm-and-others/</guid>
-      <description>&lt;p&gt;Start ups on IvyCamp platform can now access world-class products and services from Amazon Web Services, IBM, mGage India, Exotel, CMO Axis, &amp;hellip;  &lt;a href=&#34;http://www.dnaindia.com/money/report-ivycamp-inks-partnership-with-amazon-ibm-and-others-2410712&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dnaindia.com/money/report-ivycamp-inks-partnership-with-amazon-ibm-and-others-2410712&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
