@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Apr 2017 18:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2017 19:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>compute logs tell me live migration finished successfully when it actually</title>
+      <link>//crypt0.net/post/compute-logs-tell-me-live-migration-finished-successfully-when-it-actually/</link>
+      <pubDate>Fri, 21 Apr 2017 19:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/compute-logs-tell-me-live-migration-finished-successfully-when-it-actually/</guid>
+      <description>&lt;p&gt;This tells me post live migration at destination failed: &lt;a href=&#34;http://logs.openstack.org/43/458843/1/check/gate-tempest-dsvm-multinode-liv&#34;&gt;http://logs.openstack.org/43/458843/1/check/gate-tempest-dsvm-multinode-liv&lt;/a&gt; e-migration-ubuntu- &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685340&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685340&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MIT Mathematician Spins Up 220000-Core Google Compute Cluster</title>
@@ -333,18 +345,6 @@
       
       <guid>//crypt0.net/post/of-course-microsoft-is-working-on-its-own-version-of-the-chromebook/</guid>
       <description>&lt;p&gt;&amp;hellip; as the company struggles to gain a foothold in the K-12 education space that has been utterly dominated by Google&amp;rsquo;s cloud-based offering.  &lt;a href=&#34;https://techcrunch.com/2017/04/21/of-course-microsoft-is-working-on-its-own-version-of-the-chromebook/&#34; onclick=&#34;trackOutboundLink(&#39;https://techcrunch.com/2017/04/21/of-course-microsoft-is-working-on-its-own-version-of-the-chromebook/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>With the release of Amazon Lex, AWS asks: Developers, can you build me a</title>
-      <link>//crypt0.net/post/with-the-release-of-amazon-lex-aws-asks-developers-can-you-build-me-a/</link>
-      <pubDate>Fri, 21 Apr 2017 12:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/with-the-release-of-amazon-lex-aws-asks-developers-can-you-build-me-a/</guid>
-      <description>&lt;p&gt;GeekWire Now that Amazon Web Services has made public its Amazon Lex technology, which makes Alexa fetch another case of LaCroix from Amazon Prime at &amp;hellip;  &lt;a href=&#34;http://www.geekwire.com/2017/release-amazon-lex-aws-asks-developers-can-build-chatbot/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.geekwire.com/2017/release-amazon-lex-aws-asks-developers-can-build-chatbot/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
