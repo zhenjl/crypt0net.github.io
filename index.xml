@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Apr 2017 21:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2017 21:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IoT Central is Microsoft&#39;s latest IoT as a Service offering</title>
+      <link>//crypt0.net/post/iot-central-is-microsofts-latest-iot-as-a-service-offering/</link>
+      <pubDate>Fri, 21 Apr 2017 21:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/iot-central-is-microsofts-latest-iot-as-a-service-offering/</guid>
+      <description>&lt;p&gt;Microsoft has also announced that it will be offering Azure Stream Analytics to edge devices thus making it easier for new IoT devices and is also &amp;hellip;  &lt;a href=&#34;http://news.thewindowsclub.com/iot-central-is-microsofts-latest-iot-as-a-service-offering-89494/&#34; onclick=&#34;trackOutboundLink(&#39;http://news.thewindowsclub.com/iot-central-is-microsofts-latest-iot-as-a-service-offering-89494/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtio Fixes Not Backported --&gt; Google Cloud Platform Drops Packets</title>
+      <link>//crypt0.net/post/virtio-fixes-not-backported--google-cloud-platform-drops-packets/</link>
+      <pubDate>Fri, 21 Apr 2017 21:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/virtio-fixes-not-backported--google-cloud-platform-drops-packets/</guid>
+      <description>&lt;p&gt;related to setting VIRTIO_NET_HDR_F_DATA_VALID on received &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685416&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685416&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Global Cloud High Performance Computing (HPC) Market 2017- IBM , Microsoft</title>
@@ -163,30 +187,6 @@
       <description>&lt;p&gt;NEW DELHI: Vodafone has emerged as the first global Internet of Things (IoT) mobile provider to exceed 50 million connections as of February 2017, &amp;hellip;  &lt;a href=&#34;http://telecom.economictimes.indiatimes.com/news/vodafone-becomes-first-iot-mobile-provider-to-exceed-50-mn-connections/58297249&#34; onclick=&#34;trackOutboundLink(&#39;http://telecom.economictimes.indiatimes.com/news/vodafone-becomes-first-iot-mobile-provider-to-exceed-50-mn-connections/58297249&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>compute logs tell me live migration finished successfully when it actually</title>
-      <link>//crypt0.net/post/compute-logs-tell-me-live-migration-finished-successfully-when-it-actually/</link>
-      <pubDate>Fri, 21 Apr 2017 19:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/compute-logs-tell-me-live-migration-finished-successfully-when-it-actually/</guid>
-      <description>&lt;p&gt;This tells me post live migration at destination failed: &lt;a href=&#34;http://logs.openstack.org/43/458843/1/check/gate-tempest-dsvm-multinode-liv&#34;&gt;http://logs.openstack.org/43/458843/1/check/gate-tempest-dsvm-multinode-liv&lt;/a&gt; e-migration-ubuntu- &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685340&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685340&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MIT Mathematician Spins Up 220000-Core Google Compute Cluster</title>
-      <link>//crypt0.net/post/mit-mathematician-spins-up-220000core-google-compute-cluster/</link>
-      <pubDate>Fri, 21 Apr 2017 18:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mit-mathematician-spins-up-220000core-google-compute-cluster/</guid>
-      <description>&lt;p&gt;Sutherland used Google&amp;rsquo;s cloud to explore generalizations of the Sato-Tate Conjecture and the conjecture of Birch and Swinnerton-Dyer to curves of &amp;hellip;  &lt;a href=&#34;https://www.hpcwire.com/2017/04/21/mit-mathematician-spins-220000-core-google-compute-cluster/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.hpcwire.com/2017/04/21/mit-mathematician-spins-220000-core-google-compute-cluster/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
