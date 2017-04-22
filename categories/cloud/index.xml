@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Apr 2017 19:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2017 21:00:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>freezer-scheduler doesn&#39;t have restart command</title>
+      <link>//crypt0.net/post/freezerscheduler-doesnt-have-restart-command/</link>
+      <pubDate>Fri, 21 Apr 2017 21:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/freezerscheduler-doesnt-have-restart-command/</guid>
+      <description>&lt;p&gt;scheduler.conf, we should stop freezer-scheduler firstly, and then start &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685192&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685192&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Mirantis Cloud Platform Combines OpenStack and Kubernetes Container</title>
@@ -333,18 +345,6 @@
       
       <guid>//crypt0.net/post/specialty-iaas-cloud-providers-meet-unique-it-demands/</guid>
       <description>&lt;p&gt;But despite Amazon&amp;rsquo;s growth, and that of the other two cloud vendors that make up the Big Three &amp;ndash; Microsoft Azure and Google Cloud Platform &amp;hellip;  &lt;a href=&#34;http://searchcloudcomputing.techtarget.com/feature/Specialty-IaaS-cloud-providers-meet-unique-IT-demands&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudcomputing.techtarget.com/feature/Specialty-IaaS-cloud-providers-meet-unique-IT-demands&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>24i integrates with Microsoft Azure for smarter personalized discovery and</title>
-      <link>//crypt0.net/post/24i-integrates-with-microsoft-azure-for-smarter-personalized-discovery-and/</link>
-      <pubDate>Fri, 21 Apr 2017 12:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/24i-integrates-with-microsoft-azure-for-smarter-personalized-discovery-and/</guid>
-      <description>&lt;p&gt;StreamingMedia.com (press release) Las Vegas &amp;ndash; NAB 2017(4/21/2017) - 24i Media, a leading provider of multi-screen TV apps, announced today that they have integrated the &amp;hellip;  &lt;a href=&#34;http://www.streamingmedia.com/PressRelease/24i-integrates-with-Microsoft-Azure-for-smarter-personalized-discovery-and-user-experience_44314.aspx&#34; onclick=&#34;trackOutboundLink(&#39;http://www.streamingmedia.com/PressRelease/24i-integrates-with-Microsoft-Azure-for-smarter-personalized-discovery-and-user-experience_44314.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
