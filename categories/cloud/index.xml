@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 22 Apr 2017 03:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2017 03:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Google Earth helped Jane Goodall save a generation of chimpanzees</title>
+      <link>//crypt0.net/post/how-google-earth-helped-jane-goodall-save-a-generation-of-chimpanzees/</link>
+      <pubDate>Sat, 22 Apr 2017 03:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-google-earth-helped-jane-goodall-save-a-generation-of-chimpanzees/</guid>
+      <description>&lt;p&gt;Their data was then sent to Google&amp;rsquo;s cloud service where Pintea and JGO colleagues in Tanzania would share it with local stakeholders and decision &amp;hellip;  &lt;a href=&#34;http://www.digitaltrends.com/mobile/how-google-earth-helped-jane-goodall-save-chimps/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digitaltrends.com/mobile/how-google-earth-helped-jane-goodall-save-chimps/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Yesterday Stock Price Swings: Amazon.com, Inc.&#39;s</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/compute-logs-tell-me-live-migration-finished-successfully-when-it-actually/</guid>
       <description>&lt;p&gt;This tells me post live migration at destination failed: &lt;a href=&#34;http://logs.openstack.org/43/458843/1/check/gate-tempest-dsvm-multinode-liv&#34;&gt;http://logs.openstack.org/43/458843/1/check/gate-tempest-dsvm-multinode-liv&lt;/a&gt; e-migration-ubuntu- &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685340&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685340&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MIT Mathematician Spins Up 220000-Core Google Compute Cluster</title>
-      <link>//crypt0.net/post/mit-mathematician-spins-up-220000core-google-compute-cluster/</link>
-      <pubDate>Fri, 21 Apr 2017 18:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mit-mathematician-spins-up-220000core-google-compute-cluster/</guid>
-      <description>&lt;p&gt;Sutherland used Google&amp;rsquo;s cloud to explore generalizations of the Sato-Tate Conjecture and the conjecture of Birch and Swinnerton-Dyer to curves of &amp;hellip;  &lt;a href=&#34;https://www.hpcwire.com/2017/04/21/mit-mathematician-spins-220000-core-google-compute-cluster/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.hpcwire.com/2017/04/21/mit-mathematician-spins-220000-core-google-compute-cluster/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
