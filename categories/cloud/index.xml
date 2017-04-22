@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 22 Apr 2017 03:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2017 04:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack deployments grow 44 percent in 2017</title>
+      <link>//crypt0.net/post/openstack-deployments-grow-44-percent-in-2017/</link>
+      <pubDate>Sat, 22 Apr 2017 04:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-deployments-grow-44-percent-in-2017/</guid>
+      <description>&lt;p&gt;survey. The latest report shows a 44 percent growth in OpenStack &amp;hellip;  &lt;a href=&#34;https://opensourceforu.com/2017/04/openstack-deployments-grow-44-percent-2017/&#34; onclick=&#34;trackOutboundLink(&#39;https://opensourceforu.com/2017/04/openstack-deployments-grow-44-percent-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How Google Earth helped Jane Goodall save a generation of chimpanzees</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/why-azure-is-the-right-platform-to-handle-indias-new-goods-and-services/</guid>
       <description>&lt;p&gt;The Goods and Services Tax (GST) is essentially a new indirect tax system for India which will make the country a unified common market, from the &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/04/21/why-azure-is-the-right-platform-to-handle-indias-new-goods-and-services-tax-system/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/04/21/why-azure-is-the-right-platform-to-handle-indias-new-goods-and-services-tax-system/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>compute logs tell me live migration finished successfully when it actually</title>
-      <link>//crypt0.net/post/compute-logs-tell-me-live-migration-finished-successfully-when-it-actually/</link>
-      <pubDate>Fri, 21 Apr 2017 19:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/compute-logs-tell-me-live-migration-finished-successfully-when-it-actually/</guid>
-      <description>&lt;p&gt;This tells me post live migration at destination failed: &lt;a href=&#34;http://logs.openstack.org/43/458843/1/check/gate-tempest-dsvm-multinode-liv&#34;&gt;http://logs.openstack.org/43/458843/1/check/gate-tempest-dsvm-multinode-liv&lt;/a&gt; e-migration-ubuntu- &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685340&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685340&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

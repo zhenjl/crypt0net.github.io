@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 22 Apr 2017 03:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2017 04:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenStack deployments grow 44 percent in 2017</title>
+      <link>//crypt0.net/post/openstack-deployments-grow-44-percent-in-2017/</link>
+      <pubDate>Sat, 22 Apr 2017 04:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-deployments-grow-44-percent-in-2017/</guid>
+      <description>&lt;p&gt;survey. The latest report shows a 44 percent growth in OpenStack &amp;hellip;  &lt;a href=&#34;https://opensourceforu.com/2017/04/openstack-deployments-grow-44-percent-2017/&#34; onclick=&#34;trackOutboundLink(&#39;https://opensourceforu.com/2017/04/openstack-deployments-grow-44-percent-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BBVA Eyes B2B With First Real-Time Blockchain Payments</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Based on the Ethereum blockchain, Aragon aims to provide a means for establishing governance mechanisms for decentralized companies.  &lt;a href=&#34;https://www.financemagnates.com/cryptocurrency/news/dao-reborn-aragon-launches-crowdsale-decentralized-organizations/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.financemagnates.com/cryptocurrency/news/dao-reborn-aragon-launches-crowdsale-decentralized-organizations/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>openstack-ansible-security: Logic fails for</title>
-      <link>//crypt0.net/post/openstackansiblesecurity-logic-fails-for/</link>
-      <pubDate>Fri, 21 Apr 2017 23:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstackansiblesecurity-logic-fails-for/</guid>
-      <description>&lt;p&gt;machine and got warnings that root login was still allowed although it was set &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685194&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685194&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
