@@ -7,8 +7,214 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 22 Apr 2017 17:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2017 18:05:01 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Daily Cloud Computing News from @cloudfeednet - Apr 22, 2017</title>
+      <link>//crypt0.net/daily/daily-cloud-news-2017-04-22/</link>
+      <pubDate>Sat, 22 Apr 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-cloud-news-2017-04-22/</guid>
+      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;compute logs tell me live migration finished successfully when it actually&lt;/h3&gt;
+&lt;p&gt;This tells me post live migration at destination failed: &lt;a href=&#34;http://logs.openstack.org/43/458843/1/check/gate-tempest-dsvm-multinode-liv&#34;&gt;http://logs.openstack.org/43/458843/1/check/gate-tempest-dsvm-multinode-liv&lt;/a&gt; e-migration-ubuntu- &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685340&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685340&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Mirantis Cloud Platform Combines OpenStack and Kubernetes Container&lt;/h3&gt;
+&lt;p&gt;SDxCentral While MPC will continue to support OpenStack, the launch of the new platform also signals the end of life for Mirantis OpenStack (MOS) and Fuel.  &lt;a href=&#34;https://www.sdxcentral.com/articles/news/mirantis-cloud-platform-combines-openstack-kubernetes-container-management/2017/04/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sdxcentral.com/articles/news/mirantis-cloud-platform-combines-openstack-kubernetes-container-management/2017/04/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Why Azure is the right platform to handle India&amp;rsquo;s new Goods and Services&lt;/h3&gt;
+&lt;p&gt;The Goods and Services Tax (GST) is essentially a new indirect tax system for India which will make the country a unified common market, from the &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/04/21/why-azure-is-the-right-platform-to-handle-indias-new-goods-and-services-tax-system/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/04/21/why-azure-is-the-right-platform-to-handle-indias-new-goods-and-services-tax-system/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;freezer-scheduler doesn&amp;rsquo;t have restart command&lt;/h3&gt;
+&lt;p&gt;scheduler.conf, we should stop freezer-scheduler firstly, and then start &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685192&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685192&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Global Cloud High Performance Computing (HPC) Market 2017- IBM , Microsoft&lt;/h3&gt;
+&lt;p&gt;Publicist Report - Market Research News by Market.Biz (press release) Global Cloud High Performance Computing (HPC) Market 2017 The Worldwide Cloud High Performance Computing (HPC) Report does an extensive &amp;hellip;  &lt;a href=&#34;http://publicistreport.com/market-research/global-cloud-high-performance-computing-hpc-market-2017.html&#34; onclick=&#34;trackOutboundLink(&#39;http://publicistreport.com/market-research/global-cloud-high-performance-computing-hpc-market-2017.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Virtio Fixes Not Backported &amp;ndash;&amp;gt; Google Cloud Platform Drops Packets&lt;/h3&gt;
+&lt;p&gt;related to setting VIRTIO_NET_HDR_F_DATA_VALID on received &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685416&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685416&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;IoT Central is Microsoft&amp;rsquo;s latest IoT as a Service offering&lt;/h3&gt;
+&lt;p&gt;Microsoft has also announced that it will be offering Azure Stream Analytics to edge devices thus making it easier for new IoT devices and is also &amp;hellip;  &lt;a href=&#34;http://news.thewindowsclub.com/iot-central-is-microsofts-latest-iot-as-a-service-offering-89494/&#34; onclick=&#34;trackOutboundLink(&#39;http://news.thewindowsclub.com/iot-central-is-microsofts-latest-iot-as-a-service-offering-89494/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;5 Reasons Why Microsoft Azure is the Best Choice for Building Your Career&lt;/h3&gt;
+&lt;p&gt;5 Reasons Why Microsoft Azure is the Best Choice for Building Your Career in Cloud Computing. By adopting cloud technology, companies are now &amp;hellip;  &lt;a href=&#34;https://techcommunity.microsoft.com/t5/Azure/5-Reasons-Why-Microsoft-Azure-is-the-Best-Choice-for-Building/m-p/63913&#34; onclick=&#34;trackOutboundLink(&#39;https://techcommunity.microsoft.com/t5/Azure/5-Reasons-Why-Microsoft-Azure-is-the-Best-Choice-for-Building/m-p/63913&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;openstack-ansible-security: Logic fails for&lt;/h3&gt;
+&lt;p&gt;machine and got warnings that root login was still allowed although it was set &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685194&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685194&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Cloud &amp;amp; YouTube-8M Video Understanding Challenge&lt;/h3&gt;
+&lt;p&gt;the best video tag predictions? Google Cloud  467 teams  a month &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/31908/training-on-validation-data?forumMessageId=176811&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/31908/training-on-validation-data?forumMessageId=176811&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;OpenStack Distances Itself from Intel-Rackspace Bad Press&lt;/h3&gt;
+&lt;p&gt;OpenStack deployments are getting bigger in terms of scale, according to new survey results from OpenStack. The survey results also show that the &amp;hellip;  &lt;a href=&#34;https://www.sdxcentral.com/articles/news/openstack-distances-inte-rackspace-press/2017/04/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sdxcentral.com/articles/news/openstack-distances-inte-rackspace-press/2017/04/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Amazon blazes a trail to the next frontier in AI: the cloud&lt;/h3&gt;
+&lt;p&gt;The next step is using the Amazon Web Services cloud to spread machine learning to the developer masses, by lowering the cost and friction of using &amp;hellip;  &lt;a href=&#34;http://siliconangle.com/blog/2017/04/22/amazon-blazes-trail-next-frontier-ai-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://siliconangle.com/blog/2017/04/22/amazon-blazes-trail-next-frontier-ai-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Cloud Platform Customer Case Studies&lt;/h3&gt;
+&lt;p&gt;Cloud Platform.  &lt;a href=&#34;https://forum.equinix.com/insights/gcp-customer-case-studies/cloud-services&#34; onclick=&#34;trackOutboundLink(&#39;https://forum.equinix.com/insights/gcp-customer-case-studies/cloud-services&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Yesterday Stock Price Swings: Amazon.com, Inc.&amp;rsquo;s&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; and www.amazon.com.mx. The Company operates through three segments: North America, International and Amazon Web Services (AWS).  &lt;a href=&#34;http://aliveforfootball.com/2017/04/yesterday-stock-price-swings-amazon-com-inc-s/&#34; onclick=&#34;trackOutboundLink(&#39;http://aliveforfootball.com/2017/04/yesterday-stock-price-swings-amazon-com-inc-s/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;How Google Earth helped Jane Goodall save a generation of chimpanzees&lt;/h3&gt;
+&lt;p&gt;Their data was then sent to Google&amp;rsquo;s cloud service where Pintea and JGO colleagues in Tanzania would share it with local stakeholders and decision &amp;hellip;  &lt;a href=&#34;http://www.digitaltrends.com/mobile/how-google-earth-helped-jane-goodall-save-chimps/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digitaltrends.com/mobile/how-google-earth-helped-jane-goodall-save-chimps/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;OpenStack deployments grow 44 percent in 2017&lt;/h3&gt;
+&lt;p&gt;survey. The latest report shows a 44 percent growth in OpenStack &amp;hellip;  &lt;a href=&#34;https://opensourceforu.com/2017/04/openstack-deployments-grow-44-percent-2017/&#34; onclick=&#34;trackOutboundLink(&#39;https://opensourceforu.com/2017/04/openstack-deployments-grow-44-percent-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft announces Microsoft IoT Central, a new SaaS solution to simplify&lt;/h3&gt;
+&lt;p&gt;Alive For Football Enabling new scenarios Azure IoT Hub, a core Azure service that connects, monitors and updates IoT devices, has enabled customers to connect &amp;hellip;  &lt;a href=&#34;http://aliveforfootball.com/2017/04/microsoft-announces-microsoft-iot-central-a-new-saas/&#34; onclick=&#34;trackOutboundLink(&#39;http://aliveforfootball.com/2017/04/microsoft-announces-microsoft-iot-central-a-new-saas/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Azure Gets More Serious About Rivalry, To Get Big On IoT Space&lt;/h3&gt;
+&lt;p&gt;University Herald Microsoft Azure is about to get another big boost this week. The company has just announced an expansion of its Azure cloud services, adding a new &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/73634/20170422/microsoft-microsoft-azure-azure-cloud-cloud-computing-cloud-services-saas-applications-microsoft-azure-news-azure-news-microsoft-azure-updates-microsoft-tech-news-cloud-computing-news.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/73634/20170422/microsoft-microsoft-azure-azure-cloud-cloud-computing-cloud-services-saas-applications-microsoft-azure-news-azure-news-microsoft-azure-updates-microsoft-tech-news-cloud-computing-news.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Amazon Offers AI Technology Powering Alexa to AWS Users&lt;/h3&gt;
+&lt;p&gt;Amazon.com, Inc. &amp;rsquo;s AMZN Amazon Web Services (AWS) has made Amazon Lex, the machine learning technology behind Alexa, available to all &amp;hellip;  &lt;a href=&#34;http://www.nasdaq.com/article/amazon-offers-ai-technology-powering-alexa-to-aws-users-cm777209&#34; onclick=&#34;trackOutboundLink(&#39;http://www.nasdaq.com/article/amazon-offers-ai-technology-powering-alexa-to-aws-users-cm777209&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Avid Announces Strategic Cloud Alliance with Microsoft for the Media and&lt;/h3&gt;
+&lt;p&gt;EconoTimes A technology demonstration of the Microsoft Azure hosted Avid MediaCentral Platform with select Avid tools and media workflow solutions will be &amp;hellip;  &lt;a href=&#34;http://www.econotimes.com/Avid-Announces-Strategic-Cloud-Alliance-with-Microsoft-for-the-Media-and-Entertainment-Industry-656347&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/Avid-Announces-Strategic-Cloud-Alliance-with-Microsoft-for-the-Media-and-Entertainment-Industry-656347&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Google Cloud &amp;amp; YouTube-8M Video Understanding Challenge&lt;/h3&gt;
+&lt;p&gt;the best video tag predictions? Google Cloud  471 teams  a month &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/29917/parameter-changes-on-the-next-checkpoint?forumMessageId=176927&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/29917/parameter-changes-on-the-next-checkpoint?forumMessageId=176927&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;GDG Njikoka Google Cloud Next Extended&lt;/h3&gt;
+&lt;p&gt;their web, mobile and backend solutions. Google Cloud Platform Next 17 &amp;hellip;  &lt;a href=&#34;https://developers.google.com/events/6660147977650176/&#34; onclick=&#34;trackOutboundLink(&#39;https://developers.google.com/events/6660147977650176/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Bug #1685534 Unit tests for RHEL OpenStack need to be changed n&amp;hellip;&lt;/h3&gt;
+&lt;p&gt;Alias files for IPv4 have fallen out of favor and alias files for IPv6 do not work.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685534&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685534&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily IoT/Blockchain News from @surgethings - Apr 22, 2017</title>
+      <link>//crypt0.net/daily/daily-iot-news-2017-04-22/</link>
+      <pubDate>Sat, 22 Apr 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-iot-news-2017-04-22/</guid>
+      <description>&lt;p&gt;Daily IoT/Blockchain news from &lt;a href=&#34;http://twitter.com/surgethings&#34;&gt;@surgethings&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Vodafone becomes first IoT mobile provider to exceed 50 mn connections&lt;/h3&gt;
+&lt;p&gt;NEW DELHI: Vodafone has emerged as the first global Internet of Things (IoT) mobile provider to exceed 50 million connections as of February 2017, &amp;hellip;  &lt;a href=&#34;http://telecom.economictimes.indiatimes.com/news/vodafone-becomes-first-iot-mobile-provider-to-exceed-50-mn-connections/58297249&#34; onclick=&#34;trackOutboundLink(&#39;http://telecom.economictimes.indiatimes.com/news/vodafone-becomes-first-iot-mobile-provider-to-exceed-50-mn-connections/58297249&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;2017 to be year of IoT implementation&lt;/h3&gt;
+&lt;p&gt;Following a significant amount of activity surrounding the Industrial Internet of Things (IIoT) over the past 18 months, 2017 is tipped to be the year &amp;hellip;  &lt;a href=&#34;http://www.themanufacturer.com/articles/2017-year-iot-implementation/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.themanufacturer.com/articles/2017-year-iot-implementation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Smart Home Internet Of Things Connected Modern House With Technnology stock&lt;/h3&gt;
+&lt;p&gt;Download this Smart Home Internet Of Things Connected Modern House With Technnology vector illustration now. And search more of the web&amp;rsquo;s best &amp;hellip;  &lt;a href=&#34;http://www.istockphoto.com/vector/smart-home-internet-of-things-connected-modern-house-with-technnology-gm670621818-122883095&#34; onclick=&#34;trackOutboundLink(&#39;http://www.istockphoto.com/vector/smart-home-internet-of-things-connected-modern-house-with-technnology-gm670621818-122883095&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Making the Case for Bitcoin as Legal Property&lt;/h3&gt;
+&lt;p&gt;The report was assembled by Perkins Coie, an international law firm that specializes in blockchain technology and digital currency and has been &amp;hellip;  &lt;a href=&#34;https://bitcoinmagazine.com/articles/making-case-bitcoin-legal-property/&#34; onclick=&#34;trackOutboundLink(&#39;https://bitcoinmagazine.com/articles/making-case-bitcoin-legal-property/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Demand for Data Scientists Increases with Introduction of Latest Finance&lt;/h3&gt;
+&lt;p&gt;University Herald Bitcoin Center in New York The latest finance technology uses bitcoins as digital currency. Bitcoin transactions are recorded in blockchain which is &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/73462/20170421/demand-for-data-scientists-increases-with-introduction-of-latest-finance-technology-video.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/73462/20170421/demand-for-data-scientists-increases-with-introduction-of-latest-finance-technology-video.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Internet of Things spreads to pet technology&lt;/h3&gt;
+&lt;p&gt;For the past few years, the internet of things  gadgets for health and well-being- have exploded onto the market and have so far mainly target &amp;hellip;  &lt;a href=&#34;https://america.cgtn.com/2017/04/21/internet-of-things-spreads-to-pet-technology&#34; onclick=&#34;trackOutboundLink(&#39;https://america.cgtn.com/2017/04/21/internet-of-things-spreads-to-pet-technology&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;SolarCoin, Blockchain and Utilities Industry Data Storage challenges&lt;/h3&gt;
+&lt;p&gt;electricity industry  and data storage.  &lt;a href=&#34;https://www.cds.net/blog/2017/04/solarcoin-blockchain-data-storage/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cds.net/blog/2017/04/solarcoin-blockchain-data-storage/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;TRAI to begin groundwork on next spectrum auction, TSPs not too keen yet&lt;/h3&gt;
+&lt;p&gt;The 5G airwaves are expected to be used for services like machine-to-machine communication, Internet of Things and even connected smart cities.  &lt;a href=&#34;http://www.indiantelevision.com/regulators/trai/trai-to-begin-groundwork-on-next-spectrum-auction-tsps-not-too-keen-yet-170422&#34; onclick=&#34;trackOutboundLink(&#39;http://www.indiantelevision.com/regulators/trai/trai-to-begin-groundwork-on-next-spectrum-auction-tsps-not-too-keen-yet-170422&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;The Growing Importance of the Internet of Things&lt;/h3&gt;
+&lt;p&gt;The Internet of Things (IoT) is becoming a prominent factor of our complex I nternet infrastructure. A report by Research Nester projects that the global I &amp;hellip;  &lt;a href=&#34;http://www.stockhouse.com/news/press-releases/2017/04/21/the-growing-importance-of-the-internet-of-things&#34; onclick=&#34;trackOutboundLink(&#39;http://www.stockhouse.com/news/press-releases/2017/04/21/the-growing-importance-of-the-internet-of-things&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;IOTA Tangle Takes the Blocks Out of Peer-to-Peer, Distributed Ledger&lt;/h3&gt;
+&lt;p&gt;Microgrid Media That means even transactions of minimal value can be processed. That can be useful in the world of machine-to-machine (M2M) and IoT transactions, &amp;hellip;  &lt;a href=&#34;http://microgridmedia.com/iota-tangle-takes-blocks-peer-peer-distributed-ledger-networks/&#34; onclick=&#34;trackOutboundLink(&#39;http://microgridmedia.com/iota-tangle-takes-blocks-peer-peer-distributed-ledger-networks/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;IOTA Tangle Takes the Blocks Out of Peer-to-Peer, Distributed Ledger&lt;/h3&gt;
+&lt;p&gt;Microgrid Media Early this year, Singapore-based Blockchainfirst combined blockchain and Internet of Things (IoT) technology in launching an EV/multipurpose &amp;hellip;  &lt;a href=&#34;http://microgridmedia.com/iota-tangle-takes-blocks-peer-peer-distributed-ledger-networks/&#34; onclick=&#34;trackOutboundLink(&#39;http://microgridmedia.com/iota-tangle-takes-blocks-peer-peer-distributed-ledger-networks/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;The DAO Reborn? Aragon Launches Crowdsale for Decentralized Organizations&lt;/h3&gt;
+&lt;p&gt;Based on the Ethereum blockchain, Aragon aims to provide a means for establishing governance mechanisms for decentralized companies.  &lt;a href=&#34;https://www.financemagnates.com/cryptocurrency/news/dao-reborn-aragon-launches-crowdsale-decentralized-organizations/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.financemagnates.com/cryptocurrency/news/dao-reborn-aragon-launches-crowdsale-decentralized-organizations/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;$-0.14 EPS Expected for TESSCO Technologies, Inc. (TESS); Tor Minerals&lt;/h3&gt;
+&lt;p&gt;Thorold News &amp;hellip; organizations responsible for building, operating, maintaining and reselling cellular, mobile communications, wireless-fidelity , machine-to-machine, &amp;hellip;  &lt;a href=&#34;http://www.whatsonthorold.com/2017/04/21/0-14-eps-expected-for-tessco-technologies-inc-tess-tor-minerals-international-torm-shorts-down-by-14-29/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.whatsonthorold.com/2017/04/21/0-14-eps-expected-for-tessco-technologies-inc-tess-tor-minerals-international-torm-shorts-down-by-14-29/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Virtual Currencies Could Spread Financial Inclusion, Mobile Phone By Mobile&lt;/h3&gt;
+&lt;p&gt;Forbes Such was the case with Coins, a mobile-first, blockchain-based platform that facilitates remittances, bill payments, and mobile airtime top-ups.  &lt;a href=&#34;https://www.forbes.com/sites/chynes/2017/04/21/virtual-currencies-could-spread-financial-inclusion-one-mobile-phone-at-a-time/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forbes.com/sites/chynes/2017/04/21/virtual-currencies-could-spread-financial-inclusion-one-mobile-phone-at-a-time/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Neither SegWit Nor BU Can Activate: Interview With Rhett Creighton&lt;/h3&gt;
+&lt;p&gt;Cointelegraph spoke to Rhett Creighton, Blockchain engineer and hacker, who with the Bitcoin Unlimited Camp, but left a few weeks ago about the &amp;hellip;  &lt;a href=&#34;https://cointelegraph.com/news/neither-segwit-nor-bu-can-activate-interview-with-rhett-creighton&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/neither-segwit-nor-bu-can-activate-interview-with-rhett-creighton&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Ten firms that can make Cambridge smarter using IoT&lt;/h3&gt;
+&lt;p&gt;Ten companies with the potential to make Cambridge smarter have reached the final of an Internet of Things (IoT) competition run by Cambridge &amp;hellip;  &lt;a href=&#34;http://www.cambridge-news.co.uk/business/technology/ten-firms-can-make-cambridge-12927904&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cambridge-news.co.uk/business/technology/ten-firms-can-make-cambridge-12927904&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Middle East and North Africa Slow to Adopt FinTech, Say Experts&lt;/h3&gt;
+&lt;p&gt;Even though fintech is reported as taking off slow in the Middle East, Dubai is becoming quite the innovator when it comes to blockchain adoption and &amp;hellip;  &lt;a href=&#34;https://www.cryptocoinsnews.com/middle-east-north-africa-slow-adopt-fintech-say-experts/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cryptocoinsnews.com/middle-east-north-africa-slow-adopt-fintech-say-experts/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;BBVA Eyes B2B With First Real-Time Blockchain Payments&lt;/h3&gt;
+&lt;p&gt;Spain&amp;rsquo;s number-two bank, Banco Bilbao Vizcaya Argentaria, or BBVA, said Friday (April 21) that it has successfully completed its first cross-border &amp;hellip;  &lt;a href=&#34;http://www.pymnts.com/news/b2b-payments/2017/bbva-real-time-cross-border-blockchain-ripple-payment-b2b-reconciliation/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pymnts.com/news/b2b-payments/2017/bbva-real-time-cross-border-blockchain-ripple-payment-b2b-reconciliation/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Releases SaaS Package to Accelerate Enterprise IoT Projects&lt;/h3&gt;
+&lt;p&gt;Microsoft&amp;rsquo;s portfolio of cloud-based enterprise Internet of Things (IoT) solutions is about to get bigger. The company that it is readying a new software &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/enterprise-apps/microsoft-releases-saas-package-to-accelerate-enterprise-iot-projects&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/enterprise-apps/microsoft-releases-saas-package-to-accelerate-enterprise-iot-projects&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Edited Transcript of SOW.DE earnings conference call or presentation&lt;/h3&gt;
+&lt;p&gt;Yahoo Finance And the Internet of Things, called the Industrial Internet in the U.S. or Industry 4.0 in Germany, in conjunction with artificial intelligence and machine &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/edited-transcript-sow-earnings-conference-114440191.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/edited-transcript-sow-earnings-conference-114440191.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Why Europe and China are Ahead of US in Blockchain Development&lt;/h3&gt;
+&lt;p&gt;The US is falling behind China and Europe in blockchain development primarily due to the lack of regulatory frameworks. With a practical approach &amp;hellip;  &lt;a href=&#34;http://insidebitcoins.com/news/why-europe-and-china-are-ahead-of-us-in-blockchain-development/43637&#34; onclick=&#34;trackOutboundLink(&#39;http://insidebitcoins.com/news/why-europe-and-china-are-ahead-of-us-in-blockchain-development/43637&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Generosity without borders: eco-conscious nonprofits that accept bitcoin&lt;/h3&gt;
+&lt;p&gt;As they occur, every bitcoin transaction is recorded on the block chain, which is transparent and publicly accessible (here&amp;rsquo;s a transaction to check out &amp;hellip;  &lt;a href=&#34;http://insidebitcoins.com/news/generosity-without-borders-eco-conscious-nonprofits-that-accept-bitcoin/43791&#34; onclick=&#34;trackOutboundLink(&#39;http://insidebitcoins.com/news/generosity-without-borders-eco-conscious-nonprofits-that-accept-bitcoin/43791&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Bitcoin Price Watch; Closing Out The Week On A High&lt;/h3&gt;
+&lt;p&gt;Right then. Here we go on our final analysis of the week, and it&amp;rsquo;s going to be a pretty interesting one. The bitcoin price has given us lots to discuss this &amp;hellip;  &lt;a href=&#34;http://insidebitcoins.com/news/bitcoin-price-watch-closing-out-the-week-on-a-high/43682&#34; onclick=&#34;trackOutboundLink(&#39;http://insidebitcoins.com/news/bitcoin-price-watch-closing-out-the-week-on-a-high/43682&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft adds Software-as-a-Service to its Internet of Things offerings&lt;/h3&gt;
+&lt;p&gt;Microsoft has launched an &amp;lsquo;as-a-service&amp;rsquo; offering called IoT Central aimed at mid-sized enterprises who aim to deploy an Internet of Things project but &amp;hellip;  &lt;a href=&#34;http://www.telecomtv.com/articles/iot/microsoft-adds-software-as-a-service-to-its-internet-of-things-offerings-15580/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.telecomtv.com/articles/iot/microsoft-adds-software-as-a-service-to-its-internet-of-things-offerings-15580/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;10 Upcoming Fintech Events in Switzerland&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; scheduled in the coming months that will tackle some of the hottest trends in the financial technology sector including cryptocurrencies, blockchain, &amp;hellip;  &lt;a href=&#34;http://insidebitcoins.com/news/10-upcoming-fintech-events-in-switzerland/43672&#34; onclick=&#34;trackOutboundLink(&#39;http://insidebitcoins.com/news/10-upcoming-fintech-events-in-switzerland/43672&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Bitcoin-Powered Mobile App BitMaker Has Quietly Amassed 250000 Active Users&lt;/h3&gt;
+&lt;p&gt;Over the past couple of years, a Bitcoin-powered mobile application developed by Seattle-based blockchain adtech and payments company &amp;hellip;  &lt;a href=&#34;https://bitcoinmagazine.com/articles/bitcoin-powered-mobile-app-bitmaker-has-quietly-amassed-250000-active-users/&#34; onclick=&#34;trackOutboundLink(&#39;https://bitcoinmagazine.com/articles/bitcoin-powered-mobile-app-bitmaker-has-quietly-amassed-250000-active-users/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;You Can Link Monero Transactions  But Which? And What&amp;rsquo;s the Impact?&lt;/h3&gt;
+&lt;p&gt;But the caveat is that the findings presented in the paper and website only apply to the monero blockchain from 2014 to 2016, and no longer hold from &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/monero-link-transactions-debate/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/monero-link-transactions-debate/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Vermont Sees Rural Broadband Service Expansions&lt;/h3&gt;
+&lt;p&gt;The malware attacks Internet of Things (IoT) devices that are only secured by their default usernames and passwords, says ZDNet. When it finds such &amp;hellip;  &lt;a href=&#34;http://www.itbusinessedge.com/blogs/data-and-telecom/vermont-sees-rural-broadband-service-expansions.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itbusinessedge.com/blogs/data-and-telecom/vermont-sees-rural-broadband-service-expansions.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Agrello Will Build An AI-Driven Smart Contract Interface On The Qtum&lt;/h3&gt;
+&lt;p&gt;Live Bitcoin News The Qtum project continues to spark the imagination of developers and investors alike. Estonian blockchain startup Agrello has taken a keen interest &amp;hellip;  &lt;a href=&#34;http://www.livebitcoinnews.com/agrello-will-build-ai-driven-smart-contract-interface-qtum-blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.livebitcoinnews.com/agrello-will-build-ai-driven-smart-contract-interface-qtum-blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;INTCoin Sets June 7 Launch Date, Featuring Anonymity and Speed of Payment&lt;/h3&gt;
+&lt;p&gt;The coin was developed by an international team from Seoul, South Korea, the United States and China experienced in fintech, blockchain and digital &amp;hellip;  &lt;a href=&#34;https://www.cryptocoinsnews.com/intcoin-sets-june-7-launch-date-featuring-anonymity-speed-payment/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cryptocoinsnews.com/intcoin-sets-june-7-launch-date-featuring-anonymity-speed-payment/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;TiTAN Platform Announces Open Global Content Services with New Content&lt;/h3&gt;
+&lt;p&gt;PR Newswire (press release) &amp;hellip; showcase its first-in-class clueworks 5 &amp;ldquo;Smart Home Core&amp;rdquo; device which provides dynamic content services and gateways to IoT (Internet of Things), &amp;hellip;  &lt;a href=&#34;http://www.prnewswire.com/news-releases/titan-platform-announces-open-global-content-services-with-new-content-protection-for-broadcasters-and-creators-at-2017-nab-show-300443499.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prnewswire.com/news-releases/titan-platform-announces-open-global-content-services-with-new-content-protection-for-broadcasters-and-creators-at-2017-nab-show-300443499.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;First European Blockchain for Healthcare conference #bc4hc on 31 May 2017&lt;/h3&gt;
+&lt;p&gt;CoinDesk The first European Blockchain for Healthcare conference is targeted at C-level executives from the healthcare and health insurance industries as well &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/press-releases/first-european-blockchain-healthcare-conference-bc4hc-31-may-2017-berlin/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/press-releases/first-european-blockchain-healthcare-conference-bc4hc-31-may-2017-berlin/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Organic Crypto Money vs. Debt Zombie&amp;rsquo;s Fiat: Lessons of Biomimetics&lt;/h3&gt;
+&lt;p&gt;With the arrival of Bitcoin and Blockchain, we finally have a cure for the ailments of a techno-biological ecosystem chronically out of balance.  &lt;a href=&#34;https://cointelegraph.com/news/organic-crypto-money-vs-debt-zombies-fiat-lessons-of-biomimetics&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/organic-crypto-money-vs-debt-zombies-fiat-lessons-of-biomimetics&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;MultiTech Sponsors Internet of Things: From Prototype to Production&lt;/h3&gt;
+&lt;p&gt;Press Release Rocket WHAT: Sponsored by MultiTech, the IoT-Prototype to Production Workshop, held in conjunction with the Techwell&amp;rsquo;s IoT + Dev conference, &amp;hellip;  &lt;a href=&#34;http://www.pressreleaserocket.net/multitech-sponsors-internet-of-things-from-prototype-to-production-tutorial-at-techwells-iot-dev-conference/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.pressreleaserocket.net/multitech-sponsors-internet-of-things-from-prototype-to-production-tutorial-at-techwells-iot-dev-conference/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Global &amp;amp; US Cellular Machine-to-Machine Market Analysis by T&lt;/h3&gt;
+&lt;p&gt;Industry Overview, Supply and Consumption Demand Analysis to &amp;hellip;  &lt;a href=&#34;http://www.wvalways.com/story/35212367/global-amp-us-cellular-machine-to-machine-market-analysis-by-top-key-players-industry-overview-supply-and-consumption-demand-analysis-to-2021&#34; onclick=&#34;trackOutboundLink(&#39;http://www.wvalways.com/story/35212367/global-amp-us-cellular-machine-to-machine-market-analysis-by-top-key-players-industry-overview-supply-and-consumption-demand-analysis-to-2021&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;#SpaceWatchME Forecast: SpaceForum 2017  To the Conquest of Space&lt;/h3&gt;
+&lt;p&gt; From Earth observation to the Internet of Things, including connectivity, navigation service, geo-localization etc., data management is the cornerstone &amp;hellip;  &lt;a href=&#34;https://spacewatchme.com/2017/04/spacewatchme-forecast-spaceforum-2017-conquest-space/&#34; onclick=&#34;trackOutboundLink(&#39;https://spacewatchme.com/2017/04/spacewatchme-forecast-spaceforum-2017-conquest-space/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Vodafone crosses 50 million IoT connections !!&lt;/h3&gt;
+&lt;p&gt;&amp;hellip; 50 million IoT connections  The UK-based tele communications firm, Vodafone has now become the leading IoT (Internet of Things) moile provider.  &lt;a href=&#34;https://factspress.com/technology/vodafone-crosses-50-million-iot-connections/611/&#34; onclick=&#34;trackOutboundLink(&#39;https://factspress.com/technology/vodafone-crosses-50-million-iot-connections/611/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Microsoft Azure Gets More Serious About Rivalry, To Get Big On IoT Space&lt;/h3&gt;
+&lt;p&gt;University Herald The company has just announced an expansion of its Azure cloud services, adding a new cloud-based enterprise Internet of Things (IoT) solutions to &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/73634/20170422/microsoft-microsoft-azure-azure-cloud-cloud-computing-cloud-services-saas-applications-microsoft-azure-news-azure-news-microsoft-azure-updates-microsoft-tech-news-cloud-computing-news.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/73634/20170422/microsoft-microsoft-azure-azure-cloud-cloud-computing-cloud-services-saas-applications-microsoft-azure-news-azure-news-microsoft-azure-updates-microsoft-tech-news-cloud-computing-news.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Huntkey Presented A Wide Variety of Industrial Power Supplies at Global&lt;/h3&gt;
+&lt;p&gt;SYS-CON Media (press release) The Internet of Things is clearly many things: data collection and analytics, wearables, Smart Grids and Smart Cities, the Industrial Internet, and more.  &lt;a href=&#34;http://news.sys-con.com/node/4062765&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/4062765&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Huntkey Presented A Wide Variety of Industrial Power Supplies at Global</title>
@@ -163,30 +369,6 @@
       <description>&lt;p&gt;Amazon.com, Inc. &amp;rsquo;s AMZN Amazon Web Services (AWS) has made Amazon Lex, the machine learning technology behind Alexa, available to all &amp;hellip;  &lt;a href=&#34;http://www.nasdaq.com/article/amazon-offers-ai-technology-powering-alexa-to-aws-users-cm777209&#34; onclick=&#34;trackOutboundLink(&#39;http://www.nasdaq.com/article/amazon-offers-ai-technology-powering-alexa-to-aws-users-cm777209&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>TiTAN Platform Announces Open Global Content Services with New Content</title>
-      <link>//crypt0.net/post/titan-platform-announces-open-global-content-services-with-new-content/</link>
-      <pubDate>Sat, 22 Apr 2017 08:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/titan-platform-announces-open-global-content-services-with-new-content/</guid>
-      <description>&lt;p&gt;PR Newswire (press release) &amp;hellip; showcase its first-in-class clueworks 5 &amp;ldquo;Smart Home Core&amp;rdquo; device which provides dynamic content services and gateways to IoT (Internet of Things), &amp;hellip;  &lt;a href=&#34;http://www.prnewswire.com/news-releases/titan-platform-announces-open-global-content-services-with-new-content-protection-for-broadcasters-and-creators-at-2017-nab-show-300443499.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.prnewswire.com/news-releases/titan-platform-announces-open-global-content-services-with-new-content-protection-for-broadcasters-and-creators-at-2017-nab-show-300443499.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Agrello Will Build An AI-Driven Smart Contract Interface On The Qtum</title>
-      <link>//crypt0.net/post/agrello-will-build-an-aidriven-smart-contract-interface-on-the-qtum/</link>
-      <pubDate>Sat, 22 Apr 2017 07:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/agrello-will-build-an-aidriven-smart-contract-interface-on-the-qtum/</guid>
-      <description>&lt;p&gt;Live Bitcoin News The Qtum project continues to spark the imagination of developers and investors alike. Estonian blockchain startup Agrello has taken a keen interest &amp;hellip;  &lt;a href=&#34;http://www.livebitcoinnews.com/agrello-will-build-ai-driven-smart-contract-interface-qtum-blockchain/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.livebitcoinnews.com/agrello-will-build-ai-driven-smart-contract-interface-qtum-blockchain/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
