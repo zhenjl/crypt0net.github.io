@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 23 Apr 2017 15:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Apr 2017 15:50:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Build of tensor flow r1.1 w/ Google Cloud option enabled fails</title>
+      <link>//crypt0.net/post/build-of-tensor-flow-r11-w-google-cloud-option-enabled-fails/</link>
+      <pubDate>Sun, 23 Apr 2017 15:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/build-of-tensor-flow-r11-w-google-cloud-option-enabled-fails/</guid>
+      <description>&lt;p&gt;incompatible C++ header and code #9392. Open. tr8dr opened this Issue 8 minutes ago &amp;hellip;  &lt;a href=&#34;https://github.com/tensorflow/tensorflow/issues/9392&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/tensorflow/tensorflow/issues/9392&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Web Services hunts for Australian Microsoft sales lead</title>
@@ -240,18 +252,6 @@
       
       <guid>//crypt0.net/post/avid-announces-strategic-cloud-alliance-with-microsoft-for-the-media-and/</guid>
       <description>&lt;p&gt;EconoTimes A technology demonstration of the Microsoft Azure hosted Avid MediaCentral Platform with select Avid tools and media workflow solutions will be &amp;hellip;  &lt;a href=&#34;http://www.econotimes.com/Avid-Announces-Strategic-Cloud-Alliance-with-Microsoft-for-the-Media-and-Entertainment-Industry-656347&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/Avid-Announces-Strategic-Cloud-Alliance-with-Microsoft-for-the-Media-and-Entertainment-Industry-656347&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Offers AI Technology Powering Alexa to AWS Users</title>
-      <link>//crypt0.net/post/amazon-offers-ai-technology-powering-alexa-to-aws-users/</link>
-      <pubDate>Sat, 22 Apr 2017 08:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-offers-ai-technology-powering-alexa-to-aws-users/</guid>
-      <description>&lt;p&gt;Amazon.com, Inc. &amp;rsquo;s AMZN Amazon Web Services (AWS) has made Amazon Lex, the machine learning technology behind Alexa, available to all &amp;hellip;  &lt;a href=&#34;http://www.nasdaq.com/article/amazon-offers-ai-technology-powering-alexa-to-aws-users-cm777209&#34; onclick=&#34;trackOutboundLink(&#39;http://www.nasdaq.com/article/amazon-offers-ai-technology-powering-alexa-to-aws-users-cm777209&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
