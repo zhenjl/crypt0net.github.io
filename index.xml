@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 23 Apr 2017 18:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Apr 2017 19:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Xenial containers fail to apply sysctl (procps)</title>
+      <link>//crypt0.net/post/xenial-containers-fail-to-apply-sysctl-procps/</link>
+      <pubDate>Sun, 23 Apr 2017 19:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/xenial-containers-fail-to-apply-sysctl-procps/</guid>
+      <description>&lt;p&gt;Xenial LXC containers because the /proc/sys directory is not read-write inside the &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685677&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685677&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Aussie enterprises reactive to security needs to combat data breaches</title>
@@ -257,18 +269,6 @@
       
       <guid>//crypt0.net/post/hajime-worm-seeks-out-vulnerable-smart-devices/</guid>
       <description>&lt;p&gt;CCTV systems, routers, digital video recorders and other internet-of-things (IoT) devices are now believed to be harbouring the Hajime worm.  &lt;a href=&#34;http://bwcio.businessworld.in/article/Hajime-worm-seeks-out-vulnerable-smart-devices/24-04-2017-116853/&#34; onclick=&#34;trackOutboundLink(&#39;http://bwcio.businessworld.in/article/Hajime-worm-seeks-out-vulnerable-smart-devices/24-04-2017-116853/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PwC Report: 88% of Global Banks Sweat over Losing Revenue to FinTech Firms</title>
-      <link>//crypt0.net/post/pwc-report-88-of-global-banks-sweat-over-losing-revenue-to-fintech-firms/</link>
-      <pubDate>Sun, 23 Apr 2017 12:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/pwc-report-88-of-global-banks-sweat-over-losing-revenue-to-fintech-firms/</guid>
-      <description>&lt;p&gt;While blockchain was initially explored by the financial services sector, the potential of this technology is now being realized by all sectors, including &amp;hellip;  &lt;a href=&#34;https://www.cryptocoinsnews.com/pwc-report-global-banks-fintech-concern/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cryptocoinsnews.com/pwc-report-global-banks-fintech-concern/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

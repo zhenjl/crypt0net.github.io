@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 23 Apr 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Apr 2017 19:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Xenial containers fail to apply sysctl (procps)</title>
+      <link>//crypt0.net/post/xenial-containers-fail-to-apply-sysctl-procps/</link>
+      <pubDate>Sun, 23 Apr 2017 19:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/xenial-containers-fail-to-apply-sysctl-procps/</guid>
+      <description>&lt;p&gt;Xenial LXC containers because the /proc/sys directory is not read-write inside the &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685677&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685677&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Apr 23, 2017</title>
@@ -268,18 +280,6 @@
       
       <guid>//crypt0.net/post/bug-1685534-unit-tests-for-rhel-openstack-need-to-be-changed-n/</guid>
       <description>&lt;p&gt;Alias files for IPv4 have fallen out of favor and alias files for IPv6 do not work.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685534&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685534&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>GDG Njikoka Google Cloud Next Extended</title>
-      <link>//crypt0.net/post/gdg-njikoka-google-cloud-next-extended/</link>
-      <pubDate>Sat, 22 Apr 2017 13:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/gdg-njikoka-google-cloud-next-extended/</guid>
-      <description>&lt;p&gt;their web, mobile and backend solutions. Google Cloud Platform Next 17 &amp;hellip;  &lt;a href=&#34;https://developers.google.com/events/6660147977650176/&#34; onclick=&#34;trackOutboundLink(&#39;https://developers.google.com/events/6660147977650176/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
