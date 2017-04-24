@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 24 Apr 2017 00:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2017 00:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Announcing new Azure Services in the UK</title>
+      <link>//crypt0.net/post/announcing-new-azure-services-in-the-uk/</link>
+      <pubDate>Mon, 24 Apr 2017 00:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/announcing-new-azure-services-in-the-uk/</guid>
+      <description>&lt;p&gt;Microsoft Azure Import/Export Service to transfer data to Blob Storage.  &lt;a href=&#34;https://azure.microsoft.com/en-us/blog/announcing-new-azure-services-in-the-uk/&#34; onclick=&#34;trackOutboundLink(&#39;https://azure.microsoft.com/en-us/blog/announcing-new-azure-services-in-the-uk/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>&#39;Watch your back, Jeff Bezos&#39;: Amazon sparks laughs on HBO&#39;s &#39;Silicon</title>
@@ -201,18 +213,6 @@
       
       <guid>//crypt0.net/post/build-3059-k8s-provisioning-failure-with-ansible/</guid>
       <description>&lt;p&gt;contrail-ansible package available with the build. It is expecting &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685661&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685661&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Build of tensor flow r1.1 w/ Google Cloud option enabled fails</title>
-      <link>//crypt0.net/post/build-of-tensor-flow-r11-w-google-cloud-option-enabled-fails/</link>
-      <pubDate>Sun, 23 Apr 2017 15:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/build-of-tensor-flow-r11-w-google-cloud-option-enabled-fails/</guid>
-      <description>&lt;p&gt;incompatible C++ header and code #9392. Open. tr8dr opened this Issue 8 minutes ago &amp;hellip;  &lt;a href=&#34;https://github.com/tensorflow/tensorflow/issues/9392&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/tensorflow/tensorflow/issues/9392&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
