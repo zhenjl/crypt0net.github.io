@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 23 Apr 2017 23:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2017 00:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Microsoft wants to simplify IoT for partners and customers with IoT Central</title>
+      <link>//crypt0.net/post/microsoft-wants-to-simplify-iot-for-partners-and-customers-with-iot-central/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-wants-to-simplify-iot-for-partners-and-customers-with-iot-central/</guid>
+      <description>&lt;p&gt;Microsoft wants to make it easier for customers and partners to get started with the internet of things and has introduced a new software-as-a-service &amp;hellip;  &lt;a href=&#34;https://www.crn.com.au/news/microsoft-wants-to-simplify-iot-for-partners-and-customers-with-iot-central-459353&#34; onclick=&#34;trackOutboundLink(&#39;https://www.crn.com.au/news/microsoft-wants-to-simplify-iot-for-partners-and-customers-with-iot-central-459353&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Huawei to build global cloud with bit barns run by different operators</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/google-cloud-boss-diane-greene-wants-to-be-ahead-of-amazon-by-2022/</guid>
       <description>&lt;p&gt;In a wide-ranging conversation touching upon security, artificial intelligence and open source technology, Google&amp;rsquo;s top cloud boss reasserted her &amp;hellip;  &lt;a href=&#34;https://www.forbes.com/sites/alexkonrad/2017/04/23/google-cloud-boss-aims-for-top-in-2022/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.forbes.com/sites/alexkonrad/2017/04/23/google-cloud-boss-aims-for-top-in-2022/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Xenial containers fail to apply sysctl (procps)</title>
-      <link>//crypt0.net/post/xenial-containers-fail-to-apply-sysctl-procps/</link>
-      <pubDate>Sun, 23 Apr 2017 19:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/xenial-containers-fail-to-apply-sysctl-procps/</guid>
-      <description>&lt;p&gt;Xenial LXC containers because the /proc/sys directory is not read-write inside the &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685677&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685677&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
