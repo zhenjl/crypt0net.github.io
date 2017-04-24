@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 23 Apr 2017 19:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Apr 2017 20:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Protecting your client&#39;s digital assets in the public cloud</title>
+      <link>//crypt0.net/post/protecting-your-clients-digital-assets-in-the-public-cloud/</link>
+      <pubDate>Sun, 23 Apr 2017 20:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/protecting-your-clients-digital-assets-in-the-public-cloud/</guid>
+      <description>&lt;p&gt;Regardless of which particular model of cloud computing your clients adopt  Amazon Web Services (AWS), Microsoft Azure, Revera&amp;rsquo;s Vault (or any &amp;hellip;  &lt;a href=&#34;https://channellife.co.nz/story/protecting-your-clients-digital-assets-public-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;https://channellife.co.nz/story/protecting-your-clients-digital-assets-public-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Cloud Boss Diane Greene Wants To Be Ahead Of Amazon By 2022</title>
@@ -203,85 +215,6 @@
       <description>&lt;p&gt;&amp;hellip; it appears as though Microsoft&amp;rsquo;s new hardware will be low-end devices that could compete with Google&amp;rsquo;s cloud-focused Chromebook laptops.  &lt;a href=&#34;http://www.itechpost.com/articles/96676/20170422/microsoft-chromebook-alternative-specs-pretty-decent.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itechpost.com/articles/96676/20170422/microsoft-chromebook-alternative-specs-pretty-decent.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Daily Cloud Computing News from @cloudfeednet - Apr 22, 2017</title>
-      <link>//crypt0.net/daily/daily-cloud-news-2017-04-22/</link>
-      <pubDate>Sat, 22 Apr 2017 18:05:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/daily/daily-cloud-news-2017-04-22/</guid>
-      <description>&lt;p&gt;Daily Cloud Computing news from &lt;a href=&#34;http://twitter.com/cloudfeednet&#34;&gt;@cloudfeednet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;compute logs tell me live migration finished successfully when it actually&lt;/h3&gt;
-&lt;p&gt;This tells me post live migration at destination failed: &lt;a href=&#34;http://logs.openstack.org/43/458843/1/check/gate-tempest-dsvm-multinode-liv&#34;&gt;http://logs.openstack.org/43/458843/1/check/gate-tempest-dsvm-multinode-liv&lt;/a&gt; e-migration-ubuntu- &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685340&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685340&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Mirantis Cloud Platform Combines OpenStack and Kubernetes Container&lt;/h3&gt;
-&lt;p&gt;SDxCentral While MPC will continue to support OpenStack, the launch of the new platform also signals the end of life for Mirantis OpenStack (MOS) and Fuel.  &lt;a href=&#34;https://www.sdxcentral.com/articles/news/mirantis-cloud-platform-combines-openstack-kubernetes-container-management/2017/04/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sdxcentral.com/articles/news/mirantis-cloud-platform-combines-openstack-kubernetes-container-management/2017/04/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Why Azure is the right platform to handle India&amp;rsquo;s new Goods and Services&lt;/h3&gt;
-&lt;p&gt;The Goods and Services Tax (GST) is essentially a new indirect tax system for India which will make the country a unified common market, from the &amp;hellip;  &lt;a href=&#34;https://blogs.microsoft.com/firehose/2017/04/21/why-azure-is-the-right-platform-to-handle-indias-new-goods-and-services-tax-system/&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.microsoft.com/firehose/2017/04/21/why-azure-is-the-right-platform-to-handle-indias-new-goods-and-services-tax-system/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;freezer-scheduler doesn&amp;rsquo;t have restart command&lt;/h3&gt;
-&lt;p&gt;scheduler.conf, we should stop freezer-scheduler firstly, and then start &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685192&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685192&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Global Cloud High Performance Computing (HPC) Market 2017- IBM , Microsoft&lt;/h3&gt;
-&lt;p&gt;Publicist Report - Market Research News by Market.Biz (press release) Global Cloud High Performance Computing (HPC) Market 2017 The Worldwide Cloud High Performance Computing (HPC) Report does an extensive &amp;hellip;  &lt;a href=&#34;http://publicistreport.com/market-research/global-cloud-high-performance-computing-hpc-market-2017.html&#34; onclick=&#34;trackOutboundLink(&#39;http://publicistreport.com/market-research/global-cloud-high-performance-computing-hpc-market-2017.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Virtio Fixes Not Backported &amp;ndash;&amp;gt; Google Cloud Platform Drops Packets&lt;/h3&gt;
-&lt;p&gt;related to setting VIRTIO_NET_HDR_F_DATA_VALID on received &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685416&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685416&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;IoT Central is Microsoft&amp;rsquo;s latest IoT as a Service offering&lt;/h3&gt;
-&lt;p&gt;Microsoft has also announced that it will be offering Azure Stream Analytics to edge devices thus making it easier for new IoT devices and is also &amp;hellip;  &lt;a href=&#34;http://news.thewindowsclub.com/iot-central-is-microsofts-latest-iot-as-a-service-offering-89494/&#34; onclick=&#34;trackOutboundLink(&#39;http://news.thewindowsclub.com/iot-central-is-microsofts-latest-iot-as-a-service-offering-89494/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;5 Reasons Why Microsoft Azure is the Best Choice for Building Your Career&lt;/h3&gt;
-&lt;p&gt;5 Reasons Why Microsoft Azure is the Best Choice for Building Your Career in Cloud Computing. By adopting cloud technology, companies are now &amp;hellip;  &lt;a href=&#34;https://techcommunity.microsoft.com/t5/Azure/5-Reasons-Why-Microsoft-Azure-is-the-Best-Choice-for-Building/m-p/63913&#34; onclick=&#34;trackOutboundLink(&#39;https://techcommunity.microsoft.com/t5/Azure/5-Reasons-Why-Microsoft-Azure-is-the-Best-Choice-for-Building/m-p/63913&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;openstack-ansible-security: Logic fails for&lt;/h3&gt;
-&lt;p&gt;machine and got warnings that root login was still allowed although it was set &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685194&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685194&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Cloud &amp;amp; YouTube-8M Video Understanding Challenge&lt;/h3&gt;
-&lt;p&gt;the best video tag predictions? Google Cloud  467 teams  a month &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/31908/training-on-validation-data?forumMessageId=176811&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/31908/training-on-validation-data?forumMessageId=176811&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;OpenStack Distances Itself from Intel-Rackspace Bad Press&lt;/h3&gt;
-&lt;p&gt;OpenStack deployments are getting bigger in terms of scale, according to new survey results from OpenStack. The survey results also show that the &amp;hellip;  &lt;a href=&#34;https://www.sdxcentral.com/articles/news/openstack-distances-inte-rackspace-press/2017/04/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sdxcentral.com/articles/news/openstack-distances-inte-rackspace-press/2017/04/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon blazes a trail to the next frontier in AI: the cloud&lt;/h3&gt;
-&lt;p&gt;The next step is using the Amazon Web Services cloud to spread machine learning to the developer masses, by lowering the cost and friction of using &amp;hellip;  &lt;a href=&#34;http://siliconangle.com/blog/2017/04/22/amazon-blazes-trail-next-frontier-ai-cloud/&#34; onclick=&#34;trackOutboundLink(&#39;http://siliconangle.com/blog/2017/04/22/amazon-blazes-trail-next-frontier-ai-cloud/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Cloud Platform Customer Case Studies&lt;/h3&gt;
-&lt;p&gt;Cloud Platform.  &lt;a href=&#34;https://forum.equinix.com/insights/gcp-customer-case-studies/cloud-services&#34; onclick=&#34;trackOutboundLink(&#39;https://forum.equinix.com/insights/gcp-customer-case-studies/cloud-services&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Yesterday Stock Price Swings: Amazon.com, Inc.&amp;rsquo;s&lt;/h3&gt;
-&lt;p&gt;&amp;hellip; and www.amazon.com.mx. The Company operates through three segments: North America, International and Amazon Web Services (AWS).  &lt;a href=&#34;http://aliveforfootball.com/2017/04/yesterday-stock-price-swings-amazon-com-inc-s/&#34; onclick=&#34;trackOutboundLink(&#39;http://aliveforfootball.com/2017/04/yesterday-stock-price-swings-amazon-com-inc-s/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;How Google Earth helped Jane Goodall save a generation of chimpanzees&lt;/h3&gt;
-&lt;p&gt;Their data was then sent to Google&amp;rsquo;s cloud service where Pintea and JGO colleagues in Tanzania would share it with local stakeholders and decision &amp;hellip;  &lt;a href=&#34;http://www.digitaltrends.com/mobile/how-google-earth-helped-jane-goodall-save-chimps/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.digitaltrends.com/mobile/how-google-earth-helped-jane-goodall-save-chimps/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;OpenStack deployments grow 44 percent in 2017&lt;/h3&gt;
-&lt;p&gt;survey. The latest report shows a 44 percent growth in OpenStack &amp;hellip;  &lt;a href=&#34;https://opensourceforu.com/2017/04/openstack-deployments-grow-44-percent-2017/&#34; onclick=&#34;trackOutboundLink(&#39;https://opensourceforu.com/2017/04/openstack-deployments-grow-44-percent-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft announces Microsoft IoT Central, a new SaaS solution to simplify&lt;/h3&gt;
-&lt;p&gt;Alive For Football Enabling new scenarios Azure IoT Hub, a core Azure service that connects, monitors and updates IoT devices, has enabled customers to connect &amp;hellip;  &lt;a href=&#34;http://aliveforfootball.com/2017/04/microsoft-announces-microsoft-iot-central-a-new-saas/&#34; onclick=&#34;trackOutboundLink(&#39;http://aliveforfootball.com/2017/04/microsoft-announces-microsoft-iot-central-a-new-saas/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Microsoft Azure Gets More Serious About Rivalry, To Get Big On IoT Space&lt;/h3&gt;
-&lt;p&gt;University Herald Microsoft Azure is about to get another big boost this week. The company has just announced an expansion of its Azure cloud services, adding a new &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/73634/20170422/microsoft-microsoft-azure-azure-cloud-cloud-computing-cloud-services-saas-applications-microsoft-azure-news-azure-news-microsoft-azure-updates-microsoft-tech-news-cloud-computing-news.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/73634/20170422/microsoft-microsoft-azure-azure-cloud-cloud-computing-cloud-services-saas-applications-microsoft-azure-news-azure-news-microsoft-azure-updates-microsoft-tech-news-cloud-computing-news.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Amazon Offers AI Technology Powering Alexa to AWS Users&lt;/h3&gt;
-&lt;p&gt;Amazon.com, Inc. &amp;rsquo;s AMZN Amazon Web Services (AWS) has made Amazon Lex, the machine learning technology behind Alexa, available to all &amp;hellip;  &lt;a href=&#34;http://www.nasdaq.com/article/amazon-offers-ai-technology-powering-alexa-to-aws-users-cm777209&#34; onclick=&#34;trackOutboundLink(&#39;http://www.nasdaq.com/article/amazon-offers-ai-technology-powering-alexa-to-aws-users-cm777209&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Avid Announces Strategic Cloud Alliance with Microsoft for the Media and&lt;/h3&gt;
-&lt;p&gt;EconoTimes A technology demonstration of the Microsoft Azure hosted Avid MediaCentral Platform with select Avid tools and media workflow solutions will be &amp;hellip;  &lt;a href=&#34;http://www.econotimes.com/Avid-Announces-Strategic-Cloud-Alliance-with-Microsoft-for-the-Media-and-Entertainment-Industry-656347&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/Avid-Announces-Strategic-Cloud-Alliance-with-Microsoft-for-the-Media-and-Entertainment-Industry-656347&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Google Cloud &amp;amp; YouTube-8M Video Understanding Challenge&lt;/h3&gt;
-&lt;p&gt;the best video tag predictions? Google Cloud  471 teams  a month &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/29917/parameter-changes-on-the-next-checkpoint?forumMessageId=176927&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/29917/parameter-changes-on-the-next-checkpoint?forumMessageId=176927&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;GDG Njikoka Google Cloud Next Extended&lt;/h3&gt;
-&lt;p&gt;their web, mobile and backend solutions. Google Cloud Platform Next 17 &amp;hellip;  &lt;a href=&#34;https://developers.google.com/events/6660147977650176/&#34; onclick=&#34;trackOutboundLink(&#39;https://developers.google.com/events/6660147977650176/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h3&gt;Bug #1685534 Unit tests for RHEL OpenStack need to be changed n&amp;hellip;&lt;/h3&gt;
-&lt;p&gt;Alias files for IPv4 have fallen out of favor and alias files for IPv6 do not work.  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685534&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685534&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
