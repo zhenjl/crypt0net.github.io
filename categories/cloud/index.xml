@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 23 Apr 2017 15:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Apr 2017 17:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>[Build 3059] K8S Provisioning failure with Ansible...</title>
+      <link>//crypt0.net/post/build-3059-k8s-provisioning-failure-with-ansible/</link>
+      <pubDate>Sun, 23 Apr 2017 17:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/build-3059-k8s-provisioning-failure-with-ansible/</guid>
+      <description>&lt;p&gt;contrail-ansible package available with the build. It is expecting &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685661&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685661&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build of tensor flow r1.1 w/ Google Cloud option enabled fails</title>
@@ -240,18 +252,6 @@
       
       <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
       <description>&lt;p&gt;the best video tag predictions? Google Cloud  471 teams  a month &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/29917/parameter-changes-on-the-next-checkpoint?forumMessageId=176927&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/29917/parameter-changes-on-the-next-checkpoint?forumMessageId=176927&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Avid Announces Strategic Cloud Alliance with Microsoft for the Media and</title>
-      <link>//crypt0.net/post/avid-announces-strategic-cloud-alliance-with-microsoft-for-the-media-and/</link>
-      <pubDate>Sat, 22 Apr 2017 11:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/avid-announces-strategic-cloud-alliance-with-microsoft-for-the-media-and/</guid>
-      <description>&lt;p&gt;EconoTimes A technology demonstration of the Microsoft Azure hosted Avid MediaCentral Platform with select Avid tools and media workflow solutions will be &amp;hellip;  &lt;a href=&#34;http://www.econotimes.com/Avid-Announces-Strategic-Cloud-Alliance-with-Microsoft-for-the-Media-and-Entertainment-Industry-656347&#34; onclick=&#34;trackOutboundLink(&#39;http://www.econotimes.com/Avid-Announces-Strategic-Cloud-Alliance-with-Microsoft-for-the-Media-and-Entertainment-Industry-656347&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

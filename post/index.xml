@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 23 Apr 2017 15:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Apr 2017 17:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>[Build 3059] K8S Provisioning failure with Ansible...</title>
+      <link>//crypt0.net/post/build-3059-k8s-provisioning-failure-with-ansible/</link>
+      <pubDate>Sun, 23 Apr 2017 17:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/build-3059-k8s-provisioning-failure-with-ansible/</guid>
+      <description>&lt;p&gt;contrail-ansible package available with the build. It is expecting &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1685661&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1685661&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build of tensor flow r1.1 w/ Google Cloud option enabled fails</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/wrap-of-week-16-blockchain-bitcoin--crypto-clear-bank-goldfields/</guid>
       <description>&lt;p&gt;We started by Introducing The Blockchain Bitcoin &amp;amp; Crypto Weekly CXO Briefing. Don&amp;rsquo;t miss this inaugural post that covers more than just last week.  &lt;a href=&#34;https://dailyfintech.com/2017/04/23/wrap-of-week-16-blockchain-bitcoin-crypto-clear-bank-goldfields-instarem-religare-payments/&#34; onclick=&#34;trackOutboundLink(&#39;https://dailyfintech.com/2017/04/23/wrap-of-week-16-blockchain-bitcoin-crypto-clear-bank-goldfields-instarem-religare-payments/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fintech developments could affect the Island</title>
-      <link>//crypt0.net/post/fintech-developments-could-affect-the-island/</link>
-      <pubDate>Sun, 23 Apr 2017 09:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/fintech-developments-could-affect-the-island/</guid>
-      <description>&lt;p&gt;Referring to blockchain technology  which essentially provides an additional layer of security to databases or transactions  Mr Carney added: &amp;lsquo;The &amp;hellip;  &lt;a href=&#34;http://jerseyeveningpost.com/news/2017/04/23/fintech-developments-could-affect-the-island/&#34; onclick=&#34;trackOutboundLink(&#39;http://jerseyeveningpost.com/news/2017/04/23/fintech-developments-could-affect-the-island/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
