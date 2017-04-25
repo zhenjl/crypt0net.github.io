@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 24 Apr 2017 21:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2017 22:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>cloudbreak cluster installation on openstack failing with multiple errors</title>
+      <link>//crypt0.net/post/cloudbreak-cluster-installation-on-openstack-failing-with-multiple-errors/</link>
+      <pubDate>Mon, 24 Apr 2017 22:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cloudbreak-cluster-installation-on-openstack-failing-with-multiple-errors/</guid>
+      <description>&lt;p&gt;openstack(Mitaka release) by following steps mentioned &amp;hellip;  &lt;a href=&#34;https://community.hortonworks.com/questions/98270/cloudbreak-cluster-installation-on-openstack-faili.html&#34; onclick=&#34;trackOutboundLink(&#39;https://community.hortonworks.com/questions/98270/cloudbreak-cluster-installation-on-openstack-faili.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cybercrime enters top 10 business risks in Asia</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/alteryx--microsoft-azure-data-preparation-and-cognitive-text-analytics/</guid>
       <description>&lt;p&gt;will look at an interesting use case about self-driving cars collected from &amp;hellip;  &lt;a href=&#34;http://www.alteryx.com/resources/alteryx-microsoft-azure-data-preparation-and-cognitive-text-analytics&#34; onclick=&#34;trackOutboundLink(&#39;http://www.alteryx.com/resources/alteryx-microsoft-azure-data-preparation-and-cognitive-text-analytics&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mentor tips Azure IoT support and Linux-driven self-driving tech</title>
-      <link>//crypt0.net/post/mentor-tips-azure-iot-support-and-linuxdriven-selfdriving-tech/</link>
-      <pubDate>Mon, 24 Apr 2017 18:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mentor-tips-azure-iot-support-and-linuxdriven-selfdriving-tech/</guid>
-      <description>&lt;p&gt;Mentor, which has long offered its Yocto Project based Mentor Embedded Linux (MEL) commercial Linux distribution, announced new Microsoft Azure &amp;hellip;  &lt;a href=&#34;http://linuxgizmos.com/mentor-tips-azure-iot-support-and-linux-driven-self-driving-tech/&#34; onclick=&#34;trackOutboundLink(&#39;http://linuxgizmos.com/mentor-tips-azure-iot-support-and-linux-driven-self-driving-tech/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
