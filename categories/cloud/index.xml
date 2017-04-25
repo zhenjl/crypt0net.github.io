@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 25 Apr 2017 16:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 16:20:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Understanding Layer 2 Extensions for the Hybrid Cloud</title>
+      <link>//crypt0.net/post/understanding-layer-2-extensions-for-the-hybrid-cloud/</link>
+      <pubDate>Tue, 25 Apr 2017 16:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/understanding-layer-2-extensions-for-the-hybrid-cloud/</guid>
+      <description>&lt;p&gt;of vCloud Air, and Hybrid Cloud Manager (HCM). By leveraging HCM in &amp;hellip;  &lt;a href=&#34;https://blogs.vmware.com/vcloud/2017/04/understanding-layer-2-extensions-hybrid-cloud.html&#34; onclick=&#34;trackOutboundLink(&#39;https://blogs.vmware.com/vcloud/2017/04/understanding-layer-2-extensions-hybrid-cloud.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Home Business North East IT Solutions company partners with Microsoft to</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/openstack-hosting-now-also-available-for-windows/</guid>
       <description>&lt;p&gt;OpenStack for Windows is also available! Maybe something for your &amp;hellip;  &lt;a href=&#34;https://www.combell.com/en/blog/openstack-also-for-windows/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.combell.com/en/blog/openstack-also-for-windows/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>os_compute_api:servers:create:attach_network does not account for networks</title>
-      <link>//crypt0.net/post/oscomputeapiserverscreateattachnetwork-does-not-account-for-networks/</link>
-      <pubDate>Tue, 25 Apr 2017 11:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/oscomputeapiserverscreateattachnetwork-does-not-account-for-networks/</guid>
-      <description>&lt;p&gt;body could be omitted if you just wanted a port automatically allocated on an &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1686113&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1686113&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
