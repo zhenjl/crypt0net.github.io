@@ -7,8 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 25 Apr 2017 09:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 10:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure Media Player version 2.0 released, adds ad support, a new skin, more</title>
+      <link>//crypt0.net/post/azure-media-player-version-20-released-adds-ad-support-a-new-skin-more/</link>
+      <pubDate>Tue, 25 Apr 2017 10:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-media-player-version-20-released-adds-ad-support-a-new-skin-more/</guid>
+      <description>&lt;p&gt;Microsoft announced today a significant update to Azure Media Player, its web video player designed to playmedia content from Microsoft Azure &amp;hellip;  &lt;a href=&#34;https://www.onmsft.com/news/azure-media-player-version-2-0-released-adds-ad-support-a-new-skin-more&#34; onclick=&#34;trackOutboundLink(&#39;https://www.onmsft.com/news/azure-media-player-version-2-0-released-adds-ad-support-a-new-skin-more&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build a Hybrid Cloud Lab into Microsoft Azure with VyOS</title>
+      <link>//crypt0.net/post/build-a-hybrid-cloud-lab-into-microsoft-azure-with-vyos/</link>
+      <pubDate>Tue, 25 Apr 2017 10:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/build-a-hybrid-cloud-lab-into-microsoft-azure-with-vyos/</guid>
+      <description>&lt;p&gt;In my lab I use Microsoft Routing and Remote Access to segregate my networks and also provide connectivity to my Azure vNet, I wanted to see if I &amp;hellip;  &lt;a href=&#34;http://www.dabcc.com/build-a-hybrid-cloud-lab-into-microsoft-azure-with-vyos/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.dabcc.com/build-a-hybrid-cloud-lab-into-microsoft-azure-with-vyos/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Amazon Web Services plots major expansion in Northern Virginia, sources say</title>
@@ -161,30 +185,6 @@
       
       <guid>//crypt0.net/post/microsoft-working-on-a-smartwatch-but-you-wont-be-able-to-buy-it/</guid>
       <description>&lt;p&gt;Microsoft working on a smartwatch but you won&amp;rsquo;t be able to buy it &amp;hellip; cloud leveraging Microsoft Azure Cloud services like Microsoft Cognitive Services.  &lt;a href=&#34;http://gadgetsandwearables.com/2017/04/25/microsoft-smartwatch/&#34; onclick=&#34;trackOutboundLink(&#39;http://gadgetsandwearables.com/2017/04/25/microsoft-smartwatch/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Debunking Amazon Connect&#39;s Competitive Threat</title>
-      <link>//crypt0.net/post/debunking-amazon-connects-competitive-threat/</link>
-      <pubDate>Tue, 25 Apr 2017 05:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/debunking-amazon-connects-competitive-threat/</guid>
-      <description>&lt;p&gt;At Enterprise Connect last month, Amazon Web Services got all kinds of &amp;ldquo;oohs&amp;rdquo; and &amp;ldquo;ahhs&amp;rdquo; when it announced the Amazon Connect contact center &amp;hellip;  &lt;a href=&#34;http://www.nojitter.com/post/240172588/debunking-amazon-connects-competitive-threat&#34; onclick=&#34;trackOutboundLink(&#39;http://www.nojitter.com/post/240172588/debunking-amazon-connects-competitive-threat&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google zero-trust security framework goes beyond passwords</title>
-      <link>//crypt0.net/post/google-zerotrust-security-framework-goes-beyond-passwords/</link>
-      <pubDate>Tue, 25 Apr 2017 05:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-zerotrust-security-framework-goes-beyond-passwords/</guid>
-      <description>&lt;p&gt;Google Cloud customers can have their own BeyondCorp software-defined perimeter and tiered access via GCP&amp;rsquo;s Identity-Aware Proxy service.  &lt;a href=&#34;http://www.infoworld.com/article/3192244/security/google-zero-trust-security-framework-goes-beyond-passwords.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.infoworld.com/article/3192244/security/google-zero-trust-security-framework-goes-beyond-passwords.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
