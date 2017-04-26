@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 25 Apr 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2017 19:20:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Carbon Black asks: So what exactly is threat hunting?</title>
+      <link>//crypt0.net/post/carbon-black-asks-so-what-exactly-is-threat-hunting/</link>
+      <pubDate>Tue, 25 Apr 2017 19:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/carbon-black-asks-so-what-exactly-is-threat-hunting/</guid>
+      <description>&lt;p&gt;Quite simply, threat hunting is the pursuit of abnormal activity on servers and endpoints that may be signs of compromise, intrusion or exfiltration of &amp;hellip;  &lt;a href=&#34;https://securitybrief.com.au/story/carbon-black-asks-so-what-exactly-threat-hunting/&#34; onclick=&#34;trackOutboundLink(&#39;https://securitybrief.com.au/story/carbon-black-asks-so-what-exactly-threat-hunting/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Security News from @trustpath - Apr 25, 2017</title>
@@ -237,18 +249,6 @@
       
       <guid>//crypt0.net/post/crowdstrike-expands-into-latin-america-opens-office-in-mexico-city/</guid>
       <description>&lt;p&gt;IRVINE, Calif.&amp;ndash;(BUSINESS WIRE)&amp;ndash;CrowdStrike Inc., the leader in cloud-delivered next-generation endpoint protection, today announced the launch &amp;hellip;  &lt;a href=&#34;http://www.businesswire.com/news/home/20170425005591/en/CrowdStrike-Expands-Latin-America-Opens-Office-Mexico&#34; onclick=&#34;trackOutboundLink(&#39;http://www.businesswire.com/news/home/20170425005591/en/CrowdStrike-Expands-Latin-America-Opens-Office-Mexico&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How to Prevent Costly and Dangerous Cyberattacks</title>
-      <link>//crypt0.net/post/how-to-prevent-costly-and-dangerous-cyberattacks/</link>
-      <pubDate>Tue, 25 Apr 2017 07:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-prevent-costly-and-dangerous-cyberattacks/</guid>
-      <description>&lt;p&gt;Large and small practices are vulnerable to data breaches. However, many resources are available to thwart an attack, and these resources are &amp;hellip;  &lt;a href=&#34;http://www.medscape.com/viewarticle/878592&#34; onclick=&#34;trackOutboundLink(&#39;http://www.medscape.com/viewarticle/878592&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
