@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 26 Apr 2017 04:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 05:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to configure LDAP backends for keystone with OpenStack Director</title>
+      <link>//crypt0.net/post/how-to-configure-ldap-backends-for-keystone-with-openstack-director/</link>
+      <pubDate>Wed, 26 Apr 2017 05:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-configure-ldap-backends-for-keystone-with-openstack-director/</guid>
+      <description>&lt;p&gt;Solution In Progress - Updated Yesterday at 2:38 PM -. English.  &lt;a href=&#34;https://access.redhat.com/solutions/2988661&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/2988661&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Analyst Downgrades Amazon Citing Need for Greater Operating Leverage (AMZN)</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/top-5-tips-for-migrating-your-data-warehouse-to-google-bigquery/</guid>
       <description>&lt;p&gt;data warehousing workloads to Google BigQuery, patterns have &amp;hellip;  &lt;a href=&#34;https://cloud.google.com/blog/big-data/2017/04/top-5-tips-for-migrating-your-data-warehouse-to-google-bigquery&#34; onclick=&#34;trackOutboundLink(&#39;https://cloud.google.com/blog/big-data/2017/04/top-5-tips-for-migrating-your-data-warehouse-to-google-bigquery&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rubrik&#39;s Market-leading Cloud Data Management Platform Now Runs in AWS and</title>
-      <link>//crypt0.net/post/rubriks-marketleading-cloud-data-management-platform-now-runs-in-aws-and/</link>
-      <pubDate>Tue, 25 Apr 2017 20:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rubriks-marketleading-cloud-data-management-platform-now-runs-in-aws-and/</guid>
-      <description>&lt;p&gt;Marketwired (press release) PALO ALTO, CA&amp;ndash;(Marketwired - Apr 25, 2017) - Rubrik, the cloud data management company, today announced a milestone expansion of its product &amp;hellip;  &lt;a href=&#34;http://www.marketwired.com/press-release/rubriks-market-leading-cloud-data-management-platform-now-runs-aws-microsoft-azure-2211753.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.marketwired.com/press-release/rubriks-market-leading-cloud-data-management-platform-now-runs-aws-microsoft-azure-2211753.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
