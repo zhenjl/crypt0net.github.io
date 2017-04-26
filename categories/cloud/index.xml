@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 26 Apr 2017 03:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 04:00:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wrong repository in Newton install tutorials</title>
+      <link>//crypt0.net/post/wrong-repository-in-newton-install-tutorials/</link>
+      <pubDate>Wed, 26 Apr 2017 04:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/wrong-repository-in-newton-install-tutorials/</guid>
+      <description>&lt;p&gt;repository when installing OpenStack packages, while that of English version &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1686339&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1686339&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microservices: Architecting for Innovation - Level 300</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/what-to-expect-from-openstack-summit-boston/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s nearly time for another OpenStack Summit, the twice-yearly event where the community for the open source cloud platform meets to discuss &amp;hellip;  &lt;a href=&#34;http://www.cio.com/article/3192203/open-source-tools/what-to-expect-from-openstack-summit-boston.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3192203/open-source-tools/what-to-expect-from-openstack-summit-boston.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure gets new Billing Reader role, Invoice API enters preview</title>
-      <link>//crypt0.net/post/azure-gets-new-billing-reader-role-invoice-api-enters-preview/</link>
-      <pubDate>Tue, 25 Apr 2017 19:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-gets-new-billing-reader-role-invoice-api-enters-preview/</guid>
-      <description>&lt;p&gt;Azure gets new Billing Reader role, Invoice API enters preview &amp;hellip; Do keep in mind that during the preview, Microsoft says some invoices may not be &amp;hellip;  &lt;a href=&#34;https://www.neowin.net/news/azure-gets-new-billing-reader-role-invoice-api-enters-preview&#34; onclick=&#34;trackOutboundLink(&#39;https://www.neowin.net/news/azure-gets-new-billing-reader-role-invoice-api-enters-preview&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
