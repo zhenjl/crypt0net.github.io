@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Apr 2017 07:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 07:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Create OneM2M subscription resource with MQTT</title>
+      <link>//crypt0.net/post/create-onem2m-subscription-resource-with-mqtt/</link>
+      <pubDate>Thu, 27 Apr 2017 07:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/create-onem2m-subscription-resource-with-mqtt/</guid>
+      <description>&lt;p&gt;resource.(container). Http subscription is working fine, but when I try with the MQTT &amp;hellip;  &lt;a href=&#34;https://www.eclipse.org/forums/index.php?t=msg&amp;th=1085839&amp;goto=1760446&amp;&#34; onclick=&#34;trackOutboundLink(&#39;https://www.eclipse.org/forums/index.php?t=msg&amp;th=1085839&amp;goto=1760446&amp;&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Catastrophic Property Risks? There&#39;s a Blockchain for That</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/iridium-communications-inc-nasdaqirdm-files-an-8k-results-of/</guid>
       <description>&lt;p&gt;Market Exclusive Its lines of business include land mobile, machine to machine, maritime, aviation and government. Its commercial services include postpaid mobile &amp;hellip;  &lt;a href=&#34;https://marketexclusive.com/iridium-communications-inc-nasdaqirdm-files-an-8-k-results-of-operations-and-financial-condition/98085/&#34; onclick=&#34;trackOutboundLink(&#39;https://marketexclusive.com/iridium-communications-inc-nasdaqirdm-files-an-8-k-results-of-operations-and-financial-condition/98085/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>NTIA Internet of Things effort aims to finalize security guidance by June</title>
-      <link>//crypt0.net/post/ntia-internet-of-things-effort-aims-to-finalize-security-guidance-by-june/</link>
-      <pubDate>Thu, 27 Apr 2017 05:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ntia-internet-of-things-effort-aims-to-finalize-security-guidance-by-june/</guid>
-      <description>&lt;p&gt;A National Telecommunications and Information Administration initiative to develop guidelines for conducting security upgrades and patching Internet &amp;hellip;  &lt;a href=&#34;https://insidecybersecurity.com/daily-news/ntia-internet-things-effort-aims-finalize-security-guidance-june&#34; onclick=&#34;trackOutboundLink(&#39;https://insidecybersecurity.com/daily-news/ntia-internet-things-effort-aims-finalize-security-guidance-june&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
