@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 26 Apr 2017 20:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 20:20:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building a hamster fitness tracker using Dynatrace API</title>
+      <link>//crypt0.net/post/building-a-hamster-fitness-tracker-using-dynatrace-api/</link>
+      <pubDate>Wed, 26 Apr 2017 20:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/building-a-hamster-fitness-tracker-using-dynatrace-api/</guid>
+      <description>&lt;p&gt;The microcontroller was programmed to calculate and send all the needed metrics to an MQTT broker used as a sort of relay station. MQTT is an &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/4067012&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/4067012&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>KT, Samsung pursue NB-IoT pilot</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Fast Company &amp;hellip; harnessing renewable energy and enabling automation and the internet of things to result in a prosperous new economy powered by clean energy.  &lt;a href=&#34;https://www.fastcompany.com/40410329/will-the-third-industrial-revolution-create-an-economic-boom-that-saves-the-planet&#34; onclick=&#34;trackOutboundLink(&#39;https://www.fastcompany.com/40410329/will-the-third-industrial-revolution-create-an-economic-boom-that-saves-the-planet&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy, Trust and Transparency  the Unbroken Link</title>
-      <link>//crypt0.net/post/privacy-trust-and-transparency--the-unbroken-link/</link>
-      <pubDate>Wed, 26 Apr 2017 17:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/privacy-trust-and-transparency--the-unbroken-link/</guid>
-      <description>&lt;p&gt;The Privacy Amendment (Notifiable Data Breaches) Bill 2016, which establishes a mandatory data breach notification scheme in Australia, has finally &amp;hellip;  &lt;a href=&#34;http://www.cso.com.au/article/618291/privacy-trust-transparency-unbroken-link/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cso.com.au/article/618291/privacy-trust-transparency-unbroken-link/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
