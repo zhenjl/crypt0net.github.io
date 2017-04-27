@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Apr 2017 09:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 09:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>micropython-umqtt.simple 1.3.3</title>
+      <link>//crypt0.net/post/micropythonumqttsimple-133/</link>
+      <pubDate>Thu, 27 Apr 2017 09:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/micropythonumqttsimple-133/</guid>
+      <description>&lt;p&gt;MicroPython. umqtt is a simple MQTT client for MicroPython. (Note that it uses some &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/micropython-umqtt.simple/1.3.3&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/micropython-umqtt.simple/1.3.3&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Groups Partner to Examine Bitcoin&#39;s Blockchain Application in</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/a-clever-plan-to-secure-the-internet-of-things-could-still-have-big/</guid>
       <description>&lt;p&gt;WIRED The Internet of Things security crisis continues apace. New botnets crop up to conscript routers and security cameras, hackers exploit medical devices &amp;hellip;  &lt;a href=&#34;https://www.wired.com/2017/04/clever-plan-fix-iot-security-still-drawbacks/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.wired.com/2017/04/clever-plan-fix-iot-security-still-drawbacks/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CENTRI Accelerates IoT Security for Developers at Internet of Things</title>
-      <link>//crypt0.net/post/centri-accelerates-iot-security-for-developers-at-internet-of-things/</link>
-      <pubDate>Thu, 27 Apr 2017 07:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/centri-accelerates-iot-security-for-developers-at-internet-of-things/</guid>
-      <description>&lt;p&gt;Broadway World SEATTLE, April 26, 2017 /PRNewswire/ CENTRI, a provider of advanced security for the Internet of Things, today announced it will sponsor Internet of &amp;hellip;  &lt;a href=&#34;http://www.broadwayworld.com/bwwgeeks/article/CENTRI-Accelerates-IoT-Security-for-Developers-at-Internet-of-Things-Developers-Conference-2017-20170426&#34; onclick=&#34;trackOutboundLink(&#39;http://www.broadwayworld.com/bwwgeeks/article/CENTRI-Accelerates-IoT-Security-for-Developers-at-Internet-of-Things-Developers-Conference-2017-20170426&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
