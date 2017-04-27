@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 26 Apr 2017 17:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Apr 2017 17:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>F5 BIG-IQ Centralized Management 5.2 and Amazon Web Services</title>
+      <link>//crypt0.net/post/f5-bigiq-centralized-management-52-and-amazon-web-services/</link>
+      <pubDate>Wed, 26 Apr 2017 17:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/f5-bigiq-centralized-management-52-and-amazon-web-services/</guid>
+      <description>&lt;p&gt;Centralized Management 5.2 and Amazon Web Services: Setup.  &lt;a href=&#34;http://support.f5.com/kb/en-us/products/big-iq-centralized-mgmt/manuals/product/big-iq-central-mgmt-amazon-web-services-setup-5-2-0.html&#34; onclick=&#34;trackOutboundLink(&#39;http://support.f5.com/kb/en-us/products/big-iq-centralized-mgmt/manuals/product/big-iq-central-mgmt-amazon-web-services-setup-5-2-0.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Microsoft Azure Media Player Updates Add Monetization...</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/rubrik-cloud-data-management-adds-replication-between-aws-azure/</guid>
       <description>&lt;p&gt;The Rubrik Cloud Data Management platform previously supported Amazon Web Services (AWS) and Azure as backup targets. Version 3.2, which &amp;hellip;  &lt;a href=&#34;http://searchdatabackup.techtarget.com/news/450417596/Rubrik-Cloud-Data-Management-adds-replication-between-AWS-Azure&#34; onclick=&#34;trackOutboundLink(&#39;http://searchdatabackup.techtarget.com/news/450417596/Rubrik-Cloud-Data-Management-adds-replication-between-AWS-Azure&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cloud Video Intelligence API with Sara Robinson</title>
-      <link>//crypt0.net/post/cloud-video-intelligence-api-with-sara-robinson/</link>
-      <pubDate>Wed, 26 Apr 2017 13:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloud-video-intelligence-api-with-sara-robinson/</guid>
-      <description>&lt;p&gt;Robinson is here to tell us about Cloud Video Intelligence API, which allows &amp;hellip;  &lt;a href=&#34;https://www.gcppodcast.com/post/episode-74-video-intelligence-api-with-sara-robinson/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.gcppodcast.com/post/episode-74-video-intelligence-api-with-sara-robinson/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
