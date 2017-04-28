@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 28 Apr 2017 13:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2017 14:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>John Gossman on Microsoft&#39;s Serverless Platform, Azure Functions and Logic</title>
+      <link>//crypt0.net/post/john-gossman-on-microsofts-serverless-platform-azure-functions-and-logic/</link>
+      <pubDate>Fri, 28 Apr 2017 14:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/john-gossman-on-microsofts-serverless-platform-azure-functions-and-logic/</guid>
+      <description>&lt;p&gt;InfoQ.com John Gossman, lead architect at Microsoft Azure, spoke on Thursday at ServerlessConf Conference about Microsoft&amp;rsquo;s open source Serverless platform &amp;hellip;  &lt;a href=&#34;https://www.infoq.com/news/2017/04/john-gossman-microsoft-serverles&#34; onclick=&#34;trackOutboundLink(&#39;https://www.infoq.com/news/2017/04/john-gossman-microsoft-serverles&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microsoft posts $23.6B in revenue in Q3 with Azure being star highlight</title>
+      <link>//crypt0.net/post/microsoft-posts-236b-in-revenue-in-q3-with-azure-being-star-highlight/</link>
+      <pubDate>Fri, 28 Apr 2017 14:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-posts-236b-in-revenue-in-q3-with-azure-being-star-highlight/</guid>
+      <description>&lt;p&gt;Total revenue from Microsoft&amp;rsquo;s Intelligent Cloud business hit $6.8 billion this quarter. Most importantly, Azure revenue was up 93 percent, a number &amp;hellip;  &lt;a href=&#34;http://www.ciol.com/microsoft-posts-earning-report/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.ciol.com/microsoft-posts-earning-report/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Senior Builds HPU&#39;s Amazon Alexa &#39;Skill&#39;</title>
+      <link>//crypt0.net/post/senior-builds-hpus-amazon-alexa-skill/</link>
+      <pubDate>Fri, 28 Apr 2017 14:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/senior-builds-hpus-amazon-alexa-skill/</guid>
+      <description>&lt;p&gt;But after several weeks of coding, trouble shooting, putting classroom concepts into action and utilizing Amazon Web Services, it&amp;rsquo;s become just that.  &lt;a href=&#34;http://www.highpoint.edu/blog/2017/04/senior-builds-hpus-amazon-alexa-skill/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.highpoint.edu/blog/2017/04/senior-builds-hpus-amazon-alexa-skill/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Pretexting is a rising threat according to 2017 Verizon DBIR</title>
@@ -151,42 +187,6 @@
       <description>&lt;p&gt;Two years ago the FTC released a report on the Internet of Things that recommended a series of concrete steps that businesses take to enhance and &amp;hellip;  &lt;a href=&#34;https://betanews.com/2017/04/28/why-businesses-need-to-change-their-mentality-when-it-comes-to-iot/&#34; onclick=&#34;trackOutboundLink(&#39;https://betanews.com/2017/04/28/why-businesses-need-to-change-their-mentality-when-it-comes-to-iot/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>google-cloud-core 0.24.1</title>
-      <link>//crypt0.net/post/googlecloudcore-0241/</link>
-      <pubDate>Fri, 28 Apr 2017 12:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/googlecloudcore-0241/</guid>
-      <description>&lt;p&gt;meant to stand-alone. Instead it defines common helpers (e.g. base Client and &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/google-cloud-core/0.24.1&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/google-cloud-core/0.24.1&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>JPMorgan Sticks With Blockchain Partnership Just Long Enough To Understand</title>
-      <link>//crypt0.net/post/jpmorgan-sticks-with-blockchain-partnership-just-long-enough-to-understand/</link>
-      <pubDate>Fri, 28 Apr 2017 12:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/jpmorgan-sticks-with-blockchain-partnership-just-long-enough-to-understand/</guid>
-      <description>&lt;p&gt;Dealbreaker Two years later, the old banking giants who formed the bulk of the alliance have finally managed to figure out what the hell blockchain is and does.  &lt;a href=&#34;http://dealbreaker.com/2017/04/jpmorgan-blockchain-partnership-leaves/&#34; onclick=&#34;trackOutboundLink(&#39;http://dealbreaker.com/2017/04/jpmorgan-blockchain-partnership-leaves/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ElectricFlow is Now Available on Microsoft Azure</title>
-      <link>//crypt0.net/post/electricflow-is-now-available-on-microsoft-azure/</link>
-      <pubDate>Fri, 28 Apr 2017 12:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/electricflow-is-now-available-on-microsoft-azure/</guid>
-      <description>&lt;p&gt;instance with a click of a button! Sign up below to use ElectricFlow on Azure:.  &lt;a href=&#34;https://electric-cloud.com/blog/2017/04/electricflow-now-available-microsoft-azure/&#34; onclick=&#34;trackOutboundLink(&#39;https://electric-cloud.com/blog/2017/04/electricflow-now-available-microsoft-azure/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
