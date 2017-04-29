@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 29 Apr 2017 05:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Apr 2017 06:00:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Drop deprecated enable_firewall and enable_vpn set...</title>
+      <link>//crypt0.net/post/drop-deprecated-enablefirewall-and-enablevpn-set/</link>
+      <pubDate>Sat, 29 Apr 2017 06:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/drop-deprecated-enablefirewall-and-enablevpn-set/</guid>
+      <description>&lt;p&gt;marked as deprecated in Juno release, but they still live in &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1687185&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1687185&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Announces &#39;Solve for India&#39; to Inspire Entrepreneurs and Developers</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/amazon-dominates-the-cloud-as-aws-revenue-soars-in-q1/</guid>
       <description>&lt;p&gt;Amazon Web Services (AWS) continued to dominate the cloud services sector and be a major money maker for the company in the first few months of &amp;hellip;  &lt;a href=&#34;https://www.sdxcentral.com/articles/news/aws-revenue-soars-q1/2017/04/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sdxcentral.com/articles/news/aws-revenue-soars-q1/2017/04/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BizTalk Server 2016 Feature Pack 1 Released</title>
-      <link>//crypt0.net/post/biztalk-server-2016-feature-pack-1-released/</link>
-      <pubDate>Fri, 28 Apr 2017 18:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/biztalk-server-2016-feature-pack-1-released/</guid>
-      <description>&lt;p&gt;Microsoft conceives of feature packs for BizTalk Server as a way to &amp;ldquo;provide improvements, features, and closer integration with Azure,&amp;rdquo; according to &amp;hellip;  &lt;a href=&#34;https://redmondmag.com/articles/2017/04/28/biztalk-server-2016-feature-pack-1.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://redmondmag.com/articles/2017/04/28/biztalk-server-2016-feature-pack-1.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
