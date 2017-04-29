@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 29 Apr 2017 13:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Apr 2017 13:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MQTT SSL issue when running in Armbian</title>
+      <link>//crypt0.net/post/mqtt-ssl-issue-when-running-in-armbian/</link>
+      <pubDate>Sat, 29 Apr 2017 13:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mqtt-ssl-issue-when-running-in-armbian/</guid>
+      <description>&lt;p&gt;following issue: AttributeError: module &amp;lsquo;ssl&amp;rsquo; has no attribute &amp;lsquo;PROTOCOL_TLS&amp;rsquo;  &lt;a href=&#34;https://github.com/home-assistant/home-assistant/issues/7368&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/home-assistant/home-assistant/issues/7368&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How Artificial Intelligence And Internet of Things Could Lead to a Robot</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/two-things-in-finance-that-can-boost-gcc-industries/</guid>
       <description>&lt;p&gt;FinTech, the Internet of Things, blockchain and artificial intelligence are some of the major technological developments that will support open banking.  &lt;a href=&#34;http://www.khaleejtimes.com/business/banking-finance/two-things-in-finance-that-can-boost-gcc-industries&#34; onclick=&#34;trackOutboundLink(&#39;http://www.khaleejtimes.com/business/banking-finance/two-things-in-finance-that-can-boost-gcc-industries&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nikkei Was Wrong to Claim Takemiya Was Founder of NEM, Leading Japanese</title>
-      <link>//crypt0.net/post/nikkei-was-wrong-to-claim-takemiya-was-founder-of-nem-leading-japanese/</link>
-      <pubDate>Sat, 29 Apr 2017 06:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nikkei-was-wrong-to-claim-takemiya-was-founder-of-nem-leading-japanese/</guid>
-      <description>&lt;p&gt;CoinTelegraph NEM and Mijin are both important Blockchain products with their roots in Japan. Recently it has come to light in a book titled Virtual Currency and &amp;hellip;  &lt;a href=&#34;https://cointelegraph.com/news/nikkei-was-wrong-to-claim-takemiya-was-founder-of-nem-leading-japanese-blockchain&#34; onclick=&#34;trackOutboundLink(&#39;https://cointelegraph.com/news/nikkei-was-wrong-to-claim-takemiya-was-founder-of-nem-leading-japanese-blockchain&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 29 Apr 2017 13:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Apr 2017 13:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MQTT SSL issue when running in Armbian</title>
+      <link>//crypt0.net/post/mqtt-ssl-issue-when-running-in-armbian/</link>
+      <pubDate>Sat, 29 Apr 2017 13:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mqtt-ssl-issue-when-running-in-armbian/</guid>
+      <description>&lt;p&gt;following issue: AttributeError: module &amp;lsquo;ssl&amp;rsquo; has no attribute &amp;lsquo;PROTOCOL_TLS&amp;rsquo;  &lt;a href=&#34;https://github.com/home-assistant/home-assistant/issues/7368&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/home-assistant/home-assistant/issues/7368&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How Artificial Intelligence And Internet of Things Could Lead to a Robot</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Bank-friendly Ripple (XRP) still exists, to the surprise of many, the author included. Not only that, but it has continued its apparent strategic partnership &amp;hellip;  &lt;a href=&#34;http://insidebitcoins.com/news/ripple-rising-centralized-cryptocurrency-sees-30-gain-in-one-day/45444&#34; onclick=&#34;trackOutboundLink(&#39;http://insidebitcoins.com/news/ripple-rising-centralized-cryptocurrency-sees-30-gain-in-one-day/45444&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Can Google take on Amazon in the cloud computing battle?</title>
-      <link>//crypt0.net/post/can-google-take-on-amazon-in-the-cloud-computing-battle/</link>
-      <pubDate>Sat, 29 Apr 2017 09:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/can-google-take-on-amazon-in-the-cloud-computing-battle/</guid>
-      <description>&lt;p&gt;Diane Greene, senior vice president of Google Cloud, recently announced that Google will pull ahead of Amazon as the leader in cloud technology by &amp;hellip;  &lt;a href=&#34;http://www.cio.com/article/3193033/cloud-computing/can-google-take-on-amazon-in-the-cloud-computing-battle.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cio.com/article/3193033/cloud-computing/can-google-take-on-amazon-in-the-cloud-computing-battle.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
