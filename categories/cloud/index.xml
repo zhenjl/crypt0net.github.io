@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 29 Apr 2017 06:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Apr 2017 06:30:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon&#39;s cloud gain could be Google&#39;s cloud loss</title>
+      <link>//crypt0.net/post/amazons-cloud-gain-could-be-googles-cloud-loss/</link>
+      <pubDate>Sat, 29 Apr 2017 06:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazons-cloud-gain-could-be-googles-cloud-loss/</guid>
+      <description>&lt;p&gt;And the massive size of Amazon&amp;rsquo;s cloud offering, Amazon Web Services, and the growth of Microsoft&amp;rsquo;s own cloud business, Azure, is not good news &amp;hellip;  &lt;a href=&#34;https://www.recode.net/2017/4/28/15478804/amazon-cloud-gain-google-loss&#34; onclick=&#34;trackOutboundLink(&#39;https://www.recode.net/2017/4/28/15478804/amazon-cloud-gain-google-loss&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Drop deprecated enable_firewall and enable_vpn set...</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/gapicgoogleclouddatastorev1-0904/</guid>
       <description>&lt;p&gt;gapic-google-cloud-datastore-v1 uses google-gax (Google API extensions) to provide an &amp;hellip;  &lt;a href=&#34;https://pypi.python.org/pypi/gapic-google-cloud-datastore-v1/0.90.4&#34; onclick=&#34;trackOutboundLink(&#39;https://pypi.python.org/pypi/gapic-google-cloud-datastore-v1/0.90.4&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Amazon Dominates the Cloud as AWS Revenue Soars in Q1</title>
-      <link>//crypt0.net/post/amazon-dominates-the-cloud-as-aws-revenue-soars-in-q1/</link>
-      <pubDate>Fri, 28 Apr 2017 19:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-dominates-the-cloud-as-aws-revenue-soars-in-q1/</guid>
-      <description>&lt;p&gt;Amazon Web Services (AWS) continued to dominate the cloud services sector and be a major money maker for the company in the first few months of &amp;hellip;  &lt;a href=&#34;https://www.sdxcentral.com/articles/news/aws-revenue-soars-q1/2017/04/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.sdxcentral.com/articles/news/aws-revenue-soars-q1/2017/04/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
