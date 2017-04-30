@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 30 Apr 2017 08:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Apr 2017 09:00:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to add OpenStack as a Cloud Provider in CloudForms when using keystone</title>
+      <link>//crypt0.net/post/how-to-add-openstack-as-a-cloud-provider-in-cloudforms-when-using-keystone/</link>
+      <pubDate>Sun, 30 Apr 2017 09:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-add-openstack-as-a-cloud-provider-in-cloudforms-when-using-keystone/</guid>
+      <description>&lt;p&gt;How to add Red Hat OpenStack Platform as a Cloud Provider in Red Hat &amp;hellip; Red Hat OpenStack Platform 10; Red Hat CloudForms 4.2; Keystone v3 &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/3018391&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/3018391&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Alphabet Inc (GOOGL): Strong Q1 Results from A to Z</title>
@@ -273,18 +285,6 @@
       
       <guid>//crypt0.net/post/microsoft-trademarks-direct-physics-directx-12-integration-seems-imminent/</guid>
       <description>&lt;p&gt;&amp;hellip; is a fantastic addition to Microsoft&amp;rsquo;s existing tools and platform components for developers, including DirectX 12, Visual Studio and Microsoft Azure.  &lt;a href=&#34;http://www.mobipicker.com/microsoft-trademarks-direct-physics-directx-12-integration-seems-imminent/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.mobipicker.com/microsoft-trademarks-direct-physics-directx-12-integration-seems-imminent/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud &amp; YouTube-8M Video Understanding Challenge</title>
-      <link>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</link>
-      <pubDate>Sat, 29 Apr 2017 13:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud--youtube8m-video-understanding-challenge/</guid>
-      <description>&lt;p&gt;ago. 0. Giving the following command. gcloud ml-engine local train &amp;hellip;  &lt;a href=&#34;https://www.kaggle.com/c/youtube8m/forums/t/32289/help-not-able-to-train-for-frame-level-features?forumMessageId=179018&#34; onclick=&#34;trackOutboundLink(&#39;https://www.kaggle.com/c/youtube8m/forums/t/32289/help-not-able-to-train-for-frame-level-features?forumMessageId=179018&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
