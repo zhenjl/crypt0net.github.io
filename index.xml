@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 01 May 2017 03:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 04:00:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nova quotas update for large values erroneous</title>
+      <link>//crypt0.net/post/nova-quotas-update-for-large-values-erroneous/</link>
+      <pubDate>Mon, 01 May 2017 04:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/nova-quotas-update-for-large-values-erroneous/</guid>
+      <description>&lt;p&gt;value is not what we expected. For example, 1. If we try to update virtual &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1687379&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1687379&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Can blockchain technology help poor people around the world?</title>
@@ -175,18 +187,6 @@
       <description>&lt;p&gt;Given that blockchain can deliver these key features through applications that focus on a specific problem  the mortgage industry is a prime &amp;hellip;  &lt;a href=&#34;http://www.mortgagefinancegazette.com/features/blockchain-can-improve-mortgage-process-01-05-2017/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.mortgagefinancegazette.com/features/blockchain-can-improve-mortgage-process-01-05-2017/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Azure SQL Database - Dynamic Data Masking</title>
-      <link>//crypt0.net/post/azure-sql-database--dynamic-data-masking/</link>
-      <pubDate>Mon, 01 May 2017 01:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-sql-database--dynamic-data-masking/</guid>
-      <description>&lt;p&gt;Their availability reflects the consistent effort by Microsoft to provide functional parity between Azure SQL Database and SQL Server instances running &amp;hellip;  &lt;a href=&#34;http://www.databasejournal.com/features/mssql/azure-sql-database-dynamic-data-masking.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.databasejournal.com/features/mssql/azure-sql-database-dynamic-data-masking.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
