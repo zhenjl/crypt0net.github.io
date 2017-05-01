@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 01 May 2017 08:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 09:40:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multi-cloud is a messy reality, but there&#39;s hope</title>
+      <link>//crypt0.net/post/multicloud-is-a-messy-reality-but-theres-hope/</link>
+      <pubDate>Mon, 01 May 2017 09:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/multicloud-is-a-messy-reality-but-theres-hope/</guid>
+      <description>&lt;p&gt;In other words, if you want the best of AWS, Microsoft Azure, and Google Cloud, it&amp;rsquo;s going to be hard to manage that &amp;lsquo;best&amp;rsquo; in a central, cross-cloud tool.  &lt;a href=&#34;http://www.zdnet.com/article/multi-cloud-is-a-messy-reality-but-theres-hope/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/multi-cloud-is-a-messy-reality-but-theres-hope/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>State of the cloud: Microsoft surges, AWS drives company&#39;s operating profit</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/azure-sql-database--dynamic-data-masking/</guid>
       <description>&lt;p&gt;Their availability reflects the consistent effort by Microsoft to provide functional parity between Azure SQL Database and SQL Server instances running &amp;hellip;  &lt;a href=&#34;http://www.databasejournal.com/features/mssql/azure-sql-database-dynamic-data-masking.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.databasejournal.com/features/mssql/azure-sql-database-dynamic-data-masking.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google launches Solve for India campaign</title>
-      <link>//crypt0.net/post/google-launches-solve-for-india-campaign/</link>
-      <pubDate>Sun, 30 Apr 2017 23:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-launches-solve-for-india-campaign/</guid>
-      <description>&lt;p&gt;&amp;hellip; along with $50,000 worth of equity-fee investments. The company has also stated that it would provide over $20,000 of Google cloud credits as well.  &lt;a href=&#34;http://www.deccanchronicle.com/technology/in-other-news/010517/google-launches-solve-for-india-campaign.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.deccanchronicle.com/technology/in-other-news/010517/google-launches-solve-for-india-campaign.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
