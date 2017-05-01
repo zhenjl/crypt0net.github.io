@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 30 Apr 2017 23:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 01:30:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure SQL Database - Dynamic Data Masking</title>
+      <link>//crypt0.net/post/azure-sql-database--dynamic-data-masking/</link>
+      <pubDate>Mon, 01 May 2017 01:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-sql-database--dynamic-data-masking/</guid>
+      <description>&lt;p&gt;Their availability reflects the consistent effort by Microsoft to provide functional parity between Azure SQL Database and SQL Server instances running &amp;hellip;  &lt;a href=&#34;http://www.databasejournal.com/features/mssql/azure-sql-database-dynamic-data-masking.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.databasejournal.com/features/mssql/azure-sql-database-dynamic-data-masking.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google launches Solve for India campaign</title>
@@ -219,18 +231,6 @@
       
       <guid>//crypt0.net/post/how-to-add-openstack-as-a-cloud-provider-in-cloudforms-when-using-keystone/</guid>
       <description>&lt;p&gt;How to add Red Hat OpenStack Platform as a Cloud Provider in Red Hat &amp;hellip; Red Hat OpenStack Platform 10; Red Hat CloudForms 4.2; Keystone v3 &amp;hellip;  &lt;a href=&#34;https://access.redhat.com/solutions/3018391&#34; onclick=&#34;trackOutboundLink(&#39;https://access.redhat.com/solutions/3018391&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Alphabet Inc (GOOGL): Strong Q1 Results from A to Z</title>
-      <link>//crypt0.net/post/alphabet-inc-googl-strong-q1-results-from-a-to-z/</link>
-      <pubDate>Sun, 30 Apr 2017 08:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/alphabet-inc-googl-strong-q1-results-from-a-to-z/</guid>
-      <description>&lt;p&gt;Management also emphasized improving growth trends in the Google Cloud Platform, as the company leverages its broad portfolio of AI/ML tech &amp;hellip;  &lt;a href=&#34;http://smartstocknews.com/75167-alphabet-inc-googl-strong-q1-results-from-a-to-z/&#34; onclick=&#34;trackOutboundLink(&#39;http://smartstocknews.com/75167-alphabet-inc-googl-strong-q1-results-from-a-to-z/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
