@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 01 May 2017 10:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 12:00:05 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Microsoft and Google Are Gunning for Amazon&#39;s Cloud Dominance</title>
+      <link>//crypt0.net/post/how-microsoft-and-google-are-gunning-for-amazons-cloud-dominance/</link>
+      <pubDate>Mon, 01 May 2017 12:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-microsoft-and-google-are-gunning-for-amazons-cloud-dominance/</guid>
+      <description>&lt;p&gt;Azure, Microsoft&amp;rsquo;s cloud platform, is in second place with a 10% share, according to Synergy. IBM Cloud has 8% of the market and Alphabet&amp;rsquo;s Google &amp;hellip;  &lt;a href=&#34;https://www.thestreet.com/story/14109584/1/amazon-remains-the-biggest-cloud-in-the-sky.html&#34; onclick=&#34;trackOutboundLink(&#39;https://www.thestreet.com/story/14109584/1/amazon-remains-the-biggest-cloud-in-the-sky.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joining forces: Kubernetes Day at the OpenStack Summit</title>
+      <link>//crypt0.net/post/joining-forces-kubernetes-day-at-the-openstack-summit/</link>
+      <pubDate>Mon, 01 May 2017 12:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/joining-forces-kubernetes-day-at-the-openstack-summit/</guid>
+      <description>&lt;p&gt;They could be competing for that title, or even turning into frenemies, but &amp;hellip;  &lt;a href=&#34;https://www.cncf.io/blog/2017/05/01/joining-forces-kubernetes-day-openstack-summit/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.cncf.io/blog/2017/05/01/joining-forces-kubernetes-day-openstack-summit/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Should Amazon be Worried about Slowing AWS Growth Rates?</title>
+      <link>//crypt0.net/post/should-amazon-be-worried-about-slowing-aws-growth-rates/</link>
+      <pubDate>Mon, 01 May 2017 12:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/should-amazon-be-worried-about-slowing-aws-growth-rates/</guid>
+      <description>&lt;p&gt;Amazon Web Services, or AWS, is the undisputed leader of the Infrastructure as a Service (IaaS) segment within cloud computing. Amazon Web &amp;hellip;  &lt;a href=&#34;http://1reddrop.com/2017/05/01/amazon-worried-slowing-aws-growth-rates/&#34; onclick=&#34;trackOutboundLink(&#39;http://1reddrop.com/2017/05/01/amazon-worried-slowing-aws-growth-rates/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build a Cloud-Integrated Surveillance System Using Microsoft Azure and</title>
@@ -149,42 +185,6 @@
       
       <guid>//crypt0.net/post/microsoft-azure-is-now-the-software-giants-new-moneymaking-machine-azure/</guid>
       <description>&lt;p&gt;University Herald Microsoft continued to see strong growth this year. Leading the big charge will be the company&amp;rsquo;s cloud computing service, Microsoft Azure. Revenue &amp;hellip;  &lt;a href=&#34;http://www.universityherald.com/articles/74459/20170501/microsoft-microsoft-azure-azure-cloud-cloud-computing-office-365-computing-software-aws-microsoft-azure-news-aws-news-cloud-news-business-news-enterprise-it-news-software-news-it-news.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.universityherald.com/articles/74459/20170501/microsoft-microsoft-azure-azure-cloud-cloud-computing-office-365-computing-software-aws-microsoft-azure-news-aws-news-cloud-news-business-news-enterprise-it-news-software-news-it-news.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nova quotas update for large values erroneous</title>
-      <link>//crypt0.net/post/nova-quotas-update-for-large-values-erroneous/</link>
-      <pubDate>Mon, 01 May 2017 04:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nova-quotas-update-for-large-values-erroneous/</guid>
-      <description>&lt;p&gt;value is not what we expected. For example, 1. If we try to update virtual &amp;hellip;  &lt;a href=&#34;https://bugs.launchpad.net/bugs/1687379&#34; onclick=&#34;trackOutboundLink(&#39;https://bugs.launchpad.net/bugs/1687379&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Google Q1-17: ad revenues, Waymo, YouTube, Hardware, Machine Learning, AI &amp;</title>
-      <link>//crypt0.net/post/google-q117-ad-revenues-waymo-youtube-hardware-machine-learning-ai-/</link>
-      <pubDate>Mon, 01 May 2017 03:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-q117-ad-revenues-waymo-youtube-hardware-machine-learning-ai-/</guid>
-      <description>&lt;p&gt;MediaNama.com Alphabet said there was significant growth in its hardware efforts, like the Pixel phone and Google Home device, and also in Google Cloud.  &lt;a href=&#34;http://www.medianama.com/2017/05/223-google-q1-17-ad-revenues-waymo-youtube-hardware-machine-learning-ai/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.medianama.com/2017/05/223-google-q1-17-ad-revenues-waymo-youtube-hardware-machine-learning-ai/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Trademarks Direct Physics - Havok Physics May Be Rolled Into</title>
-      <link>//crypt0.net/post/microsoft-trademarks-direct-physics--havok-physics-may-be-rolled-into/</link>
-      <pubDate>Mon, 01 May 2017 03:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-trademarks-direct-physics--havok-physics-may-be-rolled-into/</guid>
-      <description>&lt;p&gt;Game Debate It&amp;rsquo;s a bit of a stretch but you may remember Microsoft acquired Havok back &amp;hellip; for developers, including DirectX 12, Visual Studio and Microsoft Azure.  &lt;a href=&#34;http://www.game-debate.com/news/22831/microsoft-trademarks-direct-physics-havok-physics-may-be-rolled-into-directx-12&#34; onclick=&#34;trackOutboundLink(&#39;http://www.game-debate.com/news/22831/microsoft-trademarks-direct-physics-havok-physics-may-be-rolled-into-directx-12&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
