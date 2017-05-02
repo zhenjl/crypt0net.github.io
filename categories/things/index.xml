@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 02 May 2017 07:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 07:50:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How can I set the timestamp of an MQTT message?</title>
+      <link>//crypt0.net/post/how-can-i-set-the-timestamp-of-an-mqtt-message/</link>
+      <pubDate>Tue, 02 May 2017 07:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-can-i-set-the-timestamp-of-an-mqtt-message/</guid>
+      <description>&lt;p&gt;qos&amp;gt;0, Watson IOT sets the timestamp of the message to the time, when it &amp;hellip;  &lt;a href=&#34;https://developer.ibm.com/answers/questions/372240/how-can-i-set-the-timestamp-of-an-mqtt-message.html&#34; onclick=&#34;trackOutboundLink(&#39;https://developer.ibm.com/answers/questions/372240/how-can-i-set-the-timestamp-of-an-mqtt-message.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IoT, Privacy, and Security: Innovation Vs. Regulation</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/new-way-to-invest-in-blockchain-technologies-is-open-to-all/</guid>
       <description>&lt;p&gt;brokers fees or go through exchange companies. Blockchain Capital is proving &amp;hellip;  &lt;a href=&#34;https://www.springwise.com/new-way-invest-blockchain-technologies-open/&#34; onclick=&#34;trackOutboundLink(&#39;https://www.springwise.com/new-way-invest-blockchain-technologies-open/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Oracle Plans Blockchain &#39;Pipelines&#39; to Boost Employee Efficiency</title>
-      <link>//crypt0.net/post/oracle-plans-blockchain-pipelines-to-boost-employee-efficiency/</link>
-      <pubDate>Tue, 02 May 2017 04:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/oracle-plans-blockchain-pipelines-to-boost-employee-efficiency/</guid>
-      <description>&lt;p&gt;A new patent application from Oracle suggests the database giant is seeking to harness blockchain to improve its internal workflows. The US Patent &amp;hellip;  &lt;a href=&#34;http://www.coindesk.com/oracle-plans-blockchain-pipelines-to-boost-employee-efficiency/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.coindesk.com/oracle-plans-blockchain-pipelines-to-boost-employee-efficiency/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
