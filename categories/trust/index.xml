@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 02 May 2017 10:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 11:20:06 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Is threat hunting the next step for modern SOCs?</title>
+      <link>//crypt0.net/post/is-threat-hunting-the-next-step-for-modern-socs/</link>
+      <pubDate>Tue, 02 May 2017 11:20:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/is-threat-hunting-the-next-step-for-modern-socs/</guid>
+      <description>&lt;p&gt;The emergence of threat hunting programs underscores the importance of the human factor in fighting the most dangerous and costly security threats.  &lt;a href=&#34;http://searchsecurity.techtarget.com/feature/Is-threat-hunting-the-next-step-for-modern-SOCs&#34; onclick=&#34;trackOutboundLink(&#39;http://searchsecurity.techtarget.com/feature/Is-threat-hunting-the-next-step-for-modern-SOCs&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Aadhaar data leak exposes cyber security flaws</title>
@@ -207,18 +219,6 @@
       
       <guid>//crypt0.net/post/data-breaches-its-still-personal/</guid>
       <description>&lt;p&gt;In a blog post last September, I highlighted how data breaches for the first half of 2016 shifted from stolen credit card data and financial information to &amp;hellip;  &lt;a href=&#34;http://www.networkworld.com/article/3193155/security/data-breaches-its-still-personal.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.networkworld.com/article/3193155/security/data-breaches-its-still-personal.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IBM X-Force Finds &#43;937% More Fin Svc Records Breached, &#43;29% Attacks In 2016</title>
-      <link>//crypt0.net/post/ibm-xforce-finds-937-more-fin-svc-records-breached-29-attacks-in-2016/</link>
-      <pubDate>Mon, 01 May 2017 14:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ibm-xforce-finds-937-more-fin-svc-records-breached-29-attacks-in-2016/</guid>
-      <description>&lt;p&gt;The new IBM X Force report once again demonstrates the escalating threat of data breaches that every organization is now facing, and underscores &amp;hellip;  &lt;a href=&#34;http://www.informationsecuritybuzz.com/expert-comments/ibm-x-force-finds-937-fin-svc-records-breached-29-attacks-2016/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.informationsecuritybuzz.com/expert-comments/ibm-x-force-finds-937-fin-svc-records-breached-29-attacks-2016/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/trustpath&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/trustpath&#39;); return false;&#34;&gt;@trustpath&lt;/a&gt;&lt;/p&gt;
 </description>
