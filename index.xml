@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 02 May 2017 09:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 09:30:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>In a connected world your customer may be a competitor</title>
+      <link>//crypt0.net/post/in-a-connected-world-your-customer-may-be-a-competitor/</link>
+      <pubDate>Tue, 02 May 2017 09:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/in-a-connected-world-your-customer-may-be-a-competitor/</guid>
+      <description>&lt;p&gt;Maersk, worried about Amazon&amp;rsquo;s distribution plans, went with Microsoft Azure over Amazon&amp;rsquo;s web services, according to this Fortune article.  &lt;a href=&#34;https://staceyoniot.com/in-a-connected-world-your-customer-may-be-a-competitor/&#34; onclick=&#34;trackOutboundLink(&#39;https://staceyoniot.com/in-a-connected-world-your-customer-may-be-a-competitor/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Red Hat and AWS Extend Strategic Alliance to Package Access to AWS Services</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/how-can-i-set-the-timestamp-of-an-mqtt-message/</guid>
       <description>&lt;p&gt;qos&amp;gt;0, Watson IOT sets the timestamp of the message to the time, when it &amp;hellip;  &lt;a href=&#34;https://developer.ibm.com/answers/questions/372240/how-can-i-set-the-timestamp-of-an-mqtt-message.html&#34; onclick=&#34;trackOutboundLink(&#39;https://developer.ibm.com/answers/questions/372240/how-can-i-set-the-timestamp-of-an-mqtt-message.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IoT, Privacy, and Security: Innovation Vs. Regulation</title>
-      <link>//crypt0.net/post/iot-privacy-and-security-innovation-vs-regulation/</link>
-      <pubDate>Tue, 02 May 2017 07:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/iot-privacy-and-security-innovation-vs-regulation/</guid>
-      <description>&lt;p&gt;Internet of Things (IoT) has emerged as a powerful tool that compliments the statement that Ashton made long back. From ovens to medical devices, &amp;hellip;  &lt;a href=&#34;http://www.cioreview.com/news/iot-privacy-and-security-innovation-vs-regulation-nid-24271-cid-133.html&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cioreview.com/news/iot-privacy-and-security-innovation-vs-regulation-nid-24271-cid-133.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>
