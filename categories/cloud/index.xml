@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 02 May 2017 00:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 00:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wrangling Multiple AWS Accounts with AWS Organizations</title>
+      <link>//crypt0.net/post/wrangling-multiple-aws-accounts-with-aws-organizations/</link>
+      <pubDate>Tue, 02 May 2017 00:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/wrangling-multiple-aws-accounts-with-aws-organizations/</guid>
+      <description>&lt;p&gt;newly launched service - AWS Organizations. In this session we&amp;rsquo;ll look at &amp;hellip;  &lt;a href=&#34;https://www.slideshare.net/AmazonWebServices/wrangling-multiple-aws-accounts-with-aws-organizations&#34; onclick=&#34;trackOutboundLink(&#39;https://www.slideshare.net/AmazonWebServices/wrangling-multiple-aws-accounts-with-aws-organizations&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ensono &amp; AWS team up for launch of hyperscale cloud incubator</title>
@@ -291,18 +303,6 @@
       
       <guid>//crypt0.net/post/google-shares-rise-on-earnings-beat/</guid>
       <description>&lt;p&gt;When a customer signs up for Google Cloud, they get more than just GCP [Google Cloud Platform] and G Suite, he said. Still, the lion&amp;rsquo;s share of &amp;hellip;  &lt;a href=&#34;http://pppfocus.com/2017/05/01/google-shares-rise-on-earnings-beat/&#34; onclick=&#34;trackOutboundLink(&#39;http://pppfocus.com/2017/05/01/google-shares-rise-on-earnings-beat/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Managed OpenStack private cloud gains support vs. roll-your-own</title>
-      <link>//crypt0.net/post/managed-openstack-private-cloud-gains-support-vs-rollyourown/</link>
-      <pubDate>Mon, 01 May 2017 15:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/managed-openstack-private-cloud-gains-support-vs-rollyourown/</guid>
-      <description>&lt;p&gt;An OpenStack private cloud managed as a service can simplify deployment and operation for enterprises and focus on the benefits of cloud computing &amp;hellip;  &lt;a href=&#34;http://searchdatacenter.techtarget.com/news/450417985/Managed-OpenStack-private-cloud-gains-support-vs-roll-your-own&#34; onclick=&#34;trackOutboundLink(&#39;http://searchdatacenter.techtarget.com/news/450417985/Managed-OpenStack-private-cloud-gains-support-vs-roll-your-own&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
