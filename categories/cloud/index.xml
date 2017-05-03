@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 03 May 2017 00:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2017 01:20:02 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Distributed Traceability in AWS - Life of a Transaction</title>
+      <link>//crypt0.net/post/distributed-traceability-in-aws--life-of-a-transaction/</link>
+      <pubDate>Wed, 03 May 2017 01:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/distributed-traceability-in-aws--life-of-a-transaction/</guid>
+      <description>&lt;p&gt;the Next 30 Minutes  Modern application &amp;amp; DevOps challenges  Application &amp;hellip;  &lt;a href=&#34;https://www.slideshare.net/AmazonWebServices/distributed-traceability-in-aws-life-of-a-transaction&#34; onclick=&#34;trackOutboundLink(&#39;https://www.slideshare.net/AmazonWebServices/distributed-traceability-in-aws-life-of-a-transaction&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Red Hat OpenShift Container Platform on Amazon Web Services</title>
@@ -324,18 +336,6 @@
       
       <guid>//crypt0.net/post/how-to-print-from-your-android-phone-or-tablet-using-google-cloud-print/</guid>
       <description>&lt;p&gt;Google Cloud lets you print wirelessly with the help your Android device. It links your printer with your Chrome account and device to print on the move &amp;hellip;  &lt;a href=&#34;https://wccftech.com/how-to-print-android-google-cloud-print/&#34; onclick=&#34;trackOutboundLink(&#39;https://wccftech.com/how-to-print-android-google-cloud-print/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Does OpenStack have an advantage over proprietary cloud solutions?</title>
-      <link>//crypt0.net/post/does-openstack-have-an-advantage-over-proprietary-cloud-solutions/</link>
-      <pubDate>Tue, 02 May 2017 15:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/does-openstack-have-an-advantage-over-proprietary-cloud-solutions/</guid>
-      <description>&lt;p&gt;The intent behind Rackspace and NASA&amp;rsquo;s OpenStack project was to build a community around the first fully open-source cloud platform towards the &amp;hellip;  &lt;a href=&#34;https://siliconangle.com/blog/2017/05/02/openstack-advantage-proprietary-cloud-solutions-redhatsummit/&#34; onclick=&#34;trackOutboundLink(&#39;https://siliconangle.com/blog/2017/05/02/openstack-advantage-proprietary-cloud-solutions-redhatsummit/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
