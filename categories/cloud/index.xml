@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 02 May 2017 23:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2017 00:20:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Red Hat OpenShift Container Platform on Amazon Web Services</title>
+      <link>//crypt0.net/post/red-hat-openshift-container-platform-on-amazon-web-services/</link>
+      <pubDate>Wed, 03 May 2017 00:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/red-hat-openshift-container-platform-on-amazon-web-services/</guid>
+      <description>&lt;p&gt;initiatives that collectively serve to confirm that containers are the new &amp;hellip;  &lt;a href=&#34;http://containerjournal.com/tag/red-hat-openshift-container-platform-on-amazon-web-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://containerjournal.com/tag/red-hat-openshift-container-platform-on-amazon-web-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Arnab Goswami-led Republic announces Microsoft India as its technology</title>
@@ -324,18 +336,6 @@
       
       <guid>//crypt0.net/post/does-openstack-have-an-advantage-over-proprietary-cloud-solutions/</guid>
       <description>&lt;p&gt;The intent behind Rackspace and NASA&amp;rsquo;s OpenStack project was to build a community around the first fully open-source cloud platform towards the &amp;hellip;  &lt;a href=&#34;https://siliconangle.com/blog/2017/05/02/openstack-advantage-proprietary-cloud-solutions-redhatsummit/&#34; onclick=&#34;trackOutboundLink(&#39;https://siliconangle.com/blog/2017/05/02/openstack-advantage-proprietary-cloud-solutions-redhatsummit/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Red Hat and Amazon integrate AWS, RHEL, and OpenShift</title>
-      <link>//crypt0.net/post/red-hat-and-amazon-integrate-aws-rhel-and-openshift/</link>
-      <pubDate>Tue, 02 May 2017 14:10:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/red-hat-and-amazon-integrate-aws-rhel-and-openshift/</guid>
-      <description>&lt;p&gt;&amp;hellip; development and release dates with a third-party: Amazon Web Services (AWS). This alliance underlines just how important the cloud is to Red Hat &amp;hellip;  &lt;a href=&#34;http://www.zdnet.com/article/red-hat-and-amazon-integrate-aws-rhel-and-openshift/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.zdnet.com/article/red-hat-and-amazon-integrate-aws-rhel-and-openshift/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
