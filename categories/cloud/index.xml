@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 02 May 2017 16:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 17:30:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SoftNAS, Talon Think Global, Act Local in Cloud Storage</title>
+      <link>//crypt0.net/post/softnas-talon-think-global-act-local-in-cloud-storage/</link>
+      <pubDate>Tue, 02 May 2017 17:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/softnas-talon-think-global-act-local-in-cloud-storage/</guid>
+      <description>&lt;p&gt;Our customers are generally looking for secure, easily accessible cloud storage for unstructured data. AWS and Microsoft Azure are our lead partners; &amp;hellip;  &lt;a href=&#34;http://www.eweek.com/storage/softnas-talon-think-global-act-local-in-cloud-storage&#34; onclick=&#34;trackOutboundLink(&#39;http://www.eweek.com/storage/softnas-talon-think-global-act-local-in-cloud-storage&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How to Configure and Deploy a Bare Metal Controller using OpenStack* Ironic</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/in-a-connected-world-your-customer-may-be-a-competitor/</guid>
       <description>&lt;p&gt;Maersk, worried about Amazon&amp;rsquo;s distribution plans, went with Microsoft Azure over Amazon&amp;rsquo;s web services, according to this Fortune article.  &lt;a href=&#34;https://staceyoniot.com/in-a-connected-world-your-customer-may-be-a-competitor/&#34; onclick=&#34;trackOutboundLink(&#39;https://staceyoniot.com/in-a-connected-world-your-customer-may-be-a-competitor/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Red Hat and AWS Extend Strategic Alliance to Package Access to AWS Services</title>
-      <link>//crypt0.net/post/red-hat-and-aws-extend-strategic-alliance-to-package-access-to-aws-services/</link>
-      <pubDate>Tue, 02 May 2017 09:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/red-hat-and-aws-extend-strategic-alliance-to-package-access-to-aws-services/</guid>
-      <description>&lt;p&gt;Yahoo Finance Today, Red Hat, Inc. (RHT), the world&amp;rsquo;s leading provider of open source solutions, and Amazon Web Services, Inc. (AWS), an Amazon.com company &amp;hellip;  &lt;a href=&#34;http://finance.yahoo.com/news/red-hat-aws-extend-strategic-120000869.html&#34; onclick=&#34;trackOutboundLink(&#39;http://finance.yahoo.com/news/red-hat-aws-extend-strategic-120000869.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
