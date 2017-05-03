@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 03 May 2017 06:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2017 06:40:03 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How hackers use Google cloud services to attack enterprises</title>
+      <link>//crypt0.net/post/how-hackers-use-google-cloud-services-to-attack-enterprises/</link>
+      <pubDate>Wed, 03 May 2017 06:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-hackers-use-google-cloud-services-to-attack-enterprises/</guid>
+      <description>&lt;p&gt;Hackers, such as the Carbanak group, use Google cloud services to infiltrate organizations&amp;rsquo; systems. Expert Rob Shapland explains how that works &amp;hellip;  &lt;a href=&#34;http://searchcloudsecurity.techtarget.com/tip/How-hackers-use-Google-cloud-services-to-attack-enterprises&#34; onclick=&#34;trackOutboundLink(&#39;http://searchcloudsecurity.techtarget.com/tip/How-hackers-use-Google-cloud-services-to-attack-enterprises&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Pioneering the Future of Data Intelligence</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/distributed-traceability-in-aws--life-of-a-transaction/</guid>
       <description>&lt;p&gt;the Next 30 Minutes  Modern application &amp;amp; DevOps challenges  Application &amp;hellip;  &lt;a href=&#34;https://www.slideshare.net/AmazonWebServices/distributed-traceability-in-aws-life-of-a-transaction&#34; onclick=&#34;trackOutboundLink(&#39;https://www.slideshare.net/AmazonWebServices/distributed-traceability-in-aws-life-of-a-transaction&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Red Hat OpenShift Container Platform on Amazon Web Services</title>
-      <link>//crypt0.net/post/red-hat-openshift-container-platform-on-amazon-web-services/</link>
-      <pubDate>Wed, 03 May 2017 00:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/red-hat-openshift-container-platform-on-amazon-web-services/</guid>
-      <description>&lt;p&gt;initiatives that collectively serve to confirm that containers are the new &amp;hellip;  &lt;a href=&#34;http://containerjournal.com/tag/red-hat-openshift-container-platform-on-amazon-web-services/&#34; onclick=&#34;trackOutboundLink(&#39;http://containerjournal.com/tag/red-hat-openshift-container-platform-on-amazon-web-services/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
