@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 03 May 2017 19:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2017 20:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWS Identity and Access Management administration</title>
+      <link>//crypt0.net/post/aws-identity-and-access-management-administration/</link>
+      <pubDate>Wed, 03 May 2017 20:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-identity-and-access-management-administration/</guid>
+      <description>&lt;p&gt;Provider [AWS Identity and Access Management administration].  &lt;a href=&#34;http://status.cloudways.com/incidents/1vx1jgs6tq3h&#34; onclick=&#34;trackOutboundLink(&#39;http://status.cloudways.com/incidents/1vx1jgs6tq3h&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Honeywell&#39;s Connected Building Offering to Be Hosted on Microsoft Azure</title>
@@ -348,18 +360,6 @@
       
       <guid>//crypt0.net/post/study-shows-about-twothirds-of-enterprise-workloads-remain-inhouse/</guid>
       <description>&lt;p&gt;&amp;hellip; that their jobs will be outsourced as companies move their IT operations to public platforms like Amazon Web Services (AWS) and Microsoft Azure.  &lt;a href=&#34;https://virtualizationreview.com/articles/2017/05/03/about-two-thirds-of-enterprise-workloads-remain-in-house.aspx&#34; onclick=&#34;trackOutboundLink(&#39;https://virtualizationreview.com/articles/2017/05/03/about-two-thirds-of-enterprise-workloads-remain-in-house.aspx&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using Google Data Studio for SEO</title>
-      <link>//crypt0.net/post/using-google-data-studio-for-seo/</link>
-      <pubDate>Wed, 03 May 2017 12:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/using-google-data-studio-for-seo/</guid>
-      <description>&lt;p&gt;First we need to create a dataset by uploading the CSV file using the File Upload option in Data Studio. This will place it into Google Cloud Storage.  &lt;a href=&#34;http://www.practicalecommerce.com/Using-Google-Data-Studio-for-SEO&#34; onclick=&#34;trackOutboundLink(&#39;http://www.practicalecommerce.com/Using-Google-Data-Studio-for-SEO&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
