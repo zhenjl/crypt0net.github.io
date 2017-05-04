@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 04 May 2017 12:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 12:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why are IoT developers confused by MQTT and CoAP?</title>
+      <link>//crypt0.net/post/why-are-iot-developers-confused-by-mqtt-and-coap/</link>
+      <pubDate>Thu, 04 May 2017 12:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-are-iot-developers-confused-by-mqtt-and-coap/</guid>
+      <description>&lt;p&gt;For device communication, two specialized, competing protocols stand out: Message Queue Telemetry Transport (MQTT) and Constrained Application &amp;hellip;  &lt;a href=&#34;http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Why-are-IoT-developers-confused-by-MQTT-and-CoAP&#34; onclick=&#34;trackOutboundLink(&#39;http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Why-are-IoT-developers-confused-by-MQTT-and-CoAP&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain might make alternative payment models work better</title>
@@ -125,18 +137,6 @@
       
       <guid>//crypt0.net/post/lambda-provides-backbone-for-aws-iot-projects/</guid>
       <description>&lt;p&gt;The AWS Lambda functional programming model enables developers to code logic for internet of things (IoT) applications that work on the cloud or on &amp;hellip;  &lt;a href=&#34;http://searchaws.techtarget.com/tip/Lambda-provides-backbone-for-AWS-IoT-projects&#34; onclick=&#34;trackOutboundLink(&#39;http://searchaws.techtarget.com/tip/Lambda-provides-backbone-for-AWS-IoT-projects&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why are IoT developers confused by MQTT and CoAP?</title>
-      <link>//crypt0.net/post/why-are-iot-developers-confused-by-mqtt-and-coap/</link>
-      <pubDate>Thu, 04 May 2017 10:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-are-iot-developers-confused-by-mqtt-and-coap/</guid>
-      <description>&lt;p&gt;It is the Internet of Things, but with an enterprise angle. &amp;hellip; The Internet of Things (IoT) world may be exciting, but there are serious technical challenges &amp;hellip;  &lt;a href=&#34;http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Why-are-IoT-developers-confused-by-MQTT-and-CoAP&#34; onclick=&#34;trackOutboundLink(&#39;http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Why-are-IoT-developers-confused-by-MQTT-and-CoAP&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
 </description>

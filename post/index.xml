@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 04 May 2017 12:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 12:50:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why are IoT developers confused by MQTT and CoAP?</title>
+      <link>//crypt0.net/post/why-are-iot-developers-confused-by-mqtt-and-coap/</link>
+      <pubDate>Thu, 04 May 2017 12:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-are-iot-developers-confused-by-mqtt-and-coap/</guid>
+      <description>&lt;p&gt;For device communication, two specialized, competing protocols stand out: Message Queue Telemetry Transport (MQTT) and Constrained Application &amp;hellip;  &lt;a href=&#34;http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Why-are-IoT-developers-confused-by-MQTT-and-CoAP&#34; onclick=&#34;trackOutboundLink(&#39;http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Why-are-IoT-developers-confused-by-MQTT-and-CoAP&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/surgethings&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/surgethings&#39;); return false;&#34;&gt;@surgethings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A good day at the office for Amazon Web Services, partner commitments</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/this-diy-google-home-uses-raspberry-pi-and-cardboard-to-make-the-magic/</guid>
       <description>&lt;p&gt;TechCrunch &amp;hellip; Raspberry Pi and Google, and it brings all the hardware you need to get set up with the Google Assistant SDK, and the Google Cloud Speech API.  &lt;a href=&#34;https://techcrunch.com/2017/05/04/this-diy-google-home-uses-raspberry-pi-and-cardboard-to-make-the-magic-happen/&#34; onclick=&#34;trackOutboundLink(&#39;https://techcrunch.com/2017/05/04/this-diy-google-home-uses-raspberry-pi-and-cardboard-to-make-the-magic-happen/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Attivo Networks Executives Invited to Speak at NH-ISAC and OpenStack Summit</title>
-      <link>//crypt0.net/post/attivo-networks-executives-invited-to-speak-at-nhisac-and-openstack-summit/</link>
-      <pubDate>Thu, 04 May 2017 11:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/attivo-networks-executives-invited-to-speak-at-nhisac-and-openstack-summit/</guid>
-      <description>&lt;p&gt;Marketwired (press release) FREMONT, CA&amp;ndash;(Marketwired - May 4, 2017) - Attivo Networks, the award-winning leader in deception for cybersecurity defense, today announced &amp;hellip;  &lt;a href=&#34;http://www.marketwired.com/press-release/attivo-networks-executives-invited-speak-nh-isac-openstack-summit-next-week-2214044.htm&#34; onclick=&#34;trackOutboundLink(&#39;http://www.marketwired.com/press-release/attivo-networks-executives-invited-speak-nh-isac-openstack-summit-next-week-2214044.htm&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
