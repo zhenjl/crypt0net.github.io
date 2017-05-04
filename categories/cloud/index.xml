@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 04 May 2017 02:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 03:20:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Predictable performance is key to successful OpenStack telco deployments</title>
+      <link>//crypt0.net/post/predictable-performance-is-key-to-successful-openstack-telco-deployments/</link>
+      <pubDate>Thu, 04 May 2017 03:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/predictable-performance-is-key-to-successful-openstack-telco-deployments/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s taken a few years, but the telecom industry seems to have finally accepted that OpenStack is viable for deployments in networks that require high &amp;hellip;  &lt;a href=&#34;http://www.automotiveworld.com/news-releases/predictable-performance-key-successful-openstack-telco-deployments/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.automotiveworld.com/news-releases/predictable-performance-key-successful-openstack-telco-deployments/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>You can now use Google&#39;s AI to add voice commands to your Raspberry Pi</title>
@@ -41,18 +53,6 @@
       
       <guid>//crypt0.net/post/power-your-raspberry-pi-with-googles-giveaway-ai/</guid>
       <description>&lt;p&gt;The kit allows makers to access the Google Assistant SDK that powers devices like the Google Pixel and Google Home, as well as Google&amp;rsquo;s Cloud &amp;hellip;  &lt;a href=&#34;http://www.itpro.co.uk/desktop-hardware/28591/power-your-raspberry-pi-with-googles-giveaway-ai&#34; onclick=&#34;trackOutboundLink(&#39;http://www.itpro.co.uk/desktop-hardware/28591/power-your-raspberry-pi-with-googles-giveaway-ai&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Predictable Performance is Key to Successful OpenStack Telco Deployments</title>
-      <link>//crypt0.net/post/predictable-performance-is-key-to-successful-openstack-telco-deployments/</link>
-      <pubDate>Thu, 04 May 2017 00:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/predictable-performance-is-key-to-successful-openstack-telco-deployments/</guid>
-      <description>&lt;p&gt;have finally accepted that OpenStack is viable for deployments in networks &amp;hellip;  &lt;a href=&#34;http://blogs.windriver.com/wind_river_blog/2017/05/predictable-performance-is-key-to-successful-openstack-telco-deployments.html&#34; onclick=&#34;trackOutboundLink(&#39;http://blogs.windriver.com/wind_river_blog/2017/05/predictable-performance-is-key-to-successful-openstack-telco-deployments.html&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
