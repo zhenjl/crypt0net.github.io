@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 04 May 2017 23:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 10:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Good coding practices mean good data security</title>
+      <link>//crypt0.net/post/good-coding-practices-mean-good-data-security/</link>
+      <pubDate>Fri, 05 May 2017 10:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/good-coding-practices-mean-good-data-security/</guid>
+      <description>Data breaches are a dime a dozen these days. Are hackers getting better? Not really. It turns out that bad coding practices lead to insecure code and &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Data breaches: what company boards want to know and CISOs need to say</title>
