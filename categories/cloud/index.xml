@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 05 May 2017 21:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 21:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Puts Cloud-Native NFV to the Test in India</title>
+      <link>//crypt0.net/post/google-puts-cloudnative-nfv-to-the-test-in-india/</link>
+      <pubDate>Fri, 05 May 2017 21:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-puts-cloudnative-nfv-to-the-test-in-india/</guid>
+      <description>The network&amp;rsquo;s control plane is virtual, hosted in Google Cloud Platform and split up into microservices. &amp;ldquo;As the network software-ization becomes &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Webinar: Check Point vSEC for Microsoft Azure Workloads</title>
