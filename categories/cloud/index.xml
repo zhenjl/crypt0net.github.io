@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 05 May 2017 11:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 11:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why Shazam is shifting its GPUs to Google Cloud</title>
+      <link>//crypt0.net/post/why-shazam-is-shifting-its-gpus-to-google-cloud/</link>
+      <pubDate>Fri, 05 May 2017 11:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-shazam-is-shifting-its-gpus-to-google-cloud/</guid>
+      <description>Shazam is moving all its cloud GPUs to Google Cloud Platform (GCP) so it can scale up and scale down more easily than was possible with bare &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Expands Research Center in UK</title>
