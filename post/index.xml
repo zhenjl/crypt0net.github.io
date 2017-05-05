@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 05 May 2017 11:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 12:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Authenticating to a Cloud API Service</title>
+      <link>//crypt0.net/post/authenticating-to-a-cloud-api-service/</link>
+      <pubDate>Fri, 05 May 2017 12:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/authenticating-to-a-cloud-api-service/</guid>
+      <description>service account for production usage. A service account provides &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft: 1400 compatibility level in Azure Analysis Services</title>
+      <link>//crypt0.net/post/microsoft-1400-compatibility-level-in-azure-analysis-services/</link>
+      <pubDate>Fri, 05 May 2017 12:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-1400-compatibility-level-in-azure-analysis-services/</guid>
+      <description>We are excited to announce the public preview of the 1400 compatibility level for tabular models in Azure Analysis Services! This brings a host of new &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Public distrust healthcare providers following data breaches</title>
