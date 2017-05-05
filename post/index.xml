@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 05 May 2017 20:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 20:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unable to create read-only users within openstack</title>
+      <link>//crypt0.net/post/unable-to-create-readonly-users-within-openstack/</link>
+      <pubDate>Fri, 05 May 2017 20:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/unable-to-create-readonly-users-within-openstack/</guid>
+      <description>within OpenStack Need to add this feature to the charm. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Coming soon: The Walmart Dash button?</title>
