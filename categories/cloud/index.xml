@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 04 May 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 19:00:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure/petabyte-scale-ai-data-lake-dashboard</title>
+      <link>//crypt0.net/post/azurepetabytescaleaidatalakedashboard/</link>
+      <pubDate>Thu, 04 May 2017 19:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azurepetabytescaleaidatalakedashboard/</guid>
+      <description>&lt;p&gt;using Microsoft.Rest.Azure.Authentication;. using Microsoft.Rest.Azure.  &lt;a href=&#34;https://github.com/Azure/petabyte-scale-ai-data-lake-dashboard/blob/master/AiDataLakeDevOpsDashboard/Clients/AdlaManagementClient.cs&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/Azure/petabyte-scale-ai-data-lake-dashboard/blob/master/AiDataLakeDevOpsDashboard/Clients/AdlaManagementClient.cs&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - May 4, 2017</title>
@@ -402,18 +414,6 @@
       
       <guid>//crypt0.net/post/cloud-can-ease-burden-of-data-protection-compliance-google-execs-say/</guid>
       <description>&lt;p&gt;At Google&amp;rsquo;s Cloud Next event in London on Wednesday, the cloud provider announced that its portfolio of Cloud Platform and G Suite products will be &amp;hellip;  &lt;a href=&#34;http://www.cso.com.au/article/618758/cloud-can-ease-burden-data-protection-compliance-google-execs-say/&#34; onclick=&#34;trackOutboundLink(&#39;http://www.cso.com.au/article/618758/cloud-can-ease-burden-data-protection-compliance-google-execs-say/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Dell EMC announces hybrid cloud platform for Microsoft&#39;s Azure Stack</title>
-      <link>//crypt0.net/post/dell-emc-announces-hybrid-cloud-platform-for-microsofts-azure-stack/</link>
-      <pubDate>Thu, 04 May 2017 14:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/dell-emc-announces-hybrid-cloud-platform-for-microsofts-azure-stack/</guid>
-      <description>&lt;p&gt;With the long-awaited release of Microsoft Corp.&amp;rsquo;s Azure Stack offering said to be just months away, Dell EMC is hoping to convince customers to use &amp;hellip;  &lt;a href=&#34;https://siliconangle.com/blog/2017/05/04/dell-emc-announces-hybrid-cloud-platform-azure-stack/&#34; onclick=&#34;trackOutboundLink(&#39;https://siliconangle.com/blog/2017/05/04/dell-emc-announces-hybrid-cloud-platform-azure-stack/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>

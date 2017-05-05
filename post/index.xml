@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 04 May 2017 18:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 19:00:04 +0000</lastBuildDate>
     <atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Azure/petabyte-scale-ai-data-lake-dashboard</title>
+      <link>//crypt0.net/post/azurepetabytescaleaidatalakedashboard/</link>
+      <pubDate>Thu, 04 May 2017 19:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azurepetabytescaleaidatalakedashboard/</guid>
+      <description>&lt;p&gt;using Microsoft.Rest.Azure.Authentication;. using Microsoft.Rest.Azure.  &lt;a href=&#34;https://github.com/Azure/petabyte-scale-ai-data-lake-dashboard/blob/master/AiDataLakeDevOpsDashboard/Clients/AdlaManagementClient.cs&#34; onclick=&#34;trackOutboundLink(&#39;https://github.com/Azure/petabyte-scale-ai-data-lake-dashboard/blob/master/AiDataLakeDevOpsDashboard/Clients/AdlaManagementClient.cs&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>RIoT Control: Understanding and Managing Risks and the Internet of Things</title>
@@ -173,18 +185,6 @@
       
       <guid>//crypt0.net/post/dell-emc-targets-telecom-market-with-openstack-solutions-for-scaling/</guid>
       <description>&lt;p&gt;SiliconANGLE (blog) OpenStack puts a very big differentiation forward, said Ahmad. Our customers are telling us in a very, very clear way, and the channel partners who &amp;hellip;  &lt;a href=&#34;https://siliconangle.com/blog/2017/05/04/dell-emc-answers-enterprise-demand-open-source-cloud-solutions-redhatsummit/&#34; onclick=&#34;trackOutboundLink(&#39;https://siliconangle.com/blog/2017/05/04/dell-emc-answers-enterprise-demand-open-source-cloud-solutions-redhatsummit/&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SevOne werkt samen met Red Hat om een krachtige NFV-oplossing voor</title>
-      <link>//crypt0.net/post/sevone-werkt-samen-met-red-hat-om-een-krachtige-nfvoplossing-voor/</link>
-      <pubDate>Thu, 04 May 2017 15:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sevone-werkt-samen-met-red-hat-om-een-krachtige-nfvoplossing-voor/</guid>
-      <description>&lt;p&gt;SYS-CON Media (press release) Het OpenStack-woordmerk is een handelsmerk of gedeponeerd handelsmerk van de OpenStack Foundation in de Verenigde Staten en andere &amp;hellip;  &lt;a href=&#34;http://news.sys-con.com/node/4073813&#34; onclick=&#34;trackOutboundLink(&#39;http://news.sys-con.com/node/4073813&#39;); return false;&#34;&gt;more&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/crypt0net&#34; onclick=&#34;trackTwitterLink(&#39;http://twitter.com/crypt0net&#39;); return false;&#34;&gt;@crypt0net&lt;/a&gt;&lt;/p&gt;
 </description>
