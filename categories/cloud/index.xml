@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 05 May 2017 17:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 18:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Making OpenStack Neutron Better for Everyone</title>
+      <link>//crypt0.net/post/making-openstack-neutron-better-for-everyone/</link>
+      <pubDate>Fri, 05 May 2017 18:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/making-openstack-neutron-better-for-everyone/</guid>
+      <description>information is available here). In a nutshell, neutron-lib is about two things:. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft, Alibaba Show Strong Cloud Results</title>
