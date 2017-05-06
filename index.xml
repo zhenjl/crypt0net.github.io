@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 06 May 2017 00:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 May 2017 01:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accelerating your OpenStack Environment on FlashBlade</title>
+      <link>//crypt0.net/post/accelerating-your-openstack-environment-on-flashblade/</link>
+      <pubDate>Sat, 06 May 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/accelerating-your-openstack-environment-on-flashblade/</guid>
+      <description>be released I thought it might be interesting to show you how you can &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Cybersecurity Reports Agree on Espionage, Differ on Public-Sector Data</title>
