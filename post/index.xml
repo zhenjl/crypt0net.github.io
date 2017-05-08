@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 08 May 2017 20:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 20:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automating IBM Spectrum Scale Deployment with Ubuntu OpenStack Cloud and</title>
+      <link>//crypt0.net/post/automating-ibm-spectrum-scale-deployment-with-ubuntu-openstack-cloud-and/</link>
+      <pubDate>Mon, 08 May 2017 20:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/automating-ibm-spectrum-scale-deployment-with-ubuntu-openstack-cloud-and/</guid>
+      <description>Now Canonical&amp;rsquo;s JuJu charms can help automate deployments of IBM Spectrum ScaleTM with Ubuntu OpenStack cloud. Just in time for the 2017 &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Azure Backup available in Microsoft Azure Germany</title>
