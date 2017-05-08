@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 08 May 2017 20:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 21:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Connect your simulated device to your IoT hub using .NET</title>
+      <link>//crypt0.net/post/connect-your-simulated-device-to-your-iot-hub-using-net/</link>
+      <pubDate>Mon, 08 May 2017 21:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/connect-your-simulated-device-to-your-iot-hub-using-net/</guid>
+      <description>IoT hub, also take actions according to cloud-to-device message. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>PTC Connects Industrial Data to Microsoft&#39;s Cloud</title>
+      <link>//crypt0.net/post/ptc-connects-industrial-data-to-microsofts-cloud/</link>
+      <pubDate>Mon, 08 May 2017 21:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/ptc-connects-industrial-data-to-microsofts-cloud/</guid>
+      <description>PTC has announced that its Kepware industrial connectivity software now integrates with Microsoft&amp;rsquo;s Azure cloud. Kepware&amp;rsquo;s KEPServerEX software &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Confluent Moves Kafka to the Cloud</title>
