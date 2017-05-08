@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 08 May 2017 12:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2017 12:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A survey of secure middleware for the Internet of Things</title>
+      <link>//crypt0.net/post/a-survey-of-secure-middleware-for-the-internet-of-things/</link>
+      <pubDate>Mon, 08 May 2017 12:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/a-survey-of-secure-middleware-for-the-internet-of-things/</guid>
+      <description>of Things (IoT), is creating a new set of challenges to create secure, &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Confused about blockchain? You should be</title>
