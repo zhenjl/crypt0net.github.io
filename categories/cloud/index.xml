@@ -7,10 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 09 May 2017 14:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 15:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amadeus opts for VMware OpenStack to transform travel</title>
+      <link>//crypt0.net/post/amadeus-opts-for-vmware-openstack-to-transform-travel/</link>
+      <pubDate>Tue, 09 May 2017 15:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amadeus-opts-for-vmware-openstack-to-transform-travel/</guid>
+      <description>VMware Integrated OpenStack offers Amadeus the fastest path to supporting VMware vSphere workloads in an API-driven OpenStack cloud. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Bright Computing Announces 8.0 Release</title>
+      <link>//crypt0.net/post/bright-computing-announces-80-release/</link>
+      <pubDate>Tue, 09 May 2017 15:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bright-computing-announces-80-release/</guid>
+      <description>Support for OpenStack Newton to manage bare metal, virtual machines, and container frameworks, Bright OpenStack 8.0 features improved logging &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Developers&#39; Heads Will Be in the Cloud at Microsoft&#39;s Build Show</title>
+      <link>//crypt0.net/post/developers-heads-will-be-in-the-cloud-at-microsofts-build-show/</link>
+      <pubDate>Tue, 09 May 2017 15:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/developers-heads-will-be-in-the-cloud-at-microsofts-build-show/</guid>
+      <description>The most important technology show on Microsoft&amp;rsquo;s calendar &amp;ndash; the Build &amp;hellip; It&amp;rsquo;s the first time the event will be held in Microsoft&amp;rsquo;s backyard since 2012. &amp;hellip; Julia White, a Microsoft corporate vice president who oversees Azure marketing, &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>How the US Army Is Using OpenStack To Train Cyber Security</title>
+      <link>//crypt0.net/post/how-the-us-army-is-using-openstack-to-train-cyber-security/</link>
+      <pubDate>Tue, 09 May 2017 15:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-the-us-army-is-using-openstack-to-train-cyber-security/</guid>
+      <description>At the OpenStack Summit, U.S. Army officers explain how they moved to an open-source cloud system to train cyber-warriors to defend, attack and &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Kinetica GPU-Accelerated Database Immediately Available on Microsoft Azure</title>
+      <link>//crypt0.net/post/kinetica-gpuaccelerated-database-immediately-available-on-microsoft-azure/</link>
+      <pubDate>Tue, 09 May 2017 15:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/kinetica-gpuaccelerated-database-immediately-available-on-microsoft-azure/</guid>
+      <description>SYS-CON Media (press release) NVIDIA GPU Technology Conference Kinetica, provider of the fastest GPU-accelerated database, today announced its in-memory analytics &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>OPNFV Membership Grows as Community Hosts OPNFV Open Source Day at</title>
+      <link>//crypt0.net/post/opnfv-membership-grows-as-community-hosts-opnfv-open-source-day-at/</link>
+      <pubDate>Tue, 09 May 2017 15:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/opnfv-membership-grows-as-community-hosts-opnfv-open-source-day-at/</guid>
+      <description>IT Business Net BOSTON, May 8, 2017 /PRNewswire-USNewswire/ &amp;ndash; OpenStack Summit &amp;ndash; The OPNFV Project, an open source project that facilitates the &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>SUSE Unveils SUSE OpenStack Cloud Monitoring to Simplify and Manage</title>
+      <link>//crypt0.net/post/suse-unveils-suse-openstack-cloud-monitoring-to-simplify-and-manage/</link>
+      <pubDate>Tue, 09 May 2017 15:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/suse-unveils-suse-openstack-cloud-monitoring-to-simplify-and-manage/</guid>
+      <description>IT Business Net BOSTON, May 8, 2017 /PRNewswire/ &amp;ndash; (OpenStack Summit) SUSE today unveiled SUSE OpenStack Cloud Monitoring, an open source software &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Second Generation Cloud: OpenStack Summit Day 1 Keynote Recap</title>
@@ -29,16 +99,6 @@
       
       <guid>//crypt0.net/post/dell-emc-debuts-cloud-platform-for-microsoft-azure/</guid>
       <description>Tech giant Dell EMC has announced a new hybrid cloud for the Microsoft Azure Stack that it said will allow organizations to implement and maintain &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Kinetica GPU-Accelerated Database Immediately Available on Microsoft Azure</title>
-      <link>//crypt0.net/post/kinetica-gpuaccelerated-database-immediately-available-on-microsoft-azure/</link>
-      <pubDate>Tue, 09 May 2017 14:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/kinetica-gpuaccelerated-database-immediately-available-on-microsoft-azure/</guid>
-      <description>Kinetica GPU-Accelerated Database Immediately Available on Microsoft Azure N-Series. more.
 @crypt0net</description>
     </item>
     
@@ -659,16 +719,6 @@
       
       <guid>//crypt0.net/post/remotely-managed-private-cloud-emerges-as-popular-model-for-consuming/</guid>
       <description>Business Wire (press release) BOSTON&amp;ndash;(BUSINESS WIRE)&amp;ndash;Smart organizations are getting sophisticated about workload placement across public and private clouds based on the &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>SUSE Unveils SUSE OpenStack Cloud Monitoring to Simplify and Manage</title>
-      <link>//crypt0.net/post/suse-unveils-suse-openstack-cloud-monitoring-to-simplify-and-manage/</link>
-      <pubDate>Mon, 08 May 2017 15:20:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/suse-unveils-suse-openstack-cloud-monitoring-to-simplify-and-manage/</guid>
-      <description>PR Newswire (press release) BOSTON, May 8, 2017 /PRNewswire/ &amp;ndash; (OpenStack Summit) SUSE today unveiled SUSE OpenStack Cloud Monitoring, an open source software &amp;hellip; more.
 @crypt0net</description>
     </item>
     
