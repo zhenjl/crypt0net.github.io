@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 09 May 2017 20:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 20:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why Edward Snowden loves open source</title>
+      <link>//crypt0.net/post/why-edward-snowden-loves-open-source/</link>
+      <pubDate>Tue, 09 May 2017 20:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-edward-snowden-loves-open-source/</guid>
+      <description>Snowden raised the question: When you&amp;rsquo;re running things in Google&amp;rsquo;s cloud, Amazon&amp;rsquo;s cloud, how do you know when you&amp;rsquo;re being spied on? more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How OpenStack is listening to the community and improving the project</title>
