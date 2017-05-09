@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 09 May 2017 02:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 02:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kyvos adds SQL support, availability on Google Cloud for OLAP-on-Hadoop</title>
+      <link>//crypt0.net/post/kyvos-adds-sql-support-availability-on-google-cloud-for-olaponhadoop/</link>
+      <pubDate>Tue, 09 May 2017 02:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/kyvos-adds-sql-support-availability-on-google-cloud-for-olaponhadoop/</guid>
+      <description>analytics at scale using existing BI tools by adding SQL support. Kyvos is also &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Assessing container maturation in a fully hybrid cloud</title>
