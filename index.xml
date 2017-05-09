@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 09 May 2017 16:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 17:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>F5 BIG-IP MQTT protocol support and use cases in an IoT environment</title>
+      <link>//crypt0.net/post/f5-bigip-mqtt-protocol-support-and-use-cases-in-an-iot-environment/</link>
+      <pubDate>Tue, 09 May 2017 17:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/f5-bigip-mqtt-protocol-support-and-use-cases-in-an-iot-environment/</guid>
+      <description>MQTT protocol. Check out some use cases and more. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Google Docs Phishing Attack: Company To Patch OAuth Exploit Used In Attack</title>
