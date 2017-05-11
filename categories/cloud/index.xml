@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 11 May 2017 03:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2017 05:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Azure Cosmos DB, a global solution for API devs</title>
+      <link>//crypt0.net/post/microsoft-azure-cosmos-db-a-global-solution-for-api-devs/</link>
+      <pubDate>Thu, 11 May 2017 05:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-cosmos-db-a-global-solution-for-api-devs/</guid>
+      <description>On Wednesday, Microsoft introduced Azure Cosmos DB, the tech giant&amp;rsquo;s expansion of its Azure DocumentDB database-as-a-service platform. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google Cloud Platform Launches Northern Virginia Region</title>
