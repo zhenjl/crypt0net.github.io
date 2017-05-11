@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 10 May 2017 23:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2017 00:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Breaking down Kubernetes use stats among OpenStack deployments</title>
+      <link>//crypt0.net/post/breaking-down-kubernetes-use-stats-among-openstack-deployments/</link>
+      <pubDate>Thu, 11 May 2017 00:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/breaking-down-kubernetes-use-stats-among-openstack-deployments/</guid>
+      <description>OpenStack Foundation leaders cited the organization&amp;rsquo;s annual user survey as evidence that a combination of OpenStack and Kubernetes &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Nvidia announced a plan to go up against Amazon, Google and Microsoft</title>
