@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 11 May 2017 09:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2017 10:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Add support for encrypted clouds.yml (openstack module)</title>
+      <link>//crypt0.net/post/add-support-for-encrypted-cloudsyml-openstack-module/</link>
+      <pubDate>Thu, 11 May 2017 10:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/add-support-for-encrypted-cloudsyml-openstack-module/</guid>
+      <description>kayrus opened this Issue 37 minutes ago 1 comment &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>The role of Access Rights Management in cyber security</title>
