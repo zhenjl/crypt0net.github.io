@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 17 May 2017 23:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2017 23:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google&#39;s Cloud TPU is ready for training and inferencing</title>
+      <link>//crypt0.net/post/googles-cloud-tpu-is-ready-for-training-and-inferencing/</link>
+      <pubDate>Wed, 17 May 2017 23:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/googles-cloud-tpu-is-ready-for-training-and-inferencing/</guid>
+      <description>The world of big iron computing seems to be laser-focused on machine learning these days. Whether it&amp;rsquo;s graphics chip makers Nvidia and AMD &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Symantec Blocks 22 Mln Attempted WannaCry Ransomware Attacks - Quick Facts</title>
