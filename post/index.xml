@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 17 May 2017 18:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2017 18:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bricata Releases New Advanced Threat Hunting and Detection Capabilities</title>
+      <link>//crypt0.net/post/bricata-releases-new-advanced-threat-hunting-and-detection-capabilities/</link>
+      <pubDate>Wed, 17 May 2017 18:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bricata-releases-new-advanced-threat-hunting-and-detection-capabilities/</guid>
+      <description>Bricata, LLC, announced today it has released the latest version of its next-generation intrusion detection and prevention solution, which now includes &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Build and train machine learning models on our new Google Cloud TPUs</title>
