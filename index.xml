@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 17 May 2017 14:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2017 14:20:01 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Avaya Networking Extends Hyper-Segmentation to OpenStack</title>
+      <link>//crypt0.net/post/avaya-networking-extends-hypersegmentation-to-openstack/</link>
+      <pubDate>Wed, 17 May 2017 14:20:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/avaya-networking-extends-hypersegmentation-to-openstack/</guid>
+      <description>The integration between Avaya&amp;rsquo;s Fabric Connect and the OpenStack networking subproject called Neutron relies on a simple plugin that improves &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Agosto&#39;s Open Source IoT Message Broker Now Available on Google Cloud</title>
