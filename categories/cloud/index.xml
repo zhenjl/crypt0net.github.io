@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 17 May 2017 19:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2017 19:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An under-pressure OpenStack gets support from an (in)famous individual</title>
+      <link>//crypt0.net/post/an-underpressure-openstack-gets-support-from-an-infamous-individual/</link>
+      <pubDate>Wed, 17 May 2017 19:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/an-underpressure-openstack-gets-support-from-an-infamous-individual/</guid>
+      <description>Last week saw a few thousand devoted OpenStack community members flock to Boston to take part in the bi-annual OpenStack Summit. This summit &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>OpenStack Ocata storage projects add enterprise features</title>
+      <link>//crypt0.net/post/openstack-ocata-storage-projects-add-enterprise-features/</link>
+      <pubDate>Wed, 17 May 2017 19:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-ocata-storage-projects-add-enterprise-features/</guid>
+      <description>The Cinder, Swift and Manila OpenStack storage projects focused on performance, stability, scalability and enterprise-level capabilities in the latest &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Red Hat: The Future Of Open Source</title>
+      <link>//crypt0.net/post/red-hat-the-future-of-open-source/</link>
+      <pubDate>Wed, 17 May 2017 19:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/red-hat-the-future-of-open-source/</guid>
+      <description>OpenStack, which is an open source operating software for the cloud, will have an addressable market of $5 billion by 2020. The Red Hat OpenStack &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>SAP Cloud Runs on Google, Microsoft, and AWS Public Clouds via Cloud</title>
