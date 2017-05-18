@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 18 May 2017 07:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2017 08:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TensorFlow Lite Is Google&#39;s Optimized TensorFlow For Android</title>
+      <link>//crypt0.net/post/tensorflow-lite-is-googles-optimized-tensorflow-for-android/</link>
+      <pubDate>Thu, 18 May 2017 08:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/tensorflow-lite-is-googles-optimized-tensorflow-for-android/</guid>
+      <description>Essentially, this means that a machine learning application could be trained on a traditional platform or via Google Cloud Platform, then simply &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Avaya Networking takes hyper-segmentation to OpenStack with its fabric</title>
