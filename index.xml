@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 18 May 2017 00:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2017 00:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Guide to Self-Service Deployment with vRealize Automation</title>
+      <link>//crypt0.net/post/a-guide-to-selfservice-deployment-with-vrealize-automation/</link>
+      <pubDate>Thu, 18 May 2017 00:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/a-guide-to-selfservice-deployment-with-vrealize-automation/</guid>
+      <description>Service Providers (vCAT-SP). Every month we publish a new article in our &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google&#39;s new TPUs are here to accelerate AI training</title>
