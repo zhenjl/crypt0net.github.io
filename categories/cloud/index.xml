@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 18 May 2017 09:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2017 09:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google &#39;Cloud TPU&#39; takes machine learning lead from Tesla V100</title>
+      <link>//crypt0.net/post/google-cloud-tpu-takes-machine-learning-lead-from-tesla-v100/</link>
+      <pubDate>Thu, 18 May 2017 09:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-tpu-takes-machine-learning-lead-from-tesla-v100/</guid>
+      <description>Google I/O 2017 is currently in full flow. Day one completed and already we have some great headlines from the developer conference. Here&amp;rsquo;s an &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>PROBLEM : how to create Openstack&#39;s VM with TERRAFORM</title>
