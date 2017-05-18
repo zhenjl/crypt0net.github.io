@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 18 May 2017 04:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2017 04:40:01 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Logical Volume Management (LVM) Support in Microsoft Azure</title>
+      <link>//crypt0.net/post/logical-volume-management-lvm-support-in-microsoft-azure/</link>
+      <pubDate>Thu, 18 May 2017 04:40:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/logical-volume-management-lvm-support-in-microsoft-azure/</guid>
+      <description>operating system disk in Microsoft Azure? more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Companies Are Creating So Much Data, It Has to Be Shipped in Trucks</title>
