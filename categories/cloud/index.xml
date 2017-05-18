@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 18 May 2017 09:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2017 10:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second-gen Google Cloud TPUs take machine learning to the next level</title>
+      <link>//crypt0.net/post/secondgen-google-cloud-tpus-take-machine-learning-to-the-next-level/</link>
+      <pubDate>Thu, 18 May 2017 10:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/secondgen-google-cloud-tpus-take-machine-learning-to-the-next-level/</guid>
+      <description>Google announced the launch of its new Google Cloud tensor processing units (TPUs) which bring unparalleled computational performance to the &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google &#39;Cloud TPU&#39; takes machine learning lead from Tesla V100</title>
