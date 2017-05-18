@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 18 May 2017 09:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2017 09:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PROBLEM : how to create Openstack&#39;s VM with TERRAFORM</title>
+      <link>//crypt0.net/post/problem--how-to-create-openstacks-vm-with-terraform/</link>
+      <pubDate>Thu, 18 May 2017 09:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/problem--how-to-create-openstacks-vm-with-terraform/</guid>
+      <description>(Openstack) by terraform. I have problems. I am on windows, my version of terraform &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Ericsson, Microsoft in global IoT tie-up</title>
