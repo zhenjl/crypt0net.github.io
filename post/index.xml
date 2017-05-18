@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 18 May 2017 07:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2017 07:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Avaya Networking takes hyper-segmentation to OpenStack with its fabric</title>
+      <link>//crypt0.net/post/avaya-networking-takes-hypersegmentation-to-openstack-with-its-fabric/</link>
+      <pubDate>Thu, 18 May 2017 07:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/avaya-networking-takes-hypersegmentation-to-openstack-with-its-fabric/</guid>
+      <description>CTR (blog) Avaya announced Wednesday that it has extended the hyper-segmentation capabilities of its fabric networking to OpenStack. The integration between &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>SparkLAN Launches WPEQ-160ACN 802.11ac/a/b/g/n Industry Leading Dual-Band</title>
