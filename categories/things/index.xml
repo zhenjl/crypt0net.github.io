@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 18 May 2017 17:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2017 17:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Agosto&#39;s Open Source IoT Message Broker Now Available on Google Cloud</title>
+      <link>//crypt0.net/post/agostos-open-source-iot-message-broker-now-available-on-google-cloud/</link>
+      <pubDate>Thu, 18 May 2017 17:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/agostos-open-source-iot-message-broker-now-available-on-google-cloud/</guid>
+      <description>Markets Insider The connection proxy enables businesses to implement rapid development of IoT applications using the widely-accepted MQTT protocol. MQTT is a &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Cybersecurity experts discuss the perfect storm  a convergence of Internet</title>
@@ -539,16 +549,6 @@
       
       <guid>//crypt0.net/post/understanding-the-rise-of-iot-with-john-obrien-and-anne-buff-at-data/</guid>
       <description>Database Trends and Applications The Internet of Things is the next big trend on the horizon for many enterprises, forcing companies to examine a plethora of new business &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Agosto&#39;s Open Source IoT Message Broker Now Available on Google Cloud</title>
-      <link>//crypt0.net/post/agostos-open-source-iot-message-broker-now-available-on-google-cloud/</link>
-      <pubDate>Wed, 17 May 2017 14:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/agostos-open-source-iot-message-broker-now-available-on-google-cloud/</guid>
-      <description>Marketwired (press release) MQTT is a de facto standard in machine-to-machine (M2M)/Internet of &amp;hellip; single node of Agosto&amp;rsquo;s MQTT to Pub/Sub connection broker, supporting up to &amp;hellip; more.
 @surgethings</description>
     </item>
     
