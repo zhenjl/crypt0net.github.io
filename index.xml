@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 19 May 2017 05:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2017 05:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenStack Gaining Ground Leading Into Australian Event</title>
+      <link>//crypt0.net/post/openstack-gaining-ground-leading-into-australian-event/</link>
+      <pubDate>Fri, 19 May 2017 05:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-gaining-ground-leading-into-australian-event/</guid>
+      <description>The OpenStack Foundation User Survey [PDF] has been released with the 44% more deployments of the open source IaaS platform and 22% more &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How Amazon Web Services uses machine learning to make capacity planning</title>
