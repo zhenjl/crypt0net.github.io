@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 19 May 2017 10:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2017 10:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automatic for the data center operators</title>
+      <link>//crypt0.net/post/automatic-for-the-data-center-operators/</link>
+      <pubDate>Fri, 19 May 2017 10:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/automatic-for-the-data-center-operators/</guid>
+      <description>This latter approach is typified by VMware&amp;rsquo;s NSX and the Neutron module in the OpenStack platform, and is vital for supporting multi tenancy in data &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>StoneFly Integrates Veeam Backup Storage Platform With Microsoft Azure Govt</title>
