@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 19 May 2017 18:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2017 19:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PyGrunn: google machine learning APIs for python developers</title>
+      <link>//crypt0.net/post/pygrunn-google-machine-learning-apis-for-python-developers/</link>
+      <pubDate>Fri, 19 May 2017 19:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/pygrunn-google-machine-learning-apis-for-python-developers/</guid>
+      <description>use. You can embed machine learning services like tensorflow, speach API, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft reduces Windows Server size to cut Azure costs</title>
