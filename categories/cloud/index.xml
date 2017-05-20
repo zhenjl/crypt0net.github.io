@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 20 May 2017 07:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2017 09:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>StoneFly Integrates Veeam Backup Storage Platform With Microsoft Azure Govt</title>
+      <link>//crypt0.net/post/stonefly-integrates-veeam-backup-storage-platform-with-microsoft-azure-govt/</link>
+      <pubDate>Sat, 20 May 2017 09:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/stonefly-integrates-veeam-backup-storage-platform-with-microsoft-azure-govt/</guid>
+      <description>Normangee Star Other services that StoneFly offers for Microsoft Azure Government users include video surveillance monitoring support, network security for data &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>PRNewswire: Helium supporting the new Google Cloud IoT Core to simplify the</title>
@@ -400,16 +410,6 @@ Android, Google Home Get AI Upgrades We want Google Cloud to be the best cloud f
       
       <guid>//crypt0.net/post/automatic-for-the-data-center-operators/</guid>
       <description>This latter approach is typified by VMware&amp;rsquo;s NSX and the Neutron module in the OpenStack platform, and is vital for supporting multi tenancy in data &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>StoneFly Integrates Veeam Backup Storage Platform With Microsoft Azure Govt</title>
-      <link>//crypt0.net/post/stonefly-integrates-veeam-backup-storage-platform-with-microsoft-azure-govt/</link>
-      <pubDate>Fri, 19 May 2017 10:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/stonefly-integrates-veeam-backup-storage-platform-with-microsoft-azure-govt/</guid>
-      <description>ExecutiveBiz (blog) StoneFly has incorporated its cloud storage offering designed for Veeam Software&amp;rsquo;s backup and disaster recovery tool into Microsoft&amp;rsquo;s Azure &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -4723,36 +4723,6 @@ VMware To Offer Desktop-as-a-Service Infrastructure on Microsoft Azure VMware, w
       
       <guid>//crypt0.net/post/indatabase-data-blending-with-microsoft-azure-sql-data-warehouse/</guid>
       <description>blending and analytics without SQL coding or waiting on other &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google&#39;s Open Source DIY Kit Turns Your Raspberry Pi Into An AI Assistant</title>
-      <link>//crypt0.net/post/googles-open-source-diy-kit-turns-your-raspberry-pi-into-an-ai-assistant/</link>
-      <pubDate>Fri, 05 May 2017 08:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/googles-open-source-diy-kit-turns-your-raspberry-pi-into-an-ai-assistant/</guid>
-      <description>You&amp;rsquo;ll have to hook your own Raspberry Pi board to complete the system, followed by setting up the Google Assistant SDK and Google Cloud Speech &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Dell EMC and Microsoft Target Growing Enterprise Hybrid Cloud Market</title>
-      <link>//crypt0.net/post/dell-emc-and-microsoft-target-growing-enterprise-hybrid-cloud-market/</link>
-      <pubDate>Fri, 05 May 2017 08:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/dell-emc-and-microsoft-target-growing-enterprise-hybrid-cloud-market/</guid>
-      <description>Azure Stack is a hybrid-cloud software platform for on-premises servers that essentially enables businesses to bring Microsoft Azure&amp;rsquo;s infrastructure as &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Dell EMC Cloud for Microsoft Azure Stack debuts</title>
-      <link>//crypt0.net/post/dell-emc-cloud-for-microsoft-azure-stack-debuts/</link>
-      <pubDate>Fri, 05 May 2017 07:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/dell-emc-cloud-for-microsoft-azure-stack-debuts/</guid>
-      <description>Dell EMC Cloud for Microsoft Azure Stack, the latest introduction to the family, provides an environment that is consistent with Microsoft&amp;rsquo;s Azure public &amp;hellip; more.
 @crypt0net</description>
     </item>
     
