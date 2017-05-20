@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 20 May 2017 21:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2017 22:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why Intel believes 5G wireless will make autonomous cars smarter</title>
+      <link>//crypt0.net/post/why-intel-believes-5g-wireless-will-make-autonomous-cars-smarter/</link>
+      <pubDate>Sat, 20 May 2017 22:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-intel-believes-5g-wireless-will-make-autonomous-cars-smarter/</guid>
+      <description>The Internet of Things is expected to grow quickly to tens of billions of connected devices, from smart refrigerators to smart showers to smart cruise &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>At I/O 2017, Google doubled down on a future built on AI</title>
@@ -10350,76 +10360,6 @@
       <guid>//crypt0.net/post/watson-iot-platform-and-ibm-blockchain-no-fabrics-are-configured-for-your/</guid>
       <description>I am trying to link my Watson IoT Platform with IBM Blockchain on Bluemix instance. In the Watson IoT Platform Extensions page, in the Blockchain tile, &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services Is Helping Amazon Scale Like a Proper Tech Company</title>
-      <link>//crypt0.net/post/amazon-web-services-is-helping-amazon-scale-like-a-proper-tech-company/</link>
-      <pubDate>Fri, 05 May 2017 22:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-web-services-is-helping-amazon-scale-like-a-proper-tech-company/</guid>
-      <description>Amazon Web Services (AWS) has changed that dynamic, as the cloud infrastructure business is starting to exhibit operating leverage. In this segment &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Open-source team-ups navigate the vast universe of hybrid cloud</title>
-      <link>//crypt0.net/post/opensource-teamups-navigate-the-vast-universe-of-hybrid-cloud/</link>
-      <pubDate>Fri, 05 May 2017 22:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/opensource-teamups-navigate-the-vast-universe-of-hybrid-cloud/</guid>
-      <description>The internet of today is people to people, it&amp;rsquo;s moving to people to machine, but it&amp;rsquo;s going to move to machine to machine, Skaugen predicted. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>2016 healthcare data breaches surpass last year&#39;s record</title>
-      <link>//crypt0.net/post/2016-healthcare-data-breaches-surpass-last-years-record/</link>
-      <pubDate>Fri, 05 May 2017 21:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/2016-healthcare-data-breaches-surpass-last-years-record/</guid>
-      <description>Healthcare data breaches hit an all-time high in 2016, according to a report by Bitglass. However, the volume of leaked records caused by 2016 &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Electronic Design&#39;s Internet of Things Products of the Week (4/30-5/6)</title>
-      <link>//crypt0.net/post/electronic-designs-internet-of-things-products-of-the-week-43056/</link>
-      <pubDate>Fri, 05 May 2017 21:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/electronic-designs-internet-of-things-products-of-the-week-43056/</guid>
-      <description>Searching for that gateway or USB bridge chip to round out your latest design? Our editors have collected seven IoT products that have caught our eye &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Google Puts Cloud-Native NFV to the Test in India</title>
-      <link>//crypt0.net/post/google-puts-cloudnative-nfv-to-the-test-in-india/</link>
-      <pubDate>Fri, 05 May 2017 21:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-puts-cloudnative-nfv-to-the-test-in-india/</guid>
-      <description>The network&amp;rsquo;s control plane is virtual, hosted in Google Cloud Platform and split up into microservices. &amp;ldquo;As the network software-ization becomes &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Innogy Charges New Electric Car Fleet Using Ethereum Blockchain</title>
-      <link>//crypt0.net/post/innogy-charges-new-electric-car-fleet-using-ethereum-blockchain/</link>
-      <pubDate>Fri, 05 May 2017 21:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/innogy-charges-new-electric-car-fleet-using-ethereum-blockchain/</guid>
-      <description>Innogy SE , a subsidiary of German energy conglomerate RWE, announced that it has launched hundreds of blockchain-powered charging stations for &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Webinar: Check Point vSEC for Microsoft Azure Workloads</title>
-      <link>//crypt0.net/post/webinar-check-point-vsec-for-microsoft-azure-workloads/</link>
-      <pubDate>Fri, 05 May 2017 21:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/webinar-check-point-vsec-for-microsoft-azure-workloads/</guid>
-      <description>considerations of moving workloads to the public cloud and how Check Point vSEC for &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
