@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 20 May 2017 20:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2017 21:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>At I/O 2017, Google doubled down on a future built on AI</title>
+      <link>//crypt0.net/post/at-io-2017-google-doubled-down-on-a-future-built-on-ai/</link>
+      <pubDate>Sat, 20 May 2017 21:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/at-io-2017-google-doubled-down-on-a-future-built-on-ai/</guid>
+      <description>Consider the announcement of next-generation Tensor Processing Units (woven into Google&amp;rsquo;s cloud no less). It more-or-less means the massive data &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Alarm.com IoT Service Receives Google Home Support</title>
@@ -10410,36 +10420,6 @@
       <guid>//crypt0.net/post/webinar-check-point-vsec-for-microsoft-azure-workloads/</guid>
       <description>considerations of moving workloads to the public cloud and how Check Point vSEC for &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Unable to create read-only users within openstack</title>
-      <link>//crypt0.net/post/unable-to-create-readonly-users-within-openstack/</link>
-      <pubDate>Fri, 05 May 2017 20:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/unable-to-create-readonly-users-within-openstack/</guid>
-      <description>within OpenStack Need to add this feature to the charm. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Coming soon: The Walmart Dash button?</title>
-      <link>//crypt0.net/post/coming-soon-the-walmart-dash-button/</link>
-      <pubDate>Fri, 05 May 2017 20:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/coming-soon-the-walmart-dash-button/</guid>
-      <description>A patent filing by Walmart reveals that the retail giant could be developing an Internet of Things-based device that tracks how shoppers use products in &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Here&#39;s Why Sierra Wireless (SWIR) Stock Is Soaring Today</title>
-      <link>//crypt0.net/post/heres-why-sierra-wireless-swir-stock-is-soaring-today/</link>
-      <pubDate>Fri, 05 May 2017 20:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/heres-why-sierra-wireless-swir-stock-is-soaring-today/</guid>
-      <description>We continued to strengthen our position as a leader in device-to-cloud solutions for the Internet of Things with new customer wins, new product &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
