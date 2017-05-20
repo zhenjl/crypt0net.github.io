@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 20 May 2017 09:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2017 09:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Report: AI Tells AWS How Many Servers to Buy and When</title>
+      <link>//crypt0.net/post/report-ai-tells-aws-how-many-servers-to-buy-and-when/</link>
+      <pubDate>Sat, 20 May 2017 09:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/report-ai-tells-aws-how-many-servers-to-buy-and-when/</guid>
+      <description>Amazon Web Services, the company&amp;rsquo;s cloud services arm, also applies Machine Learning to one of the toughest puzzles in data center management: &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>StoneFly Integrates Veeam Backup Storage Platform With Microsoft Azure Govt</title>
@@ -732,16 +742,6 @@ Zomato hacked in latest global cyber-attack, data of 17 million users Daily Paki
       
       <guid>//crypt0.net/post/microsoft-cloud-services-to-empower-nonprofit-organizations-in-india/</guid>
       <description>initiative, Microsoft India is making Microsoft Azure broadly available to eligible non-profit organizations, bringing the power of technology to them. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Report: AI Tells AWS How Many Servers to Buy and When</title>
-      <link>//crypt0.net/post/report-ai-tells-aws-how-many-servers-to-buy-and-when/</link>
-      <pubDate>Fri, 19 May 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/report-ai-tells-aws-how-many-servers-to-buy-and-when/</guid>
-      <description>So, it comes as no surprise that Amazon Web Services, the company&amp;rsquo;s cloud services arm, also applies Machine Learning to one of the toughest &amp;hellip; more.
 @crypt0net</description>
     </item>
     
