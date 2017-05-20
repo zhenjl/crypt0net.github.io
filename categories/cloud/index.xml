@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 20 May 2017 00:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2017 00:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Price reductions on General Purpose Virtual Machines</title>
+      <link>//crypt0.net/post/price-reductions-on-general-purpose-virtual-machines/</link>
+      <pubDate>Sat, 20 May 2017 00:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/price-reductions-on-general-purpose-virtual-machines/</guid>
+      <description>Azure services and improvements. Today, we are pleased to follow up these &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Does Google&#39;s Cloud Spanner Database Cheat Space-Time?</title>
