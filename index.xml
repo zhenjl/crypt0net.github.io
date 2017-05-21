@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 21 May 2017 02:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 May 2017 06:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Azure Advisory to avert WannaCrypt Ransomware Threat</title>
+      <link>//crypt0.net/post/microsoft-azure-advisory-to-avert-wannacrypt-ransomware-threat/</link>
+      <pubDate>Sun, 21 May 2017 06:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-advisory-to-avert-wannacrypt-ransomware-threat/</guid>
+      <description>Microsoft too, suggests its customers practice caution and follow the 8 steps outlined in a Microsoft Azure blog post to stay protected against the &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Not able to install openstack version neutron</title>
@@ -10296,66 +10306,6 @@ Branchless Banking Customers Vulnerable to Overcharges, Data Breaches: Jakarta G
       
       <guid>//crypt0.net/post/patchwork-governance-strangling-innovation-and-investment/</guid>
       <description>&amp;hellip; where machine-to-machine communications, the Internet of Things, smart cities, self-driving cars, and virtual reality can become commonplace. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>IoT Hitchhikes on Broadcast, Cellular RF at Disney Labs</title>
-      <link>//crypt0.net/post/iot-hitchhikes-on-broadcast-cellular-rf-at-disney-labs/</link>
-      <pubDate>Sat, 06 May 2017 05:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/iot-hitchhikes-on-broadcast-cellular-rf-at-disney-labs/</guid>
-      <description>The promise of the Internet of Things is that wireless sensors will be ubiquitous, allowing devices to sense their environments and talk to each other &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>The IT Pro view: Data protection and GDPR</title>
-      <link>//crypt0.net/post/the-it-pro-view-data-protection-and-gdpr/</link>
-      <pubDate>Sat, 06 May 2017 04:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-it-pro-view-data-protection-and-gdpr/</guid>
-      <description>At a time when cyber crime is on the rise and data breaches are an almost daily occurrence, accountability has never been more important. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Global Cryptocurrency and Blockchain Market to Gain Substantial Momentum by</title>
-      <link>//crypt0.net/post/global-cryptocurrency-and-blockchain-market-to-gain-substantial-momentum-by/</link>
-      <pubDate>Sat, 06 May 2017 03:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/global-cryptocurrency-and-blockchain-market-to-gain-substantial-momentum-by/</guid>
-      <description>openPR (press release) Similarly, Blockchain retains the ability to have permanent records of the transactions safely and permanently in blocks and at any time people can see &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Company lawyers automate contracts to ease pain of quote-to-cash</title>
-      <link>//crypt0.net/post/company-lawyers-automate-contracts-to-ease-pain-of-quotetocash/</link>
-      <pubDate>Sat, 06 May 2017 03:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/company-lawyers-automate-contracts-to-ease-pain-of-quotetocash/</guid>
-      <description>&amp;hellip; management process that was growing more complex as the chipmaker expanded and entered into new markets, including Internet of Things (IoT). more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Cyber-Crime, Vulnerabilities and Spam Skyrocket</title>
-      <link>//crypt0.net/post/cybercrime-vulnerabilities-and-spam-skyrocket/</link>
-      <pubDate>Sat, 06 May 2017 02:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cybercrime-vulnerabilities-and-spam-skyrocket/</guid>
-      <description>Data breaches skyrocketed in 2016, when cyber-attackers stole more than 4 billion records exceeding the combined total from the two prior years. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>UK Smart Contracts Pilot Aims To Solve Charity Trust Crisis</title>
-      <link>//crypt0.net/post/uk-smart-contracts-pilot-aims-to-solve-charity-trust-crisis/</link>
-      <pubDate>Sat, 06 May 2017 02:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/uk-smart-contracts-pilot-aims-to-solve-charity-trust-crisis/</guid>
-      <description>UK-based Blockchain philanthropy platform Alice has announced a pilot scheme for Blockchain-based charity funding. The platform, which uses smart &amp;hellip; more.
 @surgethings</description>
     </item>
     
