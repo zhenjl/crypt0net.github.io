@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 22 May 2017 09:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 10:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Veeam and Microsoft team up on Azure DRaaS innovations</title>
+      <link>//crypt0.net/post/veeam-and-microsoft-team-up-on-azure-draas-innovations/</link>
+      <pubDate>Mon, 22 May 2017 10:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/veeam-and-microsoft-team-up-on-azure-draas-innovations/</guid>
+      <description>Veeam is making it easier for businesses to set up and manage their DRaaS for Azure with the introduction of Veeam PN for Microsoft Azure, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Bluetooth Enable App Managing and Altering IOT(Internet of things)</title>
@@ -10190,26 +10200,6 @@
       <guid>//crypt0.net/post/vodafone-in-nfv-deal-with-mirantis/</guid>
       <description>Supporting Vodafone&amp;rsquo;s network virtualisation program, Mirantis will deliver managed OpenStack, based on Mirantis Cloud Platform. Mirantis was &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Major Defense Company to Adopt Blockchain Cyber Security Tech</title>
-      <link>//crypt0.net/post/major-defense-company-to-adopt-blockchain-cyber-security-tech/</link>
-      <pubDate>Sun, 07 May 2017 09:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/major-defense-company-to-adopt-blockchain-cyber-security-tech/</guid>
-      <description>The security and aerospace company Lockheed Martin has contracted Guardtime Federal to provide blockchain cyber security. Guardtime Federal will &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Panasonic: Evolving landscape of product usage and ease</title>
-      <link>//crypt0.net/post/panasonic-evolving-landscape-of-product-usage-and-ease/</link>
-      <pubDate>Sun, 07 May 2017 09:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/panasonic-evolving-landscape-of-product-usage-and-ease/</guid>
-      <description>Artificial Intelligence (AI) and Internet of Things (IoT) are further changing the landscape of product usage and ease of use. &amp;ldquo;Panasonic has a rich &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
