@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 22 May 2017 21:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 22:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenStack deployments reach new heights in China</title>
+      <link>//crypt0.net/post/openstack-deployments-reach-new-heights-in-china/</link>
+      <pubDate>Mon, 22 May 2017 22:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-deployments-reach-new-heights-in-china/</guid>
+      <description>technologies, OpenStack in particular, we take a closer look at the latest market &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Unable to register baremetal nodes in Red Hat OpenStack 10</title>
+      <link>//crypt0.net/post/unable-to-register-baremetal-nodes-in-red-hat-openstack-10/</link>
+      <pubDate>Mon, 22 May 2017 22:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/unable-to-register-baremetal-nodes-in-red-hat-openstack-10/</guid>
+      <description>? Unable to import instackenv.json in Red Hat OpenStack undercloud node. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Azure, Office 365 and AWS To Gain Data Recovery Options</title>
