@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 22 May 2017 10:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 10:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The eternal battle for OpenStack&#39;s soul will conclude in three years. Again</title>
+      <link>//crypt0.net/post/the-eternal-battle-for-openstacks-soul-will-conclude-in-three-years-again/</link>
+      <pubDate>Mon, 22 May 2017 10:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-eternal-battle-for-openstacks-soul-will-conclude-in-three-years-again/</guid>
+      <description>Comment After six years as a formal project, OpenStack has survived numerous raids and famines and now finds itself in a not-too-weird space of &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Veeam and Microsoft team up on Azure DRaaS innovations</title>
@@ -10190,16 +10200,6 @@
       <guid>//crypt0.net/post/cybersecurity-spend-to-top-101bn-by-2020/</guid>
       <description>Highlights of the tech extravaganza will see Dubai Police launch its first fully-functional &amp;lsquo;Robocop&amp;rsquo; at the Internet of Things Expo (ioTx). more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Vodafone in NFV deal with Mirantis</title>
-      <link>//crypt0.net/post/vodafone-in-nfv-deal-with-mirantis/</link>
-      <pubDate>Sun, 07 May 2017 10:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vodafone-in-nfv-deal-with-mirantis/</guid>
-      <description>Supporting Vodafone&amp;rsquo;s network virtualisation program, Mirantis will deliver managed OpenStack, based on Mirantis Cloud Platform. Mirantis was &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
