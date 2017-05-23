@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2017 00:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 00:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon Drive bans rclone storage client</title>
+      <link>//crypt0.net/post/amazon-drive-bans-rclone-storage-client/</link>
+      <pubDate>Tue, 23 May 2017 00:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-drive-bans-rclone-storage-client/</guid>
+      <description>Last week, Amazon Web Services banned rclone, an open source cloud storage client application, from accessing Amazon Drive, inconveniencing &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Eastwind Networks Enables Cloud-App Visibility with Cloud Connectors</title>
