@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 18:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Azure Brings Public Cloud Services to Africa</title>
+      <link>//crypt0.net/post/microsoft-azure-brings-public-cloud-services-to-africa/</link>
+      <pubDate>Tue, 23 May 2017 18:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-brings-public-cloud-services-to-africa/</guid>
+      <description>Among companies working with Microsoft is Standard Bank, whose CIO Brenda Niehaus stated that &amp;ldquo;to achieve success as a business, we need to &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - May 23, 2017</title>
@@ -470,16 +480,6 @@ Google Cloud TPU: Strategic Implications For Google, NVIDIA And The Machine Forb
       
       <guid>//crypt0.net/post/legendary-engineer-james-gosling-the-father-of-java-joins-amazon-web/</guid>
       <description>SiliconANGLE (blog) Amazon Web Services Inc. today pulled off a minor coup with the announcement that it&amp;rsquo;s hiring legendary engineer James Gosling, the so-called &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Brings Public Cloud Services to Africa</title>
-      <link>//crypt0.net/post/microsoft-azure-brings-public-cloud-services-to-africa/</link>
-      <pubDate>Tue, 23 May 2017 05:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-brings-public-cloud-services-to-africa/</guid>
-      <description>The company says it will offer cloud services including Microsoft Azure, Office 365, and Dynamics 365 from the new data centers in Johannesburg and &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -4729,66 +4729,6 @@ VMware To Offer Desktop-as-a-Service Infrastructure on Microsoft Azure VMware, w
       
       <guid>//crypt0.net/post/red-hat-takes-the-stage-at-openstack-summit-in-boston/</guid>
       <description>a headline sponsor and are participating in scores of sessions and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>A.I. is in a &#39;golden age&#39; and solving problems that were once sci-fi,</title>
-      <link>//crypt0.net/post/ai-is-in-a-golden-age-and-solving-problems-that-were-once-scifi/</link>
-      <pubDate>Mon, 08 May 2017 18:20:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ai-is-in-a-golden-age-and-solving-problems-that-were-once-scifi/</guid>
-      <description>CNBC &amp;hellip; CEO also said that the company is making AI techniques available to enterprise customers through its cloud division, Amazon Web Services. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>GPUs Everywhere: New Instances in Microsoft Azure Cloud</title>
-      <link>//crypt0.net/post/gpus-everywhere-new-instances-in-microsoft-azure-cloud/</link>
-      <pubDate>Mon, 08 May 2017 18:20:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/gpus-everywhere-new-instances-in-microsoft-azure-cloud/</guid>
-      <description>they can scale up their computing needs to handle bigger simulations &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Mirantis scores sweet Vodafone deal. More fuel for the OpenStack fire</title>
-      <link>//crypt0.net/post/mirantis-scores-sweet-vodafone-deal-more-fuel-for-the-openstack-fire/</link>
-      <pubDate>Mon, 08 May 2017 18:20:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mirantis-scores-sweet-vodafone-deal-more-fuel-for-the-openstack-fire/</guid>
-      <description>So, it was kind of surprising to hear that in the leadup to this week&amp;rsquo;s OpenStack Summit in Boston, Mirantis is still scoring OpenStack wins. Despite &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Red Hat includes NFV special sauce in latest OpenStack offering</title>
-      <link>//crypt0.net/post/red-hat-includes-nfv-special-sauce-in-latest-openstack-offering/</link>
-      <pubDate>Mon, 08 May 2017 18:20:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/red-hat-includes-nfv-special-sauce-in-latest-openstack-offering/</guid>
-      <description>Infrastructure-as-a-Service offering, which will be available for customers in the &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>The GPU Open Analytics Initiative, Red Hat OpenStack Platform 11, AIY</title>
-      <link>//crypt0.net/post/the-gpu-open-analytics-initiative-red-hat-openstack-platform-11-aiy/</link>
-      <pubDate>Mon, 08 May 2017 18:20:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-gpu-open-analytics-initiative-red-hat-openstack-platform-11-aiy/</guid>
-      <description>SDTimes.com OpenStack Platform 11 provides improved support and upgrades, new networking capabilities, and integration with Red Hat CloudForms for cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>What will become of OpenStack? Watch live from OpenStack Summit 2017</title>
-      <link>//crypt0.net/post/what-will-become-of-openstack-watch-live-from-openstack-summit-2017/</link>
-      <pubDate>Mon, 08 May 2017 18:20:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-will-become-of-openstack-watch-live-from-openstack-summit-2017/</guid>
-      <description>What can we expect from OpenStack over the next six to 12 months, and what is the open-source platform being used for in the demanding world of &amp;hellip; more.
 @crypt0net</description>
     </item>
     
