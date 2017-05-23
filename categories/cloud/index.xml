@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2017 06:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 07:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How a Multi-Cloud Strategy Protects Against Failure: When Cloud&#39;s Crash,</title>
+      <link>//crypt0.net/post/how-a-multicloud-strategy-protects-against-failure-when-clouds-crash/</link>
+      <pubDate>Tue, 23 May 2017 07:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-a-multicloud-strategy-protects-against-failure-when-clouds-crash/</guid>
+      <description>Integration Developers For example, Amazon Web Services frequently uses its own services to build into higher-level services. So, the S3 failure resulted in a cascading &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>AWS turns to machine learning for capacity planning decisions</title>
@@ -4668,16 +4678,6 @@ VMware To Offer Desktop-as-a-Service Infrastructure on Microsoft Azure VMware, w
       
       <guid>//crypt0.net/post/mothers-day-special-amazon-echo-now-pricecut-to-14999-ahead-of-echo/</guid>
       <description>1redDrop Running off of Amazon Web Services (AWS) cloud servers, it requires an Internet connection to work. When you give it a voice command by triggering &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Fusionex Wins Technology Partner Award from Amazon Web Services</title>
-      <link>//crypt0.net/post/fusionex-wins-technology-partner-award-from-amazon-web-services/</link>
-      <pubDate>Mon, 08 May 2017 07:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/fusionex-wins-technology-partner-award-from-amazon-web-services/</guid>
-      <description>Fusionex was awarded the Top Technology Partner Award&amp;rsquo; at the recently concluded Amazon Web Services (AWS) Summit 2017 - in recognition of its &amp;hellip; more.
 @crypt0net</description>
     </item>
     

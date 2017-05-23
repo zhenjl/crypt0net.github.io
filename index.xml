@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2017 06:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 07:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How a Multi-Cloud Strategy Protects Against Failure: When Cloud&#39;s Crash,</title>
+      <link>//crypt0.net/post/how-a-multicloud-strategy-protects-against-failure-when-clouds-crash/</link>
+      <pubDate>Tue, 23 May 2017 07:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-a-multicloud-strategy-protects-against-failure-when-clouds-crash/</guid>
+      <description>Integration Developers For example, Amazon Web Services frequently uses its own services to build into higher-level services. So, the S3 failure resulted in a cascading &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>AWS turns to machine learning for capacity planning decisions</title>
@@ -10844,36 +10854,6 @@ Branchless Banking Customers Vulnerable to Overcharges, Data Breaches: Jakarta G
       
       <guid>//crypt0.net/post/kenyas-makiba-project-gets-nod-from-world-bank/</guid>
       <description>With Blockchain beneath the new project, its key asset of ensuring transaction immutability having eliminated the need for an enforcer of trust in the &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Reekoh named a 2017 Gartner Cool Vendor in the Internet of Things</title>
-      <link>//crypt0.net/post/reekoh-named-a-2017-gartner-cool-vendor-in-the-internet-of-things/</link>
-      <pubDate>Mon, 08 May 2017 07:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/reekoh-named-a-2017-gartner-cool-vendor-in-the-internet-of-things/</guid>
-      <description>Internet of Things. Gartner Cool Vendor 2017 Reekoh, a leading open &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Fusionex Wins Technology Partner Award from Amazon Web Services</title>
-      <link>//crypt0.net/post/fusionex-wins-technology-partner-award-from-amazon-web-services/</link>
-      <pubDate>Mon, 08 May 2017 07:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/fusionex-wins-technology-partner-award-from-amazon-web-services/</guid>
-      <description>Fusionex was awarded the Top Technology Partner Award&amp;rsquo; at the recently concluded Amazon Web Services (AWS) Summit 2017 - in recognition of its &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Factom and Gnosis among Gartners Cool Vendors in Blockchain Application</title>
-      <link>//crypt0.net/post/factom-and-gnosis-among-gartners-cool-vendors-in-blockchain-application/</link>
-      <pubDate>Mon, 08 May 2017 06:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/factom-and-gnosis-among-gartners-cool-vendors-in-blockchain-application/</guid>
-      <description>Gartner, a leading information technology research and advisory company, has published a new document in which it profiles five blockchain pioneers &amp;hellip; more.
 @surgethings</description>
     </item>
     
