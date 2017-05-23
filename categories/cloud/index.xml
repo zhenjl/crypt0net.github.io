@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2017 16:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 16:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenStack Everywhere Just Got Even Better</title>
+      <link>//crypt0.net/post/openstack-everywhere-just-got-even-better/</link>
+      <pubDate>Tue, 23 May 2017 16:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-everywhere-just-got-even-better/</guid>
+      <description>enabling customers to consume private clouds, as a service, in any data &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Synechron announces demo availability of three blockchain accelerators on</title>
+      <link>//crypt0.net/post/synechron-announces-demo-availability-of-three-blockchain-accelerators-on/</link>
+      <pubDate>Tue, 23 May 2017 16:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/synechron-announces-demo-availability-of-three-blockchain-accelerators-on/</guid>
+      <description>EconoTimes Synechron said that its Blockchain Accelerators can be rapidly deployed into the Microsoft cloud by anyone with an Azure subscription, making it easy &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>OVH US Appoints David Wigglesworth as Chief Revenue Officer</title>
@@ -4758,16 +4778,6 @@ VMware To Offer Desktop-as-a-Service Infrastructure on Microsoft Azure VMware, w
       
       <guid>//crypt0.net/post/suse-unveils-suse-openstack-cloud-monitoring-to-simplify-and-man-/</guid>
       <description>Based on open source Monasca, SUSE OpenStack Cloud Monitoring makes private clouds more reliable, easier to manage and more cost effective. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Drive Passes 2 Trillion Files Stored</title>
-      <link>//crypt0.net/post/google-drive-passes-2-trillion-files-stored/</link>
-      <pubDate>Mon, 08 May 2017 16:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-drive-passes-2-trillion-files-stored/</guid>
-      <description>According to Prabhakar Raghavan, the vice-president responsible for G Suite in Google Cloud, Google Drive now hosts over two trillion files. more.
 @crypt0net</description>
     </item>
     
