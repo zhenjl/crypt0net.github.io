@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2017 10:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 10:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Does Microsoft&#39;s Cosmos DB promise too much?</title>
+      <link>//crypt0.net/post/does-microsofts-cosmos-db-promise-too-much/</link>
+      <pubDate>Tue, 23 May 2017 10:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/does-microsofts-cosmos-db-promise-too-much/</guid>
+      <description>Microsoft, even less surprisingly, agreed, calling Azure Cosmos DB the first globally-distributed data service that lets you elastically scale throughput &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>F5 delivers application services for multi-cloud world</title>
@@ -10710,26 +10720,6 @@
       <guid>//crypt0.net/post/overstock-ramps-up-blockchain-spending-with-8-million-q1-loss/</guid>
       <description>Medici, the blockchain technology arm of online retailer Overstock.com, is already on pace to exceed its 2016 spending on distributed ledger R&amp;amp;D. more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Apple, Samsung, Huawei likely to introduce eSIM in 2019: report</title>
-      <link>//crypt0.net/post/apple-samsung-huawei-likely-to-introduce-esim-in-2019-report/</link>
-      <pubDate>Mon, 08 May 2017 10:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/apple-samsung-huawei-likely-to-introduce-esim-in-2019-report/</guid>
-      <description>Currently, few real eSIM devices exist beyond machine-to-machine implementations, some variants of Apple&amp;rsquo;s iPad Pro and a few smartwatches, &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Fujitsu, Mirantis to deliver private managed OpenStack cloud</title>
-      <link>//crypt0.net/post/fujitsu-mirantis-to-deliver-private-managed-openstack-cloud/</link>
-      <pubDate>Mon, 08 May 2017 10:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/fujitsu-mirantis-to-deliver-private-managed-openstack-cloud/</guid>
-      <description>Fujitsu and managed open cloud company Mirantis have signed a global partnership agreement to help customers adopt open cloud infrastructure &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
