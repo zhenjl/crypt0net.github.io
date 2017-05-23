@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2017 05:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 06:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>F5 Delivers Application Services for a Multi-Cloud World</title>
+      <link>//crypt0.net/post/f5-delivers-application-services-for-a-multicloud-world/</link>
+      <pubDate>Tue, 23 May 2017 06:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/f5-delivers-application-services-for-a-multicloud-world/</guid>
+      <description>F5 BIG-IP Virtual Edition in the Google Cloud means that organizations can now deploy F5 services in all major public clouds. F5 gives customers &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes 1.7 to Focus on Features Instead of Initial Stability</title>
+      <link>//crypt0.net/post/kubernetes-17-to-focus-on-features-instead-of-initial-stability/</link>
+      <pubDate>Tue, 23 May 2017 06:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/kubernetes-17-to-focus-on-features-instead-of-initial-stability/</guid>
+      <description>Mirantis last month launched an integrated cloud platform supporting virtual machines using OpenStack, containers using Kubernetes, and bare metal. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Legendary engineer James Gosling, the &#39;Father of Java,&#39; joins Amazon Web</title>
@@ -4658,36 +4678,6 @@ VMware To Offer Desktop-as-a-Service Infrastructure on Microsoft Azure VMware, w
       
       <guid>//crypt0.net/post/google-parents-ceo-says-restructuring-made-company-speedier/</guid>
       <description>Google Cloud led by Diane Greene is doing a fabulous job of getting our machine learning hardware and software out to everyone. Alphabet CEO &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Fujitsu &amp; Mirantis Partner On Delivering Private Managed OpenStack Cloud</title>
-      <link>//crypt0.net/post/fujitsu--mirantis-partner-on-delivering-private-managed-openstack-cloud/</link>
-      <pubDate>Mon, 08 May 2017 06:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/fujitsu--mirantis-partner-on-delivering-private-managed-openstack-cloud/</guid>
-      <description>Today at the OpenStack Summit in Boston, MA, Fujitsu Limited and Mirantis announced that the two companies have signed a global, strategic &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>NEC Contributes to Successful Trial of KDDI&#39;s Next Generation Platform</title>
-      <link>//crypt0.net/post/nec-contributes-to-successful-trial-of-kddis-next-generation-platform/</link>
-      <pubDate>Mon, 08 May 2017 06:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nec-contributes-to-successful-trial-of-kddis-next-generation-platform/</guid>
-      <description>In these trials, the Red Hat OpenStack Platform was used to create an open cloud environment, while NEC managed the building of infrastructure by &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure SQL Database Step by Step Leonard</title>
-      <link>//crypt0.net/post/microsoft-azure-sql-database-step-by-step-leonard/</link>
-      <pubDate>Mon, 08 May 2017 06:00:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-sql-database-step-by-step-leonard/</guid>
-      <description>expertise-and teach yourself the fundamentals of Microsoft Azure SQL &amp;hellip; more.
 @crypt0net</description>
     </item>
     
