@@ -7,10 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2017 20:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 20:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deploy Cognitive Toolkit model to Azure Web Apps</title>
+      <link>//crypt0.net/post/deploy-cognitive-toolkit-model-to-azure-web-apps/</link>
+      <pubDate>Tue, 23 May 2017 20:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/deploy-cognitive-toolkit-model-to-azure-web-apps/</guid>
+      <description>Windows Web App, Linux Web App, and Azure Container Services. For those &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>IoT World: 10 Cool Connected Internet Of Things Applications On Display</title>
+      <link>//crypt0.net/post/iot-world-10-cool-connected-internet-of-things-applications-on-display/</link>
+      <pubDate>Tue, 23 May 2017 20:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/iot-world-10-cool-connected-internet-of-things-applications-on-display/</guid>
+      <description>On the demo floor, show-goers got a glimpse of some of the newest Internet of Things products on the market this year from a connected baby &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Again Claims Most-Favored Cloud Status in China</title>
+      <link>//crypt0.net/post/microsoft-again-claims-mostfavored-cloud-status-in-china/</link>
+      <pubDate>Tue, 23 May 2017 20:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-again-claims-mostfavored-cloud-status-in-china/</guid>
+      <description>Microsoft chief marketing officer Chris Capossela said on Tuesday that Microsoft Azure is the only U.S. public cloud that operates legally in China. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>The Top Four Open-Source Blockchain Projects in Media</title>
+      <link>//crypt0.net/post/the-top-four-opensource-blockchain-projects-in-media/</link>
+      <pubDate>Tue, 23 May 2017 20:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-top-four-opensource-blockchain-projects-in-media/</guid>
+      <description>But blockchain-based platforms are wielding a growing influence in the media and advertising markets as well. In this space, open-source projects are &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Texas A&amp;M University System Saves $7 Million in One Year With Vectra</title>
@@ -10840,26 +10880,6 @@
       <guid>//crypt0.net/post/heres-why-iot-testing-is-really-going-to-matter-to-qa-pros/</guid>
       <description>We all heard the horror stories about why internet of things testing matters: The intruder who wirelessly hacks your car&amp;rsquo;s command center or the thief &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>This Blockchain Startup is Taking Aim at Fake News</title>
-      <link>//crypt0.net/post/this-blockchain-startup-is-taking-aim-at-fake-news/</link>
-      <pubDate>Mon, 08 May 2017 20:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/this-blockchain-startup-is-taking-aim-at-fake-news/</guid>
-      <description>The spreading of fake news has become a common occurrence and a real problem in today&amp;rsquo;s media. To combat this phenomenon, Polish blockchain &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Automating IBM Spectrum Scale Deployment with Ubuntu OpenStack Cloud and</title>
-      <link>//crypt0.net/post/automating-ibm-spectrum-scale-deployment-with-ubuntu-openstack-cloud-and/</link>
-      <pubDate>Mon, 08 May 2017 20:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/automating-ibm-spectrum-scale-deployment-with-ubuntu-openstack-cloud-and/</guid>
-      <description>Now Canonical&amp;rsquo;s JuJu charms can help automate deployments of IBM Spectrum ScaleTM with Ubuntu OpenStack cloud. Just in time for the 2017 &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
