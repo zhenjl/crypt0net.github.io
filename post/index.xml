@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2017 17:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 17:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learn what breach detection system is best for your network</title>
+      <link>//crypt0.net/post/learn-what-breach-detection-system-is-best-for-your-network/</link>
+      <pubDate>Tue, 23 May 2017 17:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/learn-what-breach-detection-system-is-best-for-your-network/</guid>
+      <description>The best network behavior analysis (NBA) products will rally deep packet inspection, machine learning, statistical analysis and threat intelligence to &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Google&#39;s Jamboard goes on sale as connected whiteboard market gets crowded</title>
@@ -150,16 +160,6 @@
       <guid>//crypt0.net/post/cisco-ceo-business-is-more-complex-than-everwith-iot-still-to-come/</guid>
       <description>In Q3 2016, the number of new machine-to-machine connections exceeded the new number of new phones and tablets for the first time. There are &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Learn what breach detection system is best for your network</title>
-      <link>//crypt0.net/post/learn-what-breach-detection-system-is-best-for-your-network/</link>
-      <pubDate>Tue, 23 May 2017 16:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/learn-what-breach-detection-system-is-best-for-your-network/</guid>
-      <description>Endpoint detection and response products perform breach detection. These agent-based tools look at what&amp;rsquo;s happening on the endpoint, including OS &amp;hellip; more.
-@trustpath</description>
     </item>
     
     <item>
@@ -10809,46 +10809,6 @@
       
       <guid>//crypt0.net/post/google-aiy-cardboard-and-raspberry-pi-ai/</guid>
       <description>Of course, to do this you will have to sign in to the Google Cloud Platform where the Assistant SDK is free for personal use. Getting setup means &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title> From Qualcomm&#39;s Apple patent feud to falling tablet sales, here&#39;s news IT</title>
-      <link>//crypt0.net/post/from-qualcomms-apple-patent-feud-to-falling-tablet-sales-heres-news-it/</link>
-      <pubDate>Mon, 08 May 2017 17:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/from-qualcomms-apple-patent-feud-to-falling-tablet-sales-heres-news-it/</guid>
-      <description>Financial Post At its annual conference, Red Hat announced that it has expanded its partnership with Amazon Web Services (AWS) to natively integrate access to &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Build 2017: What to expect at Microsoft&#39;s developer conference this week</title>
-      <link>//crypt0.net/post/build-2017-what-to-expect-at-microsofts-developer-conference-this-week/</link>
-      <pubDate>Mon, 08 May 2017 17:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/build-2017-what-to-expect-at-microsofts-developer-conference-this-week/</guid>
-      <description>This week, Microsoft will host its annual Build developer conference in &amp;hellip; Microsoft has worked hard over the last twelve months to improve Azure with &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Platform9 Joins OpenStack Marketplace for Remotely Managed Priva -</title>
-      <link>//crypt0.net/post/platform9-joins-openstack-marketplace-for-remotely-managed-priva-/</link>
-      <pubDate>Mon, 08 May 2017 17:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/platform9-joins-openstack-marketplace-for-remotely-managed-priva-/</guid>
-      <description>Announced today, the new category features vendors in the OpenStack Marketplace who offer remotely managed private cloud solutions powered by &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>SUSE Unveils SUSE OpenStack Cloud Monitoring to Simplify and Man -</title>
-      <link>//crypt0.net/post/suse-unveils-suse-openstack-cloud-monitoring-to-simplify-and-man-/</link>
-      <pubDate>Mon, 08 May 2017 17:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/suse-unveils-suse-openstack-cloud-monitoring-to-simplify-and-man-/</guid>
-      <description>Based on open source Monasca, SUSE OpenStack Cloud Monitoring makes private clouds more reliable, easier to manage and more cost effective. more.
 @crypt0net</description>
     </item>
     
