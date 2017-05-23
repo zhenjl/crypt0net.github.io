@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2017 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 11:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Make sense of edge computing vs. cloud computing</title>
+      <link>//crypt0.net/post/make-sense-of-edge-computing-vs-cloud-computing/</link>
+      <pubDate>Tue, 23 May 2017 11:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/make-sense-of-edge-computing-vs-cloud-computing/</guid>
+      <description>&amp;hellip; processing between the edge and the centralized system, meaning a public cloud such as Amazon Web Services, Google Cloud, or Microsoft Azure &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft partners with Preferred Networks to bring Chainer deep learning</title>
