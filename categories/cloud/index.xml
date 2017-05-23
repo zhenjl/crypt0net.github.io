@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2017 12:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 13:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DataStax wants to manage Apache Cassandra anywhere</title>
+      <link>//crypt0.net/post/datastax-wants-to-manage-apache-cassandra-anywhere/</link>
+      <pubDate>Tue, 23 May 2017 13:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/datastax-wants-to-manage-apache-cassandra-anywhere/</guid>
+      <description>At launch, the offering is available on Amazon Web Services (AWS), but DataStax promises support for Microsoft Azure and Google Cloud Platform in &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>OpenStack: A Look into its Past, Present and Future</title>
+      <link>//crypt0.net/post/openstack-a-look-into-its-past-present-and-future/</link>
+      <pubDate>Tue, 23 May 2017 13:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-a-look-into-its-past-present-and-future/</guid>
+      <description>It was back in July 2010 that the marketing line-up at Rackspace, collaborating with NASA, introduced OpenStack to the world. The mission at hand &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Web Services sets a lure for Java programmers</title>
@@ -4778,16 +4798,6 @@ VMware To Offer Desktop-as-a-Service Infrastructure on Microsoft Azure VMware, w
       
       <guid>//crypt0.net/post/are-you-using-google-cloud-search-how-do-you-like-it/</guid>
       <description>they offer it to G Suite customers from the Business tier upward. We are &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cavium to Showcase Innovative Solutions for Private and Public Cloud</title>
-      <link>//crypt0.net/post/cavium-to-showcase-innovative-solutions-for-private-and-public-cloud/</link>
-      <pubDate>Mon, 08 May 2017 13:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cavium-to-showcase-innovative-solutions-for-private-and-public-cloud/</guid>
-      <description>Cavium Will showcase innovative solutions for private and public cloud infrastructure and scale out applications at OpenStack 2017. The conference &amp;hellip; more.
 @crypt0net</description>
     </item>
     
