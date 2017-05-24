@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 24 May 2017 01:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2017 01:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cisco: Secure IoT networks, not the devices</title>
+      <link>//crypt0.net/post/cisco-secure-iot-networks-not-the-devices/</link>
+      <pubDate>Wed, 24 May 2017 01:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cisco-secure-iot-networks-not-the-devices/</guid>
+      <description>IoT Threat Defense combines seven separate offerings, including network-segmentation rule creator TrustSec, network behavior analytics platform &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>CISO salaries topping 1 million in Europe</title>
