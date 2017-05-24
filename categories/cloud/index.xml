@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 24 May 2017 12:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2017 14:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Explaining Microsoft Azure Virtual Machines to a Windows SysAdmin</title>
+      <link>//crypt0.net/post/explaining-microsoft-azure-virtual-machines-to-a-windows-sysadmin/</link>
+      <pubDate>Wed, 24 May 2017 14:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/explaining-microsoft-azure-virtual-machines-to-a-windows-sysadmin/</guid>
+      <description>deployed on Microsoft Azure through various methods. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Talks Diversity, Share Price And What&#39;s Next At The Annual</title>
@@ -4599,36 +4609,6 @@ VMware To Offer Desktop-as-a-Service Infrastructure on Microsoft Azure VMware, w
       
       <guid>//crypt0.net/post/suse-unveils-suse-openstack-cloud-monitoring-to-simplify-and-manage/</guid>
       <description>IT Business Net BOSTON, May 8, 2017 /PRNewswire/ &amp;ndash; (OpenStack Summit) SUSE today unveiled SUSE OpenStack Cloud Monitoring, an open source software &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Second Generation Cloud: OpenStack Summit Day 1 Keynote Recap</title>
-      <link>//crypt0.net/post/second-generation-cloud-openstack-summit-day-1-keynote-recap/</link>
-      <pubDate>Tue, 09 May 2017 14:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/second-generation-cloud-openstack-summit-day-1-keynote-recap/</guid>
-      <description>traditional enterprises, under the headings of capabilities, cost and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Dell EMC Debuts Cloud Platform for Microsoft Azure</title>
-      <link>//crypt0.net/post/dell-emc-debuts-cloud-platform-for-microsoft-azure/</link>
-      <pubDate>Tue, 09 May 2017 14:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/dell-emc-debuts-cloud-platform-for-microsoft-azure/</guid>
-      <description>Tech giant Dell EMC has announced a new hybrid cloud for the Microsoft Azure Stack that it said will allow organizations to implement and maintain &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Sitecore Cloud Accelerates the Power, Scale, and Agility of Contextual</title>
-      <link>//crypt0.net/post/sitecore-cloud-accelerates-the-power-scale-and-agility-of-contextual/</link>
-      <pubDate>Tue, 09 May 2017 14:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sitecore-cloud-accelerates-the-power-scale-and-agility-of-contextual/</guid>
-      <description>PR Newswire (press release) Jason Zander, corporate vice president, Microsoft Azure added, &amp;ldquo;Sitecore has architected its platform to natively support Microsoft technology from the &amp;hellip; more.
 @crypt0net</description>
     </item>
     
