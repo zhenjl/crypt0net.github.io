@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 24 May 2017 01:30:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2017 01:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sneak Peek - PowerShell in Azure Cloud Shell</title>
+      <link>//crypt0.net/post/sneak-peek--powershell-in-azure-cloud-shell/</link>
+      <pubDate>Wed, 24 May 2017 01:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/sneak-peek--powershell-in-azure-cloud-shell/</guid>
+      <description>fill out &amp;hellip; languages in a shell that&amp;rsquo;s updated and maintained by Microsoft. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Java Daddy James Gosling goes to work for Amazon Web Services</title>
@@ -4689,16 +4699,6 @@ VMware To Offer Desktop-as-a-Service Infrastructure on Microsoft Azure VMware, w
       
       <guid>//crypt0.net/post/openstack-summit-all-the-biggest-news-from-red-hat-to-rackspace--dell-emc/</guid>
       <description>In what the two are calling a revolution of the private cloud, Dell EMC and Rackspace have collaborated to deliver deliver OpenStack private cloud. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Dell Technologies makes its case as the safe place to spend IT budgets</title>
-      <link>//crypt0.net/post/dell-technologies-makes-its-case-as-the-safe-place-to-spend-it-budgets/</link>
-      <pubDate>Tue, 09 May 2017 01:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/dell-technologies-makes-its-case-as-the-safe-place-to-spend-it-budgets/</guid>
-      <description>But the cloud really is a place: it can be found in the managed data centers of Amazon Web Services, Microsoft Azure, Google Cloud Platform, IBM &amp;hellip; more.
 @crypt0net</description>
     </item>
     
