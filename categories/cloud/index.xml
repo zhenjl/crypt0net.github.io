@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 May 2017 22:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 23:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Email, Google, Microsoft, and Our Academic EdTech Conversation</title>
+      <link>//crypt0.net/post/email-google-microsoft-and-our-academic-edtech-conversation/</link>
+      <pubDate>Thu, 25 May 2017 23:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/email-google-microsoft-and-our-academic-edtech-conversation/</guid>
+      <description>Jim points out that almost a third of schools look like they started the process of moving towards Google cloud e-mail (or were once on that service). more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Mastering OpenStack : discover your complete guide to designing, deploying,</title>
@@ -4301,16 +4311,6 @@ VMware To Offer Desktop-as-a-Service Infrastructure on Microsoft Azure VMware, w
       
       <guid>//crypt0.net/post/breaking-down-kubernetes-use-stats-among-openstack-deployments/</guid>
       <description>OpenStack Foundation leaders cited the organization&amp;rsquo;s annual user survey as evidence that a combination of OpenStack and Kubernetes &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How an AWS Managed Service Provider Can Solve These 3 Business Pain Points</title>
-      <link>//crypt0.net/post/how-an-aws-managed-service-provider-can-solve-these-3-business-pain-points/</link>
-      <pubDate>Wed, 10 May 2017 23:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-an-aws-managed-service-provider-can-solve-these-3-business-pain-points/</guid>
-      <description>Amazon Web Services has held the top spot in the cloud industry for years. RightScale&amp;rsquo;s 2017 State of the Cloud report found that 57 percent of &amp;hellip; more.
 @crypt0net</description>
     </item>
     
