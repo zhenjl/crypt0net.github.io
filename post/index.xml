@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 May 2017 21:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 21:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cylance delivers first AI-driven endpoint detection and response solution</title>
+      <link>//crypt0.net/post/cylance-delivers-first-aidriven-endpoint-detection-and-response-solution/</link>
+      <pubDate>Thu, 25 May 2017 21:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cylance-delivers-first-aidriven-endpoint-detection-and-response-solution/</guid>
+      <description>CSO Australia SYDNEY, AUSTRALIA 25 May 2017 Cylance Inc., the company that revolutionised traditional antivirus with AI-powered threat prevention, &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Google IoT service checks box years after AWS, Azure</title>
@@ -10520,46 +10530,6 @@
       <guid>//crypt0.net/post/monolith-studio-launches-tokencard-ethereum-debit-card-announces-initial/</guid>
       <description>Inside Bitcoins Blockchain-based Web3 startup Monolith Studio has announced the launch of the first ever smart contract-powered debit card, TokenCard along with &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services brings 2 new services to Canadian region</title>
-      <link>//crypt0.net/post/amazon-web-services-brings-2-new-services-to-canadian-region/</link>
-      <pubDate>Wed, 10 May 2017 21:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-web-services-brings-2-new-services-to-canadian-region/</guid>
-      <description>Canadian customers of Amazon Web Services can now access two new new cloud services that will help them monitor and manage their systems in &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft launches Azure app for Android</title>
-      <link>//crypt0.net/post/microsoft-launches-azure-app-for-android/</link>
-      <pubDate>Wed, 10 May 2017 21:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-launches-azure-app-for-android/</guid>
-      <description>Microsoft has launched an Azure app for Android after a long time since Azure&amp;rsquo;s web launch. It is a competitor to Amazon Web Services. The app is &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OpenStack: &#39;We Continue to Get Dinged On Complexity&#39;</title>
-      <link>//crypt0.net/post/openstack-we-continue-to-get-dinged-on-complexity/</link>
-      <pubDate>Wed, 10 May 2017 21:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-we-continue-to-get-dinged-on-complexity/</guid>
-      <description>day of OpenStack Summit 2017 in Boston, but it spoke on behalf of a &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Opsgility expands Microsoft Visual Studio Dev Essentials offering to Visual</title>
-      <link>//crypt0.net/post/opsgility-expands-microsoft-visual-studio-dev-essentials-offering-to-visual/</link>
-      <pubDate>Wed, 10 May 2017 21:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/opsgility-expands-microsoft-visual-studio-dev-essentials-offering-to-visual/</guid>
-      <description>PR Newswire (press release) &amp;ldquo;Opsgility delivers in-depth technical training fully integrated with hands-on labs, as well as Microsoft Azure certifications and learning paths, providing &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
