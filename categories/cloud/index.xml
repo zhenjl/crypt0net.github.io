@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 May 2017 19:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 19:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zerto Virtual Replication adds Azure reverse replication</title>
+      <link>//crypt0.net/post/zerto-virtual-replication-adds-azure-reverse-replication/</link>
+      <pubDate>Thu, 25 May 2017 19:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/zerto-virtual-replication-adds-azure-reverse-replication/</guid>
+      <description>Zerto Virtual Replication adds Azure reverse replication &amp;hellip; highlighting a reverse-replication capability for the Microsoft Azure cloud, so customers can &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Is Amazon.com, Inc. (AMZN) Stock About to Burst?</title>
@@ -4401,26 +4411,6 @@ VMware To Offer Desktop-as-a-Service Infrastructure on Microsoft Azure VMware, w
       
       <guid>//crypt0.net/post/red-hat-to-deploy-openstack-to-support-ornl-supercomputing-needs-for/</guid>
       <description>GovConWire TYSONS CORNER, VA, May 10, 2017 Red Hat&amp;rsquo;s (NYSE: RHT) OpenStack platform will work to facilitate cloud services at the Energy Department&amp;rsquo;s &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cloud X Announces the Addition of Senior Google Engineer Robert McFrazier</title>
-      <link>//crypt0.net/post/cloud-x-announces-the-addition-of-senior-google-engineer-robert-mcfrazier/</link>
-      <pubDate>Wed, 10 May 2017 19:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloud-x-announces-the-addition-of-senior-google-engineer-robert-mcfrazier/</guid>
-      <description>SYS-CON Media (press release) SEATTLE, May 10, 2017 /PRNewswire/ &amp;ndash; Last week, on Monday, May 1st, Elon Musk&amp;rsquo;s SpaceX had yet another milestone in its unwavering pursuit of &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>GeekWire Cloud Tech Summit: Last chance for early-bird tickets, new</title>
-      <link>//crypt0.net/post/geekwire-cloud-tech-summit-last-chance-for-earlybird-tickets-new/</link>
-      <pubDate>Wed, 10 May 2017 19:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/geekwire-cloud-tech-summit-last-chance-for-earlybird-tickets-new/</guid>
-      <description>GeekWire Docker COO Scott Johnston also will join for a fireside chat, as will Sam Ramji of Google Cloud. Things will get really fun in the afternoon, with three &amp;hellip; more.
 @crypt0net</description>
     </item>
     
