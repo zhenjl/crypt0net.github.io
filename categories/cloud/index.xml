@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 May 2017 09:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 09:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google&#39;s AlphaGo is the best Go player in the world</title>
+      <link>//crypt0.net/post/googles-alphago-is-the-best-go-player-in-the-world/</link>
+      <pubDate>Thu, 25 May 2017 09:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/googles-alphago-is-the-best-go-player-in-the-world/</guid>
+      <description>&amp;hellip; said to use 10 times less computational power than the computer that beat Lee Sedol. All it needs is a single PC connected to Google&amp;rsquo;s cloud server. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>It&#39;s not just about running containers on OpenStack but about containers</title>
@@ -4500,36 +4510,6 @@ VMware To Offer Desktop-as-a-Service Infrastructure on Microsoft Azure VMware, w
       
       <guid>//crypt0.net/post/waves-platform-integrated-in-microsoft-azure/</guid>
       <description>is now available in the Microsoft Azure Blockchain as a Service cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Voyages-SNCF.com Goes Hybrid with OVH and vCloud Air Network</title>
-      <link>//crypt0.net/post/voyagessncfcom-goes-hybrid-with-ovh-and-vcloud-air-network/</link>
-      <pubDate>Wed, 10 May 2017 09:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/voyagessncfcom-goes-hybrid-with-ovh-and-vcloud-air-network/</guid>
-      <description>online volume times they turned to OVH and the VMware vCloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Learn for Free: Kubernetes, OpenStack, SDN</title>
-      <link>//crypt0.net/post/learn-for-free-kubernetes-openstack-sdn/</link>
-      <pubDate>Wed, 10 May 2017 09:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/learn-for-free-kubernetes-openstack-sdn/</guid>
-      <description>popular courses covering Kubernetes, OpenStack, and Software Defined &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Science-Fiction meets reality  Amazon boss hails golden age of AI</title>
-      <link>//crypt0.net/post/sciencefiction-meets-reality--amazon-boss-hails-golden-age-of-ai/</link>
-      <pubDate>Wed, 10 May 2017 09:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sciencefiction-meets-reality--amazon-boss-hails-golden-age-of-ai/</guid>
-      <description>This is enabled through Amazon Web Services, which is now 10 years old. The firm is also one of the market leaders in the personal assistance space, &amp;hellip; more.
 @crypt0net</description>
     </item>
     
