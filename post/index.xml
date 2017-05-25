@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 24 May 2017 23:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 00:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sensitive consumer data posted online (and the FTC knows who did it)</title>
+      <link>//crypt0.net/post/sensitive-consumer-data-posted-online-and-the-ftc-knows-who-did-it/</link>
+      <pubDate>Thu, 25 May 2017 00:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/sensitive-consumer-data-posted-online-and-the-ftc-knows-who-did-it/</guid>
+      <description>Two-factor authentication provides at least some protection against stolen credentials. Have you thought about implementing it at your company? more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>4 Reasons the Vulnerability Disclosure Process Stalls</title>
@@ -10609,76 +10619,6 @@
       
       <guid>//crypt0.net/post/mind--blown-a-blockchain-neophyte-goes-to-a-conference/</guid>
       <description>However, it was also fascinating, mind-bending, and gave incredible insights into where blockchain technology could make the next major leap in &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Management Pack for Microsoft Azure Stack now available</title>
-      <link>//crypt0.net/post/management-pack-for-microsoft-azure-stack-now-available/</link>
-      <pubDate>Wed, 10 May 2017 00:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/management-pack-for-microsoft-azure-stack-now-available/</guid>
-      <description>of the Microsoft Azure Stack Management Pack for System Center Operations &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OpenStack Summit  Mirantis Activities for May 10</title>
-      <link>//crypt0.net/post/openstack-summit--mirantis-activities-for-may-10/</link>
-      <pubDate>Wed, 10 May 2017 00:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-summit--mirantis-activities-for-may-10/</guid>
-      <description>See what we&amp;rsquo;re up to for OpenStack Summit Day 3. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Xilinx can Gain on Intel in Microsoft&#39;s Azure, Says Pac Crest</title>
-      <link>//crypt0.net/post/xilinx-can-gain-on-intel-in-microsofts-azure-says-pac-crest/</link>
-      <pubDate>Wed, 10 May 2017 00:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/xilinx-can-gain-on-intel-in-microsofts-azure-says-pac-crest/</guid>
-      <description>Pacific Crest analyst John Vinh thinks chip maker Xilinx can steal away some some business from Intel at within Microsoft&amp;rsquo;s Azure cloud computing &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Quickly Patches Malware Protection Engine Vulnerability</title>
-      <link>//crypt0.net/post/microsoft-quickly-patches-malware-protection-engine-vulnerability/</link>
-      <pubDate>Wed, 10 May 2017 00:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-quickly-patches-malware-protection-engine-vulnerability/</guid>
-      <description>Several Microsoft anti-malware products feature the Microsoft Malware Protection Engine , including Microsoft Forefront Endpoint Protection 2010, &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Microsoft fixes remote hacking flaw in Windows Malware Protection Engine</title>
-      <link>//crypt0.net/post/microsoft-fixes-remote-hacking-flaw-in-windows-malware-protection-engine/</link>
-      <pubDate>Wed, 10 May 2017 00:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-fixes-remote-hacking-flaw-in-windows-malware-protection-engine/</guid>
-      <description>&amp;hellip; as well as by other Microsoft consumer and enterprise security products: Microsoft Security Essentials, Microsoft Forefront Endpoint Protection 2010, &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>The new way criminals are getting into your bank account - and how to keep</title>
-      <link>//crypt0.net/post/the-new-way-criminals-are-getting-into-your-bank-account--and-how-to-keep/</link>
-      <pubDate>Tue, 09 May 2017 23:50:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-new-way-criminals-are-getting-into-your-bank-account--and-how-to-keep/</guid>
-      <description>Mirror.co.uk It said fraudsters were collecting personal information and identifying targets through data breaches and social media footprints, and were often &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Greenberg Traurig&#39;s Ian C. Ballon to Speak at ABA&#39;s Second Internet of</title>
-      <link>//crypt0.net/post/greenberg-traurigs-ian-c-ballon-to-speak-at-abas-second-internet-of/</link>
-      <pubDate>Tue, 09 May 2017 23:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/greenberg-traurigs-ian-c-ballon-to-speak-at-abas-second-internet-of/</guid>
-      <description>PR Web (press release) Global law firm Greenberg Traurig, LLP&amp;rsquo;s Ian C. Ballon will be speaking at the American Bar Association Section of Science &amp;amp; Technology Law&amp;rsquo;s &amp;hellip; more.
 @surgethings</description>
     </item>
     

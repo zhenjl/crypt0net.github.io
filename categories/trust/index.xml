@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 24 May 2017 21:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 00:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sensitive consumer data posted online (and the FTC knows who did it)</title>
+      <link>//crypt0.net/post/sensitive-consumer-data-posted-online-and-the-ftc-knows-who-did-it/</link>
+      <pubDate>Thu, 25 May 2017 00:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/sensitive-consumer-data-posted-online-and-the-ftc-knows-who-did-it/</guid>
+      <description>Two-factor authentication provides at least some protection against stolen credentials. Have you thought about implementing it at your company? more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Cylance Launches AI-Driven Endpoint Detection and Response with</title>
@@ -1489,36 +1499,6 @@ Branchless Banking Customers Vulnerable to Overcharges, Data Breaches: Jakarta G
       
       <guid>//crypt0.net/post/cyberresilience--a-repeated-regulatory-message/</guid>
       <description>An expectation that regulated financial services firms be &amp;lsquo;cyber-resilient&amp;rsquo; should not cause any surprise. Cyber-crime and data breaches represent &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Quickly Patches Malware Protection Engine Vulnerability</title>
-      <link>//crypt0.net/post/microsoft-quickly-patches-malware-protection-engine-vulnerability/</link>
-      <pubDate>Wed, 10 May 2017 00:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-quickly-patches-malware-protection-engine-vulnerability/</guid>
-      <description>Several Microsoft anti-malware products feature the Microsoft Malware Protection Engine , including Microsoft Forefront Endpoint Protection 2010, &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Microsoft fixes remote hacking flaw in Windows Malware Protection Engine</title>
-      <link>//crypt0.net/post/microsoft-fixes-remote-hacking-flaw-in-windows-malware-protection-engine/</link>
-      <pubDate>Wed, 10 May 2017 00:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-fixes-remote-hacking-flaw-in-windows-malware-protection-engine/</guid>
-      <description>&amp;hellip; as well as by other Microsoft consumer and enterprise security products: Microsoft Security Essentials, Microsoft Forefront Endpoint Protection 2010, &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>The new way criminals are getting into your bank account - and how to keep</title>
-      <link>//crypt0.net/post/the-new-way-criminals-are-getting-into-your-bank-account--and-how-to-keep/</link>
-      <pubDate>Tue, 09 May 2017 23:50:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-new-way-criminals-are-getting-into-your-bank-account--and-how-to-keep/</guid>
-      <description>Mirror.co.uk It said fraudsters were collecting personal information and identifying targets through data breaches and social media footprints, and were often &amp;hellip; more.
 @trustpath</description>
     </item>
     
