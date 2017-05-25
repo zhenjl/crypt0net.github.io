@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 May 2017 01:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 01:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IoT Evolution Expo Announces RSA, a Leader in Business-Driven Security</title>
+      <link>//crypt0.net/post/iot-evolution-expo-announces-rsa-a-leader-in-businessdriven-security/</link>
+      <pubDate>Thu, 25 May 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/iot-evolution-expo-announces-rsa-a-leader-in-businessdriven-security/</guid>
+      <description>IoT Evolution World (blog) I&amp;rsquo;m excited to share my perspective on the path forward by examining fundamental security tenets like visibility, identity, and risk in an IoT context so &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>A Clean Water System for Those Who Need it, in Real Time</title>
@@ -10670,16 +10680,6 @@
       <guid>//crypt0.net/post/i-can-not-find-car-lease-demo-for-blockchain-training/</guid>
       <description>BlockChain training. Thanks for your help, Leandro. more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Red Hat Drives Cloud Infrastructure Upgrades</title>
-      <link>//crypt0.net/post/red-hat-drives-cloud-infrastructure-upgrades/</link>
-      <pubDate>Wed, 10 May 2017 01:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/red-hat-drives-cloud-infrastructure-upgrades/</guid>
-      <description>Based on the OpenStack Ocata release, Red Hat OpenStack Platform 11 delivers enhanced support for upgrades with composable roles, new &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
