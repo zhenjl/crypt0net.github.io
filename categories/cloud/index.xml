@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 May 2017 03:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 03:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Serverless v1.14 - Deploy to Google Cloud Functions &amp; rollback function</title>
+      <link>//crypt0.net/post/serverless-v114--deploy-to-google-cloud-functions--rollback-function/</link>
+      <pubDate>Thu, 25 May 2017 03:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/serverless-v114--deploy-to-google-cloud-functions--rollback-function/</guid>
+      <description>Google Cloud Functions, Rollback function, DeadLetterConfig, Login command and more in the Serverless Framework v1.14 release. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>BRIEF-Infosys launches Boundaryless Data Lake offering on Amazon Web</title>
