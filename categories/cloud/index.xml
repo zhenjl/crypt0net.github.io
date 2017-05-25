@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 May 2017 03:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 05:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apigee Edge Vs Google Cloud Endpoints - Which one to use when</title>
+      <link>//crypt0.net/post/apigee-edge-vs-google-cloud-endpoints--which-one-to-use-when/</link>
+      <pubDate>Thu, 25 May 2017 05:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/apigee-edge-vs-google-cloud-endpoints--which-one-to-use-when/</guid>
+      <description>interested to do API Management for the services hosted on Google Cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Serverless v1.14 - Deploy to Google Cloud Functions &amp; rollback function</title>
