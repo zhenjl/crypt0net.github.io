@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 26 May 2017 05:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2017 06:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>&#39;openstack-nova-novncproxy-clone&#39; has &#39;target-role=stopped&#39; after Pacemaker</title>
+      <link>//crypt0.net/post/openstacknovanovncproxyclone-has-targetrolestopped-after-pacemaker/</link>
+      <pubDate>Fri, 26 May 2017 06:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstacknovanovncproxyclone-has-targetrolestopped-after-pacemaker/</guid>
+      <description>Restarting openstack-nova-novncproxy-clone using the following pcs command causes Pacemaker ops_params to timeout after 20 seconds, resulting &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Azure IoT Cloud enabled for Cisco Fog deployments</title>
@@ -39,16 +49,6 @@
       
       <guid>//crypt0.net/post/kerala-startup-to-get-google-mentoring/</guid>
       <description>The startups will receive 50,000 USD which is roughly Rs 35 lakh grant and 100,000 USD worth (roughly Rs 67 lakh) Google Cloud credits which &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Intrinsic ID Unveils Bold New Authentication Security for IoT Devices</title>
-      <link>//crypt0.net/post/intrinsic-id-unveils-bold-new-authentication-security-for-iot-devices/</link>
-      <pubDate>Fri, 26 May 2017 01:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/intrinsic-id-unveils-bold-new-authentication-security-for-iot-devices/</guid>
-      <description>SPARTAN Cloud is the first security product that enables secure connections to AWS, Azure and Google Cloud based on Transport Layer Security &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -4301,26 +4301,6 @@ VMware To Offer Desktop-as-a-Service Infrastructure on Microsoft Azure VMware, w
       
       <guid>//crypt0.net/post/datadriven-decisions-help-golfers-play-smarter-shoot-lower-scores-and/</guid>
       <description>PR Newswire (press release) Powered by the Microsoft Azure cloud platform, Arccos Caddie harnesses advanced analytics to help golfers of all skill levels shoot lower scores by &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OpenStack Summit Presented a Convincing Demo of Cross-Cloud Convergence</title>
-      <link>//crypt0.net/post/openstack-summit-presented-a-convincing-demo-of-crosscloud-convergence/</link>
-      <pubDate>Thu, 11 May 2017 05:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-summit-presented-a-convincing-demo-of-crosscloud-convergence/</guid>
-      <description>2017 in Boston, because it would have answered some of the biggest &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Cosmos DB, a global solution for API devs</title>
-      <link>//crypt0.net/post/microsoft-azure-cosmos-db-a-global-solution-for-api-devs/</link>
-      <pubDate>Thu, 11 May 2017 05:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-cosmos-db-a-global-solution-for-api-devs/</guid>
-      <description>On Wednesday, Microsoft introduced Azure Cosmos DB, the tech giant&amp;rsquo;s expansion of its Azure DocumentDB database-as-a-service platform. more.
 @crypt0net</description>
     </item>
     

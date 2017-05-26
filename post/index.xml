@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 26 May 2017 05:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2017 06:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>&#39;openstack-nova-novncproxy-clone&#39; has &#39;target-role=stopped&#39; after Pacemaker</title>
+      <link>//crypt0.net/post/openstacknovanovncproxyclone-has-targetrolestopped-after-pacemaker/</link>
+      <pubDate>Fri, 26 May 2017 06:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstacknovanovncproxyclone-has-targetrolestopped-after-pacemaker/</guid>
+      <description>Restarting openstack-nova-novncproxy-clone using the following pcs command causes Pacemaker ops_params to timeout after 20 seconds, resulting &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Intrinsic ID Unveils Bold New Authentication Security for IoT Devices</title>
+      <link>//crypt0.net/post/intrinsic-id-unveils-bold-new-authentication-security-for-iot-devices/</link>
+      <pubDate>Fri, 26 May 2017 06:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/intrinsic-id-unveils-bold-new-authentication-security-for-iot-devices/</guid>
+      <description>SPARTAN Cloud is the first security product that enables secure connections to AWS, Azure and Google Cloud based on Transport Layer Security &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Keeping data safe  How to avoid becoming the next big lawsuit</title>
+      <link>//crypt0.net/post/keeping-data-safe--how-to-avoid-becoming-the-next-big-lawsuit/</link>
+      <pubDate>Fri, 26 May 2017 06:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/keeping-data-safe--how-to-avoid-becoming-the-next-big-lawsuit/</guid>
+      <description>Last year produced some of the largest and most critical data breaches to date and these continued assaults show no signs of letting up. On May 12 &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Azure IoT Cloud enabled for Cisco Fog deployments</title>
@@ -90,16 +120,6 @@
       <guid>//crypt0.net/post/samsung-publicly-demonstrates-nextgeneration-stretchable-oled-display/</guid>
       <description>Forbes Samsung envisions a future where this type of stretchable display will be used for wearable, Internet of Things (IoT) devices and automotive &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Intrinsic ID Unveils Bold New Authentication Security for IoT Devices</title>
-      <link>//crypt0.net/post/intrinsic-id-unveils-bold-new-authentication-security-for-iot-devices/</link>
-      <pubDate>Fri, 26 May 2017 01:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/intrinsic-id-unveils-bold-new-authentication-security-for-iot-devices/</guid>
-      <description>SPARTAN Cloud is the first security product that enables secure connections to AWS, Azure and Google Cloud based on Transport Layer Security &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -10419,56 +10439,6 @@
       
       <guid>//crypt0.net/post/ast-nuarca-partner-to-offer-blockchainbased-system-for-proxy-voting/</guid>
       <description>AST that offers transfer agent, governance services and proxy solicitation, announced that it will deliver a blockchain-based system for proxy voting. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Identity theft workshops target financial and health-care professionals</title>
-      <link>//crypt0.net/post/identity-theft-workshops-target-financial-and-healthcare-professionals/</link>
-      <pubDate>Thu, 11 May 2017 05:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/identity-theft-workshops-target-financial-and-healthcare-professionals/</guid>
-      <description>Participants will discover how data breaches occur, learn the consequences of a breach and how to reduce the risk of a breach, learn why HIPAA &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>OpenStack Summit Presented a Convincing Demo of Cross-Cloud Convergence</title>
-      <link>//crypt0.net/post/openstack-summit-presented-a-convincing-demo-of-crosscloud-convergence/</link>
-      <pubDate>Thu, 11 May 2017 05:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-summit-presented-a-convincing-demo-of-crosscloud-convergence/</guid>
-      <description>2017 in Boston, because it would have answered some of the biggest &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>(and Questions) on navigating the blockchain landscape in 2017</title>
-      <link>//crypt0.net/post/and-questions-on-navigating-the-blockchain-landscape-in-2017/</link>
-      <pubDate>Thu, 11 May 2017 05:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/and-questions-on-navigating-the-blockchain-landscape-in-2017/</guid>
-      <description>and services on top of blockchain technology, including directly into &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Cosmos DB, a global solution for API devs</title>
-      <link>//crypt0.net/post/microsoft-azure-cosmos-db-a-global-solution-for-api-devs/</link>
-      <pubDate>Thu, 11 May 2017 05:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-cosmos-db-a-global-solution-for-api-devs/</guid>
-      <description>On Wednesday, Microsoft introduced Azure Cosmos DB, the tech giant&amp;rsquo;s expansion of its Azure DocumentDB database-as-a-service platform. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Revitalizing U.S. Manufacturing With Industry 4.0</title>
-      <link>//crypt0.net/post/revitalizing-us-manufacturing-with-industry-40/</link>
-      <pubDate>Thu, 11 May 2017 05:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/revitalizing-us-manufacturing-with-industry-40/</guid>
-      <description>Successfully leveraging the huge promise of Industry 4.0 and the Internet of Things will allow companies to transform their business models to &amp;hellip; more.
 @surgethings</description>
     </item>
     
