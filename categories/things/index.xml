@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 26 May 2017 10:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2017 10:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RabbitMQ (MQTT) server settings for MQTT clients authentication using an</title>
+      <link>//crypt0.net/post/rabbitmq-mqtt-server-settings-for-mqtt-clients-authentication-using-an/</link>
+      <pubDate>Fri, 26 May 2017 10:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/rabbitmq-mqtt-server-settings-for-mqtt-clients-authentication-using-an/</guid>
+      <description>This is a question regarding how to set up a RabbitMQ (MQTT) server, so it can authenticate MQTT clients based on an AppID and its access-key &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Is IoT Botnet Malware Mirai Recruiting Bitcoin Mining Slaves?</title>
