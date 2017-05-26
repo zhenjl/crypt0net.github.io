@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 26 May 2017 08:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2017 09:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>availability-zone-return-all-services-in-api</title>
+      <link>//crypt0.net/post/availabilityzonereturnallservicesinapi/</link>
+      <pubDate>Fri, 26 May 2017 09:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/availabilityzonereturnallservicesinapi/</guid>
+      <description>For openstack/watcher, it need to build one compute CDM(cluster data model) &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Azure Saturday: Technisches Cloud-Wissen rund um Azure</title>
@@ -4271,26 +4281,6 @@ VMware To Offer Desktop-as-a-Service Infrastructure on Microsoft Azure VMware, w
       
       <guid>//crypt0.net/post/microsoft-build-2017-azure-mobile-app-visual-studio-for-mac-and-other-top/</guid>
       <description>India Today Microsoft&amp;rsquo;s India-born chief Satya Nadella on Wednesday attempted to allay concerns over the increasing use of technology in public life and said &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OpenStack Summit  Mirantis Activities for May 11</title>
-      <link>//crypt0.net/post/openstack-summit--mirantis-activities-for-may-11/</link>
-      <pubDate>Thu, 11 May 2017 09:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-summit--mirantis-activities-for-may-11/</guid>
-      <description>Summit. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft&#39;s Latest Open Source Database Efforts On Display at Build</title>
-      <link>//crypt0.net/post/microsofts-latest-open-source-database-efforts-on-display-at-build/</link>
-      <pubDate>Thu, 11 May 2017 08:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsofts-latest-open-source-database-efforts-on-display-at-build/</guid>
-      <description>Microsoft&amp;rsquo;s Latest Open Source Database Efforts On Display at Build. Microsoft highlighted its new Azure MySQL and PostgreSQL databases at this &amp;hellip; more.
 @crypt0net</description>
     </item>
     
