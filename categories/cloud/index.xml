@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 26 May 2017 02:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2017 04:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google introduces Istio service mesh for cloud</title>
+      <link>//crypt0.net/post/google-introduces-istio-service-mesh-for-cloud/</link>
+      <pubDate>Fri, 26 May 2017 04:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-introduces-istio-service-mesh-for-cloud/</guid>
+      <description>As Eric Brewer, Vice President, Google Cloud said, Google&amp;rsquo;s experience is that having a uniform substrate for developing and operating &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Kerala startup to get Google mentoring</title>
