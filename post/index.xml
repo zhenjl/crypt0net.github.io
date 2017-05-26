@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 26 May 2017 08:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2017 08:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure Saturday: Technisches Cloud-Wissen rund um Azure</title>
+      <link>//crypt0.net/post/azure-saturday-technisches-cloudwissen-rund-um-azure/</link>
+      <pubDate>Fri, 26 May 2017 08:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-saturday-technisches-cloudwissen-rund-um-azure/</guid>
+      <description>Check out what&amp;rsquo;s happening in your area. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Rise in &#39;internet of things&#39; attacks expected; security now a big part of</title>
@@ -10420,26 +10430,6 @@
       <guid>//crypt0.net/post/openstack-summit--edward-snowden-open-source-and-the-power-of-the/</guid>
       <description>Diginomica The appearance in telecast form of information liberator-in-chief, Edward Snowden, at the OpenStack Summit raised more applause than hackles, &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>H2O.ai Brings Lightning-Fast Machine Learning to Enterprises with NVIDIA</title>
-      <link>//crypt0.net/post/h2oai-brings-lightningfast-machine-learning-to-enterprises-with-nvidia/</link>
-      <pubDate>Thu, 11 May 2017 08:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/h2oai-brings-lightningfast-machine-learning-to-enterprises-with-nvidia/</guid>
-      <description>SYS-CON Media (press release) H2O.ai today announced that it has collaborated with NVIDIA to offer its best-of-breed machine learning algorithms in a newly minted GPU edition. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Carbon Black to Showcase Next Generation Endpoint Security at GISEC 2017</title>
-      <link>//crypt0.net/post/carbon-black-to-showcase-next-generation-endpoint-security-at-gisec-2017/</link>
-      <pubDate>Thu, 11 May 2017 08:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/carbon-black-to-showcase-next-generation-endpoint-security-at-gisec-2017/</guid>
-      <description>The company will showcase its latest endpoint protection, detection and response solutions as well as a new research study, Beyond the Hype, which &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
