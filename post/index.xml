@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 28 May 2017 03:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2017 04:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Find naming rules for Azure resources</title>
+      <link>//crypt0.net/post/find-naming-rules-for-azure-resources/</link>
+      <pubDate>Sun, 28 May 2017 04:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/find-naming-rules-for-azure-resources/</guid>
+      <description>A. Yes. At https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-c onventions#naming-rules-and-restrictions all the rules and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>drewrothstein drewrothstein/console Created 2 minutes ago</title>
