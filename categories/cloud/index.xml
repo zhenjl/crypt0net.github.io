@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 28 May 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2017 19:40:01 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analyze your Amazon Web Services (AWS) Bills w/Google BigQuery &amp; Data</title>
+      <link>//crypt0.net/post/analyze-your-amazon-web-services-aws-bills-wgoogle-bigquery--data/</link>
+      <pubDate>Sun, 28 May 2017 19:40:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/analyze-your-amazon-web-services-aws-bills-wgoogle-bigquery--data/</guid>
+      <description>Why go outside when you are stuck inside writing Macros for a 12GB spreadsheet trying to figure out why the EBS volumes in your R&amp;amp;D environment &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - May 28, 2017</title>
