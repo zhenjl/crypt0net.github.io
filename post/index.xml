@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 31 May 2017 20:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 20:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Expands VPS Service Amazon Lightsail to More Regions</title>
+      <link>//crypt0.net/post/aws-expands-vps-service-amazon-lightsail-to-more-regions/</link>
+      <pubDate>Wed, 31 May 2017 20:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-expands-vps-service-amazon-lightsail-to-more-regions/</guid>
+      <description>Amazon Web Services is expanding its VPS services, called Amazon Lightsail, into nine more AWS regions and launching a new global console. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Aviatrix Named Cool Vendor in Cloud Computing 2017 by Gartner</title>
@@ -14619,26 +14629,6 @@
       <guid>//crypt0.net/post/member-states-want-looser-data-rules-in-draft-eprivacy-bill/</guid>
       <description>The draft report on the ePrivacy rules also say that a number of issues will need to be addressed in relation to machine-to-machine communications. more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>F5 offers application delivery suite on Google Cloud</title>
-      <link>//crypt0.net/post/f5-offers-application-delivery-suite-on-google-cloud/</link>
-      <pubDate>Tue, 16 May 2017 20:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/f5-offers-application-delivery-suite-on-google-cloud/</guid>
-      <description>the infrastructure-as-a-service component of the Google Cloud, enabling &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OpenStack is coming of age and tackling its growing pains head-on</title>
-      <link>//crypt0.net/post/openstack-is-coming-of-age-and-tackling-its-growing-pains-headon/</link>
-      <pubDate>Tue, 16 May 2017 13:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-is-coming-of-age-and-tackling-its-growing-pains-headon/</guid>
-      <description>The OpenStack community of users and contributors are united in their belief in the enterprise-readiness of the open source platform, but accelerating &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
