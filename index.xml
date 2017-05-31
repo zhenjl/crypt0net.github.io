@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 31 May 2017 09:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 09:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Woodside uses big data to raise Pluto plant production</title>
+      <link>//crypt0.net/post/woodside-uses-big-data-to-raise-pluto-plant-production/</link>
+      <pubDate>Wed, 31 May 2017 09:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/woodside-uses-big-data-to-raise-pluto-plant-production/</guid>
+      <description>The company is using the Google cloud to process seismic image data taken by survey ships for the purpose of identifying potential resource fields &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How to Deploy Neo4j on Microsoft Azure, a Step-by-Step Guide</title>
