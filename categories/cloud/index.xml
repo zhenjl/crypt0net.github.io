@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 31 May 2017 15:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 16:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Server Hardware Boosts Data-Crunching for AI, Cloud</title>
+      <link>//crypt0.net/post/new-server-hardware-boosts-datacrunching-for-ai-cloud/</link>
+      <pubDate>Wed, 31 May 2017 16:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/new-server-hardware-boosts-datacrunching-for-ai-cloud/</guid>
+      <description>Google will offer the new chips as a commercial offering on Google Cloud Platform. The TPU is a custom ASIC tailored for TensorFlow, an open &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>SAP-as-a-Service on Microsoft Azure</title>
+      <link>//crypt0.net/post/sapasaservice-on-microsoft-azure/</link>
+      <pubDate>Wed, 31 May 2017 16:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/sapasaservice-on-microsoft-azure/</guid>
+      <description>range of certified SAP infrastructure provided Microsoft Azure. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>VMware to integrate Horizon Cloud with Azure</title>
@@ -2028,16 +2048,6 @@ Microsoft Azure is now ISO 9001:2015 certified Microsoft has announced that its 
       
       <guid>//crypt0.net/post/how-much-of-900-million-in-wasted-azure-spend-comes-from-your-clients/</guid>
       <description>&amp;hellip; but was expanded in recent months to include Microsoft Azure. Functionality for Google Cloud Platform and a soft-layer integration for IBM are said &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>SAP-as-a-Service on Microsoft Azure</title>
-      <link>//crypt0.net/post/sapasaservice-on-microsoft-azure/</link>
-      <pubDate>Tue, 23 May 2017 23:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sapasaservice-on-microsoft-azure/</guid>
-      <description>SAP on Microsoft Azure; Learn how SUSE Linux is quickly becoming the de &amp;hellip; more.
 @crypt0net</description>
     </item>
     
