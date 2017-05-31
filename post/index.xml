@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 31 May 2017 22:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2017 22:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Defense contractor stored intelligence data in Amazon cloud unprotected</title>
+      <link>//crypt0.net/post/defense-contractor-stored-intelligence-data-in-amazon-cloud-unprotected/</link>
+      <pubDate>Wed, 31 May 2017 22:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/defense-contractor-stored-intelligence-data-in-amazon-cloud-unprotected/</guid>
+      <description>Enlarge / NGA headquarters. A trove of top secret data processed by NGA contractor Booz Allen Hamilton was left exposed on a public Amazon cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Azure Backup update for Microsoft Azure Recovery Services Agent</title>
