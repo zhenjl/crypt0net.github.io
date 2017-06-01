@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Jun 2017 03:40:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 04:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cyber insurance is &#39;the price of doing business,&#39; according to local firms</title>
+      <link>//crypt0.net/post/cyber-insurance-is-the-price-of-doing-business-according-to-local-firms/</link>
+      <pubDate>Thu, 01 Jun 2017 04:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cyber-insurance-is-the-price-of-doing-business-according-to-local-firms/</guid>
+      <description>This is the latest in a long list of data breaches targeting companies such Target, Home Depot and Sony. If you think your credit card information may &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Statement on IoT Privacy and Security</title>
@@ -15175,26 +15185,6 @@ Branchless Banking Customers Vulnerable to Overcharges, Data Breaches: Jakarta G
       
       <guid>//crypt0.net/post/veeam-overhauls-availability-console-and-beefs-up-aws-azure-support/</guid>
       <description>Veeam has beefed up its public cloud disaster recovery and backup with products for Microsoft Azure and Amazon Web Services, following success in &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Launches Cloud Service For Managing Internet of Things Devices</title>
-      <link>//crypt0.net/post/google-launches-cloud-service-for-managing-internet-of-things-devices/</link>
-      <pubDate>Wed, 17 May 2017 03:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-launches-cloud-service-for-managing-internet-of-things-devices/</guid>
-      <description>Cloud IoT Core will integrate with Google analytics services such as Dataflow and BigQuery on the Google Cloud Platform to help enterprises manage &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Red Hat Satellite Support in Microsoft Azure</title>
-      <link>//crypt0.net/post/red-hat-satellite-support-in-microsoft-azure/</link>
-      <pubDate>Wed, 17 May 2017 03:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/red-hat-satellite-support-in-microsoft-azure/</guid>
-      <description>(RHEL) virtual machines (VMs) in Microsoft Azure. This article describes &amp;hellip; more.
 @crypt0net</description>
     </item>
     
