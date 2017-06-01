@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Jun 2017 04:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 05:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenStack Foundation Says We Are At A Cloud Tipping Point</title>
+      <link>//crypt0.net/post/openstack-foundation-says-we-are-at-a-cloud-tipping-point/</link>
+      <pubDate>Thu, 01 Jun 2017 05:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-foundation-says-we-are-at-a-cloud-tipping-point/</guid>
+      <description>At the opening of OpenStack Day in Melbourne, Jonathan Bryce said we are at an important tipping point with cloud technologies. And while his &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Disaster recovery for IaaS virtual machines through Azure Site Recovery</title>
