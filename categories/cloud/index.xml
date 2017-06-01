@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Jun 2017 12:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 12:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google first cloud provider to offer Intel Skylake processors</title>
+      <link>//crypt0.net/post/google-first-cloud-provider-to-offer-intel-skylake-processors/</link>
+      <pubDate>Thu, 01 Jun 2017 12:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-first-cloud-provider-to-offer-intel-skylake-processors/</guid>
+      <description>Google Cloud revealed that the customer demand for Intel&amp;rsquo;s Skylake has increased and since its launch for the Compute Engine in February, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>[01/06/2017] M&gt;?G * bitcoin mining using google cloud</title>
@@ -5130,16 +5140,6 @@ VMware To Offer Desktop-as-a-Service Infrastructure on Microsoft Azure VMware, w
       
       <guid>//crypt0.net/post/cloudticity-shortens-deployment-time-of-aws-services-through/</guid>
       <description>Cloudticity helps its customers leverage and manage Amazon Web Services effectively and securely. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google launches Cloud IoT Core, a managed IoT service</title>
-      <link>//crypt0.net/post/google-launches-cloud-iot-core-a-managed-iot-service/</link>
-      <pubDate>Wed, 17 May 2017 12:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-launches-cloud-iot-core-a-managed-iot-service/</guid>
-      <description>Tech giant Google yesterday launched its cloud-based IoT management platform, Google Cloud IoT Core. The Cloud IoT Core is a fully managed &amp;hellip; more.
 @crypt0net</description>
     </item>
     
