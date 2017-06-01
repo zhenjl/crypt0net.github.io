@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Jun 2017 02:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 03:40:01 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Statement on IoT Privacy and Security</title>
+      <link>//crypt0.net/post/statement-on-iot-privacy-and-security/</link>
+      <pubDate>Thu, 01 Jun 2017 03:40:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/statement-on-iot-privacy-and-security/</guid>
+      <description>Policy Council and ACM Europe Council Policy Committee. Internet of Things &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Global Embedded Infrastructure and Devices in the Internet of Things (IoT)</title>
@@ -14689,26 +14699,6 @@
       <guid>//crypt0.net/post/red-hat-satellite-support-in-microsoft-azure/</guid>
       <description>(RHEL) virtual machines (VMs) in Microsoft Azure. This article describes &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Blockchain: not the silver bullet against fraud that many expect it to be</title>
-      <link>//crypt0.net/post/blockchain-not-the-silver-bullet-against-fraud-that-many-expect-it-to-be/</link>
-      <pubDate>Wed, 17 May 2017 03:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-not-the-silver-bullet-against-fraud-that-many-expect-it-to-be/</guid>
-      <description>Anyone that picks up any business publication has no doubt read about blockchain. Conceptualised around the same time as the financial crisis in &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>In the K(NO)W: How identity can solve the dystopian future of the Internet</title>
-      <link>//crypt0.net/post/in-the-know-how-identity-can-solve-the-dystopian-future-of-the-internet/</link>
-      <pubDate>Wed, 17 May 2017 03:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/in-the-know-how-identity-can-solve-the-dystopian-future-of-the-internet/</guid>
-      <description>One World Identity David Birch has seen our hellish, always-connected fate, and he has come to warn us. But he also sees potential solutions. With a deadpan delivery &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
