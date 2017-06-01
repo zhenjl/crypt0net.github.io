@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Jun 2017 19:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 20:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Breaches like Molina Healthcare&#39;s show why you can&#39;t skimp on security</title>
+      <link>//crypt0.net/post/breaches-like-molina-healthcares-show-why-you-cant-skimp-on-security/</link>
+      <pubDate>Thu, 01 Jun 2017 20:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/breaches-like-molina-healthcares-show-why-you-cant-skimp-on-security/</guid>
+      <description>328 U.S. healthcare firms reported data breaches in 2016, up from 268 in 2015, according to HHS data. Hacking and IT incidents like the Molina &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Bell to launch LTE-M network to transform the way Canadians use the</title>
@@ -15133,56 +15143,6 @@ Security Thought Leader on DocuSign Breach: Yet Another Wakeup Call But was the 
       
       <guid>//crypt0.net/post/visit-the-google-cloud-team-at-synergy/</guid>
       <description>attend SYN156 on Thursday May 25 at 10:30am-11:15am in Ballroom &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>An under-pressure OpenStack gets support from an (in)famous individual</title>
-      <link>//crypt0.net/post/an-underpressure-openstack-gets-support-from-an-infamous-individual/</link>
-      <pubDate>Wed, 17 May 2017 19:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/an-underpressure-openstack-gets-support-from-an-infamous-individual/</guid>
-      <description>Last week saw a few thousand devoted OpenStack community members flock to Boston to take part in the bi-annual OpenStack Summit. This summit &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OpenStack Ocata storage projects add enterprise features</title>
-      <link>//crypt0.net/post/openstack-ocata-storage-projects-add-enterprise-features/</link>
-      <pubDate>Wed, 17 May 2017 19:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-ocata-storage-projects-add-enterprise-features/</guid>
-      <description>The Cinder, Swift and Manila OpenStack storage projects focused on performance, stability, scalability and enterprise-level capabilities in the latest &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Red Hat: The Future Of Open Source</title>
-      <link>//crypt0.net/post/red-hat-the-future-of-open-source/</link>
-      <pubDate>Wed, 17 May 2017 19:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/red-hat-the-future-of-open-source/</guid>
-      <description>OpenStack, which is an open source operating software for the cloud, will have an addressable market of $5 billion by 2020. The Red Hat OpenStack &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>SAP Cloud Runs on Google, Microsoft, and AWS Public Clouds via Cloud</title>
-      <link>//crypt0.net/post/sap-cloud-runs-on-google-microsoft-and-aws-public-clouds-via-cloud/</link>
-      <pubDate>Wed, 17 May 2017 19:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sap-cloud-runs-on-google-microsoft-and-aws-public-clouds-via-cloud/</guid>
-      <description>SDxCentral &amp;hellip; to the Infrastructure-as-a-Service (IaaS) from public cloud providers such as Amazon Web Services, Microsoft Azure, and Google Cloud Platform. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>WannaCrypt attacks: guidance for Azure customers</title>
-      <link>//crypt0.net/post/wannacrypt-attacks-guidance-for-azure-customers/</link>
-      <pubDate>Wed, 17 May 2017 19:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/wannacrypt-attacks-guidance-for-azure-customers/</guid>
-      <description>and Security Update Deployment, see Microsoft Security Bulletin MS17-010. more.
 @crypt0net</description>
     </item>
     
