@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Jun 2017 13:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 13:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>infOsci and Arkados Group Announce Joint Development Partnership</title>
+      <link>//crypt0.net/post/infosci-and-arkados-group-announce-joint-development-partnership/</link>
+      <pubDate>Thu, 01 Jun 2017 13:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/infosci-and-arkados-group-announce-joint-development-partnership/</guid>
+      <description>This patent pending method provides two-way certificate based authentication to the endpoint including mobile devices and the Internet of Things. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Hon Hai puts 60000 robots on production lines</title>
@@ -7668,16 +7678,6 @@
       
       <guid>//crypt0.net/post/understanding-the-rise-of-iot-with-john-obrien-and-anne-buff-at-data/</guid>
       <description>Database Trends and Applications The Internet of Things is the next big trend on the horizon for many enterprises, forcing companies to examine a plethora of new business &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Can IoT MQTT event topics recognize the char &#39;/&#39; for subtopics</title>
-      <link>//crypt0.net/post/can-iot-mqtt-event-topics-recognize-the-char--for-subtopics/</link>
-      <pubDate>Wed, 17 May 2017 13:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/can-iot-mqtt-event-topics-recognize-the-char--for-subtopics/</guid>
-      <description>appears the screenshot you have provided is from your Watson IoT Dashboard. more.
 @surgethings</description>
     </item>
     
