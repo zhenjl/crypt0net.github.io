@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Jun 2017 04:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 05:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Six privacy principles for General Data Protection Regulation compliance</title>
+      <link>//crypt0.net/post/six-privacy-principles-for-general-data-protection-regulation-compliance/</link>
+      <pubDate>Thu, 01 Jun 2017 05:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/six-privacy-principles-for-general-data-protection-regulation-compliance/</guid>
+      <description>Supervisory authorities and courts are already applying various principals of the regulation (e.g. compulsory disclosure of personal data breaches). more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>Thingworx 7.1.0 support mqtt?</title>
+      <link>//crypt0.net/post/thingworx-710-support-mqtt/</link>
+      <pubDate>Thu, 01 Jun 2017 05:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/thingworx-710-support-mqtt/</guid>
+      <description>through MQTT extension, so I download one and install the MQTT extension to my. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Disaster recovery for IaaS virtual machines through Azure Site Recovery</title>
