@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Jun 2017 14:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 15:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My journey into the Cloud (16) automatic reconnect</title>
+      <link>//crypt0.net/post/my-journey-into-the-cloud-16-automatic-reconnect/</link>
+      <pubDate>Thu, 01 Jun 2017 15:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/my-journey-into-the-cloud-16-automatic-reconnect/</guid>
+      <description>Definitions for the NodeState. In the last installment, we implemented a small actuator project where we are able to switch a remote LED using MQTT. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>IoT Security Solution Protects Against Connected Threats</title>
@@ -7708,26 +7718,6 @@
       
       <guid>//crypt0.net/post/revolutionizing-manufacturing-with-the-industrial-internet-of-things/</guid>
       <description>factory with sensors, internet connectivity, and data analysis. This streamlines. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>GreenQ Hopes to Help Promote the Internet of Garbage</title>
-      <link>//crypt0.net/post/greenq-hopes-to-help-promote-the-internet-of-garbage/</link>
-      <pubDate>Wed, 17 May 2017 15:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/greenq-hopes-to-help-promote-the-internet-of-garbage/</guid>
-      <description>The waste and recycling industry has become familiar with the Internet of Things (IoT) or the inter-networking of physical devices, vehicles (also &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Understanding the Rise of IoT with John O&#39;Brien and Anne Buff at Data</title>
-      <link>//crypt0.net/post/understanding-the-rise-of-iot-with-john-obrien-and-anne-buff-at-data/</link>
-      <pubDate>Wed, 17 May 2017 15:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/understanding-the-rise-of-iot-with-john-obrien-and-anne-buff-at-data/</guid>
-      <description>Database Trends and Applications The Internet of Things is the next big trend on the horizon for many enterprises, forcing companies to examine a plethora of new business &amp;hellip; more.
 @surgethings</description>
     </item>
     
