@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Jun 2017 14:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2017 15:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cloudfire switches from CentreStack to Storage Made Easy for their</title>
+      <link>//crypt0.net/post/cloudfire-switches-from-centrestack-to-storage-made-easy-for-their/</link>
+      <pubDate>Thu, 01 Jun 2017 15:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cloudfire-switches-from-centrestack-to-storage-made-easy-for-their/</guid>
+      <description>IT Business Net The SME product also adds a protocol gateway which can provide access to OpenStack Storage over FTP/WebDAV/SFTP and an Amazon S3 &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Enterprise Hybrid Cloud Options Finally Emerging for I&amp;O Leaders</title>
@@ -461,16 +471,6 @@ Can Microsoft Justify Its Price Tag? Microsoft&amp;rsquo;s Azure cloud platform 
       
       <guid>//crypt0.net/post/build-a-kubernetes-cluster-on-azure-container-service/</guid>
       <description>As a result, most public cloud providers offer services that can accommodate containers in production, such as Microsoft&amp;rsquo;s Azure Container Service. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cloudfire switches from CentreStack to Storage Made Easy for their</title>
-      <link>//crypt0.net/post/cloudfire-switches-from-centrestack-to-storage-made-easy-for-their/</link>
-      <pubDate>Wed, 31 May 2017 14:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloudfire-switches-from-centrestack-to-storage-made-easy-for-their/</guid>
-      <description>PR Newswire (press release) Storage Made Easy enables secure access to OpenStack &amp;amp; Ceph from any desktop, web or mobile device. The SME product also adds a protocol &amp;hellip; more.
 @crypt0net</description>
     </item>
     
