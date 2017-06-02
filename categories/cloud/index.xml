@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 08:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 09:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft: Azure Security Center adds Context Alerts to aid threat</title>
+      <link>//crypt0.net/post/microsoft-azure-security-center-adds-context-alerts-to-aid-threat/</link>
+      <pubDate>Fri, 02 Jun 2017 09:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-security-center-adds-context-alerts-to-aid-threat/</guid>
+      <description>DABCC.com If you haven&amp;rsquo;t already done so, please read How Azure Security Center helps reveal a Cyberattack and How Azure Security Center detects a Bitcoin &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon WorkSpaces offers Free Tier for new customers</title>
@@ -4889,16 +4899,6 @@ Google launches powerful new Cloud TPU machine-learning chips for Google GeekWir
       
       <guid>//crypt0.net/post/secondgen-google-cloud-tpus-take-machine-learning-to-the-next-level/</guid>
       <description>Google announced the launch of its new Google Cloud tensor processing units (TPUs) which bring unparalleled computational performance to the &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google &#39;Cloud TPU&#39; takes machine learning lead from Tesla V100</title>
-      <link>//crypt0.net/post/google-cloud-tpu-takes-machine-learning-lead-from-tesla-v100/</link>
-      <pubDate>Thu, 18 May 2017 09:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-tpu-takes-machine-learning-lead-from-tesla-v100/</guid>
-      <description>Google I/O 2017 is currently in full flow. Day one completed and already we have some great headlines from the developer conference. Here&amp;rsquo;s an &amp;hellip; more.
 @crypt0net</description>
     </item>
     
