@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 07:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 07:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft: Protect Windows Server System State to cloud with Azure Backup!</title>
+      <link>//crypt0.net/post/microsoft-protect-windows-server-system-state-to-cloud-with-azure-backup/</link>
+      <pubDate>Fri, 02 Jun 2017 07:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-protect-windows-server-system-state-to-cloud-with-azure-backup/</guid>
+      <description>Azure Backup will now integrate with the Windows Server Backup feature that is available natively on every Windows Server and provide seamless &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>India Sees KYC Blockchain Lift-Off via BankChain Consortium</title>
@@ -14679,46 +14689,6 @@
       <guid>//crypt0.net/post/tensorflow-lite-is-googles-optimized-tensorflow-for-android/</guid>
       <description>Essentially, this means that a machine learning application could be trained on a traditional platform or via Google Cloud Platform, then simply &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Analyst Angle: Massive growth in IoT leveraged by fulcrum of 4G and 5G</title>
-      <link>//crypt0.net/post/analyst-angle-massive-growth-in-iot-leveraged-by-fulcrum-of-4g-and-5g/</link>
-      <pubDate>Thu, 18 May 2017 07:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/analyst-angle-massive-growth-in-iot-leveraged-by-fulcrum-of-4g-and-5g/</guid>
-      <description>RCR Wireless News &amp;hellip; cases they will be business-to-business applications (e.g. in the supply chain manufacturing a car) in the so-called Industrial Internet of Things (IIoT), &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>India poised to become winner in IoT industry, says IT secretary Aruna</title>
-      <link>//crypt0.net/post/india-poised-to-become-winner-in-iot-industry-says-it-secretary-aruna/</link>
-      <pubDate>Thu, 18 May 2017 07:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/india-poised-to-become-winner-in-iot-industry-says-it-secretary-aruna/</guid>
-      <description>Firstpost &amp;hellip; when it comes to adopting Internet of Things (IoT) ecosystem to improve efficiencies across sectors, a senior bureaucrat said here on Wednesday. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Rambus Brings Ease of Use to IoT Security</title>
-      <link>//crypt0.net/post/rambus-brings-ease-of-use-to-iot-security/</link>
-      <pubDate>Thu, 18 May 2017 07:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rambus-brings-ease-of-use-to-iot-security/</guid>
-      <description>&amp;hellip; around the world, Rambus Inc. is rolling out a service designed to bring a simple but powerful form of security to Internet of Things (IoT) applications. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>The next generation WAN  where are we with 5G?</title>
-      <link>//crypt0.net/post/the-next-generation-wan--where-are-we-with-5g/</link>
-      <pubDate>Thu, 18 May 2017 07:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-next-generation-wan--where-are-we-with-5g/</guid>
-      <description>Gigabit LTE will be used to gain access to super-fast speeds, as well as Internet of Things (IoT) devices, as it provides low power, long battery life. and &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>

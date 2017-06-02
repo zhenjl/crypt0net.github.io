@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 07:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 07:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft: Protect Windows Server System State to cloud with Azure Backup!</title>
+      <link>//crypt0.net/post/microsoft-protect-windows-server-system-state-to-cloud-with-azure-backup/</link>
+      <pubDate>Fri, 02 Jun 2017 07:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-protect-windows-server-system-state-to-cloud-with-azure-backup/</guid>
+      <description>Azure Backup will now integrate with the Windows Server Backup feature that is available natively on every Windows Server and provide seamless &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>(02/06/2017) K2)Y bitcoin mining server hosting. amazon web services</title>
