@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 11:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 12:30:01 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Most HCI isn&#39;t true hybrid cloud, despite what vendors may tell you</title>
+      <link>//crypt0.net/post/most-hci-isnt-true-hybrid-cloud-despite-what-vendors-may-tell-you/</link>
+      <pubDate>Fri, 02 Jun 2017 12:30:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/most-hci-isnt-true-hybrid-cloud-despite-what-vendors-may-tell-you/</guid>
+      <description>As services such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud become more commonplace, a consensus of what is, and is not &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Motors.co.uk runs 25% faster thanks to Cloud migration</title>
@@ -4879,26 +4889,6 @@ Google launches powerful new Cloud TPU machine-learning chips for Google GeekWir
       
       <guid>//crypt0.net/post/managedmethods-joins-microsoft-bizspark-program-for-technology-innovators/</guid>
       <description>By leveraging the developer resources that BizSpark provides us, our customers who use Microsoft Azure can gain data security without sacrificing &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>N2W, Veeam partner on availability solution for AWS</title>
-      <link>//crypt0.net/post/n2w-veeam-partner-on-availability-solution-for-aws/</link>
-      <pubDate>Thu, 18 May 2017 12:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/n2w-veeam-partner-on-availability-solution-for-aws/</guid>
-      <description>Veeam Software has partnered with N2W Software to deliver an enterprise-class data protection and availability solution for Amazon Web Services &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>VMware to deliver Horizon Cloud on Microsoft Azure</title>
-      <link>//crypt0.net/post/vmware-to-deliver-horizon-cloud-on-microsoft-azure/</link>
-      <pubDate>Thu, 18 May 2017 12:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vmware-to-deliver-horizon-cloud-on-microsoft-azure/</guid>
-      <description>The cloud infrastructure and business mobility firm has announced it will now deliver VMware Horizon Cloud on Microsoft Azure, helping its customers &amp;hellip; more.
 @crypt0net</description>
     </item>
     
