@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 21:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 22:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Just Made Two Announcements That Should Scare Oracle Investors</title>
+      <link>//crypt0.net/post/microsoft-just-made-two-announcements-that-should-scare-oracle-investors/</link>
+      <pubDate>Fri, 02 Jun 2017 22:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-just-made-two-announcements-that-should-scare-oracle-investors/</guid>
+      <description>One of the key features of Cosmos DB is a database migration service, which can transfer data from on-premises infrastructure to Microsoft&amp;rsquo;s Azure &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Release: Amazon RDS on 2017-06-01</title>
+      <link>//crypt0.net/post/release-amazon-rds-on-20170601/</link>
+      <pubDate>Fri, 02 Jun 2017 22:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/release-amazon-rds-on-20170601/</guid>
+      <description>can now stop and start an Amazon RDS for MySQL, MariaDB, PostgreSQL, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Extends Azure&#39;s Safety Net for Windows Server Cloud Backups</title>
