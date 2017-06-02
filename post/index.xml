@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 01:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 01:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Enterprises relying on legacy tech to manage IoT risks: Ponemon</title>
+      <link>//crypt0.net/post/enterprises-relying-on-legacy-tech-to-manage-iot-risks-ponemon/</link>
+      <pubDate>Fri, 02 Jun 2017 01:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/enterprises-relying-on-legacy-tech-to-manage-iot-risks-ponemon/</guid>
+      <description>Enterprises are not managing the risks associated with the Internet of Things (IoT), with many relying on legacy technologies and governance &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>The Pitch: TeleSense uses IoT to keep food supplies from going bad</title>
+      <link>//crypt0.net/post/the-pitch-telesense-uses-iot-to-keep-food-supplies-from-going-bad/</link>
+      <pubDate>Fri, 02 Jun 2017 01:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-pitch-telesense-uses-iot-to-keep-food-supplies-from-going-bad/</guid>
+      <description>Is that food safe to eat? This Sunnyvale-based startup has makes a system that monitors food quality. Subscribe to get the full story. Already a &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>AWS Toolkit for Visual Studio 2017</title>
@@ -14689,26 +14709,6 @@
       <guid>//crypt0.net/post/implementing-blockchain-benefits-use-cases-evolve/</guid>
       <description>Blockchain technology has immense potential to streamline business transactions and processes, but the technology isn&amp;rsquo;t devoid of limitations, &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Google&#39;s Plan to Make GCP &#39;The Best Cloud for Machine Learning&#39;</title>
-      <link>//crypt0.net/post/googles-plan-to-make-gcp-the-best-cloud-for-machine-learning/</link>
-      <pubDate>Thu, 18 May 2017 01:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/googles-plan-to-make-gcp-the-best-cloud-for-machine-learning/</guid>
-      <description>Google today announced its next-generation Tensor Processing Units (TPUs), which aim to make Google Cloud Platform (GCP) the best cloud for &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Movingimage Now Available as SaaS Solution on the Microsoft Azur</title>
-      <link>//crypt0.net/post/movingimage-now-available-as-saas-solution-on-the-microsoft-azur/</link>
-      <pubDate>Thu, 18 May 2017 01:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/movingimage-now-available-as-saas-solution-on-the-microsoft-azur/</guid>
-      <description>Platform will remain flexible and highly available at all times for &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
