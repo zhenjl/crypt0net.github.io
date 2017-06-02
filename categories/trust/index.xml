@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 08:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 09:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 things threat hunters watch for</title>
+      <link>//crypt0.net/post/10-things-threat-hunters-watch-for/</link>
+      <pubDate>Fri, 02 Jun 2017 09:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/10-things-threat-hunters-watch-for/</guid>
+      <description>Custom detections Some anti-virus solutions have the ability to create custom detections for ultra-effective threat hunting. Creating an alert to log &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>The fine line between digital transformation and security</title>
