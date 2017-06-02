@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 17:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 17:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How SDN and NFV extend adoption and capabilities of selforganizing networks</title>
+      <link>//crypt0.net/post/how-sdn-and-nfv-extend-adoption-and-capabilities-of-selforganizing-networks/</link>
+      <pubDate>Fri, 02 Jun 2017 17:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-sdn-and-nfv-extend-adoption-and-capabilities-of-selforganizing-networks/</guid>
+      <description>SDN refers to the protocols, standards, technologies and solutions that enable a network operating system to control network behavior, centralize &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>MongoDB Expands Database As A Service to 14 AWS Regions and Is Named A</title>
@@ -14819,26 +14829,6 @@
       <guid>//crypt0.net/post/data-breaches-are-eroding-public-trust-in-online-businesses/</guid>
       <description>The British public is resigned to the fact that data breaches are on the rise and that their personal information is repeatedly lost and/or stolen &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Microsoft to open Azure data centres in Africa</title>
-      <link>//crypt0.net/post/microsoft-to-open-azure-data-centres-in-africa/</link>
-      <pubDate>Thu, 18 May 2017 17:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-to-open-azure-data-centres-in-africa/</guid>
-      <description>Microsoft has announced that they will deploy data centres in South Africa to deliver Azure services. According to Jon Tullett, IDC Africa Research &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Veeam announcements around Microsoft Azure highlight Cloud Day at VeeamON</title>
-      <link>//crypt0.net/post/veeam-announcements-around-microsoft-azure-highlight-cloud-day-at-veeamon/</link>
-      <pubDate>Thu, 18 May 2017 17:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/veeam-announcements-around-microsoft-azure-highlight-cloud-day-at-veeamon/</guid>
-      <description>The final day of VeeamON saw Veeam announce a new DR tool for Azure, management pack enhancements for better visibility, and improvements to &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
