@@ -7,10 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 01:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 01:30:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Toolkit for Visual Studio 2017</title>
+      <link>//crypt0.net/post/aws-toolkit-for-visual-studio-2017/</link>
+      <pubDate>Fri, 02 Jun 2017 01:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-toolkit-for-visual-studio-2017/</guid>
+      <description>Studio, you&amp;rsquo;ll be able to get started faster and be more&amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Deploying Azure Virtual Machines with Smaller OS Disks</title>
+      <link>//crypt0.net/post/deploying-azure-virtual-machines-with-smaller-os-disks/</link>
+      <pubDate>Fri, 02 Jun 2017 01:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/deploying-azure-virtual-machines-with-smaller-os-disks/</guid>
+      <description>Microsoft recently made it possible to deploy a virtual machine from the Azure Marketplace with a smaller-than-usual OS drive. This helps you to &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>The smart, secure Cloud for Singapore: Learn how Google Cloud</title>
+      <link>//crypt0.net/post/the-smart-secure-cloud-for-singapore-learn-how-google-cloud/</link>
+      <pubDate>Fri, 02 Jun 2017 01:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-smart-secure-cloud-for-singapore-learn-how-google-cloud/</guid>
+      <description>TechRepublic Google Cloud&amp;rsquo;s Singapore cloud region provides faster data transfers, higher availability and reduced latency to the South East Asia region. From chip &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Walmart Tests Food Safety With Blockchain Traceability</title>
+      <link>//crypt0.net/post/walmart-tests-food-safety-with-blockchain-traceability/</link>
+      <pubDate>Fri, 02 Jun 2017 01:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/walmart-tests-food-safety-with-blockchain-traceability/</guid>
+      <description>Walmart Tests Food Safety With Blockchain Traceability. IBM and Walmart performed a test of blockchain technology applied to food safety and &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Genesys to Hold Global Webinar with Amazon Web Services on Seven</title>
@@ -14669,46 +14709,6 @@
       <guid>//crypt0.net/post/movingimage-now-available-as-saas-solution-on-the-microsoft-azur/</guid>
       <description>Platform will remain flexible and highly available at all times for &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Blockchain &amp; Bitcoin Conference Prague on May 19</title>
-      <link>//crypt0.net/post/blockchain--bitcoin-conference-prague-on-may-19/</link>
-      <pubDate>Thu, 18 May 2017 01:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain--bitcoin-conference-prague-on-may-19/</guid>
-      <description>In addition to discussion on new blockchain services, development, promotion and legislation, attendees at this week&amp;rsquo;s Blockchain &amp;amp; Bitcoin &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Irish Banks Test Blockchain Network For Interbank Payments</title>
-      <link>//crypt0.net/post/irish-banks-test-blockchain-network-for-interbank-payments/</link>
-      <pubDate>Thu, 18 May 2017 01:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/irish-banks-test-blockchain-network-for-interbank-payments/</guid>
-      <description>Irish Banks Test Blockchain Network For Interbank Payments. Three of Ireland&amp;rsquo;s Big Four banks are working with Deloitte and the Royal Bank of &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Santiago Exchange signs for IBM blockchain tech</title>
-      <link>//crypt0.net/post/santiago-exchange-signs-for-ibm-blockchain-tech/</link>
-      <pubDate>Thu, 18 May 2017 01:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/santiago-exchange-signs-for-ibm-blockchain-tech/</guid>
-      <description>Chile&amp;rsquo;s Santiago Exchange has enlisted IBM to help it build what is being billed as the world&amp;rsquo;s first securities lending blockchain platform. Under an &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Security Thought Leader on DocuSign Breach: Yet Another Wakeup Call</title>
-      <link>//crypt0.net/post/security-thought-leader-on-docusign-breach-yet-another-wakeup-call/</link>
-      <pubDate>Thu, 18 May 2017 01:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/security-thought-leader-on-docusign-breach-yet-another-wakeup-call/</guid>
-      <description>Pushing forward, organizations are realizing they need to adopt a fundamentally new approach to prevent to misuse of stolen credentials that doesn&amp;rsquo;t &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
