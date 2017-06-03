@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 03 Jun 2017 00:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jun 2017 00:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure Virtual Machine Announcements from Build</title>
+      <link>//crypt0.net/post/azure-virtual-machine-announcements-from-build/</link>
+      <pubDate>Sat, 03 Jun 2017 00:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-virtual-machine-announcements-from-build/</guid>
+      <description>Microsoft made several announcements regarding Azure virtual machines at the recent Build conference. This post will describe those &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>The explosive impact of blockchain technology</title>
