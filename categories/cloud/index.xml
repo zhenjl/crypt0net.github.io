@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 03 Jun 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jun 2017 18:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Monitoring und Analyse von intelligenten Ortsnetzstationen mit Microsoft</title>
+      <link>//crypt0.net/post/monitoring-und-analyse-von-intelligenten-ortsnetzstationen-mit-microsoft/</link>
+      <pubDate>Sat, 03 Jun 2017 18:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/monitoring-und-analyse-von-intelligenten-ortsnetzstationen-mit-microsoft/</guid>
+      <description>Im Webinar zeigen wir Ihnen, wie die neuen Herausforderungen mit Microsoft Azure, intelligenten Ortsnetzstationen der Firma IPI und der WAGO &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Jun 3, 2017</title>
@@ -4591,46 +4601,6 @@ Google&amp;rsquo;s New Cloud TPU Chips Prepare for an &amp;lsquo;AI First&amp;rs
       <description>Daily Cloud Computing news from @cloudfeednet.
 Allwinner Technology supports the new Google Cloud IoT Core, helping to SYS-CON Media (press release) ZHUHAI, China, May 18, 2017 /PRNewswire/ &amp;ndash; Allwinner Technology today announced it supports Google Cloud IoT Core, a fully managed service &amp;hellip; more.
 Android, Google Home Get AI Upgrades We want Google Cloud to be the best cloud for machine learning, he said, echoing hopes of rivals such as Amazon, Facebook and Baidu.</description>
-    </item>
-    
-    <item>
-      <title>Can Amazon.com Weather a Market Downturn?</title>
-      <link>//crypt0.net/post/can-amazoncom-weather-a-market-downturn/</link>
-      <pubDate>Fri, 19 May 2017 17:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/can-amazoncom-weather-a-market-downturn/</guid>
-      <description>Its cloud-computing division, Amazon Web Services, is also likely to weather a recession as companies need data storage and other cloud services &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How Microsoft Enhanced the Azure Cloud Efficiency</title>
-      <link>//crypt0.net/post/how-microsoft-enhanced-the-azure-cloud-efficiency/</link>
-      <pubDate>Fri, 19 May 2017 17:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-microsoft-enhanced-the-azure-cloud-efficiency/</guid>
-      <description>provider. Key product Microsoft Azure, was built with scalability and efficiency in &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>VMware Horizon Cloud support for Microsoft Azure gives IT flexibility</title>
-      <link>//crypt0.net/post/vmware-horizon-cloud-support-for-microsoft-azure-gives-it-flexibility/</link>
-      <pubDate>Fri, 19 May 2017 17:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vmware-horizon-cloud-support-for-microsoft-azure-gives-it-flexibility/</guid>
-      <description>VMware bolstered its partnership with Microsoft this week by adding support for Azure to Horizon Cloud. Organizations that want to manage both cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google puts TPU at center of new cloud plan, HPE dabbles in ARM</title>
-      <link>//crypt0.net/post/google-puts-tpu-at-center-of-new-cloud-plan-hpe-dabbles-in-arm/</link>
-      <pubDate>Fri, 19 May 2017 16:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-puts-tpu-at-center-of-new-cloud-plan-hpe-dabbles-in-arm/</guid>
-      <description>For Google, the Cloud IoT Core is essentially just a streamlined manner of pulling data from edge-devices, and moving it into the Google Cloud &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
