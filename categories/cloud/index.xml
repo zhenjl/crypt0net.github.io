@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 03 Jun 2017 18:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jun 2017 19:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Price and performance: Why Carousell chose Google Cloud over AWS</title>
+      <link>//crypt0.net/post/price-and-performance-why-carousell-chose-google-cloud-over-aws/</link>
+      <pubDate>Sat, 03 Jun 2017 19:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/price-and-performance-why-carousell-chose-google-cloud-over-aws/</guid>
+      <description>Ngoo narrowed his search down to two providers AWS and Google Cloud Platform, and chose to ignore the hype surrounding each provider in &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Monitoring und Analyse von intelligenten Ortsnetzstationen mit Microsoft</title>
@@ -4539,16 +4549,6 @@ Google&amp;rsquo;s New Cloud TPU Chips Prepare for an &amp;lsquo;AI First&amp;rs
       
       <guid>//crypt0.net/post/microsoft-to-offer-5000-azure-credits-to-nonprofit-agencies/</guid>
       <description>Microsoft is looking at reaching out to more not-for-profit organisations to offer free Azure credits worth $5,000 for a year. Globally, Microsoft is donating &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>PyGrunn: google machine learning APIs for python developers</title>
-      <link>//crypt0.net/post/pygrunn-google-machine-learning-apis-for-python-developers/</link>
-      <pubDate>Fri, 19 May 2017 19:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/pygrunn-google-machine-learning-apis-for-python-developers/</guid>
-      <description>use. You can embed machine learning services like tensorflow, speach API, &amp;hellip; more.
 @crypt0net</description>
     </item>
     
