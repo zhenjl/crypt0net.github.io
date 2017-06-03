@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 03 Jun 2017 00:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jun 2017 02:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Pulling Plug on Azure BizTalk Services</title>
+      <link>//crypt0.net/post/microsoft-pulling-plug-on-azure-biztalk-services/</link>
+      <pubDate>Sat, 03 Jun 2017 02:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-pulling-plug-on-azure-biztalk-services/</guid>
+      <description>Instead of using Azure BizTalk Services for those purposes, though, Microsoft wants organizations to shift to using its Azure Logic Apps and Azure App &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Azure Virtual Machine Announcements from Build</title>
@@ -4790,26 +4800,6 @@ Android, Google Home Get AI Upgrades We want Google Cloud to be the best cloud f
       
       <guid>//crypt0.net/post/google-has-an-ai-lead-and-is-putting-it-to-good-use/</guid>
       <description>In addition to using its new TPUs for its own projects, Google plans to sell access to them through the Google Cloud Platform (GCP). That makes the &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Developers: Microsoft Azure introduces new blockchain proof-of-concept</title>
-      <link>//crypt0.net/post/developers-microsoft-azure-introduces-new-blockchain-proofofconcept/</link>
-      <pubDate>Fri, 19 May 2017 02:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/developers-microsoft-azure-introduces-new-blockchain-proofofconcept/</guid>
-      <description>The Microsoft Azure team introduced Thursday a new blockchain proof-of-concept (PoC) framework for developers, enabling reductions in time and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Build Tour 2017 coming to cities around the globe next month</title>
-      <link>//crypt0.net/post/microsoft-build-tour-2017-coming-to-cities-around-the-globe-next-month/</link>
-      <pubDate>Fri, 19 May 2017 02:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-build-tour-2017-coming-to-cities-around-the-globe-next-month/</guid>
-      <description>NET, web apps, the Universal Windows Platform, Win32 apps, Mixed Reality, Visual Studio, Xamarin, Microsoft Azure, Cognitive services, and much &amp;hellip; more.
 @crypt0net</description>
     </item>
     
