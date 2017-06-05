@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Jun 2017 05:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 06:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS launches in Canberra at NextDC C1 data centre</title>
+      <link>//crypt0.net/post/aws-launches-in-canberra-at-nextdc-c1-data-centre/</link>
+      <pubDate>Mon, 05 Jun 2017 06:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-launches-in-canberra-at-nextdc-c1-data-centre/</guid>
+      <description>Australian data-center-as-a-service provider NextDC and Amazon Web Services (AWS) have announced that NextDC&amp;rsquo;s C1 Canberra data centre will &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon prepares to charge GST for non-business cloud customers</title>
@@ -14158,16 +14168,6 @@
       <guid>//crypt0.net/post/salt-blends-traditional-lending-with-cryptocollaterals/</guid>
       <description>Unlike conventional loans, these loans are issued against blockchain assets as collaterals. Meaning, individuals can borrow fiat currency by pledging &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Advisory to avert WannaCrypt Ransomware Threat</title>
-      <link>//crypt0.net/post/microsoft-azure-advisory-to-avert-wannacrypt-ransomware-threat/</link>
-      <pubDate>Sun, 21 May 2017 06:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-advisory-to-avert-wannacrypt-ransomware-threat/</guid>
-      <description>Microsoft too, suggests its customers practice caution and follow the 8 steps outlined in a Microsoft Azure blog post to stay protected against the &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
