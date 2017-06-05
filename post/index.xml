@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Jun 2017 19:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 21:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting Started with Google Cloud Functions</title>
+      <link>//crypt0.net/post/getting-started-with-google-cloud-functions/</link>
+      <pubDate>Mon, 05 Jun 2017 21:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/getting-started-with-google-cloud-functions/</guid>
+      <description>This article is a technical tutorial on getting started with Google Cloud Functions, the serverless offering on the Google Cloud Platform (GCP). Google &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Every image is searchable with Inception &amp; a Crawler in Google Cloud for 0$</title>
@@ -14337,86 +14347,6 @@
       
       <guid>//crypt0.net/post/understanding-samsungs-internet-of-things-story-in-15-slides/</guid>
       <description>company will play a crucial role in the revolutionary connectivity trend. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>MITSUI to buy Smart stake for $66m</title>
-      <link>//crypt0.net/post/mitsui-to-buy-smart-stake-for-66m/</link>
-      <pubDate>Sun, 21 May 2017 21:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mitsui-to-buy-smart-stake-for-66m/</guid>
-      <description>The IoT is expected to offer advanced connectivity of devices, systems, and services that goes beyond machine-to-machine communications. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft to deliver cloud from data centres in Africa</title>
-      <link>//crypt0.net/post/microsoft-to-deliver-cloud-from-data-centres-in-africa/</link>
-      <pubDate>Sun, 21 May 2017 21:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-to-deliver-cloud-from-data-centres-in-africa/</guid>
-      <description>Microsoft will deliver cloud services, including Microsoft Azure, Office 365, and Dynamics 365, from data centres located in Johannesburg and Cape &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Consensus Hackathon 2017: Into the Smart City Blockchain &#39;Rabbit Hole&#39;</title>
-      <link>//crypt0.net/post/consensus-hackathon-2017-into-the-smart-city-blockchain-rabbit-hole/</link>
-      <pubDate>Sun, 21 May 2017 20:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/consensus-hackathon-2017-into-the-smart-city-blockchain-rabbit-hole/</guid>
-      <description>Alongside excited chatter about how blockchain technology might one day disrupt a range of technology industries, this is the sort of nitty gritty &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Dirty Politics Responsible for Confirmation Queues on Bitcoin Blockchain</title>
-      <link>//crypt0.net/post/dirty-politics-responsible-for-confirmation-queues-on-bitcoin-blockchain/</link>
-      <pubDate>Sun, 21 May 2017 20:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/dirty-politics-responsible-for-confirmation-queues-on-bitcoin-blockchain/</guid>
-      <description>While advising users on ways to effectively achieve transfer of value without frustrations, Blockchain Consultant, Timothy Suggs notes the possible &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Intel Aims at Blockchain Integration For Entire Healthcare Industry</title>
-      <link>//crypt0.net/post/intel-aims-at-blockchain-integration-for-entire-healthcare-industry/</link>
-      <pubDate>Sun, 21 May 2017 20:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/intel-aims-at-blockchain-integration-for-entire-healthcare-industry/</guid>
-      <description>In April of 2016, Hyperledger, a Blockchain consortium led by the Linux Foundation, announced the introduction of Hyperledger Sawtooth Lake &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>SONM, Supercomputing Made Easy with Blockchain Technology</title>
-      <link>//crypt0.net/post/sonm-supercomputing-made-easy-with-blockchain-technology/</link>
-      <pubDate>Sun, 21 May 2017 20:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sonm-supercomputing-made-easy-with-blockchain-technology/</guid>
-      <description>SONM, the distributed fog supercomputing platform on blockchain to make huge amounts of processing power cheaper and easily accessible. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Exclusive: McAfee channel boss on why the future&#39;s looking good for the new</title>
-      <link>//crypt0.net/post/exclusive-mcafee-channel-boss-on-why-the-futures-looking-good-for-the-new/</link>
-      <pubDate>Sun, 21 May 2017 20:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/exclusive-mcafee-channel-boss-on-why-the-futures-looking-good-for-the-new/</guid>
-      <description>ChannelLife NZ At a time of increasing threats, rapid change, cloud and internet of things, Mahapatra McAfee&amp;rsquo;s APAC chief of channels, alliances and specialist &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Android Things can serve up M&amp;M candies, and recognize dogs</title>
-      <link>//crypt0.net/post/android-things-can-serve-up-mm-candies-and-recognize-dogs/</link>
-      <pubDate>Sun, 21 May 2017 19:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/android-things-can-serve-up-mm-candies-and-recognize-dogs/</guid>
-      <description>A couple years ago, Google unveiled Project Brillo, an Internet of Things platform designed to operate automated products like smart lightbulbs, &amp;hellip; more.
 @surgethings</description>
     </item>
     
