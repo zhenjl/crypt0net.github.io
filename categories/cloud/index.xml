@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Jun 2017 18:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 19:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Every image is searchable with Inception &amp; a Crawler in Google Cloud for 0$</title>
+      <link>//crypt0.net/post/every-image-is-searchable-with-inception--a-crawler-in-google-cloud-for-0/</link>
+      <pubDate>Mon, 05 Jun 2017 19:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/every-image-is-searchable-with-inception--a-crawler-in-google-cloud-for-0/</guid>
+      <description>As I was attempting a Kaggle contest on Bosch, suddenly I was piqued at reverse image search and having attempted face detection year ago by &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Red Hat Summit And OpenStack Summit: Two Weeks Of Open Source Software In</title>
