@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Jun 2017 02:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 03:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure Backup cuddles up real close to Windows Server</title>
+      <link>//crypt0.net/post/azure-backup-cuddles-up-real-close-to-windows-server/</link>
+      <pubDate>Mon, 05 Jun 2017 03:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-backup-cuddles-up-real-close-to-windows-server/</guid>
+      <description>Last week the company switched on a test of a feature allowing Windows Server Backup to send Windows Server System State data to Azure, then &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Research report explores the global internet of things (IoT) operating</title>
