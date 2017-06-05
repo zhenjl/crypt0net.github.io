@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 05 Jun 2017 11:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2017 12:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Certificate Manager allows users to provision, manage, deploy SSL/TLS</title>
+      <link>//crypt0.net/post/aws-certificate-manager-allows-users-to-provision-manage-deploy-ssltls/</link>
+      <pubDate>Mon, 05 Jun 2017 12:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-certificate-manager-allows-users-to-provision-manage-deploy-ssltls/</guid>
+      <description>CTR Amazon Web Services (AWS) announced recently its AWS Certificate Manager service in the AWS GovCloud (US) region that lets users provision, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Has Launched its Cognitive Toolkit.</title>
