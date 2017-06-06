@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 06 Jun 2017 22:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 23:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dell EMC Unveils Cloud Platform for Microsoft Azure Stack</title>
+      <link>//crypt0.net/post/dell-emc-unveils-cloud-platform-for-microsoft-azure-stack/</link>
+      <pubDate>Tue, 06 Jun 2017 23:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/dell-emc-unveils-cloud-platform-for-microsoft-azure-stack/</guid>
+      <description>Dell EMC announced Dell EMC Cloud for Microsoft Azure Stack, a new, turnkey, hybrid cloud platform that offers a simple and fast path for &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Report: Enterprises Increasingly Concerned with Cloud Vendor Lock-In</title>
+      <link>//crypt0.net/post/report-enterprises-increasingly-concerned-with-cloud-vendor-lockin/</link>
+      <pubDate>Tue, 06 Jun 2017 23:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/report-enterprises-increasingly-concerned-with-cloud-vendor-lockin/</guid>
+      <description>&amp;hellip; several other similar studies &amp;ndash; is that AWS is maintaining its industry lead, but competitors Microsoft Azure and Google Cloud Platform are chasing it. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google, Lyft, and IBM Launch Istio Microservices Management Platform</title>
@@ -4537,26 +4557,6 @@ Google Cloud TPU: Strategic Implications For Google, NVIDIA And The Machine Forb
       
       <guid>//crypt0.net/post/eastwind-networks-enables-cloudapp-visibility-with-cloud-connectors/</guid>
       <description>Users mistakenly think that if they put their infrastructure into Amazon (AWS), Google Cloud or Azure, that they&amp;rsquo;re also providing securitybut that&amp;rsquo;s a &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Easing Complexity on the SDN Controller</title>
-      <link>//crypt0.net/post/easing-complexity-on-the-sdn-controller/</link>
-      <pubDate>Mon, 22 May 2017 23:40:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/easing-complexity-on-the-sdn-controller/</guid>
-      <description>The partnership has Huawei supporting the Canonical Ubuntu OpenStack distribution on the Agile SDN controller, which should allow network &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How Rackspace flew through turbulence in the private cloud</title>
-      <link>//crypt0.net/post/how-rackspace-flew-through-turbulence-in-the-private-cloud/</link>
-      <pubDate>Mon, 22 May 2017 23:40:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-rackspace-flew-through-turbulence-in-the-private-cloud/</guid>
-      <description>Bryan Thompson, General Manager, OpenStack Private Cloud at Rackspace, talked about the second generation of cloud and some turbulence that &amp;hellip; more.
 @crypt0net</description>
     </item>
     
