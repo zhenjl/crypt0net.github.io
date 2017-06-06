@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 06 Jun 2017 04:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 06:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nie wieder Datenverlust: Hybrid Cloud sichern mit Veeam Availability und</title>
+      <link>//crypt0.net/post/nie-wieder-datenverlust-hybrid-cloud-sichern-mit-veeam-availability-und/</link>
+      <pubDate>Tue, 06 Jun 2017 06:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/nie-wieder-datenverlust-hybrid-cloud-sichern-mit-veeam-availability-und/</guid>
+      <description>Wie Sie die Lsung zusammen mit Microsoft Azure zur Absicherung Ihrer Hybrid Cloud einsetzen knnen, erfahren Sie in diesem Webinar. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Public cloud costs push CBA to OpenStack</title>
@@ -4508,16 +4518,6 @@ Gigamon offers visibility into Amazon Web Services for NZ Enterprises Gigamon ha
       
       <guid>//crypt0.net/post/cloud-giants-ran-out-of-fast-gpus-for-ai-boffins/</guid>
       <description>It&amp;rsquo;s claimed a drought of GPUs hit Google Cloud and Microsoft&amp;rsquo;s Azure in particular as the pair strained to keep up with demand ahead of the NIPS &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Will Amazon Retain Its Cloud Supremacy?</title>
-      <link>//crypt0.net/post/will-amazon-retain-its-cloud-supremacy/</link>
-      <pubDate>Mon, 22 May 2017 06:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/will-amazon-retain-its-cloud-supremacy/</guid>
-      <description>&amp;hellip; Learning (AML) which offers companies an easy, highly-scalable on-ramp for interpreting data under the umbrella of Amazon Web Services (AWS). more.
 @crypt0net</description>
     </item>
     
