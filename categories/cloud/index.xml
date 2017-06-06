@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 06 Jun 2017 14:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 14:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Navigate RHEL support options in the public cloud</title>
+      <link>//crypt0.net/post/navigate-rhel-support-options-in-the-public-cloud/</link>
+      <pubDate>Tue, 06 Jun 2017 14:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/navigate-rhel-support-options-in-the-public-cloud/</guid>
+      <description>Differences in cost and vendor support make it tough to choose a public cloud platform for RHEL deployment. Compare options from Google Cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>NetApp Expands Collaboration with Microsoft in Hybrid Cloud Data Services</title>
