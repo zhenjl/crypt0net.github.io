@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 06 Jun 2017 05:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 07:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DLP Endpoint Detection Servers 14.6.1</title>
+      <link>//crypt0.net/post/dlp-endpoint-detection-servers-1461/</link>
+      <pubDate>Tue, 06 Jun 2017 07:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/dlp-endpoint-detection-servers-1461/</guid>
+      <description>old enforce enviornment. I want to move them to a new enforce on 14.6.1. more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Protecting internal network from mobile devices.</title>
