@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 06 Jun 2017 22:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 22:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ransomware attack will count as data breach: security pro</title>
+      <link>//crypt0.net/post/ransomware-attack-will-count-as-data-breach-security-pro/</link>
+      <pubDate>Tue, 06 Jun 2017 22:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/ransomware-attack-will-count-as-data-breach-security-pro/</guid>
+      <description>Ransomware attacks will be regarded as data breaches under Australia&amp;rsquo;s new data breach legislation that comes into force on 22 February next year, &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Internet of Everything (IoE) Market Predicted to Hit $3352 Billion,</title>
@@ -15451,26 +15461,6 @@ Is your personal info at risk? Experts say online data exposure is an WSB Atlant
       
       <guid>//crypt0.net/post/google-announces-cloud-iot-core-to-help-connect-and-manage-iot-devices/</guid>
       <description>Google has announced a new service called Google Cloud IoT Core, which is a fully managed service to securely connect, manage, and ingest data &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OpenStack deployments reach new heights in China</title>
-      <link>//crypt0.net/post/openstack-deployments-reach-new-heights-in-china/</link>
-      <pubDate>Mon, 22 May 2017 22:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-deployments-reach-new-heights-in-china/</guid>
-      <description>technologies, OpenStack in particular, we take a closer look at the latest market &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Unable to register baremetal nodes in Red Hat OpenStack 10</title>
-      <link>//crypt0.net/post/unable-to-register-baremetal-nodes-in-red-hat-openstack-10/</link>
-      <pubDate>Mon, 22 May 2017 22:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/unable-to-register-baremetal-nodes-in-red-hat-openstack-10/</guid>
-      <description>? Unable to import instackenv.json in Red Hat OpenStack undercloud node. more.
 @crypt0net</description>
     </item>
     
