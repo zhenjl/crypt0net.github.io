@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 06 Jun 2017 20:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 22:00:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Announcing Google Cloud Platform Cost Control with ParkMyCloud</title>
+      <link>//crypt0.net/post/announcing-google-cloud-platform-cost-control-with-parkmycloud/</link>
+      <pubDate>Tue, 06 Jun 2017 22:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/announcing-google-cloud-platform-cost-control-with-parkmycloud/</guid>
+      <description>Platform! Amazon Web Services (AWS) customers have been using &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Dell EMC Cloud Platform Launched For Microsoft Azure Stack</title>
+      <link>//crypt0.net/post/dell-emc-cloud-platform-launched-for-microsoft-azure-stack/</link>
+      <pubDate>Tue, 06 Jun 2017 22:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/dell-emc-cloud-platform-launched-for-microsoft-azure-stack/</guid>
+      <description>Dell EMC on Tuesday launched &amp;ldquo;Dell EMC Cloud&amp;rdquo; for Microsoft Azure Stack &amp;ndash; a hybrid cloud platform that offers simple and fast path for implementing &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Turbonomic 5.9 Goes Deep On AWS, Azure, Takes Aim At VMware&#39;s vRealize</title>
+      <link>//crypt0.net/post/turbonomic-59-goes-deep-on-aws-azure-takes-aim-at-vmwares-vrealize/</link>
+      <pubDate>Tue, 06 Jun 2017 22:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/turbonomic-59-goes-deep-on-aws-azure-takes-aim-at-vmwares-vrealize/</guid>
+      <description>CRN Turbonomic 5.9 Goes Deep On AWS, Azure, Takes Aim At VMware&amp;rsquo;s vRealize &amp;hellip; and cost forecasting for Amazon Web Services and Microsoft Azure. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google Chrome to Block Annoying Ads So Users Don&#39;t Block All Ads</title>
@@ -4557,16 +4587,6 @@ Google Cloud TPU: Strategic Implications For Google, NVIDIA And The Machine Forb
       
       <guid>//crypt0.net/post/unable-to-register-baremetal-nodes-in-red-hat-openstack-10/</guid>
       <description>? Unable to import instackenv.json in Red Hat OpenStack undercloud node. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>New Course: Google Cloud Platform Essentials!</title>
-      <link>//crypt0.net/post/new-course-google-cloud-platform-essentials/</link>
-      <pubDate>Mon, 22 May 2017 21:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/new-course-google-cloud-platform-essentials/</guid>
-      <description>Essentials. Link to the course can be found here:. more.
 @crypt0net</description>
     </item>
     
