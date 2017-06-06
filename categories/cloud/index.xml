@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 06 Jun 2017 22:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2017 22:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google, Lyft, and IBM Launch Istio Microservices Management Platform</title>
+      <link>//crypt0.net/post/google-lyft-and-ibm-launch-istio-microservices-management-platform/</link>
+      <pubDate>Tue, 06 Jun 2017 22:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-lyft-and-ibm-launch-istio-microservices-management-platform/</guid>
+      <description>Google, Lyft, and IBM are backing a new project targeted at open source management of microservices. The Istio platform was designed to provide &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>NetApp Expands Collaboration with Microsoft in Hybrid Cloud Data Services</title>
+      <link>//crypt0.net/post/netapp-expands-collaboration-with-microsoft-in-hybrid-cloud-data-services/</link>
+      <pubDate>Tue, 06 Jun 2017 22:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/netapp-expands-collaboration-with-microsoft-in-hybrid-cloud-data-services/</guid>
+      <description>06/06/2017. Companies to further integrate Microsoft Azure with proven &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Announcing Google Cloud Platform Cost Control with ParkMyCloud</title>
@@ -219,16 +239,6 @@ Getting Started with Google Cloud Functions This article is a technical tutorial
       
       <guid>//crypt0.net/post/navigate-rhel-support-options-in-the-public-cloud/</guid>
       <description>Differences in cost and vendor support make it tough to choose a public cloud platform for RHEL deployment. Compare options from Google Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>NetApp Expands Collaboration with Microsoft in Hybrid Cloud Data Services</title>
-      <link>//crypt0.net/post/netapp-expands-collaboration-with-microsoft-in-hybrid-cloud-data-services/</link>
-      <pubDate>Tue, 06 Jun 2017 14:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/netapp-expands-collaboration-with-microsoft-in-hybrid-cloud-data-services/</guid>
-      <description>Enterprises depend on Microsoft&amp;rsquo;s cloud innovation and its broad portfolio of Azure cloud-integrated services to keep them competitive in the &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -4547,26 +4557,6 @@ Google Cloud TPU: Strategic Implications For Google, NVIDIA And The Machine Forb
       
       <guid>//crypt0.net/post/how-rackspace-flew-through-turbulence-in-the-private-cloud/</guid>
       <description>Bryan Thompson, General Manager, OpenStack Private Cloud at Rackspace, talked about the second generation of cloud and some turbulence that &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Azure Cognitive Services: How Microsoft is leading the AI charge</title>
-      <link>//crypt0.net/post/azure-cognitive-services-how-microsoft-is-leading-the-ai-charge/</link>
-      <pubDate>Mon, 22 May 2017 22:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-cognitive-services-how-microsoft-is-leading-the-ai-charge/</guid>
-      <description>Microsoft Azure Cognitive Services taps into all three of these technological elements to offer developers a set of tools they can use to insert AI &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Announces Cloud IoT Core to Help Connect and Manage IoT Devices</title>
-      <link>//crypt0.net/post/google-announces-cloud-iot-core-to-help-connect-and-manage-iot-devices/</link>
-      <pubDate>Mon, 22 May 2017 22:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-announces-cloud-iot-core-to-help-connect-and-manage-iot-devices/</guid>
-      <description>Google has announced a new service called Google Cloud IoT Core, which is a fully managed service to securely connect, manage, and ingest data &amp;hellip; more.
 @crypt0net</description>
     </item>
     
