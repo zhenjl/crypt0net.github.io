@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Jun 2017 01:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2017 02:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Extends Azure Active Directory Conditional Access Policies</title>
+      <link>//crypt0.net/post/microsoft-extends-azure-active-directory-conditional-access-policies/</link>
+      <pubDate>Wed, 07 Jun 2017 02:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-extends-azure-active-directory-conditional-access-policies/</guid>
+      <description>The Azure Active Directory identity and access management service now supports conditional access policies when used with Microsoft Teams, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google Releases New Version of Spinnaker Cloud Code Update Platform</title>
