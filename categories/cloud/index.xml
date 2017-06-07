@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 06 Jun 2017 23:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2017 00:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Key differences between AWS and Microsoft Azure</title>
+      <link>//crypt0.net/post/key-differences-between-aws-and-microsoft-azure/</link>
+      <pubDate>Wed, 07 Jun 2017 00:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/key-differences-between-aws-and-microsoft-azure/</guid>
+      <description>in public cloud computing. Which one is right for you? To help you &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Dell EMC Unveils Cloud Platform for Microsoft Azure Stack</title>
@@ -4537,26 +4547,6 @@ Google Cloud TPU: Strategic Implications For Google, NVIDIA And The Machine Forb
       
       <guid>//crypt0.net/post/microsoft-cloud-uses-nvidia-grid-to-pump-out-highend/</guid>
       <description>Microsoft&amp;rsquo;s latest Azure offering uses Nvidia&amp;rsquo;s virtualization platform to &amp;hellip; desktop infrastructures (VDI) with its latest NV-series Azure virtual instances. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon Drive bans rclone storage client</title>
-      <link>//crypt0.net/post/amazon-drive-bans-rclone-storage-client/</link>
-      <pubDate>Tue, 23 May 2017 00:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-drive-bans-rclone-storage-client/</guid>
-      <description>Last week, Amazon Web Services banned rclone, an open source cloud storage client application, from accessing Amazon Drive, inconveniencing &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Eastwind Networks Enables Cloud-App Visibility with Cloud Connectors</title>
-      <link>//crypt0.net/post/eastwind-networks-enables-cloudapp-visibility-with-cloud-connectors/</link>
-      <pubDate>Tue, 23 May 2017 00:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/eastwind-networks-enables-cloudapp-visibility-with-cloud-connectors/</guid>
-      <description>Users mistakenly think that if they put their infrastructure into Amazon (AWS), Google Cloud or Azure, that they&amp;rsquo;re also providing securitybut that&amp;rsquo;s a &amp;hellip; more.
 @crypt0net</description>
     </item>
     
