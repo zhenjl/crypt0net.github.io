@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Jun 2017 01:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2017 01:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Releases New Version of Spinnaker Cloud Code Update Platform</title>
+      <link>//crypt0.net/post/google-releases-new-version-of-spinnaker-cloud-code-update-platform/</link>
+      <pubDate>Wed, 07 Jun 2017 01:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-releases-new-version-of-spinnaker-cloud-code-update-platform/</guid>
+      <description>It also supports Amazon&amp;rsquo;s AWS EC2, Microsoft Azure and OpenStack cloud platforms. The platform enables the creation of custom software &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Automation Controllers With MQTT and Analytics Onboard Enable Lean IIoT</title>
@@ -20,16 +30,6 @@
       <guid>//crypt0.net/post/automation-controllers-with-mqtt-and-analytics-onboard-enable-lean-iiot/</guid>
       <description>Automation World Two of the most notable standards rapidly gaining acceptance today are MQTT for plant level communication up to the cloud, and PC-based control &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Google Releases New Version of Spinnaker Cloud Code Update Platform</title>
-      <link>//crypt0.net/post/google-releases-new-version-of-spinnaker-cloud-code-update-platform/</link>
-      <pubDate>Wed, 07 Jun 2017 01:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-releases-new-version-of-spinnaker-cloud-code-update-platform/</guid>
-      <description>It is a continuous delivery platform that is designed to make it easier for organizations to deliver applications and software code to Google&amp;rsquo;s cloud &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
