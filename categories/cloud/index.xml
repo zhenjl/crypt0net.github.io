@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Jun 2017 19:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2017 19:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google releases open-source platform Spinnaker 1.0</title>
+      <link>//crypt0.net/post/google-releases-opensource-platform-spinnaker-10/</link>
+      <pubDate>Wed, 07 Jun 2017 19:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-releases-opensource-platform-spinnaker-10/</guid>
+      <description>According to product manager for Google Cloud Platform, Christopher Sanson, they plan on adding more support for things like Oracle Bare Metal and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>BRIEF-Amazon Web Services announces that AWS Greengrass now available to</title>
@@ -4287,16 +4297,6 @@ Microsoft Azure is now ISO 9001:2015 certified Microsoft has announced that its 
       
       <guid>//crypt0.net/post/googles-alphago-ai-narrowly-beats-the-worlds-top-human-go-player/</guid>
       <description>&amp;hellip; times less compute power than the version that played against Lee Sedol last year, and the new instance runs on a single Google cloud machine. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure is now ISO 9001:2015 certified</title>
-      <link>//crypt0.net/post/microsoft-azure-is-now-iso-90012015-certified/</link>
-      <pubDate>Tue, 23 May 2017 19:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-is-now-iso-90012015-certified/</guid>
-      <description>Microsoft has announced that its Azure platform is now ISO 9001:2015 compliant and has been certified to say that it meets the specification. The news &amp;hellip; more.
 @crypt0net</description>
     </item>
     
