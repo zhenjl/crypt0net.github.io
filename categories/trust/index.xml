@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Jun 2017 12:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2017 18:05:01 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Security News from @trustpath - Jun 7, 2017</title>
+      <link>//crypt0.net/daily/daily-trust-news-2017-06-07/</link>
+      <pubDate>Wed, 07 Jun 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-trust-news-2017-06-07/</guid>
+      <description>Daily Security news from @trustpath.
+eGuide: Why a New Approach to Endpoint Protection Is Needed Now The threat landscape is constantly evolving. Traditional and even next-gen solutions to endpoint protection are falling short in protecting the enterprise &amp;hellip; more.
+Trustwave SIEM Enterprise - SIEM Product Overview and Insight Product description: Trustwave offers log management appliances, &amp;hellip; Its two main SIEM products are SIEM Enterprise and Log Management &amp;hellip; more.
+Matt Mitchell of CryptoHarlem is building an open source tool to help TechCrunch &amp;hellip; and encryption, is dedicating time to creating Protect Your Org, a free, open source, tool for all organizations to prepare for inevitable data breaches.</description>
+    </item>
     
     <item>
       <title>Fortinet adds SentinelOne to its Fabric-Ready Programme</title>
