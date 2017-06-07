@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 07 Jun 2017 15:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2017 15:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Red Hat: Linux Handlers Can Learn To Manage OpenStack</title>
+      <link>//crypt0.net/post/red-hat-linux-handlers-can-learn-to-manage-openstack/</link>
+      <pubDate>Wed, 07 Jun 2017 15:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/red-hat-linux-handlers-can-learn-to-manage-openstack/</guid>
+      <description>OpenStack clouds would proliferate didn&amp;rsquo;t Rackspace and HP already offer public versions and undercut the offerings of Amazon Web Services, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>White Light ExCeLs at Google Cloud event</title>
@@ -4307,26 +4317,6 @@ Google Cloud TPU: Strategic Implications For Google, NVIDIA And The Machine Forb
       
       <guid>//crypt0.net/post/keeping-pace-with-the-cloud-lessons-from-google-and-microsoft/</guid>
       <description>Pokemon Go&amp;rsquo;s popularity provided an unexpected stress test for the Google Cloud Platform, which hosted the app. When they gave us their day one &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Supports Cognizant Healthcare Cloud Solution</title>
-      <link>//crypt0.net/post/microsoft-azure-supports-cognizant-healthcare-cloud-solution/</link>
-      <pubDate>Tue, 23 May 2017 15:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-supports-cognizant-healthcare-cloud-solution/</guid>
-      <description>May 23, 2017 - Cognizant announced the release of its TriZetto Healthcare Cloud Solution for healthcare payers, powered by Microsoft Azure. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Mobiquity&#39;s Global Lab For Amazon Alexa Delivers Nestl&#39;s GoodNes Skill</title>
-      <link>//crypt0.net/post/mobiquitys-global-lab-for-amazon-alexa-delivers-nestls-goodnes-skill/</link>
-      <pubDate>Tue, 23 May 2017 15:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mobiquitys-global-lab-for-amazon-alexa-delivers-nestls-goodnes-skill/</guid>
-      <description>By extending this innovation past the Alexa platform to browsers and other channels in a voice-plus experience, Mobiquity is helping our clients &amp;hellip; more.
 @crypt0net</description>
     </item>
     
