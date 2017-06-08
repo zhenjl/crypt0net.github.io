@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 08 Jun 2017 05:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2017 06:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>US EPA and OpenAQ air quality data now available in BigQuery</title>
+      <link>//crypt0.net/post/us-epa-and-openaq-air-quality-data-now-available-in-bigquery/</link>
+      <pubDate>Thu, 08 Jun 2017 06:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/us-epa-and-openaq-air-quality-data-now-available-in-bigquery/</guid>
+      <description>from OpenAQ to add two air quality datasets to the Google Cloud Public &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Azure Import Export Services  Notes from the field</title>
@@ -4347,16 +4357,6 @@ Microsoft Azure is now ISO 9001:2015 certified Microsoft has announced that its 
       
       <guid>//crypt0.net/post/wanda-group-and-microsoft-accelerator-partner-together-to-empower-startups/</guid>
       <description>HostReview.com (press release) For the pastfour and a half years,Microsoft Beijing Accelerator has &amp;hellip; System in this endeavor with the adoption of Microsoft Azure and HDInsight big &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Chrome Enterprise Bundle launched for easy browser deployment,</title>
-      <link>//crypt0.net/post/google-chrome-enterprise-bundle-launched-for-easy-browser-deployment/</link>
-      <pubDate>Wed, 24 May 2017 06:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-chrome-enterprise-bundle-launched-for-easy-browser-deployment/</guid>
-      <description>BGR India ALSO READ: Vodafone India ties up with Google Cloud to bring G Suite to Indian enterprises. Published: May 24, 2017 10:17 AM IST | Updated: May &amp;hellip; more.
 @crypt0net</description>
     </item>
     
