@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 08 Jun 2017 11:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2017 12:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Cloud: a continuous delivery platform for cloud</title>
+      <link>//crypt0.net/post/google-cloud-a-continuous-delivery-platform-for-cloud/</link>
+      <pubDate>Thu, 08 Jun 2017 12:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-a-continuous-delivery-platform-for-cloud/</guid>
+      <description>At Google we deploy a lot of code: tens of thousands of deployments a day, to thousands of services, seven of which have more than a billion users &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Using Ansible Validations With Red Hat OpenStack Platform  Part 1</title>
+      <link>//crypt0.net/post/using-ansible-validations-with-red-hat-openstack-platform--part-1/</link>
+      <pubDate>Thu, 08 Jun 2017 12:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/using-ansible-validations-with-red-hat-openstack-platform--part-1/</guid>
+      <description>openstack-tripleo-validations RPM installed during a director install. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Blockchain healthcare startup Patientory raises $7.2M in three days</title>
@@ -15092,36 +15112,6 @@ Target to Pay $18.5 Million to Settle Massive 2013 Data Breach In general, consu
       <guid>//crypt0.net/post/flash-networks-launches-xtraarmor-to-protect-mobile-devices-and-internet-of/</guid>
       <description>SYS-CON Media (press release) Flash Networks, the leading provider of mobile Internet optimization, security and engagement solutions today announced the addition of xtraArmor, &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>BeWhere Holdings Inc. Reports 1st Quarter Financial Results and Provides</title>
-      <link>//crypt0.net/post/bewhere-holdings-inc-reports-1st-quarter-financial-results-and-provides/</link>
-      <pubDate>Wed, 24 May 2017 12:20:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bewhere-holdings-inc-reports-1st-quarter-financial-results-and-provides/</guid>
-      <description>Stockhouse LPWAN technologies are designed for machine to machine (&amp;ldquo;M2M&amp;rdquo;) networking environments. With decreased power consumption, longer range and &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Amazon Talks Diversity, Share Price And What&#39;s Next At The Annual</title>
-      <link>//crypt0.net/post/amazon-talks-diversity-share-price-and-whats-next-at-the-annual/</link>
-      <pubDate>Wed, 24 May 2017 12:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-talks-diversity-share-price-and-whats-next-at-the-annual/</guid>
-      <description>PYMNTS.com There were also the 11 Emmys, six Golden Globes and 3 Oscars and the massive continuing domination of Amazon Web Services but, you know &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Massive Data Breaches, Billions in Wasted Funds: Who Is Holding Edtech</title>
-      <link>//crypt0.net/post/massive-data-breaches-billions-in-wasted-funds-who-is-holding-edtech/</link>
-      <pubDate>Wed, 24 May 2017 12:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/massive-data-breaches-billions-in-wasted-funds-who-is-holding-edtech/</guid>
-      <description>EdSurge Laws regarding school data breaches vary vastly, from notification timelines to organizational responsibilities. For example, while one district might &amp;hellip; more.
-@trustpath</description>
     </item>
     
     <item>

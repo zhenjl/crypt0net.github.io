@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 08 Jun 2017 11:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2017 12:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Cloud: a continuous delivery platform for cloud</title>
+      <link>//crypt0.net/post/google-cloud-a-continuous-delivery-platform-for-cloud/</link>
+      <pubDate>Thu, 08 Jun 2017 12:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-a-continuous-delivery-platform-for-cloud/</guid>
+      <description>At Google we deploy a lot of code: tens of thousands of deployments a day, to thousands of services, seven of which have more than a billion users &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Using Ansible Validations With Red Hat OpenStack Platform  Part 1</title>
+      <link>//crypt0.net/post/using-ansible-validations-with-red-hat-openstack-platform--part-1/</link>
+      <pubDate>Thu, 08 Jun 2017 12:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/using-ansible-validations-with-red-hat-openstack-platform--part-1/</guid>
+      <description>openstack-tripleo-validations RPM installed during a director install. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>StoneFly Integrates Disaster Recovery Tool With Microsoft Azure, AWS Cloud</title>
@@ -4387,16 +4407,6 @@ Microsoft Azure is now ISO 9001:2015 certified Microsoft has announced that its 
       
       <guid>//crypt0.net/post/explaining-microsoft-azure-virtual-machines-to-a-windows-sysadmin/</guid>
       <description>deployed on Microsoft Azure through various methods. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon Talks Diversity, Share Price And What&#39;s Next At The Annual</title>
-      <link>//crypt0.net/post/amazon-talks-diversity-share-price-and-whats-next-at-the-annual/</link>
-      <pubDate>Wed, 24 May 2017 12:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-talks-diversity-share-price-and-whats-next-at-the-annual/</guid>
-      <description>PYMNTS.com There were also the 11 Emmys, six Golden Globes and 3 Oscars and the massive continuing domination of Amazon Web Services but, you know &amp;hellip; more.
 @crypt0net</description>
     </item>
     
