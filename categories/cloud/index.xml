@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Jun 2017 00:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2017 00:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zenoss and Cisco Build NFV Infrastructure Using OpenStack</title>
+      <link>//crypt0.net/post/zenoss-and-cisco-build-nfv-infrastructure-using-openstack/</link>
+      <pubDate>Fri, 09 Jun 2017 00:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/zenoss-and-cisco-build-nfv-infrastructure-using-openstack/</guid>
+      <description>Apparently, Cisco has been using the Red Hat OpenStack distribution for about a year and a half. Charles Stucki, VP and GM of Cisco&amp;rsquo;s network &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Web Services&#39; hiring proves Silicon Valley isn&#39;t just for the young</title>

@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Jun 2017 00:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2017 00:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zenoss and Cisco Build NFV Infrastructure Using OpenStack</title>
+      <link>//crypt0.net/post/zenoss-and-cisco-build-nfv-infrastructure-using-openstack/</link>
+      <pubDate>Fri, 09 Jun 2017 00:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/zenoss-and-cisco-build-nfv-infrastructure-using-openstack/</guid>
+      <description>Apparently, Cisco has been using the Red Hat OpenStack distribution for about a year and a half. Charles Stucki, VP and GM of Cisco&amp;rsquo;s network &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Web Services&#39; hiring proves Silicon Valley isn&#39;t just for the young</title>
@@ -15002,26 +15012,6 @@ AllClear ID launches in Europe and plans 72-hour customer breach response Bobsgu
       <guid>//crypt0.net/post/wait-what-an-internet-of-things-app-is-infrastructure/</guid>
       <description>Internet of Things and cloud applications raise fuzzy infrastructure questions: Do they run on infrastructure? How do they mesh with infrastructure? more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Cylance Expands Cyber-Security Platform with Optics for Threat Hunting</title>
-      <link>//crypt0.net/post/cylance-expands-cybersecurity-platform-with-optics-for-threat-hunting/</link>
-      <pubDate>Thu, 25 May 2017 00:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cylance-expands-cybersecurity-platform-with-optics-for-threat-hunting/</guid>
-      <description>&amp;ldquo;While CylancePROTECT is a leader in the prevention space, CylanceOPTICS was designed to provide a threat hunting and visibility piece for &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Sensitive consumer data posted online (and the FTC knows who did it)</title>
-      <link>//crypt0.net/post/sensitive-consumer-data-posted-online-and-the-ftc-knows-who-did-it/</link>
-      <pubDate>Thu, 25 May 2017 00:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sensitive-consumer-data-posted-online-and-the-ftc-knows-who-did-it/</guid>
-      <description>Two-factor authentication provides at least some protection against stolen credentials. Have you thought about implementing it at your company? more.
-@trustpath</description>
     </item>
     
     <item>
