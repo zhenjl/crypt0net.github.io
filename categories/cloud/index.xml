@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Jun 2017 03:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2017 03:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rackspace Moves Forward as Private Company to Advance Cloud Services</title>
+      <link>//crypt0.net/post/rackspace-moves-forward-as-private-company-to-advance-cloud-services/</link>
+      <pubDate>Fri, 09 Jun 2017 03:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/rackspace-moves-forward-as-private-company-to-advance-cloud-services/</guid>
+      <description>Rackspace delivers both public and private OpenStack cloud services and also provides managed support offerings for other cloud providers, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Massive Networks Achieves Cloud Spotlight As Emerging Cloud Networking</title>
@@ -4437,26 +4447,6 @@ How Amazon hopes to win the cloud by hiring older engineers Tech may be a youthf
       
       <guid>//crypt0.net/post/apigee-edge-vs-google-cloud-endpoints--which-one-to-use-when/</guid>
       <description>interested to do API Management for the services hosted on Google Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Serverless v1.14 - Deploy to Google Cloud Functions &amp; rollback function</title>
-      <link>//crypt0.net/post/serverless-v114--deploy-to-google-cloud-functions--rollback-function/</link>
-      <pubDate>Thu, 25 May 2017 03:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/serverless-v114--deploy-to-google-cloud-functions--rollback-function/</guid>
-      <description>Google Cloud Functions, Rollback function, DeadLetterConfig, Login command and more in the Serverless Framework v1.14 release. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>BRIEF-Infosys launches Boundaryless Data Lake offering on Amazon Web</title>
-      <link>//crypt0.net/post/briefinfosys-launches-boundaryless-data-lake-offering-on-amazon-web/</link>
-      <pubDate>Thu, 25 May 2017 03:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/briefinfosys-launches-boundaryless-data-lake-offering-on-amazon-web/</guid>
-      <description>Reuters WASHINGTON, May 24 An estimated 23 million people would lose health coverage by 2026 under Republican legislation aimed at repealing &amp;hellip; more.
 @crypt0net</description>
     </item>
     
