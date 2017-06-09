@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Jun 2017 01:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2017 01:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to disable admin token in Red Hat OpenStack Platform</title>
+      <link>//crypt0.net/post/how-to-disable-admin-token-in-red-hat-openstack-platform/</link>
+      <pubDate>Fri, 09 Jun 2017 01:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-disable-admin-token-in-red-hat-openstack-platform/</guid>
+      <description>9.0. Red Hat OpenStack Platform 10.0 &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Keeping Threat Intelligence Ahead Of The Bad Guys</title>
+      <link>//crypt0.net/post/keeping-threat-intelligence-ahead-of-the-bad-guys/</link>
+      <pubDate>Fri, 09 Jun 2017 01:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/keeping-threat-intelligence-ahead-of-the-bad-guys/</guid>
+      <description>You couldn&amp;rsquo;t just depend on endpoint detection alone anymore, certainly not with signatures, but especially not with any kind of rule-based or &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Amazon Web Services planning new East Coast campus in Northern Virginia</title>
@@ -14467,16 +14487,6 @@
       <guid>//crypt0.net/post/microsoft-reportedly-eyeing-israeli-security-company-hexadite/</guid>
       <description>Techcrunch reports that the deal has not closed, but as more and more workloads move into public clouds like Microsoft Azure, top-tier security talent &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>IoT Evolution Expo Announces RSA, a Leader in Business-Driven Security</title>
-      <link>//crypt0.net/post/iot-evolution-expo-announces-rsa-a-leader-in-businessdriven-security/</link>
-      <pubDate>Thu, 25 May 2017 01:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/iot-evolution-expo-announces-rsa-a-leader-in-businessdriven-security/</guid>
-      <description>IoT Evolution World (blog) I&amp;rsquo;m excited to share my perspective on the path forward by examining fundamental security tenets like visibility, identity, and risk in an IoT context so &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>

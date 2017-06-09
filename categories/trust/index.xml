@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Jun 2017 01:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2017 01:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Keeping Threat Intelligence Ahead Of The Bad Guys</title>
+      <link>//crypt0.net/post/keeping-threat-intelligence-ahead-of-the-bad-guys/</link>
+      <pubDate>Fri, 09 Jun 2017 01:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/keeping-threat-intelligence-ahead-of-the-bad-guys/</guid>
+      <description>You couldn&amp;rsquo;t just depend on endpoint detection alone anymore, certainly not with signatures, but especially not with any kind of rule-based or &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Threat hunting defined: What you need to know about this emerging area</title>
