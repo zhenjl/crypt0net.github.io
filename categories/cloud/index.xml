@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 09 Jun 2017 10:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2017 10:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Benchmarking Cassandra on the Google Cloud Platform (GCP)</title>
+      <link>//crypt0.net/post/benchmarking-cassandra-on-the-google-cloud-platform-gcp/</link>
+      <pubDate>Fri, 09 Jun 2017 10:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/benchmarking-cassandra-on-the-google-cloud-platform-gcp/</guid>
+      <description>customers wanting to take advantage of the unique and compelling features of that &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Slower Growth Rate for Ad Blocking in Europe; Tealium Announce Data</title>
@@ -4447,16 +4457,6 @@ How Amazon hopes to win the cloud by hiring older engineers Tech may be a youthf
       
       <guid>//crypt0.net/post/google-goes-to-china-making-play-for-talent-and-attention/</guid>
       <description>China is a dark spot for Google Cloud, its business of running companies&amp;rsquo; systems and data on its computers. In a regulatory filing, Snap Inc. noted &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Bright Pattern Integrates Google Cloud Speech to Omnichannel Contact Center</title>
-      <link>//crypt0.net/post/bright-pattern-integrates-google-cloud-speech-to-omnichannel-contact-center/</link>
-      <pubDate>Thu, 25 May 2017 10:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bright-pattern-integrates-google-cloud-speech-to-omnichannel-contact-center/</guid>
-      <description>Benzinga Bright Pattern, leading provider of multichannel cloud contact center software, now integrates with Google Cloud Speech API to expand its network of &amp;hellip; more.
 @crypt0net</description>
     </item>
     
