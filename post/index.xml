@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 10 Jun 2017 00:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jun 2017 01:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OPNFV Summit Comes at Critical Time</title>
+      <link>//crypt0.net/post/opnfv-summit-comes-at-critical-time/</link>
+      <pubDate>Sat, 10 Jun 2017 01:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/opnfv-summit-comes-at-critical-time/</guid>
+      <description>&amp;hellip; network operator is now looking at an open source ODL-based controller, to sit between OpenStack and FD.io, all running on an OPNFV platform. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>OpenLedger raises seed funding of $1.6 million from Chinese company</title>
@@ -14347,46 +14357,6 @@
       <guid>//crypt0.net/post/wireless-unb-transceiver-foresees-apps-for-massive-internet-of-things/</guid>
       <description>communication debuts at IEEE RFIC 2017 and International Microwave &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Don&#39;t hold your breath for blockchain-based Commonwealth services</title>
-      <link>//crypt0.net/post/dont-hold-your-breath-for-blockchainbased-commonwealth-services/</link>
-      <pubDate>Fri, 26 May 2017 01:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/dont-hold-your-breath-for-blockchainbased-commonwealth-services/</guid>
-      <description>Blockchain is a distributed ledger technology (DLT) originally conceptualised to facilitate the trading of the bitcoin cryptocurrency. In a nutshell &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Fred Wilson throws a little cold water on bitcoin enthusiasts</title>
-      <link>//crypt0.net/post/fred-wilson-throws-a-little-cold-water-on-bitcoin-enthusiasts/</link>
-      <pubDate>Fri, 26 May 2017 01:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/fred-wilson-throws-a-little-cold-water-on-bitcoin-enthusiasts/</guid>
-      <description>Wilson compared the state of blockchain innovation to the early- to mid-1990s, when the internet&amp;rsquo;s infrastructure was just being built. He pointed out &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>ITAMCO to Develop Blockchain-Based Secure Messaging App for U.S. Military</title>
-      <link>//crypt0.net/post/itamco-to-develop-blockchainbased-secure-messaging-app-for-us-military/</link>
-      <pubDate>Fri, 26 May 2017 01:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/itamco-to-develop-blockchainbased-secure-messaging-app-for-us-military/</guid>
-      <description>Blockchain technology, which is the underlying technology of Bitcoin, is a type of distributed ledger or decentralized database that keeps records of &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>the symantec endpoint protection installation requieres this computer to</title>
-      <link>//crypt0.net/post/the-symantec-endpoint-protection-installation-requieres-this-computer-to/</link>
-      <pubDate>Fri, 26 May 2017 01:00:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-symantec-endpoint-protection-installation-requieres-this-computer-to/</guid>
-      <description>the symantec endpoint protection installation requieres this computer to restart. . . more.
-@trustpath</description>
     </item>
     
   </channel>
