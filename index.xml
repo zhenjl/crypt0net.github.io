@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 10 Jun 2017 02:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jun 2017 02:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenStack Cloud Evolves Beyond Its Python 2.6 Roots</title>
+      <link>//crypt0.net/post/openstack-cloud-evolves-beyond-its-python-26-roots/</link>
+      <pubDate>Sat, 10 Jun 2017 02:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-cloud-evolves-beyond-its-python-26-roots/</guid>
+      <description>When NASA first started to evaluate building its Nebula cloud compute project, it evaluated dozens of languages, eventually settling on Python 2.6. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How Has The World Reacted to Internet of Things (IoT) So Far?</title>
@@ -14901,26 +14911,6 @@ Cylance delivers first AI-driven endpoint detection and response solution CSO Au
       
       <guid>//crypt0.net/post/bitcoin-boom--regulators-at-the-gate/</guid>
       <description>This week, I attended one of the most important events in the blockchain world Consensus 2017. Consensus is an annual blockchain technology &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Kerala startup to get Google mentoring</title>
-      <link>//crypt0.net/post/kerala-startup-to-get-google-mentoring/</link>
-      <pubDate>Fri, 26 May 2017 02:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/kerala-startup-to-get-google-mentoring/</guid>
-      <description>The startups will receive 50,000 USD which is roughly Rs 35 lakh grant and 100,000 USD worth (roughly Rs 67 lakh) Google Cloud credits which &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Samsung Publicly Demonstrates Next-Generation Stretchable OLED Display</title>
-      <link>//crypt0.net/post/samsung-publicly-demonstrates-nextgeneration-stretchable-oled-display/</link>
-      <pubDate>Fri, 26 May 2017 02:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/samsung-publicly-demonstrates-nextgeneration-stretchable-oled-display/</guid>
-      <description>Forbes Samsung envisions a future where this type of stretchable display will be used for wearable, Internet of Things (IoT) devices and automotive &amp;hellip; more.
 @surgethings</description>
     </item>
     

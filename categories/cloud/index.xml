@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 10 Jun 2017 01:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jun 2017 02:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenStack Cloud Evolves Beyond Its Python 2.6 Roots</title>
+      <link>//crypt0.net/post/openstack-cloud-evolves-beyond-its-python-26-roots/</link>
+      <pubDate>Sat, 10 Jun 2017 02:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-cloud-evolves-beyond-its-python-26-roots/</guid>
+      <description>When NASA first started to evaluate building its Nebula cloud compute project, it evaluated dozens of languages, eventually settling on Python 2.6. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Opening Huge Campus In Herndon</title>
@@ -4417,16 +4427,6 @@ Is Amazon.com, Inc. (AMZN) Stock About to Burst? &amp;hellip; from 66 million pe
       
       <guid>//crypt0.net/post/google-introduces-istio-service-mesh-for-cloud/</guid>
       <description>As Eric Brewer, Vice President, Google Cloud said, Google&amp;rsquo;s experience is that having a uniform substrate for developing and operating &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Kerala startup to get Google mentoring</title>
-      <link>//crypt0.net/post/kerala-startup-to-get-google-mentoring/</link>
-      <pubDate>Fri, 26 May 2017 02:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/kerala-startup-to-get-google-mentoring/</guid>
-      <description>The startups will receive 50,000 USD which is roughly Rs 35 lakh grant and 100,000 USD worth (roughly Rs 67 lakh) Google Cloud credits which &amp;hellip; more.
 @crypt0net</description>
     </item>
     
