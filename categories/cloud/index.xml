@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 11 Jun 2017 10:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jun 2017 13:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Introduces Blockchain Proof of Concept Framework for Developers</title>
+      <link>//crypt0.net/post/microsoft-introduces-blockchain-proof-of-concept-framework-for-developers/</link>
+      <pubDate>Sun, 11 Jun 2017 13:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-introduces-blockchain-proof-of-concept-framework-for-developers/</guid>
+      <description>Underpinning this framework is Microsoft&amp;rsquo;s high-scale publish/subscribe ingestion engine called Azure Event Hubs. Using Azure Event Hubs, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Web Services makes AWS Greengrass available to all</title>
