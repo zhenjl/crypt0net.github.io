@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 11 Jun 2017 02:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jun 2017 03:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Openstack volumes are Attached to None on /dev/vda</title>
+      <link>//crypt0.net/post/openstack-volumes-are-attached-to-none-on-devvda/</link>
+      <pubDate>Sun, 11 Jun 2017 03:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-volumes-are-attached-to-none-on-devvda/</guid>
+      <description>volumes in Red Hat OpenStack Platform. The instance that the volume &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Internet of Things Trend Is Inescapable</title>
