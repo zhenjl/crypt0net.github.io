@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 11 Jun 2017 04:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jun 2017 05:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Big Data and the Cloud Are Transforming ETL Pipelines</title>
+      <link>//crypt0.net/post/how-big-data-and-the-cloud-are-transforming-etl-pipelines/</link>
+      <pubDate>Sun, 11 Jun 2017 05:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-big-data-and-the-cloud-are-transforming-etl-pipelines/</guid>
+      <description>In the case of Redshift, you can query data directly from S3, while BigQuery lets you directly query data in Google Cloud Storage and even shared or &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Internet of Things Trend Is Inescapable</title>
@@ -14056,26 +14066,6 @@
       
       <guid>//crypt0.net/post/bitcoin-is-bigger-than-ever-and-heres-why-that-matters/</guid>
       <description>Transactions are at the heart of Bitcoin &amp;ndash; it&amp;rsquo;s powered by what&amp;rsquo;s known as a blockchain. You can view blockchain information for any wallet address, &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Kitchener wastewater projects to receive $3.4 million</title>
-      <link>//crypt0.net/post/kitchener-wastewater-projects-to-receive-34-million/</link>
-      <pubDate>Sat, 27 May 2017 05:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/kitchener-wastewater-projects-to-receive-34-million/</guid>
-      <description>&amp;lsquo;Internet of things technology&amp;rsquo;. The city of Waterloo will be receiving $657,504 to install a water leak detection system. Mayor Dave Jaworsky said the &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>India&#39;s new anti-profiteering authority</title>
-      <link>//crypt0.net/post/indias-new-antiprofiteering-authority/</link>
-      <pubDate>Sat, 27 May 2017 05:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/indias-new-antiprofiteering-authority/</guid>
-      <description>The License Raj has been crumbling in accelerated fashion since, for shorthand sake, the year 1991 but its potency as a shorthand in arguments &amp;hellip; more.
 @surgethings</description>
     </item>
     
