@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 12 Jun 2017 04:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jun 2017 04:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>4 Recent Internet of Things (IoT) Developments</title>
+      <link>//crypt0.net/post/4-recent-internet-of-things-iot-developments/</link>
+      <pubDate>Mon, 12 Jun 2017 04:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/4-recent-internet-of-things-iot-developments/</guid>
+      <description>The Internet of Things or IoT has been rapidly adopted for both consumer and business applications and is going through some growing pains. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Smart Home - Internet of Things &amp; Home Automation WordPress Theme by Mymoun</title>
@@ -13977,16 +13987,6 @@
       <guid>//crypt0.net/post/ericsson-itb-collaborate-for-internet-of-things-research/</guid>
       <description>Ericsson, ITB collaborate for Internet of Things research Through this partnership, ITB researchers and students will have a direct access to IoT &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Find naming rules for Azure resources</title>
-      <link>//crypt0.net/post/find-naming-rules-for-azure-resources/</link>
-      <pubDate>Sun, 28 May 2017 04:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/find-naming-rules-for-azure-resources/</guid>
-      <description>A. Yes. At https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-c onventions#naming-rules-and-restrictions all the rules and &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
