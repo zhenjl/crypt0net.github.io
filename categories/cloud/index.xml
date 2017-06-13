@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 13 Jun 2017 22:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2017 22:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build your own machine-learning-powered robot arm using TensorFlow and</title>
+      <link>//crypt0.net/post/build-your-own-machinelearningpowered-robot-arm-using-tensorflow-and/</link>
+      <pubDate>Tue, 13 Jun 2017 22:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/build-your-own-machinelearningpowered-robot-arm-using-tensorflow-and/</guid>
+      <description>Learn about the Find Your Candy robot arm powered by machine learning. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft brings IoT tools to Azure Government cloud</title>
