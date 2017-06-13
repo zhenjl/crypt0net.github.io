@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 13 Jun 2017 01:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2017 02:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why Monash is sharing its MASSIVE supercomputing cluster</title>
+      <link>//crypt0.net/post/why-monash-is-sharing-its-massive-supercomputing-cluster/</link>
+      <pubDate>Tue, 13 Jun 2017 02:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-monash-is-sharing-its-massive-supercomputing-cluster/</guid>
+      <description>So when it came to doing cluster 3 we chose do to it through OpenStack through NeCTAR. Interfacing with NeCTAR which allows scientists at &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>CTA Calls for Acceleration of Internet of Things Agenda</title>
