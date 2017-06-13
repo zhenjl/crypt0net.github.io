@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 13 Jun 2017 08:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2017 08:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cogito API on Google Cloud Platform</title>
+      <link>//crypt0.net/post/cogito-api-on-google-cloud-platform/</link>
+      <pubDate>Tue, 13 Jun 2017 08:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cogito-api-on-google-cloud-platform/</guid>
+      <description>scalable tool for providing deep semantic analysis on any type of text &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>WP Engine Expands Global Footprint With New Amazon Web Services Data</title>
