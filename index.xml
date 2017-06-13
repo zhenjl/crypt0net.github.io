@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 13 Jun 2017 11:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2017 12:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,21 @@
     <item>
       <title>Microsoft Joins India&#39;s &#39;BankChain&#39; Consortium as Blockchain Cloud Partner</title>
       <link>//crypt0.net/post/microsoft-joins-indias-bankchain-consortium-as-blockchain-cloud-partner/</link>
-      <pubDate>Tue, 13 Jun 2017 11:50:02 +0000</pubDate>
+      <pubDate>Tue, 13 Jun 2017 12:00:02 +0000</pubDate>
       
       <guid>//crypt0.net/post/microsoft-joins-indias-bankchain-consortium-as-blockchain-cloud-partner/</guid>
-      <description>Now, the consortium has roped in Microsoft as its &amp;lsquo;exclusive cloud partner&amp;rsquo; wherein its 20 member banks will use the Microsoft Azure Blockchain as &amp;hellip; more.
-@crypt0net</description>
+      <description>India&amp;rsquo;s banking blockchain consortium BankChain has chosen Microsoft as its exclusive cloud partner, a tie-up which will see India&amp;rsquo;s biggest banks &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>On Byzantine Fault Tolerance in Blockchain Systems</title>
+      <link>//crypt0.net/post/on-byzantine-fault-tolerance-in-blockchain-systems/</link>
+      <pubDate>Tue, 13 Jun 2017 12:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/on-byzantine-fault-tolerance-in-blockchain-systems/</guid>
+      <description>Notable blockchain projects like Ripple, Stellar, Hyperledger and Antshares are investigating versions of BFT systems for their blockchain-enabled &amp;hellip; more.
+@surgethings</description>
     </item>
     
     <item>
