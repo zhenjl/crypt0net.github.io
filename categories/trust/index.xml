@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 13 Jun 2017 17:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2017 18:05:01 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Security News from @trustpath - Jun 13, 2017</title>
+      <link>//crypt0.net/daily/daily-trust-news-2017-06-13/</link>
+      <pubDate>Tue, 13 Jun 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-trust-news-2017-06-13/</guid>
+      <description>Daily Security news from @trustpath.
+Endpoint Protection .Cloud: Adding multiple users from on-premises Active As you may know, we recently added the ability to import a CSV or XLSX file of users to Endpoint Cloud for user enrollment. This leaves on-premises &amp;hellip; more.
+Gartner Announces Winners of the Gartner Peer Insights Customer Choice Business Wire (press release) NATIONAL HARBOR, Md.&amp;ndash;(BUSINESS WIRE)&amp;ndash;Gartner, Inc. announced today the winners of the first Gartner Peer Insights Customer Choice Awards &amp;hellip; more.</description>
+    </item>
     
     <item>
       <title>Symantec Endpoint Protection (SEP) client-only patches</title>
