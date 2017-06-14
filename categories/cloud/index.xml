@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 14 Jun 2017 18:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2017 18:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google opens Digital Skills Academy in London</title>
+      <link>//crypt0.net/post/google-opens-digital-skills-academy-in-london/</link>
+      <pubDate>Wed, 14 Jun 2017 18:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-opens-digital-skills-academy-in-london/</guid>
+      <description>The Academy represents the coming together of a wide range of Google teams, including Google Cloud, CS Education, Brandlab, the Zoo, Google &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>MemSQL Managed Cloud Database Supports AWS and Microsoft Azure</title>
@@ -5006,26 +5016,6 @@ Can Microsoft Justify Its Price Tag? Microsoft&amp;rsquo;s Azure cloud platform 
       
       <guid>//crypt0.net/post/enabling-organization-rights-in-vcloud-director/</guid>
       <description>the self-service tenant portal, for e.g., Distributed Firewall configurations, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>BeyondTrust Announces Support for Microsoft Azure</title>
-      <link>//crypt0.net/post/beyondtrust-announces-support-for-microsoft-azure/</link>
-      <pubDate>Tue, 30 May 2017 18:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/beyondtrust-announces-support-for-microsoft-azure/</guid>
-      <description>&amp;ldquo;By using BeyondTrust hosted on Microsoft Azure, customers now have a cost-effective solution to leverage the benefits of cloud computing while &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>SQL Server 2016 Integration Services boosted by Linux support</title>
-      <link>//crypt0.net/post/sql-server-2016-integration-services-boosted-by-linux-support/</link>
-      <pubDate>Tue, 30 May 2017 18:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sql-server-2016-integration-services-boosted-by-linux-support/</guid>
-      <description>Microsoft regularly introduces new features and capabilities into its SQL &amp;hellip; SQL Server 2016 to provide better interoperability with Microsoft Azure. more.
 @crypt0net</description>
     </item>
     
