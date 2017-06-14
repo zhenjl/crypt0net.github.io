@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 14 Jun 2017 19:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2017 19:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Is GPU card pass through supported in any version of OpenStack?</title>
+      <link>//crypt0.net/post/is-gpu-card-pass-through-supported-in-any-version-of-openstack/</link>
+      <pubDate>Wed, 14 Jun 2017 19:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/is-gpu-card-pass-through-supported-in-any-version-of-openstack/</guid>
+      <description>What are the limitations of GPU Passthrough in Red Hat OpenStack &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>19 cloud innovation winners announced at Amazon Web Services summit</title>
