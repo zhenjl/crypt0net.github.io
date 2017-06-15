@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 15 Jun 2017 04:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2017 04:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Now available: Storage Service Encryption for Azure Managed Disks</title>
+      <link>//crypt0.net/post/now-available-storage-service-encryption-for-azure-managed-disks/</link>
+      <pubDate>Thu, 15 Jun 2017 04:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/now-available-storage-service-encryption-for-azure-managed-disks/</guid>
+      <description>Storage Service Encryption provides encryption at rest and safeguards data to &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Blockchain for vehicle brand and experience</title>
@@ -15778,16 +15788,6 @@
       <guid>//crypt0.net/post/kpmg-and-cisco-drive-to-make-australian-cities-smart/</guid>
       <description>KPMG Australia and Cisco have formed an alliance to deliver smart city initiatives in Australia and accelerate adoption of the Internet of Things (IoT). more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Free app saves pictures, videos in Google Cloud</title>
-      <link>//crypt0.net/post/free-app-saves-pictures-videos-in-google-cloud/</link>
-      <pubDate>Wed, 31 May 2017 04:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/free-app-saves-pictures-videos-in-google-cloud/</guid>
-      <description>Every few weeks someone asks me &amp;ldquo;How do I save the photos from my phone so I can delete them?&amp;rdquo; This week, someone texted me &amp;ldquo;Help! I need to &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
