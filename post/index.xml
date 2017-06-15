@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 15 Jun 2017 04:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2017 04:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ESB-2017.1498 - [Linux][RedHat] openstack-keystone</title>
+      <link>//crypt0.net/post/esb20171498--linuxredhat-openstackkeystone/</link>
+      <pubDate>Thu, 15 Jun 2017 04:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/esb20171498--linuxredhat-openstackkeystone/</guid>
+      <description>an updated version of the software for their operating system. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Now available: Storage Service Encryption for Azure Managed Disks</title>
