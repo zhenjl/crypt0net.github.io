@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 15 Jun 2017 01:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2017 01:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On-access scanning in Endpoint Antivirus settings is greyed out, but</title>
+      <link>//crypt0.net/post/onaccess-scanning-in-endpoint-antivirus-settings-is-greyed-out-but/</link>
+      <pubDate>Thu, 15 Jun 2017 01:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/onaccess-scanning-in-endpoint-antivirus-settings-is-greyed-out-but/</guid>
+      <description>I have Endpoint Protection installed and running on a Windows Server 2102 R2 system. In the UTM&amp;rsquo;s Endpoint Protection Antivirus Policy it says &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>AWS adds new GovCloud region for East Coast agencies</title>
@@ -16263,36 +16273,6 @@ CounterTack Announces $20M Series D Growth Round of Funding Led by Singtel Busin
       <guid>//crypt0.net/post/further-remote-vulnerabilities-found-in-windows-defender/</guid>
       <description>Microsoft also uses Defender and associated components in its Endpoint Protection, Forefront Endpoint Protection, Intune Endpoint Protection, &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>China Business Internet of Things End-User Perception and Adoption Research</title>
-      <link>//crypt0.net/post/china-business-internet-of-things-enduser-perception-and-adoption-research/</link>
-      <pubDate>Wed, 31 May 2017 01:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/china-business-internet-of-things-enduser-perception-and-adoption-research/</guid>
-      <description>deployment and application in 2016 in detail. First, it summarizes Chinese &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Code on the Road: &#39;Blockchain for Good&#39;</title>
-      <link>//crypt0.net/post/code-on-the-road-blockchain-for-good/</link>
-      <pubDate>Wed, 31 May 2017 01:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/code-on-the-road-blockchain-for-good/</guid>
-      <description>University of Surrey reflects on the recent Blockchain for Good &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>How Microsoft&#39;s Buyout of Hexadite Aligns with Its Cloud Strategy</title>
-      <link>//crypt0.net/post/how-microsofts-buyout-of-hexadite-aligns-with-its-cloud-strategy/</link>
-      <pubDate>Wed, 31 May 2017 01:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-microsofts-buyout-of-hexadite-aligns-with-its-cloud-strategy/</guid>
-      <description>Microsoft Windows is currently the most widely used operating system in PCs. Microsoft Azure, the company&amp;rsquo;s cloud platform, is behind only Amazon&amp;rsquo;s &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
