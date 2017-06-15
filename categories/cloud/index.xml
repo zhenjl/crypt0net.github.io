@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 15 Jun 2017 06:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2017 06:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Enabling Azure SQL Database Auto-Tuning at Scale for Microsoft IT</title>
+      <link>//crypt0.net/post/enabling-azure-sql-database-autotuning-at-scale-for-microsoft-it/</link>
+      <pubDate>Thu, 15 Jun 2017 06:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/enabling-azure-sql-database-autotuning-at-scale-for-microsoft-it/</guid>
+      <description>This is a really exciting episode for people that are using Azure SQL Databases - or anyone that&amp;rsquo;s looking at migrating on premise or SQL on IaaS to &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Singapore announces first Google Cloud Platform in Southeast Asia</title>
