@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 15 Jun 2017 11:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2017 11:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IoT Time: M2M/Internet of Things weekly digest</title>
+      <link>//crypt0.net/post/iot-time-m2minternet-of-things-weekly-digest/</link>
+      <pubDate>Thu, 15 Jun 2017 11:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/iot-time-m2minternet-of-things-weekly-digest/</guid>
+      <description>UK-based IoT specialist Telit and Swedish telecoms group Tele2 have introduced Telit simWISE, a &amp;lsquo;first-of-its-kind&amp;rsquo; cellular module-embedded &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Blockchain Beyond Bitcoin: How Blockchain Will Transform Business in 3 to 5</title>
@@ -7449,16 +7459,6 @@
       
       <guid>//crypt0.net/post/blockchain-healthcare-startup-patientory-raises-72m-in-three-days/</guid>
       <description>Patientory is a blockchain-based distributed electronic medical record (EMR) storage computing platform, which functions as a network/bridge that &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>IoT Time: M2M/Internet of Things weekly digest</title>
-      <link>//crypt0.net/post/iot-time-m2minternet-of-things-weekly-digest/</link>
-      <pubDate>Thu, 08 Jun 2017 11:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/iot-time-m2minternet-of-things-weekly-digest/</guid>
-      <description>Vodafone Netherlands (VodafoneZiggo) has announced that its NB-IoT network is live in 20 locations in Amsterdam, Rotterdam, Eindhoven, &amp;hellip; more.
 @surgethings</description>
     </item>
     
@@ -15688,36 +15688,6 @@
       <guid>//crypt0.net/post/mqtt-subscription-to-ibm-watson-iot-platform/</guid>
       <description>have &amp;hellip; Everything you need to know is in the following 2 sections of the &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Tokenized Dollars: Singapore&#39;s Central Bank Details New Blockchain Trial</title>
-      <link>//crypt0.net/post/tokenized-dollars-singapores-central-bank-details-new-blockchain-trial/</link>
-      <pubDate>Wed, 31 May 2017 11:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/tokenized-dollars-singapores-central-bank-details-new-blockchain-trial/</guid>
-      <description>Singapore&amp;rsquo;s central bank has published new details of distributed ledger trial that saw it issue digital tokens tied to its national currency. The report &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Using Cloud Sandboxes as Stepping Stones to Hybrid Clouds</title>
-      <link>//crypt0.net/post/using-cloud-sandboxes-as-stepping-stones-to-hybrid-clouds/</link>
-      <pubDate>Wed, 31 May 2017 11:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/using-cloud-sandboxes-as-stepping-stones-to-hybrid-clouds/</guid>
-      <description>For instance, VMware, OpenStack, AWS, Azure and Google Cloud Platform all involve different operational models and implementation challenges. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Metso partners with Rockwell Automation to create new industry-leading</title>
-      <link>//crypt0.net/post/metso-partners-with-rockwell-automation-to-create-new-industryleading/</link>
-      <pubDate>Wed, 31 May 2017 11:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/metso-partners-with-rockwell-automation-to-create-new-industryleading/</guid>
-      <description>EconoTimes The industrial IoT solution is built on the Rockwell Automation FactoryTalk Cloud platform, powered by Microsoft Azure. Rockwell Automation and &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
