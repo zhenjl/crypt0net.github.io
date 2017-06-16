@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 15 Jun 2017 22:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 00:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>In this week&#39;s edition of our Ubuntu #OpenStack...</title>
+      <link>//crypt0.net/post/in-this-weeks-edition-of-our-ubuntu-openstack/</link>
+      <pubDate>Fri, 16 Jun 2017 00:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/in-this-weeks-edition-of-our-ubuntu-openstack/</guid>
+      <description>OpenStack snaps, Nova LXD, and updates on our #JujuCharms for easy &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Still Leads Cloud Rankings, But Competition Is Coming On Strong</title>
