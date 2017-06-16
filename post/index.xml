@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 16 Jun 2017 22:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 22:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure AD with Ping Integration Now Generally Available</title>
+      <link>//crypt0.net/post/azure-ad-with-ping-integration-now-generally-available/</link>
+      <pubDate>Fri, 16 Jun 2017 22:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-ad-with-ping-integration-now-generally-available/</guid>
+      <description>Microsoft&amp;rsquo;s Azure Active Directory service now supports single sign-on access to legacy Web applications with this week&amp;rsquo;s release of PingAccess with &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Blockchain startup Babb hires Ripple advisor Anish Mohammed to spearhead</title>
+      <link>//crypt0.net/post/blockchain-startup-babb-hires-ripple-advisor-anish-mohammed-to-spearhead/</link>
+      <pubDate>Fri, 16 Jun 2017 22:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/blockchain-startup-babb-hires-ripple-advisor-anish-mohammed-to-spearhead/</guid>
+      <description>EconoTimes Blockchain banking app Babb announced that it has appointed Dr. Anish Mohammed, blockchain expert, cryptography specialist and an advisor to &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Monitoring traffic, etc. from my gateway per mqtt?</title>
@@ -15398,36 +15418,6 @@
       <guid>//crypt0.net/post/dhg-is-approaching-and-blockchain-technology-launches-30-era/</guid>
       <description>just announced that the DHG, a blockchain technology integrated &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Aprimo Boosts Digital Transformation for Financial Services Marketers</title>
-      <link>//crypt0.net/post/aprimo-boosts-digital-transformation-for-financial-services-marketers/</link>
-      <pubDate>Thu, 01 Jun 2017 22:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aprimo-boosts-digital-transformation-for-financial-services-marketers/</guid>
-      <description>Now, with our platform on Microsoft Azure, we&amp;rsquo;ve lowered those barriers and associated risks by offering customers a secure and cost-effective way to &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Mexia named Microsoft&#39;s Australian country partner of the year for 2017</title>
-      <link>//crypt0.net/post/mexia-named-microsofts-australian-country-partner-of-the-year-for-2017/</link>
-      <pubDate>Thu, 01 Jun 2017 22:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mexia-named-microsofts-australian-country-partner-of-the-year-for-2017/</guid>
-      <description>Founded in 2008, Mexia&amp;rsquo;s Microsoft services include cloud and &amp;hellip; in healthcare solutions by building its Mexconnect platform on Microsoft Azure. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Nerdio Delivers First-Ever IT Automation Platform for Microsoft Azure</title>
-      <link>//crypt0.net/post/nerdio-delivers-firstever-it-automation-platform-for-microsoft-azure/</link>
-      <pubDate>Thu, 01 Jun 2017 22:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nerdio-delivers-firstever-it-automation-platform-for-microsoft-azure/</guid>
-      <description>CHICAGO, June 01, 2017 (GLOBE NEWSWIRE) &amp;ndash; Nerdio (www.getnerdio.com), a pioneer in IT-as-a-Service (ITaaS) and Azure automation &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
