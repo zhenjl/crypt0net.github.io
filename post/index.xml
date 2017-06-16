@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 16 Jun 2017 21:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 22:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Monitoring traffic, etc. from my gateway per mqtt?</title>
+      <link>//crypt0.net/post/monitoring-traffic-etc-from-my-gateway-per-mqtt/</link>
+      <pubDate>Fri, 16 Jun 2017 22:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/monitoring-traffic-etc-from-my-gateway-per-mqtt/</guid>
+      <description>console i can see the traffic and i would love to do some statistics about how &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Advanced Sensing Systems that Leverage Technology Convergence Boost Sensors</title>
@@ -15418,16 +15428,6 @@
       <guid>//crypt0.net/post/nerdio-delivers-firstever-it-automation-platform-for-microsoft-azure/</guid>
       <description>CHICAGO, June 01, 2017 (GLOBE NEWSWIRE) &amp;ndash; Nerdio (www.getnerdio.com), a pioneer in IT-as-a-Service (ITaaS) and Azure automation &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>New RapidFire Tools Data Breach Liability Report Quantifies Financial Risk</title>
-      <link>//crypt0.net/post/new-rapidfire-tools-data-breach-liability-report-quantifies-financial-risk/</link>
-      <pubDate>Thu, 01 Jun 2017 22:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/new-rapidfire-tools-data-breach-liability-report-quantifies-financial-risk/</guid>
-      <description>IT Business Net Were all coming to grips with the fact that many data breaches are initiated internally, making businesses that utilize personal data particularly &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
