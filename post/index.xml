@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 16 Jun 2017 16:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 16:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google releases Android Things Developer Preview 4.1</title>
+      <link>//crypt0.net/post/google-releases-android-things-developer-preview-41/</link>
+      <pubDate>Fri, 16 Jun 2017 16:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-releases-android-things-developer-preview-41/</guid>
+      <description>Google has released Developer Preview 4.1 of Android Things, the company&amp;rsquo;s Android-based OS for Internet of Things (IoT) devices. The update adds &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Amazon Web Services vs Microsoft Azure</title>
@@ -15508,36 +15518,6 @@
       <guid>//crypt0.net/post/survey-nearly-half-of-us-firms-using-internet-of-things-hit-by-security/</guid>
       <description>SYS-CON Media (press release) Nearly half of U.S. firms using an Internet of Things (IoT) network have been hit by a recent security breach, which can cost up to 13% of smaller &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Announces public preview of disaster recovery for Azure IaaS</title>
-      <link>//crypt0.net/post/microsoft-announces-public-preview-of-disaster-recovery-for-azure-iaas/</link>
-      <pubDate>Thu, 01 Jun 2017 16:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-announces-public-preview-of-disaster-recovery-for-azure-iaas/</guid>
-      <description>DABCC.com I am excited to announce the public preview of disaster recovery for Azure IaaS virtual machines (VMs) using Azure Site Recovery (ASR). You can &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>$35 Million in 30 Seconds: Token Sale for Internet Browser Brave Sells Out</title>
-      <link>//crypt0.net/post/35-million-in-30-seconds-token-sale-for-internet-browser-brave-sells-out/</link>
-      <pubDate>Thu, 01 Jun 2017 16:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/35-million-in-30-seconds-token-sale-for-internet-browser-brave-sells-out/</guid>
-      <description>For those who haven&amp;rsquo;t been following, token sales by which blockchain-linked data is sold as a form or project crowdfunding have been on the rise &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>&#39;The ultimate power is love, not AI&#39;: top artificial intelligence expert</title>
-      <link>//crypt0.net/post/the-ultimate-power-is-love-not-ai-top-artificial-intelligence-expert/</link>
-      <pubDate>Thu, 01 Jun 2017 16:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-ultimate-power-is-love-not-ai-top-artificial-intelligence-expert/</guid>
-      <description>&amp;ldquo;The ultimate power, in my opinion, is love, not AI,&amp;rdquo; a top artificial intelligence (AI) expert and chief scientist of AI/ML (Google Cloud) Fei-Fei Li told &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
