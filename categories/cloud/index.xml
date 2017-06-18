@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 18 Jun 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jun 2017 20:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Clusters for Large-scale Technical Computing in the Cloud</title>
+      <link>//crypt0.net/post/using-clusters-for-largescale-technical-computing-in-the-cloud/</link>
+      <pubDate>Sun, 18 Jun 2017 20:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/using-clusters-for-largescale-technical-computing-in-the-cloud/</guid>
+      <description>computing on Google Cloud Platform (GCP). Many technical computing &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Jun 18, 2017</title>
