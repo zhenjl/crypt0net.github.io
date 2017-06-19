@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 19 Jun 2017 05:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 06:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The io.transport.mqtt implementation is too restrictive</title>
+      <link>//crypt0.net/post/the-iotransportmqtt-implementation-is-too-restrictive/</link>
+      <pubDate>Mon, 19 Jun 2017 06:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-iotransportmqtt-implementation-is-too-restrictive/</guid>
+      <description>exports. At the moment it allows: (un)registerConnectionObserver: Notification &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>How the Internet of Things poses fresh risks to public sector systems</title>
