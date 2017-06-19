@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 19 Jun 2017 16:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 16:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to install and configure OpenStack on an old laptop with a wireless</title>
+      <link>//crypt0.net/post/how-to-install-and-configure-openstack-on-an-old-laptop-with-a-wireless/</link>
+      <pubDate>Mon, 19 Jun 2017 16:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-install-and-configure-openstack-on-an-old-laptop-with-a-wireless/</guid>
+      <description>This is just to deploy a test OpenStack instance to try it, perform demonstrations or to learn how to deploy cloud instances. In short, I decided to have a &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Could Surpass Amazon in Cloud Computing This Year (AMZN, MSFT)</title>
