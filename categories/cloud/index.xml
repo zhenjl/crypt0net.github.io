@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 20 Jun 2017 09:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 10:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Salford City Council adopts Microsoft Azure to deliver hybrid cloud vision</title>
+      <link>//crypt0.net/post/salford-city-council-adopts-microsoft-azure-to-deliver-hybrid-cloud-vision/</link>
+      <pubDate>Tue, 20 Jun 2017 10:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/salford-city-council-adopts-microsoft-azure-to-deliver-hybrid-cloud-vision/</guid>
+      <description>Salford City Council has embarked on a move to embrace the hybrid cloud deployment model by signing up to use the Microsoft Azure public cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Accenture, Microsoft look to give refugees a digital identity with</title>
@@ -5159,16 +5169,6 @@ Azure Backup cuddles up real close to Windows Server Last week the company switc
       
       <guid>//crypt0.net/post/microsoft-has-launched-its-cognitive-toolkit/</guid>
       <description>Additionally, to the Cognitive Toolkit, developers can now connect to a suite of cloud computing applications through Microsoft Azure. When connected &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Azure SQL Data Sync</title>
-      <link>//crypt0.net/post/introduction-to-azure-sql-data-sync/</link>
-      <pubDate>Mon, 05 Jun 2017 09:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/introduction-to-azure-sql-data-sync/</guid>
-      <description>Azure SQL Data Sync is an Azure-resident service based on Microsoft Sync Framework specifications. (For more information regarding these &amp;hellip; more.
 @crypt0net</description>
     </item>
     
