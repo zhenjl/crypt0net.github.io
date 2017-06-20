@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 20 Jun 2017 13:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 13:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Installing and configuring the OpenStack Keystone identity service</title>
+      <link>//crypt0.net/post/installing-and-configuring-the-openstack-keystone-identity-service/</link>
+      <pubDate>Tue, 20 Jun 2017 13:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/installing-and-configuring-the-openstack-keystone-identity-service/</guid>
+      <description>point in order to manage authentication and authorization, used by other &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Analyst tips Microsoft Azure to overtake AWS as cloud revenue market leader</title>
