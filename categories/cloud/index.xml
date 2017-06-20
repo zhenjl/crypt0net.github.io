@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 20 Jun 2017 19:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2017 20:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accenture, Microsoft demo blockchain for digital identity</title>
+      <link>//crypt0.net/post/accenture-microsoft-demo-blockchain-for-digital-identity/</link>
+      <pubDate>Tue, 20 Jun 2017 20:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/accenture-microsoft-demo-blockchain-for-digital-identity/</guid>
+      <description>Accenture and Microsoft demonstrated a prototype Monday at the ID2020 &amp;hellip; was built on an existing Accenture platform and runs on Microsoft Azure. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Managing updates for your Microsoft Azure VM</title>
+      <link>//crypt0.net/post/managing-updates-for-your-microsoft-azure-vm/</link>
+      <pubDate>Tue, 20 Jun 2017 20:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/managing-updates-for-your-microsoft-azure-vm/</guid>
+      <description>In this blog post, I will talk about how to use Update Management solution to manage updates for your Azure VMs. Right from within your Azure VM &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>MongoDB Announces Atlas Support in Azure and Stitch BaaS</title>
