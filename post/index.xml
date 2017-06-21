@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Jun 2017 05:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 05:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Cloud hits Aussie; Kiwis to benefit too</title>
+      <link>//crypt0.net/post/google-cloud-hits-aussie-kiwis-to-benefit-too/</link>
+      <pubDate>Wed, 21 Jun 2017 05:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-hits-aussie-kiwis-to-benefit-too/</guid>
+      <description>Three zones have been launched in Sydney several Google Cloud Platform services, including Container Engine, Cloud Dataflow and Datalab, Cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>UN glimpses into blockchain future with eye scan payments for refugees</title>
@@ -16499,16 +16509,6 @@
       <guid>//crypt0.net/post/blockchain-basics-a-nontechnical-introduction-in-25-steps/</guid>
       <description>&amp;hellip; In 25 concise steps, you will learn the basics of blockchain technology. more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Protecting internal network from mobile devices.</title>
-      <link>//crypt0.net/post/protecting-internal-network-from-mobile-devices/</link>
-      <pubDate>Tue, 06 Jun 2017 05:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/protecting-internal-network-from-mobile-devices/</guid>
-      <description>it loses the protection of perimeter devices like UTM. Then when it comes back &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
