@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Jun 2017 07:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 10:00:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Avanade, Huawei to sell Microsoft Azure Stack appliances</title>
+      <link>//crypt0.net/post/avanade-huawei-to-sell-microsoft-azure-stack-appliances/</link>
+      <pubDate>Wed, 21 Jun 2017 10:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/avanade-huawei-to-sell-microsoft-azure-stack-appliances/</guid>
+      <description>Two more vendors have joined the handful of companies planning to sell Microsoft&amp;rsquo;s Azure Stack hybrid-computing systems. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>MongoDB puts Atlas on AWS, Google Cloud and Microsoft Azure</title>
@@ -5478,16 +5488,6 @@ Getting Started with Google Cloud Functions This article is a technical tutorial
       
       <guid>//crypt0.net/post/routed-attains-vmware-disaster-recovery-as-a-service-powered-status/</guid>
       <description>VMware DRaaS Powered status is backed by VMware vCloud Director. VMware vCloud Availability for vCloud Director enables VMware Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Three new languages added to Azure Media Indexer 2, boosting its</title>
-      <link>//crypt0.net/post/three-new-languages-added-to-azure-media-indexer-2-boosting-its/</link>
-      <pubDate>Tue, 06 Jun 2017 09:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/three-new-languages-added-to-azure-media-indexer-2-boosting-its/</guid>
-      <description>Microsoft has released three new languages to its Azure Media Indexer 2 preview, a speech-to-text product. Russian, British English and Mexican &amp;hellip; more.
 @crypt0net</description>
     </item>
     
