@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Jun 2017 16:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 16:30:08 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Support passing full cloud definition to openstack module cloud parameter</title>
+      <link>//crypt0.net/post/support-passing-full-cloud-definition-to-openstack-module-cloud-parameter/</link>
+      <pubDate>Wed, 21 Jun 2017 16:30:08 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/support-passing-full-cloud-definition-to-openstack-module-cloud-parameter/</guid>
+      <description>that is the name of a cloud defined in clouds.yaml. However &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Bringing AWS Region to Hong Kong</title>
