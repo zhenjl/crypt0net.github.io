@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Jun 2017 14:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 14:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Replaces Cloud Prediction API with Cloud Machine Learning Engine</title>
+      <link>//crypt0.net/post/google-replaces-cloud-prediction-api-with-cloud-machine-learning-engine/</link>
+      <pubDate>Wed, 21 Jun 2017 14:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-replaces-cloud-prediction-api-with-cloud-machine-learning-engine/</guid>
+      <description>Solomon Boulos, who works on Google Cloud, weighs in on a recent YCombinator thread on the topic, stating that the API had been &amp;ldquo;unmaintained for &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Absolute Now Integrated with Microsoft Azure Information Protection</title>
