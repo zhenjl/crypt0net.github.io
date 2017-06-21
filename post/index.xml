@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Jun 2017 22:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 22:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Finally Offers Local Cloud Access For Australian Customers</title>
+      <link>//crypt0.net/post/google-finally-offers-local-cloud-access-for-australian-customers/</link>
+      <pubDate>Wed, 21 Jun 2017 22:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-finally-offers-local-cloud-access-for-australian-customers/</guid>
+      <description>&amp;hellip; App Angine and Cloud Functions aren&amp;rsquo;t yet. You can get a full run down of what&amp;rsquo;s available from the Sydney data centre from Google Cloud Platform &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Protecting Against Stolen Passwords  a Q&amp;A with Steve Tout of VeriClouds</title>
+      <link>//crypt0.net/post/protecting-against-stolen-passwords--a-qa-with-steve-tout-of-vericlouds/</link>
+      <pubDate>Wed, 21 Jun 2017 22:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/protecting-against-stolen-passwords--a-qa-with-steve-tout-of-vericlouds/</guid>
+      <description>IW: Can you provide us with any examples of cases you&amp;rsquo;ve seen where an organization using stolen credentials suffered from a costly data breach? more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Amazon Web Services&#39; new DAX database accelerator juices performance</title>
@@ -1070,16 +1090,6 @@
       <guid>//crypt0.net/post/intel-stops-production-of-joule-galileo-and-edison-development-boards/</guid>
       <description>Intel Edison is a computer on module which is provided by Intel as a development system Internet of Things devices and wearable devices. more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Protecting Against Stolen Passwords  a Q&amp;A with Steve Tout of VeriClouds</title>
-      <link>//crypt0.net/post/protecting-against-stolen-passwords--a-qa-with-steve-tout-of-vericlouds/</link>
-      <pubDate>Wed, 21 Jun 2017 15:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/protecting-against-stolen-passwords--a-qa-with-steve-tout-of-vericlouds/</guid>
-      <description>Relative to the entire amount paid by Verizon for Yahoo, it&amp;rsquo;s a small number, but the absolute value lost is significant as far as data breaches are &amp;hellip; more.
-@trustpath</description>
     </item>
     
     <item>
@@ -17080,16 +17090,6 @@
       <guid>//crypt0.net/post/qtum-introduces-decentralized-governance-protocol-to-manage-blockchain/</guid>
       <description>CryptoNinjas Blockchain application platform Qtum introduced today a Decentralized Governance Protocol (DGP) that allows blockchain parameters to be modified &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Ransomware attack will count as data breach: security pro</title>
-      <link>//crypt0.net/post/ransomware-attack-will-count-as-data-breach-security-pro/</link>
-      <pubDate>Tue, 06 Jun 2017 22:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ransomware-attack-will-count-as-data-breach-security-pro/</guid>
-      <description>Ransomware attacks will be regarded as data breaches under Australia&amp;rsquo;s new data breach legislation that comes into force on 22 February next year, &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
