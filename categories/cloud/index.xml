@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Jun 2017 05:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 06:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MongoDB puts Atlas on AWS, Google Cloud and Microsoft Azure</title>
+      <link>//crypt0.net/post/mongodb-puts-atlas-on-aws-google-cloud-and-microsoft-azure/</link>
+      <pubDate>Wed, 21 Jun 2017 06:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mongodb-puts-atlas-on-aws-google-cloud-and-microsoft-azure/</guid>
+      <description>Sahir Azam, VP of Cloud Products, MongoDB, said: By extending availability of MongoDB Atlas across AWS and now to Google Cloud Platform and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google Cloud hits Aussie; Kiwis to benefit too</title>
