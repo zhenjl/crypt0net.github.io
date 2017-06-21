@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Jun 2017 00:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 00:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google switches on Sydney cloud region, with a subset of services</title>
+      <link>//crypt0.net/post/google-switches-on-sydney-cloud-region-with-a-subset-of-services/</link>
+      <pubDate>Wed, 21 Jun 2017 00:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-switches-on-sydney-cloud-region-with-a-subset-of-services/</guid>
+      <description>Google Cloud Platform&amp;rsquo;s Sydney region is now open for business but missing lots of services the company&amp;rsquo;s cloud offers elsewhere. The company &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Single Data Disks  Up To 4TB With Azure Virtual Machines</title>
@@ -5478,16 +5488,6 @@ Getting Started with Google Cloud Functions This article is a technical tutorial
       
       <guid>//crypt0.net/post/sds-without-openstack--whats-going-on/</guid>
       <description>they&amp;rsquo;re not investing in OpenStack. Are they missing a trick? more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OpenStack, CORD Remain Central to AT&amp;T Virtualization Plans</title>
-      <link>//crypt0.net/post/openstack-cord-remain-central-to-att-virtualization-plans/</link>
-      <pubDate>Tue, 06 Jun 2017 00:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-cord-remain-central-to-att-virtualization-plans/</guid>
-      <description>AT&amp;amp;T may have missed its year-end 2016 goal for deploying its OpenStack-based AT&amp;amp;T Integrated Cloud (AIC) zones, but the carrier remains fully &amp;hellip; more.
 @crypt0net</description>
     </item>
     
