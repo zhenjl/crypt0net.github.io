@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Jun 2017 19:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 19:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Understanding which flavor of LPWAN is right for you</title>
+      <link>//crypt0.net/post/understanding-which-flavor-of-lpwan-is-right-for-you/</link>
+      <pubDate>Wed, 21 Jun 2017 19:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/understanding-which-flavor-of-lpwan-is-right-for-you/</guid>
+      <description>More specifically, LPWAN technologies are designed for machine-to-machine networking environments and have lower power requirements, longer &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>BigchainDB and IPDB Meetup Recap: Privacy on the Blockchain</title>
