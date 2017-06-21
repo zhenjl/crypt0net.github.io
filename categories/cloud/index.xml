@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Jun 2017 19:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 19:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenStack monitoring beyond the Elastic Stack  Part 1: What is OpenStack?</title>
+      <link>//crypt0.net/post/openstack-monitoring-beyond-the-elastic-stack--part-1-what-is-openstack/</link>
+      <pubDate>Wed, 21 Jun 2017 19:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-monitoring-beyond-the-elastic-stack--part-1-what-is-openstack/</guid>
+      <description>We&amp;rsquo;ve been talking a lot about OpenStack over the past few months, and with good reason. Its explosive growth in popularity within the enterprise has &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon and Microsoft just crushed Google and IBM in the latest Gartner</title>

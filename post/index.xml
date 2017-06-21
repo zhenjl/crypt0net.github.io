@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 21 Jun 2017 19:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 19:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenStack monitoring beyond the Elastic Stack  Part 1: What is OpenStack?</title>
+      <link>//crypt0.net/post/openstack-monitoring-beyond-the-elastic-stack--part-1-what-is-openstack/</link>
+      <pubDate>Wed, 21 Jun 2017 19:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-monitoring-beyond-the-elastic-stack--part-1-what-is-openstack/</guid>
+      <description>We&amp;rsquo;ve been talking a lot about OpenStack over the past few months, and with good reason. Its explosive growth in popularity within the enterprise has &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>BigchainDB and IPDB Meetup Recap: Privacy on the Blockchain</title>
@@ -16900,16 +16910,6 @@
       <guid>//crypt0.net/post/turbonomic-taps-into-aws-and-microsoft-to-speed-up-hybrid-cloud-migrations/</guid>
       <description>Dave Stiver, Product Manager, Google Cloud Platform, said in a company blog: Cloud SQL is a fully managed service supporting relational &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Trustwave SIEM Enterprise - SIEM Product Overview and Insight</title>
-      <link>//crypt0.net/post/trustwave-siem-enterprise--siem-product-overview-and-insight/</link>
-      <pubDate>Tue, 06 Jun 2017 19:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/trustwave-siem-enterprise--siem-product-overview-and-insight/</guid>
-      <description>Product description: Trustwave offers log management appliances, &amp;hellip; Its two main SIEM products are SIEM Enterprise and Log Management &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
