@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 22 Jun 2017 10:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 10:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine-to-Machine and Internet of Things Communication Devices</title>
+      <link>//crypt0.net/post/machinetomachine-and-internet-of-things-communication-devices/</link>
+      <pubDate>Thu, 22 Jun 2017 10:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/machinetomachine-and-internet-of-things-communication-devices/</guid>
+      <description>M2M Connectivity supplies components, finished hardware and design services for the growing wireless machine-to-machine (M2M) and internet of &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>MongoDB helps developers stitch backends together more simply</title>
@@ -17090,26 +17100,6 @@
       <guid>//crypt0.net/post/pega-extends-cloud-choice-with-aws-and-microsoft-azure/</guid>
       <description>Las Vegas, NV: Pegasystems Inc. (NASDAQ: PEGA), customer engagement software company, today at PegaWorld announced that it has deepened &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Find Out Current Status, Expected Growth Analysis &amp; Projection of Internet</title>
-      <link>//crypt0.net/post/find-out-current-status-expected-growth-analysis--projection-of-internet/</link>
-      <pubDate>Wed, 07 Jun 2017 10:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/find-out-current-status-expected-growth-analysis--projection-of-internet/</guid>
-      <description>MilTech Internet of Things (IoT) Digital Twinning Market Outlook for IoT enabled Physical to Virtual Mapping and Management 2017 2022 Purchase This &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>SA&#39;s IoT.nxt winner of MTN Internet of Things award</title>
-      <link>//crypt0.net/post/sas-iotnxt-winner-of-mtn-internet-of-things-award/</link>
-      <pubDate>Wed, 07 Jun 2017 10:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sas-iotnxt-winner-of-mtn-internet-of-things-award/</guid>
-      <description>South African Internet of Things (IoT) startup IoT.nxt was named overall winner of the second MTN Internet of Things award event held at the Sandton &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
