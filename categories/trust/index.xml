@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 22 Jun 2017 22:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 22:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Phishing campaign spoofs online auto brand, exposes stolen passwords</title>
+      <link>//crypt0.net/post/phishing-campaign-spoofs-online-auto-brand-exposes-stolen-passwords/</link>
+      <pubDate>Thu, 22 Jun 2017 22:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/phishing-campaign-spoofs-online-auto-brand-exposes-stolen-passwords/</guid>
+      <description>When SophosLabs researchers traced the activity back to the phishing site where stolen credentials were stored, they discovered that its root directory &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Personal security concerns reach new high: Unisys</title>
