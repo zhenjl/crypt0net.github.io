@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 22 Jun 2017 21:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 22:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Personal security concerns reach new high: Unisys</title>
+      <link>//crypt0.net/post/personal-security-concerns-reach-new-high-unisys/</link>
+      <pubDate>Thu, 22 Jun 2017 22:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/personal-security-concerns-reach-new-high-unisys/</guid>
+      <description>&amp;hellip; as safe organisations to do business with - &amp;ldquo;not only in terms of preventing data breaches, but also in terms of minimising the impact on customers.&amp;rdquo;. more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>5 Key Factors When Considering Endpoint Security</title>
@@ -17449,76 +17459,6 @@
       
       <guid>//crypt0.net/post/ixia--te-connectivity-demo-400g-osfp/</guid>
       <description>&amp;hellip; in machine-to-machine traffic and east-west communication in web-scale data centers, said Matt Bergeron, Chief Technology Officer at Ixia. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Is Collaboration Crucial To Blockchain Adoption In FinTech?</title>
-      <link>//crypt0.net/post/is-collaboration-crucial-to-blockchain-adoption-in-fintech/</link>
-      <pubDate>Wed, 07 Jun 2017 22:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/is-collaboration-crucial-to-blockchain-adoption-in-fintech/</guid>
-      <description>New Jersey-based multinational software development firm Cognizant has released the results of a survey investigating blockchain technology&amp;rsquo;s role &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Nevada aspires to be built on blockchain</title>
-      <link>//crypt0.net/post/nevada-aspires-to-be-built-on-blockchain/</link>
-      <pubDate>Wed, 07 Jun 2017 22:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nevada-aspires-to-be-built-on-blockchain/</guid>
-      <description>In the text of the bill, blockchain is clearly defined as an electronic record of transactions or other data which is: 1. Uniformly ordered; 2. redundantly &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Why blockchain is the future of IoT</title>
-      <link>//crypt0.net/post/why-blockchain-is-the-future-of-iot/</link>
-      <pubDate>Wed, 07 Jun 2017 22:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-blockchain-is-the-future-of-iot/</guid>
-      <description>Released as open source software, blockchain is basically a public ledger of all cryptocurrency transactions that have ever been executed. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>GE Digital Urges Partners To Seek Opportunities In The Industrial Internet</title>
-      <link>//crypt0.net/post/ge-digital-urges-partners-to-seek-opportunities-in-the-industrial-internet/</link>
-      <pubDate>Wed, 07 Jun 2017 21:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ge-digital-urges-partners-to-seek-opportunities-in-the-industrial-internet/</guid>
-      <description>CRN In a world that is becoming rapidly digitized, 125-year-old GE has worked hard to reinvent itself from a company that sells lightbulbs and military &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Implementing OpenStack SwiftHLM with IBM Spectrum Archive EE or IBM</title>
-      <link>//crypt0.net/post/implementing-openstack-swifthlm-with-ibm-spectrum-archive-ee-or-ibm/</link>
-      <pubDate>Wed, 07 Jun 2017 21:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/implementing-openstack-swifthlm-with-ibm-spectrum-archive-ee-or-ibm/</guid>
-      <description>The Swift High Latency Media project seeks to create a high-latency storage back end that makes it easier for users to perform bulk operations of data &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Navigating the Internet of Things  Convenience Versus Risk</title>
-      <link>//crypt0.net/post/navigating-the-internet-of-things--convenience-versus-risk/</link>
-      <pubDate>Wed, 07 Jun 2017 21:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/navigating-the-internet-of-things--convenience-versus-risk/</guid>
-      <description>Most Internet of Things (IoT) devices, like the affected IP cameras, come with a basic setup password, such as admin or 1234. Users keep these &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>The Last Mile: Connecting Everything to the Multitude of IoT Clouds</title>
-      <link>//crypt0.net/post/the-last-mile-connecting-everything-to-the-multitude-of-iot-clouds/</link>
-      <pubDate>Wed, 07 Jun 2017 21:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-last-mile-connecting-everything-to-the-multitude-of-iot-clouds/</guid>
-      <description>It&amp;rsquo;s one thing to talk at a high level about connecting billions of devices over the massive Internet of Things. In reality, most devices are not IoT-ready, &amp;hellip; more.
 @surgethings</description>
     </item>
     
