@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 22 Jun 2017 01:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 01:20:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Is Wal-Mart Restricting Vendors from Using Amazon Web Services?</title>
+      <link>//crypt0.net/post/is-walmart-restricting-vendors-from-using-amazon-web-services/</link>
+      <pubDate>Thu, 22 Jun 2017 01:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/is-walmart-restricting-vendors-from-using-amazon-web-services/</guid>
+      <description>Big box retailer Wal-Mart is really trying to make it in the online world and they are letting it be known that they will not be bullied around. Apparently &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>ConnectWise CloudConsole Remotely Manages Microsoft Software</title>
@@ -5749,16 +5759,6 @@ ParkMyCloud Adds Google Cloud Platform to Automated Cost Savings Tool With the a
       
       <guid>//crypt0.net/post/microsoft-extends-azure-active-directory-conditional-access-policies/</guid>
       <description>The Azure Active Directory identity and access management service now supports conditional access policies when used with Microsoft Teams, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Releases New Version of Spinnaker Cloud Code Update Platform</title>
-      <link>//crypt0.net/post/google-releases-new-version-of-spinnaker-cloud-code-update-platform/</link>
-      <pubDate>Wed, 07 Jun 2017 01:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-releases-new-version-of-spinnaker-cloud-code-update-platform/</guid>
-      <description>It also supports Amazon&amp;rsquo;s AWS EC2, Microsoft Azure and OpenStack cloud platforms. The platform enables the creation of custom software &amp;hellip; more.
 @crypt0net</description>
     </item>
     
