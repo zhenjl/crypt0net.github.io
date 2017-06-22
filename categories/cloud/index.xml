@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 22 Jun 2017 10:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2017 10:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MongoDB helps developers stitch backends together more simply</title>
+      <link>//crypt0.net/post/mongodb-helps-developers-stitch-backends-together-more-simply/</link>
+      <pubDate>Thu, 22 Jun 2017 10:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mongodb-helps-developers-stitch-backends-together-more-simply/</guid>
+      <description>Atlas also received an update though, allowing developers to run their clouds on Microsoft Azure and Google Cloud Platform in addition to AWS. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>US: Walmart Warns Partners Away From Amazon Web Services</title>
