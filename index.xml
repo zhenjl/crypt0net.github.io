@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 23 Jun 2017 07:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2017 07:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Tech Forum] Microsoft Azure App Service</title>
+      <link>//crypt0.net/post/tech-forum-microsoft-azure-app-service/</link>
+      <pubDate>Fri, 23 Jun 2017 07:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/tech-forum-microsoft-azure-app-service/</guid>
+      <description>Check out what&amp;rsquo;s happening in your area. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>MongoDB Stitches New Backend Database for the Cloud</title>
