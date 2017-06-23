@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 23 Jun 2017 11:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2017 11:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Uninstalling Endpoint Protection fails with The MSI Terminated</title>
+      <link>//crypt0.net/post/uninstalling-endpoint-protection-fails-with-the-msi-terminated/</link>
+      <pubDate>Fri, 23 Jun 2017 11:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/uninstalling-endpoint-protection-fails-with-the-msi-terminated/</guid>
+      <description>Uninstalling Endpoint Protection fails with &amp;ldquo;The MSI Terminated Unexpectedly&amp;rdquo;. I am in the trial period for Sophos Cloud Endpoint. I am trying to &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>How to go threat hunting: the thrill of the hunt</title>
