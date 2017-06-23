@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 23 Jun 2017 04:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2017 04:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,20 @@
     <item>
       <title>Amazon adds Hyper-V file support to its storage gateway</title>
       <link>//crypt0.net/post/amazon-adds-hyperv-file-support-to-its-storage-gateway/</link>
-      <pubDate>Fri, 23 Jun 2017 04:00:02 +0000</pubDate>
+      <pubDate>Fri, 23 Jun 2017 04:20:02 +0000</pubDate>
       
       <guid>//crypt0.net/post/amazon-adds-hyperv-file-support-to-its-storage-gateway/</guid>
-      <description>Microsoft, by contrast, is gaining strength in the cloud by the day and its Azure Stack looks like re-defining hybrid cloud by making the on-premises &amp;hellip; more.
+      <description>Amazon Web Services dominates the public cloud, but its hybrid cloud story is currently weak. Microsoft, by contrast, is gaining strength in the cloud by &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>MongoDB helps developers stitch services together</title>
+      <link>//crypt0.net/post/mongodb-helps-developers-stitch-services-together/</link>
+      <pubDate>Fri, 23 Jun 2017 04:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mongodb-helps-developers-stitch-services-together/</guid>
+      <description>Integrations already exist with Google, Facebook, Amazon Web Services (AWS), Twilio, Slack, MailGun and messaging API specialist PubNub, but &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -17957,26 +17967,6 @@ Unsecured devices weakest link in data security With ESET Endpoint Protection, y
       <guid>//crypt0.net/post/experts-spread-awareness-of-cyber-security-threats-that-may-be-inside-your/</guid>
       <description>whnt.com It is a company that specializes in identifying all the devices connected to the internet. It explores the &amp;ldquo;internet of things.&amp;rdquo; &amp;ldquo;If you know how to look, you &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>NetApp integrates Microsoft Azure with its proven Data Fabric innovations</title>
-      <link>//crypt0.net/post/netapp-integrates-microsoft-azure-with-its-proven-data-fabric-innovations/</link>
-      <pubDate>Thu, 08 Jun 2017 04:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/netapp-integrates-microsoft-azure-with-its-proven-data-fabric-innovations/</guid>
-      <description>CTR NetApp announced plans to expand its strategic alliance with Microsoft to help enterprises accelerate digital transformation for hybrid cloud. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>IDG Ventures partners AWS, Unilever Ventures to invest in early-stage tech</title>
-      <link>//crypt0.net/post/idg-ventures-partners-aws-unilever-ventures-to-invest-in-earlystage-tech/</link>
-      <pubDate>Thu, 08 Jun 2017 04:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/idg-ventures-partners-aws-unilever-ventures-to-invest-in-earlystage-tech/</guid>
-      <description>ETtech.com &amp;hellip; and private equity arm of Unilever, and Amazon Internet Services (AISPL), the Indian affiliate of Seattle-headquartered Amazon Web Services. more.
-@crypt0net</description>
     </item>
     
     <item>
