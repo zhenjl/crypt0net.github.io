@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 23 Jun 2017 08:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2017 09:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What to read to understand issues around Securing Data in the Cloud </title>
+      <link>//crypt0.net/post/what-to-read-to-understand-issues-around-securing-data-in-the-cloud/</link>
+      <pubDate>Fri, 23 Jun 2017 09:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/what-to-read-to-understand-issues-around-securing-data-in-the-cloud/</guid>
+      <description>MediaNama.com We&amp;rsquo;ve reported about data breaches (for example, from Zomato, Axis Bank and SBI), and irresponsible practices, such as from the government of India &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Google Cloud Connector Not Retrieving Repositories</title>
