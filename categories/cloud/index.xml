@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 23 Jun 2017 18:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2017 19:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Traditional app migration to public cloud bringing unexpected issues</title>
+      <link>//crypt0.net/post/traditional-app-migration-to-public-cloud-bringing-unexpected-issues/</link>
+      <pubDate>Fri, 23 Jun 2017 19:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/traditional-app-migration-to-public-cloud-bringing-unexpected-issues/</guid>
+      <description>&amp;ldquo;Amazon Web Services [AWS] has a large ecosystem of support teams and providers that facilitate the migration, consult on migration, andtry to &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google will stop scanning your Gmail messages to sell targeted ads</title>
@@ -5949,56 +5959,6 @@ OPC UA Technology Updates Include Microsoft Collaboration New developments inclu
       
       <guid>//crypt0.net/post/aws-looks-to-help-clients-give-legacy-systems-the-boot/</guid>
       <description>For a guy that works at an IT infrastructure provider, Stephen Orban, head of enterprise strategy at Amazon Web Services (AWS), spends an awful lot &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Scenes from GeekWire&#39;s first-ever Cloud Tech Summit in &#39;the cloud capital</title>
-      <link>//crypt0.net/post/scenes-from-geekwires-firstever-cloud-tech-summit-in-the-cloud-capital/</link>
-      <pubDate>Thu, 08 Jun 2017 19:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/scenes-from-geekwires-firstever-cloud-tech-summit-in-the-cloud-capital/</guid>
-      <description>GeekWire Fortune senior writer Barb Darrow interviewes Greg DeMichillie, Google&amp;rsquo;s director of product management, office of the CTO, Google Cloud. A break &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Citrix: Simplify Windows 10 Migration and Management</title>
-      <link>//crypt0.net/post/citrix-simplify-windows-10-migration-and-management/</link>
-      <pubDate>Thu, 08 Jun 2017 19:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/citrix-simplify-windows-10-migration-and-management/</guid>
-      <description>Citrix XenDesktop Essentials Service accelerates Windows 10 Enterprise migration for customers who prefer Microsoft Azure cloud solutions. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure on a roll as more companies adopt multi-cloud models</title>
-      <link>//crypt0.net/post/microsoft-azure-on-a-roll-as-more-companies-adopt-multicloud-models/</link>
-      <pubDate>Thu, 08 Jun 2017 19:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-on-a-roll-as-more-companies-adopt-multicloud-models/</guid>
-      <description>About 76% of Apptio customers are using Amazon Web Services, while 52% are using Microsoft&amp;rsquo;s Azure platform, according to Apptio co-founder and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OPC UA Technology Updates Include Microsoft Collaboration</title>
-      <link>//crypt0.net/post/opc-ua-technology-updates-include-microsoft-collaboration/</link>
-      <pubDate>Thu, 08 Jun 2017 19:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/opc-ua-technology-updates-include-microsoft-collaboration/</guid>
-      <description>New developments include Azure IoT connectivity, an Industry 4.0 security analysis, a new European certification lab and Microsoft contributing an &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Smartsheet Hires Amazon Web Services Exec to Help Drive Product</title>
-      <link>//crypt0.net/post/smartsheet-hires-amazon-web-services-exec-to-help-drive-product/</link>
-      <pubDate>Thu, 08 Jun 2017 19:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/smartsheet-hires-amazon-web-services-exec-to-help-drive-product/</guid>
-      <description>president of enterprise applications. In his new position at Smartsheet, &amp;hellip; more.
 @crypt0net</description>
     </item>
     
