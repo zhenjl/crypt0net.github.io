@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 24 Jun 2017 10:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jun 2017 12:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Online Simulator for Raspberry Pi.</title>
+      <link>//crypt0.net/post/microsoft-online-simulator-for-raspberry-pi/</link>
+      <pubDate>Sat, 24 Jun 2017 12:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-online-simulator-for-raspberry-pi/</guid>
+      <description>There is a tutorial on how to run this code which is been provided by Microsoft. Users will have to sign into Microsoft Azure Internet of Things Hub and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Mirantis OpenStack Exam by Stephan S</title>
@@ -5909,16 +5919,6 @@ OPC UA Technology Updates Include Microsoft Collaboration New developments inclu
       
       <guid>//crypt0.net/post/amazon-kills-off-its-60-unlimited-annual-cloud-storage-deal/</guid>
       <description>The move followed unlimited storage offers from Microsoft and Google, which put Amazon Web Services infrastructure in more direct competition with &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Huawei &amp; Avanade expand hybrid cloud portfolios with Microsoft Azure Stack</title>
-      <link>//crypt0.net/post/huawei--avanade-expand-hybrid-cloud-portfolios-with-microsoft-azure-stack/</link>
-      <pubDate>Fri, 09 Jun 2017 11:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/huawei--avanade-expand-hybrid-cloud-portfolios-with-microsoft-azure-stack/</guid>
-      <description>Huawei has unveiled plans to expand its server product offering by delivering a Hybrid Cloud solution for Microsoft&amp;rsquo;s Azure Stack. Microsoft&amp;rsquo;s hybrid &amp;hellip; more.
 @crypt0net</description>
     </item>
     
