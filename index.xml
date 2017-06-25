@@ -7,10 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 25 Jun 2017 17:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jun 2017 18:05:01 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Cloud Computing News from @cloudfeednet - Jun 25, 2017</title>
+      <link>//crypt0.net/daily/daily-cloud-news-2017-06-25/</link>
+      <pubDate>Sun, 25 Jun 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-cloud-news-2017-06-25/</guid>
+      <description>Daily Cloud Computing news from @cloudfeednet.
+Google will no longer use data from personal Gmail accounts for advertising &amp;hellip; that Google will keep privacy and security paramount as we continue to innovate, Diane Greene, the head of Google Cloud, wrote in a blog post. more.
+Google will stop snooping on your emails to target ads at you This likely won&amp;rsquo;t tilt the playing field much, but G Suite is already a Trojan horse for Google Cloud.</description>
+    </item>
+    
+    <item>
+      <title>Daily IoT/Blockchain News from @surgethings - Jun 25, 2017</title>
+      <link>//crypt0.net/daily/daily-iot-news-2017-06-25/</link>
+      <pubDate>Sun, 25 Jun 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-iot-news-2017-06-25/</guid>
+      <description>Daily IoT/Blockchain news from @surgethings.
+What Are Cryptocurrency Debit Cards, Explained Cryptocurrency debit cards are a relatively recent development in the Blockchain world. They were invented to solve the problem of using digital coins &amp;hellip; more.
+Dubai Could As Well Receive the &amp;lsquo;Blockchain City&amp;rsquo; Title The Dubai government&amp;rsquo;s initiatives in the recent days to promote and implement blockchain technology makes it the forerunner in blockchain adoption. more.
+What is Proof of Elapsed Time?</description>
+    </item>
+    
+    <item>
+      <title>Daily Security News from @trustpath - Jun 25, 2017</title>
+      <link>//crypt0.net/daily/daily-trust-news-2017-06-25/</link>
+      <pubDate>Sun, 25 Jun 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-trust-news-2017-06-25/</guid>
+      <description>Daily Security news from @trustpath.
+Dennis Horton: Cybercrime on the rise Many of these incidents occurred either through data breaches or hacktivity but it can also happen in other ways as well. An increase in PII theft is &amp;hellip; more.
+Medical records won&amp;rsquo;t show on Google The decision to remove medical records comes after several high-profile data breaches around the world. (Photo:AFP/Representational Image). more.
+What it will take for cybersecurity to become common sense In 2016, Keeper Security looked at 10 million passwords stolen in data breaches, and 1,700,000 of them were &amp;ldquo;123456.</description>
+    </item>
     
     <item>
       <title>Bug #1700362 nova boot instance from volume not support specify...</title>
