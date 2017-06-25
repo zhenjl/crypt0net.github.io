@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 25 Jun 2017 21:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jun 2017 22:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is Web Application Firewall (WAF)</title>
+      <link>//crypt0.net/post/what-is-web-application-firewall-waf/</link>
+      <pubDate>Sun, 25 Jun 2017 22:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/what-is-web-application-firewall-waf/</guid>
+      <description>A. Azure has long had its layer 7 Application Gateway solution and this has been enhanced with an optional Web Application Firewall (WAF) capability &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Bug #1700325 horizon plugin framework: cannot override default ...</title>
