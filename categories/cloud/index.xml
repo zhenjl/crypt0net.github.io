@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 25 Jun 2017 22:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2017 00:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google to stop scanning private emails for personalised Gmail ads</title>
+      <link>//crypt0.net/post/google-to-stop-scanning-private-emails-for-personalised-gmail-ads/</link>
+      <pubDate>Mon, 26 Jun 2017 00:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-to-stop-scanning-private-emails-for-personalised-gmail-ads/</guid>
+      <description>The decision wasn&amp;rsquo;t made by Google&amp;rsquo;s advertising department, but comes as Google looks to sell more Google Cloud packages, known as &amp;lsquo;G Suite&amp;rsquo;, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>What is Web Application Firewall (WAF)</title>
@@ -5859,16 +5869,6 @@ Microsoft: Top 5 mistakes when people talk about Azure Diary of a Rocker DABCC.c
       
       <guid>//crypt0.net/post/joseph-george-on-datacenter-trends-that-are-reshaping-hpc/</guid>
       <description>&amp;hellip; at SUSE, specifically focused on tackling specific customer challenges with engineered solutions by leveraging OpenStack, Ceph, Linux, and more. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>System Center Configuration Manager Technical Preview gets update 1705</title>
-      <link>//crypt0.net/post/system-center-configuration-manager-technical-preview-gets-update-1705/</link>
-      <pubDate>Sun, 11 Jun 2017 00:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/system-center-configuration-manager-technical-preview-gets-update-1705/</guid>
-      <description>Microsoft recently announced the launch of Update 1705 targeted at the &amp;hellip; and Azure AD and install and register CM clients with Azure AD identities. more.
 @crypt0net</description>
     </item>
     
