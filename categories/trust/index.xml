@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 26 Jun 2017 18:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2017 19:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ExtraHop Adds Application-Level Visibility to Cisco Tetration</title>
+      <link>//crypt0.net/post/extrahop-adds-applicationlevel-visibility-to-cisco-tetration/</link>
+      <pubDate>Mon, 26 Jun 2017 19:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/extrahop-adds-applicationlevel-visibility-to-cisco-tetration/</guid>
+      <description>Cisco Tetration provides security policy enforcement for zero-trust implementations, detecting anomalous network behavior and automatically &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Free security solution will block malware, zero-day attacks</title>
@@ -171,16 +181,6 @@ How cyber insurance helps you deal with a data breach [Infographic] [drocpap]D[/
       
       <guid>//crypt0.net/post/you-wont-be-able-to-access-tumblr-yahoo-services-from-att-email/</guid>
       <description>Neowin &amp;hellip; ever since its announcement, which was followed by months of NSA-related drama that revealed data breaches of up to 500 million user accounts. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>ExtraHop Adds Application-Level Visibility to Cisco Tetration</title>
-      <link>//crypt0.net/post/extrahop-adds-applicationlevel-visibility-to-cisco-tetration/</link>
-      <pubDate>Mon, 26 Jun 2017 12:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/extrahop-adds-applicationlevel-visibility-to-cisco-tetration/</guid>
-      <description>&amp;hellip; customers can now realize the benefits of network traffic analysis for security. By combining industry-leading behavioral analytics, machine learning, &amp;hellip; more.
 @trustpath</description>
     </item>
     
