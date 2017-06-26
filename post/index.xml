@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 26 Jun 2017 17:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2017 18:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An update to openstack-nova-2015.1.4-36.el7ost causes several issues in</title>
+      <link>//crypt0.net/post/an-update-to-openstacknova20151436el7ost-causes-several-issues-in/</link>
+      <pubDate>Mon, 26 Jun 2017 18:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/an-update-to-openstacknova20151436el7ost-causes-several-issues-in/</guid>
+      <description>An update to openstack-nova-2015.1.4-36.el7ost causes several issue in nova side. In single path environment, nova-compute might hang during &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>BackupAssist Launches MSP Program and as-a-Service Product</title>
+      <link>//crypt0.net/post/backupassist-launches-msp-program-and-asaservice-product/</link>
+      <pubDate>Mon, 26 Jun 2017 18:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/backupassist-launches-msp-program-and-asaservice-product/</guid>
+      <description>Last month, BackupAssist [Version] 10, with new cloud independent i.e. Amazon S3 or Microsoft Azure backup features, was released. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Bug #1700583 No volume Block Device Mapping in assisted snapsho...</title>
+      <link>//crypt0.net/post/bug-1700583-no-volume-block-device-mapping-in-assisted-snapsho/</link>
+      <pubDate>Mon, 26 Jun 2017 18:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1700583-no-volume-block-device-mapping-in-assisted-snapsho/</guid>
+      <description>an error during assisted snapshots in four tests: &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google vs. Apple: When Your Computer Breaks, Where Are You Better Off?</title>
@@ -18220,16 +18250,6 @@
       <guid>//crypt0.net/post/taiwan-semiconductor-a-proxy-for-the-internet-of-things/</guid>
       <description>Taiwan Semiconductor: A Proxy For The Internet Of Things. Jun.11.17 | About: Taiwan Semiconductor (TSM) Ravi Parikh. Deep Value, contrarian &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>GameStop Alerts Customers About Potential Credit Card Information Theft</title>
-      <link>//crypt0.net/post/gamestop-alerts-customers-about-potential-credit-card-information-theft/</link>
-      <pubDate>Sun, 11 Jun 2017 18:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/gamestop-alerts-customers-about-potential-credit-card-information-theft/</guid>
-      <description>Contrary to what some people may want to believe, these types of data breaches are not becoming less common, though. The latest company to report &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
