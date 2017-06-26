@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 26 Jun 2017 07:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2017 07:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The REX blockchain-based MLS platform</title>
+      <link>//crypt0.net/post/the-rex-blockchainbased-mls-platform/</link>
+      <pubDate>Mon, 26 Jun 2017 07:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-rex-blockchainbased-mls-platform/</guid>
+      <description>Blockchain-based property listing and transaction platform, REX has announced an upcoming token sale for its REX blockchain-based MLS platform. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Fog Computing in Medical Internet-of-Things: Architecture, Implementation</title>
