@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 26 Jun 2017 23:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2017 23:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Another RCE Vulnerability Patched in Microsoft Malware Protection Engine</title>
+      <link>//crypt0.net/post/another-rce-vulnerability-patched-in-microsoft-malware-protection-engine/</link>
+      <pubDate>Mon, 26 Jun 2017 23:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/another-rce-vulnerability-patched-in-microsoft-malware-protection-engine/</guid>
+      <description>The engine is part of a number of Microsoft security products, including Microsoft Endpoint Protection, Microsoft Forefront Endpoint Protection, &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>New Zealanders&#39; Security Concerns Reach New Peak</title>
