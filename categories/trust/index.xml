@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 27 Jun 2017 17:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 18:05:01 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Security News from @trustpath - Jun 27, 2017</title>
+      <link>//crypt0.net/daily/daily-trust-news-2017-06-27/</link>
+      <pubDate>Tue, 27 Jun 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-trust-news-2017-06-27/</guid>
+      <description>Daily Security news from @trustpath.
+ExtraHop Adds Application-Level Visibility to Cisco Tetration Cisco Tetration provides security policy enforcement for zero-trust implementations, detecting anomalous network behavior and automatically &amp;hellip; more.
+Free security solution will block malware, zero-day attacks &amp;ldquo;When aggregated with Comodo&amp;rsquo;s global threat intelligence and managed threat hunting services, information collected from this ultra-lightweight &amp;hellip; more.
+Santander steps up data centre security to protect 36 million customers Data Economy The bank has selected internal data centre security and breach detection company GuardiCore, which has been tasked with providing its Centra &amp;hellip; more.</description>
+    </item>
     
     <item>
       <title>Microsoft plugs another critical hole in Windows Defender</title>
