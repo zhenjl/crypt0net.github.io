@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 27 Jun 2017 17:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 17:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenStack monitoring beyond the Elastic Stack</title>
+      <link>//crypt0.net/post/openstack-monitoring-beyond-the-elastic-stack/</link>
+      <pubDate>Tue, 27 Jun 2017 17:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-monitoring-beyond-the-elastic-stack/</guid>
+      <description>options are to set up a monitoring tool for OpenStack. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Domo Heads to AWS Global Summit 2017 to Demonstrate How Business Decision</title>
