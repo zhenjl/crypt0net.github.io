@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 27 Jun 2017 02:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 02:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Pokemon Go needed a Kubernetes powered Java cloud</title>
+      <link>//crypt0.net/post/how-pokemon-go-needed-a-kubernetes-powered-java-cloud/</link>
+      <pubDate>Tue, 27 Jun 2017 02:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-pokemon-go-needed-a-kubernetes-powered-java-cloud/</guid>
+      <description>Wu said a component of their scaling strategy was its heavy reliance on creating a Java cloud with the Google Cloud Bigtable NoSQL database, along &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>ISTE 2017: IoT Use Can Save Money and Boost Security [#Infographic]</title>
+      <link>//crypt0.net/post/iste-2017-iot-use-can-save-money-and-boost-security-infographic/</link>
+      <pubDate>Tue, 27 Jun 2017 02:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/iste-2017-iot-use-can-save-money-and-boost-security-infographic/</guid>
+      <description>The Internet of Things has major possibilities in education, from more efficient thermostats to engagement-monitoring wearables. Today, in conjunction &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>More Microsoft services certified to handle Australian government data</title>
