@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 27 Jun 2017 06:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 06:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1700700  Replace neutron module with os_network and os_sub... : Bugs</title>
+      <link>//crypt0.net/post/bug-1700700--replace-neutron-module-with-osnetwork-and-ossub--bugs/</link>
+      <pubDate>Tue, 27 Jun 2017 06:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1700700--replace-neutron-module-with-osnetwork-and-ossub--bugs/</guid>
+      <description>The neutron library has been removed[0] in openstack-ansible-plugins. We can use standard ansible module instead. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Global Sensors in Internet of Things Market Assessment Report</title>
