@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 27 Jun 2017 04:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 05:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Additional Microsoft services certified to handle &#39;sensitive&#39; data</title>
+      <link>//crypt0.net/post/additional-microsoft-services-certified-to-handle-sensitive-data/</link>
+      <pubDate>Tue, 27 Jun 2017 05:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/additional-microsoft-services-certified-to-handle-sensitive-data/</guid>
+      <description>The Australian Signals Directorate has formally certified 40 Microsoft Azure and Office 365 services for inclusion on its ASD Certified Cloud Services &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>OpenStack Down Under  OpenStack Days Australia 2017</title>
@@ -6469,16 +6479,6 @@ Chrome OS Can Finally Use Printers without the Cloud While the process sounds li
       
       <guid>//crypt0.net/post/expand-your-storage-spacetop-10-cloud-storage-and-backup-applications/</guid>
       <description>Google Drive is Google&amp;rsquo;s cloud storage service, and most of you are probably familiar with it. Quite a few Android users rely on Google Drive, and the &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>XenApp/XenDesktop &#43; Office 365: Citrix&#39;s data on optimal user experience</title>
-      <link>//crypt0.net/post/xenappxendesktop--office-365-citrixs-data-on-optimal-user-experience/</link>
-      <pubDate>Mon, 12 Jun 2017 05:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/xenappxendesktop--office-365-citrixs-data-on-optimal-user-experience/</guid>
-      <description>Citrix put this and other scenarios into their labs and produced an awesome white paper entitled, Deployment Guide | Microsoft Office 365 for Citrix &amp;hellip; more.
 @crypt0net</description>
     </item>
     
