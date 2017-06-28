@@ -7,10 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Jun 2017 23:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 23:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Continuous monitoring in the cloud: Two steps to make it a reality</title>
+      <link>//crypt0.net/post/continuous-monitoring-in-the-cloud-two-steps-to-make-it-a-reality/</link>
+      <pubDate>Wed, 28 Jun 2017 23:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/continuous-monitoring-in-the-cloud-two-steps-to-make-it-a-reality/</guid>
+      <description>A number of tools for storing and monitoring logs are now available through Microsoft Azure Security Center or with AWS Lambda and AWS Config. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Customizing the OpenStack Compute (nova) Scheduler...</title>
+      <link>//crypt0.net/post/customizing-the-openstack-compute-nova-scheduler/</link>
+      <pubDate>Wed, 28 Jun 2017 23:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/customizing-the-openstack-compute-nova-scheduler/</guid>
+      <description>cc281cac69483977f3eed49f03f9bfac850cd7f0 Source: https://git.openstack.org/cgit/openstack... more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>E&amp;I Cooperative Services Opens Nominations for Inaugural Cloud Leadership</title>
+      <link>//crypt0.net/post/ei-cooperative-services-opens-nominations-for-inaugural-cloud-leadership/</link>
+      <pubDate>Wed, 28 Jun 2017 23:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/ei-cooperative-services-opens-nominations-for-inaugural-cloud-leadership/</guid>
+      <description>Broadway World E&amp;amp;I Cooperative Services Opens Nominations for Inaugural Cloud Leadership Awards supported by Adobe, Cisco, Microsoft Azure and CDW&amp;ndash;G. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Platform, Nutanix forge hybrid cloud strategic pact</title>
+      <link>//crypt0.net/post/google-cloud-platform-nutanix-forge-hybrid-cloud-strategic-pact/</link>
+      <pubDate>Wed, 28 Jun 2017 23:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-platform-nutanix-forge-hybrid-cloud-strategic-pact/</guid>
+      <description>Under the partnership, Google Cloud and Nutanix joint customers will be able to manage on-premises and public cloud infrastructure as one unified &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Nutanix Teams Up with Google Cloud to Fuse Cloud Environments for</title>
+      <link>//crypt0.net/post/nutanix-teams-up-with-google-cloud-to-fuse-cloud-environments-for/</link>
+      <pubDate>Wed, 28 Jun 2017 23:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/nutanix-teams-up-with-google-cloud-to-fuse-cloud-environments-for/</guid>
+      <description>Traditional and cloud-native applications can be provisioned into Google Cloud Platform (GCP) or on-premise Nutanix cloud environments with a &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Nutanix launches management stack for multiple clouds</title>
@@ -689,16 +739,6 @@ Box to use Azure as strategic public cloud platform via extended Microsoft Box I
       
       <guid>//crypt0.net/post/global-mapper-sdk-and-lidar-module-sdk-v182-released-with-support-for/</guid>
       <description>DirectionsMag.com (press release) &amp;hellip; include support for read and write access to cloud-based data using Amazon&amp;rsquo;s Simple Storage Service (Amazon S3), part of Amazon Web Services. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>E&amp;I Cooperative Services Opens Nominations for Inaugural Cloud Leadership</title>
-      <link>//crypt0.net/post/ei-cooperative-services-opens-nominations-for-inaugural-cloud-leadership/</link>
-      <pubDate>Tue, 27 Jun 2017 22:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ei-cooperative-services-opens-nominations-for-inaugural-cloud-leadership/</guid>
-      <description>PR Newswire (press release) E&amp;amp;I Cooperative Services Opens Nominations for Inaugural Cloud Leadership Awards supported by Adobe, Cisco, Microsoft Azure and CDWG. more.
 @crypt0net</description>
     </item>
     
@@ -7059,26 +7099,6 @@ Microsoft brings IoT tools to Azure Government cloud Microsoft&amp;rsquo;s Inter
       
       <guid>//crypt0.net/post/aws-prepping-second-govcloud-region-in-eastern-us/</guid>
       <description>Amazon Web Services will expand the secured and compliant infrastructure it offers customers in the public sector and highly regulated industries, the &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services&#39; GovCloud customers will have an East Coast region</title>
-      <link>//crypt0.net/post/amazon-web-services-govcloud-customers-will-have-an-east-coast-region/</link>
-      <pubDate>Tue, 13 Jun 2017 23:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-web-services-govcloud-customers-will-have-an-east-coast-region/</guid>
-      <description>GeekWire Amazon Web Services will open a second region for its CloudGov customers next year, moving its government-services cloud closer to the home of &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft continues open source lovefest with new Cloud Foundry features</title>
-      <link>//crypt0.net/post/microsoft-continues-open-source-lovefest-with-new-cloud-foundry-features/</link>
-      <pubDate>Tue, 13 Jun 2017 23:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-continues-open-source-lovefest-with-new-cloud-foundry-features/</guid>
-      <description>&amp;hellip; Cloud Foundry makes a lot of sense for Microsoft, since it&amp;rsquo;s locked in tight competition for cloud adoption with Amazon Web Services, Google Cloud, &amp;hellip; more.
 @crypt0net</description>
     </item>
     
