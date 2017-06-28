@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Jun 2017 19:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 19:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google tackles hybrid cloud with Nutanix partnership</title>
+      <link>//crypt0.net/post/google-tackles-hybrid-cloud-with-nutanix-partnership/</link>
+      <pubDate>Wed, 28 Jun 2017 19:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-tackles-hybrid-cloud-with-nutanix-partnership/</guid>
+      <description>WASHINGTON D.C. Google is giving its G-Suite cloud platform more firepower in the fight against AWS and Microsoft Azure with its new partnership &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Reportedly Launching A Language Translation Service</title>
@@ -110,16 +120,6 @@ Box to use Azure as strategic public cloud platform via extended Microsoft Box I
       
       <guid>//crypt0.net/post/microsoft-azure-active-directory-connect-cve20178613-remote-privilege/</guid>
       <description>Bugtraq ID: 99294. Class: Configuration Error. CVE: CVE-2017-8613. Remote: Yes. Local: No. Published: Jun 27 2017 12:00AM. Updated: Jun 27 &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google tackles hybrid cloud with Nutanix partnership</title>
-      <link>//crypt0.net/post/google-tackles-hybrid-cloud-with-nutanix-partnership/</link>
-      <pubDate>Wed, 28 Jun 2017 17:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-tackles-hybrid-cloud-with-nutanix-partnership/</guid>
-      <description>With Nutanix on board, the Google Cloud platform will now have hybrid cloud capabilities through the Nutanix Enterprise Cloud. Google&amp;rsquo;s head of &amp;hellip; more.
 @crypt0net</description>
     </item>
     
