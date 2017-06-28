@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Jun 2017 14:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 15:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Webinar: How to upgrade your OpenStack cloud easily, without downtime</title>
+      <link>//crypt0.net/post/webinar-how-to-upgrade-your-openstack-cloud-easily-without-downtime/</link>
+      <pubDate>Wed, 28 Jun 2017 15:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/webinar-how-to-upgrade-your-openstack-cloud-easily-without-downtime/</guid>
+      <description>old unsupported versions of OpenStack, forgoing new features and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Web Services - why our cloud superpowers can take your business</title>
