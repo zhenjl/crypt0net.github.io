@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Jun 2017 05:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 06:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>High availability of live migration with OpenStack: a report</title>
+      <link>//crypt0.net/post/high-availability-of-live-migration-with-openstack-a-report/</link>
+      <pubDate>Wed, 28 Jun 2017 06:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/high-availability-of-live-migration-with-openstack-a-report/</guid>
+      <description>find the best way to move forward with non-impacting cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Download Microsoft IT reinvents sales processing and financial reporting</title>
