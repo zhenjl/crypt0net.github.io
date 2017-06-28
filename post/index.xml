@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Jun 2017 21:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 21:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Issues &#39;Important&#39; Security Fix for Azure AD Connect</title>
+      <link>//crypt0.net/post/microsoft-issues-important-security-fix-for-azure-ad-connect/</link>
+      <pubDate>Wed, 28 Jun 2017 21:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-issues-important-security-fix-for-azure-ad-connect/</guid>
+      <description>Microsoft is warning customers of a bug in its Azure Active Directory Connect product that could allow an adversary to escalate privileges and reset &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Q&amp;A: All of Us Data Center Ramps Up With Lofty Goals, Technical Challenges</title>
+      <link>//crypt0.net/post/qa-all-of-us-data-center-ramps-up-with-lofty-goals-technical-challenges/</link>
+      <pubDate>Wed, 28 Jun 2017 21:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/qa-all-of-us-data-center-ramps-up-with-lofty-goals-technical-challenges/</guid>
+      <description>Everything is being stored in Google Cloud, supported by numerous other technologies. For example, Vanderbilt is developing computational tools, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Symantec Endpoint protection v12 to 14. Problem updating clients.</title>
