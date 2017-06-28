@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Jun 2017 23:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 23:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Windows Telemetry Exposes Nasty Petya Ransomware Spreading</title>
+      <link>//crypt0.net/post/microsoft-windows-telemetry-exposes-nasty-petya-ransomware-spreading/</link>
+      <pubDate>Wed, 28 Jun 2017 23:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-windows-telemetry-exposes-nasty-petya-ransomware-spreading/</guid>
+      <description>Hot Hardware With stolen credentials in hand, the ransomware gets busy trying to spread across multiple PCs on the network. It has multiple tricks to aid with lateral &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Data Breaches Most Expensive For Health Care Industry But Precautionary</title>
