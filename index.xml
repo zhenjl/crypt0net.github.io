@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Jun 2017 03:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 03:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>5 of the biggest cybersecurity risks surrounding IoT development</title>
+      <link>//crypt0.net/post/5-of-the-biggest-cybersecurity-risks-surrounding-iot-development/</link>
+      <pubDate>Wed, 28 Jun 2017 03:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/5-of-the-biggest-cybersecurity-risks-surrounding-iot-development/</guid>
+      <description>The Internet of Things is permeating every facet of our lives. It brings with it new cybersecurity risks for developers to consider. more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>ForeScout Extends Security and Compliance Reach</title>
+      <link>//crypt0.net/post/forescout-extends-security-and-compliance-reach/</link>
+      <pubDate>Wed, 28 Jun 2017 03:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/forescout-extends-security-and-compliance-reach/</guid>
+      <description>&amp;hellip; to provide IT organizations with visibility into and control over both distributed endpoints and public clouds such as Amazon Web Services (AWS). more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>How to protect your computer against the latest ransomware attack</title>
+      <link>//crypt0.net/post/how-to-protect-your-computer-against-the-latest-ransomware-attack/</link>
+      <pubDate>Wed, 28 Jun 2017 03:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-protect-your-computer-against-the-latest-ransomware-attack/</guid>
+      <description>&amp;hellip; says it has been assumed the ransomware is spreading from machine to machine using a vulnerability called EternalBlue in Microsoft&amp;rsquo;s file and print &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Anthem Agrees to Pay Over $100 Million to Settle Data Breach Lawsuit:</title>
@@ -19904,56 +19934,6 @@ Gartner Announces Winners of the Gartner Peer Insights Customer Choice Business 
       
       <guid>//crypt0.net/post/internet-of-things-security-introduction-for-fire-ems-leaders/</guid>
       <description>cybersecurity expert offers a soup-to-nuts IoT security guide for every organization, &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services is planning a big expansion in Northern Virginia</title>
-      <link>//crypt0.net/post/amazon-web-services-is-planning-a-big-expansion-in-northern-virginia/</link>
-      <pubDate>Tue, 13 Jun 2017 03:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-web-services-is-planning-a-big-expansion-in-northern-virginia/</guid>
-      <description>It&amp;rsquo;s an expansion of Amazon Web Services&amp;rsquo; presence in northern Virginia, and economic development officials are hoping for hundreds of new jobs. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>EMC of Things: How the IoT Needs Electromagnetic Compatibility</title>
-      <link>//crypt0.net/post/emc-of-things-how-the-iot-needs-electromagnetic-compatibility/</link>
-      <pubDate>Tue, 13 Jun 2017 03:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/emc-of-things-how-the-iot-needs-electromagnetic-compatibility/</guid>
-      <description>coexistence, the Internet of Things screams for EMC. The effort to connect to billions of &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Kundenservice im digitalen Zeitalter  Trends und Perspektiven</title>
-      <link>//crypt0.net/post/kundenservice-im-digitalen-zeitalter--trends-und-perspektiven/</link>
-      <pubDate>Tue, 13 Jun 2017 03:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/kundenservice-im-digitalen-zeitalter--trends-und-perspektiven/</guid>
-      <description>Kooperation mit dem Call Center Club. Weiter Informationen zur Agenda &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cloud Foundry Foundation eases Kubernetes management with Kubo</title>
-      <link>//crypt0.net/post/cloud-foundry-foundation-eases-kubernetes-management-with-kubo/</link>
-      <pubDate>Tue, 13 Jun 2017 03:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloud-foundry-foundation-eases-kubernetes-management-with-kubo/</guid>
-      <description>&amp;hellip; the software in a private data center or on one of the public cloud platforms like Microsoft Azure, Amazon Web Services and Google Cloud Platform. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>RFID, AIDC and IoT News: Five Things for Consumers and Businesses to Worry</title>
-      <link>//crypt0.net/post/rfid-aidc-and-iot-news-five-things-for-consumers-and-businesses-to-worry/</link>
-      <pubDate>Tue, 13 Jun 2017 03:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rfid-aidc-and-iot-news-five-things-for-consumers-and-businesses-to-worry/</guid>
-      <description>Supply Chain Digest And most of IoT communications will be machine-to-machine - in other words, say your washing machine exchanging information with the appliance &amp;hellip; more.
 @surgethings</description>
     </item>
     
