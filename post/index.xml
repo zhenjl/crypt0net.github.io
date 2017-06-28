@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Jun 2017 09:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 10:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How much data breaches cost SA business</title>
+      <link>//crypt0.net/post/how-much-data-breaches-cost-sa-business/</link>
+      <pubDate>Wed, 28 Jun 2017 10:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-much-data-breaches-cost-sa-business/</guid>
+      <description>New research suggests that the average cost of a data breach in South Africa is a staggering R32m. According to the research, from Ponemon Institute &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Can the &#39;internet of things&#39; help stimulate growth in Hong Kong?</title>
@@ -19499,26 +19509,6 @@
       <guid>//crypt0.net/post/united-nations-sends-aid-to-10000-syrian-refugees-using-ethereum-blockchain/</guid>
       <description>One of the largest-ever implementations of the ethereum blockchain for a charitable cause has just concluded a successful trial. Completed on 31st &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Exclaimer Adds India And Canada Based Datacenters To Its Office 365</title>
-      <link>//crypt0.net/post/exclaimer-adds-india-and-canada-based-datacenters-to-its-office-365/</link>
-      <pubDate>Tue, 13 Jun 2017 09:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/exclaimer-adds-india-and-canada-based-datacenters-to-its-office-365/</guid>
-      <description>HostReview.com (press release) &amp;hellip; today announced that it has added more regional Microsoft Azure datacenters, based in India and Canada, to its award-winning service, Exclaimer &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Indian banks go with BankChain on Azure Blockchain</title>
-      <link>//crypt0.net/post/indian-banks-go-with-bankchain-on-azure-blockchain/</link>
-      <pubDate>Tue, 13 Jun 2017 09:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/indian-banks-go-with-bankchain-on-azure-blockchain/</guid>
-      <description>BankChain is an Indian bank platform for exploring, building and implementing blockchain solutions. BankChain has selected Microsoft Azure as its &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
