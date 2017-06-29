@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 29 Jun 2017 23:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 23:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine learning on Google Cloud Platform</title>
+      <link>//crypt0.net/post/machine-learning-on-google-cloud-platform/</link>
+      <pubDate>Thu, 29 Jun 2017 23:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/machine-learning-on-google-cloud-platform/</guid>
+      <description>OSS TensorFlow models. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How Microsoft Corporation Makes Most of Its Money</title>
