@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 29 Jun 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 18:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nutanix&#39;s Cloud Offerings Show It&#39;s All In On Hybrid Cloud</title>
+      <link>//crypt0.net/post/nutanixs-cloud-offerings-show-its-all-in-on-hybrid-cloud/</link>
+      <pubDate>Thu, 29 Jun 2017 18:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/nutanixs-cloud-offerings-show-its-all-in-on-hybrid-cloud/</guid>
+      <description>Calm will initially support applications running in a Nutanix cloud as well as Amazon Web Services&amp;rsquo; (AWS) public cloud. Future releases will support &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Jun 29, 2017</title>
@@ -7388,26 +7398,6 @@ Amazon mostly mum on its (growing?</description>
       
       <guid>//crypt0.net/post/google-opens-digital-skills-academy-in-london/</guid>
       <description>The Academy represents the coming together of a wide range of Google teams, including Google Cloud, CS Education, Brandlab, the Zoo, Google &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>MemSQL Managed Cloud Database Supports AWS and Microsoft Azure</title>
-      <link>//crypt0.net/post/memsql-managed-cloud-database-supports-aws-and-microsoft-azure/</link>
-      <pubDate>Wed, 14 Jun 2017 18:20:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/memsql-managed-cloud-database-supports-aws-and-microsoft-azure/</guid>
-      <description>MemSQL Cloud allows customers to manage the service on both Amazon Web Services (AWS) and Microsoft Azure. It will soon also support Google &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Joins Hot Open Source PaaS Project Cloud Foundry</title>
-      <link>//crypt0.net/post/microsoft-joins-hot-open-source-paas-project-cloud-foundry/</link>
-      <pubDate>Wed, 14 Jun 2017 18:20:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-joins-hot-open-source-paas-project-cloud-foundry/</guid>
-      <description>According to Microsoft, one in three VMs on Azure run on Linux and over 60 percent of the images in the Azure Marketplace are Linux-based. more.
 @crypt0net</description>
     </item>
     
