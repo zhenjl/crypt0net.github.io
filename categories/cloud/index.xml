@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 29 Jun 2017 11:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 12:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Repeatable &#39;app blueprints&#39; inside core of Nutanix-Google cloud fusion</title>
+      <link>//crypt0.net/post/repeatable-app-blueprints-inside-core-of-nutanixgoogle-cloud-fusion/</link>
+      <pubDate>Thu, 29 Jun 2017 12:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/repeatable-app-blueprints-inside-core-of-nutanixgoogle-cloud-fusion/</guid>
+      <description>Google and Nutanix now provide &amp;lsquo;one click&amp;rsquo; hybrid operations for Nutanix Calm for GCP (Google Cloud Platform) this will provide &amp;lsquo;a single control &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Azure Redis Cache Geo-Replication in Public Preview</title>
