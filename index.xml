@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 29 Jun 2017 12:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 12:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure AD Connect vulnerability allows attackers to reset admin passwords</title>
+      <link>//crypt0.net/post/azure-ad-connect-vulnerability-allows-attackers-to-reset-admin-passwords/</link>
+      <pubDate>Thu, 29 Jun 2017 12:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-ad-connect-vulnerability-allows-attackers-to-reset-admin-passwords/</guid>
+      <description>Microsoft Azure AD (Active Directory) is often used by enterprises to provide employees and business partners single sign-on access to cloud SaaS &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft: Gain business insights using Power BI reports for Azure Backup</title>
+      <link>//crypt0.net/post/microsoft-gain-business-insights-using-power-bi-reports-for-azure-backup/</link>
+      <pubDate>Thu, 29 Jun 2017 12:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-gain-business-insights-using-power-bi-reports-for-azure-backup/</guid>
+      <description>Azure Backup announced the support for alerting and monitoring in August 2016. Taking it a step further, we are excited to announce preview of Azure &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>ERROR nova.api, Unexpected API Error</title>
@@ -20464,36 +20484,6 @@ Built.io Teams Up with Loggly to Bring More Effective Log Management to PR Newsw
       <guid>//crypt0.net/post/waterfall-security-adds-microsoft-azure-support-to-its-unidirectional/</guid>
       <description>SYS-CON Media (press release) Specifically, the Unidirectional CloudConnect enables Microsoft Azure developers to gather data securely from a variety of SCADA protocols and &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>California Polytechnic State University Goes All-In on AWS</title>
-      <link>//crypt0.net/post/california-polytechnic-state-university-goes-allin-on-aws/</link>
-      <pubDate>Wed, 14 Jun 2017 12:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/california-polytechnic-state-university-goes-allin-on-aws/</guid>
-      <description>Today, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced that California Polytechnic State University (Cal &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google releases Chrome 59 with a completely redesigned UI and Settings</title>
-      <link>//crypt0.net/post/google-releases-chrome-59-with-a-completely-redesigned-ui-and-settings/</link>
-      <pubDate>Wed, 14 Jun 2017 12:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-releases-chrome-59-with-a-completely-redesigned-ui-and-settings/</guid>
-      <description>BGR India There&amp;rsquo;s no need to connect Chrome OS to Google Cloud Print but prints can directly be sent to any locally network printer. Google Chrome OS will &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>WISeKey Partners with the Blockchain Interface Company RIDDLE&amp;CODE to</title>
-      <link>//crypt0.net/post/wisekey-partners-with-the-blockchain-interface-company-riddlecode-to/</link>
-      <pubDate>Wed, 14 Jun 2017 12:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/wisekey-partners-with-the-blockchain-interface-company-riddlecode-to/</guid>
-      <description>Business Wire (press release) Combining the virtues of the two solution providers guarantees the security and integrity in any kind of machine-to-machine and human-to-machine &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>
