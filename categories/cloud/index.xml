@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 28 Jun 2017 23:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 00:20:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Continuum Backup and Disaster Recovery (BDR) Gains Archiving to AWS Glacier</title>
+      <link>//crypt0.net/post/continuum-backup-and-disaster-recovery-bdr-gains-archiving-to-aws-glacier/</link>
+      <pubDate>Thu, 29 Jun 2017 00:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/continuum-backup-and-disaster-recovery-bdr-gains-archiving-to-aws-glacier/</guid>
+      <description>Continuum Continuity247 gains cloud archiving to Amazon Web Services (AWS) Glacier, giving MSPs a lower-cost backup &amp;amp; disaster recovery (BDR) &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Continuous monitoring in the cloud: Two steps to make it a reality</title>
@@ -7089,16 +7099,6 @@ Microsoft brings IoT tools to Azure Government cloud Microsoft&amp;rsquo;s Inter
       
       <guid>//crypt0.net/post/amazon-web-services-ai-exec-how-cloud-computing-is-driving-artificial/</guid>
       <description>GeekWire Swami Sivasubramanian, VP of AI for Amazon Web Services, speaks at the 2017 GeekWire Cloud Tech Summit. (GeekWire Photo / Kevin Lisota). more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>AWS Prepping Second GovCloud Region In Eastern US</title>
-      <link>//crypt0.net/post/aws-prepping-second-govcloud-region-in-eastern-us/</link>
-      <pubDate>Wed, 14 Jun 2017 00:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aws-prepping-second-govcloud-region-in-eastern-us/</guid>
-      <description>Amazon Web Services will expand the secured and compliant infrastructure it offers customers in the public sector and highly regulated industries, the &amp;hellip; more.
 @crypt0net</description>
     </item>
     
