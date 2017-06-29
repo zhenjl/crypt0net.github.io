@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 29 Jun 2017 05:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 05:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ForeScout Extends Security Platform Across Public and Private Clouds</title>
+      <link>//crypt0.net/post/forescout-extends-security-platform-across-public-and-private-clouds/</link>
+      <pubDate>Thu, 29 Jun 2017 05:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/forescout-extends-security-platform-across-public-and-private-clouds/</guid>
+      <description>Earlier this year, ForeScout extended its security monitoring to the public cloud, specifically workloads running on Amazon Web Services (AWS). more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Azure blues: Active Directory Connect has password reset vuln</title>
@@ -7219,16 +7229,6 @@ Microsoft brings IoT tools to Azure Government cloud Microsoft&amp;rsquo;s Inter
       
       <guid>//crypt0.net/post/a-multicloud-world-f5-ramps-up-cloud-market-with-new-solutions/</guid>
       <description>F5 BIG-IP Virtual Edition in the Google Cloud: Organisations can deploy F5 services in all major public clouds. Customers can choose from a range of &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon lawsuit versus ex-employee reveals their plans for business</title>
-      <link>//crypt0.net/post/amazon-lawsuit-versus-exemployee-reveals-their-plans-for-business/</link>
-      <pubDate>Wed, 14 Jun 2017 05:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-lawsuit-versus-exemployee-reveals-their-plans-for-business/</guid>
-      <description>Born2Invest The e-commerce giant sued its former Amazon Web Services (AWS) vice president, Gene Farrell, who joined a startup company, Smartsheet, &amp;hellip; more.
 @crypt0net</description>
     </item>
     
