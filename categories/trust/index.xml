@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 30 Jun 2017 22:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 23:10:01 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IoT: Do it, but do it well</title>
+      <link>//crypt0.net/post/iot-do-it-but-do-it-well/</link>
+      <pubDate>Fri, 30 Jun 2017 23:10:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/iot-do-it-but-do-it-well/</guid>
+      <description>If we take a look at the now infamous Target breach, the method of ingress was via stolen credentials for the heating and air conditioning service &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>New Protection For Virginia Employees Goes Into Effect July 1</title>
@@ -3321,16 +3331,6 @@ Log Management Market 2016-2023 Outlook Research Report DecisionDatabases.com of
       
       <guid>//crypt0.net/post/over-80-percent-of-hacking-related-breaches-were-related-to-password/</guid>
       <description>JD Supra (press release) &amp;hellip; years ago) and if you want to check out a comprehensive and interesting report on data breaches over the past year, this remains my favorite report. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>The Unsexy, But Necessary, Work of Network Monitoring</title>
-      <link>//crypt0.net/post/the-unsexy-but-necessary-work-of-network-monitoring/</link>
-      <pubDate>Thu, 15 Jun 2017 22:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-unsexy-but-necessary-work-of-network-monitoring/</guid>
-      <description>Network traffic analysis. Ipswitch can analyze flow records from Cisco NetFlow, NetFlow-Lite and NSEL, Juniper J-Flow, sFlow, and IPFIX protocols. more.
 @trustpath</description>
     </item>
     
