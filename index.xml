@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 30 Jun 2017 22:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 22:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Puts Windows PC Deployments on AutoPilot</title>
+      <link>//crypt0.net/post/microsoft-puts-windows-pc-deployments-on-autopilot/</link>
+      <pubDate>Fri, 30 Jun 2017 22:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-puts-windows-pc-deployments-on-autopilot/</guid>
+      <description>After unboxing a laptop, for example, Windows AutoPilot Deployment prompts users to log in with their Azure Active Directory credentials. After they &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Q&amp;A: Jeffrey Snover discusses PowerShell on Linux, Azure Stack snags</title>
+      <link>//crypt0.net/post/qa-jeffrey-snover-discusses-powershell-on-linux-azure-stack-snags/</link>
+      <pubDate>Fri, 30 Jun 2017 22:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/qa-jeffrey-snover-discusses-powershell-on-linux-azure-stack-snags/</guid>
+      <description>Jeffrey Snover talks about the reasons Microsoft expanded PowerShell to other OSes and why Azure Stack&amp;rsquo;s release was rescheduled. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Why government should let industry drive cybersecurity</title>
+      <link>//crypt0.net/post/why-government-should-let-industry-drive-cybersecurity/</link>
+      <pubDate>Fri, 30 Jun 2017 22:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-government-should-let-industry-drive-cybersecurity/</guid>
+      <description>Whether the topic is threat information sharing, identity management, internet of things security or protecting critical infrastructure, the government must &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Fine! I&#39;ll go build my own blockchain, with blackjack and ...</title>
@@ -21412,46 +21442,6 @@ Log Management Market 2016-2023 Outlook Research Report DecisionDatabases.com of
       <guid>//crypt0.net/post/the-unsexy-but-necessary-work-of-network-monitoring/</guid>
       <description>Network traffic analysis. Ipswitch can analyze flow records from Cisco NetFlow, NetFlow-Lite and NSEL, Juniper J-Flow, sFlow, and IPFIX protocols. more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Log Management Market 2016-2023 Outlook Research Report</title>
-      <link>//crypt0.net/post/log-management-market-20162023-outlook-research-report/</link>
-      <pubDate>Thu, 15 Jun 2017 22:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/log-management-market-20162023-outlook-research-report/</guid>
-      <description>DecisionDatabases.com offers Log Management Market Research Report. This Report covers the complete Industry Outlook, Growth, Size, Share and &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Blockchain start-up Circle launches a no-fee international currency</title>
-      <link>//crypt0.net/post/blockchain-startup-circle-launches-a-nofee-international-currency/</link>
-      <pubDate>Thu, 15 Jun 2017 22:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-startup-circle-launches-a-nofee-international-currency/</guid>
-      <description>Blockchain-based payments startup Circle Internet Financial just launched an international online money transfer service. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>FireEye brings new cloud and virtual endpoint security offerings</title>
-      <link>//crypt0.net/post/fireeye-brings-new-cloud-and-virtual-endpoint-security-offerings/</link>
-      <pubDate>Thu, 15 Jun 2017 22:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/fireeye-brings-new-cloud-and-virtual-endpoint-security-offerings/</guid>
-      <description>The pioneer of Endpoint Detection and Response (EDR), FireEye cloud and virtual Endpoint Security are part of major upgrades available for &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Tech Data Unveils Cloud Products, Services for Microsoft Azure, AWS</title>
-      <link>//crypt0.net/post/tech-data-unveils-cloud-products-services-for-microsoft-azure-aws/</link>
-      <pubDate>Thu, 15 Jun 2017 22:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/tech-data-unveils-cloud-products-services-for-microsoft-azure-aws/</guid>
-      <description>It&amp;rsquo;s a busy week at global distributor Tech Data, with several cloud-related announcements, two related to Microsoft, and another about Amazon Web &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>

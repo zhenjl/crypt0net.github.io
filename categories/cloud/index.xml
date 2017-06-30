@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 30 Jun 2017 22:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 22:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Puts Windows PC Deployments on AutoPilot</title>
+      <link>//crypt0.net/post/microsoft-puts-windows-pc-deployments-on-autopilot/</link>
+      <pubDate>Fri, 30 Jun 2017 22:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-puts-windows-pc-deployments-on-autopilot/</guid>
+      <description>After unboxing a laptop, for example, Windows AutoPilot Deployment prompts users to log in with their Azure Active Directory credentials. After they &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Q&amp;A: Jeffrey Snover discusses PowerShell on Linux, Azure Stack snags</title>
+      <link>//crypt0.net/post/qa-jeffrey-snover-discusses-powershell-on-linux-azure-stack-snags/</link>
+      <pubDate>Fri, 30 Jun 2017 22:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/qa-jeffrey-snover-discusses-powershell-on-linux-azure-stack-snags/</guid>
+      <description>Jeffrey Snover talks about the reasons Microsoft expanded PowerShell to other OSes and why Azure Stack&amp;rsquo;s release was rescheduled. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Make.TV raises $8.5M from investors including Microsoft</title>
@@ -7677,16 +7697,6 @@ A comparison of Azure and AWS microservices solutions As Microsoft&amp;rsquo;s A
       
       <guid>//crypt0.net/post/in-this-weeks-edition-of-our-ubuntu-openstack/</guid>
       <description>OpenStack snaps, Nova LXD, and updates on our #JujuCharms for easy &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Tech Data Unveils Cloud Products, Services for Microsoft Azure, AWS</title>
-      <link>//crypt0.net/post/tech-data-unveils-cloud-products-services-for-microsoft-azure-aws/</link>
-      <pubDate>Thu, 15 Jun 2017 22:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/tech-data-unveils-cloud-products-services-for-microsoft-azure-aws/</guid>
-      <description>It&amp;rsquo;s a busy week at global distributor Tech Data, with several cloud-related announcements, two related to Microsoft, and another about Amazon Web &amp;hellip; more.
 @crypt0net</description>
     </item>
     
