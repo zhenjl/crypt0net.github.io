@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 30 Jun 2017 21:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 22:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google hybrid cloud strategy crystallizes with Nutanix deal</title>
+      <link>//crypt0.net/post/google-hybrid-cloud-strategy-crystallizes-with-nutanix-deal/</link>
+      <pubDate>Fri, 30 Jun 2017 22:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-hybrid-cloud-strategy-crystallizes-with-nutanix-deal/</guid>
+      <description>Next year, Google and Nutanix customers will be able to deploy and manage workloads from a single interface across Google Cloud Platform (GCP) &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft&#39;s Cloudyn acquisition highlights challenges around cost</title>
@@ -29,16 +39,6 @@
       
       <guid>//crypt0.net/post/build-pmmlbased-applications-and-generate-predictions-in-aws-amazon-web/</guid>
       <description>You import the model using AWS Lambda with JPMML, a PMML producer and consumer library for the Java platform. It also downloads the Iris dataset &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google hybrid cloud strategy crystallizes with Nutanix deal</title>
-      <link>//crypt0.net/post/google-hybrid-cloud-strategy-crystallizes-with-nutanix-deal/</link>
-      <pubDate>Fri, 30 Jun 2017 21:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-hybrid-cloud-strategy-crystallizes-with-nutanix-deal/</guid>
-      <description>This move most closely resembles the partnership between VMware and Amazon Web Services (AWS) that was disclosed last year, and follows a &amp;hellip; more.
 @crypt0net</description>
     </item>
     
