@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 30 Jun 2017 01:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 02:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft snags Israeli cloud startup Cloudyn</title>
+      <link>//crypt0.net/post/microsoft-snags-israeli-cloud-startup-cloudyn/</link>
+      <pubDate>Fri, 30 Jun 2017 02:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-snags-israeli-cloud-startup-cloudyn/</guid>
+      <description>Microsoft&amp;rsquo;s Azure platform has made great strides to compete with Amazon and Google. To that end, Microsoft has announced that they are acquiring &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Announcing @CHEETAH_Cloud to Exhibit at @CloudExpo - #AWS #Azure</title>
@@ -20883,26 +20893,6 @@ OTB Solutions Announces New Capabilities for their Safety and Security Press Rel
       <guid>//crypt0.net/post/you-didnt-miss-world-cloud-backup-day-it-just-kinda-happened/</guid>
       <description>Google and Box have each revealed new cloud backup products. Google&amp;rsquo;s even got two: the one we&amp;rsquo;ll see soonest, on June 28th, is Backup and &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Horizon missing Admin tab for admin user in Red Hat OpenStack Platform</title>
-      <link>//crypt0.net/post/horizon-missing-admin-tab-for-admin-user-in-red-hat-openstack-platform/</link>
-      <pubDate>Thu, 15 Jun 2017 02:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/horizon-missing-admin-tab-for-admin-user-in-red-hat-openstack-platform/</guid>
-      <description>Admin tab in the dashboard is missing when a user logs in to &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>On-access scanning in Endpoint Antivirus settings is greyed out, but</title>
-      <link>//crypt0.net/post/onaccess-scanning-in-endpoint-antivirus-settings-is-greyed-out-but/</link>
-      <pubDate>Thu, 15 Jun 2017 01:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/onaccess-scanning-in-endpoint-antivirus-settings-is-greyed-out-but/</guid>
-      <description>I have Endpoint Protection installed and running on a Windows Server 2102 R2 system. In the UTM&amp;rsquo;s Endpoint Protection Antivirus Policy it says &amp;hellip; more.
-@trustpath</description>
     </item>
     
     <item>
