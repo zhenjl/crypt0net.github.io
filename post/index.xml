@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 01 Jul 2017 23:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2017 23:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Securing for the Rise of Ransomware and the Internet of Things</title>
+      <link>//crypt0.net/post/securing-for-the-rise-of-ransomware-and-the-internet-of-things/</link>
+      <pubDate>Sat, 01 Jul 2017 23:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/securing-for-the-rise-of-ransomware-and-the-internet-of-things/</guid>
+      <description>discussion we will cover how both ransomware and the Internet of Things fit in &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Beyond Bitcoin: How Blockchain Is Changing Banking</title>
@@ -20828,26 +20838,6 @@
       <guid>//crypt0.net/post/how-does-a-data-breach-impact-reputation/</guid>
       <description>Most organizations are prepared for data recovery, but what about other &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>block chain technology in BFS distributed ledger technology</title>
-      <link>//crypt0.net/post/block-chain-technology-in-bfs-distributed-ledger-technology/</link>
-      <pubDate>Fri, 16 Jun 2017 23:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/block-chain-technology-in-bfs-distributed-ledger-technology/</guid>
-      <description>Gaopande2016-08-24 15:26:092017-06-16 07:33:37Demystifying Blockchain &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Virtual Academy Pumps Up Online Offerings (Again)</title>
-      <link>//crypt0.net/post/microsoft-virtual-academy-pumps-up-online-offerings-again/</link>
-      <pubDate>Fri, 16 Jun 2017 23:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-virtual-academy-pumps-up-online-offerings-again/</guid>
-      <description>Microsoft Virtual Academy Pumps Up Online Offerings (Again) &amp;hellip; more about application performance and support monitoring with Microsoft Azure. more.
-@crypt0net</description>
     </item>
     
   </channel>
