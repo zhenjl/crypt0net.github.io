@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 01 Jul 2017 14:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2017 15:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Simplifying migration to aws - everett dolgner</title>
+      <link>//crypt0.net/post/simplifying-migration-to-aws--everett-dolgner/</link>
+      <pubDate>Sat, 01 Jul 2017 15:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/simplifying-migration-to-aws--everett-dolgner/</guid>
+      <description>Migration to AWS How to use AWS Cloud services to unlock &amp;hellip; Published in: &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Bug #1701712 Bandit scanning on Nova generates false positives ...</title>
