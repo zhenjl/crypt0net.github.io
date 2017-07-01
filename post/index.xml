@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 01 Jul 2017 23:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2017 23:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>inventory/openstack.py do not return servers being spawned/deleted</title>
+      <link>//crypt0.net/post/inventoryopenstackpy-do-not-return-servers-being-spawneddeleted/</link>
+      <pubDate>Sat, 01 Jul 2017 23:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/inventoryopenstackpy-do-not-return-servers-being-spawneddeleted/</guid>
+      <description>Open. Spredzy opened this Issue 39 minutes ago 0 comments &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Securing for the Rise of Ransomware and the Internet of Things</title>
@@ -20817,26 +20827,6 @@
       
       <guid>//crypt0.net/post/companies-must-be-ready-for-data-law-change/</guid>
       <description>the obligation to report data breaches to the Information Commissioner&amp;rsquo;s Office applies only where the breach is likely to result in a risk to the rights &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Hitachi Rolls Out Updates to Its Smart Cities IoT Toolset</title>
-      <link>//crypt0.net/post/hitachi-rolls-out-updates-to-its-smart-cities-iot-toolset/</link>
-      <pubDate>Fri, 16 Jun 2017 23:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hitachi-rolls-out-updates-to-its-smart-cities-iot-toolset/</guid>
-      <description>Hitachi is rolling its wheels further onto the internet of things smart-cities greenfield, alongside market leader IBM and several other major players. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>How Does a Data Breach Impact Reputation?</title>
-      <link>//crypt0.net/post/how-does-a-data-breach-impact-reputation/</link>
-      <pubDate>Fri, 16 Jun 2017 23:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-does-a-data-breach-impact-reputation/</guid>
-      <description>Most organizations are prepared for data recovery, but what about other &amp;hellip; more.
 @trustpath</description>
     </item>
     
