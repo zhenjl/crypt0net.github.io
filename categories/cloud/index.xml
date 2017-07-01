@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 01 Jul 2017 06:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2017 06:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Internet Solutions&#39; plans for Microsoft Azure</title>
+      <link>//crypt0.net/post/internet-solutions-plans-for-microsoft-azure/</link>
+      <pubDate>Sat, 01 Jul 2017 06:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/internet-solutions-plans-for-microsoft-azure/</guid>
+      <description>They wondered whether all they were doing was getting their clients to move onto Azure and Amazon Web Services. You know what happened? more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Release: AWS CodeBuild on 2017-06-29</title>
@@ -630,16 +640,6 @@ Platform9 Boosts Cloud Management with $22M Funding Round Omni started off suppo
       
       <guid>//crypt0.net/post/walmart-denies-it-wants-truckers-to-stop-delivering-for-amazon/</guid>
       <description>&amp;hellip; Wall Street Journal reported Walmart has started telling technology partners to not run applications for the retailer on Amazon Web Services (AWS). more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Internet Solutions&#39; plans for Microsoft Azure</title>
-      <link>//crypt0.net/post/internet-solutions-plans-for-microsoft-azure/</link>
-      <pubDate>Fri, 30 Jun 2017 11:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/internet-solutions-plans-for-microsoft-azure/</guid>
-      <description>Microsoft recently confirmed it will launch Azure servers in South Africa, and Missaikos said they have partnered with the company to deliver its &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -7657,16 +7657,6 @@ A comparison of Azure and AWS microservices solutions As Microsoft&amp;rsquo;s A
       
       <guid>//crypt0.net/post/amazon-still-leads-cloud-rankings-but-competition-is-coming-on-strong/</guid>
       <description>&amp;hellip; Gartner &amp;rsquo;s latest annual scorecard of the top public cloud providers that showed Amazon Web Services, Microsoft, and Google retaining the top three &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon on the verge of acquiring Slack for $9 billion?</title>
-      <link>//crypt0.net/post/amazon-on-the-verge-of-acquiring-slack-for-9-billion/</link>
-      <pubDate>Fri, 16 Jun 2017 06:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-on-the-verge-of-acquiring-slack-for-9-billion/</guid>
-      <description>Back in February of this year, Amazon announced new services for its Amazon Web Services cloud platform. The main addition is Amazon Chime, &amp;hellip; more.
 @crypt0net</description>
     </item>
     
