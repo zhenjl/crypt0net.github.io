@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 01 Jul 2017 04:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2017 05:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Choose an Azure hybrid identity solution</title>
+      <link>//crypt0.net/post/choose-an-azure-hybrid-identity-solution/</link>
+      <pubDate>Sat, 01 Jul 2017 05:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/choose-an-azure-hybrid-identity-solution/</guid>
+      <description>enable you to synchronize on-premises directory objects with Azure AD while still &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Designing a Connected Vehicle Platform on Cloud IoT Core</title>
@@ -7657,16 +7667,6 @@ A comparison of Azure and AWS microservices solutions As Microsoft&amp;rsquo;s A
       
       <guid>//crypt0.net/post/amazon-on-the-verge-of-acquiring-slack-for-9-billion/</guid>
       <description>Back in February of this year, Amazon announced new services for its Amazon Web Services cloud platform. The main addition is Amazon Chime, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Windows Server, Azure, Nano Life cycle Updates</title>
-      <link>//crypt0.net/post/microsoft-windows-server-azure-nano-life-cycle-updates/</link>
-      <pubDate>Fri, 16 Jun 2017 04:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-windows-server-azure-nano-life-cycle-updates/</guid>
-      <description>Microsoft has announced updates to Windows Server Core and Nano along with semi-annual channel updates (read more here). The synopsis of this &amp;hellip; more.
 @crypt0net</description>
     </item>
     
