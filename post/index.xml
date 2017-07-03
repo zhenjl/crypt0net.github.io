@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Jul 2017 02:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2017 03:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Support for 32-bit operating systems in Azure virtual machines</title>
+      <link>//crypt0.net/post/support-for-32bit-operating-systems-in-azure-virtual-machines/</link>
+      <pubDate>Mon, 03 Jul 2017 03:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/support-for-32bit-operating-systems-in-azure-virtual-machines/</guid>
+      <description>32-bit Azure virtual machine. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Founders, family members top Japan&#39;s individual shareholder ranking</title>
@@ -20808,26 +20818,6 @@
       <guid>//crypt0.net/post/blockchain-based-supercomputer-project-sonm-hits-ico-goal-of-42-million/</guid>
       <description>SONM, a universal fog blockchain based supercomputer has announced they have reached their fundraising goal of $42 million. The milestone was &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>How the IoT Will Change (Almost) Everything in Cybersecurity</title>
-      <link>//crypt0.net/post/how-the-iot-will-change-almost-everything-in-cybersecurity/</link>
-      <pubDate>Sun, 18 Jun 2017 02:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-the-iot-will-change-almost-everything-in-cybersecurity/</guid>
-      <description>The Internet of Things is growing fast, with an estimated 8.4 billion devices expected to be connected this year. As a result of that rapid expansion, the &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Will Microsoft Azure and Office 365 be Hit by Amazon&#39;s $13.7B Whole Foods</title>
-      <link>//crypt0.net/post/will-microsoft-azure-and-office-365-be-hit-by-amazons-137b-whole-foods/</link>
-      <pubDate>Sun, 18 Jun 2017 02:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/will-microsoft-azure-and-office-365-be-hit-by-amazons-137b-whole-foods/</guid>
-      <description>1redDrop Though it might seem obvious for AWS to take things over and start a mass migration from Microsoft Azure, here&amp;rsquo;s why Amazon isn&amp;rsquo;t going to look at &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
