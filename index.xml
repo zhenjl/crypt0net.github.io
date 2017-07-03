@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Jul 2017 00:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2017 01:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Number of fault domains with managed disks</title>
+      <link>//crypt0.net/post/number-of-fault-domains-with-managed-disks/</link>
+      <pubDate>Mon, 03 Jul 2017 01:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/number-of-fault-domains-with-managed-disks/</guid>
+      <description>Q. Is it true the number of fault domains available varies by region when using managed disks? A. Yes. While normally with ARM the default is 3 fault &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>finder fintech roundup: Pocketbook, ASIC, Western Union, blockchain and</title>
@@ -21290,16 +21300,6 @@ Your payment card data may be at risk if you shop at this retailer Criminal data
       <guid>//crypt0.net/post/will-microsoft-azure-and-office-365-be-hit-by-amazons-137b-whole-foods/</guid>
       <description>1redDrop Though it might seem obvious for AWS to take things over and start a mass migration from Microsoft Azure, here&amp;rsquo;s why Amazon isn&amp;rsquo;t going to look at &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How IBM&#39;s 5 nm Transistors Will Enable Internet of Things Deep Learning</title>
-      <link>//crypt0.net/post/how-ibms-5-nm-transistors-will-enable-internet-of-things-deep-learning/</link>
-      <pubDate>Sun, 18 Jun 2017 01:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-ibms-5-nm-transistors-will-enable-internet-of-things-deep-learning/</guid>
-      <description>intelligence (AI), the Internet of Things (IoT), and autonomous vehicles. more.
-@surgethings</description>
     </item>
     
     <item>
