@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Jul 2017 19:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2017 19:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Continuous Deployment on Compute Engine Using Ansible with Spinnaker</title>
+      <link>//crypt0.net/post/continuous-deployment-on-compute-engine-using-ansible-with-spinnaker/</link>
+      <pubDate>Mon, 03 Jul 2017 19:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/continuous-deployment-on-compute-engine-using-ansible-with-spinnaker/</guid>
+      <description>Prepare a GitHub repository for use with the Spinnaker pipeline. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft to reorganize sales and marketing teams</title>
