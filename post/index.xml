@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Jul 2017 20:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2017 20:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google&#39;s TensorFlow Bet May Be Starting To Pay Off (GOOGL)</title>
+      <link>//crypt0.net/post/googles-tensorflow-bet-may-be-starting-to-pay-off-googl/</link>
+      <pubDate>Mon, 03 Jul 2017 20:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/googles-tensorflow-bet-may-be-starting-to-pay-off-googl/</guid>
+      <description>More importantly, anything built using TensorFlow can be run anywhere on your smartphone, your desktop or your laptop and on Google&amp;rsquo;s cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Bitcoin User Base Surges, Coinbase Adds 1 Mln Users in 1 Month</title>
@@ -21508,16 +21518,6 @@
       <guid>//crypt0.net/post/how-delaware-keeps-edge-in-finance-by-supporting-blockchain/</guid>
       <description>Delaware already holds the edge when it comes to incorporation and being business friendly. Embracing Blockchain would not only make the state a &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Using Clusters for Large-scale Technical Computing in the Cloud</title>
-      <link>//crypt0.net/post/using-clusters-for-largescale-technical-computing-in-the-cloud/</link>
-      <pubDate>Sun, 18 Jun 2017 20:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/using-clusters-for-largescale-technical-computing-in-the-cloud/</guid>
-      <description>computing on Google Cloud Platform (GCP). Many technical computing &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
