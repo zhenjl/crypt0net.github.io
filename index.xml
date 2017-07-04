@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Jul 2017 22:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2017 22:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Missing live migration documentation  : Bugs : openstack-manuals</title>
+      <link>//crypt0.net/post/missing-live-migration-documentation---bugs--openstackmanuals/</link>
+      <pubDate>Tue, 04 Jul 2017 22:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/missing-live-migration-documentation---bugs--openstackmanuals/</guid>
+      <description>https://docs.openstack.org/admin-guide/compute-live-migration-usage.html 404 Not Found Regads. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>&#39;Bitcoin Creator&#39; Craig Wright Thinks 500000 SigOps/Sec is Feasible</title>
@@ -21846,46 +21856,6 @@ Sift Security Receives Application Certification from ServiceNow MENLO PARK, Cal
       <guid>//crypt0.net/post/south-african-logistics-experts-transform-operations-with-an-agile-move-to/</guid>
       <description>ITWeb A simple Azure solution took BPL to the cloud and beyond, and is set to &amp;hellip; Microsoft Azure was the clear choice for BPL, with its combination of easy &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Security Vendor Comodo Hires Former Symantec Veteran To Spearhead IoT</title>
-      <link>//crypt0.net/post/security-vendor-comodo-hires-former-symantec-veteran-to-spearhead-iot/</link>
-      <pubDate>Mon, 19 Jun 2017 22:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/security-vendor-comodo-hires-former-symantec-veteran-to-spearhead-iot/</guid>
-      <description>CRN Comodo has hired Damon Kachur, a former Symantec and Verisign veteran, to lead the charge in the security company&amp;rsquo;s Internet of Things strategy. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure white paper helps organizations comply with new EU data</title>
-      <link>//crypt0.net/post/microsoft-azure-white-paper-helps-organizations-comply-with-new-eu-data/</link>
-      <pubDate>Mon, 19 Jun 2017 22:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-white-paper-helps-organizations-comply-with-new-eu-data/</guid>
-      <description>The Microsoft Azure team has issued a white paper to help organizations with compliance efforts ahead of the planned May 2018 implementation of &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>It&#39;s Time to Start Thinking About Blockchain&#39;s Impact for B2B Networks</title>
-      <link>//crypt0.net/post/its-time-to-start-thinking-about-blockchains-impact-for-b2b-networks/</link>
-      <pubDate>Mon, 19 Jun 2017 22:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/its-time-to-start-thinking-about-blockchains-impact-for-b2b-networks/</guid>
-      <description>standard. Use it to meaningfully and incrementally augment established &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft, Accenture Partner on Blockchain ID Technology</title>
-      <link>//crypt0.net/post/microsoft-accenture-partner-on-blockchain-id-technology/</link>
-      <pubDate>Mon, 19 Jun 2017 22:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-accenture-partner-on-blockchain-id-technology/</guid>
-      <description>David Treat, director of Accenture&amp;rsquo;s blockchain practice, showed attendees of the ID2020 Summit how an undocumented refugee could create his &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>
