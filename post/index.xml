@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Jul 2017 16:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2017 17:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Blockchain Can Make Passwords Obsolete</title>
+      <link>//crypt0.net/post/how-blockchain-can-make-passwords-obsolete/</link>
+      <pubDate>Tue, 04 Jul 2017 17:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-blockchain-can-make-passwords-obsolete/</guid>
+      <description>These are only selected examples from the huge list of the world&amp;rsquo;s biggest data breaches, which are displayed in a visualization here. more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Box Inc (BOX) Analysts See $0.41 EPS</title>
@@ -21547,46 +21557,6 @@
       <guid>//crypt0.net/post/microsoft-and-accenture-team-up-to-provide-legal-ids-to-a-billion-people/</guid>
       <description>OnMSFT (blog) The prototype in question, of course, runs on Microsoft Azure. As clarified by Business Wire who also reported, the prototype doesn&amp;rsquo;t store personally &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Defending Against Health Data Breaches: What&#39;s Missing?</title>
-      <link>//crypt0.net/post/defending-against-health-data-breaches-whats-missing/</link>
-      <pubDate>Mon, 19 Jun 2017 17:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/defending-against-health-data-breaches-whats-missing/</guid>
-      <description>Data breaches will continue to plague the healthcare sector until the security mindset among senior leadership radically changes, says security and &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>AWS Recognized As Internet Of Things Community Elite Platinum Member</title>
-      <link>//crypt0.net/post/aws-recognized-as-internet-of-things-community-elite-platinum-member/</link>
-      <pubDate>Mon, 19 Jun 2017 16:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aws-recognized-as-internet-of-things-community-elite-platinum-member/</guid>
-      <description>SAN FRANCISCO,June 19, 2017/PRNewswire/ &amp;ndash; The Internet of Things Community (IoT Community) - the world&amp;rsquo;s largest group of CxOs and IoT &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>How to install and configure OpenStack on an old laptop with a wireless</title>
-      <link>//crypt0.net/post/how-to-install-and-configure-openstack-on-an-old-laptop-with-a-wireless/</link>
-      <pubDate>Mon, 19 Jun 2017 16:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-install-and-configure-openstack-on-an-old-laptop-with-a-wireless/</guid>
-      <description>This is just to deploy a test OpenStack instance to try it, perform demonstrations or to learn how to deploy cloud instances. In short, I decided to have a &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>With ThingWorx IoT platform, HIROTEC eyes predictive maintenance</title>
-      <link>//crypt0.net/post/with-thingworx-iot-platform-hirotec-eyes-predictive-maintenance/</link>
-      <pubDate>Mon, 19 Jun 2017 16:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/with-thingworx-iot-platform-hirotec-eyes-predictive-maintenance/</guid>
-      <description>The reactive maintenance strategy was clearly a disadvantage, and as the internet of things emerged, HIROTEC saw an opportunity to turn all of its &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
