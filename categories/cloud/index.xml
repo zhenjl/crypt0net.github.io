@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Jul 2017 13:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 13:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kubernetes&#39;s days may be numbered as open source changes</title>
+      <link>//crypt0.net/post/kubernetess-days-may-be-numbered-as-open-source-changes/</link>
+      <pubDate>Wed, 05 Jul 2017 13:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/kubernetess-days-may-be-numbered-as-open-source-changes/</guid>
+      <description>Collison believes Kubernetes is setting itself up to be the OpenStack of container orchestration (that&amp;rsquo;s not a good thing). Others from Red Hat and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Equinix Opens State-of-the-Art Data Center In Amsterdam</title>
@@ -89,16 +99,6 @@
       
       <guid>//crypt0.net/post/amazon-ec2-founder-pinkham-joins-jumo-board/</guid>
       <description>Pinkham is known as the man who conceived of and co-built the earliest incarnation of Amazon Web Services&amp;rsquo; public cloud service, Amazon Elastic &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Kubernetes&#39;s days may be numbered as open source changes</title>
-      <link>//crypt0.net/post/kubernetess-days-may-be-numbered-as-open-source-changes/</link>
-      <pubDate>Wed, 05 Jul 2017 12:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/kubernetess-days-may-be-numbered-as-open-source-changes/</guid>
-      <description>&amp;hellip; serves not only as an API gateway to Google Cloud Platform, but also an on-ramp/off-ramp for Microsoft Azure and Amazon Web Services. In fact, as &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -8093,16 +8093,6 @@ Talend&amp;rsquo;s Summer Offering Targets Cloud Talend Summer &amp;lsquo;17 is 
       
       <guid>//crypt0.net/post/microsoft-selects-mediavalet-as-finalist-for-two-2017-canadian-impact/</guid>
       <description>Marketwired (press release) The Microsoft Digital Transformation Leadership Award recognizes a &amp;hellip; Built exclusively on Microsoft Azure and available on 34 highly secure and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Installing and configuring the OpenStack Keystone identity service</title>
-      <link>//crypt0.net/post/installing-and-configuring-the-openstack-keystone-identity-service/</link>
-      <pubDate>Tue, 20 Jun 2017 13:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/installing-and-configuring-the-openstack-keystone-identity-service/</guid>
-      <description>point in order to manage authentication and authorization, used by other &amp;hellip; more.
 @crypt0net</description>
     </item>
     
