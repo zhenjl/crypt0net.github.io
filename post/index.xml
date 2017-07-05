@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Jul 2017 04:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 04:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Intel laying off 140 in California and Ireland</title>
+      <link>//crypt0.net/post/intel-laying-off-140-in-california-and-ireland/</link>
+      <pubDate>Wed, 05 Jul 2017 04:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/intel-laying-off-140-in-california-and-ireland/</guid>
+      <description>Intel is shedding nearly 140 staff from Internet of Things business lines. The layoffs were probably inevitable, since during June, Intel discontinued &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Microsoft to reorganise sales and marketing teams</title>
@@ -21376,26 +21386,6 @@
       
       <guid>//crypt0.net/post/uk-fines-for-data-breaches-double-to-32-million-gdpr-to-lift-bill/</guid>
       <description>Consultancy.uk New analysis by PwC has found that UK data protection breaches have resulted in a collective fine bill of 3.2 million last year. The firm also predicts &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Configuring the IBM MQ Bridge to Blockchain</title>
-      <link>//crypt0.net/post/configuring-the-ibm-mq-bridge-to-blockchain/</link>
-      <pubDate>Tue, 20 Jun 2017 04:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/configuring-the-ibm-mq-bridge-to-blockchain/</guid>
-      <description>the configuration file for the IBM MQ Bridge to Blockchain to connect to &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>SWOT Assessment: Sophos Endpoint Protection, v11.5.4, and Intercept X, v1.2</title>
-      <link>//crypt0.net/post/swot-assessment-sophos-endpoint-protection-v1154-and-intercept-x-v12/</link>
-      <pubDate>Tue, 20 Jun 2017 04:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/swot-assessment-sophos-endpoint-protection-v1154-and-intercept-x-v12/</guid>
-      <description>many years, and has grown its endpoint protection platform (EPP) offering &amp;hellip; more.
 @trustpath</description>
     </item>
     
