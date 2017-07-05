@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Jul 2017 01:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 03:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Doc page os-client-config is missing</title>
+      <link>//crypt0.net/post/doc-page-osclientconfig-is-missing/</link>
+      <pubDate>Wed, 05 Jul 2017 03:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/doc-page-osclientconfig-is-missing/</guid>
+      <description>https://docs.openstack.org/ocata/install-guide-rdo/keystone-openrc.html, I clicked &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Acronis Backup Cloud Extension for Microsoft Azure</title>
