@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Jul 2017 22:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 22:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenStack monitoring beyond the Elastic Stack</title>
+      <link>//crypt0.net/post/openstack-monitoring-beyond-the-elastic-stack/</link>
+      <pubDate>Wed, 05 Jul 2017 22:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-monitoring-beyond-the-elastic-stack/</guid>
+      <description>Dynatrace monitors OpenStack more effectively than open source monitoring &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Here&#39;s How Blockchain Technology Will Change Your Life</title>
@@ -12063,16 +12073,6 @@ Santander steps up data centre security to protect 36 million customers Data Eco
       <guid>//crypt0.net/post/todays-channel-rundown--27-june-2017/</guid>
       <description>BitDefender has today announced Bitdefender GravityZone Endpoint Security HD, a layered, next-generation endpoint protection platform and &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>OpenStack monitoring beyond the Elastic Stack</title>
-      <link>//crypt0.net/post/openstack-monitoring-beyond-the-elastic-stack/</link>
-      <pubDate>Tue, 27 Jun 2017 17:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-monitoring-beyond-the-elastic-stack/</guid>
-      <description>options are to set up a monitoring tool for OpenStack. more.
-@crypt0net</description>
     </item>
     
     <item>

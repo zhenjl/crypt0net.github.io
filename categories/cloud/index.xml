@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Jul 2017 22:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 22:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenStack monitoring beyond the Elastic Stack</title>
+      <link>//crypt0.net/post/openstack-monitoring-beyond-the-elastic-stack/</link>
+      <pubDate>Wed, 05 Jul 2017 22:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-monitoring-beyond-the-elastic-stack/</guid>
+      <description>Dynatrace monitors OpenStack more effectively than open source monitoring &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>(ECE) on Amazon Web Services (AWS) EC2</title>
@@ -4418,16 +4428,6 @@ Accenture, Microsoft building blockchain ID prototype for healthcare, Healthcare
       
       <guid>//crypt0.net/post/sureline-systems-expands-functionality-for-industry-leading-sureedge-/</guid>
       <description>&amp;hellip; the leading hypervisors including VMware, Hyper-v and Nutanix AHV and is qualified with the leading Cloud environments including Google Cloud, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OpenStack monitoring beyond the Elastic Stack</title>
-      <link>//crypt0.net/post/openstack-monitoring-beyond-the-elastic-stack/</link>
-      <pubDate>Tue, 27 Jun 2017 17:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-monitoring-beyond-the-elastic-stack/</guid>
-      <description>options are to set up a monitoring tool for OpenStack. more.
 @crypt0net</description>
     </item>
     
