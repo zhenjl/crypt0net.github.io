@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Jul 2017 21:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 22:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>(ECE) on Amazon Web Services (AWS) EC2</title>
+      <link>//crypt0.net/post/ece-on-amazon-web-services-aws-ec2/</link>
+      <pubDate>Wed, 05 Jul 2017 22:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/ece-on-amazon-web-services-aws-ec2/</guid>
+      <description>new Elasticsearch clusters. Get started with ECE by installing it on AWS EC2 &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>One woman&#39;s story of working at Microsoft: how the right team matters (a</title>
+      <link>//crypt0.net/post/one-womans-story-of-working-at-microsoft-how-the-right-team-matters-a/</link>
+      <pubDate>Wed, 05 Jul 2017 22:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/one-womans-story-of-working-at-microsoft-how-the-right-team-matters-a/</guid>
+      <description>OnMSFT (blog) Donna Malayeri, a Programs Manager working with the Azure team at Microsoft, just put out a fascinating article that goes over the frustrations of being &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Fox Sports Applies Confederations Cup Lessons To 2018 World Cup Planning</title>
@@ -8084,26 +8104,6 @@ MongoDB Announces Atlas Support in Azure and Stitch BaaS Specifically, it is now
       
       <guid>//crypt0.net/post/tata-comms-brings-its-private-cloud-to-germany-uae-and-malaysia/</guid>
       <description>&amp;hellip; Hong Kong and the UK. Its public cloud partners include Microsoft Azure, Amazon Web Services, Google Cloud Platform, Office 365 and Salesforce. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>AMD EPYC Datacenter Processor Launches with Record-Setting Performance,</title>
-      <link>//crypt0.net/post/amd-epyc-datacenter-processor-launches-with-recordsetting-performance/</link>
-      <pubDate>Tue, 20 Jun 2017 22:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amd-epyc-datacenter-processor-launches-with-recordsetting-performance/</guid>
-      <description>GlobeNewswire (press release) Members of the Super 7 datacenter services providers, including Baidu and Microsoft Azure, as well as 1&amp;amp;1, Bloomberg, Dropbox and LexisNexis, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Site Recovery now supports managed disks</title>
-      <link>//crypt0.net/post/microsoft-azure-site-recovery-now-supports-managed-disks/</link>
-      <pubDate>Tue, 20 Jun 2017 22:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-site-recovery-now-supports-managed-disks/</guid>
-      <description>Azure Site Recovery (ASR) now supports managed disks. This follows the announcement of Azure&amp;rsquo;s support for managed disks in February. With the &amp;hellip; more.
 @crypt0net</description>
     </item>
     
