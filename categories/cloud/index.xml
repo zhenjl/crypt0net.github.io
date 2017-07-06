@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 06 Jul 2017 10:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2017 10:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Could your business be using multiple clouds without knowing?</title>
+      <link>//crypt0.net/post/could-your-business-be-using-multiple-clouds-without-knowing/</link>
+      <pubDate>Thu, 06 Jul 2017 10:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/could-your-business-be-using-multiple-clouds-without-knowing/</guid>
+      <description>&amp;hellip; Azure, Amazon Web Services or OpenStack); private clouds (whether powered by OpenStack, Microsoft Hyper-V or VMware); or dedicated servers. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Hotelogix and Amazon Web Services join hands to hold events on benefits of</title>
@@ -39,16 +49,6 @@
       
       <guid>//crypt0.net/post/equinix-opens-stateoftheart-data-center-in-amsterdam/</guid>
       <description>&amp;hellip; to an establishedcloud ecosystemwhich includes leading CSPs such as AWS, Google Cloud Platform, Microsoft Azure, Microsoft Office 365, Oracle, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Could your business be using multiple clouds without knowing?</title>
-      <link>//crypt0.net/post/could-your-business-be-using-multiple-clouds-without-knowing/</link>
-      <pubDate>Thu, 06 Jul 2017 09:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/could-your-business-be-using-multiple-clouds-without-knowing/</guid>
-      <description>Multi-cloud, however, is broader in its scope, and can include any combination of public clouds (such as Microsoft Azure, Amazon Web Services or &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -8084,16 +8084,6 @@ MongoDB Announces Atlas Support in Azure and Stitch BaaS Specifically, it is now
       
       <guid>//crypt0.net/post/gulf-air-heads-into-microsofts-azure-cloud/</guid>
       <description>Gulf Air heads into Microsoft&amp;rsquo;s Azure Cloud (L-R): Dr Jassim Haji, director of Information Technology, Gulf Air, and Sherif Tawfik, country general &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Avanade, Huawei to sell Microsoft Azure Stack appliances</title>
-      <link>//crypt0.net/post/avanade-huawei-to-sell-microsoft-azure-stack-appliances/</link>
-      <pubDate>Wed, 21 Jun 2017 10:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/avanade-huawei-to-sell-microsoft-azure-stack-appliances/</guid>
-      <description>Two more vendors have joined the handful of companies planning to sell Microsoft&amp;rsquo;s Azure Stack hybrid-computing systems. more.
 @crypt0net</description>
     </item>
     
