@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 06 Jul 2017 07:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2017 07:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>It&#39;s not (only) about the bike: how IoT, analytics and wireless tech could</title>
+      <link>//crypt0.net/post/its-not-only-about-the-bike-how-iot-analytics-and-wireless-tech-could/</link>
+      <pubDate>Thu, 06 Jul 2017 07:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/its-not-only-about-the-bike-how-iot-analytics-and-wireless-tech-could/</guid>
+      <description>Verdict GlobalData is the market leader in providing actionable insight into the technology industry. With market analysts in 18 countries around the world, &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Japan tests blockchain for government tenders</title>
@@ -21517,16 +21527,6 @@
       <guid>//crypt0.net/post/indian-firms-may-lose-rs-11-cr-to-data-breaches-this-year-ibm/</guid>
       <description>Indian companies could lose Rs 11 crore to data breaches this year, up 12.3 per cent from last year, according to a report by IBM and Ponemon &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>MongoDB puts Atlas on AWS, Google Cloud and Microsoft Azure</title>
-      <link>//crypt0.net/post/mongodb-puts-atlas-on-aws-google-cloud-and-microsoft-azure/</link>
-      <pubDate>Wed, 21 Jun 2017 07:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mongodb-puts-atlas-on-aws-google-cloud-and-microsoft-azure/</guid>
-      <description>MongoDB puts Atlas on AWS, Google Cloud and Microsoft Azure &amp;hellip; The addition of support for Azure and GCP expands the application building &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
