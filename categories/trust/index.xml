@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 06 Jul 2017 06:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2017 07:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why is Big Data security so difficult?</title>
+      <link>//crypt0.net/post/why-is-big-data-security-so-difficult/</link>
+      <pubDate>Thu, 06 Jul 2017 07:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-is-big-data-security-so-difficult/</guid>
+      <description>With data breaches hitting the news every other day, how can developers keep information secure? In this article, Rick Delgado explores how &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Egnyte Focuses on Content to Prevent Data Breaches</title>
