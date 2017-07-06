@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 06 Jul 2017 22:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2017 22:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automated security hardening for Linux hosts with Ansible</title>
+      <link>//crypt0.net/post/automated-security-hardening-for-linux-hosts-with-ansible/</link>
+      <pubDate>Thu, 06 Jul 2017 22:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/automated-security-hardening-for-linux-hosts-with-ansible/</guid>
+      <description>are deployed with OpenStack-Ansible, it can be used with almost any Linux &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon-Whole Foods Markets Tie-Up: Can Love Conquer All?</title>
