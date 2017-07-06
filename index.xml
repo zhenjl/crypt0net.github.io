@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 06 Jul 2017 04:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2017 05:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neutron DB expand task delegation&#43;run_once failure...</title>
+      <link>//crypt0.net/post/neutron-db-expand-task-delegationrunonce-failure/</link>
+      <pubDate>Thu, 06 Jul 2017 05:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/neutron-db-expand-task-delegationrunonce-failure/</guid>
+      <description>&amp;rdquo;/openstack/venvs/neutron-untagged/bin/neutron-db-manage upgrade &amp;ndash;expand&amp;rdquo;, &amp;ldquo;failed&amp;rdquo;: true, &amp;ldquo;msg&amp;rdquo;: &amp;ldquo;[Errno 2] No such file &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Demystifying the internet of things (IoT)</title>
@@ -21987,36 +21997,6 @@ Healthcare Data Breach Costs Highest for 7th Straight Year However, healthcare d
       <guid>//crypt0.net/post/google-cloud-hits-aussie-kiwis-to-benefit-too/</guid>
       <description>Three zones have been launched in Sydney several Google Cloud Platform services, including Container Engine, Cloud Dataflow and Datalab, Cloud &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>UN glimpses into blockchain future with eye scan payments for refugees</title>
-      <link>//crypt0.net/post/un-glimpses-into-blockchain-future-with-eye-scan-payments-for-refugees/</link>
-      <pubDate>Wed, 21 Jun 2017 05:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/un-glimpses-into-blockchain-future-with-eye-scan-payments-for-refugees/</guid>
-      <description>Blockchain, which first emerged as the system underpinning the virtual currency bitcoin, is a digital shared record of transactions maintained by a &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Channel equalization and interference analysis for uplink Narrowband</title>
-      <link>//crypt0.net/post/channel-equalization-and-interference-analysis-for-uplink-narrowband/</link>
-      <pubDate>Wed, 21 Jun 2017 05:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/channel-equalization-and-interference-analysis-for-uplink-narrowband/</guid>
-      <description>Abstract. We derive the uplink system model for In-band and Guard-band narrowband Internet of Things (NB-IoT). The results reveal that the actual &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>IBM: Data breaches could cost firms Rs 11 crore</title>
-      <link>//crypt0.net/post/ibm-data-breaches-could-cost-firms-rs-11-crore/</link>
-      <pubDate>Wed, 21 Jun 2017 05:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ibm-data-breaches-could-cost-firms-rs-11-crore/</guid>
-      <description>NEW DELHI: Data breaches could set back Indian companies by as much as Rs 11 crore this year, a 12.3 per cent increase from last year, says a new &amp;hellip; more.
-@trustpath</description>
     </item>
     
     <item>
