@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 06 Jul 2017 17:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2017 18:05:01 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Security News from @trustpath - Jul 6, 2017</title>
+      <link>//crypt0.net/daily/daily-trust-news-2017-07-06/</link>
+      <pubDate>Thu, 06 Jul 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-trust-news-2017-07-06/</guid>
+      <description>Daily Security news from @trustpath.
+MS.Windows.Malware.Protection.Engine.MpApiCall.Code.Execution Windows Defender for Windows 10 Version 1703 for 32-bit Systems more.
+Companies Do More to Prepare for Data Breaches, Employees Still Engage in IT Business Edge (blog) According to a new study from Guidance Software, organizations are doing more to prepare for the inevitable data breaches and are doing more to &amp;hellip; more.
+3 takeaways from the 2017 Cost of Data Breach Study For those looking to understand data breaches by country, the latest report from IBM Security and Ponemon Institute sheds light on such a topic.</description>
+    </item>
     
     <item>
       <title>Surviving the Fallout of the Deep Root Leak: Best Practices for AWS</title>
