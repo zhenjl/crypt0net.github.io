@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Jul 2017 21:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 21:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>For IoT Partners, Smart Homes Are an Underrated Opportunity</title>
+      <link>//crypt0.net/post/for-iot-partners-smart-homes-are-an-underrated-opportunity/</link>
+      <pubDate>Fri, 07 Jul 2017 21:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/for-iot-partners-smart-homes-are-an-underrated-opportunity/</guid>
+      <description>Vectorform has built IoT solutions using technologies from both Microsoft and Amazon Web Services (AWS), though the company takes a &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>WWE Investigating Cybersecurity &#39;Vulnerability&#39; After Unprotected Database</title>
+      <link>//crypt0.net/post/wwe-investigating-cybersecurity-vulnerability-after-unprotected-database/</link>
+      <pubDate>Fri, 07 Jul 2017 21:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/wwe-investigating-cybersecurity-vulnerability-after-unprotected-database/</guid>
+      <description>NBC Bay Area The database was stored on an Amazon Web Services S3 server without username or password protection. Dyachenko said it was not clear which &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Delaware Passes Groundbreaking Blockchain Regulation Bill</title>
@@ -650,16 +670,6 @@
       <guid>//crypt0.net/post/equinix-eqix-to-offer-oracle-cloud-in-apac-via-sydney-ibx/</guid>
       <description>With this agreement, Oracle becomes the latest member of Equinix&amp;rsquo;s Cloud Exchange, after Amazon AMZN , Microsoft MSFT Alphabet&amp;rsquo;s Google Cloud &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>For IoT Partners, Smart Homes Are an Underrated Opportunity</title>
-      <link>//crypt0.net/post/for-iot-partners-smart-homes-are-an-underrated-opportunity/</link>
-      <pubDate>Fri, 07 Jul 2017 15:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/for-iot-partners-smart-homes-are-an-underrated-opportunity/</guid>
-      <description>It&amp;rsquo;s boom times for Internet of Things (IoT) spending and, by extension, for the partners that are able to develop strong IoT practices. Recent data from &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>
@@ -21507,36 +21517,6 @@
       <guid>//crypt0.net/post/wrangle-gcp-aws-cloud-resources-with-google-stackdriver/</guid>
       <description>Today, Stackdriver is the monitoring, logging, diagnostics and troubleshooting foundation for Google Cloud Platform. Admins can use graphical &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Report: Data breaches cost Australian businesses AU$2.51M</title>
-      <link>//crypt0.net/post/report-data-breaches-cost-australian-businesses-au251m/</link>
-      <pubDate>Thu, 22 Jun 2017 21:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/report-data-breaches-cost-australian-businesses-au251m/</guid>
-      <description>Australian organizations AU$2.51 million on average, ZDNet reports. The 2017 &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>State of Illinois Sponsors Month-Long Blockchain Hackathon</title>
-      <link>//crypt0.net/post/state-of-illinois-sponsors-monthlong-blockchain-hackathon/</link>
-      <pubDate>Thu, 22 Jun 2017 21:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/state-of-illinois-sponsors-monthlong-blockchain-hackathon/</guid>
-      <description>The state of Illinois will be hosting a month-long virtual Blockchain hackathon which officially starts on July 1. The hackathon aims to unite industry &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Why Net Neutrality Matters Even in the Age of Oligopoly</title>
-      <link>//crypt0.net/post/why-net-neutrality-matters-even-in-the-age-of-oligopoly/</link>
-      <pubDate>Thu, 22 Jun 2017 21:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-net-neutrality-matters-even-in-the-age-of-oligopoly/</guid>
-      <description>&amp;hellip; so that your provider can&amp;rsquo;t force you to use a specific type of WiFi router, or tell you which Internet of Things gadgets you can or can&amp;rsquo;t use. more.
-@surgethings</description>
     </item>
     
   </channel>
