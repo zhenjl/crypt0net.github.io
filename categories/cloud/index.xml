@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Jul 2017 22:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 23:20:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google&#39;s Cloud Spanner: how does it stack up?</title>
+      <link>//crypt0.net/post/googles-cloud-spanner-how-does-it-stack-up/</link>
+      <pubDate>Fri, 07 Jul 2017 23:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/googles-cloud-spanner-how-does-it-stack-up/</guid>
+      <description>A few weeks ago, I wrote an in-depth piece on Microsoft&amp;rsquo;s Cosmos DB, &amp;hellip; Microsoft debuts Azure Cosmos DB, a superset of its DocumentDB service more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft to Windows Home Server Users: Upgrade for Security&#39;s Sake</title>
+      <link>//crypt0.net/post/microsoft-to-windows-home-server-users-upgrade-for-securitys-sake/</link>
+      <pubDate>Fri, 07 Jul 2017 23:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-to-windows-home-server-users-upgrade-for-securitys-sake/</guid>
+      <description>The latest edition (Windows Server Essentials 2016) enables hybrid cloud backup scenarios to Azure cloud storage for more robust data protection, &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Technology Stock Roundup: EU Fines Google Shopping</title>
+      <link>//crypt0.net/post/technology-stock-roundup-eu-fines-google-shopping/</link>
+      <pubDate>Fri, 07 Jul 2017 23:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/technology-stock-roundup-eu-fines-google-shopping/</guid>
+      <description>Microsoft Buys Cloudyn : Microsoft has acquired Cloudyn, a provider of cloud monitoring and analytics solutions across Azure, AWS, Google Cloud, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>ANZ universities gain new advanced analytics and big data platform</title>
@@ -89,16 +119,6 @@
       
       <guid>//crypt0.net/post/build-a-continuous-delivery-pipeline-with-azure-app-service/</guid>
       <description>In addition, teams can now use Azure App Service with Visual Studio Team Services (VSTS) to enable continuous delivery. VSTS is another Microsoft &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google&#39;s Cloud Spanner: how does it stack up?</title>
-      <link>//crypt0.net/post/googles-cloud-spanner-how-does-it-stack-up/</link>
-      <pubDate>Fri, 07 Jul 2017 20:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/googles-cloud-spanner-how-does-it-stack-up/</guid>
-      <description>Add in a briefing on Spanner from Google Cloud Product Manager Dominic Preuss that Google was kind enough to offer, and it was a slam-dunk. more.
 @crypt0net</description>
     </item>
     
@@ -7954,16 +7974,6 @@ Rackspace Named a Leader in Independent Evaluation for Hosted Private Cloud Mark
       
       <guid>//crypt0.net/post/whos-afraid-of-the-amazon-empire-cramers-mad-money-recap-thursday/</guid>
       <description>TheStreet.com But Walmart (WMT) is fighting back, encouraging its suppliers not to use Amazon&amp;rsquo;s web services and consider Microsoft (MSFT) or other cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Wal-Mart asks vendors to not use Amazon&#39;s cloud service</title>
-      <link>//crypt0.net/post/walmart-asks-vendors-to-not-use-amazons-cloud-service/</link>
-      <pubDate>Thu, 22 Jun 2017 23:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/walmart-asks-vendors-to-not-use-amazons-cloud-service/</guid>
-      <description>&amp;hellip; for the retailer on Amazon.com Inc.&amp;rsquo;s AMZN, -0.04% leading cloud-computing service, Amazon Web Services, several tech companies say. more.
 @crypt0net</description>
     </item>
     
