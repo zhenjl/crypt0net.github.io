@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Jul 2017 13:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 14:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Drupal 8 on Google Cloud with Kubernetes</title>
+      <link>//crypt0.net/post/drupal-8-on-google-cloud-with-kubernetes/</link>
+      <pubDate>Fri, 07 Jul 2017 14:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/drupal-8-on-google-cloud-with-kubernetes/</guid>
+      <description>onto kubernetes, which can be found as a hosted service in Google Cloud. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Inseego Corp. (INSG) Short Interest Update</title>
@@ -21487,16 +21497,6 @@
       <guid>//crypt0.net/post/the-eu-and-blockchain-taking-the-lead/</guid>
       <description>Long time the European Union has taken a positive, but wait-and-see attitude towards blockchain and distributed ledger technology. Both related to &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Hackers Take Aim at Quick-Service Restaurants</title>
-      <link>//crypt0.net/post/hackers-take-aim-at-quickservice-restaurants/</link>
-      <pubDate>Thu, 22 Jun 2017 14:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hackers-take-aim-at-quickservice-restaurants/</guid>
-      <description>The average cost of responding to data breaches is rising, now topping $150 for each piece of compromised data, Badhwar says. And while &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
