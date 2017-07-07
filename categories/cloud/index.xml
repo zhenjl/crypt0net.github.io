@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Jul 2017 10:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 10:20:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1702868 Example: Microsoft Windows image in Virtual Machin...</title>
+      <link>//crypt0.net/post/bug-1702868-example-microsoft-windows-image-in-virtual-machin/</link>
+      <pubDate>Fri, 07 Jul 2017 10:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1702868-example-microsoft-windows-image-in-virtual-machin/</guid>
+      <description>https://docs.openstack.org/image-guide/windows-image.html I have created glance image &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Value of moving to the cloud not always a certainty</title>
+      <link>//crypt0.net/post/value-of-moving-to-the-cloud-not-always-a-certainty/</link>
+      <pubDate>Fri, 07 Jul 2017 10:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/value-of-moving-to-the-cloud-not-always-a-certainty/</guid>
+      <description>&amp;hellip; Director for Accenture&amp;rsquo;s Cloud First business in Sub-Saharan Africa, who spoke to ITWeb Africa on the sidelines of the Amazon Web Services (AWS) &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>WWE data breach stings over three million wrestling fans</title>
+      <link>//crypt0.net/post/wwe-data-breach-stings-over-three-million-wrestling-fans/</link>
+      <pubDate>Fri, 07 Jul 2017 10:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/wwe-data-breach-stings-over-three-million-wrestling-fans/</guid>
+      <description>&amp;hellip; reportedly belongs to WWE&amp;rsquo;s marketing department, was sitting on on an Amazon Web Services S3 server without username or password protection &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>A more personalized service health dashboard comes to Azure in preview form</title>
@@ -8014,16 +8044,6 @@ High-Tech Skills Gap at Heart of IU, Microsoft Partnership The certificate, IU s
       
       <guid>//crypt0.net/post/mongodb-helps-developers-stitch-backends-together-more-simply/</guid>
       <description>Atlas also received an update though, allowing developers to run their clouds on Microsoft Azure and Google Cloud Platform in addition to AWS. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>US: Walmart Warns Partners Away From Amazon Web Services</title>
-      <link>//crypt0.net/post/us-walmart-warns-partners-away-from-amazon-web-services/</link>
-      <pubDate>Thu, 22 Jun 2017 10:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/us-walmart-warns-partners-away-from-amazon-web-services/</guid>
-      <description>Walmart has confirmed reports that it is asking its technology developer partners to refrain from using Amazon Web Services, in the latest escalation of &amp;hellip; more.
 @crypt0net</description>
     </item>
     
