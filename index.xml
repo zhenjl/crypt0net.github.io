@@ -7,10 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Jul 2017 20:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 20:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build a continuous delivery pipeline with Azure App Service</title>
+      <link>//crypt0.net/post/build-a-continuous-delivery-pipeline-with-azure-app-service/</link>
+      <pubDate>Fri, 07 Jul 2017 20:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/build-a-continuous-delivery-pipeline-with-azure-app-service/</guid>
+      <description>In addition, teams can now use Azure App Service with Visual Studio Team Services (VSTS) to enable continuous delivery. VSTS is another Microsoft &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Google&#39;s Cloud Spanner: how does it stack up?</title>
+      <link>//crypt0.net/post/googles-cloud-spanner-how-does-it-stack-up/</link>
+      <pubDate>Fri, 07 Jul 2017 20:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/googles-cloud-spanner-how-does-it-stack-up/</guid>
+      <description>Add in a briefing on Spanner from Google Cloud Product Manager Dominic Preuss that Google was kind enough to offer, and it was a slam-dunk. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Media Alert: EventTracker to Present Webinar on NIST 800-171 Compliance for</title>
+      <link>//crypt0.net/post/media-alert-eventtracker-to-present-webinar-on-nist-800171-compliance-for/</link>
+      <pubDate>Fri, 07 Jul 2017 20:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/media-alert-eventtracker-to-present-webinar-on-nist-800171-compliance-for/</guid>
+      <description>MilTech &amp;hellip; advanced security solutions protect enterprises and small businesses from data breaches and insider fraud, and streamline regulatory compliance. more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>Tracking cargo shipments with Mendix, Watson and Blockchain</title>
+      <link>//crypt0.net/post/tracking-cargo-shipments-with-mendix-watson-and-blockchain/</link>
+      <pubDate>Fri, 07 Jul 2017 20:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/tracking-cargo-shipments-with-mendix-watson-and-blockchain/</guid>
+      <description>by connected devices and sensors. Using blockchain technology &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>A quick look at HTTP triggers on Google Cloud Functions - Opeyemi Obembe</title>
@@ -22007,26 +22047,6 @@ Report: Data breaches cost Australian businesses AU$2.51M Australian organizatio
       <guid>//crypt0.net/post/microsoft-the-future-of-video-is-a-combo-of-cloud-and-ai/</guid>
       <description>Wahl, who works with global customers of Microsoft&amp;rsquo;s Azure Media Services group, seemed to be taking a swipe at the competition, namely Amazon &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Editorial: Restore privacy protections for Californians</title>
-      <link>//crypt0.net/post/editorial-restore-privacy-protections-for-californians/</link>
-      <pubDate>Thu, 22 Jun 2017 20:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/editorial-restore-privacy-protections-for-californians/</guid>
-      <description>Malcolm wants to know what is &amp;ldquo;the internet of things,&amp;rdquo; and why does it include electric clams. Expand. By Mercury News Editorial Board | Mercury &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>IoT Evolution Speakers: Lee Gruenfeld Speaks Out</title>
-      <link>//crypt0.net/post/iot-evolution-speakers-lee-gruenfeld-speaks-out/</link>
-      <pubDate>Thu, 22 Jun 2017 20:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/iot-evolution-speakers-lee-gruenfeld-speaks-out/</guid>
-      <description>The IoT Evolution Expo is the only Internet of Things industry event focused on Enterprise-level strategic planning and engineering-lead solutions to &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>
