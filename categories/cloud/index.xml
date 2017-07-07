@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Jul 2017 14:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 14:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft: Tracking configuration changes for your Azure VM</title>
+      <link>//crypt0.net/post/microsoft-tracking-configuration-changes-for-your-azure-vm/</link>
+      <pubDate>Fri, 07 Jul 2017 14:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-tracking-configuration-changes-for-your-azure-vm/</guid>
+      <description>In this blog post, I will talk about how to use the Change Tracking solution to detect in-guest changes on your Azure VMs. Right from within your Azure &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Drupal 8 on Google Cloud with Kubernetes</title>
@@ -8024,16 +8034,6 @@ High-Tech Skills Gap at Heart of IU, Microsoft Partnership The certificate, IU s
       
       <guid>//crypt0.net/post/unilog-engages-agosto-inc-to-move-its-b2b-ecommerce-delivery/</guid>
       <description>Marketwired (press release) MINNEAPOLIS, MN&amp;ndash;(Marketwired - June 22, 2017) - Agosto Inc., a cloud services and development company and tier 1 Google Cloud Premier &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon accuses Walmart of bullying in cloud computing clash</title>
-      <link>//crypt0.net/post/amazon-accuses-walmart-of-bullying-in-cloud-computing-clash/</link>
-      <pubDate>Thu, 22 Jun 2017 14:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-accuses-walmart-of-bullying-in-cloud-computing-clash/</guid>
-      <description>The row follows a report by the Wall Street Journal, which said other unnamed large retailers had also asked vendors to shun Amazon Web Services. more.
 @crypt0net</description>
     </item>
     
