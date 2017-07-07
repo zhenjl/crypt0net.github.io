@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 07 Jul 2017 00:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 00:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Serverless Architectures and the Internet of Garbage - AWS Lambda, Apache</title>
+      <link>//crypt0.net/post/serverless-architectures-and-the-internet-of-garbage--aws-lambda-apache/</link>
+      <pubDate>Fri, 07 Jul 2017 00:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/serverless-architectures-and-the-internet-of-garbage--aws-lambda-apache/</guid>
+      <description>Serverless Architectures and the Internet of Garbage AWS Lambda, Apache Open Whisk and Google Cloud Services. Blog: The Holloway Angle. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Release Note: F5 OpenStack Agent and OpenStack LBaaSv2 Driver v9.3.2</title>
@@ -8014,16 +8024,6 @@ High-Tech Skills Gap at Heart of IU, Microsoft Partnership The certificate, IU s
       
       <guid>//crypt0.net/post/connectwise-cloudconsole-remotely-manages-microsoft-software/</guid>
       <description>CloudConsole is the only solution in the marketplace that gives TSPs the ability to manage, monitor, and bill all their Office 365 and Azure customers &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>The SAP-Google data custodian partnership</title>
-      <link>//crypt0.net/post/the-sapgoogle-data-custodian-partnership/</link>
-      <pubDate>Thu, 22 Jun 2017 00:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-sapgoogle-data-custodian-partnership/</guid>
-      <description>Google Cloud Platform (GCP) already offers robust security capabilities and extensive compliance with public cloud security and privacy standards. more.
 @crypt0net</description>
     </item>
     
