@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 08 Jul 2017 07:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2017 07:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WikiLeaks drops new CIA tools, BothanSpy and Gyrfalcon</title>
+      <link>//crypt0.net/post/wikileaks-drops-new-cia-tools-bothanspy-and-gyrfalcon/</link>
+      <pubDate>Sat, 08 Jul 2017 07:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/wikileaks-drops-new-cia-tools-bothanspy-and-gyrfalcon/</guid>
+      <description>BothanSpy will exfiltrate the stolen credentials through the Fire and Collect (F&amp;amp;C) channel and out to disk on the attacker-side. By using F&amp;amp;C &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Enterprise IT Startup Spotinst Secures $15 Million</title>
@@ -21467,26 +21477,6 @@
       <guid>//crypt0.net/post/tech-forum-microsoft-azure-app-service/</guid>
       <description>Check out what&amp;rsquo;s happening in your area. more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>MongoDB Stitches New Backend Database for the Cloud</title>
-      <link>//crypt0.net/post/mongodb-stitches-new-backend-database-for-the-cloud/</link>
-      <pubDate>Fri, 23 Jun 2017 07:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mongodb-stitches-new-backend-database-for-the-cloud/</guid>
-      <description>Atlas was originally available only on Amazon Web Services (AWS) but is now being extended to Microsoft Azure and Google Cloud Platform. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>The Case of Portugal&#39;s Blockchain</title>
-      <link>//crypt0.net/post/the-case-of-portugals-blockchain/</link>
-      <pubDate>Fri, 23 Jun 2017 07:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-case-of-portugals-blockchain/</guid>
-      <description>Blockchain has survived its own hype and ongoing criticism by a number of experts and industry players. Or maybe it is merely an example of how &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
