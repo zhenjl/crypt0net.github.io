@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 08 Jul 2017 17:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2017 17:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1703021 Network topology should not show </title>
+      <link>//crypt0.net/post/bug-1703021-network-topology-should-not-show/</link>
+      <pubDate>Sat, 08 Jul 2017 17:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1703021-network-topology-should-not-show/</guid>
+      <description>both shared and non-shared networks. Clicking on one will provide &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Can Tech Data Corp (TECD)&#39;s Tomorrow Be Different? The Stock Increases</title>
@@ -21787,56 +21797,6 @@ Report: Data breaches cost Australian businesses AU$2.51M Australian organizatio
       <guid>//crypt0.net/post/how-to-configure-keystone-tokenflush-in-red-hat-openstack-platform-10-and/</guid>
       <description>How to configure keystone token_flush in Red Hat OpenStack Platform 10 and earlier. Environment. Red Hat OpenStack Platform 9. Red Hat &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>AWS GovCloud lags behind private sector, but that&#39;s changing</title>
-      <link>//crypt0.net/post/aws-govcloud-lags-behind-private-sector-but-thats-changing/</link>
-      <pubDate>Fri, 23 Jun 2017 17:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aws-govcloud-lags-behind-private-sector-but-thats-changing/</guid>
-      <description>While Amazon Web Services (AWS) has established itself as a top contender in the cloud computing market, it&amp;rsquo;s not without its challenges and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Anantha Chandrakasan named dean of School of Engineering</title>
-      <link>//crypt0.net/post/anantha-chandrakasan-named-dean-of-school-of-engineering/</link>
-      <pubDate>Fri, 23 Jun 2017 17:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/anantha-chandrakasan-named-dean-of-school-of-engineering/</guid>
-      <description>More recently, his research has addressed the challenge of powering even more energy-constrained technologies, such as the internet of things that &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Blockchain Startup TrueFlip Reinvents Business with 600 Year Long History</title>
-      <link>//crypt0.net/post/blockchain-startup-trueflip-reinvents-business-with-600-year-long-history/</link>
-      <pubDate>Fri, 23 Jun 2017 17:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-startup-trueflip-reinvents-business-with-600-year-long-history/</guid>
-      <description>Blockchain News The general idea to launch a lottery project came to the founders of Trueflip in September, 2016, as they were exploring Blockchain technology and at &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Google removes private medical records from search results</title>
-      <link>//crypt0.net/post/google-removes-private-medical-records-from-search-results/</link>
-      <pubDate>Fri, 23 Jun 2017 17:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-removes-private-medical-records-from-search-results/</guid>
-      <description>Healthcare systems get hacked, insurance providers suffer massive data breaches, and clerical errors lead to medical records being put up online for &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>The Blockchain Revolution: Where&#39;s the Disruption?</title>
-      <link>//crypt0.net/post/the-blockchain-revolution-wheres-the-disruption/</link>
-      <pubDate>Fri, 23 Jun 2017 17:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-blockchain-revolution-wheres-the-disruption/</guid>
-      <description>Unlike containers, which went from zero to 60 in a matter of months, blockchains might seem to be stuck in second gear. Sometimes, appearances &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>
