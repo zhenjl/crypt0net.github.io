@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 08 Jul 2017 17:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2017 18:05:01 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Daily Cloud Computing News from @cloudfeednet - Jul 8, 2017</title>
+      <link>//crypt0.net/daily/daily-cloud-news-2017-07-08/</link>
+      <pubDate>Sat, 08 Jul 2017 18:05:01 +0000</pubDate>
+      
+      <guid>//crypt0.net/daily/daily-cloud-news-2017-07-08/</guid>
+      <description>Daily Cloud Computing news from @cloudfeednet.
+Setting Up You Own Machine On The Cloud With Amazon Web Services And Parsec but our software is open to be installed anywhere, on any gaming PC &amp;hellip; more.
+A quick look at HTTP triggers on Google Cloud Functions - Opeyemi Obembe what tells your functions to run). You simply check a box and that&amp;rsquo;s it. more.
+Google&amp;rsquo;s Cloud Spanner: how does it stack up?</description>
+    </item>
     
     <item>
       <title>Bug #1703021 Network topology should not show </title>
