@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 08 Jul 2017 01:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2017 02:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft layoffs: Indian operations likely to be impacted too</title>
+      <link>//crypt0.net/post/microsoft-layoffs-indian-operations-likely-to-be-impacted-too/</link>
+      <pubDate>Sat, 08 Jul 2017 02:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-layoffs-indian-operations-likely-to-be-impacted-too/</guid>
+      <description>These data centres will be offering a range of cloud capabilities including Microsoft&amp;rsquo;s Azure cloud, and will add Office 365. The company has also &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Four pointers on managing a hybrid IT environment</title>
@@ -7974,36 +7984,6 @@ Rackspace Named a Leader in Independent Evaluation for Hosted Private Cloud Mark
       
       <guid>//crypt0.net/post/mongodb-helps-developers-stitch-services-together/</guid>
       <description>Integrations already exist with Google, Facebook, Amazon Web Services (AWS), Twilio, Slack, MailGun and messaging API specialist PubNub, but &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services having trouble with US-East, again, taking out Lambda</title>
-      <link>//crypt0.net/post/amazon-web-services-having-trouble-with-useast-again-taking-out-lambda/</link>
-      <pubDate>Fri, 23 Jun 2017 02:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-web-services-having-trouble-with-useast-again-taking-out-lambda/</guid>
-      <description>GeekWire A problem with one of Amazon Web Services&amp;rsquo; most promising new technologies has spread into a wider outage involving its notorious U.S.-East &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Snowflake Aims to Simplify Data Sharing via the Cloud</title>
-      <link>//crypt0.net/post/snowflake-aims-to-simplify-data-sharing-via-the-cloud/</link>
-      <pubDate>Fri, 23 Jun 2017 02:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/snowflake-aims-to-simplify-data-sharing-via-the-cloud/</guid>
-      <description>&amp;hellip; is built on top of a relational database that Snowflake Computing makes available as a cloud service running on Amazon Web Services (AWS). more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft and Partners Highlight Open Source Dev Tools for Azure</title>
-      <link>//crypt0.net/post/microsoft-and-partners-highlight-open-source-dev-tools-for-azure/</link>
-      <pubDate>Fri, 23 Jun 2017 02:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-and-partners-highlight-open-source-dev-tools-for-azure/</guid>
-      <description>Microsoft and some of its open source partners conducted an Azure OpenDev online presentation on Wednesday. The presentation was yet another &amp;hellip; more.
 @crypt0net</description>
     </item>
     
