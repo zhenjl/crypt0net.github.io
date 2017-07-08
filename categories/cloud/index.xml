@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 08 Jul 2017 09:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2017 09:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenSSL Link 404 in tls-proxies section</title>
+      <link>//crypt0.net/post/openssl-link-404-in-tlsproxies-section/</link>
+      <pubDate>Sat, 08 Jul 2017 09:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openssl-link-404-in-tlsproxies-section/</guid>
+      <description>link anchored to &amp;lsquo;ciphers&amp;rsquo;: Before we delve into the configurations, we briefly &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Securing Application Traffic with F5 on AWS</title>
+      <link>//crypt0.net/post/securing-application-traffic-with-f5-on-aws/</link>
+      <pubDate>Sat, 08 Jul 2017 09:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/securing-application-traffic-with-f5-on-aws/</guid>
+      <description>F5&amp;rsquo;s BIG-IP virtual edition (VE) application delivery controller (ADC) on Amazon Web Services (AWS) enables users to specifically address those &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Laying Off Thousands As Company Shifts Focus</title>
