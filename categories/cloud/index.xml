@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 08 Jul 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2017 19:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wiki Document Needs to be Updated</title>
+      <link>//crypt0.net/post/wiki-document-needs-to-be-updated/</link>
+      <pubDate>Sat, 08 Jul 2017 19:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/wiki-document-needs-to-be-updated/</guid>
+      <description>https://wiki.openstack.org/wiki/Neutron/DVR needs to be updated as it still refers to the Juno &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Jul 8, 2017</title>
@@ -7815,46 +7825,6 @@ Rackspace Named a Leader in Independent Evaluation for Hosted Private Cloud Mark
       
       <guid>//crypt0.net/post/louisville-receives-amazon-web-services-award-for-improving-traffic-flow/</guid>
       <description>For part of that project, the city used Amazon Web Services to store Waze real-time data and transformed it for use. It was successful for Metro and this &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google promises to stop digging through your email inbox to target ads</title>
-      <link>//crypt0.net/post/google-promises-to-stop-digging-through-your-email-inbox-to-target-ads/</link>
-      <pubDate>Fri, 23 Jun 2017 19:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-promises-to-stop-digging-through-your-email-inbox-to-target-ads/</guid>
-      <description>Mashable &amp;hellip; skimmed their emails as it does with its free Gmail service, but some were confused about that point, according to Google Cloud SVP Diane Greene. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>cosmosdb-java-create-documentdb-and-get-mongodb-connection-string -</title>
-      <link>//crypt0.net/post/cosmosdbjavacreatedocumentdbandgetmongodbconnectionstring-/</link>
-      <pubDate>Fri, 23 Jun 2017 19:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cosmosdbjavacreatedocumentdbandgetmongodbconnectionstring-/</guid>
-      <description>If you don&amp;rsquo;t have a Microsoft Azure subscription you can get a FREE trial &amp;hellip; This project has adopted the Microsoft Open Source Code of Conduct. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Rackspace Named a Leader in Independent Evaluation for Hosted Private Cloud</title>
-      <link>//crypt0.net/post/rackspace-named-a-leader-in-independent-evaluation-for-hosted-private-cloud/</link>
-      <pubDate>Fri, 23 Jun 2017 19:30:01 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rackspace-named-a-leader-in-independent-evaluation-for-hosted-private-cloud/</guid>
-      <description>Markets Insider Rackspace scored highest among vendors in the strategy category for its Rackspace OpenStack Private Cloud, which Rackspace believes &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Traditional app migration to public cloud bringing unexpected issues</title>
-      <link>//crypt0.net/post/traditional-app-migration-to-public-cloud-bringing-unexpected-issues/</link>
-      <pubDate>Fri, 23 Jun 2017 19:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/traditional-app-migration-to-public-cloud-bringing-unexpected-issues/</guid>
-      <description>&amp;ldquo;Amazon Web Services [AWS] has a large ecosystem of support teams and providers that facilitate the migration, consult on migration, andtry to &amp;hellip; more.
 @crypt0net</description>
     </item>
     
