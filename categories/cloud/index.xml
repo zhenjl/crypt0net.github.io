@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 09 Jul 2017 02:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jul 2017 05:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Webhooks Integration: Page is hanging when Microsoft Azure Webhook URL is</title>
+      <link>//crypt0.net/post/webhooks-integration-page-is-hanging-when-microsoft-azure-webhook-url-is/</link>
+      <pubDate>Sun, 09 Jul 2017 05:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/webhooks-integration-page-is-hanging-when-microsoft-azure-webhook-url-is/</guid>
+      <description>This just started happening in the last day or two. If you paste an &amp;ldquo;https&amp;rdquo; URL &amp;hellip; I was able to see the issue when I test the URL you provided. But I think it &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Dante Labs Partners With Amazon UK for Special 349 Whole Genome Sequencing</title>
