@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 10 Jul 2017 02:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2017 02:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The great capacity gamble: Amazon or Walmart?</title>
+      <link>//crypt0.net/post/the-great-capacity-gamble-amazon-or-walmart/</link>
+      <pubDate>Mon, 10 Jul 2017 02:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-great-capacity-gamble-amazon-or-walmart/</guid>
+      <description>According to the Wall Street Journal, Walmart has told tech companies it does business with to stop using Amazon Web Services (AWS) and instead &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>A Slew of Complaints Arising from Failures of Microsoft Azure Service</title>
@@ -19,16 +29,6 @@
       
       <guid>//crypt0.net/post/a-slew-of-complaints-arising-from-failures-of-microsoft-azure-service/</guid>
       <description>According to Microsoft and industry sources on July, it has been found that Korean users of the Azure Cloud Service were not able to access the &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>The great capacity gamble: Amazon or Walmart?</title>
-      <link>//crypt0.net/post/the-great-capacity-gamble-amazon-or-walmart/</link>
-      <pubDate>Mon, 10 Jul 2017 01:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-great-capacity-gamble-amazon-or-walmart/</guid>
-      <description>&amp;hellip; Walmart has told tech companies it does business with to stop using Amazon Web Services (AWS) and instead use Microsoft&amp;rsquo;s Azure platform. more.
 @crypt0net</description>
     </item>
     
@@ -7566,16 +7566,6 @@ Google will stop snooping on your emails to target ads at you This likely won&am
       
       <guid>//crypt0.net/post/neutron-ovs-config-instructions-are-not-clear/</guid>
       <description>be mandatory. # External interface will be automatically added to &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google will stop scanning your Gmail messages</title>
-      <link>//crypt0.net/post/google-will-stop-scanning-your-gmail-messages/</link>
-      <pubDate>Sun, 25 Jun 2017 02:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-will-stop-scanning-your-gmail-messages/</guid>
-      <description>&amp;hellip; Google to find and retain corporate clients for its cloud services business, according to Diane Greene, Google&amp;rsquo;s cloud division head, who spoke with &amp;hellip; more.
 @crypt0net</description>
     </item>
     
