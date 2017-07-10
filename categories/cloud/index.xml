@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 10 Jul 2017 13:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2017 13:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>mshiran, Author at OpenStack Blog for VMware</title>
+      <link>//crypt0.net/post/mshiran-author-at-openstack-blog-for-vmware/</link>
+      <pubDate>Mon, 10 Jul 2017 13:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mshiran-author-at-openstack-blog-for-vmware/</guid>
+      <description>team. RSS Feed for this Blog. Recent Posts. OpenStack Boston Summit &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Ascenty launches Microsoft Azure ExpressRoute in Brazil</title>
@@ -69,16 +79,6 @@
       
       <guid>//crypt0.net/post/inforeliance-meets-aws-workload-competency-requirements-for-3-microsoft/</guid>
       <description>ExecutiveBiz (blog) Amazon Web Services has granted certification to Fairfax County, Virginia-based InfoReliance for the latter company&amp;rsquo;s capacity to help customers &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>New IDC MarketScape Evaluates Internet of Things Software Platform</title>
-      <link>//crypt0.net/post/new-idc-marketscape-evaluates-internet-of-things-software-platform/</link>
-      <pubDate>Mon, 10 Jul 2017 12:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/new-idc-marketscape-evaluates-internet-of-things-software-platform/</guid>
-      <description>Business Wire (press release) The 12 vendors evaluated in the study include Amazon Web Services (AWS), Ayla Networks, Bosch Software Innovations, Fujitsu, GE Digital, Hewlett &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -7716,16 +7716,6 @@ Google will stop snooping on your emails to target ads at you This likely won&am
       
       <guid>//crypt0.net/post/bug-1700362-nova-boot-instance-from-volume-not-support-specify/</guid>
       <description>cinder-volume was configured with multiple storage. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google will stop reading your e- mail</title>
-      <link>//crypt0.net/post/google-will-stop-reading-your-e-mail/</link>
-      <pubDate>Sun, 25 Jun 2017 13:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-will-stop-reading-your-e-mail/</guid>
-      <description>Google Cloud sells a package of office software, called G Suite, that competes with market leader Microsoft. Paying Gmail users never received the &amp;hellip; more.
 @crypt0net</description>
     </item>
     
