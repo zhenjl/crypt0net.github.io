@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2017 09:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 09:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Realtime data processing using Google Cloud and OpenTSDB</title>
+      <link>//crypt0.net/post/realtime-data-processing-using-google-cloud-and-opentsdb/</link>
+      <pubDate>Tue, 11 Jul 2017 09:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/realtime-data-processing-using-google-cloud-and-opentsdb/</guid>
+      <description>of a number of posts on how Greta.io performs high scale realtime &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Multimedios selects AWS Elemental, Amazon Web Services</title>
@@ -8207,16 +8217,6 @@ Morgan Stanley: Cloud computing is at &amp;lsquo;an inflection point&amp;rsquo; 
       
       <guid>//crypt0.net/post/why-amazon-has-so-many-fans-on-wall-street/</guid>
       <description>Results should also benefit, he added, from improved profitability in its fast-growing Amazon Web Services cloud-computing unit. Michael Pachter &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google is going to stop reading your emails to learn about you</title>
-      <link>//crypt0.net/post/google-is-going-to-stop-reading-your-emails-to-learn-about-you/</link>
-      <pubDate>Mon, 26 Jun 2017 09:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-is-going-to-stop-reading-your-emails-to-learn-about-you/</guid>
-      <description>Google Cloud senior vice president Diane Greene said the free Gmail service would now follow the same practices as its corporate G Suite Gmail, &amp;hellip; more.
 @crypt0net</description>
     </item>
     

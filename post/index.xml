@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2017 09:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 09:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Realtime data processing using Google Cloud and OpenTSDB</title>
+      <link>//crypt0.net/post/realtime-data-processing-using-google-cloud-and-opentsdb/</link>
+      <pubDate>Tue, 11 Jul 2017 09:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/realtime-data-processing-using-google-cloud-and-opentsdb/</guid>
+      <description>of a number of posts on how Greta.io performs high scale realtime &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Startup raises $800000 to launch &#39;blockchain&#39; food supply chain</title>
@@ -22437,26 +22447,6 @@
       <guid>//crypt0.net/post/google-starts-removing-private-medical-records-from-search-results/</guid>
       <description>Between 2010 and 2013, approximately 29 million medical records in the U.S. were affected by data breaches, according to a study released in 2015. more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>SpaceX completes launch and landing double bill</title>
-      <link>//crypt0.net/post/spacex-completes-launch-and-landing-double-bill/</link>
-      <pubDate>Mon, 26 Jun 2017 09:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/spacex-completes-launch-and-landing-double-bill/</guid>
-      <description>This machine-to-machine service has a big future, especially as more and more devices are linked together in the coming, so-called &amp;ldquo;internet of things&amp;rdquo; &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Google is going to stop reading your emails to learn about you</title>
-      <link>//crypt0.net/post/google-is-going-to-stop-reading-your-emails-to-learn-about-you/</link>
-      <pubDate>Mon, 26 Jun 2017 09:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-is-going-to-stop-reading-your-emails-to-learn-about-you/</guid>
-      <description>Google Cloud senior vice president Diane Greene said the free Gmail service would now follow the same practices as its corporate G Suite Gmail, &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
