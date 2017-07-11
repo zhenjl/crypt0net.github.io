@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2017 02:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 02:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,20 @@
     <item>
       <title>Equinix Further Expands SG2 IBX Data Center in Singapore</title>
       <link>//crypt0.net/post/equinix-further-expands-sg2-ibx-data-center-in-singapore/</link>
-      <pubDate>Tue, 11 Jul 2017 02:20:03 +0000</pubDate>
+      <pubDate>Tue, 11 Jul 2017 02:30:02 +0000</pubDate>
       
       <guid>//crypt0.net/post/equinix-further-expands-sg2-ibx-data-center-in-singapore/</guid>
-      <description>&amp;hellip; Oracle Cloud, Microsoft Azure, and Google Cloud Platform through Equinix Cloud Exchange (ECX). This enables businesses to do more in the &amp;hellip; more.
+      <description>&amp;hellip; market demands for direct connect to leading cloud service providers including Amazon Web Services, Oracle Cloud, Microsoft Azure, and Google &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>instance catalogue residual after excute resize-revert</title>
+      <link>//crypt0.net/post/instance-catalogue-residual-after-excute-resizerevert/</link>
+      <pubDate>Tue, 11 Jul 2017 02:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/instance-catalogue-residual-after-excute-resizerevert/</guid>
+      <description>shared.After exceute resize revert, the instance catalogue will residual in destination &amp;hellip; more.
 @crypt0net</description>
     </item>
     
