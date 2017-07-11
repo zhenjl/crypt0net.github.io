@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2017 19:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 19:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cybersecurity readiness: The importance of network monitoring</title>
+      <link>//crypt0.net/post/cybersecurity-readiness-the-importance-of-network-monitoring/</link>
+      <pubDate>Tue, 11 Jul 2017 19:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cybersecurity-readiness-the-importance-of-network-monitoring/</guid>
+      <description>Using this information, it is possible to establish a baseline for normal network behavior, and then to identify unexpected or unwanted behavior, &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Hard Rock, Loews Warn on 7-Month Card Breach</title>
@@ -39,16 +49,6 @@
       
       <guid>//crypt0.net/post/marubeni-it-solutions-selects-secdos-incident-response-solution/</guid>
       <description>This approach provides an acute level of visibility into endpoints particularly useful in effective threat hunting using both IOCs and Behavioral IOCs. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Cybersecurity readiness: The importance of network monitoring</title>
-      <link>//crypt0.net/post/cybersecurity-readiness-the-importance-of-network-monitoring/</link>
-      <pubDate>Tue, 11 Jul 2017 18:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cybersecurity-readiness-the-importance-of-network-monitoring/</guid>
-      <description>It is possible to go beyond signature-based network monitoring and add network traffic analysis. Network traffic analysis is based upon the concept of &amp;hellip; more.
 @trustpath</description>
     </item>
     
