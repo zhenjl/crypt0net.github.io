@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2017 17:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 18:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Track request for OpenStack core snaps</title>
+      <link>//crypt0.net/post/track-request-for-openstack-core-snaps/</link>
+      <pubDate>Tue, 11 Jul 2017 18:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/track-request-for-openstack-core-snaps/</guid>
+      <description>OpenStack snaps listed below? Tracks: ocata, pike, queens Snaps: &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Getting Started with Google Cloud Platform  by the SAP HANA Academy</title>
@@ -8307,16 +8317,6 @@ Morgan Stanley: Cloud computing is at &amp;lsquo;an inflection point&amp;rsquo; 
       
       <guid>//crypt0.net/post/bug-1700583-no-volume-block-device-mapping-in-assisted-snapsho/</guid>
       <description>an error during assisted snapshots in four tests: &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google vs. Apple: When Your Computer Breaks, Where Are You Better Off?</title>
-      <link>//crypt0.net/post/google-vs-apple-when-your-computer-breaks-where-are-you-better-off/</link>
-      <pubDate>Mon, 26 Jun 2017 17:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-vs-apple-when-your-computer-breaks-where-are-you-better-off/</guid>
-      <description>off storing your data in Apple iCloud or Google Cloud? more.
 @crypt0net</description>
     </item>
     
