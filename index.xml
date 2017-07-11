@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2017 01:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 01:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advanced endpoint protection takes on the latest exploits</title>
+      <link>//crypt0.net/post/advanced-endpoint-protection-takes-on-the-latest-exploits/</link>
+      <pubDate>Tue, 11 Jul 2017 01:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/advanced-endpoint-protection-takes-on-the-latest-exploits/</guid>
+      <description>Advanced endpoint protection is arriving from all quarters &amp;ndash; machine learning, crafty sandboxes, behavior analytics. Learn how tech advances are &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Need sections on api audit / cadf</title>
