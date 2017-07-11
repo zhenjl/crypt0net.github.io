@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2017 08:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 08:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Can We Make the Internet of Things Secure?</title>
+      <link>//crypt0.net/post/can-we-make-the-internet-of-things-secure/</link>
+      <pubDate>Tue, 11 Jul 2017 08:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/can-we-make-the-internet-of-things-secure/</guid>
+      <description>In the simplest terms, Internet of Things (IoT) is the addition of some internet connectivity to everyday objects. Security cameras, for example, &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>&#39;Cybersecurity is a never-ending game of cat and mouse&#39;</title>
@@ -22477,26 +22487,6 @@
       <guid>//crypt0.net/post/google-strips-private-medical-data-from-searches/</guid>
       <description>In 2015, the Office of Civil Rights (OCR) recorded that US providers alone were affected by 253 medical data breaches, equivalent to 112 million &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>3D printing: Blockchain locks copycats out</title>
-      <link>//crypt0.net/post/3d-printing-blockchain-locks-copycats-out/</link>
-      <pubDate>Mon, 26 Jun 2017 08:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/3d-printing-blockchain-locks-copycats-out/</guid>
-      <description>Christoph Hammerschmidt. print reddit &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Cloud Identity Summit 2017: Ping Identity news and strategy; plus</title>
-      <link>//crypt0.net/post/cloud-identity-summit-2017-ping-identity-news-and-strategy-plus/</link>
-      <pubDate>Mon, 26 Jun 2017 08:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloud-identity-summit-2017-ping-identity-news-and-strategy-plus/</guid>
-      <description>Brian Madden Last week, I attended the Cloud Identity Summit for the first time. It&amp;rsquo;s hosted by Ping Identity, but only about a quarter of the content is dedicated to &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
