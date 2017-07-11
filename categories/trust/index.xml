@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2017 21:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 21:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft patches remote code execution vulnerability in its Malware</title>
+      <link>//crypt0.net/post/microsoft-patches-remote-code-execution-vulnerability-in-its-malware/</link>
+      <pubDate>Tue, 11 Jul 2017 21:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-patches-remote-code-execution-vulnerability-in-its-malware/</guid>
+      <description>TechGenix (blog) The patch is considered critical because the vulnerability affects popular products like Endpoint Protection, Security Essentials, and Defender. more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Tanium Improves EDR With Threat Response Security Platform</title>

@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2017 20:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 21:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Catch up on Azure cloud services for serverless, containers and more</title>
+      <link>//crypt0.net/post/catch-up-on-azure-cloud-services-for-serverless-containers-and-more/</link>
+      <pubDate>Tue, 11 Jul 2017 21:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/catch-up-on-azure-cloud-services-for-serverless-containers-and-more/</guid>
+      <description>Top cloud providers offer these event-driven services, including Amazon Web Services (AWS) Lambda and Microsoft Azure Functions, but they are not &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon is doubling its Chicago office with 200 new hires</title>
