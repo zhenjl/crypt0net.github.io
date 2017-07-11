@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2017 18:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 19:30:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Marubeni IT Solutions Selects Secdo&#39;s Incident Response Solution</title>
+      <link>//crypt0.net/post/marubeni-it-solutions-selects-secdos-incident-response-solution/</link>
+      <pubDate>Tue, 11 Jul 2017 19:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/marubeni-it-solutions-selects-secdos-incident-response-solution/</guid>
+      <description>This approach provides an acute level of visibility into endpoints particularly useful in effective threat hunting using both IOCs and Behavioral IOCs. more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Cybersecurity readiness: The importance of network monitoring</title>
@@ -220,16 +230,6 @@ Datacenter Networking Report Shows Emergence of SDN Real network behavior is the
       
       <guid>//crypt0.net/post/cyberhacked-companies-underperform-nasdaq-by-42-over-three-years/</guid>
       <description>Bischoff said: &amp;ldquo;Data breaches stain the reputations of companies both big and small, damaging the brand and reducing consumer trust, and &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Marubeni IT Solutions Selects Secdo&#39;s Incident Response Solution</title>
-      <link>//crypt0.net/post/marubeni-it-solutions-selects-secdos-incident-response-solution/</link>
-      <pubDate>Tue, 11 Jul 2017 13:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/marubeni-it-solutions-selects-secdos-incident-response-solution/</guid>
-      <description>Secdo is an automated EDR (Endpoint Detection and Response) solution, automating the IR process and slashing incident response time to seconds. more.
 @trustpath</description>
     </item>
     
