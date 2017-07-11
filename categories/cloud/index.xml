@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2017 12:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 12:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Is it possible to integrate S3 user authentication through OpenStack</title>
+      <link>//crypt0.net/post/is-it-possible-to-integrate-s3-user-authentication-through-openstack/</link>
+      <pubDate>Tue, 11 Jul 2017 12:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/is-it-possible-to-integrate-s3-user-authentication-through-openstack/</guid>
+      <description>Products &amp;amp; ServicesKnowledgebaseIs it possible to integrate S3 user authentication through OpenStack Keystone in RHCS? Comments; Helpful &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>A cloud in your datacenter? Azure Stack arrives</title>
@@ -8227,16 +8237,6 @@ Morgan Stanley: Cloud computing is at &amp;lsquo;an inflection point&amp;rsquo; 
       
       <guid>//crypt0.net/post/overspending-in-the-cloud-lessons-learned/</guid>
       <description>One of the reasons virtualization (the precursor to cloud computing) gained popularity in the early 2000s is that companies had too many servers &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google will stop scanning your emails for you to get targeted ads</title>
-      <link>//crypt0.net/post/google-will-stop-scanning-your-emails-for-you-to-get-targeted-ads/</link>
-      <pubDate>Mon, 26 Jun 2017 12:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-will-stop-scanning-your-emails-for-you-to-get-targeted-ads/</guid>
-      <description>Alphabet has another company under it called Google Cloud. Google Cloud provides software as a service called G-Suite which allows people to &amp;hellip; more.
 @crypt0net</description>
     </item>
     
