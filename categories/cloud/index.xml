@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2017 22:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 23:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1703637 ironic_compute noop failure for neutron_admin_pass...</title>
+      <link>//crypt0.net/post/bug-1703637-ironiccompute-noop-failure-for-neutronadminpass/</link>
+      <pubDate>Tue, 11 Jul 2017 23:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1703637-ironiccompute-noop-failure-for-neutronadminpass/</guid>
+      <description>that tries to deploy ironic_compute) more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft adds Azure Government cloud regions</title>
@@ -8317,16 +8327,6 @@ Accenture, Microsoft building blockchain ID prototype for healthcare, Healthcare
       
       <guid>//crypt0.net/post/googlecloudcore-0250/</guid>
       <description>(e.g. base Client and Connection classes) used by all of the google-cloud-* &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Wednesday, June 28, 2017 11:00am ET</title>
-      <link>//crypt0.net/post/wednesday-june-28-2017-1100am-et/</link>
-      <pubDate>Mon, 26 Jun 2017 22:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/wednesday-june-28-2017-1100am-et/</guid>
-      <description>After using public cloud services like Amazon AWS, Microsoft Azure and Google Compute Engine, your users learned that deploying applications &amp;hellip; more.
 @crypt0net</description>
     </item>
     
