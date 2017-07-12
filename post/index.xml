@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Jul 2017 03:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 03:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FlytBase Releases the World&#39;s First Internet of Drones Platform</title>
+      <link>//crypt0.net/post/flytbase-releases-the-worlds-first-internet-of-drones-platform/</link>
+      <pubDate>Wed, 12 Jul 2017 03:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/flytbase-releases-the-worlds-first-internet-of-drones-platform/</guid>
+      <description>Several IaaS/PaaS platforms, such as AWS, Azure, Google Cloud offer ready tools for IoT (Internet of Things), FlytBase CEO Nitin Gupta tells &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>ARM, Still Targeting Regular Remote Updates, Pays $15 Million For Simulity</title>
@@ -60,16 +70,6 @@
       <guid>//crypt0.net/post/symantec-buys-mobile-security-startup-skycure/</guid>
       <description>Once the Skycure deal closes in Symantec&amp;rsquo;s second quarter, its related technologies will be made available to Symantec&amp;rsquo;s Endpoint Protection and &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>FlytBase Releases the World&#39;s First Internet of Drones Platform</title>
-      <link>//crypt0.net/post/flytbase-releases-the-worlds-first-internet-of-drones-platform/</link>
-      <pubDate>Wed, 12 Jul 2017 02:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/flytbase-releases-the-worlds-first-internet-of-drones-platform/</guid>
-      <description>While drones are commonly included in discussions about the Internet of Things (IoT), FlytBase says that developing communication protocols for &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>
@@ -22576,16 +22576,6 @@
       <guid>//crypt0.net/post/aussie-data-breach-costs-drop-but-its-still-an-expensive-game-of-risk/</guid>
       <description>&amp;hellip; a 10% year-on-year decrease from $2.64 million last year, it is still taking five months for organisations to get on top of breach detection and an extra &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>HFTP Announces Blockchain Technology Task Force</title>
-      <link>//crypt0.net/post/hftp-announces-blockchain-technology-task-force/</link>
-      <pubDate>Tue, 27 Jun 2017 03:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hftp-announces-blockchain-technology-task-force/</guid>
-      <description>Hospitality Financial and Technology Professionals (HFTP) announced today that it is organizing a Blockchain Technology Task Force to prepare for &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
