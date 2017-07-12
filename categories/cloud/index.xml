@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Jul 2017 16:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 16:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Updating `openstack-selinux&#39; changes /var/lib/mongodb/* SELinux context and</title>
+      <link>//crypt0.net/post/updating-openstackselinux-changes-varlibmongodb-selinux-context-and/</link>
+      <pubDate>Wed, 12 Jul 2017 16:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/updating-openstackselinux-changes-varlibmongodb-selinux-context-and/</guid>
+      <description>Updating openstack-selinux changes /var/lib/mongodb/* SELinux context, which may result in &amp;lsquo;openstack overcloud update &amp;hellip;&amp;rsquo; failure at Heat resource &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>AT&amp;T NetBond Unveils Oracle&#39;s FastConnect for Cloud Users</title>
