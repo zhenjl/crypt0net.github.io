@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Jul 2017 00:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 01:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Bundles Office 365, Windows 10, Enterprise Mobility and Security</title>
+      <link>//crypt0.net/post/microsoft-bundles-office-365-windows-10-enterprise-mobility-and-security/</link>
+      <pubDate>Wed, 12 Jul 2017 01:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-bundles-office-365-windows-10-enterprise-mobility-and-security/</guid>
+      <description>According to Microsoft, Azure Stack offers a consistent hybrid cloud platform, providing an ideal fit for customers who want flexibility without having to &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Apple&#39;s FileMaker Goes AWS In Australia, Japan And Canada</title>
@@ -22576,16 +22586,6 @@
       <guid>//crypt0.net/post/seven-major-european-banks-select-ibm-to-bring-blockchainbased/</guid>
       <description>Finance to Small and Medium Enterprises. Information contained on this &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>google-cloud-storage 1.2.0</title>
-      <link>//crypt0.net/post/googlecloudstorage-120/</link>
-      <pubDate>Tue, 27 Jun 2017 00:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/googlecloudstorage-120/</guid>
-      <description>possible. Check out the Authentication section in our documentation to learn &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
