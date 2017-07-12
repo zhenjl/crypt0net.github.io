@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2017 23:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 00:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Internet Of Things Showdown: Cisco Vs. Sierra Wireless</title>
+      <link>//crypt0.net/post/the-internet-of-things-showdown-cisco-vs-sierra-wireless/</link>
+      <pubDate>Wed, 12 Jul 2017 00:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-internet-of-things-showdown-cisco-vs-sierra-wireless/</guid>
+      <description>This is called the internet of things and we are only on the tip of the iceberg. Every year it seems as though there is some new way to automate our &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Entry Form For 2nd Google Play Indie Games Festival Now Open</title>
@@ -22575,36 +22585,6 @@
       
       <guid>//crypt0.net/post/bug-1700578-error-during-tenantquotausages-function-calls-m/</guid>
       <description>https://github.com/openstack/horizon/blob/359467b4013bb4f89a6a1309e6eda8945 9288986/openstack_dashboard/usage/quotas.py#L442 [1] &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Another RCE Vulnerability Patched in Microsoft Malware Protection Engine</title>
-      <link>//crypt0.net/post/another-rce-vulnerability-patched-in-microsoft-malware-protection-engine/</link>
-      <pubDate>Mon, 26 Jun 2017 23:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/another-rce-vulnerability-patched-in-microsoft-malware-protection-engine/</guid>
-      <description>The engine is part of a number of Microsoft security products, including Microsoft Endpoint Protection, Microsoft Forefront Endpoint Protection, &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Fixed-line numbers to have 10 digits</title>
-      <link>//crypt0.net/post/fixedline-numbers-to-have-10-digits/</link>
-      <pubDate>Mon, 26 Jun 2017 23:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/fixedline-numbers-to-have-10-digits/</guid>
-      <description>Part of the demand will be driven by an expansion of wireless and wired broadband services for machine-to-machine connectivity of smart devices, the &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>google-cloud-core 0.25.0</title>
-      <link>//crypt0.net/post/googlecloudcore-0250/</link>
-      <pubDate>Mon, 26 Jun 2017 23:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/googlecloudcore-0250/</guid>
-      <description>(e.g. base Client and Connection classes) used by all of the google-cloud-* &amp;hellip; more.
 @crypt0net</description>
     </item>
     
