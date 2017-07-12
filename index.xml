@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Jul 2017 00:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 00:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FDD and CPRI Research Blockchain For Supply Chain Protection</title>
+      <link>//crypt0.net/post/fdd-and-cpri-research-blockchain-for-supply-chain-protection/</link>
+      <pubDate>Wed, 12 Jul 2017 00:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/fdd-and-cpri-research-blockchain-for-supply-chain-protection/</guid>
+      <description>The Foundation for Defense of Democracies and The Cybersecurity Policy and Research Institute investigate blockchain solutions to supply chain &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>The Internet Of Things Showdown: Cisco Vs. Sierra Wireless</title>
@@ -23085,16 +23095,6 @@ Santander steps up data centre security to protect 36 million customers Data Eco
       <guid>//crypt0.net/post/tellabs-optical-lan-enables-3-innovations-that-simplify-the-internet-of/</guid>
       <description>DALLAS, June 26, 2017 (GLOBE NEWSWIRE) &amp;ndash; Tellabs, the leader provider of Passive Optical Local Area Network solutions, and VT Group, a global &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Bug #1700578 Error during tenant_quota_usages function calls @m...</title>
-      <link>//crypt0.net/post/bug-1700578-error-during-tenantquotausages-function-calls-m/</link>
-      <pubDate>Tue, 27 Jun 2017 00:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1700578-error-during-tenantquotausages-function-calls-m/</guid>
-      <description>https://github.com/openstack/horizon/blob/359467b4013bb4f89a6a1309e6eda8945 9288986/openstack_dashboard/usage/quotas.py#L442 [1] &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
