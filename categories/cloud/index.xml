@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 12 Jul 2017 18:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2017 18:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How does VMware VIO add cloud functionality to vSphere?</title>
+      <link>//crypt0.net/post/how-does-vmware-vio-add-cloud-functionality-to-vsphere/</link>
+      <pubDate>Wed, 12 Jul 2017 18:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-does-vmware-vio-add-cloud-functionality-to-vsphere/</guid>
+      <description>OpenStack makes workloads available, but most distributions are difficult to deploy. How does VIO compare to other distributions, and how does it &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Lock your doors, people: Verizon breach on unsecured AWS server exposes 14M</title>
@@ -39,16 +49,6 @@
       
       <guid>//crypt0.net/post/cognosante-migrates-its-esante-engage360-platform-to-microsoft-azure/</guid>
       <description>We are excited to continue to strengthen our collaboration with Microsoft. By utilizing Microsoft Azure Government, Cognosante can more quickly and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How does VMware VIO add cloud functionality to vSphere?</title>
-      <link>//crypt0.net/post/how-does-vmware-vio-add-cloud-functionality-to-vsphere/</link>
-      <pubDate>Wed, 12 Jul 2017 18:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-does-vmware-vio-add-cloud-functionality-to-vsphere/</guid>
-      <description>This is a major improvement from the vCloud Director proprietary cloud because the OpenStack is open source and allows the user to build both &amp;hellip; more.
 @crypt0net</description>
     </item>
     
