@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 13 Jul 2017 03:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 04:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1704044 journal data from previous devstack runs have been...</title>
+      <link>//crypt0.net/post/bug-1704044-journal-data-from-previous-devstack-runs-have-been/</link>
+      <pubDate>Thu, 13 Jul 2017 04:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1704044-journal-data-from-previous-devstack-runs-have-been/</guid>
+      <description>runs, journal data from previous devstack is saved. This is a waste of both &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>An Upside Hidden Deep In Microsoft&#39;s Numbers</title>
@@ -8237,16 +8247,6 @@ Box to use Azure as strategic public cloud platform via extended Microsoft Box I
       
       <guid>//crypt0.net/post/amazon-bringing-translation-tech-to-aws/</guid>
       <description>Amazon is focusing their attention on expanding their Amazon Web Services platform with translation services. Meanwhile, independent companies &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft and Box Ink Yet Another Azure Cloud Partnership</title>
-      <link>//crypt0.net/post/microsoft-and-box-ink-yet-another-azure-cloud-partnership/</link>
-      <pubDate>Wed, 28 Jun 2017 04:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-and-box-ink-yet-another-azure-cloud-partnership/</guid>
-      <description>It doesn&amp;rsquo;t look like Box has ever met a cloud provider it doesn&amp;rsquo;t like. On Tuesday, the company, which sells cloud-based file storage and &amp;hellip; more.
 @crypt0net</description>
     </item>
     
