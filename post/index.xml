@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 13 Jul 2017 00:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 00:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Misconfigured Amazon Storage Exposes 14 Million Verizon Customer Records</title>
+      <link>//crypt0.net/post/misconfigured-amazon-storage-exposes-14-million-verizon-customer-records/</link>
+      <pubDate>Thu, 13 Jul 2017 00:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/misconfigured-amazon-storage-exposes-14-million-verizon-customer-records/</guid>
+      <description>The exposure of an estimated 14 million Verizon customer records in an unsecured Amazon Web Services (AWS) S3 storage bucket is calling new &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Cognosante Migrates its eSante EnGage360 Platform to Microsoft Azure</title>
@@ -22426,66 +22436,6 @@
       <guid>//crypt0.net/post/microsoft-and-box-ink-yet-another-cloud-partnership/</guid>
       <description>On Tuesday, the company, which sells cloud-based file storage and synchronization services to businesses, named Microsoft Azure as a &amp;ldquo;strategic &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google will stop looking at your emails to create targeted adverts</title>
-      <link>//crypt0.net/post/google-will-stop-looking-at-your-emails-to-create-targeted-adverts/</link>
-      <pubDate>Wed, 28 Jun 2017 00:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-will-stop-looking-at-your-emails-to-create-targeted-adverts/</guid>
-      <description>The decision wasn&amp;rsquo;t made by Google&amp;rsquo;s advertising department, but comes as Google looks to sell more Google Cloud packages, known as &amp;ldquo;G Suite&amp;rdquo;, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cloud Security and the Channel: Communication Key to Mitigating Risk</title>
-      <link>//crypt0.net/post/cloud-security-and-the-channel-communication-key-to-mitigating-risk/</link>
-      <pubDate>Wed, 28 Jun 2017 00:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloud-security-and-the-channel-communication-key-to-mitigating-risk/</guid>
-      <description>&amp;hellip; architecting and maintaining a cloud environment, be that in a hosted private cloud or in a public cloud like Amazon Web Services (AWS). This sort &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Global Cellular Machine-to-Machine (M2M)</title>
-      <link>//crypt0.net/post/global-cellular-machinetomachine-m2m/</link>
-      <pubDate>Wed, 28 Jun 2017 00:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/global-cellular-machinetomachine-m2m/</guid>
-      <description>2017: US$13 Billion Automotive Telematics Market Provides a Gold &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>It Takes Smart People To Make Smart Cities Work</title>
-      <link>//crypt0.net/post/it-takes-smart-people-to-make-smart-cities-work/</link>
-      <pubDate>Wed, 28 Jun 2017 00:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/it-takes-smart-people-to-make-smart-cities-work/</guid>
-      <description>Internet of Things sensors embedded in streets, light poles, and buildings will manage the flow of autonomous vehicles to reduce congestion and &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>McKinsey Publishes Internet of Things Update</title>
-      <link>//crypt0.net/post/mckinsey-publishes-internet-of-things-update/</link>
-      <pubDate>Wed, 28 Jun 2017 00:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mckinsey-publishes-internet-of-things-update/</guid>
-      <description>optimistic outlooks on new technological advances as well as plenty of room for &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>VC Firm Homebrew Considering an ICO to Raise its Next Fund</title>
-      <link>//crypt0.net/post/vc-firm-homebrew-considering-an-ico-to-raise-its-next-fund/</link>
-      <pubDate>Wed, 28 Jun 2017 00:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vc-firm-homebrew-considering-an-ico-to-raise-its-next-fund/</guid>
-      <description>Rooted in blockchain technology, ICOs are a form of crowdfunding whereby companies sell their own digital currencies or &amp;ldquo;tokens&amp;rdquo;similar to &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
