@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 13 Jul 2017 16:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 17:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Finally Has a Release Date for Azure Stack</title>
+      <link>//crypt0.net/post/microsoft-finally-has-a-release-date-for-azure-stack/</link>
+      <pubDate>Thu, 13 Jul 2017 17:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-finally-has-a-release-date-for-azure-stack/</guid>
+      <description>Microsoft&amp;rsquo;s public cloud, Azure, has met with great success in the industry. It&amp;rsquo;s a solid No. 2 behind Amazon Web Services (AWS), and in some &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>open-iscsi post-installation script fails in cinde... : Bugs :</title>
@@ -19,16 +29,6 @@
       
       <guid>//crypt0.net/post/openiscsi-postinstallation-script-fails-in-cinde--bugs-/</guid>
       <description>Installation of open-iscsi was introduced recently in https://git.openstack.org/cgit/openstack/openstack-ansible-os_cinder/commit /?id= &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Finally Has a Release Date for Azure Stack</title>
-      <link>//crypt0.net/post/microsoft-finally-has-a-release-date-for-azure-stack/</link>
-      <pubDate>Thu, 13 Jul 2017 16:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-finally-has-a-release-date-for-azure-stack/</guid>
-      <description>Microsoft&amp;rsquo;s public cloud, Azure, has met with great success in the industry. It&amp;rsquo;s a solid No. 2 behind Amazon Web Services (AWS), and in some &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -8338,16 +8338,6 @@ Box to use Azure as strategic public cloud platform via extended Microsoft Box I
       
       <guid>//crypt0.net/post/microsoft-azure-active-directory-connect-cve20178613-remote-privilege/</guid>
       <description>Bugtraq ID: 99294. Class: Configuration Error. CVE: CVE-2017-8613. Remote: Yes. Local: No. Published: Jun 27 2017 12:00AM. Updated: Jun 27 &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google will stop scanning emails for ad targeting</title>
-      <link>//crypt0.net/post/google-will-stop-scanning-emails-for-ad-targeting/</link>
-      <pubDate>Wed, 28 Jun 2017 17:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-will-stop-scanning-emails-for-ad-targeting/</guid>
-      <description>&amp;hellip; but Diane Greene, senior vice president in charge of Google Cloud, told Bloomberg the firm would stop doing so to &amp;ldquo;more closely align&amp;rdquo; its business &amp;hellip; more.
 @crypt0net</description>
     </item>
     
