@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 13 Jul 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 18:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episerver Announces Release of Episerver Commerce for Microsoft Dynamics</title>
+      <link>//crypt0.net/post/episerver-announces-release-of-episerver-commerce-for-microsoft-dynamics/</link>
+      <pubDate>Thu, 13 Jul 2017 18:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/episerver-announces-release-of-episerver-commerce-for-microsoft-dynamics/</guid>
+      <description>PR Newswire (press release) Episerver Announces Release of Episerver Commerce for Microsoft &amp;hellip; and ERP capabilities of Dynamics 365, all within the Microsoft Azure cloud, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Jul 13, 2017</title>
@@ -8298,36 +8308,6 @@ Google tackles hybrid cloud with Nutanix partnership WASHINGTON D.C. Google is g
       
       <guid>//crypt0.net/post/hpe-joins-investors-in-openstack-startup-platform9s-22-million-funding/</guid>
       <description>CRN Platform9, a startup that&amp;rsquo;s seen spectacular growth over the last year by delivering on-premises OpenStack-based infrastructure, managed by a cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Kubernetes as a service offers orchestration benefits for containers</title>
-      <link>//crypt0.net/post/kubernetes-as-a-service-offers-orchestration-benefits-for-containers/</link>
-      <pubDate>Wed, 28 Jun 2017 18:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/kubernetes-as-a-service-offers-orchestration-benefits-for-containers/</guid>
-      <description>Organizations can install Tectonic on Amazon Web Services (AWS), Microsoft Azure or OpenStack using the HashiCorp Terraform tool or on bare &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>The engineer behind the Not Hotdog app from &#39;Silicon Valley&#39; put a lot of</title>
-      <link>//crypt0.net/post/the-engineer-behind-the-not-hotdog-app-from-silicon-valley-put-a-lot-of/</link>
-      <pubDate>Wed, 28 Jun 2017 18:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-engineer-behind-the-not-hotdog-app-from-silicon-valley-put-a-lot-of/</guid>
-      <description>TechCrunch Rather than use something like Google&amp;rsquo;s Cloud Vision API, Anglade actually got into the weeds, experimenting with TensorFlow and Keras. Because &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Wazee Digital Named AWS Public Sector Partner</title>
-      <link>//crypt0.net/post/wazee-digital-named-aws-public-sector-partner/</link>
-      <pubDate>Wed, 28 Jun 2017 18:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/wazee-digital-named-aws-public-sector-partner/</guid>
-      <description>xDENVERWazee Digital announced that it is now part of the Amazon Web Services Public Sector Partner Program. AWS PSP recognizes partners &amp;hellip; more.
 @crypt0net</description>
     </item>
     
