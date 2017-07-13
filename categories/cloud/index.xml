@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 13 Jul 2017 21:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 21:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Cloud Platform adds another region to take on AWS</title>
+      <link>//crypt0.net/post/google-cloud-platform-adds-another-region-to-take-on-aws/</link>
+      <pubDate>Thu, 13 Jul 2017 21:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-platform-adds-another-region-to-take-on-aws/</guid>
+      <description>Google (GOOG, GOOGL) Cloud Platform has a new region in London, which marks the tenth region overall and the second in Europe. The new GCP &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Spotinst Raises $15M in Series A Funding</title>
+      <link>//crypt0.net/post/spotinst-raises-15m-in-series-a-funding/</link>
+      <pubDate>Thu, 13 Jul 2017 21:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/spotinst-raises-15m-in-series-a-funding/</guid>
+      <description>Spotinst, a Tel Aviv, Israel-based cloud workload management company, raised $15M in Series A funding. The round was led by Intel Capital with &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Salesforce (CRM) to Go Live On Amazon Web Services In Canada</title>
@@ -8298,26 +8318,6 @@ Google tackles hybrid cloud with Nutanix partnership WASHINGTON D.C. Google is g
       
       <guid>//crypt0.net/post/local-governments-cloud-move-cuts-headaches-adds-control/</guid>
       <description>Badal and his team converted the website to a serverless architecture using Python running on Amazon Web Services Lambda and S3 services. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Issues &#39;Important&#39; Security Fix for Azure AD Connect</title>
-      <link>//crypt0.net/post/microsoft-issues-important-security-fix-for-azure-ad-connect/</link>
-      <pubDate>Wed, 28 Jun 2017 21:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-issues-important-security-fix-for-azure-ad-connect/</guid>
-      <description>Microsoft is warning customers of a bug in its Azure Active Directory Connect product that could allow an adversary to escalate privileges and reset &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Q&amp;A: All of Us Data Center Ramps Up With Lofty Goals, Technical Challenges</title>
-      <link>//crypt0.net/post/qa-all-of-us-data-center-ramps-up-with-lofty-goals-technical-challenges/</link>
-      <pubDate>Wed, 28 Jun 2017 21:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/qa-all-of-us-data-center-ramps-up-with-lofty-goals-technical-challenges/</guid>
-      <description>Everything is being stored in Google Cloud, supported by numerous other technologies. For example, Vanderbilt is developing computational tools, &amp;hellip; more.
 @crypt0net</description>
     </item>
     
