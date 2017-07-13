@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 13 Jul 2017 02:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 03:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure SQL Data Warehouse turns up the heat, expands processing power</title>
+      <link>//crypt0.net/post/azure-sql-data-warehouse-turns-up-the-heat-expands-processing-power/</link>
+      <pubDate>Thu, 13 Jul 2017 03:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-sql-data-warehouse-turns-up-the-heat-expands-processing-power/</guid>
+      <description>Amazon Web Services forged the category with Amazon Redshift, and has been countered by Google BigQuery, Snowflake and other offerings. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Class Action and Regulatory Settlements Reflect the Rising Cost of Data</title>
@@ -480,16 +490,6 @@
       <guid>//crypt0.net/post/verizon-contractor-left-14m-customers-data-unprotected/</guid>
       <description>A tech company that investigates potential data breaches found a Verizon subcontractor left personal data for 14 million Verizon customers unguarded &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Azure SQL Data Warehouse turns up the heat, expands processing power</title>
-      <link>//crypt0.net/post/azure-sql-data-warehouse-turns-up-the-heat-expands-processing-power/</link>
-      <pubDate>Wed, 12 Jul 2017 21:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-sql-data-warehouse-turns-up-the-heat-expands-processing-power/</guid>
-      <description>Removing storage limits on Azure SQL Data Warehouse is a useful step for Microsoft in the cloud, according to Warner Chaves, SQL Server principal &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -22496,16 +22496,6 @@
       <guid>//crypt0.net/post/how-to-protect-your-computer-against-the-latest-ransomware-attack/</guid>
       <description>&amp;hellip; says it has been assumed the ransomware is spreading from machine to machine using a vulnerability called EternalBlue in Microsoft&amp;rsquo;s file and print &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Anthem Agrees to Pay Over $100 Million to Settle Data Breach Lawsuit:</title>
-      <link>//crypt0.net/post/anthem-agrees-to-pay-over-100-million-to-settle-data-breach-lawsuit/</link>
-      <pubDate>Wed, 28 Jun 2017 03:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/anthem-agrees-to-pay-over-100-million-to-settle-data-breach-lawsuit/</guid>
-      <description>JD Supra (press release) One of the most notable data breaches in recent years was the one suffered by health insurer Anthem involving the personal information of nearly 80 &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
