@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 13 Jul 2017 08:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 08:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Domain name got null in users table.</title>
+      <link>//crypt0.net/post/domain-name-got-null-in-users-table/</link>
+      <pubDate>Thu, 13 Jul 2017 08:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/domain-name-got-null-in-users-table/</guid>
+      <description>domain &amp;ldquo;swift_test&amp;rdquo;, I can see the domain name in it&amp;rsquo;s detail page, but null in &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Viptela Updates SD-WAN Fabric to Enhance Cloud Usage</title>
