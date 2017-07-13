@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 13 Jul 2017 11:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 12:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google announces London cloud computing data centre</title>
+      <link>//crypt0.net/post/google-announces-london-cloud-computing-data-centre/</link>
+      <pubDate>Thu, 13 Jul 2017 12:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-announces-london-cloud-computing-data-centre/</guid>
+      <description>At present, GCP offers fewer features than Amazon Web Services or Microsoft Azure, but it is catching up, according to Gartner. &amp;ldquo;Google uses deep &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>The Lifecycle of Data Protection Is Evolving. Here&#39;s What You Need To Know.</title>
@@ -22557,36 +22567,6 @@
       <guid>//crypt0.net/post/understanding-apples-internetofthings-story-in-10-slides/</guid>
       <description>Apple (NASDAQ: AAPL) has been hugely influential in streamlining and popularizing connected technologies, and its expertise in design and refining &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Anthem to pay record $115m to settle lawsuits over massive breach</title>
-      <link>//crypt0.net/post/anthem-to-pay-record-115m-to-settle-lawsuits-over-massive-breach/</link>
-      <pubDate>Wed, 28 Jun 2017 12:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/anthem-to-pay-record-115m-to-settle-lawsuits-over-massive-breach/</guid>
-      <description>In 2015, the Office of Civil Rights (OCR) recorded that US providers were affected by 253 medical data breaches, equivalent to 112m records. The bulk &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Google deal with Nutanix shows its cloud strategy is broadening</title>
-      <link>//crypt0.net/post/google-deal-with-nutanix-shows-its-cloud-strategy-is-broadening/</link>
-      <pubDate>Wed, 28 Jun 2017 11:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-deal-with-nutanix-shows-its-cloud-strategy-is-broadening/</guid>
-      <description>In the public cloud, Microsoft Azure and Amazon Web Services represent Google&amp;rsquo;s biggest competition. Microsoft has been working to make its public &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Hyperion Research Recognizes Bright Computing for their Integration with</title>
-      <link>//crypt0.net/post/hyperion-research-recognizes-bright-computing-for-their-integration-with/</link>
-      <pubDate>Wed, 28 Jun 2017 11:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hyperion-research-recognizes-bright-computing-for-their-integration-with/</guid>
-      <description>insideHPC There is fantastic momentum between Bright Computing and Microsoft Azure right now, said Brett Tanzer, Partner Group Program Manager at &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
