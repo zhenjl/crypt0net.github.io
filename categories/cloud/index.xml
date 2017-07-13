@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 13 Jul 2017 16:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 16:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>open-iscsi post-installation script fails in cinde... : Bugs :</title>
+      <link>//crypt0.net/post/openiscsi-postinstallation-script-fails-in-cinde--bugs-/</link>
+      <pubDate>Thu, 13 Jul 2017 16:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openiscsi-postinstallation-script-fails-in-cinde--bugs-/</guid>
+      <description>Installation of open-iscsi was introduced recently in https://git.openstack.org/cgit/openstack/openstack-ansible-os_cinder/commit /?id= &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Finally Has a Release Date for Azure Stack</title>
@@ -8338,26 +8348,6 @@ Box to use Azure as strategic public cloud platform via extended Microsoft Box I
       
       <guid>//crypt0.net/post/google-will-stop-scanning-emails-for-ad-targeting/</guid>
       <description>&amp;hellip; but Diane Greene, senior vice president in charge of Google Cloud, told Bloomberg the firm would stop doing so to &amp;ldquo;more closely align&amp;rdquo; its business &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Centrica to deploy Azure and Office 365</title>
-      <link>//crypt0.net/post/centrica-to-deploy-azure-and-office-365/</link>
-      <pubDate>Wed, 28 Jun 2017 16:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/centrica-to-deploy-azure-and-office-365/</guid>
-      <description>Utilities giant Centrica has signed a strategic partnership with Microsoft to deploy several cloud services. The owner of British Gas and Dynorod will &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Softchoice Earns Microsoft Gold Competency in Data Platform</title>
-      <link>//crypt0.net/post/softchoice-earns-microsoft-gold-competency-in-data-platform/</link>
-      <pubDate>Wed, 28 Jun 2017 16:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/softchoice-earns-microsoft-gold-competency-in-data-platform/</guid>
-      <description>Depending on customer requirements, these database recommendations may lead to solutions in Microsoft SQL Server running on Azure VM (IaaS), &amp;hellip; more.
 @crypt0net</description>
     </item>
     

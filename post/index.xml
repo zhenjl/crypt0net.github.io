@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 13 Jul 2017 16:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 16:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Do agents have to report all data breaches to clients?</title>
+      <link>//crypt0.net/post/do-agents-have-to-report-all-data-breaches-to-clients/</link>
+      <pubDate>Thu, 13 Jul 2017 16:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/do-agents-have-to-report-all-data-breaches-to-clients/</guid>
+      <description>not be legally obligated to report the incident to your clients. Check the &amp;hellip; more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>open-iscsi post-installation script fails in cinde... : Bugs :</title>
+      <link>//crypt0.net/post/openiscsi-postinstallation-script-fails-in-cinde--bugs-/</link>
+      <pubDate>Thu, 13 Jul 2017 16:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openiscsi-postinstallation-script-fails-in-cinde--bugs-/</guid>
+      <description>Installation of open-iscsi was introduced recently in https://git.openstack.org/cgit/openstack/openstack-ansible-os_cinder/commit /?id= &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Finally Has a Release Date for Azure Stack</title>
@@ -22707,56 +22727,6 @@
       <guid>//crypt0.net/post/that-fancy-samsung-fridge-might-be-made-in-south-carolina/</guid>
       <description>Samsung also acquired audio supplier Harman for $8 billion and committed $1.2 billion to US-based R&amp;amp;D and investments for Internet of Things &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Bitcoin&#39;s Blockchain Basis For IBM&#39;s New Financial Platform</title>
-      <link>//crypt0.net/post/bitcoins-blockchain-basis-for-ibms-new-financial-platform/</link>
-      <pubDate>Wed, 28 Jun 2017 16:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bitcoins-blockchain-basis-for-ibms-new-financial-platform/</guid>
-      <description>Tech giant IBM is building a blockchain-based platform for seven big European banks, including HSBC and Deutsche Bank, that is aimed at &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>CFTC Chief Asks Congress for More Money to Oversee Blockchain</title>
-      <link>//crypt0.net/post/cftc-chief-asks-congress-for-more-money-to-oversee-blockchain/</link>
-      <pubDate>Wed, 28 Jun 2017 16:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cftc-chief-asks-congress-for-more-money-to-oversee-blockchain/</guid>
-      <description>The US Commodity Futures Trading Commission has cited the advance of technologies like blockchain in a request to obtain additional funding for its &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Centrica to deploy Azure and Office 365</title>
-      <link>//crypt0.net/post/centrica-to-deploy-azure-and-office-365/</link>
-      <pubDate>Wed, 28 Jun 2017 16:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/centrica-to-deploy-azure-and-office-365/</guid>
-      <description>Utilities giant Centrica has signed a strategic partnership with Microsoft to deploy several cloud services. The owner of British Gas and Dynorod will &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Israeli Blockchain Start-Up Bancor Raises $153 Million in Digital Currency</title>
-      <link>//crypt0.net/post/israeli-blockchain-startup-bancor-raises-153-million-in-digital-currency/</link>
-      <pubDate>Wed, 28 Jun 2017 16:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/israeli-blockchain-startup-bancor-raises-153-million-in-digital-currency/</guid>
-      <description>JNS.org The Tel Aviv-based blockchain start-up Bancor Foundation raised $153 million worth of digital currency this month, in a record-setting initial &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Softchoice Earns Microsoft Gold Competency in Data Platform</title>
-      <link>//crypt0.net/post/softchoice-earns-microsoft-gold-competency-in-data-platform/</link>
-      <pubDate>Wed, 28 Jun 2017 16:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/softchoice-earns-microsoft-gold-competency-in-data-platform/</guid>
-      <description>Depending on customer requirements, these database recommendations may lead to solutions in Microsoft SQL Server running on Azure VM (IaaS), &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
