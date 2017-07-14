@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 14 Jul 2017 00:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 01:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Got UCaaS? Go Direct to Cloud</title>
+      <link>//crypt0.net/post/got-ucaas-go-direct-to-cloud/</link>
+      <pubDate>Fri, 14 Jul 2017 01:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/got-ucaas-go-direct-to-cloud/</guid>
+      <description>&amp;hellip; public cloud infrastructure from Amazon Web Services and Microsoft Azure, then automatically connects to the enterprise application resident there. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google Cloud Platform launches London region to reduce latency for</title>
@@ -23003,26 +23013,6 @@ Demisto and Vectra Networks Fight Hidden Cyberattacks Sophisticated attackers th
       
       <guid>//crypt0.net/post/release-aws-cloudtrail-on-20170627/</guid>
       <description>CloudTrail on 2017 06 27. This release of AWS CloudTrail supports Amazon &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Platform9 Raises Cash, Eyes Hybrid Cloud Deployments</title>
-      <link>//crypt0.net/post/platform9-raises-cash-eyes-hybrid-cloud-deployments/</link>
-      <pubDate>Thu, 29 Jun 2017 01:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/platform9-raises-cash-eyes-hybrid-cloud-deployments/</guid>
-      <description>The company is a leading promoter of Omni, a collection of open-source extensions for OpenStack that provide standard APIs for managing hybrid &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Analysts Cheer Nutanix Inc&#39;s Partnership with Google</title>
-      <link>//crypt0.net/post/analysts-cheer-nutanix-incs-partnership-with-google/</link>
-      <pubDate>Thu, 29 Jun 2017 00:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/analysts-cheer-nutanix-incs-partnership-with-google/</guid>
-      <description>&amp;hellip; a partnership that will allow Nutanix customers to easily move workloads between on-premise Nutanix deployments and the Google Cloud Platform. more.
 @crypt0net</description>
     </item>
     
