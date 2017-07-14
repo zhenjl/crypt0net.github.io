@@ -7,10 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 14 Jul 2017 12:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 13:00:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Astro Digital launched its first imaging satellites</title>
+      <link>//crypt0.net/post/astro-digital-launched-its-first-imaging-satellites/</link>
+      <pubDate>Fri, 14 Jul 2017 13:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/astro-digital-launched-its-first-imaging-satellites/</guid>
+      <description>&amp;hellip; its Medium page that it had put up the datasets it had generated from information collected from NASA&amp;rsquo;s MODIS satellite onto Amazon Web Services. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Azure Stack: Microsoft&#39;s private-cloud platform and what IT pros need to</title>
+      <link>//crypt0.net/post/azure-stack-microsofts-privatecloud-platform-and-what-it-pros-need-to/</link>
+      <pubDate>Fri, 14 Jul 2017 13:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-stack-microsofts-privatecloud-platform-and-what-it-pros-need-to/</guid>
+      <description>Network World Microsoft&amp;rsquo;s release of Azure Stack, an on-premises version of its public cloud, could be important for networking and data center pros for one simple &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>BMW, Microsoft to bring Skype for Business to 5 Series cars</title>
+      <link>//crypt0.net/post/bmw-microsoft-to-bring-skype-for-business-to-5-series-cars/</link>
+      <pubDate>Fri, 14 Jul 2017 13:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bmw-microsoft-to-bring-skype-for-business-to-5-series-cars/</guid>
+      <description>German-automaker BMW is working with Microsoft to bring the tech giant&amp;rsquo;s &amp;hellip; which will power BMW Connected, supported by Microsoft Azure cloud. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Google Expands Cloud Business, Opens Data Center in London</title>
+      <link>//crypt0.net/post/google-expands-cloud-business-opens-data-center-in-london/</link>
+      <pubDate>Fri, 14 Jul 2017 13:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-expands-cloud-business-opens-data-center-in-london/</guid>
+      <description>Alphabet Inc. (GOOGL - Free Report) owned search engine giant Google is gradually expanding its cloud services in Europe. The company recently &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>amd64 build of openstack-trove 1:8.0.0.0b3.dev21.201707141113.xe... : Pike</title>
+      <link>//crypt0.net/post/amd64-build-of-openstacktrove-18000b3dev21201707141113xe--pike/</link>
+      <pubDate>Fri, 14 Jul 2017 13:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amd64-build-of-openstacktrove-18000b3dev21201707141113xe--pike/</guid>
+      <description>Pike Testing; amd64 build of openstack-trove 1:8.0. &amp;hellip; openstack-trove_8.0.0.0b3.dev21.201707141113.xenial-0ubuntu1_amd64.changes (3.3 KiB) &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Cisco Plans To Acquire Observable Networks To Bolster Stealthwatch, Cloud</title>
@@ -8178,36 +8228,6 @@ Google tackles hybrid cloud with Nutanix partnership WASHINGTON D.C. Google is g
       
       <guid>//crypt0.net/post/linux-on-azure-what-are-your-choices/</guid>
       <description>If you still think Microsoft is all about Windows, wake up. Corey Sanders, Microsoft&amp;rsquo;s Director of Azure Compute, told me at Cloud Foundry Summit in &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Newly Google-emboldened Nutanix aims for data centre dominance</title>
-      <link>//crypt0.net/post/newly-googleemboldened-nutanix-aims-for-data-centre-dominance/</link>
-      <pubDate>Thu, 29 Jun 2017 13:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/newly-googleemboldened-nutanix-aims-for-data-centre-dominance/</guid>
-      <description>Nutanix is making a play to be a data centre control plane platform with a hybrid cloud game plan, buttressed by buddying up with the Google Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Azure AD Connect vulnerability allows attackers to reset admin passwords</title>
-      <link>//crypt0.net/post/azure-ad-connect-vulnerability-allows-attackers-to-reset-admin-passwords/</link>
-      <pubDate>Thu, 29 Jun 2017 12:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-ad-connect-vulnerability-allows-attackers-to-reset-admin-passwords/</guid>
-      <description>Microsoft Azure AD (Active Directory) is often used by enterprises to provide employees and business partners single sign-on access to cloud SaaS &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft: Gain business insights using Power BI reports for Azure Backup</title>
-      <link>//crypt0.net/post/microsoft-gain-business-insights-using-power-bi-reports-for-azure-backup/</link>
-      <pubDate>Thu, 29 Jun 2017 12:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-gain-business-insights-using-power-bi-reports-for-azure-backup/</guid>
-      <description>Azure Backup announced the support for alerting and monitoring in August 2016. Taking it a step further, we are excited to announce preview of Azure &amp;hellip; more.
 @crypt0net</description>
     </item>
     
