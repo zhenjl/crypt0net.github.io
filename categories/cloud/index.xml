@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 13 Jul 2017 23:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 00:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon Web Services drops controversial patent clause from standard user</title>
+      <link>//crypt0.net/post/amazon-web-services-drops-controversial-patent-clause-from-standard-user/</link>
+      <pubDate>Fri, 14 Jul 2017 00:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-web-services-drops-controversial-patent-clause-from-standard-user/</guid>
+      <description>GeekWire Amazon Web Services has quietly dropped a controversial provision from its user agreement that essentially forced customers to agree that they could &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Verizon data breach sees details of 14 million customers exposed</title>
+      <link>//crypt0.net/post/verizon-data-breach-sees-details-of-14-million-customers-exposed/</link>
+      <pubDate>Fri, 14 Jul 2017 00:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/verizon-data-breach-sees-details-of-14-million-customers-exposed/</guid>
+      <description>&amp;hellip; discovered by UpGuard, involved technology supplier Nice Systems, which left Verizon customer data unprotected on an Amazon Web Services S3 &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Salesforce Goes Live on Amazon Web Services Cloud Infrastructure in Canada</title>
@@ -8288,16 +8308,6 @@ Google tackles hybrid cloud with Nutanix partnership WASHINGTON D.C. Google is g
       
       <guid>//crypt0.net/post/analysts-cheer-nutanix-incs-partnership-with-google/</guid>
       <description>&amp;hellip; a partnership that will allow Nutanix customers to easily move workloads between on-premise Nutanix deployments and the Google Cloud Platform. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Continuum Backup and Disaster Recovery (BDR) Gains Archiving to AWS Glacier</title>
-      <link>//crypt0.net/post/continuum-backup-and-disaster-recovery-bdr-gains-archiving-to-aws-glacier/</link>
-      <pubDate>Thu, 29 Jun 2017 00:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/continuum-backup-and-disaster-recovery-bdr-gains-archiving-to-aws-glacier/</guid>
-      <description>Continuum Continuity247 gains cloud archiving to Amazon Web Services (AWS) Glacier, giving MSPs a lower-cost backup &amp;amp; disaster recovery (BDR) &amp;hellip; more.
 @crypt0net</description>
     </item>
     
