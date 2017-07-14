@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 14 Jul 2017 02:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 03:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft adds nested virtualization to Azure</title>
+      <link>//crypt0.net/post/microsoft-adds-nested-virtualization-to-azure/</link>
+      <pubDate>Fri, 14 Jul 2017 03:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-adds-nested-virtualization-to-azure/</guid>
+      <description>Microsoft reckons cloudy nested virtualization is handy for those who want to simulate on on-prem Hyper-V setup inside Azure, or fans of running &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How did the data of 14m Verizon customers end up online?</title>
@@ -22983,56 +22993,6 @@ Demisto and Vectra Networks Fight Hidden Cyberattacks Sophisticated attackers th
       
       <guid>//crypt0.net/post/zengold-the-yellow-metal-backed-cryptotokens-on-metaverse-blockchain/</guid>
       <description>Built on the recently popularized Metaverse blockchain, ZenGold allows investors to buy, sell and trade gold on the blockchain indirectly. The crypto &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>IoT Devices Will Make Up Half of Connected Devices by 2021</title>
-      <link>//crypt0.net/post/iot-devices-will-make-up-half-of-connected-devices-by-2021/</link>
-      <pubDate>Thu, 29 Jun 2017 02:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/iot-devices-will-make-up-half-of-connected-devices-by-2021/</guid>
-      <description>Connected home, connected healthcare, smart cars and other machine-to-machine modules will play a part in this traffic. Also in the next four years, &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>amd64 build of nova 2:16.0.0.0b3.dev196.201706282358.xenial-0ubu... : Pike</title>
-      <link>//crypt0.net/post/amd64-build-of-nova-216000b3dev196201706282358xenial0ubu--pike/</link>
-      <pubDate>Thu, 29 Jun 2017 02:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amd64-build-of-nova-216000b3dev196201706282358xenial0ubu--pike/</guid>
-      <description>251s] &amp;hellip; ok {0} nova.tests.unit.api.openstack.compute.test_keypairs.KeypairsTestV210.test_k eypair_list_other_user [1.500846s] &amp;hellip; ok more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cisco Gets on Board Microsoft&#39;s SONiC Train</title>
-      <link>//crypt0.net/post/cisco-gets-on-board-microsofts-sonic-train/</link>
-      <pubDate>Thu, 29 Jun 2017 02:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cisco-gets-on-board-microsofts-sonic-train/</guid>
-      <description>Cisco today indicated it is collaborating with Microsoft to bring more openness to its data center switching. Cisco will help Microsoft&amp;rsquo;s Azure Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Nutanix and Google Cloud team up to simplify hybrid cloud</title>
-      <link>//crypt0.net/post/nutanix-and-google-cloud-team-up-to-simplify-hybrid-cloud/</link>
-      <pubDate>Thu, 29 Jun 2017 02:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nutanix-and-google-cloud-team-up-to-simplify-hybrid-cloud/</guid>
-      <description>Today, we&amp;rsquo;re announcing a strategic partnership with Nutanix to help remove friction from hybrid cloud deployments for enterprises. We often hear &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Apply to Experiment in urban data or the Internet of Things in 2017</title>
-      <link>//crypt0.net/post/apply-to-experiment-in-urban-data-or-the-internet-of-things-in-2017/</link>
-      <pubDate>Thu, 29 Jun 2017 02:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/apply-to-experiment-in-urban-data-or-the-internet-of-things-in-2017/</guid>
-      <description>businesses and city authorities can work together to create digital solutions. more.
 @surgethings</description>
     </item>
     

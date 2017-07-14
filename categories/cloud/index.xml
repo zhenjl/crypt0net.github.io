@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 14 Jul 2017 02:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 03:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft adds nested virtualization to Azure</title>
+      <link>//crypt0.net/post/microsoft-adds-nested-virtualization-to-azure/</link>
+      <pubDate>Fri, 14 Jul 2017 03:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-adds-nested-virtualization-to-azure/</guid>
+      <description>Microsoft reckons cloudy nested virtualization is handy for those who want to simulate on on-prem Hyper-V setup inside Azure, or fans of running &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How did the data of 14m Verizon customers end up online?</title>
@@ -8258,36 +8268,6 @@ Google tackles hybrid cloud with Nutanix partnership WASHINGTON D.C. Google is g
       
       <guid>//crypt0.net/post/walmart-escalates-war-of-words-with-amazon/</guid>
       <description>&amp;hellip; companies with which it works to stop using Amazon Web Services for the retailer&amp;rsquo;s cloud-computing services or face losing Walmart&amp;rsquo;s business. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>amd64 build of nova 2:16.0.0.0b3.dev196.201706282358.xenial-0ubu... : Pike</title>
-      <link>//crypt0.net/post/amd64-build-of-nova-216000b3dev196201706282358xenial0ubu--pike/</link>
-      <pubDate>Thu, 29 Jun 2017 02:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amd64-build-of-nova-216000b3dev196201706282358xenial0ubu--pike/</guid>
-      <description>251s] &amp;hellip; ok {0} nova.tests.unit.api.openstack.compute.test_keypairs.KeypairsTestV210.test_k eypair_list_other_user [1.500846s] &amp;hellip; ok more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cisco Gets on Board Microsoft&#39;s SONiC Train</title>
-      <link>//crypt0.net/post/cisco-gets-on-board-microsofts-sonic-train/</link>
-      <pubDate>Thu, 29 Jun 2017 02:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cisco-gets-on-board-microsofts-sonic-train/</guid>
-      <description>Cisco today indicated it is collaborating with Microsoft to bring more openness to its data center switching. Cisco will help Microsoft&amp;rsquo;s Azure Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Nutanix and Google Cloud team up to simplify hybrid cloud</title>
-      <link>//crypt0.net/post/nutanix-and-google-cloud-team-up-to-simplify-hybrid-cloud/</link>
-      <pubDate>Thu, 29 Jun 2017 02:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nutanix-and-google-cloud-team-up-to-simplify-hybrid-cloud/</guid>
-      <description>Today, we&amp;rsquo;re announcing a strategic partnership with Nutanix to help remove friction from hybrid cloud deployments for enterprises. We often hear &amp;hellip; more.
 @crypt0net</description>
     </item>
     
