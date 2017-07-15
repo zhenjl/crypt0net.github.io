@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 15 Jul 2017 20:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2017 21:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nutanix teams up with Google, Zuora for cloud, subscription innovations</title>
+      <link>//crypt0.net/post/nutanix-teams-up-with-google-zuora-for-cloud-subscription-innovations/</link>
+      <pubDate>Sat, 15 Jul 2017 21:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/nutanix-teams-up-with-google-zuora-for-cloud-subscription-innovations/</guid>
+      <description>It takes us into new verticals like Internet of Things, extending the data center from a central cloud all the way to drones and edge computing, which is &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>contrail-vrouter-agent crash at Agent::InitControllerList</title>
@@ -259,16 +269,6 @@
       
       <guid>//crypt0.net/post/microsoft-readies-azure-stack-for-big-cloud-battle-on-september/</guid>
       <description>The company&amp;rsquo;s upcoming Azure Stack is expected to outpace VMware Cloud on Amazon Web Services in the battle for the control of the hybrid cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Nutanix teams up with Google, Zuora for cloud, subscription innovations</title>
-      <link>//crypt0.net/post/nutanix-teams-up-with-google-zuora-for-cloud-subscription-innovations/</link>
-      <pubDate>Sat, 15 Jul 2017 15:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nutanix-teams-up-with-google-zuora-for-cloud-subscription-innovations/</guid>
-      <description>&amp;hellip; partnership with Google, where Google will enable Nutanix-based applications to move from on-premises data centers to the Google Cloud Platform &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -20918,36 +20918,6 @@
       <guid>//crypt0.net/post/microsofts-cloudyn-acquisition-highlights-challenges-around-cost/</guid>
       <description>Microsoft cloud optimization should improve with its acquisition of Cloudyn to support Azure, as enterprises struggle to manage their public cloud bills. more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Build PMML-based Applications and Generate Predictions in AWS Amazon Web</title>
-      <link>//crypt0.net/post/build-pmmlbased-applications-and-generate-predictions-in-aws-amazon-web/</link>
-      <pubDate>Fri, 30 Jun 2017 21:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/build-pmmlbased-applications-and-generate-predictions-in-aws-amazon-web/</guid>
-      <description>You import the model using AWS Lambda with JPMML, a PMML producer and consumer library for the Java platform. It also downloads the Iris dataset &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Hive Project Launches Blockchain-Based Invoice Financing Platform, Targets</title>
-      <link>//crypt0.net/post/hive-project-launches-blockchainbased-invoice-financing-platform-targets/</link>
-      <pubDate>Fri, 30 Jun 2017 21:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hive-project-launches-blockchainbased-invoice-financing-platform-targets/</guid>
-      <description>Finance Magnates The Hive Project&amp;rsquo;s end-to-end platform aims to use blockchain to disrupt the SME finance space, using distributed ledger technology to offer SMEs &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>How Blockchain Reshapes Online Advertising: Trends</title>
-      <link>//crypt0.net/post/how-blockchain-reshapes-online-advertising-trends/</link>
-      <pubDate>Fri, 30 Jun 2017 21:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-blockchain-reshapes-online-advertising-trends/</guid>
-      <description>The hype around Blockchain is expanding further as more and more use cases become apparent to the wider business community. Even though it &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
