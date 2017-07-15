@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 15 Jul 2017 01:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2017 01:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Industrial Internet of Things (IIoT)</title>
+      <link>//crypt0.net/post/the-industrial-internet-of-things-iiot/</link>
+      <pubDate>Sat, 15 Jul 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-industrial-internet-of-things-iiot/</guid>
+      <description>resulted in an explosion of available information in the industrial environment, &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>We don&#39;t always use OpenStack, but when we do, we prefer HPE Helion</title>
+      <link>//crypt0.net/post/we-dont-always-use-openstack-but-when-we-do-we-prefer-hpe-helion/</link>
+      <pubDate>Sat, 15 Jul 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/we-dont-always-use-openstack-but-when-we-do-we-prefer-hpe-helion/</guid>
+      <description>cloud. It can greatly simplify the management of diverse pools of storage, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Asia Cloud Management for the OpenStack Market Size, Status and Forecast</title>
@@ -21547,16 +21567,6 @@
       <guid>//crypt0.net/post/siemens-introduces-a-completely-new-approach-to-psim/</guid>
       <description>Implementing a Physical Security Information Management system on campus, like any large integration project, has never been an easy task. more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>AWS launches turbocharged cloud virtual desktop</title>
-      <link>//crypt0.net/post/aws-launches-turbocharged-cloud-virtual-desktop/</link>
-      <pubDate>Fri, 30 Jun 2017 01:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aws-launches-turbocharged-cloud-virtual-desktop/</guid>
-      <description>Amazon Web Services has launched a new cloud virtual desktop offering that provides users with a turbocharged machine they can access over the &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
