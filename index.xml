@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 15 Jul 2017 20:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2017 20:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>contrail-vrouter-agent crash at Agent::InitControllerList</title>
+      <link>//crypt0.net/post/contrailvrouteragent-crash-at-agentinitcontrollerlist/</link>
+      <pubDate>Sat, 15 Jul 2017 20:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/contrailvrouteragent-crash-at-agentinitcontrollerlist/</guid>
+      <description>signal SIGSEGV, Segmentation fault. __memcpy_sse2_unaligned () at . more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Brighton&#39;s digital leaders invited to learn about 5G</title>
@@ -21446,26 +21456,6 @@ UMA cybersecurity program growing to keep up with industry The field of cybersec
       <guid>//crypt0.net/post/how-blockchain-reshapes-online-advertising-trends/</guid>
       <description>The hype around Blockchain is expanding further as more and more use cases become apparent to the wider business community. Even though it &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Advocates Building a Cloud Security Practice with New Playbook</title>
-      <link>//crypt0.net/post/microsoft-advocates-building-a-cloud-security-practice-with-new-playbook/</link>
-      <pubDate>Fri, 30 Jun 2017 20:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-advocates-building-a-cloud-security-practice-with-new-playbook/</guid>
-      <description>Microsoft just released its Security Practice Development Playbook, a 228 &amp;hellip; security focused practice across Office 365, Windows, EMS, and Azure. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Web Application Firewall Market 2017-2021 Global Industry Research Report</title>
-      <link>//crypt0.net/post/web-application-firewall-market-20172021-global-industry-research-report/</link>
-      <pubDate>Fri, 30 Jun 2017 20:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/web-application-firewall-market-20172021-global-industry-research-report/</guid>
-      <description>PR Newswire (press release) Another related report is Global Endpoint Detection and Response Market 2017-2021, to calculate the market size, the report considers the revenue &amp;hellip; more.
-@trustpath</description>
     </item>
     
     <item>
