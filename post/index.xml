@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 16 Jul 2017 18:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2017 19:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prometheus is claiming degrees C on my explicitly F mqtt temp sensors</title>
+      <link>//crypt0.net/post/prometheus-is-claiming-degrees-c-on-my-explicitly-f-mqtt-temp-sensors/</link>
+      <pubDate>Sun, 16 Jul 2017 19:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/prometheus-is-claiming-degrees-c-on-my-explicitly-f-mqtt-temp-sensors/</guid>
+      <description>#8506. Open. durin42 opened this Issue an hour ago 0 comments &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Blockchain for Babyboomers: What Stops Older Generation From Using Bitcoin?</title>
@@ -20358,16 +20368,6 @@
       <guid>//crypt0.net/post/global-agriculture-machine-to-machine-m2m-market-to-grow-at-a-cagr-of/</guid>
       <description>satPRnews (press release) MarketResearchNest.com adds Global Agriculture Machine To Machine (M2M) Market 2017-2021 new report to its research database. The report &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Windows 10 AutoPilot To Delight IT Admins With Zero-Touch PC</title>
-      <link>//crypt0.net/post/microsoft-windows-10-autopilot-to-delight-it-admins-with-zerotouch-pc/</link>
-      <pubDate>Sat, 01 Jul 2017 19:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-windows-10-autopilot-to-delight-it-admins-with-zerotouch-pc/</guid>
-      <description>Hot Hardware Microsoft just announced their new Windows AutoPilot this week. &amp;hellip; Organizations will need to have Azure AD Premium P1 or P2 licensing as well as a &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>

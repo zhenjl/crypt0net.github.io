@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 16 Jul 2017 18:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2017 19:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prometheus is claiming degrees C on my explicitly F mqtt temp sensors</title>
+      <link>//crypt0.net/post/prometheus-is-claiming-degrees-c-on-my-explicitly-f-mqtt-temp-sensors/</link>
+      <pubDate>Sun, 16 Jul 2017 19:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/prometheus-is-claiming-degrees-c-on-my-explicitly-f-mqtt-temp-sensors/</guid>
+      <description>#8506. Open. durin42 opened this Issue an hour ago 0 comments &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Blockchain for Babyboomers: What Stops Older Generation From Using Bitcoin?</title>
