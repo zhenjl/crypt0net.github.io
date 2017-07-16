@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 16 Jul 2017 15:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2017 16:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>5 Steps to Migrate Unisys Mainframes to AWS</title>
+      <link>//crypt0.net/post/5-steps-to-migrate-unisys-mainframes-to-aws/</link>
+      <pubDate>Sun, 16 Jul 2017 16:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/5-steps-to-migrate-unisys-mainframes-to-aws/</guid>
+      <description>In 2006, Amazon introduced its Amazon Web Services (AWS) Elastic Compute Cloud (EC2) infrastructure-as-a-service solution, followed quickly by &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Brick-and-mortar firms adopt AI</title>
