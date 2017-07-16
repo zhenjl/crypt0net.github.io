@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 16 Jul 2017 00:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2017 01:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EnvisionX to Bring Blockchain to Programmatic Advertising</title>
+      <link>//crypt0.net/post/envisionx-to-bring-blockchain-to-programmatic-advertising/</link>
+      <pubDate>Sun, 16 Jul 2017 01:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/envisionx-to-bring-blockchain-to-programmatic-advertising/</guid>
+      <description>By introducing a Blockchain element into its existing advertising technology, EnvisionX will advance global programmatic advertising to the next level &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Bitcoin Miners Miss the First BIP 148 Deadline</title>
@@ -20828,36 +20838,6 @@
       <guid>//crypt0.net/post/these-top-it-news-stories-prepare-operations-to-finish-2017-strong/</guid>
       <description>Open source Red Hat teamed up with Amazon Web Services (AWS) to update OpenShift for container portability. This collaboration also brings AWS &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Windows AutoPilot Service Promises &#39;Zero-Touch&#39; PC Provisioning</title>
-      <link>//crypt0.net/post/windows-autopilot-service-promises-zerotouch-pc-provisioning/</link>
-      <pubDate>Sat, 01 Jul 2017 00:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/windows-autopilot-service-promises-zerotouch-pc-provisioning/</guid>
-      <description>The Windows AutoPilot service has certain requirements. The scheme is heavily dependent on using Microsoft&amp;rsquo;s Azure Active Directory service. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Nutanix wants to power your whole hybrid cloud strategy</title>
-      <link>//crypt0.net/post/nutanix-wants-to-power-your-whole-hybrid-cloud-strategy/</link>
-      <pubDate>Sat, 01 Jul 2017 00:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nutanix-wants-to-power-your-whole-hybrid-cloud-strategy/</guid>
-      <description>&amp;hellip; Dell EMC, Lenovo, Cisco and HPE, in the cloud via Amazon Web Services (AWS), Google Cloud Platform and Azure, or natively as a SaaS option. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Zcash CEO to Discuss Post-Blockchain Future at San Francisco Panel</title>
-      <link>//crypt0.net/post/zcash-ceo-to-discuss-postblockchain-future-at-san-francisco-panel/</link>
-      <pubDate>Sat, 01 Jul 2017 00:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/zcash-ceo-to-discuss-postblockchain-future-at-san-francisco-panel/</guid>
-      <description>The post-Blockchain future is the topic of discussion at the upcoming Next Frontier: Blockchain meets Object-Capabilities event in San Francisco on &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
