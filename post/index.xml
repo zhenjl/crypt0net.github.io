@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 16 Jul 2017 14:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2017 14:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bitcoin Miners Miss the First BIP 148 Deadline</title>
+      <link>//crypt0.net/post/bitcoin-miners-miss-the-first-bip-148-deadline/</link>
+      <pubDate>Sun, 16 Jul 2017 14:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bitcoin-miners-miss-the-first-bip-148-deadline/</guid>
+      <description>Bitcoin miners at large have missed the first BIP 148 &amp;ldquo;deadline&amp;rdquo; to prevent a &amp;ldquo;split&amp;rdquo; in Bitcoin&amp;rsquo;s blockchain. As Bitcoin&amp;rsquo;s scaling dispute appears to be &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Cryptocurrency Market Nears 50% Decline From All-Time Highs</title>
+      <link>//crypt0.net/post/cryptocurrency-market-nears-50-decline-from-alltime-highs/</link>
+      <pubDate>Sun, 16 Jul 2017 14:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cryptocurrency-market-nears-50-decline-from-alltime-highs/</guid>
+      <description>&amp;hellip; and XRP, the cryptocurrencies that power the ethereum blockchain and Ripple Consensus Ledger, which were down 28% and 25%, respectively. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Let&#39;s invest in the scientists looking over our horizon</title>
@@ -259,16 +279,6 @@
       
       <guid>//crypt0.net/post/envisionx-to-bring-blockchain-to-programmatic-advertising/</guid>
       <description>By introducing a Blockchain element into its existing advertising technology, EnvisionX will advance global programmatic advertising to the next level &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Bitcoin Miners Miss the First BIP 148 Deadline</title>
-      <link>//crypt0.net/post/bitcoin-miners-miss-the-first-bip-148-deadline/</link>
-      <pubDate>Sun, 16 Jul 2017 00:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bitcoin-miners-miss-the-first-bip-148-deadline/</guid>
-      <description>However, if only a minority of miners activates SegWit through BIP 148, Bitcoin&amp;rsquo;s blockchain and currency would split in two. This would result in two &amp;hellip; more.
 @surgethings</description>
     </item>
     
@@ -20368,16 +20378,6 @@
       <guid>//crypt0.net/post/should-other-bitcoin-wallets-implement-blockchains-transaction-fee/</guid>
       <description>CryptoCoinsNews Unlike the Ethereum network or other specific blockchain networks, transactions on the bitcoin network have different sizes depending on the number &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Bug #1701712 Bandit scanning on Nova generates false positives ...</title>
-      <link>//crypt0.net/post/bug-1701712-bandit-scanning-on-nova-generates-false-positives-/</link>
-      <pubDate>Sat, 01 Jul 2017 14:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1701712-bandit-scanning-on-nova-generates-false-positives-/</guid>
-      <description>two security issues estimated as high severity as shown below. We believe &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
