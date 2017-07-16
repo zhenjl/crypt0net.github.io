@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 16 Jul 2017 14:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2017 15:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Twistlock 2.1 Container Security Suite Released</title>
+      <link>//crypt0.net/post/twistlock-21-container-security-suite-released/</link>
+      <pubDate>Sun, 16 Jul 2017 15:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/twistlock-21-container-security-suite-released/</guid>
+      <description>&amp;hellip; was released a few years ago with an integration with Google Container Engine (GKE), followed by a partnership with Amazon Web Services. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Netkiller is partnering with RingCentral for clients in the Bay Area</title>
