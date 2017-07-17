@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 17 Jul 2017 07:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2017 07:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Config Editor - Delete functionality is not working with collection</title>
+      <link>//crypt0.net/post/config-editor--delete-functionality-is-not-working-with-collection/</link>
+      <pubDate>Mon, 17 Jul 2017 07:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/config-editor--delete-functionality-is-not-working-with-collection/</guid>
+      <description>Delete functionality is not working with collection object(especially with the last element of the collection) more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Taking over networks on easy mode: An attacker&#39;s perspective</title>
+      <link>//crypt0.net/post/taking-over-networks-on-easy-mode-an-attackers-perspective/</link>
+      <pubDate>Mon, 17 Jul 2017 07:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/taking-over-networks-on-easy-mode-an-attackers-perspective/</guid>
+      <description>Once we find an accessible host that has an interesting user logged in, we will typically compromise that host with our stolen credentials and repeat &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>City of Zug adopts uPort for access to government services</title>
