@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 16 Jul 2017 23:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jul 2017 00:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>6 steps to GDPR and MDB compliance</title>
+      <link>//crypt0.net/post/6-steps-to-gdpr-and-mdb-compliance/</link>
+      <pubDate>Mon, 17 Jul 2017 00:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/6-steps-to-gdpr-and-mdb-compliance/</guid>
+      <description>Once that happens, we&amp;rsquo;ll start to see the true picture of the scale of data breaches within Europe and the impact that will have on the reputation of a &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Hcash Enables Free Flow of Digital Currencies Among Various Blockchains</title>
@@ -20278,16 +20288,6 @@
       <guid>//crypt0.net/post/cryptocurrency-exchange-kraken-launches-eos-trading/</guid>
       <description>Cryptocurrency exchange Kraken has announced today support for EOS trading. The EOS blockchain platform is designed to scale the mainstream &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>inventory/openstack.py do not return servers being spawned/deleted</title>
-      <link>//crypt0.net/post/inventoryopenstackpy-do-not-return-servers-being-spawneddeleted/</link>
-      <pubDate>Sat, 01 Jul 2017 23:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/inventoryopenstackpy-do-not-return-servers-being-spawneddeleted/</guid>
-      <description>Open. Spredzy opened this Issue 39 minutes ago 0 comments &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
