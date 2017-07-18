@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 18 Jul 2017 00:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 01:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cloud Storage Error Exposes Over Two Million Dow Jones Customer Records</title>
+      <link>//crypt0.net/post/cloud-storage-error-exposes-over-two-million-dow-jones-customer-records/</link>
+      <pubDate>Tue, 18 Jul 2017 01:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cloud-storage-error-exposes-over-two-million-dow-jones-customer-records/</guid>
+      <description>According to them, the repository was incorrectly configured to be accessible to anyone with an Amazon Web Services (AWS) account. Amazon&amp;rsquo;s &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Why Amazon.com, Inc. Stock Is Up 35% This Year</title>
@@ -7649,16 +7659,6 @@ Losing Sleep Over Your Portfolio? Consider These 2 Stocks &amp;hellip; growth in
       
       <guid>//crypt0.net/post/support-for-32bit-operating-systems-in-azure-virtual-machines/</guid>
       <description>32-bit Azure virtual machine. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Number of fault domains with managed disks</title>
-      <link>//crypt0.net/post/number-of-fault-domains-with-managed-disks/</link>
-      <pubDate>Mon, 03 Jul 2017 01:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/number-of-fault-domains-with-managed-disks/</guid>
-      <description>Q. Is it true the number of fault domains available varies by region when using managed disks? A. Yes. While normally with ARM the default is 3 fault &amp;hellip; more.
 @crypt0net</description>
     </item>
     
