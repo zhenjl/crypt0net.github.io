@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 18 Jul 2017 22:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 23:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon, VMware rumored to be developing data center software</title>
+      <link>//crypt0.net/post/amazon-vmware-rumored-to-be-developing-data-center-software/</link>
+      <pubDate>Tue, 18 Jul 2017 23:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-vmware-rumored-to-be-developing-data-center-software/</guid>
+      <description>Already there is OpenStack, the open-source product that runs cloud services in a data center, and Microsoft just shipped Azure Stack, its answer to &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>AWS and VMware Expand Cloud Deal to Disrupt Entire Software Space</title>
@@ -129,16 +139,6 @@
       
       <guid>//crypt0.net/post/bug-1705049-gui-number-of-networks-shown-incorrectly/</guid>
       <description>-Contrail config, controller, analytics node (Contrail 3.2) -compute node more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon, VMware rumored to be developing data center software</title>
-      <link>//crypt0.net/post/amazon-vmware-rumored-to-be-developing-data-center-software/</link>
-      <pubDate>Tue, 18 Jul 2017 19:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-vmware-rumored-to-be-developing-data-center-software/</guid>
-      <description>Amazon Web Services (AWS) and VMware are reportedly in talks about possibly teaming up to develop data center software products, according to &amp;hellip; more.
 @crypt0net</description>
     </item>
     
