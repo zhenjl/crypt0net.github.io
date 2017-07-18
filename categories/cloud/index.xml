@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 18 Jul 2017 10:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 10:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,20 @@
     <item>
       <title>Why the Kubernetes Kids can&#39;t hurt Bezos&#39; Amazon beast</title>
       <link>//crypt0.net/post/why-the-kubernetes-kids-cant-hurt-bezos-amazon-beast/</link>
-      <pubDate>Tue, 18 Jul 2017 10:10:03 +0000</pubDate>
+      <pubDate>Tue, 18 Jul 2017 10:20:03 +0000</pubDate>
       
       <guid>//crypt0.net/post/why-the-kubernetes-kids-cant-hurt-bezos-amazon-beast/</guid>
-      <description>Released by Google as a way to foster an open-source path to the Google Cloud (nicely paved with GCP-compatible APIs), Kubernetes dramatically &amp;hellip; more.
+      <description>More recently the concern is a waxing Amazon Web Services, giving rise to an &amp;ldquo;Anyone but Amazon&amp;rdquo; club. The club used to be about OpenStack, but &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>the training-labs doc website do not work</title>
+      <link>//crypt0.net/post/the-traininglabs-doc-website-do-not-work/</link>
+      <pubDate>Tue, 18 Jul 2017 10:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-traininglabs-doc-website-do-not-work/</guid>
+      <description>access,which is reported 404 error. more.
 @crypt0net</description>
     </item>
     
