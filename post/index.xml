@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 18 Jul 2017 10:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 11:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why the Kubernetes Kids can&#39;t hurt Bezos&#39; Amazon beast</title>
+      <link>//crypt0.net/post/why-the-kubernetes-kids-cant-hurt-bezos-amazon-beast/</link>
+      <pubDate>Tue, 18 Jul 2017 11:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-the-kubernetes-kids-cant-hurt-bezos-amazon-beast/</guid>
+      <description>The club used to be about OpenStack, but that didn&amp;rsquo;t go far. For years the OpenStack community ripped itself apart over whether or not it should strive &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft To Offer Windows 10 Subscriptions With Virtualization Use Rights</title>
@@ -30,16 +40,6 @@
       <guid>//crypt0.net/post/smart-cities-can-help-deliver-khans-good-growth/</guid>
       <description>The internet of things the interconnection of various devices that can receive and transmit data will similarly allow individuals to have even greater &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Why the Kubernetes Kids can&#39;t hurt Bezos&#39; Amazon beast</title>
-      <link>//crypt0.net/post/why-the-kubernetes-kids-cant-hurt-bezos-amazon-beast/</link>
-      <pubDate>Tue, 18 Jul 2017 10:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-the-kubernetes-kids-cant-hurt-bezos-amazon-beast/</guid>
-      <description>More recently the concern is a waxing Amazon Web Services, giving rise to an &amp;ldquo;Anyone but Amazon&amp;rdquo; club. The club used to be about OpenStack, but &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -21388,16 +21388,6 @@
       <guid>//crypt0.net/post/apttus-ceo-on-poly-partnering-with-salesforce-and-microsoft/</guid>
       <description>Last year, quote-to-cash vendor Apttus surprised many when it revealed that it had ported its originally Salesforce-native application to Microsoft Azure &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Data breaches: Know your flaws, prepare your plan, recover trust</title>
-      <link>//crypt0.net/post/data-breaches-know-your-flaws-prepare-your-plan-recover-trust/</link>
-      <pubDate>Mon, 03 Jul 2017 11:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/data-breaches-know-your-flaws-prepare-your-plan-recover-trust/</guid>
-      <description>Jim Steven, head of data breach response at Experian, explains why quick action after a data breach is essential, but can only be achieved by &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
