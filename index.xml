@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 18 Jul 2017 08:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 08:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awake Security Unveils Advanced Security Analytics</title>
+      <link>//crypt0.net/post/awake-security-unveils-advanced-security-analytics/</link>
+      <pubDate>Tue, 18 Jul 2017 08:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/awake-security-unveils-advanced-security-analytics/</guid>
+      <description>Network Traffic Analysis: Awake&amp;rsquo;s entity-centric view lets analysts see all network traffic, with devices fingerprinted and tracked across IP addresses. more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Government Incentives and Adoption of New Technologies Drive Growth of</title>
@@ -370,16 +380,6 @@
       <guid>//crypt0.net/post/openstack-use-case-think-lean-and-cloud-native-says-adobe/</guid>
       <description>An OpenStack user who has set up two deployments at organizations revealed a lesson learned: While there can be some complexity with setting up &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Awake Security Unveils Advanced Security Analytics</title>
-      <link>//crypt0.net/post/awake-security-unveils-advanced-security-analytics/</link>
-      <pubDate>Tue, 18 Jul 2017 02:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/awake-security-unveils-advanced-security-analytics/</guid>
-      <description>Proactive Threat Hunting: Awake provides analysts with investigative starting points by highlighting notable entities exhibiting anomalous behavior. more.
-@trustpath</description>
     </item>
     
     <item>
