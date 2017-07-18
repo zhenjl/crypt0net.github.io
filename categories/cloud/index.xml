@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 18 Jul 2017 16:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 16:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to change gnocchi&#39;s retention period in Red Hat OpenStack Platform</title>
+      <link>//crypt0.net/post/how-to-change-gnocchis-retention-period-in-red-hat-openstack-platform/</link>
+      <pubDate>Tue, 18 Jul 2017 16:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-change-gnocchis-retention-period-in-red-hat-openstack-platform/</guid>
+      <description>Platform. Environment. Red Hat OpenStack Platform 10 &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>AWS Elemental Helps BT to Deliver First-Ever Live 4K UEFA Champions League</title>
