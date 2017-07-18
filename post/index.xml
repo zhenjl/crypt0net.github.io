@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 18 Jul 2017 23:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 23:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>allow multiple floatingnetworkids in openstack loadbalancer</title>
+      <link>//crypt0.net/post/allow-multiple-floatingnetworkids-in-openstack-loadbalancer/</link>
+      <pubDate>Tue, 18 Jul 2017 23:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/allow-multiple-floatingnetworkids-in-openstack-loadbalancer/</guid>
+      <description>zetaab opened this Issue an hour ago 0 comments &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon makes cloud contract more customer-friendly as rivals loom</title>
@@ -22017,26 +22027,6 @@
       
       <guid>//crypt0.net/post/microsoft-reportedly-laying-off-thousands-in-sales-and-marketing/</guid>
       <description>Fortune Microsoft will undergo a reorganization that will impact its sales and marketing teams, company executives told employees on Monday. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Chroma MES Makes Communication Easy for Complex Hardware Configuration</title>
-      <link>//crypt0.net/post/chroma-mes-makes-communication-easy-for-complex-hardware-configuration/</link>
-      <pubDate>Mon, 03 Jul 2017 23:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/chroma-mes-makes-communication-easy-for-complex-hardware-configuration/</guid>
-      <description>In Industry 4.0, all equipment is networked communicating machine to machine (M2M) through one integrated platform. For complex machines &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Monday: Machine Learning For Antivirus Software, Cloudyn</title>
-      <link>//crypt0.net/post/microsoft-monday-machine-learning-for-antivirus-software-cloudyn/</link>
-      <pubDate>Mon, 03 Jul 2017 23:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-monday-machine-learning-for-antivirus-software-cloudyn/</guid>
-      <description>Forbes Cloudyn&amp;rsquo;s services work with cloud providers like Microsoft Azure, Amazon AWS, Google Cloud, and Openstack. Cloudyn also built a customized &amp;hellip; more.
 @crypt0net</description>
     </item>
     
