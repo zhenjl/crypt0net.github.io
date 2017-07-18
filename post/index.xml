@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 18 Jul 2017 03:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 04:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>add flannel -public-ip to support custom openstack(using floating ip)</title>
+      <link>//crypt0.net/post/add-flannel-publicip-to-support-custom-openstackusing-floating-ip/</link>
+      <pubDate>Tue, 18 Jul 2017 04:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/add-flannel-publicip-to-support-custom-openstackusing-floating-ip/</guid>
+      <description>k8s cluster in two different openstack tenant. only floating ip is visibility. but &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Kiwis cagey about sharing personal data via Internet of Things - Unisys</title>
@@ -21397,36 +21407,6 @@
       
       <guid>//crypt0.net/post/its-another-initial-coin-offering-record-blockone-raises-185m/</guid>
       <description>Block.One, developer of the new blockchain platform EOS.IO, announced Saturday that it has raised $185 million through an initial offering of its &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Privacy fears fuel a fintech pioneer</title>
-      <link>//crypt0.net/post/privacy-fears-fuel-a-fintech-pioneer/</link>
-      <pubDate>Mon, 03 Jul 2017 04:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/privacy-fears-fuel-a-fintech-pioneer/</guid>
-      <description>Perversely, large-scale data breaches only benefit fintech companies like the Stone &amp;amp; Chalk resident Meeco, which aims to disrupt the likes of Google &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Spark New Zealand to commence nationwide Internet of Things</title>
-      <link>//crypt0.net/post/spark-new-zealand-to-commence-nationwide-internet-of-things/</link>
-      <pubDate>Mon, 03 Jul 2017 03:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/spark-new-zealand-to-commence-nationwide-internet-of-things/</guid>
-      <description>Spark&amp;rsquo;s GM for IoT, Michael Stribling, said, At Spark our Ventures team has been working on the exciting possibilities of the internet of things and what &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Spark&#39;s wireless broadband key to fatter margins as 5G clouds outlook: FNZC</title>
-      <link>//crypt0.net/post/sparks-wireless-broadband-key-to-fatter-margins-as-5g-clouds-outlook-fnzc/</link>
-      <pubDate>Mon, 03 Jul 2017 03:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sparks-wireless-broadband-key-to-fatter-margins-as-5g-clouds-outlook-fnzc/</guid>
-      <description>The 5G technology is also seen as being central to machine-to-machine interaction, known as the &amp;lsquo;Internet of Things&amp;rsquo;. An industry report released last &amp;hellip; more.
 @surgethings</description>
     </item>
     
