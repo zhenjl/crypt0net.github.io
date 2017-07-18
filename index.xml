@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 18 Jul 2017 19:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 19:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1705049: [GUI] Number of Networks Shown Incorrectly</title>
+      <link>//crypt0.net/post/bug-1705049-gui-number-of-networks-shown-incorrectly/</link>
+      <pubDate>Tue, 18 Jul 2017 19:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1705049-gui-number-of-networks-shown-incorrectly/</guid>
+      <description>-Contrail config, controller, analytics node (Contrail 3.2) -compute node more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>StackRox Emerges from Stealth with Container Security Platform</title>
@@ -22385,16 +22395,6 @@ Bitcoin Outputs Stop Growing After 2 Years As Network Relaxes The slowdown comes
       
       <guid>//crypt0.net/post/what-will-happen-to-amazoncom-incorporated-nasdaqamzn-next-the-stock/</guid>
       <description>Weekly Register The company has market cap of $452.12 billion. The Firm operates through three divisions: North America, International and Amazon Web Services . more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Continuous Deployment on Compute Engine Using Ansible with Spinnaker</title>
-      <link>//crypt0.net/post/continuous-deployment-on-compute-engine-using-ansible-with-spinnaker/</link>
-      <pubDate>Mon, 03 Jul 2017 19:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/continuous-deployment-on-compute-engine-using-ansible-with-spinnaker/</guid>
-      <description>Prepare a GitHub repository for use with the Spinnaker pipeline. more.
 @crypt0net</description>
     </item>
     
