@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 19 Jul 2017 19:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2017 19:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>openstack dynamic provider and hosts with both ipv4 and ipv6</title>
+      <link>//crypt0.net/post/openstack-dynamic-provider-and-hosts-with-both-ipv4-and-ipv6/</link>
+      <pubDate>Wed, 19 Jul 2017 19:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-dynamic-provider-and-hosts-with-both-ipv4-and-ipv6/</guid>
+      <description>ayr-ton opened this Issue 5 minutes ago 0 comments &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google develops high-capacity cloud data transfer device</title>
