@@ -7,10 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 20 Jul 2017 16:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 17:30:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Business data giant Dun &amp; Bradstreet signs up with Microsoft for Azure,</title>
+      <link>//crypt0.net/post/business-data-giant-dun--bradstreet-signs-up-with-microsoft-for-azure/</link>
+      <pubDate>Thu, 20 Jul 2017 17:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/business-data-giant-dun--bradstreet-signs-up-with-microsoft-for-azure/</guid>
+      <description>OnMSFT (blog) Microsoft teamed up with Dun &amp;amp; Bradstreet, the world&amp;rsquo;s leader in enterprise insights and data analysis, to offer Dynamics 365 and Azure for direct &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>COPA-DATA wins the 2017 Microsoft Internet of Things (IoT) award</title>
+      <link>//crypt0.net/post/copadata-wins-the-2017-microsoft-internet-of-things-iot-award/</link>
+      <pubDate>Thu, 20 Jul 2017 17:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/copadata-wins-the-2017-microsoft-internet-of-things-iot-award/</guid>
+      <description>COPA-DATA wins the 2017 Microsoft Internet of Things (IoT) award &amp;hellip; especially the Microsoft Azure cloud platform, including the Azure IoT Suite, &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Google: New Algorithm Will Make Our Cloud Platform Faster</title>
+      <link>//crypt0.net/post/google-new-algorithm-will-make-our-cloud-platform-faster/</link>
+      <pubDate>Thu, 20 Jul 2017 17:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-new-algorithm-will-make-our-cloud-platform-faster/</guid>
+      <description>Amazon Web Services is developing custom semiconductors to accelerate its cloud network, fine-tuning chips to move data faster between its data &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Report: Amazon Web Services warming up to Kubernetes for container</title>
+      <link>//crypt0.net/post/report-amazon-web-services-warming-up-to-kubernetes-for-container/</link>
+      <pubDate>Thu, 20 Jul 2017 17:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/report-amazon-web-services-warming-up-to-kubernetes-for-container/</guid>
+      <description>GeekWire If the cloud world really does settle on Kubernetes as the de facto standard for managing containerized workloads, Amazon Web Services is thinking &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft reveals its Cortana-powered smart thermostat</title>
@@ -8450,56 +8490,6 @@ In Other API Economy News: New AWS Java SDK, Facebook Graph API updates and Prog
       
       <guid>//crypt0.net/post/dell-boomi-extends-cloud-integration-reach/</guid>
       <description>To enable that capability, Dell Boomi now provides connectors to platform-as-a-service (PaaS) environments running on Amazon Web Services (AWS) &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft&#39;s Cloud Focus Could Mean Layoffs: Report</title>
-      <link>//crypt0.net/post/microsofts-cloud-focus-could-mean-layoffs-report/</link>
-      <pubDate>Wed, 05 Jul 2017 17:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsofts-cloud-focus-could-mean-layoffs-report/</guid>
-      <description>and its Amazon Web Services (AWS) unit, Microsoft has been chipping away at its dominance. In June, Pacific Crest Securities analyst Brent Bracelin &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Nutanix calls shotgun on multicloud with control pane, but is it a false</title>
-      <link>//crypt0.net/post/nutanix-calls-shotgun-on-multicloud-with-control-pane-but-is-it-a-false/</link>
-      <pubDate>Wed, 05 Jul 2017 17:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nutanix-calls-shotgun-on-multicloud-with-control-pane-but-is-it-a-false/</guid>
-      <description>SiliconANGLE (blog) &amp;hellip; so critical that an on-premise hardware company that masters them can go toe-to-toe with a public cloud juggernaut like Amazon Web Services Inc. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Counting uniques faster in BigQuery with HyperLogLog&#43;&#43;</title>
-      <link>//crypt0.net/post/counting-uniques-faster-in-bigquery-with-hyperloglog/</link>
-      <pubDate>Wed, 05 Jul 2017 17:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/counting-uniques-faster-in-bigquery-with-hyperloglog/</guid>
-      <description>the HyperLogLog algorithm for cardinality estimation. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>PipelineFX Releases New Render Farm Software, Qube! 6.10</title>
-      <link>//crypt0.net/post/pipelinefx-releases-new-render-farm-software-qube-610/</link>
-      <pubDate>Wed, 05 Jul 2017 17:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/pipelinefx-releases-new-render-farm-software-qube-610/</guid>
-      <description>With optimizations for Google Cloud Platform, Amazon&amp;rsquo;s AWS, and Microsoft Azure, Qube! 6.10 is now the leading render farm manager for visual &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>These Celebrity Chatbots Are Bringing your Favourite Characters to Life</title>
-      <link>//crypt0.net/post/these-celebrity-chatbots-are-bringing-your-favourite-characters-to-life/</link>
-      <pubDate>Wed, 05 Jul 2017 17:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/these-celebrity-chatbots-are-bringing-your-favourite-characters-to-life/</guid>
-      <description>The company is also using the Google Cloud for spell checks and analytics. This analytics help improve the bot. For example, the more questions &amp;hellip; more.
 @crypt0net</description>
     </item>
     
