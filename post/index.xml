@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 20 Jul 2017 04:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 05:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1705374 realpath() of /etc/uwsgi/nova-placement-uwsgi.ini ...</title>
+      <link>//crypt0.net/post/bug-1705374-realpath-of-etcuwsginovaplacementuwsgiini-/</link>
+      <pubDate>Thu, 20 Jul 2017 05:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1705374-realpath-of-etcuwsginovaplacementuwsgiini-/</guid>
+      <description>os-nova-install.yml: failed: infra4; return false;&amp;ldquo;&amp;gt;more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Blockchain: Enabling the Democratisation of Real Estate Property Listings</title>
@@ -22839,16 +22849,6 @@
       <guid>//crypt0.net/post/microsoft-to-fire-thousands-of-employees/</guid>
       <description>Microsoft will undergo a reorganization that will impact its sales and marketing &amp;hellip; Since then, Althoff has said it is his plan to make Microsoft&amp;rsquo;s Azure &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Intel laying off 140 in California and Ireland</title>
-      <link>//crypt0.net/post/intel-laying-off-140-in-california-and-ireland/</link>
-      <pubDate>Wed, 05 Jul 2017 04:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/intel-laying-off-140-in-california-and-ireland/</guid>
-      <description>Intel is shedding nearly 140 staff from Internet of Things business lines. The layoffs were probably inevitable, since during June, Intel discontinued &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>

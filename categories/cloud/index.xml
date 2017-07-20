@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 20 Jul 2017 04:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 05:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1705374 realpath() of /etc/uwsgi/nova-placement-uwsgi.ini ...</title>
+      <link>//crypt0.net/post/bug-1705374-realpath-of-etcuwsginovaplacementuwsgiini-/</link>
+      <pubDate>Thu, 20 Jul 2017 05:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1705374-realpath-of-etcuwsginovaplacementuwsgiini-/</guid>
+      <description>os-nova-install.yml: failed: infra4; return false;&amp;ldquo;&amp;gt;more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft beefs up electrical grid security with new cyberanalytics service</title>
