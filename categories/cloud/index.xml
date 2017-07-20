@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 20 Jul 2017 14:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 14:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google vs Amazon: Who will win the cloud pricing war?</title>
+      <link>//crypt0.net/post/google-vs-amazon-who-will-win-the-cloud-pricing-war/</link>
+      <pubDate>Thu, 20 Jul 2017 14:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-vs-amazon-who-will-win-the-cloud-pricing-war/</guid>
+      <description>Google and Amazon Web Services have been fighting price wars for years, driving down the cost of spinning up servers in their cloud platforms in an &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Reports Earnings After The Bell Amid A Global Reorganization</title>
@@ -8510,16 +8520,6 @@ In Other API Economy News: New AWS Java SDK, Facebook Graph API updates and Prog
       
       <guid>//crypt0.net/post/advantech-announces-groundbreaking-iot-implementation-solutions/</guid>
       <description>&amp;hellip; includes a ready-to-run edge system pre-configured with WISE-PaaS software packages, wireless I/O module, sensor and Microsoft Azure service. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Velostrata Launches Formal Channel Program To Drive Partner Enablement</title>
-      <link>//crypt0.net/post/velostrata-launches-formal-channel-program-to-drive-partner-enablement/</link>
-      <pubDate>Wed, 05 Jul 2017 14:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/velostrata-launches-formal-channel-program-to-drive-partner-enablement/</guid>
-      <description>Velostrata&amp;rsquo;s WAN optimization technology streams data to Amazon Web Services or Microsoft Azure for processing, without requiring it ever to reside &amp;hellip; more.
 @crypt0net</description>
     </item>
     
