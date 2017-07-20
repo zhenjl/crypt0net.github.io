@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 20 Jul 2017 16:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 16:30:06 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft reveals its Cortana-powered smart thermostat</title>
+      <link>//crypt0.net/post/microsoft-reveals-its-cortanapowered-smart-thermostat/</link>
+      <pubDate>Thu, 20 Jul 2017 16:30:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-reveals-its-cortanapowered-smart-thermostat/</guid>
+      <description>The smart thermostat is built on Windows 10 IoT core and is powered by Microsoft&amp;rsquo;s Azure cloud computing services. No word yet on price, release &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon creating new service for AWS?</title>
@@ -8490,76 +8500,6 @@ In Other API Economy News: New AWS Java SDK, Facebook Graph API updates and Prog
       
       <guid>//crypt0.net/post/these-celebrity-chatbots-are-bringing-your-favourite-characters-to-life/</guid>
       <description>The company is also using the Google Cloud for spell checks and analytics. This analytics help improve the bot. For example, the more questions &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Baidu taps into latest Nvidia graphics chips for AI in the cloud and cars</title>
-      <link>//crypt0.net/post/baidu-taps-into-latest-nvidia-graphics-chips-for-ai-in-the-cloud-and-cars/</link>
-      <pubDate>Wed, 05 Jul 2017 16:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/baidu-taps-into-latest-nvidia-graphics-chips-for-ai-in-the-cloud-and-cars/</guid>
-      <description>Parts and service suppliers include Bosch, Microsoft Azure cloud, ZTE, Velodyne and TomTom, as well as ride-hailing companies UCAR and Grab &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>UK gets an expanded set of Azure Services</title>
-      <link>//crypt0.net/post/uk-gets-an-expanded-set-of-azure-services/</link>
-      <pubDate>Wed, 05 Jul 2017 16:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/uk-gets-an-expanded-set-of-azure-services/</guid>
-      <description>On the Microsoft Azure blog, the UK is set to get a number of new Azure Services in a much needed upgrade. Microsoft will be bringing the following &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon just opened a glossy new office in central Stockholm  and embarks</title>
-      <link>//crypt0.net/post/amazon-just-opened-a-glossy-new-office-in-central-stockholm--and-embarks/</link>
-      <pubDate>Wed, 05 Jul 2017 16:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-just-opened-a-glossy-new-office-in-central-stockholm--and-embarks/</guid>
-      <description>Business Insider Nordic That&amp;rsquo;s one of the punchlines adorning Amazon Web Services&amp;rsquo; walls in its newly opened central Stockholm office, along with Silicon Valley-mantra&amp;rsquo;s &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Datadog Announces Integration with AWS CodeDeploy, Helping Software</title>
-      <link>//crypt0.net/post/datadog-announces-integration-with-aws-codedeploy-helping-software/</link>
-      <pubDate>Wed, 05 Jul 2017 16:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/datadog-announces-integration-with-aws-codedeploy-helping-software/</guid>
-      <description>Business Wire (press release) AWS CodeDeploy makes it easier for developers using Amazon Web Services (AWS) to deploy code across their entire infrastructure, said Daniel &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Why Media Companies are Getting into the Web Hosting Business</title>
-      <link>//crypt0.net/post/why-media-companies-are-getting-into-the-web-hosting-business/</link>
-      <pubDate>Wed, 05 Jul 2017 16:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-media-companies-are-getting-into-the-web-hosting-business/</guid>
-      <description>As for infrastructure support, Vox Media job postings have sought (f)amiliarity with Amazon Web Services/Google Cloud Platform, and status report &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Alibaba Is Taking On Alexa, Google Home, DingDong and Little Fish With New</title>
-      <link>//crypt0.net/post/alibaba-is-taking-on-alexa-google-home-dingdong-and-little-fish-with-new/</link>
-      <pubDate>Wed, 05 Jul 2017 16:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/alibaba-is-taking-on-alexa-google-home-dingdong-and-little-fish-with-new/</guid>
-      <description>PYMNTS.com Alphabet Inc. expanded its footprint in the Asia Pacific region last week by launching its Google Cloud Platform in Australia. That&amp;rsquo;s in addition to cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Technology and Computing: Google Challenges Nvidia with TPU Chip</title>
-      <link>//crypt0.net/post/technology-and-computing-google-challenges-nvidia-with-tpu-chip/</link>
-      <pubDate>Wed, 05 Jul 2017 16:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/technology-and-computing-google-challenges-nvidia-with-tpu-chip/</guid>
-      <description>Fei-Fei Li, chief scientist at Google Cloud and the director of Stanford&amp;rsquo;s AI Lab, said that TPUs deliver a staggering 128 teraflops, and are built for just &amp;hellip; more.
 @crypt0net</description>
     </item>
     
