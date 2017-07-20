@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 20 Jul 2017 17:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 17:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Cloud gets a new networking algorithm that boosts internet</title>
+      <link>//crypt0.net/post/google-cloud-gets-a-new-networking-algorithm-that-boosts-internet/</link>
+      <pubDate>Thu, 20 Jul 2017 17:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-gets-a-new-networking-algorithm-that-boosts-internet/</guid>
+      <description>TechCrunch Google today announced that TCP BBR, a new congestion-control algorithm that it has used to improve network throughput from google.com and &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Earnings Preview: Reorganization And Azure In Focus</title>
+      <link>//crypt0.net/post/microsoft-earnings-preview-reorganization-and-azure-in-focus/</link>
+      <pubDate>Thu, 20 Jul 2017 17:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-earnings-preview-reorganization-and-azure-in-focus/</guid>
+      <description>&amp;hellip; the company&amp;rsquo;s cloud-computing business that competes with offerings from Amazon&amp;rsquo;s Web Services, Alphabet&amp;rsquo;s Google Cloud, among others. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Report: Amazon Web Services warming up to Kubernetes for container</title>
+      <link>//crypt0.net/post/report-amazon-web-services-warming-up-to-kubernetes-for-container/</link>
+      <pubDate>Thu, 20 Jul 2017 17:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/report-amazon-web-services-warming-up-to-kubernetes-for-container/</guid>
+      <description>GeekWire But Kubernetes has long worked best with Google&amp;rsquo;s cloud service, as noted in the report. It can be very difficult to get up and running with Kubernetes, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Business data giant Dun &amp; Bradstreet signs up with Microsoft for Azure,</title>
@@ -50,16 +80,6 @@
       <guid>//crypt0.net/post/partners-cheer-microsofts-iot-partnership-with-johnson-controls-to-build/</guid>
       <description>CRN Partners are applauding Microsoft&amp;rsquo;s Internet of Things strategy after the company said Thursday that it is partnering with Johnson Controls to build a &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Report: Amazon Web Services warming up to Kubernetes for container</title>
-      <link>//crypt0.net/post/report-amazon-web-services-warming-up-to-kubernetes-for-container/</link>
-      <pubDate>Thu, 20 Jul 2017 17:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/report-amazon-web-services-warming-up-to-kubernetes-for-container/</guid>
-      <description>GeekWire If the cloud world really does settle on Kubernetes as the de facto standard for managing containerized workloads, Amazon Web Services is thinking &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
