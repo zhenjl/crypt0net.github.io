@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Jul 2017 15:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2017 15:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exabeam integrates with ThreatConnect to Improve Enterprise Security</title>
+      <link>//crypt0.net/post/exabeam-integrates-with-threatconnect-to-improve-enterprise-security/</link>
+      <pubDate>Fri, 21 Jul 2017 15:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/exabeam-integrates-with-threatconnect-to-improve-enterprise-security/</guid>
+      <description>Breach detection can be improved by combining activity information within an organization with external threat intelligence data. In addition, the 2017 &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Amazon.com, Inc. (AMZN) Stock Faces Danger in the Cloud</title>
@@ -169,16 +179,6 @@
       
       <guid>//crypt0.net/post/workforce-shortage-sparks-woeful-incident-response-postures/</guid>
       <description>About 47% said that automating threat hunting would provide immediate benefits (although only 12% had implemented this), and half believe that &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Exabeam integrates with ThreatConnect to Improve Enterprise Security</title>
-      <link>//crypt0.net/post/exabeam-integrates-with-threatconnect-to-improve-enterprise-security/</link>
-      <pubDate>Fri, 21 Jul 2017 13:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/exabeam-integrates-with-threatconnect-to-improve-enterprise-security/</guid>
-      <description>As recently reported in Verizon&amp;rsquo;s 2017 Data Breach Investigations Report, 75% of data breaches in 2016 were perpetrated by external actors and 51% &amp;hellip; more.
 @trustpath</description>
     </item>
     
@@ -22708,16 +22708,6 @@
       
       <guid>//crypt0.net/post/qrouter-interfaces-recreated-when-openstack-platform-guests-with-floating/</guid>
       <description>Red Hat OpenStack Platform 8. Red Hat OpenStack Platform 9. Red Hat OpenStack Platform 10. Red Hat OpenStack Platform 11. keepalived &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Owners of VirusTotal-for-Crooks Service Arrested</title>
-      <link>//crypt0.net/post/owners-of-virustotalforcrooks-service-arrested/</link>
-      <pubDate>Thu, 06 Jul 2017 15:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/owners-of-virustotalforcrooks-service-arrested/</guid>
-      <description>The service was hosted on Amazon Web Services servers. Malware authors had to pay to get full access to the scanner&amp;rsquo;s features. Martisevs used a &amp;hellip; more.
 @crypt0net</description>
     </item>
     
