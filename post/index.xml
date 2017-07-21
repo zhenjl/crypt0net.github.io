@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Jul 2017 04:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2017 04:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Steps not to take after a data breach</title>
+      <link>//crypt0.net/post/steps-not-to-take-after-a-data-breach/</link>
+      <pubDate>Fri, 21 Jul 2017 04:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/steps-not-to-take-after-a-data-breach/</guid>
+      <description>&amp;hellip; attacks brought further attention to what is a top concern at nearly every organization cyber security. Information Management spoke with John Suit &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Microsoft profit beats expectations on strong cloud demand</title>
@@ -22839,16 +22849,6 @@
       <guid>//crypt0.net/post/neutron-db-expand-task-delegationrunonce-failure/</guid>
       <description>&amp;rdquo;/openstack/venvs/neutron-untagged/bin/neutron-db-manage upgrade &amp;ndash;expand&amp;rdquo;, &amp;ldquo;failed&amp;rdquo;: true, &amp;ldquo;msg&amp;rdquo;: &amp;ldquo;[Errno 2] No such file &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Demystifying the internet of things (IoT)</title>
-      <link>//crypt0.net/post/demystifying-the-internet-of-things-iot/</link>
-      <pubDate>Thu, 06 Jul 2017 04:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/demystifying-the-internet-of-things-iot/</guid>
-      <description>variety of options (and confusion). There are many different use cases &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
