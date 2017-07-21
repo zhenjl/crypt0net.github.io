@@ -7,10 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Jul 2017 17:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2017 17:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon Should Be Worried About Microsoft&#39;s Monster Cloud Growth</title>
+      <link>//crypt0.net/post/amazon-should-be-worried-about-microsofts-monster-cloud-growth/</link>
+      <pubDate>Fri, 21 Jul 2017 17:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-should-be-worried-about-microsofts-monster-cloud-growth/</guid>
+      <description>Microsoft&amp;rsquo;s (MSFT) Azure cloud platform is giving Amazon Web Services a run for its money. Microsoft&amp;rsquo;s fiscal fourth-quarter results show that Azure &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Hacking Nemo: Adversary compromises smart fish tank at casino</title>
+      <link>//crypt0.net/post/hacking-nemo-adversary-compromises-smart-fish-tank-at-casino/</link>
+      <pubDate>Fri, 21 Jul 2017 17:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/hacking-nemo-adversary-compromises-smart-fish-tank-at-casino/</guid>
+      <description>As silly as this sounds, the attack demonstrated the security vulnerabilities posed by Internet of Things products, as the adversary was able to exfiltrate &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Hi-tech Google Home and Alexa not smart enough to be error-free</title>
+      <link>//crypt0.net/post/hitech-google-home-and-alexa-not-smart-enough-to-be-errorfree/</link>
+      <pubDate>Fri, 21 Jul 2017 17:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/hitech-google-home-and-alexa-not-smart-enough-to-be-errorfree/</guid>
+      <description>In the future, intelligence services might use (the internet of things, as it&amp;rsquo;s known) for identification, surveillance, monitoring, location tracking, and &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes security updates appeal, but early versions must earn trust</title>
+      <link>//crypt0.net/post/kubernetes-security-updates-appeal-but-early-versions-must-earn-trust/</link>
+      <pubDate>Fri, 21 Jul 2017 17:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/kubernetes-security-updates-appeal-but-early-versions-must-earn-trust/</guid>
+      <description>&amp;ldquo;I wish they had accelerated that earlier, and I hope that they&amp;rsquo;ll have more and more integrations with AWS [Amazon Web Services] and other cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Serverless React Starter Kit Features One-Click AWS Deployment</title>
+      <link>//crypt0.net/post/serverless-react-starter-kit-features-oneclick-aws-deployment/</link>
+      <pubDate>Fri, 21 Jul 2017 17:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/serverless-react-starter-kit-features-oneclick-aws-deployment/</guid>
+      <description>&amp;hellip; is featured in a just-launched serverless starter kit that leverages new capabilities of the AWS Mobile Hub on the Amazon Web Services Inc. (AWS) &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Using Broadband to Support Internet of Medical Things</title>
+      <link>//crypt0.net/post/using-broadband-to-support-internet-of-medical-things/</link>
+      <pubDate>Fri, 21 Jul 2017 17:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/using-broadband-to-support-internet-of-medical-things/</guid>
+      <description>Organizations embracing the Internet of Medical Things need to consider broadband and how to ensure their devices are successfully connecting and &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Cisco AMP for Endpoints Included in Gartner&#39;s The Evolving Effectiveness</title>
@@ -22608,56 +22668,6 @@
       
       <guid>//crypt0.net/post/microsoft-expected-to-cut-up-to-3000-jobs/</guid>
       <description>&amp;hellip; can buy computing resources in a pay-as-you-go model similar to competing offerings by Amazon Web Services (amzn) and Google (goog). more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Protecting Privacy and Driving Advertisers&#39; Bottom Lines With Blockchains</title>
-      <link>//crypt0.net/post/protecting-privacy-and-driving-advertisers-bottom-lines-with-blockchains/</link>
-      <pubDate>Thu, 06 Jul 2017 17:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/protecting-privacy-and-driving-advertisers-bottom-lines-with-blockchains/</guid>
-      <description>Going over blockchain technology with a fine-tooth comb, we see that a new potential for maintaining privacy emerges. Some will claim that sharing &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Surviving the Fallout of the Deep Root Leak: Best Practices for AWS</title>
-      <link>//crypt0.net/post/surviving-the-fallout-of-the-deep-root-leak-best-practices-for-aws/</link>
-      <pubDate>Thu, 06 Jul 2017 17:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/surviving-the-fallout-of-the-deep-root-leak-best-practices-for-aws/</guid>
-      <description>Even with such protections, many data breaches are caused by insiders, whether that is due to negligence or malicious intent. In fact, enterprises face &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>How to configure kdump to capture a vmcore for Microsoft Azure virtual</title>
-      <link>//crypt0.net/post/how-to-configure-kdump-to-capture-a-vmcore-for-microsoft-azure-virtual/</link>
-      <pubDate>Thu, 06 Jul 2017 17:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-configure-kdump-to-capture-a-vmcore-for-microsoft-azure-virtual/</guid>
-      <description>Microsoft Azure; Red Hat Enterprise Linux 7 (On-Demand). Size - Standard_DS2_v2 VM; kexec-tools version 2.0.7-50.el7. Red Hat Enterprise Linux 6 &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Today&#39;s channel rundown - 6 July 2017</title>
-      <link>//crypt0.net/post/todays-channel-rundown--6-july-2017/</link>
-      <pubDate>Thu, 06 Jul 2017 17:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/todays-channel-rundown--6-july-2017/</guid>
-      <description>Among the technologies added is Microsoft&amp;rsquo;s Azure Suite of integrated &amp;hellip; originally launched in fall 2016 around the Microsoft Office 365 platform. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>eBridge Connections Migrates to Microsoft Azure to Increase the Speed and</title>
-      <link>//crypt0.net/post/ebridge-connections-migrates-to-microsoft-azure-to-increase-the-speed-and/</link>
-      <pubDate>Thu, 06 Jul 2017 17:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ebridge-connections-migrates-to-microsoft-azure-to-increase-the-speed-and/</guid>
-      <description>WireUpdate eBridge Connections, an integration-Platform-as-a-Service (iPaaS) vendor, announces today the migration of its solution from Microsoft BizTalk to &amp;hellip; more.
 @crypt0net</description>
     </item>
     
