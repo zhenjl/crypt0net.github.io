@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Jul 2017 16:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2017 16:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>API Hooking - Evading Traditional Detection with Stealthy New Techniques</title>
+      <link>//crypt0.net/post/api-hooking--evading-traditional-detection-with-stealthy-new-techniques/</link>
+      <pubDate>Fri, 21 Jul 2017 16:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/api-hooking--evading-traditional-detection-with-stealthy-new-techniques/</guid>
+      <description>Good endpoint detection and response software, which offer live memory analysis capabilities at scale, are required to proactively detect the direct use &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>2017 Data Breaches Keeps Up Record Pace with More Than 800 to Date</title>
