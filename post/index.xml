@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Jul 2017 11:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2017 12:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>UEBA: Finding the cyber security norm with data science &amp; machine learning</title>
+      <link>//crypt0.net/post/ueba-finding-the-cyber-security-norm-with-data-science--machine-learning/</link>
+      <pubDate>Fri, 21 Jul 2017 12:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/ueba-finding-the-cyber-security-norm-with-data-science--machine-learning/</guid>
+      <description>&amp;hellip; that impersonate employees and it does this by comparing the attacker&amp;rsquo;s behaviour using the stolen credentials with the user&amp;rsquo;s normal behaviour. more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Enhanced cyber insurance as XL Catlin launches new policy</title>
@@ -22789,36 +22799,6 @@
       <guid>//crypt0.net/post/serverless-is-cheaper-for-iottype-use-cases-confirms-451-research/</guid>
       <description>Moreover, the &amp;lsquo;big four&amp;rsquo; serverless provers (Amazon Lambda, IBM Bluemix OpenWhisk, Google Cloud Functions and Microsoft Azure Functions) are &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon, Dish and a Shared Vision of a Wireless &#39;Internet of Things&#39;</title>
-      <link>//crypt0.net/post/amazon-dish-and-a-shared-vision-of-a-wireless-internet-of-things/</link>
-      <pubDate>Thu, 06 Jul 2017 12:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-dish-and-a-shared-vision-of-a-wireless-internet-of-things/</guid>
-      <description>Among the ideas: Amazon could help finance a network Dish is building focused on the &amp;ldquo;Internet of Things&amp;rdquo; &amp;ndash; the idea that everything from bikes to &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Veracity Industrial Networks Bolsters Ranks for Expansion to Secure the</title>
-      <link>//crypt0.net/post/veracity-industrial-networks-bolsters-ranks-for-expansion-to-secure-the/</link>
-      <pubDate>Thu, 06 Jul 2017 12:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/veracity-industrial-networks-bolsters-ranks-for-expansion-to-secure-the/</guid>
-      <description>Military &amp;amp; Aerospace Electronics ALISO VIEJO, CA&amp;ndash;(Marketwired - Jul 6, 2017) - Veracity Industrial Networks, a leading developer of Industrial SDN-based technology for operational &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>IBM Security QRadar Virtual SIEM Flow Capacity Increase from 15K to 25K FPM</title>
-      <link>//crypt0.net/post/ibm-security-qradar-virtual-siem-flow-capacity-increase-from-15k-to-25k-fpm/</link>
-      <pubDate>Thu, 06 Jul 2017 11:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ibm-security-qradar-virtual-siem-flow-capacity-increase-from-15k-to-25k-fpm/</guid>
-      <description>25K FPM or other Security Information &amp;amp; Event Management at CDWG.com. more.
-@trustpath</description>
     </item>
     
   </channel>
