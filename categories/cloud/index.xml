@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Jul 2017 16:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2017 16:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1705603 Redundant initialization of swift client if we do ...</title>
+      <link>//crypt0.net/post/bug-1705603-redundant-initialization-of-swift-client-if-we-do-/</link>
+      <pubDate>Fri, 21 Jul 2017 16:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1705603-redundant-initialization-of-swift-client-if-we-do-/</guid>
+      <description>do the initialization of swift client in some places, it seems not correct (The &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Why You Should Sell Amazon After Its Next Earnings Release</title>
+      <link>//crypt0.net/post/why-you-should-sell-amazon-after-its-next-earnings-release/</link>
+      <pubDate>Fri, 21 Jul 2017 16:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-you-should-sell-amazon-after-its-next-earnings-release/</guid>
+      <description>&amp;hellip; a premium based on their growth profile and also given they have higher than usual gross margins for a retailer (a result of Amazon Web Services). more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Big banks are closing branches and investing in more important real</title>
@@ -8580,36 +8600,6 @@ River Logic Quickly Fills Prescriptive Analytics Market Gap with its River Logic
       
       <guid>//crypt0.net/post/ebridge-connections-migrates-to-microsoft-azure-to-increase-the-speed-and/</guid>
       <description>WireUpdate eBridge Connections, an integration-Platform-as-a-Service (iPaaS) vendor, announces today the migration of its solution from Microsoft BizTalk to &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cars &amp; cloud: Detroit&#39;s past informs Seattle&#39;s future</title>
-      <link>//crypt0.net/post/cars--cloud-detroits-past-informs-seattles-future/</link>
-      <pubDate>Thu, 06 Jul 2017 16:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cars--cloud-detroits-past-informs-seattles-future/</guid>
-      <description>&amp;hellip; suitconsider PTC&amp;rsquo;s (Thingworx) recent announcements on supporting multiple public cloud platforms, and SAP&amp;rsquo;s move to support Google&amp;rsquo;s cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How to configure Citrix XenApp Essentials in Microsoft Azure, including</title>
-      <link>//crypt0.net/post/how-to-configure-citrix-xenapp-essentials-in-microsoft-azure-including/</link>
-      <pubDate>Thu, 06 Jul 2017 16:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-configure-citrix-xenapp-essentials-in-microsoft-azure-including/</guid>
-      <description>DABCC.com One of the biggest Citrix and Microsoft partnership announcements over the last year was definitely the replacement of Azure RemoteApp by XenApp &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Today Box Incorporated (NYSE:BOX) Reported Increase in Shorted Shares</title>
-      <link>//crypt0.net/post/today-box-incorporated-nysebox-reported-increase-in-shorted-shares/</link>
-      <pubDate>Thu, 06 Jul 2017 16:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/today-box-incorporated-nysebox-reported-increase-in-shorted-shares/</guid>
-      <description>&amp;hellip; Inc (BOX) Stock Jumps on Microsoft Azure Partnership on June 27, 2017, also Nasdaq.com published article titled: Jack in the Box Enters Oversold &amp;hellip; more.
 @crypt0net</description>
     </item>
     

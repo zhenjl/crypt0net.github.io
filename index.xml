@@ -7,10 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Jul 2017 16:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2017 16:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1705603 Redundant initialization of swift client if we do ...</title>
+      <link>//crypt0.net/post/bug-1705603-redundant-initialization-of-swift-client-if-we-do-/</link>
+      <pubDate>Fri, 21 Jul 2017 16:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1705603-redundant-initialization-of-swift-client-if-we-do-/</guid>
+      <description>do the initialization of swift client in some places, it seems not correct (The &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>CIOs And CTOs Must Understand How The Internet Of Things Is Changing How</title>
+      <link>//crypt0.net/post/cios-and-ctos-must-understand-how-the-internet-of-things-is-changing-how/</link>
+      <pubDate>Fri, 21 Jul 2017 16:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cios-and-ctos-must-understand-how-the-internet-of-things-is-changing-how/</guid>
+      <description>Forbes After a short sabbatical traveling the world looking at interesting technologies and business models, I have decided to return to Moor Insights &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>How a fish tank helped hack a casino</title>
+      <link>//crypt0.net/post/how-a-fish-tank-helped-hack-a-casino/</link>
+      <pubDate>Fri, 21 Jul 2017 16:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-a-fish-tank-helped-hack-a-casino/</guid>
+      <description>&amp;hellip; by which hackers are trying to break into systems, he wouldn&amp;rsquo;t be surprised if the government eventually got involved in regulating Internet of Things, &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Why You Should Sell Amazon After Its Next Earnings Release</title>
+      <link>//crypt0.net/post/why-you-should-sell-amazon-after-its-next-earnings-release/</link>
+      <pubDate>Fri, 21 Jul 2017 16:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-you-should-sell-amazon-after-its-next-earnings-release/</guid>
+      <description>&amp;hellip; a premium based on their growth profile and also given they have higher than usual gross margins for a retailer (a result of Amazon Web Services). more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>2017 Data Breaches Keeps Up Record Pace with More Than 800 to Date</title>
@@ -23127,86 +23167,6 @@ Companies Do More to Prepare for Data Breaches, Employees Still Engage in IT Bus
       <guid>//crypt0.net/post/machinetomachine-m2m-connections-market-worth-2762-billion-usd-by-2023/</guid>
       <description>According to the latest market research report &amp;ldquo;Machine-to-Machine (M2M) Connections Market by Technology (Wired, Wireless), Industry (Healthcare, &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Kentucky voters could become victims of cyber crime - Comment</title>
-      <link>//crypt0.net/post/kentucky-voters-could-become-victims-of-cyber-crime--comment/</link>
-      <pubDate>Thu, 06 Jul 2017 16:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/kentucky-voters-could-become-victims-of-cyber-crime--comment/</guid>
-      <description>In 2016, data breaches exposed more than 4.2 billion pieces of information about individuals. The Russian hacking of the presidential election was &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Want to Stay Ahead of the GDPR? Utilize Biometrics</title>
-      <link>//crypt0.net/post/want-to-stay-ahead-of-the-gdpr-utilize-biometrics/</link>
-      <pubDate>Thu, 06 Jul 2017 16:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/want-to-stay-ahead-of-the-gdpr-utilize-biometrics/</guid>
-      <description>Looking at last year&amp;rsquo;s five biggest data breaches, all involved compromised, weak, or reused passwords. Accessing your personal or financial &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Blockchain Tracker: The Future of Third-Party Transparency For All?</title>
-      <link>//crypt0.net/post/blockchain-tracker-the-future-of-thirdparty-transparency-for-all/</link>
-      <pubDate>Thu, 06 Jul 2017 16:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-tracker-the-future-of-thirdparty-transparency-for-all/</guid>
-      <description>Blockchain technology has been making its way through the financial sector and pouring into mainstream industries for the last few years. With the &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Cars &amp; cloud: Detroit&#39;s past informs Seattle&#39;s future</title>
-      <link>//crypt0.net/post/cars--cloud-detroits-past-informs-seattles-future/</link>
-      <pubDate>Thu, 06 Jul 2017 16:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cars--cloud-detroits-past-informs-seattles-future/</guid>
-      <description>&amp;hellip; suitconsider PTC&amp;rsquo;s (Thingworx) recent announcements on supporting multiple public cloud platforms, and SAP&amp;rsquo;s move to support Google&amp;rsquo;s cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Driving the Future of Blockchains Part Two: The New Mobility Ecosystem</title>
-      <link>//crypt0.net/post/driving-the-future-of-blockchains-part-two-the-new-mobility-ecosystem/</link>
-      <pubDate>Thu, 06 Jul 2017 16:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/driving-the-future-of-blockchains-part-two-the-new-mobility-ecosystem/</guid>
-      <description>Blockchain technology may create an opportunity to share driving and autonomous testing data in an environment that preserves ownership of the &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>How to configure Citrix XenApp Essentials in Microsoft Azure, including</title>
-      <link>//crypt0.net/post/how-to-configure-citrix-xenapp-essentials-in-microsoft-azure-including/</link>
-      <pubDate>Thu, 06 Jul 2017 16:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-configure-citrix-xenapp-essentials-in-microsoft-azure-including/</guid>
-      <description>DABCC.com One of the biggest Citrix and Microsoft partnership announcements over the last year was definitely the replacement of Azure RemoteApp by XenApp &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>The Marketer&#39;s Guide To Blockchain</title>
-      <link>//crypt0.net/post/the-marketers-guide-to-blockchain/</link>
-      <pubDate>Thu, 06 Jul 2017 16:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-marketers-guide-to-blockchain/</guid>
-      <description>Blockchain, an unmodifiable and unbreachable digital ledger, was conceived 10 years ago to support the cryptocurrency bitcoin. But it has since &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Today Box Incorporated (NYSE:BOX) Reported Increase in Shorted Shares</title>
-      <link>//crypt0.net/post/today-box-incorporated-nysebox-reported-increase-in-shorted-shares/</link>
-      <pubDate>Thu, 06 Jul 2017 16:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/today-box-incorporated-nysebox-reported-increase-in-shorted-shares/</guid>
-      <description>&amp;hellip; Inc (BOX) Stock Jumps on Microsoft Azure Partnership on June 27, 2017, also Nasdaq.com published article titled: Jack in the Box Enters Oversold &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
