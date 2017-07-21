@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Jul 2017 23:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2017 23:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>nova compute does nothing on receiving sighup signal</title>
+      <link>//crypt0.net/post/nova-compute-does-nothing-on-receiving-sighup-signal/</link>
+      <pubDate>Fri, 21 Jul 2017 23:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/nova-compute-does-nothing-on-receiving-sighup-signal/</guid>
+      <description>reload the configuration file. Steps to reproduce: 1. Run nova compute service &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>5 open source tools for developing IoT applications</title>
@@ -22488,26 +22498,6 @@
       
       <guid>//crypt0.net/post/5-things-you-didnt-know-about-verizon-communications-inc/</guid>
       <description>To offset that softness, Verizon is investing in the Internet of Things (IoT) market. Verizon&amp;rsquo;s IoT business generated nearly $1 billion in revenue last &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Cisco Talos NotPetya analysis: Attacker could launch again</title>
-      <link>//crypt0.net/post/cisco-talos-notpetya-analysis-attacker-could-launch-again/</link>
-      <pubDate>Thu, 06 Jul 2017 23:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cisco-talos-notpetya-analysis-attacker-could-launch-again/</guid>
-      <description>On June 27 8:59:14 UTC the malicious actor used the stolen credentials and Unix command su to obtain root privileges on the update server. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Optical Components Market Showcasing Significant Growth Due to Need for</title>
-      <link>//crypt0.net/post/optical-components-market-showcasing-significant-growth-due-to-need-for/</link>
-      <pubDate>Thu, 06 Jul 2017 23:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/optical-components-market-showcasing-significant-growth-due-to-need-for/</guid>
-      <description>Digital Journal (press release) &amp;hellip; experienced a significant growth with the need for advanced connectivity solutions such as cloud-based services and machine-to-machine (M2M). more.
 @surgethings</description>
     </item>
     
