@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 22 Jul 2017 04:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jul 2017 07:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Offensive Intrusion Analysis: Uncovering Insiders with Threat Hunting and</title>
+      <link>//crypt0.net/post/offensive-intrusion-analysis-uncovering-insiders-with-threat-hunting-and/</link>
+      <pubDate>Sat, 22 Jul 2017 07:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/offensive-intrusion-analysis-uncovering-insiders-with-threat-hunting-and/</guid>
+      <description>Techniques like Threat Hunting, attempt to diminish this problem by &amp;hellip; Active Defense technique that, when combined with Threat Hunting, is a method &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Nyotron Redefines Endpoint Protection with New Threat Agnostic Defense</title>
