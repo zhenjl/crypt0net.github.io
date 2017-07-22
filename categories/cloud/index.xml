@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 21 Jul 2017 23:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jul 2017 00:00:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS on full-service cloud: It&#39;s not just storage and compute anymore</title>
+      <link>//crypt0.net/post/aws-on-fullservice-cloud-its-not-just-storage-and-compute-anymore/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-on-fullservice-cloud-its-not-just-storage-and-compute-anymore/</guid>
+      <description>&amp;hellip; channels and ecosystem at Amazon Web Services Inc. Today, customers are more interested in the neat business-differentiating tricks cloud can do, &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Channel Beat: FireEye Executive Departs, Citrix And Google Expand</title>
+      <link>//crypt0.net/post/channel-beat-fireeye-executive-departs-citrix-and-google-expand/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/channel-beat-fireeye-executive-departs-citrix-and-google-expand/</guid>
+      <description>CRN Citrix Systems and Google, meanwhile, expanded their existing partnership Thursday to facilitate delivery of Citrix environments from Google&amp;rsquo;s cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>GoDaddy Shuts Down Cloud Server Business, Sells Off PlusServer Managed</title>
+      <link>//crypt0.net/post/godaddy-shuts-down-cloud-server-business-sells-off-plusserver-managed/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/godaddy-shuts-down-cloud-server-business-sells-off-plusserver-managed/</guid>
+      <description>ChannelE2E GoDaddy is shutting down Cloud Servers, an Amazon Web Services (AWS) alternative for small businesses. Senior VP Raghu Murthi describes the &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>nova compute does nothing on receiving sighup signal</title>
