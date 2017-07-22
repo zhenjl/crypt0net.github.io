@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 22 Jul 2017 05:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jul 2017 05:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Update MySQL packages to 5.6.37</title>
+      <link>//crypt0.net/post/update-mysql-packages-to-5637/</link>
+      <pubDate>Sat, 22 Jul 2017 05:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/update-mysql-packages-to-5637/</guid>
+      <description>https://dev.mysql.com/doc/relnotes/mysql/5.6/en/news-5-6-37.html Please update MySQL packages in MOS to the &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>An Existential Threat to Fiberoptics Makers?</title>
