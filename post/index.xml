@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 22 Jul 2017 12:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jul 2017 13:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The cloud wars explained: Amazon is dominating, but Microsoft and Google</title>
+      <link>//crypt0.net/post/the-cloud-wars-explained-amazon-is-dominating-but-microsoft-and-google/</link>
+      <pubDate>Sat, 22 Jul 2017 13:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-cloud-wars-explained-amazon-is-dominating-but-microsoft-and-google/</guid>
+      <description>Markets Insider The same tech that helps those sites reach billions of people every day can help Google Cloud customers run their apps and services better, faster &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Previews Bug and Security Risk Detection on Windows and Linux</title>
@@ -30,16 +40,6 @@
       <guid>//crypt0.net/post/tata-communications-bets-big-on-internet-of-things-in-utilities-healthcare/</guid>
       <description>Tata Communications is betting big on Internet of Things (IoT) usage across the country by rolling out their long-range low-power networks to support &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>The cloud wars explained: Amazon is dominating, but Microsoft and Google</title>
-      <link>//crypt0.net/post/the-cloud-wars-explained-amazon-is-dominating-but-microsoft-and-google/</link>
-      <pubDate>Sat, 22 Jul 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-cloud-wars-explained-amazon-is-dominating-but-microsoft-and-google/</guid>
-      <description>Markets Insider Microsoft had been playing with cloud concepts since the mid-2000s, but it didn&amp;rsquo;t introduce Azure, its formal AWS competitor, until 2010 or about &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -22309,66 +22309,6 @@
       <guid>//crypt0.net/post/microsoft-announces-azure-service-health-preview/</guid>
       <description>We are excited to announce the preview of Azure Service Health, your new personalized service health dashboard in the Azure portal. It provides &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Digital transformation for channel providers: Don&#39;t worry, be nimble</title>
-      <link>//crypt0.net/post/digital-transformation-for-channel-providers-dont-worry-be-nimble/</link>
-      <pubDate>Fri, 07 Jul 2017 13:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/digital-transformation-for-channel-providers-dont-worry-be-nimble/</guid>
-      <description>That could be a big piece of the pie given that the Internet of Things alone is estimated to create $4 trillion in value by 2015, 70 per cent of it in the &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Symantec Adds Isolation Solution with Fireglass Acquisition</title>
-      <link>//crypt0.net/post/symantec-adds-isolation-solution-with-fireglass-acquisition/</link>
-      <pubDate>Fri, 07 Jul 2017 13:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/symantec-adds-isolation-solution-with-fireglass-acquisition/</guid>
-      <description>&amp;hellip; 451 Research, said that Symantec follows the likes of Cylance, Carbon Black and others in adding functionality to endpoint detection and response. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>CIS Hardened Images Configured to CIS Benchmarks Now Available on Google</title>
-      <link>//crypt0.net/post/cis-hardened-images-configured-to-cis-benchmarks-now-available-on-google/</link>
-      <pubDate>Fri, 07 Jul 2017 12:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cis-hardened-images-configured-to-cis-benchmarks-now-available-on-google/</guid>
-      <description>CIS is now offering CIS Hardened Images on Google Cloud Platform, starting July 2017. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Healthcare M2M Market: Leading players are developing advanced M2M</title>
-      <link>//crypt0.net/post/healthcare-m2m-market-leading-players-are-developing-advanced-m2m/</link>
-      <pubDate>Fri, 07 Jul 2017 12:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/healthcare-m2m-market-leading-players-are-developing-advanced-m2m/</guid>
-      <description>Medgadget (blog) Some of the leading players operating in the healthcare M2M (machine-to-machine) market are Telefonica S.A., AT&amp;amp;T Inc., Vodafone Group plc, and &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Here&#39;s Why the Best is Yet to Come for CalAmp Corp.</title>
-      <link>//crypt0.net/post/heres-why-the-best-is-yet-to-come-for-calamp-corp/</link>
-      <pubDate>Fri, 07 Jul 2017 12:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/heres-why-the-best-is-yet-to-come-for-calamp-corp/</guid>
-      <description>Let&amp;rsquo;s take a closer look at the state of CalAmp&amp;rsquo;s business today, as well as where the innovative machine-to-machine communications company is &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>You&#39;ve Been Breached, What Now?</title>
-      <link>//crypt0.net/post/youve-been-breached-what-now/</link>
-      <pubDate>Fri, 07 Jul 2017 12:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/youve-been-breached-what-now/</guid>
-      <description>In light of the tight timescales for reporting a breach it is important to have robust breach detection, investigation and internal reporting procedures in &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>

@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 22 Jul 2017 12:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jul 2017 13:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The cloud wars explained: Amazon is dominating, but Microsoft and Google</title>
+      <link>//crypt0.net/post/the-cloud-wars-explained-amazon-is-dominating-but-microsoft-and-google/</link>
+      <pubDate>Sat, 22 Jul 2017 13:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-cloud-wars-explained-amazon-is-dominating-but-microsoft-and-google/</guid>
+      <description>Markets Insider The same tech that helps those sites reach billions of people every day can help Google Cloud customers run their apps and services better, faster &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Previews Bug and Security Risk Detection on Windows and Linux</title>
@@ -19,16 +29,6 @@
       
       <guid>//crypt0.net/post/microsoft-previews-bug-and-security-risk-detection-on-windows-and-linux/</guid>
       <description>Microsoft has made available Project Springfield as an Azure service preview called Microsoft Security Risk Detection (MSRD) for detecting code bugs &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>The cloud wars explained: Amazon is dominating, but Microsoft and Google</title>
-      <link>//crypt0.net/post/the-cloud-wars-explained-amazon-is-dominating-but-microsoft-and-google/</link>
-      <pubDate>Sat, 22 Jul 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-cloud-wars-explained-amazon-is-dominating-but-microsoft-and-google/</guid>
-      <description>Markets Insider Microsoft had been playing with cloud concepts since the mid-2000s, but it didn&amp;rsquo;t introduce Azure, its formal AWS competitor, until 2010 or about &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -8581,16 +8581,6 @@ Microsoft to Lay Off An Estimated 3000 Employees Microsoft will lay off as many 
       
       <guid>//crypt0.net/post/microsoft-announces-azure-service-health-preview/</guid>
       <description>We are excited to announce the preview of Azure Service Health, your new personalized service health dashboard in the Azure portal. It provides &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>CIS Hardened Images Configured to CIS Benchmarks Now Available on Google</title>
-      <link>//crypt0.net/post/cis-hardened-images-configured-to-cis-benchmarks-now-available-on-google/</link>
-      <pubDate>Fri, 07 Jul 2017 12:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cis-hardened-images-configured-to-cis-benchmarks-now-available-on-google/</guid>
-      <description>CIS is now offering CIS Hardened Images on Google Cloud Platform, starting July 2017. more.
 @crypt0net</description>
     </item>
     
