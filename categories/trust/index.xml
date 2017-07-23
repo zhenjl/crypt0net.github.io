@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 22 Jul 2017 20:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2017 03:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NACo 2017: Cognitive Cyberthreats Can Leave County Networks Vulnerable</title>
+      <link>//crypt0.net/post/naco-2017-cognitive-cyberthreats-can-leave-county-networks-vulnerable/</link>
+      <pubDate>Sun, 23 Jul 2017 03:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/naco-2017-cognitive-cyberthreats-can-leave-county-networks-vulnerable/</guid>
+      <description>A cognitive endpoint protection system is the type of system that can sit outside your network and will stop WannaCry even though it&amp;rsquo;s never seen it &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>FOR508: Advanced Digital Forensics, Incident Response, and Threat Hunting</title>
