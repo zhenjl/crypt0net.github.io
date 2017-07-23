@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 23 Jul 2017 19:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2017 20:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>5 things to know about 5G with Cradlepoint&#39;s Lindsay Notwell</title>
+      <link>//crypt0.net/post/5-things-to-know-about-5g-with-cradlepoints-lindsay-notwell/</link>
+      <pubDate>Sun, 23 Jul 2017 20:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/5-things-to-know-about-5g-with-cradlepoints-lindsay-notwell/</guid>
+      <description>&amp;hellip; it&amp;rsquo;s slower a confusing statement at first, but one that refers to the importance of IoT and machine-to-machine communications in the new network &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>&#39;$1.5bn opportunity awaits GCC telecom operators for drones&#39;</title>
@@ -21409,16 +21419,6 @@
       <guid>//crypt0.net/post/smart-signal-project-in-city-hits-a-roadblock/</guid>
       <description>&amp;hellip; 50 CCTV cameras have been installed. According to the vendor, though the signals are basic they can be upgraded with IOT (internet of things) app. more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Wiki Document Needs to be Updated</title>
-      <link>//crypt0.net/post/wiki-document-needs-to-be-updated/</link>
-      <pubDate>Sat, 08 Jul 2017 19:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/wiki-document-needs-to-be-updated/</guid>
-      <description>https://wiki.openstack.org/wiki/Neutron/DVR needs to be updated as it still refers to the Juno &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
