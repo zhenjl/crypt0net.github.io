@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 23 Jul 2017 08:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2017 11:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Announces Cloud App Partnership With Citrix</title>
+      <link>//crypt0.net/post/google-announces-cloud-app-partnership-with-citrix/</link>
+      <pubDate>Sun, 23 Jul 2017 11:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-announces-cloud-app-partnership-with-citrix/</guid>
+      <description>The collaboration saw the Citrix Cloud service become officially supported by the Google Cloud Platform (GCP), providing businesses with even more &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon is building another multibillion dollar business that you probably</title>
@@ -8112,26 +8122,6 @@ Google&amp;rsquo;s Cloud Spanner: how does it stack up?</description>
       
       <guid>//crypt0.net/post/wwe-fans-beware-personal-information-of-over-3-million-users-left/</guid>
       <description>Tech Times Dyachenko, however, added that there is another WWE database that was leaked on Amazon Web Services, with the second database containing &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Exposed Server Leaked Details of Over 3 Million WWE Fans</title>
-      <link>//crypt0.net/post/exposed-server-leaked-details-of-over-3-million-wwe-fans/</link>
-      <pubDate>Sat, 08 Jul 2017 11:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/exposed-server-leaked-details-of-over-3-million-wwe-fans/</guid>
-      <description>&amp;ldquo;We are currently working with Amazon Web Services, Smartronix and Praetorian to ensure the ongoing security of our customer information.&amp;rdquo;. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>literal text in sidebar TOC does not wrap</title>
-      <link>//crypt0.net/post/literal-text-in-sidebar-toc-does-not-wrap/</link>
-      <pubDate>Sat, 08 Jul 2017 11:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/literal-text-in-sidebar-toc-does-not-wrap/</guid>
-      <description>include literal text in the table of contents entries. Those entries do not wrap &amp;hellip; more.
 @crypt0net</description>
     </item>
     
