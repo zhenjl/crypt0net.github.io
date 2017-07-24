@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 24 Jul 2017 11:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 11:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>This Raspberry Pi rotary phone calls you when a server goes down</title>
+      <link>//crypt0.net/post/this-raspberry-pi-rotary-phone-calls-you-when-a-server-goes-down/</link>
+      <pubDate>Mon, 24 Jul 2017 11:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/this-raspberry-pi-rotary-phone-calls-you-when-a-server-goes-down/</guid>
+      <description>To do this Pech used several services which check the servers connected to his Amazon Web Services Account. It&amp;rsquo;s explained in this diagram, but it all &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Writing Windows or Linux apps? Microsoft just launched a cloud-powered bug</title>
