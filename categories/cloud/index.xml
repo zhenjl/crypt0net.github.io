@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 24 Jul 2017 07:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 08:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Openstack Security group drops all ingress traffic</title>
+      <link>//crypt0.net/post/openstack-security-group-drops-all-ingress-traffic/</link>
+      <pubDate>Mon, 24 Jul 2017 08:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-security-group-drops-all-ingress-traffic/</guid>
+      <description>Hat OpenStack 10.0 &amp;hellip; Product(s); Red Hat OpenStack Platform. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Gone daddy gone: GoDaddy offloads its cloud businesses</title>
