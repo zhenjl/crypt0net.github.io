@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 24 Jul 2017 19:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 22:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>mkswap fails on cannot open /dev/xvde1</title>
+      <link>//crypt0.net/post/mkswap-fails-on-cannot-open-devxvde1/</link>
+      <pubDate>Mon, 24 Jul 2017 22:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mkswap-fails-on-cannot-open-devxvde1/</guid>
+      <description>http://logs.openstack.org/57/484157/4/gate/gate-tempest-dsvm-neutron-full-u buntu-xenial/bdde7b1/logs/devstack-gate-setup-workspace- &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Ex-Amazon and Microsoft employees launching business-focused digital</title>
@@ -8350,16 +8360,6 @@ One of These FANGs Is Not Like the Others It not only dominates online retail bu
       
       <guid>//crypt0.net/post/one-of-these-fangs-is-not-like-the-others/</guid>
       <description>It not only dominates online retail but also possesses the leading cloud platform, Amazon Web Services. With the acquisition of Whole Foods &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Learn about open source business opportunities at Microsoft Inspire</title>
-      <link>//crypt0.net/post/learn-about-open-source-business-opportunities-at-microsoft-inspire/</link>
-      <pubDate>Sun, 09 Jul 2017 20:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/learn-about-open-source-business-opportunities-at-microsoft-inspire/</guid>
-      <description>of open source and Microsoft Azure is critical to their successes. The cloud &amp;hellip; more.
 @crypt0net</description>
     </item>
     
