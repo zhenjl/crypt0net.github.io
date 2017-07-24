@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 24 Jul 2017 04:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 06:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>APeJ public cloud services market will exceed $10b in 2017: IDC</title>
+      <link>//crypt0.net/post/apej-public-cloud-services-market-will-exceed-10b-in-2017-idc/</link>
+      <pubDate>Mon, 24 Jul 2017 06:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/apej-public-cloud-services-market-will-exceed-10b-in-2017-idc/</guid>
+      <description>The top three public cloud service providers in the region for 2016 are Amazon Web Services, Microsoft, and Alibaba, with a combined 50 percent &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>openstack documents links are not working properly...</title>
+      <link>//crypt0.net/post/openstack-documents-links-are-not-working-properly/</link>
+      <pubDate>Mon, 24 Jul 2017 06:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-documents-links-are-not-working-properly/</guid>
+      <description>End User Guide on https://docs.openstack.org/ocata/ takes you to a link &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Mitel and Toshiba: What&#39;s Coming Next?</title>
@@ -8111,26 +8131,6 @@ Dante Labs Partners With Amazon UK for Special 349 Whole Genome Sequencing SYS-C
       
       <guid>//crypt0.net/post/rhcsarhce-needed-for-certify-in-rhce-in-red-hat-openstack/</guid>
       <description>then the Red Hat OpenStack Administrator cert, but now I am a bit confusing &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon still looking at opening South African data centre</title>
-      <link>//crypt0.net/post/amazon-still-looking-at-opening-south-african-data-centre/</link>
-      <pubDate>Sun, 09 Jul 2017 06:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-still-looking-at-opening-south-african-data-centre/</guid>
-      <description>BusinessLive reported that Amazon Web Services has a large customer base in the country, including young businesses and larger companies, and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Read a secret from Azure Key Vault using PowerShell</title>
-      <link>//crypt0.net/post/read-a-secret-from-azure-key-vault-using-powershell/</link>
-      <pubDate>Sun, 09 Jul 2017 06:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/read-a-secret-from-azure-key-vault-using-powershell/</guid>
-      <description>A. I recently wanted to try using Azure Key Vault using PowerShell and wanted to store a sensitive password in Key Vault which could then be used by &amp;hellip; more.
 @crypt0net</description>
     </item>
     
