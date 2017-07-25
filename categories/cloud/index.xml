@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 25 Jul 2017 06:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2017 07:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why Kubernetes&#39; platform prowess is a bigger threat to Amazon than its</title>
+      <link>//crypt0.net/post/why-kubernetes-platform-prowess-is-a-bigger-threat-to-amazon-than-its/</link>
+      <pubDate>Tue, 25 Jul 2017 07:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-kubernetes-platform-prowess-is-a-bigger-threat-to-amazon-than-its/</guid>
+      <description>TechRepublic &amp;hellip; that it promises to be such a broad platform, one that makes it easy to take workloads away from AWS and run them, for example, on Google Cloud, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Oracle Blends Hybrid Cloud, Managed Services for Customer Data Centers</title>
@@ -149,16 +159,6 @@
       
       <guid>//crypt0.net/post/weathercom-fusion-expose-data-via-google-groups-config-error/</guid>
       <description>&amp;hellip; leak at Dow Jones &amp;amp; Co. exposed millions of customers&amp;rsquo; personal information due to a configuration error in an Amazon Web Services S3 bucket. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Why Kubernetes&#39; platform prowess is a bigger threat to Amazon than its</title>
-      <link>//crypt0.net/post/why-kubernetes-platform-prowess-is-a-bigger-threat-to-amazon-than-its/</link>
-      <pubDate>Tue, 25 Jul 2017 04:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-kubernetes-platform-prowess-is-a-bigger-threat-to-amazon-than-its/</guid>
-      <description>TechRepublic According to some reports, Amazon Web Services (AWS) feels threatened by Kubernetes, and not because Kubernetes has become a rallying cry for &amp;hellip; more.
 @crypt0net</description>
     </item>
     
