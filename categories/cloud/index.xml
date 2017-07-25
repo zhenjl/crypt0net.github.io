@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 24 Jul 2017 23:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2017 02:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GoDaddy sheds its Cloud Servers service</title>
+      <link>//crypt0.net/post/godaddy-sheds-its-cloud-servers-service/</link>
+      <pubDate>Tue, 25 Jul 2017 02:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/godaddy-sheds-its-cloud-servers-service/</guid>
+      <description>Web hosting provider and Internet domain registrar GoDaddy is selling its OpenStack-based cloud service sixteen months after launching it. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Hybrid gives you better control: Vintek</title>
+      <link>//crypt0.net/post/hybrid-gives-you-better-control-vintek/</link>
+      <pubDate>Tue, 25 Jul 2017 02:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/hybrid-gives-you-better-control-vintek/</guid>
+      <description>In terms of the vendors that underpin our hybrid cloud offering, Lenovo is central in there, then we have DataCore, OpenStack and Fortinet. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>A Raspberry Pi simulator from Microsoft is now available on Azure</title>
