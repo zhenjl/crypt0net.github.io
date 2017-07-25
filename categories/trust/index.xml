@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 25 Jul 2017 11:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2017 11:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Threat Hunting and Endpoints; A Dr. Stephenson tutorial</title>
+      <link>//crypt0.net/post/threat-hunting-and-endpoints-a-dr-stephenson-tutorial/</link>
+      <pubDate>Tue, 25 Jul 2017 11:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/threat-hunting-and-endpoints-a-dr-stephenson-tutorial/</guid>
+      <description>Our premise - and the way I do threat hunting - is that no single tool is enough and, while endpoint protection is critical, it does not give you the depth &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>50% of US Retailers Certain They Are Targeted by Hackers: Survey</title>
