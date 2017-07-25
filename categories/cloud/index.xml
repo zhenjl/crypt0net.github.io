@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 25 Jul 2017 16:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2017 17:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cannot list hyper-visors or compute services</title>
+      <link>//crypt0.net/post/cannot-list-hypervisors-or-compute-services/</link>
+      <pubDate>Tue, 25 Jul 2017 17:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cannot-list-hypervisors-or-compute-services/</guid>
+      <description>modifications to the config files, i am now giving up on ocata and falling &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Analyst: Google Cloud Revenue Up 85% In Q2</title>
@@ -8610,26 +8620,6 @@ One of These FANGs Is Not Like the Others It not only dominates online retail bu
       
       <guid>//crypt0.net/post/increased-automation-helps-organizations-succeed-new-devops-report/</guid>
       <description>Its State of DevOps report, conducted in partnership with DevOps Research and Assessment (DORA), and co-sponsored by Amazon Web Services &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Services and Partner Program</title>
-      <link>//crypt0.net/post/microsoft-azure-services-and-partner-program/</link>
-      <pubDate>Mon, 10 Jul 2017 17:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-services-and-partner-program/</guid>
-      <description>commerce solutions to serve our global customer base across six continents, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft looks to Inspire greater ISV involvement</title>
-      <link>//crypt0.net/post/microsoft-looks-to-inspire-greater-isv-involvement/</link>
-      <pubDate>Mon, 10 Jul 2017 17:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-looks-to-inspire-greater-isv-involvement/</guid>
-      <description>Microsoft has kicked off its Inspire event promising to put partners at the &amp;hellip; on helping support partners with their go-to market efforts around Azure. more.
 @crypt0net</description>
     </item>
     
