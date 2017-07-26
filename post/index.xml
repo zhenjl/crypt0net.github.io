@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 26 Jul 2017 13:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 13:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Explicitly set file permissions on tasks</title>
+      <link>//crypt0.net/post/explicitly-set-file-permissions-on-tasks/</link>
+      <pubDate>Wed, 26 Jul 2017 13:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/explicitly-set-file-permissions-on-tasks/</guid>
+      <description>http://lists.openstack.org/pipermail/openstack-dev/2017-July/119800.html Steps to reproduce &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Blue Sentry Achieves AWS Migration Competency Status</title>
