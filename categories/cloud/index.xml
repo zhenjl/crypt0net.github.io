@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 26 Jul 2017 17:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 17:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LVC: OpenStack enablement for System z DPM hypervisor</title>
+      <link>//crypt0.net/post/lvc-openstack-enablement-for-system-z-dpm-hypervisor/</link>
+      <pubDate>Wed, 26 Jul 2017 17:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/lvc-openstack-enablement-for-system-z-dpm-hypervisor/</guid>
+      <description>OpenStack enablement for System z DPM hypervisor Abstract: On IBM z &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Avere and AWS Best Practices Webinar Explores How to Build a Hybrid Cloud</title>
@@ -8699,16 +8709,6 @@ Mayor Emanuel and Amazon Open Company&amp;rsquo;s Chicago Office Amazon&amp;rsqu
       
       <guid>//crypt0.net/post/track-request-for-openstack-core-snaps/</guid>
       <description>OpenStack snaps listed below? Tracks: ocata, pike, queens Snaps: &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Google Cloud Platform  by the SAP HANA Academy</title>
-      <link>//crypt0.net/post/getting-started-with-google-cloud-platform--by-the-sap-hana-academy/</link>
-      <pubDate>Tue, 11 Jul 2017 17:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/getting-started-with-google-cloud-platform--by-the-sap-hana-academy/</guid>
-      <description>SAP HANA Academy to help you get started on the Google Cloud Platform. more.
 @crypt0net</description>
     </item>
     
