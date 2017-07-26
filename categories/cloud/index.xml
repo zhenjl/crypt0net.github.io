@@ -7,10 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 26 Jul 2017 21:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 22:00:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Gentle Introduction to Google Cloud Platform for Machine Learning</title>
+      <link>//crypt0.net/post/a-gentle-introduction-to-google-cloud-platform-for-machine-learning/</link>
+      <pubDate>Wed, 26 Jul 2017 22:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/a-gentle-introduction-to-google-cloud-platform-for-machine-learning/</guid>
+      <description>In this post, we introduce the Google Cloud Platform (GCP) as a simple, yet powerful, and cost effective cloud option for performing machine learning. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Amazon has a secret health care team called 1492 focused on medical</title>
+      <link>//crypt0.net/post/amazon-has-a-secret-health-care-team-called-1492-focused-on-medical/</link>
+      <pubDate>Wed, 26 Jul 2017 22:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-has-a-secret-health-care-team-called-1492-focused-on-medical/</guid>
+      <description>CNBC Its cloud operation, Amazon Web Services, has also hired a slew of health experts to beat out Microsoft and Google for contracts with large hospitals &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Can Amazon.com Weather a Market Downturn?</title>
+      <link>//crypt0.net/post/can-amazoncom-weather-a-market-downturn/</link>
+      <pubDate>Wed, 26 Jul 2017 22:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/can-amazoncom-weather-a-market-downturn/</guid>
+      <description>Second, AWS remains well ahead of Microsoft&amp;rsquo;s Azure and Google Cloud in the cloud infrastructure market, and its profitability supports the growth of &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>F5 Networks Announces Third Quarter Fiscal 2017 Results</title>
+      <link>//crypt0.net/post/f5-networks-announces-third-quarter-fiscal-2017-results/</link>
+      <pubDate>Wed, 26 Jul 2017 22:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/f5-networks-announces-third-quarter-fiscal-2017-results/</guid>
+      <description>&amp;hellip; private cloud application infrastructures, support for BIG-IP in the Google Cloud Platform, and Container Connector and Application Services Proxy &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Lecture: Installing the Google Cloud SDK on a Linux System</title>
+      <link>//crypt0.net/post/lecture-installing-the-google-cloud-sdk-on-a-linux-system/</link>
+      <pubDate>Wed, 26 Jul 2017 22:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/lecture-installing-the-google-cloud-sdk-on-a-linux-system/</guid>
+      <description>26, 2017 by: Jamin S. Didn&amp;rsquo;t work on a mac, got an error about python. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Debuts On-Demand Azure Container Service</title>
+      <link>//crypt0.net/post/microsoft-debuts-ondemand-azure-container-service/</link>
+      <pubDate>Wed, 26 Jul 2017 22:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-debuts-ondemand-azure-container-service/</guid>
+      <description>Microsoft on Wednesday launched a technical preview of its new Azure Container Instances (ACI) service, enabling Azure customers to deploy &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>IBM&#39;s cloud vision prioritizes platform, but future remains fuzzy</title>
@@ -8639,46 +8699,6 @@ Microsoft 365 Brings Together Office and Windows for Business Users Another new 
       
       <guid>//crypt0.net/post/microsoft-bundles-office--windows-for-businesses-through-microsoft-365/</guid>
       <description>ETtech.com To help meet its goal of a $20 billion cloud run rate by 2018, Microsoft also announced that its private cloud platform &amp;lsquo;Azure Stack&amp;rsquo; is now available to &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Anna Patterson talks Gradient Ventures, Google&#39;s new AI fund</title>
-      <link>//crypt0.net/post/anna-patterson-talks-gradient-ventures-googles-new-ai-fund/</link>
-      <pubDate>Tue, 11 Jul 2017 21:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/anna-patterson-talks-gradient-ventures-googles-new-ai-fund/</guid>
-      <description>Google Cloud has the clear benefit of building a community around TensorFlow and other cloud services. GV and Capital G have a proven track &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft&#39;s Nadella Pushes &#39;One Microsoft&#39; Concept</title>
-      <link>//crypt0.net/post/microsofts-nadella-pushes-one-microsoft-concept/</link>
-      <pubDate>Tue, 11 Jul 2017 21:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsofts-nadella-pushes-one-microsoft-concept/</guid>
-      <description>Amazon Web Services (AWS), the firm has decided to cut thousands of jobs in a larger workforce reorganization. Earlier this month, Microsoft slashed &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>RagingWire Cloud Connect Service Delivers Direct Network Connections to</title>
-      <link>//crypt0.net/post/ragingwire-cloud-connect-service-delivers-direct-network-connections-to/</link>
-      <pubDate>Tue, 11 Jul 2017 21:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ragingwire-cloud-connect-service-delivers-direct-network-connections-to/</guid>
-      <description>Business Wire (press release) RagingWire Cloud Connect Service Delivers Direct Network Connections to Amazon Web Services, Microsoft Azure, Google Cloud Platform, SaaS &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Catch up on Azure cloud services for serverless, containers and more</title>
-      <link>//crypt0.net/post/catch-up-on-azure-cloud-services-for-serverless-containers-and-more/</link>
-      <pubDate>Tue, 11 Jul 2017 21:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/catch-up-on-azure-cloud-services-for-serverless-containers-and-more/</guid>
-      <description>Top cloud providers offer these event-driven services, including Amazon Web Services (AWS) Lambda and Microsoft Azure Functions, but they are not &amp;hellip; more.
 @crypt0net</description>
     </item>
     
