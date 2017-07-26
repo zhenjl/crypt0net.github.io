@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 26 Jul 2017 05:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 07:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First Look: Azure Web Application Firewall</title>
+      <link>//crypt0.net/post/first-look-azure-web-application-firewall/</link>
+      <pubDate>Wed, 26 Jul 2017 07:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/first-look-azure-web-application-firewall/</guid>
+      <description>Microsoft has recently added an option to its Azure public cloud to build &amp;hellip; Although the Azure Web Application Firewall is a Microsoft solution, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon pumps in Rs 1382 crore to boost India cloud data biz</title>
@@ -8619,16 +8629,6 @@ Mayor Emanuel and Amazon Open Company&amp;rsquo;s Chicago Office Amazon&amp;rsqu
       
       <guid>//crypt0.net/post/microsoft-inspire-2017-microsoft-365-enterprise-business-unveiled-azure/</guid>
       <description>News18 Microsoft has unveiled Microsoft 365 in its Inspire event in Washington D.C. on Monday. Along with this, the technology giant also introduced Microsoft &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Multimedios taps AWS Elemental for online video support</title>
-      <link>//crypt0.net/post/multimedios-taps-aws-elemental-for-online-video-support/</link>
-      <pubDate>Tue, 11 Jul 2017 07:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/multimedios-taps-aws-elemental-for-online-video-support/</guid>
-      <description>&amp;hellip; Multimedios Televisin has selected video processing, distribution and storage solutions from AWS Elemental and Amazon Web Services (AWS) for &amp;hellip; more.
 @crypt0net</description>
     </item>
     
