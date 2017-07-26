@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 26 Jul 2017 10:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 10:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Azure Events - Getting Started with Microsoft Azure</title>
+      <link>//crypt0.net/post/microsoft-azure-events--getting-started-with-microsoft-azure/</link>
+      <pubDate>Wed, 26 Jul 2017 10:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-events--getting-started-with-microsoft-azure/</guid>
+      <description>overview of what you can do in Azure. Learn where to find resources and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Sundar Pichai, More Than Just Googled!</title>
@@ -1934,16 +1944,6 @@ How Azure Stack Can Add to the Allure of Microsoft&amp;rsquo;s Azure Earlier in 
       
       <guid>//crypt0.net/post/increasing-amount-of-vulnerable-amazon-web-services-servers/</guid>
       <description>storage servers leaking customer data due to misconfigurations. These reports &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Events - Getting Started with Microsoft Azure</title>
-      <link>//crypt0.net/post/microsoft-azure-events--getting-started-with-microsoft-azure/</link>
-      <pubDate>Sat, 22 Jul 2017 05:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-events--getting-started-with-microsoft-azure/</guid>
-      <description>you can start accomplishing great things. Take the next step toward getting &amp;hellip; more.
 @crypt0net</description>
     </item>
     
