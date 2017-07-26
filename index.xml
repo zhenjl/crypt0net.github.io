@@ -7,10 +7,90 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 26 Jul 2017 10:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 11:00:06 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Australians acting unsafely with public Wi-Fi security: wake up!</title>
+      <link>//crypt0.net/post/australians-acting-unsafely-with-public-wifi-security-wake-up/</link>
+      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/australians-acting-unsafely-with-public-wifi-security-wake-up/</guid>
+      <description>&amp;hellip; most of us don&amp;rsquo;t take precautionary measures to protect themselves, or know when they&amp;rsquo;re at risk of data breaches when accessing public Wi-Fi&amp;rdquo;. more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>BP starts to move workloads into Microsoft Azure</title>
+      <link>//crypt0.net/post/bp-starts-to-move-workloads-into-microsoft-azure/</link>
+      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bp-starts-to-move-workloads-into-microsoft-azure/</guid>
+      <description>BP has started migrating its workloads to Microsoft Azure from its corporate data centre as part of its global digital transformation strategy. Resources &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>EU court: EU-Canada passenger data deal breaches privacy</title>
+      <link>//crypt0.net/post/eu-court-eucanada-passenger-data-deal-breaches-privacy/</link>
+      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/eu-court-eucanada-passenger-data-deal-breaches-privacy/</guid>
+      <description>&amp;hellip; that a deal between the EU and Canada on sharing airline passenger data breaches citizens&amp;rsquo; privacy and cannot be concluded in its current form. more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud: New hands-on labs for scientific data processing on Google</title>
+      <link>//crypt0.net/post/google-cloud-new-handson-labs-for-scientific-data-processing-on-google/</link>
+      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-new-handson-labs-for-scientific-data-processing-on-google/</guid>
+      <description>DABCC.com Fortunately, today, they can forget all about infrastructure, instead letting Google Cloud automatically provision and manage the computing resources &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>How the &#39;Wild West&#39; of the Internet Will Be Won</title>
+      <link>//crypt0.net/post/how-the-wild-west-of-the-internet-will-be-won/</link>
+      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-the-wild-west-of-the-internet-will-be-won/</guid>
+      <description>As thousands more &amp;ldquo;smart&amp;rdquo; machines and appliances come online each day, the internet of things will pose an even greater security risk, so long as its &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>How to improve customer experience with the internet of things</title>
+      <link>//crypt0.net/post/how-to-improve-customer-experience-with-the-internet-of-things/</link>
+      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-improve-customer-experience-with-the-internet-of-things/</guid>
+      <description>&amp;lsquo;The MagicBand, worn on the wrists of visitors to Disney&amp;rsquo;s Magic Kingdom, features a long-range radio which can be picked up by the company&amp;rsquo;s &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Microsoft offers a free assessment of your enterprise&#39;s GDPR readiness</title>
+      <link>//crypt0.net/post/microsoft-offers-a-free-assessment-of-your-enterprises-gdpr-readiness/</link>
+      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-offers-a-free-assessment-of-your-enterprises-gdpr-readiness/</guid>
+      <description>Azure and other cloud-based services and products can be made to comply with the GDPR at the server level by Microsoft itself, but compliance at the &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Public cloud: Real-world lessons of strategic success</title>
+      <link>//crypt0.net/post/public-cloud-realworld-lessons-of-strategic-success/</link>
+      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/public-cloud-realworld-lessons-of-strategic-success/</guid>
+      <description>&amp;hellip; hosting spaces for sensitive corporate information such as merger and acquisition documents, is tapping Microsoft&amp;rsquo;s Azure public cloud to do this. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>All eyes on Amazon and Apple as earnings loom</title>
@@ -22385,46 +22465,6 @@ Datacenter Networking Report Shows Emergence of SDN Real network behavior is the
       <guid>//crypt0.net/post/uk-blockchain-startup-provenance-closes-800k-seed/</guid>
       <description>The London-based startup uses blockchain technology to track food and beverages every step of the way from source to consumer, and has &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Internet of Sheep: Why world&#39;s biggest NB-IoT pilot is roping in woolly</title>
-      <link>//crypt0.net/post/internet-of-sheep-why-worlds-biggest-nbiot-pilot-is-roping-in-woolly/</link>
-      <pubDate>Tue, 11 Jul 2017 11:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/internet-of-sheep-why-worlds-biggest-nbiot-pilot-is-roping-in-woolly/</guid>
-      <description>ZDNet Source: Telia/Nortrace/YouTube. Using the relatively new mobile Internet of Things technology called Narrowband IoT, or NB-IoT, Norwegian mobile &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Businesses confident about keeping hackers at bay, unsure of data safety</title>
-      <link>//crypt0.net/post/businesses-confident-about-keeping-hackers-at-bay-unsure-of-data-safety/</link>
-      <pubDate>Tue, 11 Jul 2017 10:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/businesses-confident-about-keeping-hackers-at-bay-unsure-of-data-safety/</guid>
-      <description>Despite the increasing number of data breaches and nearly 36.6 million data records being lost or stolen in India in 2016, the vast majority of IT &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>July 10, 2017:Blockchain: the music industry&#39;s saviour or a false prophet?</title>
-      <link>//crypt0.net/post/july-10-2017blockchain-the-music-industrys-saviour-or-a-false-prophet/</link>
-      <pubDate>Tue, 11 Jul 2017 10:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/july-10-2017blockchain-the-music-industrys-saviour-or-a-false-prophet/</guid>
-      <description>It is true that blockchain appears to have the potential for very wide application. The Ethereum platform, which permits smart contracts, is noteworthy &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>UnifyCloud shared an Enterprise Azure Migration success stories at</title>
-      <link>//crypt0.net/post/unifycloud-shared-an-enterprise-azure-migration-success-stories-at/</link>
-      <pubDate>Tue, 11 Jul 2017 10:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/unifycloud-shared-an-enterprise-azure-migration-success-stories-at/</guid>
-      <description>Wanted to thank Scott Woodgate and Melanie Maynes of Microsoft for the opportunity to share an Enterprise Azure Migration customer case study at &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
