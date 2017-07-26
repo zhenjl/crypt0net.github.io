@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 26 Jul 2017 02:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 02:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1706301 nova-spicehtml5proxy.service is missing exec reloa...</title>
+      <link>//crypt0.net/post/bug-1706301-novaspicehtml5proxyservice-is-missing-exec-reloa/</link>
+      <pubDate>Wed, 26 Jul 2017 02:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1706301-novaspicehtml5proxyservice-is-missing-exec-reloa/</guid>
+      <description>+ExecReload=/bin/kill -HUP $MAINPID is missing for spicehtml5proxy &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Echo360 Achieves AWS Competency for Technical Proficiency and Demonstrated</title>
