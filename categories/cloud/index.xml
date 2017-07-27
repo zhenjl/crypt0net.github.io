@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Jul 2017 03:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 03:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3.1.3-75:Potential bug in restore_cassandra_db</title>
+      <link>//crypt0.net/post/31375potential-bug-in-restorecassandradb/</link>
+      <pubDate>Thu, 27 Jul 2017 03:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/31375potential-bug-in-restorecassandradb/</guid>
+      <description>stop_collectorafterfab stop_database`, at times, the task doesn&amp;rsquo;t end &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon discloses $600-mn India investments since January</title>
@@ -8709,16 +8719,6 @@ Microsoft 365 Brings Together Office and Windows for Business Users Another new 
       
       <guid>//crypt0.net/post/infosys-arm-to-offer-finacle-suite-of-solutions-on-amazon-web-services/</guid>
       <description>Infosys&amp;rsquo; wholly-owned subsidiary, EdgeVerve Systems announced the availability of its Finacle Suite of solutions on Amazon Web Services (AWS). more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>FlytBase Releases the World&#39;s First Internet of Drones Platform</title>
-      <link>//crypt0.net/post/flytbase-releases-the-worlds-first-internet-of-drones-platform/</link>
-      <pubDate>Wed, 12 Jul 2017 03:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/flytbase-releases-the-worlds-first-internet-of-drones-platform/</guid>
-      <description>Several IaaS/PaaS platforms, such as AWS, Azure, Google Cloud offer ready tools for IoT (Internet of Things), FlytBase CEO Nitin Gupta tells &amp;hellip; more.
 @crypt0net</description>
     </item>
     
