@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Jul 2017 12:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 12:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How can I integrate Squarespace with Amazon Web Services (AWS)?</title>
+      <link>//crypt0.net/post/how-can-i-integrate-squarespace-with-amazon-web-services-aws/</link>
+      <pubDate>Thu, 27 Jul 2017 12:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-can-i-integrate-squarespace-with-amazon-web-services-aws/</guid>
+      <description>want to use Squarespace for the frontend and Amazon Web Services for the &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Global Cloud Computing Market 2017- Microsoft Azure, Amazon Web Services,</title>
@@ -8659,46 +8669,6 @@ Microsoft 365 Brings Together Office and Windows for Business Users Another new 
       
       <guid>//crypt0.net/post/zayo-group-zayo-says-it-was-selected-by-global-healthcare-company-for/</guid>
       <description>StreetInsider.com &amp;hellip; E-Line and CloudLink, dedicated connectivity to more than 50 cloud providers, including AWS, Microsoft Azure and Google Cloud Interconnect. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How to get started with Kubernetes</title>
-      <link>//crypt0.net/post/how-to-get-started-with-kubernetes/</link>
-      <pubDate>Wed, 12 Jul 2017 12:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-get-started-with-kubernetes/</guid>
-      <description>Microsoft Azure has support for Kubernetes by way of the Azure Container Service. However, it&amp;rsquo;s not quite native support in the sense of Kubernetes &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Samsung Alliance Partners Chart New Roadmap for Mobile-First Business</title>
-      <link>//crypt0.net/post/samsung-alliance-partners-chart-new-roadmap-for-mobilefirst-business/</link>
-      <pubDate>Wed, 12 Jul 2017 12:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/samsung-alliance-partners-chart-new-roadmap-for-mobilefirst-business/</guid>
-      <description>AviationPros.com The solution uses secure Samsung sensors to send data to a Microsoft Azure IoT Hub, and data is assimilated by HARMAN&amp;rsquo;s predictive analytics &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Scailty Releases Zenko A Multi-Cloud Controller</title>
-      <link>//crypt0.net/post/scailty-releases-zenko-a-multicloud-controller/</link>
-      <pubDate>Wed, 12 Jul 2017 12:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/scailty-releases-zenko-a-multicloud-controller/</guid>
-      <description>&amp;hellip; data storage both on-premises and in the Amazon S3 public cloud as well as other services, including: Microsoft Azure and Google Cloud Platform. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Scaling one of the world&#39;s largest OpenStack Public Clouds</title>
-      <link>//crypt0.net/post/scaling-one-of-the-worlds-largest-openstack-public-clouds/</link>
-      <pubDate>Wed, 12 Jul 2017 12:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/scaling-one-of-the-worlds-largest-openstack-public-clouds/</guid>
-      <description>private clouds. However, as businesses embark on their digitalization &amp;hellip; more.
 @crypt0net</description>
     </item>
     
