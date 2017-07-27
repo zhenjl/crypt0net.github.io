@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Jul 2017 09:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 10:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Cloud Platform Gets Speed Boost</title>
+      <link>//crypt0.net/post/google-cloud-platform-gets-speed-boost/</link>
+      <pubDate>Thu, 27 Jul 2017 10:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-platform-gets-speed-boost/</guid>
+      <description>we all waited for dial up? It was part of using the internet our &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Bigleaf Focuses on Channel Resellers to Tackle SD-WAN</title>
@@ -3035,16 +3045,6 @@ How Azure Stack Can Add to the Allure of Microsoft&amp;rsquo;s Azure Earlier in 
       
       <guid>//crypt0.net/post/rubrik-nows-runs-natively-in-both-aws-and-azure/</guid>
       <description>Fueling this even more, they&amp;rsquo;ve recently expanded their software to support native cloud applications in Amazon Web Services and Microsoft Azure. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud Platform Gets Speed Boost</title>
-      <link>//crypt0.net/post/google-cloud-platform-gets-speed-boost/</link>
-      <pubDate>Fri, 21 Jul 2017 20:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-platform-gets-speed-boost/</guid>
-      <description>but for some vendors getting your data off of the cloud is an arduous and &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -8739,16 +8739,6 @@ Microsoft 365 Brings Together Office and Windows for Business Users Another new 
       
       <guid>//crypt0.net/post/scality-targets-multicloud-data-storage/</guid>
       <description>In one example, Scality said any Amazon S3-compliant application could be stored on Microsoft Azure without modification. The accompanying data &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Unisys &amp; IBM mainframes to Microsoft Azure Reference Architecture</title>
-      <link>//crypt0.net/post/unisys--ibm-mainframes-to-microsoft-azure-reference-architecture/</link>
-      <pubDate>Wed, 12 Jul 2017 09:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/unisys--ibm-mainframes-to-microsoft-azure-reference-architecture/</guid>
-      <description>Azure has the security, performance and reliability required; Astadia has the &amp;hellip; more.
 @crypt0net</description>
     </item>
     
