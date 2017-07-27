@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Jul 2017 18:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 18:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mirantis Doubles Down on NFV; Optimizing Mirantis Cloud Platform for Telcos</title>
+      <link>//crypt0.net/post/mirantis-doubles-down-on-nfv-optimizing-mirantis-cloud-platform-for-telcos/</link>
+      <pubDate>Thu, 27 Jul 2017 18:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mirantis-doubles-down-on-nfv-optimizing-mirantis-cloud-platform-for-telcos/</guid>
+      <description>Announced in April, Mirantis Cloud Platform includes leading open source software such as OpenStack and Kubernetes, continuously delivered via &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Why Kubernetes, OpenStack and OPNFV Are a Match Made in Heaven</title>
+      <link>//crypt0.net/post/why-kubernetes-openstack-and-opnfv-are-a-match-made-in-heaven/</link>
+      <pubDate>Thu, 27 Jul 2017 18:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-kubernetes-openstack-and-opnfv-are-a-match-made-in-heaven/</guid>
+      <description>Chris Price, open source strategist for SDN, cloud and NFV at Ericsson, says there&amp;rsquo;s plenty of love in the air between Kubernetes, OpenStack and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Azure App Service Premium V2 in Public Preview</title>
@@ -690,16 +710,6 @@ Autotask CEO Mark Cattini: 3 Trends Dominate MSP Market Evolution, Growth But mo
       
       <guid>//crypt0.net/post/microsoft-introduces-rapid-cloud-container-deployment-service/</guid>
       <description>The company&amp;rsquo;s new Azure Container Instances service allows customers to quickly deploy containers with a minimum of infrastructure management. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Why Kubernetes, OpenStack and OPNFV are a match made in heaven</title>
-      <link>//crypt0.net/post/why-kubernetes-openstack-and-opnfv-are-a-match-made-in-heaven/</link>
-      <pubDate>Wed, 26 Jul 2017 20:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-kubernetes-openstack-and-opnfv-are-a-match-made-in-heaven/</guid>
-      <description>says there&amp;rsquo;s plenty of love in the air between Kubernetes, OpenStack and &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -8608,26 +8618,6 @@ Dynamics 365 Enterprise ERP go-lives on Azure are accelerating, says MSDynamicsW
       
       <guid>//crypt0.net/post/dynamics-365-enterprise-erp-golives-on-azure-are-accelerating-says/</guid>
       <description>MSDynamicsWorld.com The pace at which customers of Microsoft&amp;rsquo;s enterprise cloud ERP offering, Dynamics 365 for Finance and Operations, Enterprise edition (D365FOE) go &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How does VMware VIO add cloud functionality to vSphere?</title>
-      <link>//crypt0.net/post/how-does-vmware-vio-add-cloud-functionality-to-vsphere/</link>
-      <pubDate>Wed, 12 Jul 2017 18:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-does-vmware-vio-add-cloud-functionality-to-vsphere/</guid>
-      <description>OpenStack makes workloads available, but most distributions are difficult to deploy. How does VIO compare to other distributions, and how does it &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Lock your doors, people: Verizon breach on unsecured AWS server exposes 14M</title>
-      <link>//crypt0.net/post/lock-your-doors-people-verizon-breach-on-unsecured-aws-server-exposes-14m/</link>
-      <pubDate>Wed, 12 Jul 2017 18:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/lock-your-doors-people-verizon-breach-on-unsecured-aws-server-exposes-14m/</guid>
-      <description>GeekWire &amp;hellip; including phone numbers and PINs that would grant account access, after leaving the data unprotected on one of Amazon Web Services&amp;rsquo; servers, &amp;hellip; more.
 @crypt0net</description>
     </item>
     
