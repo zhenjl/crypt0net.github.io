@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Jul 2017 19:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 19:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Real Cost of Data Breaches</title>
+      <link>//crypt0.net/post/the-real-cost-of-data-breaches/</link>
+      <pubDate>Thu, 27 Jul 2017 19:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-real-cost-of-data-breaches/</guid>
+      <description>impact the cost of data breaches and how organizations can cut the resulting &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>types/paho-mqtt has no exported members</title>
@@ -21629,36 +21639,6 @@
       
       <guid>//crypt0.net/post/viptela-vedge-router-tailored-for-amazon-web-services-microsoft-azure/</guid>
       <description>Viptela introduces Cloud onRamp for AWS and Microsoft Azure. The new product tailors the Viptela vEdge router for the infrastructure-as-a-service &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>10ZiG Technology and Parallels Expand Partnership, Develop Remote</title>
-      <link>//crypt0.net/post/10zig-technology-and-parallels-expand-partnership-develop-remote/</link>
-      <pubDate>Wed, 12 Jul 2017 19:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/10zig-technology-and-parallels-expand-partnership-develop-remote/</guid>
-      <description>Benzinga Parallels RAS is cloud-ready and supports deployment through Amazon WebServices and Microsoft Azure. RAS seamlessly delivers remote &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Banks Need &#39;Hybrid Approach to Blockchain Technology&#39;: Ripple&#39;s Marcus</title>
-      <link>//crypt0.net/post/banks-need-hybrid-approach-to-blockchain-technology-ripples-marcus/</link>
-      <pubDate>Wed, 12 Jul 2017 19:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/banks-need-hybrid-approach-to-blockchain-technology-ripples-marcus/</guid>
-      <description>CoinTelegraph Blockchain has been touted as the be all and end all solution for most if not all of the world&amp;rsquo;s problems. We have seen the application of Blockchain for &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Dynamics 365 Enterprise ERP go-lives on Azure are accelerating, says</title>
-      <link>//crypt0.net/post/dynamics-365-enterprise-erp-golives-on-azure-are-accelerating-says/</link>
-      <pubDate>Wed, 12 Jul 2017 19:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/dynamics-365-enterprise-erp-golives-on-azure-are-accelerating-says/</guid>
-      <description>MSDynamicsWorld.com The pace at which customers of Microsoft&amp;rsquo;s enterprise cloud ERP offering, Dynamics 365 for Finance and Operations, Enterprise edition (D365FOE) go &amp;hellip; more.
 @crypt0net</description>
     </item>
     
