@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Jul 2017 00:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 00:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Imperva Researchers Go Undercover to Study Tactics of Phishing Hackers</title>
+      <link>//crypt0.net/post/imperva-researchers-go-undercover-to-study-tactics-of-phishing-hackers/</link>
+      <pubDate>Thu, 27 Jul 2017 00:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/imperva-researchers-go-undercover-to-study-tactics-of-phishing-hackers/</guid>
+      <description>This lesson proves the value of incorporating threat-intelligence and breach detection solutions that quickly detect and help mitigate this risk.. more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>COA openstack endpoint create by Sireesh K</title>
@@ -21640,26 +21650,6 @@
       <guid>//crypt0.net/post/intel-rolls-out-new-chips-in-battle-for-data-center-business/</guid>
       <description>Google Cloud Platform was the first data center to adopt the new Intel processors. Paul Nash, project manager for Google Compute Engine, called the &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>FDD and CPRI Research Blockchain For Supply Chain Protection</title>
-      <link>//crypt0.net/post/fdd-and-cpri-research-blockchain-for-supply-chain-protection/</link>
-      <pubDate>Wed, 12 Jul 2017 00:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/fdd-and-cpri-research-blockchain-for-supply-chain-protection/</guid>
-      <description>The Foundation for Defense of Democracies and The Cybersecurity Policy and Research Institute investigate blockchain solutions to supply chain &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>The Internet Of Things Showdown: Cisco Vs. Sierra Wireless</title>
-      <link>//crypt0.net/post/the-internet-of-things-showdown-cisco-vs-sierra-wireless/</link>
-      <pubDate>Wed, 12 Jul 2017 00:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-internet-of-things-showdown-cisco-vs-sierra-wireless/</guid>
-      <description>This is called the internet of things and we are only on the tip of the iceberg. Every year it seems as though there is some new way to automate our &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
