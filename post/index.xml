@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jul 2017 10:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 10:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Is Creating a Free, Online Raspberry Pi Simulator</title>
+      <link>//crypt0.net/post/microsoft-is-creating-a-free-online-raspberry-pi-simulator/</link>
+      <pubDate>Fri, 28 Jul 2017 10:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-is-creating-a-free-online-raspberry-pi-simulator/</guid>
+      <description>Microsoft has released a free online tool for prototyping Raspberry Pi projects &amp;hellip; Using Microsoft&amp;rsquo;s Azure cloud computing platform the simulator allows &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Leading Silicon Valley VCs Sequoia Capital and Andreessen Horowitz Invest</title>
@@ -21570,16 +21580,6 @@
       <guid>//crypt0.net/post/these-stretchy-durable-sensors-could-be-woven-right-into-clothing/</guid>
       <description>If we must have an Internet of Things, it makes no sense to leave clothes out of the party. But clothes must be worn, washed, bunched up and folded &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Backup and Sync from Google: Fight Ransomware Risk with Cloud Computing</title>
-      <link>//crypt0.net/post/backup-and-sync-from-google-fight-ransomware-risk-with-cloud-computing/</link>
-      <pubDate>Thu, 13 Jul 2017 10:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/backup-and-sync-from-google-fight-ransomware-risk-with-cloud-computing/</guid>
-      <description>&amp;hellip; or PC for backups, but you can basically sign into your Google account and specify which folders need to be backed up regularly to Google Cloud. more.
-@crypt0net</description>
     </item>
     
   </channel>
