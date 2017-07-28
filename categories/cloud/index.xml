@@ -7,10 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jul 2017 20:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 20:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure Container Instances Take VMs Out of the Mix</title>
+      <link>//crypt0.net/post/azure-container-instances-take-vms-out-of-the-mix/</link>
+      <pubDate>Fri, 28 Jul 2017 20:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-container-instances-take-vms-out-of-the-mix/</guid>
+      <description>Microsoft&amp;rsquo;s new Azure Container Instances (ACI) introduces a way to spin up workloads with the precise amount of CPU cores and memory needed on &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Behind the Scenes: How Avatarion helps sick children stay connected with</title>
+      <link>//crypt0.net/post/behind-the-scenes-how-avatarion-helps-sick-children-stay-connected-with/</link>
+      <pubDate>Fri, 28 Jul 2017 20:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/behind-the-scenes-how-avatarion-helps-sick-children-stay-connected-with/</guid>
+      <description>Microsoft - Channel 9 (blog) &amp;hellip; discuss how this amazing solution is powered with the help of Azure IoT Hub, Azure Stream Analytics, Azure SQL Database and Microsoft Power BI. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Evocative Partners With Zayo To Deliver A Secure, Private Connection To The</title>
+      <link>//crypt0.net/post/evocative-partners-with-zayo-to-deliver-a-secure-private-connection-to-the/</link>
+      <pubDate>Fri, 28 Jul 2017 20:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/evocative-partners-with-zayo-to-deliver-a-secure-private-connection-to-the/</guid>
+      <description>HostReview.com (press release) &amp;hellip; connecting them to the world&amp;rsquo;s leading cloud providers including Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft opens fuzz testing service to the wider public</title>
+      <link>//crypt0.net/post/microsoft-opens-fuzz-testing-service-to-the-wider-public/</link>
+      <pubDate>Fri, 28 Jul 2017 20:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-opens-fuzz-testing-service-to-the-wider-public/</guid>
+      <description>Built on Azure and powered by artificial intellingence, Microsoft Security Risk Detection aims to uncover bugs and vulnerabilities in software before it is &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Rackspace completes acquisition of ERP company TriCore Solutions</title>
+      <link>//crypt0.net/post/rackspace-completes-acquisition-of-erp-company-tricore-solutions/</link>
+      <pubDate>Fri, 28 Jul 2017 20:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/rackspace-completes-acquisition-of-erp-company-tricore-solutions/</guid>
+      <description>&amp;hellip; cloud provider such as Amazon Web Services or Microsoft Azure. &amp;hellip; for technologies including AWS, Google, Microsoft, OpenStack and VMware. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Why Wall Street Is Sticking With Amazon Despite Its Big Miss This Week</title>
@@ -911,16 +961,6 @@ Autotask CEO Mark Cattini: 3 Trends Dominate MSP Market Evolution, Growth But mo
       
       <guid>//crypt0.net/post/7-cloud-security-best-practices-for-amazon-web-services/</guid>
       <description>offering compute power, database storage, content delivery and other &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Evocative Partners with Zayo to Deliver a Secure, Private Connection to the</title>
-      <link>//crypt0.net/post/evocative-partners-with-zayo-to-deliver-a-secure-private-connection-to-the/</link>
-      <pubDate>Thu, 27 Jul 2017 15:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/evocative-partners-with-zayo-to-deliver-a-secure-private-connection-to-the/</guid>
-      <description>PR Web (press release) &amp;hellip; connecting them to the world&amp;rsquo;s leading cloud providers including Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform. more.
 @crypt0net</description>
     </item>
     
@@ -8558,26 +8598,6 @@ Preview of Centralized Reporting for Azure Backup Microsoft has started to addre
       
       <guid>//crypt0.net/post/the-secrets-behind-the-impressive-resilience-of-alphabets-shares/</guid>
       <description>He pointed to the company&amp;rsquo;s efforts to dominate the automated-car market with Waymo, as well as to the potential value of YouTube, Google Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cisco Just Bought This Networking Security Startup</title>
-      <link>//crypt0.net/post/cisco-just-bought-this-networking-security-startup/</link>
-      <pubDate>Thu, 13 Jul 2017 20:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cisco-just-bought-this-networking-security-startup/</guid>
-      <description>But while Amazon Web Services and Microsoft Azure pose challenges for Cisco, the networking giant is also finding ways to ensure its technology &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Robin Systems Unveils New Community and Developer Editions of the Robin</title>
-      <link>//crypt0.net/post/robin-systems-unveils-new-community-and-developer-editions-of-the-robin/</link>
-      <pubDate>Thu, 13 Jul 2017 20:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/robin-systems-unveils-new-community-and-developer-editions-of-the-robin/</guid>
-      <description>GlobeNewswire (press release) &amp;hellip; innovative Robin Cloud Platform, today announced the availability of its new Community and Developer Editions on Amazon Web Services (AWS). more.
 @crypt0net</description>
     </item>
     

@@ -7,10 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jul 2017 20:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 20:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure Container Instances Take VMs Out of the Mix</title>
+      <link>//crypt0.net/post/azure-container-instances-take-vms-out-of-the-mix/</link>
+      <pubDate>Fri, 28 Jul 2017 20:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-container-instances-take-vms-out-of-the-mix/</guid>
+      <description>Microsoft&amp;rsquo;s new Azure Container Instances (ACI) introduces a way to spin up workloads with the precise amount of CPU cores and memory needed on &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Behind the Scenes: How Avatarion helps sick children stay connected with</title>
+      <link>//crypt0.net/post/behind-the-scenes-how-avatarion-helps-sick-children-stay-connected-with/</link>
+      <pubDate>Fri, 28 Jul 2017 20:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/behind-the-scenes-how-avatarion-helps-sick-children-stay-connected-with/</guid>
+      <description>Microsoft - Channel 9 (blog) &amp;hellip; discuss how this amazing solution is powered with the help of Azure IoT Hub, Azure Stream Analytics, Azure SQL Database and Microsoft Power BI. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Evocative Partners With Zayo To Deliver A Secure, Private Connection To The</title>
+      <link>//crypt0.net/post/evocative-partners-with-zayo-to-deliver-a-secure-private-connection-to-the/</link>
+      <pubDate>Fri, 28 Jul 2017 20:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/evocative-partners-with-zayo-to-deliver-a-secure-private-connection-to-the/</guid>
+      <description>HostReview.com (press release) &amp;hellip; connecting them to the world&amp;rsquo;s leading cloud providers including Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft opens fuzz testing service to the wider public</title>
+      <link>//crypt0.net/post/microsoft-opens-fuzz-testing-service-to-the-wider-public/</link>
+      <pubDate>Fri, 28 Jul 2017 20:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-opens-fuzz-testing-service-to-the-wider-public/</guid>
+      <description>Built on Azure and powered by artificial intellingence, Microsoft Security Risk Detection aims to uncover bugs and vulnerabilities in software before it is &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Rackspace completes acquisition of ERP company TriCore Solutions</title>
+      <link>//crypt0.net/post/rackspace-completes-acquisition-of-erp-company-tricore-solutions/</link>
+      <pubDate>Fri, 28 Jul 2017 20:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/rackspace-completes-acquisition-of-erp-company-tricore-solutions/</guid>
+      <description>&amp;hellip; cloud provider such as Amazon Web Services or Microsoft Azure. &amp;hellip; for technologies including AWS, Google, Microsoft, OpenStack and VMware. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Five steps to avoiding IoT project failures</title>
@@ -2289,16 +2339,6 @@
       
       <guid>//crypt0.net/post/7-cloud-security-best-practices-for-amazon-web-services/</guid>
       <description>offering compute power, database storage, content delivery and other &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Evocative Partners with Zayo to Deliver a Secure, Private Connection to the</title>
-      <link>//crypt0.net/post/evocative-partners-with-zayo-to-deliver-a-secure-private-connection-to-the/</link>
-      <pubDate>Thu, 27 Jul 2017 15:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/evocative-partners-with-zayo-to-deliver-a-secure-private-connection-to-the/</guid>
-      <description>PR Web (press release) &amp;hellip; connecting them to the world&amp;rsquo;s leading cloud providers including Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform. more.
 @crypt0net</description>
     </item>
     
@@ -21380,56 +21420,6 @@
       <guid>//crypt0.net/post/millions-of-verizon-customers-data--including-phone-numbers-and-pins/</guid>
       <description>Chicago Tribune O&amp;rsquo;Sullivan said the exposure underscores the rapidly increasing risks of data breaches. This is a really remarkable incidence of third-party vendor risk &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Cisco Just Bought This Networking Security Startup</title>
-      <link>//crypt0.net/post/cisco-just-bought-this-networking-security-startup/</link>
-      <pubDate>Thu, 13 Jul 2017 20:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cisco-just-bought-this-networking-security-startup/</guid>
-      <description>But while Amazon Web Services and Microsoft Azure pose challenges for Cisco, the networking giant is also finding ways to ensure its technology &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Robin Systems Unveils New Community and Developer Editions of the Robin</title>
-      <link>//crypt0.net/post/robin-systems-unveils-new-community-and-developer-editions-of-the-robin/</link>
-      <pubDate>Thu, 13 Jul 2017 20:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/robin-systems-unveils-new-community-and-developer-editions-of-the-robin/</guid>
-      <description>GlobeNewswire (press release) &amp;hellip; innovative Robin Cloud Platform, today announced the availability of its new Community and Developer Editions on Amazon Web Services (AWS). more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Connectivity is the Key and IoT is the Link</title>
-      <link>//crypt0.net/post/connectivity-is-the-key-and-iot-is-the-link/</link>
-      <pubDate>Thu, 13 Jul 2017 20:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/connectivity-is-the-key-and-iot-is-the-link/</guid>
-      <description>MQTT is a protocol for how devices communicate with each other in a more connected environment specifically for the Internet of Things. We are &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Diving Into Blockchain - Get Fundamentals Right</title>
-      <link>//crypt0.net/post/diving-into-blockchain--get-fundamentals-right/</link>
-      <pubDate>Thu, 13 Jul 2017 20:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/diving-into-blockchain--get-fundamentals-right/</guid>
-      <description>Transformational technologies have redistributed wealth time and again. If history doesn&amp;rsquo;t repeat itself, it surely rhyme with blockchain technology. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>With new TV and AV controls, Alexa inches closer to ruling the Internet of</title>
-      <link>//crypt0.net/post/with-new-tv-and-av-controls-alexa-inches-closer-to-ruling-the-internet-of/</link>
-      <pubDate>Thu, 13 Jul 2017 20:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/with-new-tv-and-av-controls-alexa-inches-closer-to-ruling-the-internet-of/</guid>
-      <description>SlashGear Alexa&amp;rsquo;s abilities when it comes to controlling the devices in your living room just keep on expanding. A few weeks ago, Amazon expanded access to &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
