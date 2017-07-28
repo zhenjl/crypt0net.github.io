@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jul 2017 09:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 09:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Whoops! Amazon&#39;s Big Earnings Miss</title>
+      <link>//crypt0.net/post/whoops-amazons-big-earnings-miss/</link>
+      <pubDate>Fri, 28 Jul 2017 09:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/whoops-amazons-big-earnings-miss/</guid>
+      <description>Speaking of great progress AWS (Amazon Web Services) and subscription services held sway. Subscription sales (which include Prime fees) rose &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>GigaSpaces spins off cloud orchestration unit Cloudify</title>
@@ -21589,16 +21599,6 @@
       
       <guid>//crypt0.net/post/atos-teams-with-dell-emc-and-microsoft-to-launch-atos-canopy-orchestrated/</guid>
       <description>GlobeNewswire (press release) ATOS teams with DELL EMC and Microsoft to launch Atos Canopy &amp;hellip; by the DELL EMC Cloud for Microsoft Azure Stack hybrid cloud platform. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>&#39;openstack overcloud update&#39; loops on &#39;IN_PROGRESS&#39; and times out after 4</title>
-      <link>//crypt0.net/post/openstack-overcloud-update-loops-on-inprogress-and-times-out-after-4/</link>
-      <pubDate>Thu, 13 Jul 2017 09:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-overcloud-update-loops-on-inprogress-and-times-out-after-4/</guid>
-      <description>When running openstack overcloud update stack -i  to initiate an overcloud minor update, tripleoclient becomes stuck. Subsequently, the &amp;hellip; more.
 @crypt0net</description>
     </item>
     
