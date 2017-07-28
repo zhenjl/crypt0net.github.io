@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jul 2017 07:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 08:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bring enterprise networks out of the dark ages!</title>
+      <link>//crypt0.net/post/bring-enterprise-networks-out-of-the-dark-ages/</link>
+      <pubDate>Fri, 28 Jul 2017 08:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bring-enterprise-networks-out-of-the-dark-ages/</guid>
+      <description>Connecting New York, London, Tokyo and Sydney, takes just minutes. Connecting your private network to AWS, or Microsoft Azure, takes just minutes. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How to use Google Cloud Vision</title>
@@ -8618,16 +8628,6 @@ Dynamics 365 Enterprise ERP go-lives on Azure are accelerating, says MSDynamicsW
       
       <guid>//crypt0.net/post/googles-backup-and-sync-tool-for-windows-and-mac-launches-following-delays/</guid>
       <description>&amp;hellip; it says on the tin, and ensures that any files or photos stored on a Windows or Mac device can be automatically stored to Google&amp;rsquo;s cloud services. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Domain name got null in users table.</title>
-      <link>//crypt0.net/post/domain-name-got-null-in-users-table/</link>
-      <pubDate>Thu, 13 Jul 2017 08:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/domain-name-got-null-in-users-table/</guid>
-      <description>domain &amp;ldquo;swift_test&amp;rdquo;, I can see the domain name in it&amp;rsquo;s detail page, but null in &amp;hellip; more.
 @crypt0net</description>
     </item>
     
