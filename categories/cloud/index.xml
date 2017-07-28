@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jul 2017 06:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 07:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ARBA Retail Systems Releases Web Services Application Suite</title>
+      <link>//crypt0.net/post/arba-retail-systems-releases-web-services-application-suite/</link>
+      <pubDate>Fri, 28 Jul 2017 07:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/arba-retail-systems-releases-web-services-application-suite/</guid>
+      <description>ARBA leverages Microsoft Azure Cloud Services, as do 90% of Fortune 500 organizations. Azure helps protect our assets through a rigorous &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>[container build broken] Installing openstack-tripleo-common after</title>
