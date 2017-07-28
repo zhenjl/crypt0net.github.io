@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jul 2017 04:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 05:00:06 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Researchers Reveal Secrets of SHA-1 Hash Collision</title>
+      <link>//crypt0.net/post/researchers-reveal-secrets-of-sha1-hash-collision/</link>
+      <pubDate>Fri, 28 Jul 2017 05:00:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/researchers-reveal-secrets-of-sha1-hash-collision/</guid>
+      <description>You&amp;rsquo;ve probably heard about hashes in the context of data breaches, too. When a company announces that its data has been stolen, you&amp;rsquo;ll typically &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Data protection panel proposes mandatory notice of breaches</title>
