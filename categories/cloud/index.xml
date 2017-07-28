@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jul 2017 05:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 06:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[container build broken] Installing openstack-tripleo-common after</title>
+      <link>//crypt0.net/post/container-build-broken-installing-openstacktripleocommon-after/</link>
+      <pubDate>Fri, 28 Jul 2017 06:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/container-build-broken-installing-openstacktripleocommon-after/</guid>
+      <description>Installing openstack-tripleo-common after openstack-tripleo-common-container-base is broken with: Installing &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>tripleo-puppet-elements 6.2.0</title>
@@ -8628,46 +8638,6 @@ Dynamics 365 Enterprise ERP go-lives on Azure are accelerating, says MSDynamicsW
       
       <guid>//crypt0.net/post/part-one-amazon-cashes-in-on-war-crimes-and-mass-surveillance/</guid>
       <description>&amp;hellip; which has largely been kept hidden from the public since it was finalized in October 2013, was a $600 million deal for Amazon Web Services (AWS) &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Meet Zenko: No, it&#39;s not a discount super hero. It&#39;s Scality&#39;s benevolent,</title>
-      <link>//crypt0.net/post/meet-zenko-no-its-not-a-discount-super-hero-its-scalitys-benevolent/</link>
-      <pubDate>Thu, 13 Jul 2017 06:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/meet-zenko-no-its-not-a-discount-super-hero-its-scalitys-benevolent/</guid>
-      <description>The Register There are no plans to add support for IBM&amp;rsquo;s SoftLayer or the Oracle Cloud as target backends, but the Google Cloud Platform could be added. We&amp;rsquo;re &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>PacHosting Unveils LayerStack for New Cloud Services in APAC</title>
-      <link>//crypt0.net/post/pachosting-unveils-layerstack-for-new-cloud-services-in-apac/</link>
-      <pubDate>Thu, 13 Jul 2017 06:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/pachosting-unveils-layerstack-for-new-cloud-services-in-apac/</guid>
-      <description>LayerStack cloud services run on Openstack enterprise-grade architecture to deliver guaranteed and consistent performance. Openstack is an &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Sun shines for Cloud, but GST can be pivotal for Microsoft</title>
-      <link>//crypt0.net/post/sun-shines-for-cloud-but-gst-can-be-pivotal-for-microsoft/</link>
-      <pubDate>Thu, 13 Jul 2017 06:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sun-shines-for-cloud-but-gst-can-be-pivotal-for-microsoft/</guid>
-      <description>But if I sell you Microsoft Azure, one you will need some kind of engagement from me and second for me the opportunity to get you to consume is even &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>The Doyle Report: Seven Channel Updates Including the Latest on Net</title>
-      <link>//crypt0.net/post/the-doyle-report-seven-channel-updates-including-the-latest-on-net/</link>
-      <pubDate>Thu, 13 Jul 2017 06:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-doyle-report-seven-channel-updates-including-the-latest-on-net/</guid>
-      <description>MSPmentor The exposure of an estimated 14 million Verizon customer records in an unsecured Amazon Web Services (AWS) S3 storage bucket is calling new &amp;hellip; more.
 @crypt0net</description>
     </item>
     
