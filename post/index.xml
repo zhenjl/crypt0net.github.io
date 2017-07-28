@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jul 2017 19:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 19:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>It&#39;s Time to Sell Amazon</title>
+      <link>//crypt0.net/post/its-time-to-sell-amazon/</link>
+      <pubDate>Fri, 28 Jul 2017 19:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/its-time-to-sell-amazon/</guid>
+      <description>While North American e-commerce sales accelerated 26.5%, Amazon Web Services saw its gains slow to 42%. After all, the cloud sector is beginning &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Not Even AWS Could Save Amazon.com&#39;s Bottom Line</title>
@@ -21430,26 +21440,6 @@
       <guid>//crypt0.net/post/swiss-bank-launches-bitcoin-asset-management-service/</guid>
       <description>&amp;ldquo;We are proud to be the first-mover in the Swiss private banking area to provide blockchain asset management for our clients. Falcon is convinced that &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>BMW 5 Series Cars to Get Skype</title>
-      <link>//crypt0.net/post/bmw-5-series-cars-to-get-skype/</link>
-      <pubDate>Thu, 13 Jul 2017 19:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bmw-5-series-cars-to-get-skype/</guid>
-      <description>&amp;hellip; the car maker and Microsoft, which partnered up last year to get BMW Connected, BMW&amp;rsquo;s in-car software platform, running on Microsoft Azure cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Preview of Centralized Reporting for Azure Backup</title>
-      <link>//crypt0.net/post/preview-of-centralized-reporting-for-azure-backup/</link>
-      <pubDate>Thu, 13 Jul 2017 19:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/preview-of-centralized-reporting-for-azure-backup/</guid>
-      <description>Microsoft has started to address one of the big feature requests for Azure Backup: centralized reporting. A preview has been launched to allow you to &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
