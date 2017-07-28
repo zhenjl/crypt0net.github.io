@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jul 2017 05:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 05:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tripleo-puppet-elements 6.2.0</title>
+      <link>//crypt0.net/post/tripleopuppetelements-620/</link>
+      <pubDate>Fri, 28 Jul 2017 05:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/tripleopuppetelements-620/</guid>
+      <description>.org/badges/tripleo-puppet-elements.svg)](http://governance.openstack.org/r eference/tags/index.html) more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amping up your disaster recovery with Azure Site Recovery</title>
@@ -21640,36 +21650,6 @@
       <guid>//crypt0.net/post/huawei-begins-5g-talks-with-indian-telcos-says-standard-trials-likely-next/</guid>
       <description>ETTelecom.com Fifth-generation (5G) technology is expected to be used for a host of services, such as machine-to-machine communication, Internet of Things and &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>The Costs of Three Major Email Security Breaches</title>
-      <link>//crypt0.net/post/the-costs-of-three-major-email-security-breaches/</link>
-      <pubDate>Thu, 13 Jul 2017 05:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-costs-of-three-major-email-security-breaches/</guid>
-      <description>according to Avatier&amp;rsquo;s timeline of email security breaches. And in that short &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Blockchain can lift Asian trade over gaps in trust</title>
-      <link>//crypt0.net/post/blockchain-can-lift-asian-trade-over-gaps-in-trust/</link>
-      <pubDate>Thu, 13 Jul 2017 05:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-can-lift-asian-trade-over-gaps-in-trust/</guid>
-      <description>Much discussion has centered on the use of blockchain, the technology that underlies the digital currency bitcoin, as a tool to improve transparency &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>What to do when  you receive a fishy email</title>
-      <link>//crypt0.net/post/what-to-do-when--you-receive-a-fishy-email/</link>
-      <pubDate>Thu, 13 Jul 2017 05:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-to-do-when--you-receive-a-fishy-email/</guid>
-      <description>Run accredited Total Security endpoint protection (not just anti-virus programs). Lastly, any email you are unsure about, should be looked at by your IT &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
