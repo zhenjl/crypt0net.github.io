@@ -7,18 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 29 Jul 2017 22:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jul 2017 23:00:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Hiscox CTO Emphasises DevOps Is About Survival</title>
+      <link>//crypt0.net/post/hiscox-cto-emphasises-devops-is-about-survival/</link>
+      <pubDate>Sat, 29 Jul 2017 23:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/hiscox-cto-emphasises-devops-is-about-survival/</guid>
+      <description>They made this decision based on their observation that Amazon Web Services (AWS) and Microsoft Azure were clear leaders in this space. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
       <title>Microsoft Backs Kubernetes with Cloud Native Membership</title>
       <link>//crypt0.net/post/microsoft-backs-kubernetes-with-cloud-native-membership/</link>
-      <pubDate>Sat, 29 Jul 2017 22:50:04 +0000</pubDate>
+      <pubDate>Sat, 29 Jul 2017 23:00:05 +0000</pubDate>
       
       <guid>//crypt0.net/post/microsoft-backs-kubernetes-with-cloud-native-membership/</guid>
-      <description>Kubernetes support also gives Azure (as well as Google Cloud Platform, IBM Bluemix and others) an edge over Amazon Web Services &amp;ndash; and if you&amp;rsquo;re &amp;hellip; more.
+      <description>Because OpenStack clouds are almost invariably going to be employing Kubernetes as part of their container deployment infrastructure, this makes &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -21419,16 +21429,6 @@
       <guid>//crypt0.net/post/region-in-good-position-to-exploit-internet-of-things-bmi/</guid>
       <description>&amp;hellip; not show in the data because the technologies that facilitate IoT ecosystems, like machine-to-machine connections, would seem to diminish average &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>The move to cloud: It&#39;s easier than you think</title>
-      <link>//crypt0.net/post/the-move-to-cloud-its-easier-than-you-think/</link>
-      <pubDate>Fri, 14 Jul 2017 23:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-move-to-cloud-its-easier-than-you-think/</guid>
-      <description>Amazon Web Services, Microsoft&amp;rsquo;s Azure and Google&amp;rsquo;s Cloud Platform have become the preferred public-cloud option for any agency with an eye &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
