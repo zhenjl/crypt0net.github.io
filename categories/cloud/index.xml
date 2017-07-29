@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 29 Jul 2017 21:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jul 2017 22:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Backs Kubernetes with Cloud Native Membership</title>
+      <link>//crypt0.net/post/microsoft-backs-kubernetes-with-cloud-native-membership/</link>
+      <pubDate>Sat, 29 Jul 2017 22:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-backs-kubernetes-with-cloud-native-membership/</guid>
+      <description>Kubernetes support also gives Azure (as well as Google Cloud Platform, IBM Bluemix and others) an edge over Amazon Web Services &amp;ndash; and if you&amp;rsquo;re &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Q2 net profit down 77%; remains committed to India</title>
@@ -19,16 +29,6 @@
       
       <guid>//crypt0.net/post/amazon-q2-net-profit-down-77-remains-committed-to-india/</guid>
       <description>Operating income of Amazon&amp;rsquo;s North America business fell 38 percent, while that from Amazon Web Services (AWS) rose 27 percent. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Backs Kubernetes with Cloud Native Membership</title>
-      <link>//crypt0.net/post/microsoft-backs-kubernetes-with-cloud-native-membership/</link>
-      <pubDate>Sat, 29 Jul 2017 20:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-backs-kubernetes-with-cloud-native-membership/</guid>
-      <description>Microsoft has joined yet another open source group. &amp;hellip; Like other cloud providers, Azure is seeking to lure enterprise customers to its public cloud, and &amp;hellip; more.
 @crypt0net</description>
     </item>
     
