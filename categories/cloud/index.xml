@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 29 Jul 2017 20:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jul 2017 20:30:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Backs Kubernetes with Cloud Native Membership</title>
+      <link>//crypt0.net/post/microsoft-backs-kubernetes-with-cloud-native-membership/</link>
+      <pubDate>Sat, 29 Jul 2017 20:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-backs-kubernetes-with-cloud-native-membership/</guid>
+      <description>Microsoft has joined yet another open source group. &amp;hellip; Like other cloud providers, Azure is seeking to lure enterprise customers to its public cloud, and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Nitish Kumar&#39;s about-turn, Airtel profit decline and Women&#39;s World Cup</title>
@@ -8497,16 +8507,6 @@ How to Backup Your Entire Computer to Google&amp;rsquo;s Cloud There&amp;rsquo;s
       
       <guid>//crypt0.net/post/the-move-to-cloud-its-easier-than-you-think/</guid>
       <description>Amazon Web Services, Microsoft&amp;rsquo;s Azure and Google&amp;rsquo;s Cloud Platform have become the preferred public-cloud option for any agency with an eye &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How to Backup Your Entire Computer to Google&#39;s Cloud</title>
-      <link>//crypt0.net/post/how-to-backup-your-entire-computer-to-googles-cloud/</link>
-      <pubDate>Fri, 14 Jul 2017 20:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-backup-your-entire-computer-to-googles-cloud/</guid>
-      <description>There&amp;rsquo;s now a simpler way for businesses to back up data on Google Drive. Google has recently launched Backup and Sync, a new tool that lets users &amp;hellip; more.
 @crypt0net</description>
     </item>
     
