@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 29 Jul 2017 02:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jul 2017 03:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Identity, Sovrin, and the Internet of Things</title>
+      <link>//crypt0.net/post/identity-sovrin-and-the-internet-of-things/</link>
+      <pubDate>Sat, 29 Jul 2017 03:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/identity-sovrin-and-the-internet-of-things/</guid>
+      <description>non-hierarchical models for managing trust. Sovrin provides a Web of Trust model for &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Samsung Steals Intel&#39;s Spot As World&#39;s Biggest Chipmaker</title>
+      <link>//crypt0.net/post/samsung-steals-intels-spot-as-worlds-biggest-chipmaker/</link>
+      <pubDate>Sat, 29 Jul 2017 03:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/samsung-steals-intels-spot-as-worlds-biggest-chipmaker/</guid>
+      <description>These chips are going into everything from phones, PCs and data centers to Internet of Things devices. Meanwhile, Intel reported revenue for the most &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>State of Cybercrime 2017: Security events decline, but not the impact</title>
+      <link>//crypt0.net/post/state-of-cybercrime-2017-security-events-decline-but-not-the-impact/</link>
+      <pubDate>Sat, 29 Jul 2017 03:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/state-of-cybercrime-2017-security-events-decline-but-not-the-impact/</guid>
+      <description>&amp;hellip; flow of important security software patches and updates, and the continued adoption of new technologies like the internet of things (IoT) creates new &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Dominating e-commerce comes at a price for Amazon</title>
@@ -360,16 +390,6 @@
       <guid>//crypt0.net/post/not-even-aws-could-save-amazoncoms-bottom-line/</guid>
       <description>The company&amp;rsquo;s cloud infrastructure business, Amazon Web Services (AWS), also fell short of expectations. AWS brought in $4.1 billion in revenue, &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Identity, Sovrin, and the Internet of Things</title>
-      <link>//crypt0.net/post/identity-sovrin-and-the-internet-of-things/</link>
-      <pubDate>Fri, 28 Jul 2017 21:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/identity-sovrin-and-the-internet-of-things/</guid>
-      <description>non-hierarchical models for managing trust. Sovrin provides a Web of Trust model for &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>
@@ -21300,46 +21320,6 @@
       <guid>//crypt0.net/post/microsoft-adds-nested-virtualization-to-azure/</guid>
       <description>Microsoft reckons cloudy nested virtualization is handy for those who want to simulate on on-prem Hyper-V setup inside Azure, or fans of running &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How did the data of 14m Verizon customers end up online?</title>
-      <link>//crypt0.net/post/how-did-the-data-of-14m-verizon-customers-end-up-online/</link>
-      <pubDate>Fri, 14 Jul 2017 02:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-did-the-data-of-14m-verizon-customers-end-up-online/</guid>
-      <description>It appears securing data in the cloud, specifically Amazon Web Services&amp;rsquo; (AWS) cloud, is difficult for some companies given the frequency in which &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Blockchain becoming an integral part of some defence technology</title>
-      <link>//crypt0.net/post/blockchain-becoming-an-integral-part-of-some-defence-technology/</link>
-      <pubDate>Fri, 14 Jul 2017 02:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-becoming-an-integral-part-of-some-defence-technology/</guid>
-      <description>In April the huge defence prime contractor Lockheed Martin announced it was integrating blockchain features into its data systems to address threats &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Siemens to open IoT lab in Singapore</title>
-      <link>//crypt0.net/post/siemens-to-open-iot-lab-in-singapore/</link>
-      <pubDate>Fri, 14 Jul 2017 02:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/siemens-to-open-iot-lab-in-singapore/</guid>
-      <description>SINGAPORE &amp;ndash; Germany&amp;rsquo;s Siemens will launch its largest &amp;ldquo;internet of things&amp;rdquo; technology development hub in Singapore. Siemens will make use of its &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Want A Degree In The Internet Of Things? Check Out FIU</title>
-      <link>//crypt0.net/post/want-a-degree-in-the-internet-of-things-check-out-fiu/</link>
-      <pubDate>Fri, 14 Jul 2017 02:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/want-a-degree-in-the-internet-of-things-check-out-fiu/</guid>
-      <description>Collectively, these smart devices have become known as the Internet of Things (IoT). So, in a sign of the times, Florida International University (FIU) in &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
