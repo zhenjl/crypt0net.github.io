@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 31 Jul 2017 18:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2017 18:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1707618 need to set metadata_workers when using local meta...</title>
+      <link>//crypt0.net/post/bug-1707618-need-to-set-metadataworkers-when-using-local-meta/</link>
+      <pubDate>Mon, 31 Jul 2017 18:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1707618-need-to-set-metadataworkers-when-using-local-meta/</guid>
+      <description>on nova-compute hosts which results in automatically generated values &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>175000 IoT cameras can be remotely hacked thanks to flaw, says security</title>
@@ -20788,16 +20798,6 @@
       
       <guid>//crypt0.net/post/google-plans-to-double-headcount-for-cloud-business-in-india/</guid>
       <description>The Google Cloud enterprise offering is made up of the cloud platform, G Suite applications for workplace productivity, Google Maps for companies &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Master Of All Trades: Every Industry Jeff Bezos Has A Hand In</title>
-      <link>//crypt0.net/post/master-of-all-trades-every-industry-jeff-bezos-has-a-hand-in/</link>
-      <pubDate>Sun, 16 Jul 2017 18:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/master-of-all-trades-every-industry-jeff-bezos-has-a-hand-in/</guid>
-      <description>About 91 percent of Amazon&amp;rsquo;s net sales came from its online retail business and the rest from its cloud computing business, the Amazon Web Services &amp;hellip; more.
 @crypt0net</description>
     </item>
     
