@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 05:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 05:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Visual Studio Team Services Microsoft Azure </title>
+      <link>//crypt0.net/post/visual-studio-team-services-microsoft-azure/</link>
+      <pubDate>Tue, 01 Aug 2017 05:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/visual-studio-team-services-microsoft-azure/</guid>
+      <description>&amp;hellip; Microsoft Azure Visual Studio Team Services &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Rackspace Announces Strategic Channel Relationship with AWS</title>
@@ -20849,16 +20859,6 @@
       <guid>//crypt0.net/post/comment-its-a-distribution-model-but-not-as-we-know-it/</guid>
       <description>Amazon is already a force in cloud computing through its Amazon Web Services and the addition of Slack is seen as a way establishing a beachhead &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Bitcoin Meets DLT: Bitfury Releases &#39;Anchorable&#39; Enterprise Blockchain</title>
-      <link>//crypt0.net/post/bitcoin-meets-dlt-bitfury-releases-anchorable-enterprise-blockchain/</link>
-      <pubDate>Mon, 17 Jul 2017 05:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bitcoin-meets-dlt-bitfury-releases-anchorable-enterprise-blockchain/</guid>
-      <description>Revealed exclusively to CoinDesk, Bitfury Group is open-sourcing its first private blockchain framework, though it&amp;rsquo;s one that offers a twist on the &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
