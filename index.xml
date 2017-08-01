@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 07:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 08:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon Web Services revenue jumps 42 percent</title>
+      <link>//crypt0.net/post/amazon-web-services-revenue-jumps-42-percent/</link>
+      <pubDate>Tue, 01 Aug 2017 08:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-web-services-revenue-jumps-42-percent/</guid>
+      <description>Amazon Web Services saw its revenue in its second quarter increase 42 percent year-over-year to $4.1 billion, generating $916 million in operating &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Enterprise mobility initiatives stifled by poor information management</title>
@@ -21337,36 +21347,6 @@ The Labor Department just lost a battle with Google over its alleged gender Wash
       <guid>//crypt0.net/post/resello-selects-interxion-as-data-centre-partner-for-microsoft-azure-stack/</guid>
       <description>Azure Stack brings all the benefits of Microsoft&amp;rsquo;s public cloud platform to a customer private data centre environment. The technology is seamlessly &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon mulls data centre in South Africa</title>
-      <link>//crypt0.net/post/amazon-mulls-data-centre-in-south-africa/</link>
-      <pubDate>Mon, 17 Jul 2017 08:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-mulls-data-centre-in-south-africa/</guid>
-      <description>Some of the companies using Amazon Web Services includes Absa, Pick n Pay and Zapper. If it moves forward with its plans, Amazon will be &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Config Editor - Delete functionality is not working with collection</title>
-      <link>//crypt0.net/post/config-editor--delete-functionality-is-not-working-with-collection/</link>
-      <pubDate>Mon, 17 Jul 2017 07:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/config-editor--delete-functionality-is-not-working-with-collection/</guid>
-      <description>Delete functionality is not working with collection object(especially with the last element of the collection) more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Taking over networks on easy mode: An attacker&#39;s perspective</title>
-      <link>//crypt0.net/post/taking-over-networks-on-easy-mode-an-attackers-perspective/</link>
-      <pubDate>Mon, 17 Jul 2017 07:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/taking-over-networks-on-easy-mode-an-attackers-perspective/</guid>
-      <description>Once we find an accessible host that has an interesting user logged in, we will typically compromise that host with our stolen credentials and repeat &amp;hellip; more.
-@trustpath</description>
     </item>
     
     <item>
