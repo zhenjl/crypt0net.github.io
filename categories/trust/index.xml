@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 03:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 04:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data protection by design: The new standard</title>
+      <link>//crypt0.net/post/data-protection-by-design-the-new-standard/</link>
+      <pubDate>Tue, 01 Aug 2017 04:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/data-protection-by-design-the-new-standard/</guid>
+      <description>Monitor data breaches and notify, if needed. If the data is obscured/encrypted, then notification of a breach is not required. If the data is plain text, then &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Palo Alto Networks: Australia is resilient but overconfident about</title>
