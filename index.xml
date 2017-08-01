@@ -7,10 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 22:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 22:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cohesity Orion Combines Data Backup and Scalable Big Data Storage</title>
+      <link>//crypt0.net/post/cohesity-orion-combines-data-backup-and-scalable-big-data-storage/</link>
+      <pubDate>Tue, 01 Aug 2017 22:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cohesity-orion-combines-data-backup-and-scalable-big-data-storage/</guid>
+      <description>It works across clouds including Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform, as well as on-premises data centers. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Keeper Announces Integration with Microsoft Azure Active Directory</title>
+      <link>//crypt0.net/post/keeper-announces-integration-with-microsoft-azure-active-directory/</link>
+      <pubDate>Tue, 01 Aug 2017 22:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/keeper-announces-integration-with-microsoft-azure-active-directory/</guid>
+      <description>CHICAGO, Aug. 1, 2017 /PRNewswire/ &amp;ndash; Keeper Security, Inc., the world&amp;rsquo;s leading password manager and secure digital vault, today announced its &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft eats own dogfood as Bing Ads moves to Azure SQL Database</title>
+      <link>//crypt0.net/post/microsoft-eats-own-dogfood-as-bing-ads-moves-to-azure-sql-database/</link>
+      <pubDate>Tue, 01 Aug 2017 22:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-eats-own-dogfood-as-bing-ads-moves-to-azure-sql-database/</guid>
+      <description>In a recent post, Microsoft announced it has moved Bing Ads to Azure SQL Database to address performance and scalability requirements. Microsoft &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft project manager sees good fit for Node.js in Azure</title>
+      <link>//crypt0.net/post/microsoft-project-manager-sees-good-fit-for-nodejs-in-azure/</link>
+      <pubDate>Tue, 01 Aug 2017 22:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-project-manager-sees-good-fit-for-nodejs-in-azure/</guid>
+      <description>Microsoft&amp;rsquo;s recent announcement of Azure Container Instances, a new service designed to run software containers in the cloud more easily, is yet &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Rockmetric Releases Its &#39;Cognitive Search&#39; for Analytics on Microsoft Azure</title>
+      <link>//crypt0.net/post/rockmetric-releases-its-cognitive-search-for-analytics-on-microsoft-azure/</link>
+      <pubDate>Tue, 01 Aug 2017 22:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/rockmetric-releases-its-cognitive-search-for-analytics-on-microsoft-azure/</guid>
+      <description>Mumbai July 31, 2017 Rockmetric launched its natural language-driven &amp;lsquo;Cognitive Search&amp;rsquo; for Analytics on Microsoft Azure. The solution &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>What is ACI? Microsoft&#39;s Azure Container Instances explained</title>
+      <link>//crypt0.net/post/what-is-aci-microsofts-azure-container-instances-explained/</link>
+      <pubDate>Tue, 01 Aug 2017 22:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/what-is-aci-microsofts-azure-container-instances-explained/</guid>
+      <description>Azure is rapidly turning into a container-driven public cloud, with strategic investments in tools and hires. It&amp;rsquo;s also running fast, launching new &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Anomaly Detection Market Worth 4.45 Billion USD by 2022</title>
@@ -634,16 +694,6 @@ Site reveals little known data breaches ATLANTA, Ga.</description>
       
       <guid>//crypt0.net/post/joining-apple-amazons-china-cloud-service-bows-to-censors/</guid>
       <description>The company, called Beijing Sinnet Technology and operator of the American company&amp;rsquo;s Amazon Web Services operations in China, sent one round &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>What is ACI? Microsoft&#39;s Azure Container Instances explained</title>
-      <link>//crypt0.net/post/what-is-aci-microsofts-azure-container-instances-explained/</link>
-      <pubDate>Tue, 01 Aug 2017 12:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-is-aci-microsofts-azure-container-instances-explained/</guid>
-      <description>At first, Azure was catching up with Amazon Web Services&amp;rsquo; features, but the release of the new Azure rapid-deployment container service that acts as a &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -1697,16 +1747,6 @@ TransUnion (TRU) Lifted to Buy at Zacks Investment Research Increased risk of id
       
       <guid>//crypt0.net/post/lofty-labs-continues-to-expand-after-amazon-certification/</guid>
       <description>Lofty Labs also became a certified consultant for Amazon Web Services last month. AWS, Amazon&amp;rsquo;s cloud platform, offers outside server and data &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Rockmetric Releases Its &#39;Cognitive Search&#39; for Analytics on Microsoft Azure</title>
-      <link>//crypt0.net/post/rockmetric-releases-its-cognitive-search-for-analytics-on-microsoft-azure/</link>
-      <pubDate>Mon, 31 Jul 2017 10:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rockmetric-releases-its-cognitive-search-for-analytics-on-microsoft-azure/</guid>
-      <description>Rockmetric launches its natural language-driven &amp;lsquo;Cognitive Search&amp;rsquo; for Analytics on Microsoft Azure. The solution automates access to ad-hoc queries &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -21057,36 +21097,6 @@ MySpace Nukes Massive Security Loophole (But Go Delete Your Stuff Anyways) Leake
       
       <guid>//crypt0.net/post/will-intel-profit-from-the-internet-of-things/</guid>
       <description>As the world&amp;rsquo;s largest semiconductor producer, tech giant Intel (NASDAQ:INTC) has a vested interest in tapping into the Internet of Things (IoT), &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Senet Retools Business Plan to Focus on the IoT Back Office</title>
-      <link>//crypt0.net/post/senet-retools-business-plan-to-focus-on-the-iot-back-office/</link>
-      <pubDate>Mon, 17 Jul 2017 22:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/senet-retools-business-plan-to-focus-on-the-iot-back-office/</guid>
-      <description>Senet was an early proponent of machine-to-machine (M2M) communications. The company was founded five years ago to use IoT to notify heating &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>BASF SE Selects Icertis to Accelerate Contracting Velocity, Ensure Global</title>
-      <link>//crypt0.net/post/basf-se-selects-icertis-to-accelerate-contracting-velocity-ensure-global/</link>
-      <pubDate>Mon, 17 Jul 2017 22:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/basf-se-selects-icertis-to-accelerate-contracting-velocity-ensure-global/</guid>
-      <description>PR Newswire (press release) &amp;hellip; Microsoft Germany said, &amp;ldquo;The Icertis Contract Management platform built on Microsoft Azure is powering BASF to reinvent contract management as &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>TD Bank Group Joins Chamber Of Digital Commerce</title>
-      <link>//crypt0.net/post/td-bank-group-joins-chamber-of-digital-commerce/</link>
-      <pubDate>Mon, 17 Jul 2017 22:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/td-bank-group-joins-chamber-of-digital-commerce/</guid>
-      <description>According to Chris Owen, vice president of Enterprise Shared Platforms - Blockchain at TD, the move will create tremendous opportunities for the &amp;hellip; more.
 @surgethings</description>
     </item>
     
