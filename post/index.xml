@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 12:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 13:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arcadia Power is &#39;busting at the seams&#39;</title>
+      <link>//crypt0.net/post/arcadia-power-is-busting-at-the-seams/</link>
+      <pubDate>Tue, 01 Aug 2017 13:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/arcadia-power-is-busting-at-the-seams/</guid>
+      <description>Barnes noted one big technical challenge his team faced was migrating the team&amp;rsquo;s services from Heroku to Amazon Web Services while rewriting our &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>IMETRIK Selects NetNumber to Support Continued Global Expansion of M2M</title>
@@ -20579,36 +20589,6 @@
       <guid>//crypt0.net/post/what-do-new-technologies-and-digital-transformation-mean-to-the-military/</guid>
       <description>&amp;hellip; may try to infiltrate by any means including the new devices interconnected at the edge as part of the continued growth of the (IoT) Internet of Things. more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Achieve the Ultimate Data Protection for Your Trusted Digital Experience</title>
-      <link>//crypt0.net/post/achieve-the-ultimate-data-protection-for-your-trusted-digital-experience/</link>
-      <pubDate>Mon, 17 Jul 2017 12:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/achieve-the-ultimate-data-protection-for-your-trusted-digital-experience/</guid>
-      <description>The GDPR will require organizations to report data breaches within 72 hours or face fines of up to 4 percent of annual revenue. Under the new law, &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Announcing the World&#39;s First Two-Factor Authentication for Databases -</title>
-      <link>//crypt0.net/post/announcing-the-worlds-first-twofactor-authentication-for-databases-/</link>
-      <pubDate>Mon, 17 Jul 2017 12:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/announcing-the-worlds-first-twofactor-authentication-for-databases-/</guid>
-      <description>SYS-CON Media (press release) Recent studies have suggested two out of three data breaches involve weak passwords. The gold standard for strengthening passwords is two-factor &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>CrowdStrike Appoints Laurel Finch as Chief Legal Officer</title>
-      <link>//crypt0.net/post/crowdstrike-appoints-laurel-finch-as-chief-legal-officer/</link>
-      <pubDate>Mon, 17 Jul 2017 12:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/crowdstrike-appoints-laurel-finch-as-chief-legal-officer/</guid>
-      <description>BUSINESS WIRE)&amp;ndash;CrowdStrike Inc., the leader in cloud-delivered endpoint protection, today announced the appointment of Laurel Finch as chief &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
