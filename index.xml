@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 23:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 23:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cloud visibility: Manage DevOps and other vulnerabilities</title>
+      <link>//crypt0.net/post/cloud-visibility-manage-devops-and-other-vulnerabilities/</link>
+      <pubDate>Tue, 01 Aug 2017 23:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cloud-visibility-manage-devops-and-other-vulnerabilities/</guid>
+      <description>&amp;hellip; challenges have emerged, as enterprises migrate infrastructure to Amazon Web Services (AWS), Microsoft Azure and the Google Cloud Platform. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Cloud Customers Are Told: Don&#39;t Bypass China&#39;s internet Gates</title>
@@ -189,16 +199,6 @@
       
       <guid>//crypt0.net/post/the-most-important-corporate-server-linux-gets-refreshed-red-hat/</guid>
       <description>ZDNet &amp;hellip; applications to start sooner. It also now supports Amazon Web Services (AWS)&amp;rsquo;s Elastic Network Adapter (ENA) to enable new network capabilities. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cloud visibility: Manage DevOps and other vulnerabilities</title>
-      <link>//crypt0.net/post/cloud-visibility-manage-devops-and-other-vulnerabilities/</link>
-      <pubDate>Tue, 01 Aug 2017 19:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloud-visibility-manage-devops-and-other-vulnerabilities/</guid>
-      <description>&amp;hellip; challenges have emerged, as enterprises migrate infrastructure to Amazon Web Services (AWS), Microsoft Azure and the Google Cloud Platform. more.
 @crypt0net</description>
     </item>
     
@@ -20988,26 +20988,6 @@ MySpace Nukes Massive Security Loophole (But Go Delete Your Stuff Anyways) Leake
       <guid>//crypt0.net/post/researchers-create-framework-to-evaluate-endpoint-security-products/</guid>
       <description>The two spent five months building a business case for an endpoint protection system. Their goal was to better understand problems and create test &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Massachusetts Open Cloud: creating an &#39;open mall&#39; of cloud</title>
-      <link>//crypt0.net/post/massachusetts-open-cloud-creating-an-open-mall-of-cloud/</link>
-      <pubDate>Mon, 17 Jul 2017 23:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/massachusetts-open-cloud-creating-an-open-mall-of-cloud/</guid>
-      <description>Watch the complete video interview below, and be sure to check out more of SiliconANGLE&amp;rsquo;s and theCUBE&amp;rsquo;s coverage of OpenStack Summit 2017 &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OpenStack: preparing telcos for a 5G world</title>
-      <link>//crypt0.net/post/openstack-preparing-telcos-for-a-5g-world/</link>
-      <pubDate>Mon, 17 Jul 2017 23:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-preparing-telcos-for-a-5g-world/</guid>
-      <description>In the not-too-distant past, telecommunication companies were comfortable in a stodgy, hardware-driven world where they had the luxury of time to &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
