@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Aug 2017 19:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 20:00:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Configuring a new Google Cloud account</title>
+      <link>//crypt0.net/post/configuring-a-new-google-cloud-account/</link>
+      <pubDate>Wed, 02 Aug 2017 20:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/configuring-a-new-google-cloud-account/</guid>
+      <description>access the Google Cloud ML Engine. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>GSX Webinar: Office 365 Performance Using Azure ExpressRoute  Fact or</title>
+      <link>//crypt0.net/post/gsx-webinar-office-365-performance-using-azure-expressroute--fact-or/</link>
+      <pubDate>Wed, 02 Aug 2017 20:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/gsx-webinar-office-365-performance-using-azure-expressroute--fact-or/</guid>
+      <description>GlobeNewswire (press release) Many companies, large and small are familiar with ExpressRoute a direct connection to Microsoft&amp;rsquo;s cloud infrastructure. ExpressRoute is frequently &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Brings Azure Batch Rendering to Public Preview</title>
+      <link>//crypt0.net/post/microsoft-brings-azure-batch-rendering-to-public-preview/</link>
+      <pubDate>Wed, 02 Aug 2017 20:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-brings-azure-batch-rendering-to-public-preview/</guid>
+      <description>Microsoft has today announced Azure Batch Rendering is moving to public preview. The company announced the availability as part of its SIGGRAPH &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How Apple and Amazon Are Aiding Chinese Censors</title>
@@ -8348,56 +8378,6 @@ List of Microsoft Apps available for Android Microsoft Apps: A hub to view and d
       
       <guid>//crypt0.net/post/microsoft-will-help-the-google-of-china-take-its-selfdriving-car-platform/</guid>
       <description>Mashable Microsoft will help the Google of China take its self-driving car platform global &amp;hellip; Baidu is getting an assist from Microsoft to expand its self-driving sights &amp;hellip; across international borders by providing &amp;ldquo;global scale&amp;rdquo; via the Azure cloud. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Bug #1705049: [GUI] Number of Networks Shown Incorrectly</title>
-      <link>//crypt0.net/post/bug-1705049-gui-number-of-networks-shown-incorrectly/</link>
-      <pubDate>Tue, 18 Jul 2017 19:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1705049-gui-number-of-networks-shown-incorrectly/</guid>
-      <description>-Contrail config, controller, analytics node (Contrail 3.2) -compute node more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Baidu will use Microsoft Azure services for self-driving cars</title>
-      <link>//crypt0.net/post/baidu-will-use-microsoft-azure-services-for-selfdriving-cars/</link>
-      <pubDate>Tue, 18 Jul 2017 19:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/baidu-will-use-microsoft-azure-services-for-selfdriving-cars/</guid>
-      <description>Baidu will use some Microsoft Azure services as part of its self-driving car &amp;hellip; Today, July 18, Microsoft issued its own press release which offered an &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Companies can now ship their data to Google&#39;s cloud with FedEx</title>
-      <link>//crypt0.net/post/companies-can-now-ship-their-data-to-googles-cloud-with-fedex/</link>
-      <pubDate>Tue, 18 Jul 2017 19:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/companies-can-now-ship-their-data-to-googles-cloud-with-fedex/</guid>
-      <description>It&amp;rsquo;s the same market that Amazon.com Inc. courts with the Amazon Web Services Snowball data transfer appliance, which was launched back in 2015. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>List of Microsoft Apps available for Android</title>
-      <link>//crypt0.net/post/list-of-microsoft-apps-available-for-android/</link>
-      <pubDate>Tue, 18 Jul 2017 19:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/list-of-microsoft-apps-available-for-android/</guid>
-      <description>Microsoft Apps: A hub to view and download all other Android applications released &amp;hellip; Microsoft Azure: Manage your Azure account from anywhere. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Massive Amazon S3 breaches highlight blind spots in enterprise race to the</title>
-      <link>//crypt0.net/post/massive-amazon-s3-breaches-highlight-blind-spots-in-enterprise-race-to-the/</link>
-      <pubDate>Tue, 18 Jul 2017 19:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/massive-amazon-s3-breaches-highlight-blind-spots-in-enterprise-race-to-the/</guid>
-      <description>TechRepublic Dow Jones simply chose the wrong permission settings for the Amazon Web Services (AWS) S3 data repository. By configuring the settings the way it &amp;hellip; more.
 @crypt0net</description>
     </item>
     
