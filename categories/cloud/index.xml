@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Aug 2017 03:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 04:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Helping You Build What&#39;s Next with Google Cloud</title>
+      <link>//crypt0.net/post/helping-you-build-whats-next-with-google-cloud/</link>
+      <pubDate>Wed, 02 Aug 2017 04:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/helping-you-build-whats-next-with-google-cloud/</guid>
+      <description>Google Cloud released an e-book as a resource to their customers and all others in the cloud community. This e-Book shares insights and highlight &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Channel Leader: Partners Must Build Up Technical Skills To</title>
@@ -8427,16 +8437,6 @@ Workday&amp;rsquo;s PaaS answers to your questions show significant progress I m
       
       <guid>//crypt0.net/post/calgary-scientific-pureweb-supports-nextgeneration-gpupowered-amazon-ec2/</guid>
       <description>SYS-CON Media (press release) Cloud Academy provides continuous learning solutions for individuals and enterprise teams for Amazon Web Services, Microsoft Azure, Google Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>add flannel -public-ip to support custom openstack(using floating ip)</title>
-      <link>//crypt0.net/post/add-flannel-publicip-to-support-custom-openstackusing-floating-ip/</link>
-      <pubDate>Tue, 18 Jul 2017 04:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/add-flannel-publicip-to-support-custom-openstackusing-floating-ip/</guid>
-      <description>k8s cluster in two different openstack tenant. only floating ip is visibility. but &amp;hellip; more.
 @crypt0net</description>
     </item>
     
