@@ -7,10 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Aug 2017 18:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 19:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cloud Security Fears Center on Data Protection</title>
+      <link>//crypt0.net/post/cloud-security-fears-center-on-data-protection/</link>
+      <pubDate>Wed, 02 Aug 2017 19:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cloud-security-fears-center-on-data-protection/</guid>
+      <description>Public cloud platform providers like Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform offer plenty of security measures, but &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Flow Updated with New Connectors, Actions, and Triggers</title>
+      <link>//crypt0.net/post/microsoft-flow-updated-with-new-connectors-actions-and-triggers/</link>
+      <pubDate>Wed, 02 Aug 2017 19:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-flow-updated-with-new-connectors-actions-and-triggers/</guid>
+      <description>Microsoft Flow users are getting a new update for the service. &amp;hellip; Starting today, Microsoft Flow now supports Azure File Storage, Azure Video Indexer, &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft&#39;s new unified log-in experience is now in public preview</title>
+      <link>//crypt0.net/post/microsofts-new-unified-login-experience-is-now-in-public-preview/</link>
+      <pubDate>Wed, 02 Aug 2017 19:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsofts-new-unified-login-experience-is-now-in-public-preview/</guid>
+      <description>Microsoft is redesigning both the Azure AD and MSA sign-in pages so they have a consistent look-and-feel. I saw the new login today going to &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft: How to set Azure PowerShell to a specific Azure Subscription</title>
+      <link>//crypt0.net/post/microsoft-how-to-set-azure-powershell-to-a-specific-azure-subscription/</link>
+      <pubDate>Wed, 02 Aug 2017 19:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-how-to-set-azure-powershell-to-a-specific-azure-subscription/</guid>
+      <description>If you have multiple Azure Subscriptons, when you login you get a default subscription set, so if you try and take any actions on a feature in another &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Synergy research emphases gulf between higher and lower ends of cloud</title>
+      <link>//crypt0.net/post/synergy-research-emphases-gulf-between-higher-and-lower-ends-of-cloud/</link>
+      <pubDate>Wed, 02 Aug 2017 19:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/synergy-research-emphases-gulf-between-higher-and-lower-ends-of-cloud/</guid>
+      <description>ComputerWeekly.com AWS&amp;rsquo;s revenue has increased year-on-year to $38bn, while Microsoft&amp;rsquo;s Azure Intelligent Cloud revenue grew by 11% to $7.4bn in the same quarter. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Why is OpenStack making customers&#39; life easier in Financial Sector?</title>
@@ -20009,26 +20059,6 @@
       <guid>//crypt0.net/post/massive-amazon-s3-breaches-highlight-blind-spots-in-enterprise-race-to-the/</guid>
       <description>TechRepublic Dow Jones simply chose the wrong permission settings for the Amazon Web Services (AWS) S3 data repository. By configuring the settings the way it &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Bitcoin Price Rebounds $250 To Shake Off Hard Fork Scare</title>
-      <link>//crypt0.net/post/bitcoin-price-rebounds-250-to-shake-off-hard-fork-scare/</link>
-      <pubDate>Tue, 18 Jul 2017 18:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bitcoin-price-rebounds-250-to-shake-off-hard-fork-scare/</guid>
-      <description>On Twitter, ShapeShift CEO Erik Voorhees captures the sense of optimism under current network behavior. One of best things about SegWit2x: lets all &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Heinz College Students Aren&#39;t Afraid of Blockchain</title>
-      <link>//crypt0.net/post/heinz-college-students-arent-afraid-of-blockchain/</link>
-      <pubDate>Tue, 18 Jul 2017 18:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/heinz-college-students-arent-afraid-of-blockchain/</guid>
-      <description>ball. Blockchain is one of the buzziest technology trends in recent memory. more.
-@surgethings</description>
     </item>
     
   </channel>
