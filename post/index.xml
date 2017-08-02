@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Aug 2017 03:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 03:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Black Hat 2017: Insightful, but too much hype</title>
+      <link>//crypt0.net/post/black-hat-2017-insightful-but-too-much-hype/</link>
+      <pubDate>Wed, 02 Aug 2017 03:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/black-hat-2017-insightful-but-too-much-hype/</guid>
+      <description>This goes for threat hunting, as well. 9. Enough about machine learning and artificial intelligence (AI)! Note to cybersecurity technology vendors: &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Clinic Discovers Lengthy Intrusion Post-Ransomware Attack</title>
@@ -20429,46 +20439,6 @@
       <guid>//crypt0.net/post/add-flannel-publicip-to-support-custom-openstackusing-floating-ip/</guid>
       <description>k8s cluster in two different openstack tenant. only floating ip is visibility. but &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Kiwis cagey about sharing personal data via Internet of Things - Unisys</title>
-      <link>//crypt0.net/post/kiwis-cagey-about-sharing-personal-data-via-internet-of-things--unisys/</link>
-      <pubDate>Tue, 18 Jul 2017 03:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/kiwis-cagey-about-sharing-personal-data-via-internet-of-things--unisys/</guid>
-      <description>New Zealanders are selective about the circumstances in which they support sharing personal data with government agencies and commercial &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>MQTT is not evil, just not always secure</title>
-      <link>//crypt0.net/post/mqtt-is-not-evil-just-not-always-secure/</link>
-      <pubDate>Tue, 18 Jul 2017 03:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mqtt-is-not-evil-just-not-always-secure/</guid>
-      <description>The MQTT messaging protocol standard used by IoT vendors is not inherenly secure enough. Solutions exist to secure it, but organizations and &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>&#39;Wall Street Journal&#39; parent exposes 2.2M customers&#39; data in cloud storage</title>
-      <link>//crypt0.net/post/wall-street-journal-parent-exposes-22m-customers-data-in-cloud-storage/</link>
-      <pubDate>Tue, 18 Jul 2017 03:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/wall-street-journal-parent-exposes-22m-customers-data-in-cloud-storage/</guid>
-      <description>USA TODAY &amp;hellip; Dow Jones publications including The Wall Street Journal and Barron&amp;rsquo;s was available to anyone who had an Amazon Web Services account. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Mastercard to buy AI outfit Brighterion</title>
-      <link>//crypt0.net/post/mastercard-to-buy-ai-outfit-brighterion/</link>
-      <pubDate>Tue, 18 Jul 2017 03:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mastercard-to-buy-ai-outfit-brighterion/</guid>
-      <description>&amp;hellip; technologies, used in homeland security, AML and cross-channel fraud prevention, data breach detection, marketing, trading and healthcare. more.
-@trustpath</description>
     </item>
     
   </channel>
