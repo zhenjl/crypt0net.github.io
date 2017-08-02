@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Aug 2017 17:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 17:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kubernetes 1.7 with Tim Hockin</title>
+      <link>//crypt0.net/post/kubernetes-17-with-tim-hockin/</link>
+      <pubDate>Wed, 02 Aug 2017 17:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/kubernetes-17-with-tim-hockin/</guid>
+      <description>Francesc and Mark to talk about all of the cool stuff coming up with &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon&#39;s China cloud service bows to censors</title>
@@ -20019,66 +20029,6 @@
       <guid>//crypt0.net/post/michael-dell-says-public-cloud-hardware-is-important-but-its-not/</guid>
       <description>Fortune As exemplified by AWS (amzn, +0.32%) and Microsoft (msft, +1.04%) Azure, public cloud is a model in which companies move data and software to &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Beijing Summit Highlights Bitcoin &amp; Blockchain Global Expansion</title>
-      <link>//crypt0.net/post/beijing-summit-highlights-bitcoin--blockchain-global-expansion/</link>
-      <pubDate>Tue, 18 Jul 2017 17:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/beijing-summit-highlights-bitcoin--blockchain-global-expansion/</guid>
-      <description>On September 10, Beijing, China will welcome a prominent gathering of cryptocurrency and blockchain leaders from throughout the world for the &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>BitFury Launches Open Source Blockchain Framework, Exonum</title>
-      <link>//crypt0.net/post/bitfury-launches-open-source-blockchain-framework-exonum/</link>
-      <pubDate>Tue, 18 Jul 2017 17:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bitfury-launches-open-source-blockchain-framework-exonum/</guid>
-      <description>Blockchain solutions and cryptocurrency mining hardware giant, BitFury has announced the launch of Exonum, an enterprise blockchain solution &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>GamCrowd Blockchain report  the second edition</title>
-      <link>//crypt0.net/post/gamcrowd-blockchain-report--the-second-edition/</link>
-      <pubDate>Tue, 18 Jul 2017 17:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/gamcrowd-blockchain-report--the-second-edition/</guid>
-      <description>Indeed, given the gambling focus of these companies, it seems like gambling is arguably at the forefront of the moves to fully exploit the blockchain &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>More Than Coins: Blockchain is Transforming the Way We Distribute Aid</title>
-      <link>//crypt0.net/post/more-than-coins-blockchain-is-transforming-the-way-we-distribute-aid/</link>
-      <pubDate>Tue, 18 Jul 2017 17:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/more-than-coins-blockchain-is-transforming-the-way-we-distribute-aid/</guid>
-      <description>Most people have heard of bitcoin and ether, but not everyone is familiar with blockchains. This technology, which powers cryptocurrencies, is already &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>The biggest network of entrepreneurs announces the own blockchain platform</title>
-      <link>//crypt0.net/post/the-biggest-network-of-entrepreneurs-announces-the-own-blockchain-platform/</link>
-      <pubDate>Tue, 18 Jul 2017 17:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-biggest-network-of-entrepreneurs-announces-the-own-blockchain-platform/</guid>
-      <description>On June, 22 as a part of Blockchain &amp;amp; Bitcoin Conference BMCHAIN platform has been announced. The project being developed by Biznes &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Sophos&#39; Dan Schiappa On The Importance Of Being Predictive, Not Reactive,</title>
-      <link>//crypt0.net/post/sophos-dan-schiappa-on-the-importance-of-being-predictive-not-reactive/</link>
-      <pubDate>Tue, 18 Jul 2017 17:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sophos-dan-schiappa-on-the-importance-of-being-predictive-not-reactive/</guid>
-      <description>CRN &amp;ldquo;I think where endpoint protection is going in the future has to be coupled with where the attacks are going,&amp;rdquo; he said. &amp;ldquo;I think the big change is that we &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>

@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Aug 2017 17:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 17:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kubernetes 1.7 with Tim Hockin</title>
+      <link>//crypt0.net/post/kubernetes-17-with-tim-hockin/</link>
+      <pubDate>Wed, 02 Aug 2017 17:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/kubernetes-17-with-tim-hockin/</guid>
+      <description>Francesc and Mark to talk about all of the cool stuff coming up with &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon&#39;s China cloud service bows to censors</title>
