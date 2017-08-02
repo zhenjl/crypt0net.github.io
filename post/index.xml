@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 23:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 00:10:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon is staffing up several new teams to go big in cloud and distribution</title>
+      <link>//crypt0.net/post/amazon-is-staffing-up-several-new-teams-to-go-big-in-cloud-and-distribution/</link>
+      <pubDate>Wed, 02 Aug 2017 00:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-is-staffing-up-several-new-teams-to-go-big-in-cloud-and-distribution/</guid>
+      <description>Business Insider A separate recent job listing seeks a &amp;ldquo;leader and a founding member&amp;rdquo; of a new team to expand Amazon&amp;rsquo;s Web Services Marketplace. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Deploying Clojure applications to Google Cloud</title>
+      <link>//crypt0.net/post/deploying-clojure-applications-to-google-cloud/</link>
+      <pubDate>Wed, 02 Aug 2017 00:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/deploying-clojure-applications-to-google-cloud/</guid>
+      <description>write lots of Clojure. The main backend app is &amp;gt; 100000 lines of Clojure &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Step-by-step guide: Azure portal resource groups and resources</title>
+      <link>//crypt0.net/post/stepbystep-guide-azure-portal-resource-groups-and-resources/</link>
+      <pubDate>Wed, 02 Aug 2017 00:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/stepbystep-guide-azure-portal-resource-groups-and-resources/</guid>
+      <description>Microsoft Azure is a cloud platform that enables organizations to host their applications, data, and infrastructure within Microsoft&amp;rsquo;s datacenters. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Cloud visibility: Manage DevOps and other vulnerabilities</title>
@@ -20439,46 +20469,6 @@
       <guid>//crypt0.net/post/why-amazoncom-inc-stock-is-up-35-this-year/</guid>
       <description>Sales in the key cloud-computing division, Amazon Web Services, jumped 55% to $12.2 billion. Shares fell modestly on the report, as revenue and &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Alliance envisions the new energy future</title>
-      <link>//crypt0.net/post/alliance-envisions-the-new-energy-future/</link>
-      <pubDate>Mon, 17 Jul 2017 23:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/alliance-envisions-the-new-energy-future/</guid>
-      <description>Microsoft&amp;rsquo;s Azure Cloud Platform provides secure and flexible data storage and computing and Accenture&amp;rsquo;s enterprise service expertise ensures a &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Impinj: RAIN Event Could Bring Kaiser, Other Nice News, Says RBC</title>
-      <link>//crypt0.net/post/impinj-rain-event-could-bring-kaiser-other-nice-news-says-rbc/</link>
-      <pubDate>Mon, 17 Jul 2017 23:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/impinj-rain-event-could-bring-kaiser-other-nice-news-says-rbc/</guid>
-      <description>An industry conference this week for Internet of Things, the &amp;ldquo;RAIN Alliance,&amp;rdquo; in Seattle, may bring good news for upstart sensor maker Impinj, says RBC &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Managing Compliance in the Cloud with Microsoft Azure</title>
-      <link>//crypt0.net/post/managing-compliance-in-the-cloud-with-microsoft-azure/</link>
-      <pubDate>Mon, 17 Jul 2017 23:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/managing-compliance-in-the-cloud-with-microsoft-azure/</guid>
-      <description>lack of expertise, staffing headaches, and manual processes could lead to &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Researchers Create Framework to Evaluate Endpoint Security Products</title>
-      <link>//crypt0.net/post/researchers-create-framework-to-evaluate-endpoint-security-products/</link>
-      <pubDate>Mon, 17 Jul 2017 23:30:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/researchers-create-framework-to-evaluate-endpoint-security-products/</guid>
-      <description>The two spent five months building a business case for an endpoint protection system. Their goal was to better understand problems and create test &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
