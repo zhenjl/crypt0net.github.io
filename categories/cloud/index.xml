@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Aug 2017 21:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 21:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open source is powering the digital enterprise</title>
+      <link>//crypt0.net/post/open-source-is-powering-the-digital-enterprise/</link>
+      <pubDate>Wed, 02 Aug 2017 21:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/open-source-is-powering-the-digital-enterprise/</guid>
+      <description>JetPack automates the deployment of OpenStack services from bare metal to a fully functional OpenStack environment. We are now preparing to open &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Public previews are now available for Microsoft account, Azure AD sign in</title>
@@ -8328,26 +8338,6 @@ List of Microsoft Apps available for Android Microsoft Apps: A hub to view and d
       
       <guid>//crypt0.net/post/microsoft-adds-services-to-azure-government-cloud/</guid>
       <description>Although adding artificial intelligence to applications is easier since the public preview of Cognitive Services in Azure Government, Microsoft &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Don&#39;t forget the tracking number: Google now lets you ship corporate data</title>
-      <link>//crypt0.net/post/dont-forget-the-tracking-number-google-now-lets-you-ship-corporate-data/</link>
-      <pubDate>Tue, 18 Jul 2017 21:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/dont-forget-the-tracking-number-google-now-lets-you-ship-corporate-data/</guid>
-      <description>GeekWire Amazon Web Services and Microsoft Azure have helped customers ship hard drives full of data to their cloud servers for several years, and Google &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>IBM posts disappointing revenue results for Q2</title>
-      <link>//crypt0.net/post/ibm-posts-disappointing-revenue-results-for-q2/</link>
-      <pubDate>Tue, 18 Jul 2017 21:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ibm-posts-disappointing-revenue-results-for-q2/</guid>
-      <description>He also noted that IBM is hiring less AI talent and enterprises increasingly have options to connect to the likes of Amazon Web Services, Microsoft &amp;hellip; more.
 @crypt0net</description>
     </item>
     

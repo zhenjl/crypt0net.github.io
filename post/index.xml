@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Aug 2017 21:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 21:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open source is powering the digital enterprise</title>
+      <link>//crypt0.net/post/open-source-is-powering-the-digital-enterprise/</link>
+      <pubDate>Wed, 02 Aug 2017 21:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/open-source-is-powering-the-digital-enterprise/</guid>
+      <description>JetPack automates the deployment of OpenStack services from bare metal to a fully functional OpenStack environment. We are now preparing to open &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>FireEye&#39;s Mandiant Hack Comment: Nobody Has Full Proof Defences</title>
@@ -19919,46 +19929,6 @@
       <guid>//crypt0.net/post/data-protection-laws-could-increase-after-jio-data-break/</guid>
       <description>At present, companies in India do not have to disclose data breaches to clients. Of course this is stark contrast to companies in the European Union, &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>5G will bring the Internet of Things to life</title>
-      <link>//crypt0.net/post/5g-will-bring-the-internet-of-things-to-life/</link>
-      <pubDate>Tue, 18 Jul 2017 21:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/5g-will-bring-the-internet-of-things-to-life/</guid>
-      <description>By now, many of us have heard about the Internet of Things the trend that sees sensors and Internet connectivity embedded into just about every &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Don&#39;t forget the tracking number: Google now lets you ship corporate data</title>
-      <link>//crypt0.net/post/dont-forget-the-tracking-number-google-now-lets-you-ship-corporate-data/</link>
-      <pubDate>Tue, 18 Jul 2017 21:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/dont-forget-the-tracking-number-google-now-lets-you-ship-corporate-data/</guid>
-      <description>GeekWire Amazon Web Services and Microsoft Azure have helped customers ship hard drives full of data to their cloud servers for several years, and Google &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>IBM posts disappointing revenue results for Q2</title>
-      <link>//crypt0.net/post/ibm-posts-disappointing-revenue-results-for-q2/</link>
-      <pubDate>Tue, 18 Jul 2017 21:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ibm-posts-disappointing-revenue-results-for-q2/</guid>
-      <description>He also noted that IBM is hiring less AI talent and enterprises increasingly have options to connect to the likes of Amazon Web Services, Microsoft &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>SLOGN Logistics Blockchain Initiative Launches Pre-ICO, Plans to Contribute</title>
-      <link>//crypt0.net/post/slogn-logistics-blockchain-initiative-launches-preico-plans-to-contribute/</link>
-      <pubDate>Tue, 18 Jul 2017 21:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/slogn-logistics-blockchain-initiative-launches-preico-plans-to-contribute/</guid>
-      <description>newsBTC The immutable and transparent nature of blockchain technology makes it ideal for use in the supply chain and logistics applications. Realizing its &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
