@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Aug 2017 12:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 12:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MQTT switch send and listen with True/False ignoring payload_on and</title>
+      <link>//crypt0.net/post/mqtt-switch-send-and-listen-with-truefalse-ignoring-payloadon-and/</link>
+      <pubDate>Wed, 02 Aug 2017 12:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mqtt-switch-send-and-listen-with-truefalse-ignoring-payloadon-and/</guid>
+      <description>Home Assistant release ( hass &amp;ndash;version ): 0.50.2. Python release ( python3 &amp;ndash;version ): Python 3.6.2. Component/platform: MQTT Switch component. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Get a full-body workout with one piece of equipment: The kettlebell</title>
