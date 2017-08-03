@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 06:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 07:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>report_interval must be located in AGENT section</title>
+      <link>//crypt0.net/post/reportinterval-must-be-located-in-agent-section/</link>
+      <pubDate>Thu, 03 Aug 2017 07:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/reportinterval-must-be-located-in-agent-section/</guid>
+      <description>is inaccurate in this way: ______ - [ ] This is a doc addition request. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>What Is the Future of IT Purchasing? Less Hardware, More Services</title>
