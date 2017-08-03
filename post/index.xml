@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 08:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 08:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DE-CIX expands to five Spanish and Portuguese data centres through Itconic</title>
+      <link>//crypt0.net/post/decix-expands-to-five-spanish-and-portuguese-data-centres-through-itconic/</link>
+      <pubDate>Thu, 03 Aug 2017 08:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/decix-expands-to-five-spanish-and-portuguese-data-centres-through-itconic/</guid>
+      <description>Capacity Media DE-CIX has expanded its Iberian presence through an agreement with Itconic, which runs five data centres across Spain and Portugal. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Forcepoint Simplifies Cybersecurity Through Cloud-Based Behavior Analytics</title>
@@ -1079,16 +1089,6 @@
       
       <guid>//crypt0.net/post/how-the-cloud-will-disrupt-the-ad-tech-stack/</guid>
       <description>For the web stack, a company can rent elastic hardware from a primary service like Amazon Web Services or Google Cloud, plug in content delivery &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>DE-CIX expands to five Spanish and Portuguese data centres through Itconic</title>
-      <link>//crypt0.net/post/decix-expands-to-five-spanish-and-portuguese-data-centres-through-itconic/</link>
-      <pubDate>Wed, 02 Aug 2017 16:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/decix-expands-to-five-spanish-and-portuguese-data-centres-through-itconic/</guid>
-      <description>Capacity Media DE-CIX has expanded its Iberian presence through an agreement with Itconic, which runs five data centres across the Spain and Portugal. more.
 @crypt0net</description>
     </item>
     
@@ -19959,26 +19959,6 @@
       <guid>//crypt0.net/post/want-to-transfer-data-to-google-cloud-send-it-by-mail/</guid>
       <description>Case in point: the Microsoft Azure Stack, which lets enterprises build a private-cloud version of the Azure public cloud in their own data centers. more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cover Story: Scoping out the cybersecurity theme</title>
-      <link>//crypt0.net/post/cover-story-scoping-out-the-cybersecurity-theme/</link>
-      <pubDate>Wed, 19 Jul 2017 08:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cover-story-scoping-out-the-cybersecurity-theme/</guid>
-      <description>The investments depend on how exposed they are to data breaches or if they have been victims of cyberattacks. Also, companies that operate in &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Many firms turn a blind eye to top data threat: ex-employees</title>
-      <link>//crypt0.net/post/many-firms-turn-a-blind-eye-to-top-data-threat-exemployees/</link>
-      <pubDate>Wed, 19 Jul 2017 08:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/many-firms-turn-a-blind-eye-to-top-data-threat-exemployees/</guid>
-      <description>This should be a cause for concern among business leaders, especially considering how many data breaches are caused by ex-employees. &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
