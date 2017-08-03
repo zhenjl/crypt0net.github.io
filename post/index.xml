@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 21:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 21:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bindep files expect python2-pyOpenSSL to be presen... : Bugs</title>
+      <link>//crypt0.net/post/bindep-files-expect-python2pyopenssl-to-be-presen--bugs/</link>
+      <pubDate>Thu, 03 Aug 2017 21:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bindep-files-expect-python2pyopenssl-to-be-presen--bugs/</guid>
+      <description>installed, but this package is only available from the RDO QEMU repository. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Cuebiq Launches Internet of Things Analysis Tool</title>
