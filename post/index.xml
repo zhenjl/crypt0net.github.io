@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 04:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 05:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 tips for effective threat hunting</title>
+      <link>//crypt0.net/post/10-tips-for-effective-threat-hunting/</link>
+      <pubDate>Thu, 03 Aug 2017 05:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/10-tips-for-effective-threat-hunting/</guid>
+      <description>Attackers don&amp;rsquo;t think of their success as optional, hence the effectiveness and success of a threat hunting program is critical. Organisations that start &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Combating Cyber Fraud with IP Intelligence</title>
@@ -8839,16 +8849,6 @@
       <guid>//crypt0.net/post/why-the-worlds-biggest-search-engine-has-to-pay-for-traffic-to-its-site/</guid>
       <description>&amp;hellip; businesses such as YouTube, Google Play and Google Cloud, and new, potential revenue opportunities that might arise around Maps and Waymo, &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>10 Tips for Effective Threat Hunting</title>
-      <link>//crypt0.net/post/10-tips-for-effective-threat-hunting/</link>
-      <pubDate>Wed, 26 Jul 2017 22:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/10-tips-for-effective-threat-hunting/</guid>
-      <description>Dummies.) Consider the fact that attackers don&amp;rsquo;t think of their success as &amp;hellip; more.
-@trustpath</description>
     </item>
     
     <item>
@@ -20019,66 +20019,6 @@
       <guid>//crypt0.net/post/microsoft-azure-cloud-services-to-help-baidu-selfdriving-car-effort/</guid>
       <description>Microsoft will enable alliance members to collaborate, share information and tap into the analytic power of Azure cloud computing, according to the &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>AlienVault Unified Security Management: Threat Intelligence Product</title>
-      <link>//crypt0.net/post/alienvault-unified-security-management-threat-intelligence-product/</link>
-      <pubDate>Wed, 19 Jul 2017 04:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/alienvault-unified-security-management-threat-intelligence-product/</guid>
-      <description>eSecurity Planet AlienVault&amp;rsquo;s Open Source Security Information Management (OSSIM) is offered as an open source software-based version of USM Appliance, and is &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Instance is not able to launch</title>
-      <link>//crypt0.net/post/instance-is-not-able-to-launch/</link>
-      <pubDate>Wed, 19 Jul 2017 04:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/instance-is-not-able-to-launch/</guid>
-      <description>https://docs.openstack.org/ocata/install-guide-ubuntu/InstallGuide.pdf to build OpenStack environment. But while &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Baidu Teams Up With Microsoft To Push Global Adoption Of Its Autonomous</title>
-      <link>//crypt0.net/post/baidu-teams-up-with-microsoft-to-push-global-adoption-of-its-autonomous/</link>
-      <pubDate>Wed, 19 Jul 2017 04:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/baidu-teams-up-with-microsoft-to-push-global-adoption-of-its-autonomous/</guid>
-      <description>China Money Network Baidu Inc. has teamed up with Microsoft Corp. to jointly push for the &amp;hellip; the adoption of Apollo outside of China by utilizing Microsoft&amp;rsquo;s Azure cloud, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Florida International University offers first bachelor&#39;s in Internet of</title>
-      <link>//crypt0.net/post/florida-international-university-offers-first-bachelors-in-internet-of/</link>
-      <pubDate>Wed, 19 Jul 2017 04:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/florida-international-university-offers-first-bachelors-in-internet-of/</guid>
-      <description>Miami Today The Internet of Things is the global infrastructure that connects all physical &amp;hellip; The Internet of Things degree will allow our students to get and create &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Is privacy a fundamental right? Supreme Court to hear today</title>
-      <link>//crypt0.net/post/is-privacy-a-fundamental-right-supreme-court-to-hear-today/</link>
-      <pubDate>Wed, 19 Jul 2017 04:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/is-privacy-a-fundamental-right-supreme-court-to-hear-today/</guid>
-      <description>But critics say the move violates privacy, is vulnerable to data breaches and helps government spy on people. More than 1.4 billion people or 95% of &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Secure IoT Essential to Smart Transportation&#39;s Future</title>
-      <link>//crypt0.net/post/secure-iot-essential-to-smart-transportations-future/</link>
-      <pubDate>Wed, 19 Jul 2017 04:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/secure-iot-essential-to-smart-transportations-future/</guid>
-      <description>Until recently, such gloom-and-doom visions have been largely hypothetical, but as Internet of Things (IoT) pilot programs begin to hit highways &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>

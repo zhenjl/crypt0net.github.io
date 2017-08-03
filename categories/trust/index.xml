@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 04:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 05:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 tips for effective threat hunting</title>
+      <link>//crypt0.net/post/10-tips-for-effective-threat-hunting/</link>
+      <pubDate>Thu, 03 Aug 2017 05:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/10-tips-for-effective-threat-hunting/</guid>
+      <description>Attackers don&amp;rsquo;t think of their success as optional, hence the effectiveness and success of a threat hunting program is critical. Organisations that start &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Combating Cyber Fraud with IP Intelligence</title>
@@ -1789,16 +1799,6 @@ CrowdStrike Debuts Cybersecurity Search Engine Technology at Black Hat &amp;ldqu
       
       <guid>//crypt0.net/post/the-threathunters-secret-to-success-humanmachine-teaming/</guid>
       <description>Other standard tools include SIEM, endpoint detection and response, and user behavior analyticsand these are all targets for automation. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>10 Tips for Effective Threat Hunting</title>
-      <link>//crypt0.net/post/10-tips-for-effective-threat-hunting/</link>
-      <pubDate>Wed, 26 Jul 2017 22:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/10-tips-for-effective-threat-hunting/</guid>
-      <description>Dummies.) Consider the fact that attackers don&amp;rsquo;t think of their success as &amp;hellip; more.
 @trustpath</description>
     </item>
     
@@ -3948,26 +3948,6 @@ StackRox Emerges from Stealth with Container Security Platform He added that a g
       
       <guid>//crypt0.net/post/fbi-psa-says-connected-toys-may-present-privacy-risks-to-children/</guid>
       <description>Parents should also monitor children&amp;rsquo;s use of connected toys and be on the lookout for data breaches involving the toy manufacturers or affiliated firms &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>AlienVault Unified Security Management: Threat Intelligence Product</title>
-      <link>//crypt0.net/post/alienvault-unified-security-management-threat-intelligence-product/</link>
-      <pubDate>Wed, 19 Jul 2017 04:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/alienvault-unified-security-management-threat-intelligence-product/</guid>
-      <description>eSecurity Planet AlienVault&amp;rsquo;s Open Source Security Information Management (OSSIM) is offered as an open source software-based version of USM Appliance, and is &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Is privacy a fundamental right? Supreme Court to hear today</title>
-      <link>//crypt0.net/post/is-privacy-a-fundamental-right-supreme-court-to-hear-today/</link>
-      <pubDate>Wed, 19 Jul 2017 04:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/is-privacy-a-fundamental-right-supreme-court-to-hear-today/</guid>
-      <description>But critics say the move violates privacy, is vulnerable to data breaches and helps government spy on people. More than 1.4 billion people or 95% of &amp;hellip; more.
 @trustpath</description>
     </item>
     
