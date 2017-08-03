@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 05:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 06:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What Is the Future of IT Purchasing? Less Hardware, More Services</title>
+      <link>//crypt0.net/post/what-is-the-future-of-it-purchasing-less-hardware-more-services/</link>
+      <pubDate>Thu, 03 Aug 2017 06:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/what-is-the-future-of-it-purchasing-less-hardware-more-services/</guid>
+      <description>In February, Cavallo and SBA CIO Maria Roat began migrating applications to Microsoft Azure&amp;rsquo;s Infrastructure as a Service (IaaS) offering. They expect &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft: We beat Google, AWS to cloudy GPU VMs in Blighty</title>
@@ -19969,46 +19979,6 @@
       <guid>//crypt0.net/post/fbi-psa-says-connected-toys-may-present-privacy-risks-to-children/</guid>
       <description>Parents should also monitor children&amp;rsquo;s use of connected toys and be on the lookout for data breaches involving the toy manufacturers or affiliated firms &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Are Amazon (AMZN) and VMware (VMW) Coming Together Again?</title>
-      <link>//crypt0.net/post/are-amazon-amzn-and-vmware-vmw-coming-together-again/</link>
-      <pubDate>Wed, 19 Jul 2017 06:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/are-amazon-amzn-and-vmware-vmw-coming-together-again/</guid>
-      <description>Amazon.com, Inc. &amp;rsquo;s AMZN cloud computing wing Amazon Web Services (AWS) is reportedly in talks with VMware VMW to develop software for &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How will the Internet of Things affect your world?</title>
-      <link>//crypt0.net/post/how-will-the-internet-of-things-affect-your-world/</link>
-      <pubDate>Wed, 19 Jul 2017 06:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-will-the-internet-of-things-affect-your-world/</guid>
-      <description>Estimates suggest over 500 billion devices will be connected to the Internet by 2030, which means the Internet of Things (IOT) is set to revolutionise &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>IBM opens four new data centers</title>
-      <link>//crypt0.net/post/ibm-opens-four-new-data-centers/</link>
-      <pubDate>Wed, 19 Jul 2017 06:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ibm-opens-four-new-data-centers/</guid>
-      <description>Amazon Web Services continues to dominate the public cloud infrastructure market, while other competitors like Google and Microsoft are making &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>ORIX Growth Capital Announces Investment in Venafi</title>
-      <link>//crypt0.net/post/orix-growth-capital-announces-investment-in-venafi/</link>
-      <pubDate>Wed, 19 Jul 2017 06:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/orix-growth-capital-announces-investment-in-venafi/</guid>
-      <description>To protect machine-to-machine communications, each machine must have a unique identity that is protected with the same rigor and precision used to &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
