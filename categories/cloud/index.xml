@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 02 Aug 2017 23:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 00:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1708190: AttributeError: &#39;module&#39; object has no attribute</title>
+      <link>//crypt0.net/post/bug-1708190-attributeerror-module-object-has-no-attribute/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1708190-attributeerror-module-object-has-no-attribute/</guid>
+      <description>http://logs.openstack.org/42/490042/1/check/gate-trove-tox-apiexamples-ubun tu-xenial/97ab5c7/console.html#_2017-08- &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Citrix&#39;s quarterly revenue up 3 percent over year</title>
