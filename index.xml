@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 00:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 00:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Niti Aayog&#39;s Education AI Challenge</title>
+      <link>//crypt0.net/post/niti-aayogs-education-ai-challenge/</link>
+      <pubDate>Thu, 03 Aug 2017 00:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/niti-aayogs-education-ai-challenge/</guid>
+      <description>&amp;hellip; to Niti Aayog and will also be eligible for USD 17,000 in prizes from Omidyar Network, IBM, Google Developer Groups and Amazon Web Services. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Bug #1708190: AttributeError: &#39;module&#39; object has no attribute</title>
