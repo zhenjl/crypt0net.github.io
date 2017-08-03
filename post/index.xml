@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 12:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Aug 2017 12:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CLOUD PROVIDERS The State of OpenStack and Azure Stack</title>
+      <link>//crypt0.net/post/cloud-providers-the-state-of-openstack-and-azure-stack/</link>
+      <pubDate>Thu, 03 Aug 2017 12:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cloud-providers-the-state-of-openstack-and-azure-stack/</guid>
+      <description>years. We also look at the new Microsoft Azure Stack product for hybrid cloud. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Connect a device to the SAP Cloud Platform Internet of Things Cloud Foundry</title>
