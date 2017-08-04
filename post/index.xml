@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 04 Aug 2017 04:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 05:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comparing high availability for Google Cloud SQL and Amazon RDS</title>
+      <link>//crypt0.net/post/comparing-high-availability-for-google-cloud-sql-and-amazon-rds/</link>
+      <pubDate>Fri, 04 Aug 2017 05:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/comparing-high-availability-for-google-cloud-sql-and-amazon-rds/</guid>
+      <description>PostgreSQL in beta. RDS is AWS&amp;rsquo;s DBaaS. They both have high &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>ITS&#39; Cloud Community of Practice Features Microsoft Azure</title>
+      <link>//crypt0.net/post/its-cloud-community-of-practice-features-microsoft-azure/</link>
+      <pubDate>Fri, 04 Aug 2017 05:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/its-cloud-community-of-practice-features-microsoft-azure/</guid>
+      <description>Practice (CCoP) meeting in July. Guided by cloud operations team lead, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>The Secret to Google&#39;s Success</title>
@@ -19939,16 +19959,6 @@
       <guid>//crypt0.net/post/the-london-stock-exchange-group-is-testing-blockchain-for-private-company/</guid>
       <description>Fortune The London Stock Exchange Group (ldnxf, +2.02%) has teamed up with IBM (ibm, -1.24%) to build a blockchain -based platform to digitally issue &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Bug #1705374 realpath() of /etc/uwsgi/nova-placement-uwsgi.ini ...</title>
-      <link>//crypt0.net/post/bug-1705374-realpath-of-etcuwsginovaplacementuwsgiini-/</link>
-      <pubDate>Thu, 20 Jul 2017 05:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1705374-realpath-of-etcuwsginovaplacementuwsgiini-/</guid>
-      <description>os-nova-install.yml: failed: infra4; return false;&amp;ldquo;&amp;gt;more.
-@crypt0net</description>
     </item>
     
   </channel>
