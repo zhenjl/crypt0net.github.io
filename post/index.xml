@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 04 Aug 2017 03:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 04:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is IFTTT and IoT, and why is everyone talking about them.</title>
+      <link>//crypt0.net/post/what-is-ifttt-and-iot-and-why-is-everyone-talking-about-them/</link>
+      <pubDate>Fri, 04 Aug 2017 04:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/what-is-ifttt-and-iot-and-why-is-everyone-talking-about-them/</guid>
+      <description>Describing IFTTT (If This Then That) to someone who is unfamiliar with the service, can be tricky. Throw in IoT (Internet of Things) and you&amp;rsquo;ve got &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>DMarket looks to blockchain for cross-game virtual item marketplace</title>
@@ -19928,76 +19938,6 @@
       
       <guid>//crypt0.net/post/particle-raises-20-million-to-clean-up-the-chaos-of-450-separate-iot/</guid>
       <description>Forbes Internet of Things platform Particle has raised $20M in funding. That&amp;rsquo;s good news for Particle, but it might be even better news for the entire IoT &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Visa paves way for biometric payments</title>
-      <link>//crypt0.net/post/visa-paves-way-for-biometric-payments/</link>
-      <pubDate>Thu, 20 Jul 2017 03:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/visa-paves-way-for-biometric-payments/</guid>
-      <description>With recent high-profile hacks and data breaches, Mr Walls said the credit card giant was acutely aware of the need to get standards and &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>How to become a master threat hunter</title>
-      <link>//crypt0.net/post/how-to-become-a-master-threat-hunter/</link>
-      <pubDate>Thu, 20 Jul 2017 03:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-become-a-master-threat-hunter/</guid>
-      <description>Usually an IT professional who has been threat hunting in an environment for six months, a year, or more, will be regarded as a senior. He/she is &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Amazon drops controversial cloud contract clause to win over more customers</title>
-      <link>//crypt0.net/post/amazon-drops-controversial-cloud-contract-clause-to-win-over-more-customers/</link>
-      <pubDate>Thu, 20 Jul 2017 03:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-drops-controversial-cloud-contract-clause-to-win-over-more-customers/</guid>
-      <description>For several years, potential Amazon Web Services customers have chosen not to do business with the company due to a clause that prohibits them &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Book excerpt: &#39;Securing the Internet of Things&#39;</title>
-      <link>//crypt0.net/post/book-excerpt-securing-the-internet-of-things/</link>
-      <pubDate>Thu, 20 Jul 2017 03:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/book-excerpt-securing-the-internet-of-things/</guid>
-      <description>In this excerpt from chapter four of &amp;lsquo;Securing the Internet of Things,&amp;rsquo; authors Shancang Li and Li Da Xu explain how authentication, digital signatures, &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Brian D. Colwell: On Art, Disruption and The Internet of Things</title>
-      <link>//crypt0.net/post/brian-d-colwell-on-art-disruption-and-the-internet-of-things/</link>
-      <pubDate>Thu, 20 Jul 2017 03:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/brian-d-colwell-on-art-disruption-and-the-internet-of-things/</guid>
-      <description>What does our IoT future look like? Brian D. Colwell finds some clues in Nodel.io, a powerful gallery control system that&amp;rsquo;s modular, distributed .. and &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft to speed up China&#39;s self-driving tech with Baidu</title>
-      <link>//crypt0.net/post/microsoft-to-speed-up-chinas-selfdriving-tech-with-baidu/</link>
-      <pubDate>Thu, 20 Jul 2017 03:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-to-speed-up-chinas-selfdriving-tech-with-baidu/</guid>
-      <description>By using Azure, our partners outside of China will have access to a trustworthy and secure public cloud, enabling them to focus on innovating instead &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>The Internet of Things in association with IBM</title>
-      <link>//crypt0.net/post/the-internet-of-things-in-association-with-ibm/</link>
-      <pubDate>Thu, 20 Jul 2017 03:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-internet-of-things-in-association-with-ibm/</guid>
-      <description>knowledge. more.
 @surgethings</description>
     </item>
     
