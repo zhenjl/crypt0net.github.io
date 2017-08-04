@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 04 Aug 2017 15:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 15:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1708666 docs: admin guide import is missing several comput... : Bugs</title>
+      <link>//crypt0.net/post/bug-1708666-docs-admin-guide-import-is-missing-several-comput--bugs/</link>
+      <pubDate>Fri, 04 Aug 2017 15:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1708666-docs-admin-guide-import-is-missing-several-comput--bugs/</guid>
+      <description>This change imports some of the admin guide contents from the openstack-manuals repo into the nova docs: https://review.openstack.org/#/c/477497/ &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>China holds drill to shut down &#39;harmful&#39; websites</title>
@@ -8258,36 +8268,6 @@ Google develops high-capacity cloud data transfer device &amp;hellip; loaded in 
       
       <guid>//crypt0.net/post/microsoft-is-putting-cortana-in-charge-of-your-thermostat/</guid>
       <description>The inclusion of the Microsoft Azure cloud platform could make the thermostat a tempting choice for businesses that use the service, but it&amp;rsquo;s unclear &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google eases cloud migration with portable server</title>
-      <link>//crypt0.net/post/google-eases-cloud-migration-with-portable-server/</link>
-      <pubDate>Thu, 20 Jul 2017 15:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-eases-cloud-migration-with-portable-server/</guid>
-      <description>&amp;hellip; can be filled with information from a company&amp;rsquo;s own data centre and then sent back to Google for high-speed upload to the Google Cloud Platform. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Many Options Available for Service Provider Skills Training and</title>
-      <link>//crypt0.net/post/many-options-available-for-service-provider-skills-training-and/</link>
-      <pubDate>Thu, 20 Jul 2017 15:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/many-options-available-for-service-provider-skills-training-and/</guid>
-      <description>Web Host Industry Review Google exams, by contrast, cost only $100 each, but it takes all five to earn Google Cloud Platform Qualified Developer certification. Cisco Certified &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Transmit 5 review: File transfer utility expands support for cloud services</title>
-      <link>//crypt0.net/post/transmit-5-review-file-transfer-utility-expands-support-for-cloud-services/</link>
-      <pubDate>Thu, 20 Jul 2017 15:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/transmit-5-review-file-transfer-utility-expands-support-for-cloud-services/</guid>
-      <description>In an odd omission, Google Cloud Storage isn&amp;rsquo;t available although two similar products I&amp;rsquo;ll mention under synchronization have that Google &amp;hellip; more.
 @crypt0net</description>
     </item>
     
