@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 04 Aug 2017 20:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 21:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pip finds hash mismatch for package during install...</title>
+      <link>//crypt0.net/post/pip-finds-hash-mismatch-for-package-during-install/</link>
+      <pubDate>Fri, 04 Aug 2017 21:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/pip-finds-hash-mismatch-for-package-during-install/</guid>
+      <description>reported by pypi does not match the hash as calculated locally after download. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Carahsoft Named to CRN&#39;s 2017 Solution Provider 500 List</title>
@@ -8217,16 +8227,6 @@ Citrix brings virtual desktops and more to Google Cloud Google isn&amp;rsquo;t t
       
       <guid>//crypt0.net/post/vmware-cloud-strategy-claims-new-territory-with-wavefront-acquisition/</guid>
       <description>Previous efforts, such as vCloud Director and the short-lived vCloud Air, have failed to seriously compete with offerings from large-scale cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Bug #1705469 newton config-template change breaks previously wo...</title>
-      <link>//crypt0.net/post/bug-1705469-newton-configtemplate-change-breaks-previously-wo/</link>
-      <pubDate>Thu, 20 Jul 2017 21:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1705469-newton-configtemplate-change-breaks-previously-wo/</guid>
-      <description>template change [1] for newton has changed the results, causing things to break. more.
 @crypt0net</description>
     </item>
     
