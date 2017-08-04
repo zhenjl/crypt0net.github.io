@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 04 Aug 2017 08:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 08:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Internet of things and blockchains: help or hindrance?</title>
+      <link>//crypt0.net/post/internet-of-things-and-blockchains-help-or-hindrance/</link>
+      <pubDate>Fri, 04 Aug 2017 08:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/internet-of-things-and-blockchains-help-or-hindrance/</guid>
+      <description>Is it too early to use blockchains as a standalone solution, or are existing technologies such as the internet of things capable enough of doing the &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>New infosec products of the week: August 4, 2017</title>
@@ -929,16 +939,6 @@
       
       <guid>//crypt0.net/post/internet-of-things-how-to-securely-manage-the-unavoidable/</guid>
       <description>consequences that come along with these web-connected technologies - you&amp;rsquo;re &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Internet of things and blockchains: help or hindrance?</title>
-      <link>//crypt0.net/post/internet-of-things-and-blockchains-help-or-hindrance/</link>
-      <pubDate>Thu, 03 Aug 2017 20:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/internet-of-things-and-blockchains-help-or-hindrance/</guid>
-      <description>Is it too early to use blockchains as a standalone solution, or are existing technologies such as the internet of things capable enough of doing the &amp;hellip; more.
 @surgethings</description>
     </item>
     
@@ -19888,66 +19888,6 @@
       
       <guid>//crypt0.net/post/microsoft-adds-intelligent-cloud-to-selfdrive-network/</guid>
       <description>Microsoft and Baidu have announced plans to partner in order to take the &amp;hellip; global scale for Apollo outside of China with the Microsoft Azure cloud. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Agiloft Expands Footprint with Servers in Canada</title>
-      <link>//crypt0.net/post/agiloft-expands-footprint-with-servers-in-canada/</link>
-      <pubDate>Thu, 20 Jul 2017 08:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/agiloft-expands-footprint-with-servers-in-canada/</guid>
-      <description>&amp;hellip; business software, today announced that it would offer Canada-based hosted service of its business applications through Amazon Web Services. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Ensono CEO opens up on the US giant&#39;s UK invasion</title>
-      <link>//crypt0.net/post/ensono-ceo-opens-up-on-the-us-giants-uk-invasion/</link>
-      <pubDate>Thu, 20 Jul 2017 08:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ensono-ceo-opens-up-on-the-us-giants-uk-invasion/</guid>
-      <description>Ensono arrived in the UK with the acquisition of Staines-based Amazon Web Services (AWS) specialist Attenda in September last year, before &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>IIOT Consortium Publishes Smart Cities Edition of Journal of Innovation</title>
-      <link>//crypt0.net/post/iiot-consortium-publishes-smart-cities-edition-of-journal-of-innovation/</link>
-      <pubDate>Thu, 20 Jul 2017 08:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/iiot-consortium-publishes-smart-cities-edition-of-journal-of-innovation/</guid>
-      <description>The Industrial Internet Consortium (IIC), the global advocacy group dedicated to the Industrial Internet of Things (IIoT), has published the fourth edition &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Reliance IoT arm &#39;Unlimit&#39; partners with China&#39;s Fibocom</title>
-      <link>//crypt0.net/post/reliance-iot-arm-unlimit-partners-with-chinas-fibocom/</link>
-      <pubDate>Thu, 20 Jul 2017 08:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/reliance-iot-arm-unlimit-partners-with-chinas-fibocom/</guid>
-      <description>Internet of Things (IoT) unit Unlimit has forged a deal with China&amp;rsquo;s Fibocom to bring wireless communications modules and solutions for IoT and &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Shares At All-Time High. Is It A Buy?</title>
-      <link>//crypt0.net/post/microsoft-shares-at-alltime-high-is-it-a-buy/</link>
-      <pubDate>Thu, 20 Jul 2017 08:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-shares-at-alltime-high-is-it-a-buy/</guid>
-      <description>Microsoft&amp;rsquo;s Azure Stack, its effort at bringing Azure services to on-premises corporate data centers, is the marquee product of the company&amp;rsquo;s cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft&#39;s first smart thermostat is called GLAS, and it&#39;s gorgeous</title>
-      <link>//crypt0.net/post/microsofts-first-smart-thermostat-is-called-glas-and-its-gorgeous/</link>
-      <pubDate>Thu, 20 Jul 2017 08:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsofts-first-smart-thermostat-is-called-glas-and-its-gorgeous/</guid>
-      <description>This is Microsoft&amp;rsquo;s first smart thermostat, and it looks incredibly promising &amp;hellip; the Windows 10 IoT Core operating system and Azure Cloud computing &amp;hellip; more.
 @crypt0net</description>
     </item>
     
