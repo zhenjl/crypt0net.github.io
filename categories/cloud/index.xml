@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 04 Aug 2017 02:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 02:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon Web Services on LinkedIn: Millisecond response times not fast</title>
+      <link>//crypt0.net/post/amazon-web-services-on-linkedin-millisecond-response-times-not-fast/</link>
+      <pubDate>Fri, 04 Aug 2017 02:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-web-services-on-linkedin-millisecond-response-times-not-fast/</guid>
+      <description>generally available DynamoDB Accelerator (DAX). http://amzn.to/2tP02hm &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>The great Microcloud? Microsoft&#39;s cloud computing systems pay off</title>
