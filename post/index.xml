@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 04 Aug 2017 11:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 11:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>openstack server create missed --password option</title>
+      <link>//crypt0.net/post/openstack-server-create-missed-password-option/</link>
+      <pubDate>Fri, 04 Aug 2017 11:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-server-create-missed-password-option/</guid>
+      <description>&amp;ndash;password option like openstack server rebuild. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How can I make my home Wi-Fi faster?</title>
