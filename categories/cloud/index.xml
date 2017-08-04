@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 04 Aug 2017 22:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 23:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Citrix features coming to Google Cloud</title>
+      <link>//crypt0.net/post/citrix-features-coming-to-google-cloud/</link>
+      <pubDate>Fri, 04 Aug 2017 23:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/citrix-features-coming-to-google-cloud/</guid>
+      <description>In an effort to build stronger relationships with major developers, Citrix worked with Google to get their virtual desktops running on Google&amp;rsquo;s cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Previews New Sign-in Experience for Azure Active Directory</title>
