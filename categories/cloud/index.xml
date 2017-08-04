@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 04 Aug 2017 01:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 01:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thu Aug 3 23:07:40 UTC 2017 - running</title>
+      <link>//crypt0.net/post/thu-aug-3-230740-utc-2017--running/</link>
+      <pubDate>Fri, 04 Aug 2017 01:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/thu-aug-3-230740-utc-2017--running/</guid>
+      <description>Thu Aug 3 23:07:53 UTC 2017 I: starting to build openstack-meta-packages/buster/arm64 on jenkins.debian.net on &amp;lsquo;2017-08-03 23:07&amp;rsquo; Thu Aug 3 &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>First Hyperscale CSP with Graphic-Intensive Supportable VMs in UK</title>
