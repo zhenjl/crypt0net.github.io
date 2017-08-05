@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 05 Aug 2017 11:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Aug 2017 12:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Security News This Week: A Whole New Way to Confuse Self-Driving Cars</title>
+      <link>//crypt0.net/post/security-news-this-week-a-whole-new-way-to-confuse-selfdriving-cars/</link>
+      <pubDate>Sat, 05 Aug 2017 12:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/security-news-this-week-a-whole-new-way-to-confuse-selfdriving-cars/</guid>
+      <description>You can completely mess with the internet of things by using a $10 hardware toolyet another unsurprising but still upsetting thing to come out this &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title> From max to minimum optionality with Dentacoin</title>
@@ -8429,36 +8439,6 @@
       
       <guid>//crypt0.net/post/microsofts-glas-thermostat-makes-nest-look-old-hat/</guid>
       <description>Matter of fact, Internet of Things devices are already showing upand have been for years and by 2020 the Internet of Things market is expected to be &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Cisco: Bigger &#39;destruction of service&#39; attacks set to infect businesses</title>
-      <link>//crypt0.net/post/cisco-bigger-destruction-of-service-attacks-set-to-infect-businesses/</link>
-      <pubDate>Fri, 21 Jul 2017 11:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cisco-bigger-destruction-of-service-attacks-set-to-infect-businesses/</guid>
-      <description>&amp;ldquo;Also, with the advent of the Internet of Things (IoT), key industries are bringing more operations online, increasing attack surfaces and the potential &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>How Businesses Use the Internet of Things to Meet Consumer Demand</title>
-      <link>//crypt0.net/post/how-businesses-use-the-internet-of-things-to-meet-consumer-demand/</link>
-      <pubDate>Fri, 21 Jul 2017 11:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-businesses-use-the-internet-of-things-to-meet-consumer-demand/</guid>
-      <description>Internet of Things (IoT) is making this happen. When implemented correctly &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Kura  Where the MQTT messages has been decoded using the google protobuf?</title>
-      <link>//crypt0.net/post/kura--where-the-mqtt-messages-has-been-decoded-using-the-google-protobuf/</link>
-      <pubDate>Fri, 21 Jul 2017 11:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/kura--where-the-mqtt-messages-has-been-decoded-using-the-google-protobuf/</guid>
-      <description>message via a normal MQTT client without the need to decod it &amp;hellip; more.
 @surgethings</description>
     </item>
     
