@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 05 Aug 2017 03:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Aug 2017 04:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure AD Connect is not working correctly after an automatic upgrade</title>
+      <link>//crypt0.net/post/azure-ad-connect-is-not-working-correctly-after-an-automatic-upgrade/</link>
+      <pubDate>Sat, 05 Aug 2017 04:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-ad-connect-is-not-working-correctly-after-an-automatic-upgrade/</guid>
+      <description>the password synchronization and the password writeback features are &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Developers: New features available for Azure Analysis Services web designer</title>
+      <link>//crypt0.net/post/developers-new-features-available-for-azure-analysis-services-web-designer/</link>
+      <pubDate>Sat, 05 Aug 2017 04:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/developers-new-features-available-for-azure-analysis-services-web-designer/</guid>
+      <description>Services (AAS) web designer, a browser-based experience that adds &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Introducing the #Azure #CosmosDB Change Feed Processor Library</title>
+      <link>//crypt0.net/post/introducing-the-azure-cosmosdb-change-feed-processor-library/</link>
+      <pubDate>Sat, 05 Aug 2017 04:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/introducing-the-azure-cosmosdb-change-feed-processor-library/</guid>
+      <description>that is used for storing high-volume transactional and operational data &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Utilizing SIEM to Support Real-Time Cybersecurity Monitoring</title>
@@ -19949,56 +19979,6 @@
       <guid>//crypt0.net/post/need2know-eight-things-to-know-before-you-hit-dstreet/</guid>
       <description>&amp;hellip; to draw a new telecom policy, focusing on the internet for all and next-generation technologies such as 5G and Internet of Things, among others. more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Citrix on Google Cloud, Glass returns, &amp; Group Policy via MDM - Friday</title>
-      <link>//crypt0.net/post/citrix-on-google-cloud-glass-returns--group-policy-via-mdm--friday/</link>
-      <pubDate>Fri, 21 Jul 2017 04:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/citrix-on-google-cloud-glass-returns--group-policy-via-mdm--friday/</guid>
-      <description>Brian Madden Also: GeekOut 365, dinCloud, Windows 10 S, Google Play Protect, Check Point, Jide, and why forced iOS updates and a good thing. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How much can cyber liability insurance cost your business?</title>
-      <link>//crypt0.net/post/how-much-can-cyber-liability-insurance-cost-your-business/</link>
-      <pubDate>Fri, 21 Jul 2017 03:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-much-can-cyber-liability-insurance-cost-your-business/</guid>
-      <description>A report from the US Secret Service and Verizon Communications found that over 72% of data breaches affect SMEs. And what most small business &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Corp. (NASDAQ:MSFT) Q4 Earnings Top Estimates on Robust Cloud</title>
-      <link>//crypt0.net/post/microsoft-corp-nasdaqmsft-q4-earnings-top-estimates-on-robust-cloud/</link>
-      <pubDate>Fri, 21 Jul 2017 03:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-corp-nasdaqmsft-q4-earnings-top-estimates-on-robust-cloud/</guid>
-      <description>Library For Smart Investors Some of Azure&amp;rsquo;s competitors include Amazon Inc.&amp;rsquo;s (NASDAQ:AMZN) Amazon Web Services and offerings from Alphabet Inc.&amp;rsquo;s (NASDAQ:GOOGL) &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Skyworks Earnings Top As Apple, iPhone Chipmakers Near Buy Points</title>
-      <link>//crypt0.net/post/skyworks-earnings-top-as-apple-iphone-chipmakers-near-buy-points/</link>
-      <pubDate>Fri, 21 Jul 2017 03:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/skyworks-earnings-top-as-apple-iphone-chipmakers-near-buy-points/</guid>
-      <description>&amp;ldquo;As system-level complexity and performance requirements intensify across mobile and Internet of Things ecosystems, we are extending our product &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Smart gathers great minds, connects ideas at 5th AngelHack tilt - SunStar</title>
-      <link>//crypt0.net/post/smart-gathers-great-minds-connects-ideas-at-5th-angelhack-tilt--sunstar/</link>
-      <pubDate>Fri, 21 Jul 2017 03:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/smart-gathers-great-minds-connects-ideas-at-5th-angelhack-tilt--sunstar/</guid>
-      <description>AngelHack was also made possible by IMB, Amazon Web Services, Code for a Cause, Hewlett Packard Enterprise, Gortech Alliance, Voyager &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
