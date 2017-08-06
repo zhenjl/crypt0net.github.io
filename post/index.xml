@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 06 Aug 2017 03:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Aug 2017 04:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>8 Startups Designing Smart Home Devices</title>
+      <link>//crypt0.net/post/8-startups-designing-smart-home-devices/</link>
+      <pubDate>Sun, 06 Aug 2017 04:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/8-startups-designing-smart-home-devices/</guid>
+      <description>The Internet of Thingsthe inexorable push to connect all the devices in our lives from sprinkler systems to thermostats to kitchen ovensis turning &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>The 15 Wildest What If? Stories Marvel Ever Told</title>
@@ -19299,76 +19309,6 @@
       <guid>//crypt0.net/post/walmart-and-microsoft-should-merge-to-crush-amazon--jim-cramer-explains/</guid>
       <description>TheStreet.com I had just finished reading the remarkable Microsoft (MSFT) conference call transcript, the one that showed me that Azure, the company&amp;rsquo;s cloud &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Nyotron Redefines Endpoint Protection with New Threat Agnostic Defense</title>
-      <link>//crypt0.net/post/nyotron-redefines-endpoint-protection-with-new-threat-agnostic-defense/</link>
-      <pubDate>Sat, 22 Jul 2017 04:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nyotron-redefines-endpoint-protection-with-new-threat-agnostic-defense/</guid>
-      <description>Benzinga SANTA CLARA, CA&amp;ndash;(Marketwired - Jul 21, 2017) - Nyotron, the creator of threat-agnostic security, today announced that it will demonstrate its flagship &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Readying Release of AI Bug Finder for Developers</title>
-      <link>//crypt0.net/post/microsoft-readying-release-of-ai-bug-finder-for-developers/</link>
-      <pubDate>Sat, 22 Jul 2017 03:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-readying-release-of-ai-bug-finder-for-developers/</guid>
-      <description>The cloud-based fuzz testing service for developers uses artificial intelligence techniques to track down software vulnerabilities before they become a &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Bitfury to Host Third Annual Blockchain Summit on Branson&#39;s Necker Island</title>
-      <link>//crypt0.net/post/bitfury-to-host-third-annual-blockchain-summit-on-bransons-necker-island/</link>
-      <pubDate>Sat, 22 Jul 2017 03:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bitfury-to-host-third-annual-blockchain-summit-on-bransons-necker-island/</guid>
-      <description>The annual Blockchain Summit is scheduled to begin on July 25, and this year&amp;rsquo;s event will see attendees gathering in one of the most exclusive &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Citrix Extends Google Alliance to the Cloud</title>
-      <link>//crypt0.net/post/citrix-extends-google-alliance-to-the-cloud/</link>
-      <pubDate>Sat, 22 Jul 2017 03:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/citrix-extends-google-alliance-to-the-cloud/</guid>
-      <description>Citrix has already committed to making most of its portfolio available on the Amazon Web Services (AWS) and Microsoft Azure clouds. However, in &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Discovery Day - New Zealand (Wellington)</title>
-      <link>//crypt0.net/post/microsoft-azure-discovery-day--new-zealand-wellington/</link>
-      <pubDate>Sat, 22 Jul 2017 03:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-discovery-day--new-zealand-wellington/</guid>
-      <description>is a growing collection of integrated cloud services analytics, computing, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Satya Nadella&#39;s Bets Pay Off, Microsoft Finds A New Groove</title>
-      <link>//crypt0.net/post/satya-nadellas-bets-pay-off-microsoft-finds-a-new-groove/</link>
-      <pubDate>Sat, 22 Jul 2017 03:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/satya-nadellas-bets-pay-off-microsoft-finds-a-new-groove/</guid>
-      <description>San Francisco: Microsoft on Thursday reported strong fourth-quarter &amp;hellip; In a bid to continue this momentum, Microsoft last week launched Azure Stack, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Skyworks Solutions Inc. Delivers on Its Promises</title>
-      <link>//crypt0.net/post/skyworks-solutions-inc-delivers-on-its-promises/</link>
-      <pubDate>Sat, 22 Jul 2017 03:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/skyworks-solutions-inc-delivers-on-its-promises/</guid>
-      <description>As system-level complexity and performance requirements intensify across mobile and Internet of Things ecosystems, we are extending our product &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
