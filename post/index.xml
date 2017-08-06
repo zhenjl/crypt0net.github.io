@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 05 Aug 2017 23:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Aug 2017 00:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Smart system to help beat traffic jams during Tokyo Olympics</title>
+      <link>//crypt0.net/post/smart-system-to-help-beat-traffic-jams-during-tokyo-olympics/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/smart-system-to-help-beat-traffic-jams-during-tokyo-olympics/</guid>
+      <description>&amp;hellip; Motor Corp., both sponsors for the International Olympic Committee, in developing the system based on the Internet-of-things (IoT) technology. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Bitcoin Breaks Record High, Now Over $3200 After Risky Fork into</title>
@@ -19498,16 +19508,6 @@
       
       <guid>//crypt0.net/post/godaddy-shuts-down-cloud-server-business-sells-off-plusserver-managed/</guid>
       <description>ChannelE2E GoDaddy is shutting down Cloud Servers, an Amazon Web Services (AWS) alternative for small businesses. Senior VP Raghu Murthi describes the &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>nova compute does nothing on receiving sighup signal</title>
-      <link>//crypt0.net/post/nova-compute-does-nothing-on-receiving-sighup-signal/</link>
-      <pubDate>Fri, 21 Jul 2017 23:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nova-compute-does-nothing-on-receiving-sighup-signal/</guid>
-      <description>reload the configuration file. Steps to reproduce: 1. Run nova compute service &amp;hellip; more.
 @crypt0net</description>
     </item>
     
