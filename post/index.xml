@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 07 Aug 2017 12:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 12:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>add ceph-mgr to luminous release</title>
+      <link>//crypt0.net/post/add-cephmgr-to-luminous-release/</link>
+      <pubDate>Mon, 07 Aug 2017 12:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/add-cephmgr-to-luminous-release/</guid>
+      <description>have an fully operational cluster; we need to update the ceph and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Cisco Meraki loses customer data in engineering gaffe</title>
@@ -19378,56 +19388,6 @@
       
       <guid>//crypt0.net/post/its-not-ai-as-new-ui-or-mobile-first-its-people-first-culture/</guid>
       <description>VIRTUAL REALITY EXPERIENCE DESIGNER Part of the expansion of the Internet of Things into our homes will involve the increasing use of virtual &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Ethereum Co-Founder Thinks ICOs Are a &#39;Ticking Time-Bomb&#39;</title>
-      <link>//crypt0.net/post/ethereum-cofounder-thinks-icos-are-a-ticking-timebomb/</link>
-      <pubDate>Sun, 23 Jul 2017 12:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ethereum-cofounder-thinks-icos-are-a-ticking-timebomb/</guid>
-      <description>Initial coin offerings (ICOs), which have become an emergent phenomenon of blockchain technology and digital communities, have garnered &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>What&#39;s the Big Deal about China&#39;s First Open-Source Blockchain Platform</title>
-      <link>//crypt0.net/post/whats-the-big-deal-about-chinas-first-opensource-blockchain-platform/</link>
-      <pubDate>Sun, 23 Jul 2017 12:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/whats-the-big-deal-about-chinas-first-opensource-blockchain-platform/</guid>
-      <description>Finance Magnates (blog) In late July this year, Antshares China&amp;rsquo;s first open-source Blockchain platform organised a meeting at the Microsoft headquarters in Beijing which &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Is Switch Embedded Teaming ONLY used with SDNv2?</title>
-      <link>//crypt0.net/post/is-switch-embedded-teaming-only-used-with-sdnv2/</link>
-      <pubDate>Sun, 23 Jul 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/is-switch-embedded-teaming-only-used-with-sdnv2/</guid>
-      <description>&amp;hellip; technology supported when using SDNv2 in Windows Server 2016 (not NIC &amp;hellip; and is the future direction for networking high availability in Windows. &amp;hellip; deploy and maintain environments that utilize Microsoft Azure including hybrid &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>LG&#39;s Airport Robots Will Begin Assisting Travelers in Korea&#39;s Largest</title>
-      <link>//crypt0.net/post/lgs-airport-robots-will-begin-assisting-travelers-in-koreas-largest/</link>
-      <pubDate>Sun, 23 Jul 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/lgs-airport-robots-will-begin-assisting-travelers-in-koreas-largest/</guid>
-      <description>Interesting Engineering LG&amp;rsquo;s dream of robots for human usage is part of the IoT (Internet of Things) ecosystem development. LG has introduced four robots to expand its IoT &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>The Vetr Inc. Lowers Southwest Airlines Company (LUV) to Hold</title>
-      <link>//crypt0.net/post/the-vetr-inc-lowers-southwest-airlines-company-luv-to-hold/</link>
-      <pubDate>Sun, 23 Jul 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-vetr-inc-lowers-southwest-airlines-company-luv-to-hold/</guid>
-      <description>&amp;hellip; mobile tracking machine-to-machine (M2M) devices, communications and applications software and cloud services. The Firm offers ancillary service &amp;hellip; more.
 @surgethings</description>
     </item>
     
