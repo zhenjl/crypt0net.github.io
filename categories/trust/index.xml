@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 07 Aug 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 18:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Let There Be Data-Focused Risk Assessments</title>
+      <link>//crypt0.net/post/let-there-be-datafocused-risk-assessments/</link>
+      <pubDate>Mon, 07 Aug 2017 18:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/let-there-be-datafocused-risk-assessments/</guid>
+      <description>We&amp;rsquo;re now in a new era of stealthy attackers who enter systems undetected, often through phishing emails, using previously stolen credentials or &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Daily Security News from @trustpath - Aug 7, 2017</title>
@@ -60,16 +70,6 @@ Utilizing SIEM to Support Real-Time Cybersecurity Monitoring SIEM solutions are 
       
       <guid>//crypt0.net/post/how-zero-trust-networks-can-help-hospitals-strengthen-cybersecurity/</guid>
       <description>These sometimes are called flat networks, and many of the largest data breaches were on flat networks. Attackers could move from one end of the &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Let There Be Data-Focused Risk Assessments</title>
-      <link>//crypt0.net/post/let-there-be-datafocused-risk-assessments/</link>
-      <pubDate>Mon, 07 Aug 2017 17:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/let-there-be-datafocused-risk-assessments/</guid>
-      <description>Statistics from the Identity Theft Resource Center (ITRC), a nonprofit that tracks U.S. data breaches, strongly suggest that 2017 will be a record breaker &amp;hellip; more.
 @trustpath</description>
     </item>
     
