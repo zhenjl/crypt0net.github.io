@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 07 Aug 2017 12:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 12:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Artificial intelligence is transforming the enterprise</title>
+      <link>//crypt0.net/post/artificial-intelligence-is-transforming-the-enterprise/</link>
+      <pubDate>Mon, 07 Aug 2017 12:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/artificial-intelligence-is-transforming-the-enterprise/</guid>
+      <description>More consumer connected devices, a greater number of machine-to-machine (M2M) connections, and sensors embedded in infrastructure and &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>add ceph-mgr to luminous release</title>
