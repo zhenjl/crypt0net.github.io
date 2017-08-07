@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 07 Aug 2017 13:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 14:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenStack&#39;s seventh birthday: A world of cake!</title>
+      <link>//crypt0.net/post/openstacks-seventh-birthday-a-world-of-cake/</link>
+      <pubDate>Mon, 07 Aug 2017 14:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstacks-seventh-birthday-a-world-of-cake/</guid>
+      <description>shared by OpenStack users around the world this month from &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Open Source Champion Zannos Joins Inocybe</title>
@@ -7776,16 +7786,6 @@ Microsoft Corporation (MSFT) Stock Rating Upgraded by Zacks Investment Sports Pe
       
       <guid>//crypt0.net/post/cloud-wars-at-the-right-price/</guid>
       <description>A study by RBC Capital last week found that Amazon.com&amp;rsquo;s AWS and Microsoft&amp;rsquo;s Azure, the two leaders in the space, had minimal effective price &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Target regions when using Azure to Azure replication with ASR</title>
-      <link>//crypt0.net/post/target-regions-when-using-azure-to-azure-replication-with-asr/</link>
-      <pubDate>Sun, 23 Jul 2017 14:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/target-regions-when-using-azure-to-azure-replication-with-asr/</guid>
-      <description>Q. When using Azure to Azure replication with Azure Site Recovery can I replicate to any Azure region? A. When using the Azure to Azure (A2A) &amp;hellip; more.
 @crypt0net</description>
     </item>
     
