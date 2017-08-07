@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 07 Aug 2017 07:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 08:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Qualys CISO on making everything visibile and secure</title>
+      <link>//crypt0.net/post/qualys-ciso-on-making-everything-visibile-and-secure/</link>
+      <pubDate>Mon, 07 Aug 2017 08:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/qualys-ciso-on-making-everything-visibile-and-secure/</guid>
+      <description>We just announced CloudView, which is ability to get a security posture view on Azure, Google Cloud, AWS across containers, as well as instances &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>New OpenStack report recommends ways to increase women&#39;s contributions to</title>
