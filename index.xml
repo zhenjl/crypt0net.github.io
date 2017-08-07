@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 07 Aug 2017 02:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 02:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Utilizing SIEM to Support Real-Time Cybersecurity Monitoring</title>
+      <link>//crypt0.net/post/utilizing-siem-to-support-realtime-cybersecurity-monitoring/</link>
+      <pubDate>Mon, 07 Aug 2017 02:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/utilizing-siem-to-support-realtime-cybersecurity-monitoring/</guid>
+      <description>SIEM solutions are made up of security information management (SIM) and security event management (SEM) technology. The solution is deployed to &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Vodafone is the expert in connecting things</title>
@@ -1568,16 +1578,6 @@ OPM still not implementing some governmentwide data requirements A new report fr
       <guid>//crypt0.net/post/introducing-the-azure-cosmosdb-change-feed-processor-library/</guid>
       <description>that is used for storing high-volume transactional and operational data &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Utilizing SIEM to Support Real-Time Cybersecurity Monitoring</title>
-      <link>//crypt0.net/post/utilizing-siem-to-support-realtime-cybersecurity-monitoring/</link>
-      <pubDate>Sat, 05 Aug 2017 03:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/utilizing-siem-to-support-realtime-cybersecurity-monitoring/</guid>
-      <description>SIEM solutions are made up of security information management (SIM) and security event management (SEM) technology. The solution is deployed to &amp;hellip; more.
-@trustpath</description>
     </item>
     
     <item>
