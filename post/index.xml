@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 07 Aug 2017 11:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 11:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Cloud Machine Learning Engine: The smart person&#39;s guide</title>
+      <link>//crypt0.net/post/google-cloud-machine-learning-engine-the-smart-persons-guide/</link>
+      <pubDate>Mon, 07 Aug 2017 11:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-machine-learning-engine-the-smart-persons-guide/</guid>
+      <description>In September 2016, Google officially dubbed its cloud technologies for the enterprise Google Cloud, and offered a host of new cloud technologies and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>The 5 Candidates Most Likely to Replace IBM CEO Rometty</title>
@@ -19379,16 +19389,6 @@
       <guid>//crypt0.net/post/google-announces-cloud-app-partnership-with-citrix/</guid>
       <description>The collaboration saw the Citrix Cloud service become officially supported by the Google Cloud Platform (GCP), providing businesses with even more &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>The Internet Of Things: Now There&#39;s A Growth Story</title>
-      <link>//crypt0.net/post/the-internet-of-things-now-theres-a-growth-story/</link>
-      <pubDate>Sun, 23 Jul 2017 11:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-internet-of-things-now-theres-a-growth-story/</guid>
-      <description>Depending on who you ask, you might get a different definition of the Internet of Things (IOT). Some might even call it the Internet of Everything or the &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
