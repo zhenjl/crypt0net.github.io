@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 07 Aug 2017 23:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2017 00:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Services Roundup: Telarus, CenturyLink, Level 3, Cisco, More</title>
+      <link>//crypt0.net/post/new-services-roundup-telarus-centurylink-level-3-cisco-more/</link>
+      <pubDate>Tue, 08 Aug 2017 00:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/new-services-roundup-telarus-centurylink-level-3-cisco-more/</guid>
+      <description>Level 3 Communications introduced a single vendor-managed UC offering that runs on Amazon Web Services (AWS) with end-to-end customer &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Learn About Microsoft Azure Site Recovery and Backup Capabilities</title>
@@ -19,16 +29,6 @@
       
       <guid>//crypt0.net/post/learn-about-microsoft-azure-site-recovery-and-backup-capabilities/</guid>
       <description>If you paid attention to Microsoft&amp;rsquo;s most recent financial report you know that cloud has become a big part of their business model. In fact, it has been &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>New Services Roundup: Telarus, CenturyLink, Level 3, Cisco, More</title>
-      <link>//crypt0.net/post/new-services-roundup-telarus-centurylink-level-3-cisco-more/</link>
-      <pubDate>Mon, 07 Aug 2017 23:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/new-services-roundup-telarus-centurylink-level-3-cisco-more/</guid>
-      <description>Rackspace also launched support for businesses migrating workloads to Microsoft Azure Stack. Learn about the Azure stack support as well as &amp;hellip; more.
 @crypt0net</description>
     </item>
     
