@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 08 Aug 2017 08:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2017 09:00:06 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google pledges $3m over 3 years to 60 African Start-ups</title>
+      <link>//crypt0.net/post/google-pledges-3m-over-3-years-to-60-african-startups/</link>
+      <pubDate>Tue, 08 Aug 2017 09:00:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-pledges-3m-over-3-years-to-60-african-startups/</guid>
+      <description>The start-up also gets product credits, Google Cloud probably offering the biggest value. Access to full suite of Launchpad initiatives and connections &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Extending versioned notifications for searchlight integration</title>
@@ -8006,36 +8016,6 @@ Microsoft Q4 &amp;amp; Fiscal 2017 Report Reaching for the Clouds In cloud compu
       
       <guid>//crypt0.net/post/pokemon-go-fest-suffers-connectivity-and-server-problems/</guid>
       <description>After the launch issues last year, Niantic used Google Cloud Platform (GCP) in a bid to scale up its infrastructure. When the game launched in &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft doubles Q2 profit on strong cloud growth</title>
-      <link>//crypt0.net/post/microsoft-doubles-q2-profit-on-strong-cloud-growth/</link>
-      <pubDate>Mon, 24 Jul 2017 09:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-doubles-q2-profit-on-strong-cloud-growth/</guid>
-      <description>Revenue from Microsoft&amp;rsquo;s cloud business increased 11% to US$7.43 billion. Azure revenue nearly doubled, Microsoft said, without providing an exact &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Sapiens Intends to Leverage Microsoft&#39;s Two New Data Centres for its</title>
-      <link>//crypt0.net/post/sapiens-intends-to-leverage-microsofts-two-new-data-centres-for-its/</link>
-      <pubDate>Mon, 24 Jul 2017 09:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sapiens-intends-to-leverage-microsofts-two-new-data-centres-for-its/</guid>
-      <description>PR Newswire (press release) I am confident that Sapiens&amp;rsquo; robust presence in South Africa, the two new data centres, and the partnership between Microsoft Azure and Sapiens will &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Openstack Security group drops all ingress traffic</title>
-      <link>//crypt0.net/post/openstack-security-group-drops-all-ingress-traffic/</link>
-      <pubDate>Mon, 24 Jul 2017 08:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-security-group-drops-all-ingress-traffic/</guid>
-      <description>Hat OpenStack 10.0 &amp;hellip; Product(s); Red Hat OpenStack Platform. more.
 @crypt0net</description>
     </item>
     
