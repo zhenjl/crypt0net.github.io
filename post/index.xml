@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 08 Aug 2017 04:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2017 04:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1709233 Unauthorized: Unknown auth type: None when launchi...</title>
+      <link>//crypt0.net/post/bug-1709233-unauthorized-unknown-auth-type-none-when-launchi/</link>
+      <pubDate>Tue, 08 Aug 2017 04:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1709233-unauthorized-unknown-auth-type-none-when-launchi/</guid>
+      <description>environment according to the installation document, while I encountered one &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Threat Hunting Services Are Now a Basic Necessity</title>
@@ -19879,16 +19889,6 @@
       <guid>//crypt0.net/post/paythink-lots-of-training-and-security-layers-are-needed-to-plug-breaches/</guid>
       <description>Data breaches can cost companies significant legal fees, not to mention countless hours in court, the damage to their reputation, and consumer &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Mitel and Toshiba: What&#39;s Coming Next?</title>
-      <link>//crypt0.net/post/mitel-and-toshiba-whats-coming-next/</link>
-      <pubDate>Mon, 24 Jul 2017 04:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mitel-and-toshiba-whats-coming-next/</guid>
-      <description>These systems are currently using Amazon Web Services. The Toshiba customer base will be able to migrate at their own pace since CloudLink &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
