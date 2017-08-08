@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 08 Aug 2017 04:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2017 04:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Threat Hunting Services Are Now a Basic Necessity</title>
+      <link>//crypt0.net/post/threat-hunting-services-are-now-a-basic-necessity/</link>
+      <pubDate>Tue, 08 Aug 2017 04:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/threat-hunting-services-are-now-a-basic-necessity/</guid>
+      <description>Traditional signature-based endpoint detection triggered alerts based on the malicious nature of the malware&amp;rsquo;s binaries and revealed only the host &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Hallberg Commercial Insurors, Inc. Provides Tips Businesses Can Implement</title>
@@ -91,16 +101,6 @@
       <description>Daily Security news from @trustpath.
 UK companies will face far tougher fines if they lose customers&amp;rsquo; info in Business Insider LONDON Companies that expose their customers information in data breaches could face far harsher penalties including fines of up to 4% of &amp;hellip; more.
 Utilizing SIEM to Support Real-Time Cybersecurity Monitoring SIEM solutions are made up of security information management (SIM) and security event management (SEM) technology. The solution is deployed to &amp;hellip; more.</description>
-    </item>
-    
-    <item>
-      <title>Threat Hunting Services Are Now a Basic Necessity</title>
-      <link>//crypt0.net/post/threat-hunting-services-are-now-a-basic-necessity/</link>
-      <pubDate>Mon, 07 Aug 2017 17:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/threat-hunting-services-are-now-a-basic-necessity/</guid>
-      <description>For the past few years, the security industry has seen a gradual move away from traditional, resource-heavy endpoint protection agents to &amp;hellip; more.
-@trustpath</description>
     </item>
     
     <item>
