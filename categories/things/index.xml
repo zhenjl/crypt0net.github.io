@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 08 Aug 2017 18:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Aug 2017 19:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Connect Thingworx to an SSL MQTT Broker</title>
+      <link>//crypt0.net/post/connect-thingworx-to-an-ssl-mqtt-broker/</link>
+      <pubDate>Tue, 08 Aug 2017 19:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/connect-thingworx-to-an-ssl-mqtt-broker/</guid>
+      <description>to publish data to a mqtt broker also local with a X509 certificate to. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>KORE and Cooltrax Partner to Provide Uninterrupted Real-Time Cold Chain</title>
