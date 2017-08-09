@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 09 Aug 2017 05:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2017 05:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1709506 Random live migration failures due to ComputeServi...</title>
+      <link>//crypt0.net/post/bug-1709506-random-live-migration-failures-due-to-computeservi/</link>
+      <pubDate>Wed, 09 Aug 2017 05:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1709506-random-live-migration-failures-due-to-computeservi/</guid>
+      <description>http://logs.openstack.org/39/491439/3/gate/gate-tempest-dsvm-multinode-live -migration-ubuntu-xenial/d5c3c02/logs/subnode-2/screen-n- &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Masergy Unveils Managed Endpoint Detection and Response</title>
+      <link>//crypt0.net/post/masergy-unveils-managed-endpoint-detection-and-response/</link>
+      <pubDate>Wed, 09 Aug 2017 05:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/masergy-unveils-managed-endpoint-detection-and-response/</guid>
+      <description>launches Managed Endpoint Detection and Response service. more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Agencies Need A STEM Talent Management System</title>
@@ -20788,26 +20808,6 @@ Data Breaches Happening at Record Pace, Report Finds The number of data breaches
       <guid>//crypt0.net/post/use-google-kms-to-control-encryption-keys-in-the-cloud/</guid>
       <description>To meet this need and continue to attract large enterprise customers, Google Cloud Platform (GCP) recently added its Google Key Management &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>IoT in Personal Fitness: Where Do We Go From Here?</title>
-      <link>//crypt0.net/post/iot-in-personal-fitness-where-do-we-go-from-here/</link>
-      <pubDate>Tue, 25 Jul 2017 05:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/iot-in-personal-fitness-where-do-we-go-from-here/</guid>
-      <description>This episode of Engineering the Internet of Things will feature Andrew Baker; Executive Director of the industrial and healthcare business unit at &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Making Blockchain Technology Work for Development: The Need for Data and</title>
-      <link>//crypt0.net/post/making-blockchain-technology-work-for-development-the-need-for-data-and/</link>
-      <pubDate>Tue, 25 Jul 2017 05:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/making-blockchain-technology-work-for-development-the-need-for-data-and/</guid>
-      <description>Cutting through the layers of hype surrounding blockchain technology is tough work. Underlying the buildup in excitement, however, is a remarkable &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>
