@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 09 Aug 2017 20:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2017 23:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft: Best way to host Microsoft R Server in Azure</title>
+      <link>//crypt0.net/post/microsoft-best-way-to-host-microsoft-r-server-in-azure/</link>
+      <pubDate>Wed, 09 Aug 2017 23:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-best-way-to-host-microsoft-r-server-in-azure/</guid>
+      <description>Today I was asked whether it was better to run Microsoft R Server on a Virtual Machine / Azure Container Instance or DevTest Labs. The requirement &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>MongoDB, Tableau Expand Integration With BI Link</title>
+      <link>//crypt0.net/post/mongodb-tableau-expand-integration-with-bi-link/</link>
+      <pubDate>Wed, 09 Aug 2017 23:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mongodb-tableau-expand-integration-with-bi-link/</guid>
+      <description>&amp;hellip; database as a service on the Amazon Web Services (NASDAQ: AMZN), Google (NASDAQ: GOOGL) and Microsoft Azure (NASDAQ: MSFT) clouds. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon joins Kubernetes-focused CNCF industry group</title>
@@ -7426,86 +7446,6 @@ Your salary info might be exposed due to this Google Groups setting mistake Goog
       
       <guid>//crypt0.net/post/augmentedreality-shopping-on-your-smartphone-this-patent-hints-at/</guid>
       <description>GeekWire However, the fact that Amazon Web Services has just set up a mixed-reality tech team, added to the company&amp;rsquo;s past patents including a concept for &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Voting for OpenStack Summit Speakers Starts NOW!</title>
-      <link>//crypt0.net/post/voting-for-openstack-summit-speakers-starts-now/</link>
-      <pubDate>Tue, 25 Jul 2017 21:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/voting-for-openstack-summit-speakers-starts-now/</guid>
-      <description>2017 - 0 Comments. Have you ever flown to Sydney, Australia? I haven&amp;rsquo;t &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Alphabet Q2: Price Target Lowered To $1050</title>
-      <link>//crypt0.net/post/alphabet-q2-price-target-lowered-to-1050/</link>
-      <pubDate>Tue, 25 Jul 2017 21:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/alphabet-q2-price-target-lowered-to-1050/</guid>
-      <description>Higher TAC, along with higher proportion of revenue generated from Google Cloud and hardware, implies that operating margin will be in a &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google CEO &#39;Surprised&#39; at Cloud Uptake, Use Cases</title>
-      <link>//crypt0.net/post/google-ceo-surprised-at-cloud-uptake-use-cases/</link>
-      <pubDate>Tue, 25 Jul 2017 21:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-ceo-surprised-at-cloud-uptake-use-cases/</guid>
-      <description>Pichai said Google Cloud Platform (GCP) saw impressive growth. In Q2 the number of new deals we closed worth more than half a million dollars is &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Interview With Entrepreneur and Futurist Zack Kanter</title>
-      <link>//crypt0.net/post/interview-with-entrepreneur-and-futurist-zack-kanter/</link>
-      <pubDate>Tue, 25 Jul 2017 21:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/interview-with-entrepreneur-and-futurist-zack-kanter/</guid>
-      <description>So having been involved in those two programs and using Amazon&amp;rsquo;s Web Services, which have gotten a lot of headlines in terms of their servers for &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Is Amazon Business the Next AWS?</title>
-      <link>//crypt0.net/post/is-amazon-business-the-next-aws/</link>
-      <pubDate>Tue, 25 Jul 2017 21:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/is-amazon-business-the-next-aws/</guid>
-      <description>(See also: What Is Amazon Web Services and Why Is It So Successful?) Amazon&amp;rsquo;s move will have serious implications for buyers as well as suppliers &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Launches Partner Program To Protect Utilities</title>
-      <link>//crypt0.net/post/microsoft-launches-partner-program-to-protect-utilities/</link>
-      <pubDate>Tue, 25 Jul 2017 21:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-launches-partner-program-to-protect-utilities/</guid>
-      <description>Larry Cochrane, Azure Principal Program Manager, Energy, unveiled the &amp;hellip; for Cyber Analytics in Power and Utilities this month in a Microsoft blog. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Renault Shifts Vehicle Maintenance Book To Blockchain</title>
-      <link>//crypt0.net/post/renault-shifts-vehicle-maintenance-book-to-blockchain/</link>
-      <pubDate>Tue, 25 Jul 2017 21:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/renault-shifts-vehicle-maintenance-book-to-blockchain/</guid>
-      <description>French automobile manufacturer Renault has announced a prototype for a digital maintenance book built with Microsoft Azure&amp;rsquo;s blockchain technology &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>ZoneTV Partners with Ooyala &amp; Microsoft to Bring AI to TV Channels</title>
-      <link>//crypt0.net/post/zonetv-partners-with-ooyala--microsoft-to-bring-ai-to-tv-channels/</link>
-      <pubDate>Tue, 25 Jul 2017 21:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/zonetv-partners-with-ooyala--microsoft-to-bring-ai-to-tv-channels/</guid>
-      <description>According to Sudheer Sirivara, general manager, enterprise video at Microsoft Corp., by integrating [ZoneTV&amp;rsquo;s] content with Microsoft Azure, [it] can &amp;hellip; more.
 @crypt0net</description>
     </item>
     
