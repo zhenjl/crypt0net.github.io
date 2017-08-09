@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 09 Aug 2017 01:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2017 01:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1709497 new openstack installation fails  : Bugs : openstack-ansible</title>
+      <link>//crypt0.net/post/bug-1709497-new-openstack-installation-fails---bugs--openstackansible/</link>
+      <pubDate>Wed, 09 Aug 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1709497-new-openstack-installation-fails---bugs--openstackansible/</guid>
+      <description>setup-hosts.yml. Variable files: &amp;ldquo;-e @/etc/openstack_deploy/user_secrets.yml -e &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Military Veterans An Untapped Talent Pool for Tech industry</title>

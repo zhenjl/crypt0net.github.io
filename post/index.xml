@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 09 Aug 2017 01:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2017 01:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1709497 new openstack installation fails  : Bugs : openstack-ansible</title>
+      <link>//crypt0.net/post/bug-1709497-new-openstack-installation-fails---bugs--openstackansible/</link>
+      <pubDate>Wed, 09 Aug 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1709497-new-openstack-installation-fails---bugs--openstackansible/</guid>
+      <description>setup-hosts.yml. Variable files: &amp;ldquo;-e @/etc/openstack_deploy/user_secrets.yml -e &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Arthur Keleti to Address Risk and Security as Guest Keynote Speaker at</title>
@@ -20349,26 +20359,6 @@
       <guid>//crypt0.net/post/hybrid-gives-you-better-control-vintek/</guid>
       <description>In terms of the vendors that underpin our hybrid cloud offering, Lenovo is central in there, then we have DataCore, OpenStack and Fortinet. more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Garmin finds a new target for its wearables: seniors</title>
-      <link>//crypt0.net/post/garmin-finds-a-new-target-for-its-wearables-seniors/</link>
-      <pubDate>Tue, 25 Jul 2017 01:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/garmin-finds-a-new-target-for-its-wearables-seniors/</guid>
-      <description>K4Connect, which develops Internet of Things solutions for seniors, will implement Olathe-based Garmin&amp;rsquo;s (Nasdaq: GRMN) newest activity tracker &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>The impact of the Internet of Things</title>
-      <link>//crypt0.net/post/the-impact-of-the-internet-of-things/</link>
-      <pubDate>Tue, 25 Jul 2017 01:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-impact-of-the-internet-of-things/</guid>
-      <description>The Internet of Things (IoT) essentially refers to an ecosystem of discrete computing devices with sensors connected through the infrastructure of the &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
