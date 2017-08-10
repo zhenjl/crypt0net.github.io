@@ -7,10 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 10 Aug 2017 17:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2017 17:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon Web Services Joins Cloud Native Computing Foundation</title>
+      <link>//crypt0.net/post/amazon-web-services-joins-cloud-native-computing-foundation/</link>
+      <pubDate>Thu, 10 Aug 2017 17:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-web-services-joins-cloud-native-computing-foundation/</guid>
+      <description>9, Amazon Web Services announced that it is joining the Linux Foundation&amp;rsquo;s Cloud Native Computing Foundation as a Platinum member. The move &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Datos IO RecoverX helps Maxwell Health protect MongoDB</title>
+      <link>//crypt0.net/post/datos-io-recoverx-helps-maxwell-health-protect-mongodb/</link>
+      <pubDate>Thu, 10 Aug 2017 17:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/datos-io-recoverx-helps-maxwell-health-protect-mongodb/</guid>
+      <description>&amp;hellip; that could only do full, continuous hourly backups, until the company switched to Amazon Web Services cloud backup with Datos IO RecoverX. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Every company is a tech company now (yes, even Blue Apron)</title>
+      <link>//crypt0.net/post/every-company-is-a-tech-company-now-yes-even-blue-apron/</link>
+      <pubDate>Thu, 10 Aug 2017 17:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/every-company-is-a-tech-company-now-yes-even-blue-apron/</guid>
+      <description>&amp;hellip; it learned how to run massive data centers at scale, and turned that expertise into Amazon Web Services, the market-dominating cloud computing &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>In China Cloud Push, Amazon Must Speak Fluent Chinese</title>
+      <link>//crypt0.net/post/in-china-cloud-push-amazon-must-speak-fluent-chinese/</link>
+      <pubDate>Thu, 10 Aug 2017 17:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/in-china-cloud-push-amazon-must-speak-fluent-chinese/</guid>
+      <description>As Amazon Web Services (or AWS) expands abroad, the Asia-Pacific market is one of its key targets. India (INDA) and China (MCHI) (FXI) are &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Horizon Cloud on Microsoft AzureIt Keeps Getting Better!</title>
@@ -7287,96 +7327,6 @@ Autotask CEO Mark Cattini: 3 Trends Dominate MSP Market Evolution, Growth But mo
       <description>Daily Cloud Computing news from @cloudfeednet.
 Alphabet Q2 2017: Enterprise Efforts Pay Off for Google Cloud Not long after Google Cloud senior vice president Diane Greene said that in the next five years it could overtake Amazon Web Services (AWS) as the &amp;hellip; more.
 Your salary info might be exposed due to this Google Groups setting mistake Google&amp;rsquo;s cloud boss Diane Greene can probably see all of that private information anyway.</description>
-    </item>
-    
-    <item>
-      <title>LVC: OpenStack enablement for System z DPM hypervisor</title>
-      <link>//crypt0.net/post/lvc-openstack-enablement-for-system-z-dpm-hypervisor/</link>
-      <pubDate>Wed, 26 Jul 2017 17:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/lvc-openstack-enablement-for-system-z-dpm-hypervisor/</guid>
-      <description>OpenStack enablement for System z DPM hypervisor Abstract: On IBM z &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Avere and AWS Best Practices Webinar Explores How to Build a Hybrid Cloud</title>
-      <link>//crypt0.net/post/avere-and-aws-best-practices-webinar-explores-how-to-build-a-hybrid-cloud/</link>
-      <pubDate>Wed, 26 Jul 2017 17:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/avere-and-aws-best-practices-webinar-explores-how-to-build-a-hybrid-cloud/</guid>
-      <description>Benzinga &amp;hellip; a leading provider of hybrid cloud enablement solutions, today announced an upcoming webinar with Amazon Web Services (AWS) covering best &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How T-Mobile is using containers in production to increase uptime and save</title>
-      <link>//crypt0.net/post/how-tmobile-is-using-containers-in-production-to-increase-uptime-and-save/</link>
-      <pubDate>Wed, 26 Jul 2017 17:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-tmobile-is-using-containers-in-production-to-increase-uptime-and-save/</guid>
-      <description>GeekWire T-Mobile is still edging onto the cloud: it&amp;rsquo;s running about 15 percent of its app workloads on Amazon Web Services, McCann said, leaving an awful lot &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft announces cloud container tool to take on Google</title>
-      <link>//crypt0.net/post/microsoft-announces-cloud-container-tool-to-take-on-google/</link>
-      <pubDate>Wed, 26 Jul 2017 17:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-announces-cloud-container-tool-to-take-on-google/</guid>
-      <description>Alphabet already has a similar product in the Google Container Engine for its Google Cloud Platform. Microsoft reported a 97% year-over-year growth &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft introduces tool to make Blockchain services more usable</title>
-      <link>//crypt0.net/post/microsoft-introduces-tool-to-make-blockchain-services-more-usable/</link>
-      <pubDate>Wed, 26 Jul 2017 17:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-introduces-tool-to-make-blockchain-services-more-usable/</guid>
-      <description>Microsoft launched Azure Blockchain-as-a-Service in November 2015, but had to solve for creating applications &amp;ldquo;new environments, wrote Marley &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft launches new container service, joins Cloud Native group,</title>
-      <link>//crypt0.net/post/microsoft-launches-new-container-service-joins-cloud-native-group/</link>
-      <pubDate>Wed, 26 Jul 2017 17:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-launches-new-container-service-joins-cloud-native-group/</guid>
-      <description>GeekWire Amazon Web Services is now the only major cloud company that hasn&amp;rsquo;t joined the influential foundation, although it seems AWS is at least thinking &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>What Is the Azure App Service?</title>
-      <link>//crypt0.net/post/what-is-the-azure-app-service/</link>
-      <pubDate>Wed, 26 Jul 2017 17:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-is-the-azure-app-service/</guid>
-      <description>In this post, I will discuss the Azure App Service, the heart of Microsoft&amp;rsquo;s platform-as-a-service (PaaS). This is the first bucket of things that I have started &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>When done right, app scaling boosts efficiency and lowers costs</title>
-      <link>//crypt0.net/post/when-done-right-app-scaling-boosts-efficiency-and-lowers-costs/</link>
-      <pubDate>Wed, 26 Jul 2017 17:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/when-done-right-app-scaling-boosts-efficiency-and-lowers-costs/</guid>
-      <description>For example, an Amazon Web Services (AWS) Elastic Compute Cloud instance uses a pre-defined VM size with a set number of virtual CPUs and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>ZoneTV taps Ooyala for channels launch</title>
-      <link>//crypt0.net/post/zonetv-taps-ooyala-for-channels-launch/</link>
-      <pubDate>Wed, 26 Jul 2017 17:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/zonetv-taps-ooyala-for-channels-launch/</guid>
-      <description>Flex runs on Microsoft Azure Media Services and can transform assets into various formats for distribution to multiple devices with Ooyala&amp;rsquo;s video &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
