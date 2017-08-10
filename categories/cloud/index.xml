@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 10 Aug 2017 11:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2017 11:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>k8s with OpenStack as cloud provider, Keystone auth token used by k8s may</title>
+      <link>//crypt0.net/post/k8s-with-openstack-as-cloud-provider-keystone-auth-token-used-by-k8s-may/</link>
+      <pubDate>Thu, 10 Aug 2017 11:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/k8s-with-openstack-as-cloud-provider-keystone-auth-token-used-by-k8s-may/</guid>
+      <description>What happened: With OpenStack as cloud provider, k8s uses the same keystone auth token to talk to OpenStack, but the keystone auth token sends to &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Major Companies Taking Interest In Blockchain; Microsoft, VISA, IBM, And</title>
@@ -7466,56 +7476,6 @@ Your salary info might be exposed due to this Google Groups setting mistake Goog
       
       <guid>//crypt0.net/post/top-10-cloud-service-providers-in-2017/</guid>
       <description>Companies that seemed most suitable based on these standards were Amazon Web Services of Amazon Inc, Google Cloud of Alphabet Inc, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Global HackWeek: Addressing education&#39;s big challenges with AI</title>
-      <link>//crypt0.net/post/global-hackweek-addressing-educations-big-challenges-with-ai/</link>
-      <pubDate>Wed, 26 Jul 2017 11:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/global-hackweek-addressing-educations-big-challenges-with-ai/</guid>
-      <description>The event is supported by the government of India&amp;rsquo;s NITI Aayog, tech companies such as IBM, Google Developer Groups, Amazon Web Services, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>BP starts to move workloads into Microsoft Azure</title>
-      <link>//crypt0.net/post/bp-starts-to-move-workloads-into-microsoft-azure/</link>
-      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bp-starts-to-move-workloads-into-microsoft-azure/</guid>
-      <description>BP has started migrating its workloads to Microsoft Azure from its corporate data centre as part of its global digital transformation strategy. Resources &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud: New hands-on labs for scientific data processing on Google</title>
-      <link>//crypt0.net/post/google-cloud-new-handson-labs-for-scientific-data-processing-on-google/</link>
-      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-new-handson-labs-for-scientific-data-processing-on-google/</guid>
-      <description>DABCC.com Fortunately, today, they can forget all about infrastructure, instead letting Google Cloud automatically provision and manage the computing resources &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft offers a free assessment of your enterprise&#39;s GDPR readiness</title>
-      <link>//crypt0.net/post/microsoft-offers-a-free-assessment-of-your-enterprises-gdpr-readiness/</link>
-      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-offers-a-free-assessment-of-your-enterprises-gdpr-readiness/</guid>
-      <description>Azure and other cloud-based services and products can be made to comply with the GDPR at the server level by Microsoft itself, but compliance at the &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Public cloud: Real-world lessons of strategic success</title>
-      <link>//crypt0.net/post/public-cloud-realworld-lessons-of-strategic-success/</link>
-      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/public-cloud-realworld-lessons-of-strategic-success/</guid>
-      <description>&amp;hellip; hosting spaces for sensitive corporate information such as merger and acquisition documents, is tapping Microsoft&amp;rsquo;s Azure public cloud to do this. more.
 @crypt0net</description>
     </item>
     

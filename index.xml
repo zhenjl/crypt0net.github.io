@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 10 Aug 2017 11:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2017 11:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>k8s with OpenStack as cloud provider, Keystone auth token used by k8s may</title>
+      <link>//crypt0.net/post/k8s-with-openstack-as-cloud-provider-keystone-auth-token-used-by-k8s-may/</link>
+      <pubDate>Thu, 10 Aug 2017 11:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/k8s-with-openstack-as-cloud-provider-keystone-auth-token-used-by-k8s-may/</guid>
+      <description>What happened: With OpenStack as cloud provider, k8s uses the same keystone auth token to talk to OpenStack, but the keystone auth token sends to &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>037: Boobs, dragons and data breaches</title>
@@ -19529,96 +19539,6 @@ IRS sees increase in identity theft on business tax returns and data Accounting 
       <guid>//crypt0.net/post/visa-announces-plan-to-open-two-new-data-hubs/</guid>
       <description>But, Taneja, told Webster, between the emergence of the Internet of Things, the digitization of payments and the electronification of cash, Visa sees a &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Global HackWeek: Addressing education&#39;s big challenges with AI</title>
-      <link>//crypt0.net/post/global-hackweek-addressing-educations-big-challenges-with-ai/</link>
-      <pubDate>Wed, 26 Jul 2017 11:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/global-hackweek-addressing-educations-big-challenges-with-ai/</guid>
-      <description>The event is supported by the government of India&amp;rsquo;s NITI Aayog, tech companies such as IBM, Google Developer Groups, Amazon Web Services, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Australians acting unsafely with public Wi-Fi security: wake up!</title>
-      <link>//crypt0.net/post/australians-acting-unsafely-with-public-wifi-security-wake-up/</link>
-      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/australians-acting-unsafely-with-public-wifi-security-wake-up/</guid>
-      <description>&amp;hellip; most of us don&amp;rsquo;t take precautionary measures to protect themselves, or know when they&amp;rsquo;re at risk of data breaches when accessing public Wi-Fi&amp;rdquo;. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>BP starts to move workloads into Microsoft Azure</title>
-      <link>//crypt0.net/post/bp-starts-to-move-workloads-into-microsoft-azure/</link>
-      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bp-starts-to-move-workloads-into-microsoft-azure/</guid>
-      <description>BP has started migrating its workloads to Microsoft Azure from its corporate data centre as part of its global digital transformation strategy. Resources &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>EU court: EU-Canada passenger data deal breaches privacy</title>
-      <link>//crypt0.net/post/eu-court-eucanada-passenger-data-deal-breaches-privacy/</link>
-      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/eu-court-eucanada-passenger-data-deal-breaches-privacy/</guid>
-      <description>&amp;hellip; that a deal between the EU and Canada on sharing airline passenger data breaches citizens&amp;rsquo; privacy and cannot be concluded in its current form. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud: New hands-on labs for scientific data processing on Google</title>
-      <link>//crypt0.net/post/google-cloud-new-handson-labs-for-scientific-data-processing-on-google/</link>
-      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-new-handson-labs-for-scientific-data-processing-on-google/</guid>
-      <description>DABCC.com Fortunately, today, they can forget all about infrastructure, instead letting Google Cloud automatically provision and manage the computing resources &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How the &#39;Wild West&#39; of the Internet Will Be Won</title>
-      <link>//crypt0.net/post/how-the-wild-west-of-the-internet-will-be-won/</link>
-      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-the-wild-west-of-the-internet-will-be-won/</guid>
-      <description>As thousands more &amp;ldquo;smart&amp;rdquo; machines and appliances come online each day, the internet of things will pose an even greater security risk, so long as its &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>How to improve customer experience with the internet of things</title>
-      <link>//crypt0.net/post/how-to-improve-customer-experience-with-the-internet-of-things/</link>
-      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-improve-customer-experience-with-the-internet-of-things/</guid>
-      <description>&amp;lsquo;The MagicBand, worn on the wrists of visitors to Disney&amp;rsquo;s Magic Kingdom, features a long-range radio which can be picked up by the company&amp;rsquo;s &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft offers a free assessment of your enterprise&#39;s GDPR readiness</title>
-      <link>//crypt0.net/post/microsoft-offers-a-free-assessment-of-your-enterprises-gdpr-readiness/</link>
-      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-offers-a-free-assessment-of-your-enterprises-gdpr-readiness/</guid>
-      <description>Azure and other cloud-based services and products can be made to comply with the GDPR at the server level by Microsoft itself, but compliance at the &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Public cloud: Real-world lessons of strategic success</title>
-      <link>//crypt0.net/post/public-cloud-realworld-lessons-of-strategic-success/</link>
-      <pubDate>Wed, 26 Jul 2017 11:00:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/public-cloud-realworld-lessons-of-strategic-success/</guid>
-      <description>&amp;hellip; hosting spaces for sensitive corporate information such as merger and acquisition documents, is tapping Microsoft&amp;rsquo;s Azure public cloud to do this. more.
-@crypt0net</description>
     </item>
     
     <item>
