@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 10 Aug 2017 13:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2017 13:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google slashes high-speed cloud storage costs by 71%</title>
+      <link>//crypt0.net/post/google-slashes-highspeed-cloud-storage-costs-by-71/</link>
+      <pubDate>Thu, 10 Aug 2017 13:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-slashes-highspeed-cloud-storage-costs-by-71/</guid>
+      <description>This is because the storage will persist for as long as the underlying instance runs in Google&amp;rsquo;s cloud, so as soon as that workload stops, companies &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Cybercrime in China is the same, but different</title>
@@ -18958,46 +18968,6 @@
       
       <guid>//crypt0.net/post/explicitly-set-file-permissions-on-tasks/</guid>
       <description>http://lists.openstack.org/pipermail/openstack-dev/2017-July/119800.html Steps to reproduce &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Blue Sentry Achieves AWS Migration Competency Status</title>
-      <link>//crypt0.net/post/blue-sentry-achieves-aws-migration-competency-status/</link>
-      <pubDate>Wed, 26 Jul 2017 13:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blue-sentry-achieves-aws-migration-competency-status/</guid>
-      <description>Blue Sentry, an Amazon Web Services (AWS) Partner Network (APN) Advanced tier Consulting Partner solely focused on helping businesses achieve &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Console Connect Rolls out Simple, Low Cost Data Transport between Amazon</title>
-      <link>//crypt0.net/post/console-connect-rolls-out-simple-low-cost-data-transport-between-amazon/</link>
-      <pubDate>Wed, 26 Jul 2017 13:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/console-connect-rolls-out-simple-low-cost-data-transport-between-amazon/</guid>
-      <description>Business Wire (press release) Beginning with Amazon Web Services (AWS) regions, CloudNexus is designed to provide the lowest cost, private and secure data transport between &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Level 3 unveils cloud-based Amazon Chime</title>
-      <link>//crypt0.net/post/level-3-unveils-cloudbased-amazon-chime/</link>
-      <pubDate>Wed, 26 Jul 2017 13:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/level-3-unveils-cloudbased-amazon-chime/</guid>
-      <description>&amp;hellip; single vendor-managed, unified communications solution that runs on Amazon Web Services (AWS) with Level 3 providing the end-to-end customer &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>TABB Group Announces FinTech Festival November 2</title>
-      <link>//crypt0.net/post/tabb-group-announces-fintech-festival-november-2/</link>
-      <pubDate>Wed, 26 Jul 2017 13:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/tabb-group-announces-fintech-festival-november-2/</guid>
-      <description>Lead sponsors of the event include Cognizant, Amazon Web Services (AWS) and Portware. The full agenda for the TABB Group FinTech Festival can &amp;hellip; more.
 @crypt0net</description>
     </item>
     
