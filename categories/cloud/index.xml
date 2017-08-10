@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 10 Aug 2017 16:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2017 16:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Seamless Upgrades: The Next Frontier for OpenStack</title>
+      <link>//crypt0.net/post/seamless-upgrades-the-next-frontier-for-openstack/</link>
+      <pubDate>Thu, 10 Aug 2017 16:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/seamless-upgrades-the-next-frontier-for-openstack/</guid>
+      <description>Complexity or Compromise, we detailed both why it&amp;rsquo;s important to upgrade &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Training links for Microsoft and Azure</title>
@@ -69,16 +79,6 @@
       
       <guid>//crypt0.net/post/azure-with-scott-guthrie-custom-dashboards-and-azure-monitor/</guid>
       <description>InfoQ had the exclusive opportunity to speak with Microsoft executive vice president, Scott Guthrie, to discuss Microsoft Azure and his recent Red Shirt &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Unveils Coco: An Open-Source Blockchain Framework</title>
-      <link>//crypt0.net/post/microsoft-unveils-coco-an-opensource-blockchain-framework/</link>
-      <pubDate>Thu, 10 Aug 2017 15:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-unveils-coco-an-opensource-blockchain-framework/</guid>
-      <description>Then Microsoft added more identity and security features, integrating its BaaS platform with Microsoft Azure Active Directory, introducing new secure &amp;hellip; more.
 @crypt0net</description>
     </item>
     
