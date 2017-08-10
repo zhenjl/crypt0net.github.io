@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 10 Aug 2017 07:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2017 07:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Announcing the new and improved Azure Log Analytics</title>
+      <link>//crypt0.net/post/announcing-the-new-and-improved-azure-log-analytics/</link>
+      <pubDate>Thu, 10 Aug 2017 07:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/announcing-the-new-and-improved-azure-log-analytics/</guid>
+      <description>enabling you to create business flows, notifications, and much more. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Bug #1709747 500 error MessagingTimeout from API when getting S...</title>
@@ -7436,16 +7446,6 @@ Your salary info might be exposed due to this Google Groups setting mistake Goog
       
       <guid>//crypt0.net/post/rightscales-optima-tool-helps-companies-manage-cloud-computing-costs/</guid>
       <description>The software is compatible with Amazon Web Services, Microsoft Azure, Google Cloud Platform, IBM SoftLayer and private clouds. The main idea &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>First Look: Azure Web Application Firewall</title>
-      <link>//crypt0.net/post/first-look-azure-web-application-firewall/</link>
-      <pubDate>Wed, 26 Jul 2017 07:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/first-look-azure-web-application-firewall/</guid>
-      <description>Microsoft has recently added an option to its Azure public cloud to build &amp;hellip; Although the Azure Web Application Firewall is a Microsoft solution, &amp;hellip; more.
 @crypt0net</description>
     </item>
     
