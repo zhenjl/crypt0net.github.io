@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 11 Aug 2017 19:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 19:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cloud data management - a guide for resellers</title>
+      <link>//crypt0.net/post/cloud-data-management--a-guide-for-resellers/</link>
+      <pubDate>Fri, 11 Aug 2017 19:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cloud-data-management--a-guide-for-resellers/</guid>
+      <description>The easiest customers to attract to CDM are going to be the businesses who have already embraced cloud in some form, particularly Microsoft Azure &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>VMware Horizon Cloud on Microsoft Azure  It Keeps Getting Better!</title>
+      <link>//crypt0.net/post/vmware-horizon-cloud-on-microsoft-azure--it-keeps-getting-better/</link>
+      <pubDate>Fri, 11 Aug 2017 19:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/vmware-horizon-cloud-on-microsoft-azure--it-keeps-getting-better/</guid>
+      <description>The Horizon Cloud team has been working hard on this, and we are delighted to offer a solution with Horizon Cloud on Microsoft Azure! Each is great &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Web Services Joins Cloud Native Computing Foundation</title>
@@ -18698,26 +18718,6 @@
       
       <guid>//crypt0.net/post/rampedup-investments-in-iot-security-mean-solution-providers-better-be/</guid>
       <description>CRN As Internet of Things security threats continue to rise, solution providers and vendors say they are starting to see the tide turn when it comes to real &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>The Real Cost of Data Breaches</title>
-      <link>//crypt0.net/post/the-real-cost-of-data-breaches/</link>
-      <pubDate>Thu, 27 Jul 2017 19:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-real-cost-of-data-breaches/</guid>
-      <description>impact the cost of data breaches and how organizations can cut the resulting &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>types/paho-mqtt has no exported members</title>
-      <link>//crypt0.net/post/typespahomqtt-has-no-exported-members/</link>
-      <pubDate>Thu, 27 Jul 2017 19:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/typespahomqtt-has-no-exported-members/</guid>
-      <description>Issue 36 minutes ago 0 comments &amp;hellip; more.
 @surgethings</description>
     </item>
     
