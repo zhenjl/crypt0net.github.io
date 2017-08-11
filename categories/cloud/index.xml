@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 11 Aug 2017 14:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 15:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure with Scott Guthrie: Azure Security Center and Role Based Access</title>
+      <link>//crypt0.net/post/azure-with-scott-guthrie-azure-security-center-and-role-based-access/</link>
+      <pubDate>Fri, 11 Aug 2017 15:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-with-scott-guthrie-azure-security-center-and-role-based-access/</guid>
+      <description>InfoQ.com InfoQ had the exclusive opportunity to speak with Microsoft executive vice president Scott Guthrie to discuss Microsoft Azure and his recent Red Shirt &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft: Deploying Office 365 ProPlus with Microsoft Intune</title>
+      <link>//crypt0.net/post/microsoft-deploying-office-365-proplus-with-microsoft-intune/</link>
+      <pubDate>Fri, 11 Aug 2017 15:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-deploying-office-365-proplus-with-microsoft-intune/</guid>
+      <description>We have been hard at work with Office 365 and Windows 10 teams to create &amp;hellip; and view deployment metrics through the new Intune portal on Azure. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Nvidia shares fall as investors fret over data center growth</title>
@@ -7336,26 +7356,6 @@ Autotask CEO Mark Cattini: 3 Trends Dominate MSP Market Evolution, Growth But mo
       
       <guid>//crypt0.net/post/new-wrist-watch-tech-teams-google-unc-to-treat-posttraumatic-stress/</guid>
       <description>The information then feeds into Google Cloud servers to help researchers better understand and diagnose conditions like post traumatic stress, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>7 Cloud Security Best Practices for Amazon Web Services</title>
-      <link>//crypt0.net/post/7-cloud-security-best-practices-for-amazon-web-services/</link>
-      <pubDate>Thu, 27 Jul 2017 15:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/7-cloud-security-best-practices-for-amazon-web-services/</guid>
-      <description>offering compute power, database storage, content delivery and other &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft dives deeper into open source with launch of Azure Container</title>
-      <link>//crypt0.net/post/microsoft-dives-deeper-into-open-source-with-launch-of-azure-container/</link>
-      <pubDate>Thu, 27 Jul 2017 15:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-dives-deeper-into-open-source-with-launch-of-azure-container/</guid>
-      <description>CIO Dive Microsoft dives deeper into open source with launch of Azure Container &amp;hellip; Microsoft also announced it is joining the Cloud Native Computing &amp;hellip; more.
 @crypt0net</description>
     </item>
     

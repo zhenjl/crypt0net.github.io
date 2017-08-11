@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 11 Aug 2017 15:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 15:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure with Scott Guthrie: Azure Security Center and Role Based Access</title>
+      <link>//crypt0.net/post/azure-with-scott-guthrie-azure-security-center-and-role-based-access/</link>
+      <pubDate>Fri, 11 Aug 2017 15:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-with-scott-guthrie-azure-security-center-and-role-based-access/</guid>
+      <description>InfoQ.com InfoQ had the exclusive opportunity to speak with Microsoft executive vice president Scott Guthrie to discuss Microsoft Azure and his recent Red Shirt &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft: Deploying Office 365 ProPlus with Microsoft Intune</title>
+      <link>//crypt0.net/post/microsoft-deploying-office-365-proplus-with-microsoft-intune/</link>
+      <pubDate>Fri, 11 Aug 2017 15:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-deploying-office-365-proplus-with-microsoft-intune/</guid>
+      <description>We have been hard at work with Office 365 and Windows 10 teams to create &amp;hellip; and view deployment metrics through the new Intune portal on Azure. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Connected Home Devices: The Internet of Things</title>
@@ -19377,46 +19397,6 @@ CrowdStrike Debuts Cybersecurity Search Engine Technology at Black Hat &amp;ldqu
       
       <guid>//crypt0.net/post/successful-launches-have-iridium-looking-forward/</guid>
       <description>The commercial service segment posted sharper sales gains of 5%, and a 20% jump in the number of machine-to-machine data subscribers drove the &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>7 Cloud Security Best Practices for Amazon Web Services</title>
-      <link>//crypt0.net/post/7-cloud-security-best-practices-for-amazon-web-services/</link>
-      <pubDate>Thu, 27 Jul 2017 15:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/7-cloud-security-best-practices-for-amazon-web-services/</guid>
-      <description>offering compute power, database storage, content delivery and other &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>List of data breaches and cyber attacks in July 2017  143 million records</title>
-      <link>//crypt0.net/post/list-of-data-breaches-and-cyber-attacks-in-july-2017--143-million-records/</link>
-      <pubDate>Thu, 27 Jul 2017 15:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/list-of-data-breaches-and-cyber-attacks-in-july-2017--143-million-records/</guid>
-      <description>The DEFCON conference begins in Las Vegas today, and roughly 18,000 security researchers, IT professionals and hacking enthusiasts are expected &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Microsoft dives deeper into open source with launch of Azure Container</title>
-      <link>//crypt0.net/post/microsoft-dives-deeper-into-open-source-with-launch-of-azure-container/</link>
-      <pubDate>Thu, 27 Jul 2017 15:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-dives-deeper-into-open-source-with-launch-of-azure-container/</guid>
-      <description>CIO Dive Microsoft dives deeper into open source with launch of Azure Container &amp;hellip; Microsoft also announced it is joining the Cloud Native Computing &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>ORBCOMM to Host Second Quarter 2017 Results Conference Call</title>
-      <link>//crypt0.net/post/orbcomm-to-host-second-quarter-2017-results-conference-call/</link>
-      <pubDate>Thu, 27 Jul 2017 15:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/orbcomm-to-host-second-quarter-2017-results-conference-call/</guid>
-      <description>ORBCOMM Inc. (Nasdaq:ORBC), a global provider of Machine-to-Machine (M2M) and Internet of Things (IoT) solutions, today announced that its &amp;hellip; more.
 @surgethings</description>
     </item>
     
