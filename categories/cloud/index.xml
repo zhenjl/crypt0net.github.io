@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 11 Aug 2017 06:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 06:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon Web Services Joins Cloud Native Computing Foundation</title>
+      <link>//crypt0.net/post/amazon-web-services-joins-cloud-native-computing-foundation/</link>
+      <pubDate>Fri, 11 Aug 2017 06:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-web-services-joins-cloud-native-computing-foundation/</guid>
+      <description>Although Kubernetes started out as a Google effort, it has expanded beyond the confines of Google&amp;rsquo;s cloud to become a tool to help enable multicloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Certified Microsoft Azure Infrastructure Solutions 2017</title>
@@ -390,16 +400,6 @@ Mobile Helix Announces the Release of LINK 3.3 with Local Edit and Digital Marke
       
       <guid>//crypt0.net/post/outsystems-10-now-available-in-the-microsoft-azure-marketplace/</guid>
       <description>The latest version of the OutSystems low-code application development platform, powered by Microsoft Azure, is available in the Microsoft Azure &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services Joins Cloud Native Computing Foundation</title>
-      <link>//crypt0.net/post/amazon-web-services-joins-cloud-native-computing-foundation/</link>
-      <pubDate>Thu, 10 Aug 2017 17:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-web-services-joins-cloud-native-computing-foundation/</guid>
-      <description>9, Amazon Web Services announced that it is joining the Linux Foundation&amp;rsquo;s Cloud Native Computing Foundation as a Platinum member. The move &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -7276,36 +7276,6 @@ Autotask CEO Mark Cattini: 3 Trends Dominate MSP Market Evolution, Growth But mo
       
       <guid>//crypt0.net/post/why-you-cant-beat-a-byo-digital-platform-strategy-for-best-fit-and/</guid>
       <description>Techworld Australia &amp;hellip; on-premise in one of our older costly and less efficient data centres, and newer micro-service based elements in Amazon Web Services (AWS). more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Banking Needs An Amazon Prime Mentality</title>
-      <link>//crypt0.net/post/banking-needs-an-amazon-prime-mentality/</link>
-      <pubDate>Thu, 27 Jul 2017 06:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/banking-needs-an-amazon-prime-mentality/</guid>
-      <description>&amp;hellip; Virtuous Cycle,was created before Amazon added business segments in addition to its retail marketplace such as Amazon Web Services (AWS). more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Can Amazon.com Weather a Market Downturn?</title>
-      <link>//crypt0.net/post/can-amazoncom-weather-a-market-downturn/</link>
-      <pubDate>Thu, 27 Jul 2017 06:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/can-amazoncom-weather-a-market-downturn/</guid>
-      <description>If AWS&amp;rsquo; ongoing price war with Microsoft&amp;rsquo;s (NASDAQ: MSFT) Azure and Alphabet&amp;rsquo;s (NASDAQ: GOOG) (NASDAQ: GOOGL) Google Cloud continues as &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure takes a deep plunge in the container tech, aims at beating</title>
-      <link>//crypt0.net/post/microsoft-azure-takes-a-deep-plunge-in-the-container-tech-aims-at-beating/</link>
-      <pubDate>Thu, 27 Jul 2017 06:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-takes-a-deep-plunge-in-the-container-tech-aims-at-beating/</guid>
-      <description>Blasting News Container tech is getting more buzz these days. This might be the single big reason why #Microsoft Azure is making two big announcements this week &amp;hellip; more.
 @crypt0net</description>
     </item>
     
