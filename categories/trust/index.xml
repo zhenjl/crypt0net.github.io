@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 11 Aug 2017 01:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 02:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How hunt operations can strengthen your security posture</title>
+      <link>//crypt0.net/post/how-hunt-operations-can-strengthen-your-security-posture/</link>
+      <pubDate>Fri, 11 Aug 2017 02:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-hunt-operations-can-strengthen-your-security-posture/</guid>
+      <description>Threat hunting is a search for evidence of an attacker in the network, even in the absence of an alert or indicator that an attacker has breached the &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Avoid getting lost in encryption with these easy steps</title>
