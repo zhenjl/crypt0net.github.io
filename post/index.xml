@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 11 Aug 2017 12:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 12:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hyperparameter tuning in Cloud Machine Learning Engine using Bayesian</title>
+      <link>//crypt0.net/post/hyperparameter-tuning-in-cloud-machine-learning-engine-using-bayesian/</link>
+      <pubDate>Fri, 11 Aug 2017 12:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/hyperparameter-tuning-in-cloud-machine-learning-engine-using-bayesian/</guid>
+      <description>By Puneith Kaul, Developer Programs Engineer, Cloud Machine Learning Engine; Daniel Golovin, Staff Software Engineer, Google Brain; Greg &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Swiss company ELSE raises $3 million to launch IoT nanosatellite</title>
@@ -18839,26 +18849,6 @@
       <guid>//crypt0.net/post/can-blockchain-be-key-to-overcoming-aml-challenge-in-cryptocurrency/</guid>
       <description>Special Counsel Roy Keidar of law firm Yigal Arnon &amp;amp; Co examines how Blockchain could provide the answer to the anti-money laundering issues &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Cyber Security Startup Callsign Raises $35 Million</title>
-      <link>//crypt0.net/post/cyber-security-startup-callsign-raises-35-million/</link>
-      <pubDate>Thu, 27 Jul 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cyber-security-startup-callsign-raises-35-million/</guid>
-      <description>&amp;hellip; pressure is applied when swiping on a mobile device, the company says it helps reduces the risk of criminals gaining access with stolen credentials. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>How can I integrate Squarespace with Amazon Web Services (AWS)?</title>
-      <link>//crypt0.net/post/how-can-i-integrate-squarespace-with-amazon-web-services-aws/</link>
-      <pubDate>Thu, 27 Jul 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-can-i-integrate-squarespace-with-amazon-web-services-aws/</guid>
-      <description>want to use Squarespace for the frontend and Amazon Web Services for the &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
