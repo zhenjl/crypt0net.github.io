@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 12 Aug 2017 07:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Aug 2017 07:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MQTT Switch - Availability and command payload not separately configurable</title>
+      <link>//crypt0.net/post/mqtt-switch--availability-and-command-payload-not-separately-configurable/</link>
+      <pubDate>Sat, 12 Aug 2017 07:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mqtt-switch--availability-and-command-payload-not-separately-configurable/</guid>
+      <description>not configurable to MQTT Switch - Availability and command payload not &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Blockchain Can Remove the Mess in Healthcare and Boost Consumerization</title>

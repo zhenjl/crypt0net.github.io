@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 12 Aug 2017 07:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Aug 2017 07:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MQTT Switch - Availability and command payload not separately configurable</title>
+      <link>//crypt0.net/post/mqtt-switch--availability-and-command-payload-not-separately-configurable/</link>
+      <pubDate>Sat, 12 Aug 2017 07:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mqtt-switch--availability-and-command-payload-not-separately-configurable/</guid>
+      <description>not configurable to MQTT Switch - Availability and command payload not &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>DealerSocket Concludes Google Event, Hits San Diego Next</title>
@@ -18857,16 +18867,6 @@ Report Shows Increase in Data Breaches in the First Half of 2017 In the first ha
       <guid>//crypt0.net/post/todays-channel-rundown--27-june-2017/</guid>
       <description>However, while McAfee says analytic tools like sandboxing and SIEM are &amp;ldquo;must-haves&amp;rdquo; and endpoint detection and response and user behavior &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>How to use Google Cloud Vision</title>
-      <link>//crypt0.net/post/how-to-use-google-cloud-vision/</link>
-      <pubDate>Fri, 28 Jul 2017 07:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-use-google-cloud-vision/</guid>
-      <description>2017-07-28 05:45:56 UTC #1. Can somebody explain how to use Google &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
