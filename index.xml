@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 12 Aug 2017 14:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Aug 2017 14:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Strange Compile Error of Eclipse Paho MQTT Client with mb...</title>
+      <link>//crypt0.net/post/strange-compile-error-of-eclipse-paho-mqtt-client-with-mb/</link>
+      <pubDate>Sat, 12 Aug 2017 14:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/strange-compile-error-of-eclipse-paho-mqtt-client-with-mb/</guid>
+      <description>https://developer.mbed.org/teams/mqtt/code/HelloMQTT/ with actual mbed 5 3244:4c2560, I get following Error:. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Ambrosus partners with TREKtx to apply blockchain for pharmaceutical mfg</title>
