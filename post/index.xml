@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 12 Aug 2017 02:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Aug 2017 02:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Breaches Are Coming: What Game of Thrones Teaches about Cybersecurity</title>
+      <link>//crypt0.net/post/breaches-are-coming-what-game-of-thrones-teaches-about-cybersecurity/</link>
+      <pubDate>Sat, 12 Aug 2017 02:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/breaches-are-coming-what-game-of-thrones-teaches-about-cybersecurity/</guid>
+      <description>The repeated occurrence of huge, public data breaches, the increasingly stringent compliance regulations, and the brand reputational damages &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Ola raises Rs 231 crore in a new funding round from Tekne Private Ventures</title>
@@ -18449,16 +18459,6 @@
       <guid>//crypt0.net/post/solving-traffic-the-highway-the-smart-way-and-the-long-way-off/</guid>
       <description>There are many, and the smartest solutions are using IoT-enabling technologies, such as Sigfox&amp;rsquo;s machine-to-machine communications topology, &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>The State of the Cloud in 2017</title>
-      <link>//crypt0.net/post/the-state-of-the-cloud-in-2017/</link>
-      <pubDate>Fri, 28 Jul 2017 02:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-state-of-the-cloud-in-2017/</guid>
-      <description>The order was: Amazon AWS (57 percent); Microsoft Azure (34 percent) up from 20 percent in 2016; Google Cloud (15 percent) up from 10 percent in &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
