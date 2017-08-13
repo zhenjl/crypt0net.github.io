@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 13 Aug 2017 07:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Aug 2017 07:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure Application Insights with more than one parameter</title>
+      <link>//crypt0.net/post/azure-application-insights-with-more-than-one-parameter/</link>
+      <pubDate>Sun, 13 Aug 2017 07:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-application-insights-with-more-than-one-parameter/</guid>
+      <description>than one parameter? I use appInsights.trackEvent(&amp;ldquo;WinGame&amp;rdquo;); more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How to migrate from iOS ecosystem to Android</title>
@@ -6826,16 +6836,6 @@ It&amp;rsquo;s Time to Sell Amazon While North American e-commerce sales acceler
       
       <guid>//crypt0.net/post/is-baidu-inc-adr-bidu-a-buy-the-stock-rises-again/</guid>
       <description>&amp;hellip; Livetradingnews.com which released: Baidu Inc (ADR) (NASDAQ:BIDU) Microsoft Azure Cloud on July 19, 2017, also Investorplace.com with their &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>AWS CloudFormation Supports Amazon Kinesis Analytics Applications</title>
-      <link>//crypt0.net/post/aws-cloudformation-supports-amazon-kinesis-analytics-applications/</link>
-      <pubDate>Sat, 29 Jul 2017 07:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aws-cloudformation-supports-amazon-kinesis-analytics-applications/</guid>
-      <description>English. Explore AWS solutions and products. Deutsch Espaol &amp;hellip; more.
 @crypt0net</description>
     </item>
     
