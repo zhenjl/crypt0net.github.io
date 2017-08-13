@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 13 Aug 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Aug 2017 21:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1710509 ServerMovingTests.test_evacuate sometimes fails bu...</title>
+      <link>//crypt0.net/post/bug-1710509-servermovingteststestevacuate-sometimes-fails-bu/</link>
+      <pubDate>Sun, 13 Aug 2017 21:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1710509-servermovingteststestevacuate-sometimes-fails-bu/</guid>
+      <description>http://logs.openstack.org/72/489772/2/gate/gate-nova-tox-functional-py35-ub untu-xenial/07f4a29/console.html#_2017-08- &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Aug 13, 2017</title>
@@ -6677,36 +6687,6 @@ How Google is battling to win corporate software customers against Financial Exp
       
       <guid>//crypt0.net/post/amazon-q2-net-profit-down-77-remains-committed-to-india/</guid>
       <description>Operating income of Amazon&amp;rsquo;s North America business fell 38 percent, while that from Amazon Web Services (AWS) rose 27 percent. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Nitish Kumar&#39;s about-turn, Airtel profit decline and Women&#39;s World Cup</title>
-      <link>//crypt0.net/post/nitish-kumars-aboutturn-airtel-profit-decline-and-womens-world-cup/</link>
-      <pubDate>Sat, 29 Jul 2017 20:10:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nitish-kumars-aboutturn-airtel-profit-decline-and-womens-world-cup/</guid>
-      <description>Livemint &amp;hellip; CEO Satya Nadella&amp;rsquo;s wish to push for greater adoption of Microsoft&amp;rsquo;s cloud services platform, Azure, in India, as opposed to Amazon Web Services. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How Google is battling to win corporate software customers against</title>
-      <link>//crypt0.net/post/how-google-is-battling-to-win-corporate-software-customers-against/</link>
-      <pubDate>Sat, 29 Jul 2017 20:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-google-is-battling-to-win-corporate-software-customers-against/</guid>
-      <description>Financial Express It has not yet, however, bought Google&amp;rsquo;s cloud-computing offerings, which the search giant is trying to sell in tandem with its work apps. Instead &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Passed Implementing Microsoft Azure Infrastructure Exam 70-533 to</title>
-      <link>//crypt0.net/post/passed-implementing-microsoft-azure-infrastructure-exam-70533-to/</link>
-      <pubDate>Sat, 29 Jul 2017 19:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/passed-implementing-microsoft-azure-infrastructure-exam-70533-to/</guid>
-      <description>on: Jul 29, 2017 by: Paul H. Not easy but not nearly as hard as the &amp;hellip; more.
 @crypt0net</description>
     </item>
     
