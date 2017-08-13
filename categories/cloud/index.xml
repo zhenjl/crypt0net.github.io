@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 13 Aug 2017 07:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Aug 2017 08:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Passwords: What if Everything You Know Is Wrong?</title>
+      <link>//crypt0.net/post/passwords-what-if-everything-you-know-is-wrong/</link>
+      <pubDate>Sun, 13 Aug 2017 08:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/passwords-what-if-everything-you-know-is-wrong/</guid>
+      <description>Every time there&amp;rsquo;s a notable cybersecurity breach, someone (even me) writes a comprehensive primer on the proper way to create secure passwords &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Altiris CMS in Amazon Web Services - 20000 client builds</title>
@@ -6826,16 +6836,6 @@ It&amp;rsquo;s Time to Sell Amazon While North American e-commerce sales acceler
       
       <guid>//crypt0.net/post/infuse-more-flexibility-into-openstack-heat-templates/</guid>
       <description>OpenStack admins use Heat templates to streamline cloud resource deployment. What are the templates&amp;rsquo; main components, and how can we use &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>What Happened in the Stock Market Today</title>
-      <link>//crypt0.net/post/what-happened-in-the-stock-market-today/</link>
-      <pubDate>Sat, 29 Jul 2017 08:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-happened-in-the-stock-market-today/</guid>
-      <description>Amazon Web Services had another strong growth quarter, with sales rising 42% despite price cuts and generating $916 million in operating income, &amp;hellip; more.
 @crypt0net</description>
     </item>
     
