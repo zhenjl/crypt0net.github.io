@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 13 Aug 2017 12:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Aug 2017 12:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Network Security in the Amazon Web Services Cloud</title>
+      <link>//crypt0.net/post/network-security-in-the-amazon-web-services-cloud/</link>
+      <pubDate>Sun, 13 Aug 2017 12:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/network-security-in-the-amazon-web-services-cloud/</guid>
+      <description>deliver enterprise-class infrastructure, security is taken care of. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Sony Partners With IBM to Use Blockchain in Student Data Management</title>
@@ -17860,46 +17870,6 @@
       <guid>//crypt0.net/post/why-implantable-rfid-chips-are-not-the-next-frontier-in-access-control/</guid>
       <description>For example, as carrying a physical ID badge would no longer be required, it would eliminate the potential for lost or stolen credentials. Primarily &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>&#43;35% growth registering by Internet of Things (IoT) Security market during</title>
-      <link>//crypt0.net/post/35-growth-registering-by-internet-of-things-iot-security-market-during/</link>
-      <pubDate>Sat, 29 Jul 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/35-growth-registering-by-internet-of-things-iot-security-market-during/</guid>
-      <description>MilTech The growing instances of ransomware attacks on IoT networks, mandates the critical need for reliable IoT security solutions. IoT security is gaining &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Admin can&#39;t modify flavor access</title>
-      <link>//crypt0.net/post/admin-cant-modify-flavor-access/</link>
-      <pubDate>Sat, 29 Jul 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/admin-cant-modify-flavor-access/</guid>
-      <description>flavor access to admin project 3. Login with user credentials 4. Check that flavor &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Is This Why MuleSoft, Inc. Stock Fell Today?</title>
-      <link>//crypt0.net/post/is-this-why-mulesoft-inc-stock-fell-today/</link>
-      <pubDate>Sat, 29 Jul 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/is-this-why-mulesoft-inc-stock-fell-today/</guid>
-      <description>The convergence of major technology forces, such as mobile, cloud, big data, and the Internet of Things, is driving the shift to composability and &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Zipit Receives 2017 IoT Security Excellence Award</title>
-      <link>//crypt0.net/post/zipit-receives-2017-iot-security-excellence-award/</link>
-      <pubDate>Sat, 29 Jul 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/zipit-receives-2017-iot-security-excellence-award/</guid>
-      <description>Zipit, a provider of business and technology solutions for the Internet of Things, announced recently that the Zipit IoT Platform has been awarded a &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
