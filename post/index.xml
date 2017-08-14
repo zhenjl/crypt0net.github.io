@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 14 Aug 2017 03:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2017 03:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Can ExpressRoute connect to multiple on-premises locations</title>
+      <link>//crypt0.net/post/can-expressroute-connect-to-multiple-onpremises-locations/</link>
+      <pubDate>Mon, 14 Aug 2017 03:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/can-expressroute-connect-to-multiple-onpremises-locations/</guid>
+      <description>A. When you purchase ExpressRoute you purchase a circuit via an ExpressRoute provider. Though the provider there are two connections to Azure &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>First Domestic Deal Executed On IssueNet in the Japanese Fixed Income New</title>
