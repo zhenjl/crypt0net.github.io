@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 14 Aug 2017 03:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2017 04:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jewel -&gt; Luminous upgrade actions: filestore -&gt; bluestore and msgr1</title>
+      <link>//crypt0.net/post/jewel--luminous-upgrade-actions-filestore--bluestore-and-msgr1/</link>
+      <pubDate>Mon, 14 Aug 2017 04:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/jewel--luminous-upgrade-actions-filestore--bluestore-and-msgr1/</guid>
+      <description>Cloud Archive, a natural question is how to upgrade to Pike not only in terms &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Can ExpressRoute connect to multiple on-premises locations</title>
