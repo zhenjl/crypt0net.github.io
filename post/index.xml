@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 15 Aug 2017 06:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 07:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Security surprises arising from the Internet of Things (IoT)  Stuart</title>
+      <link>//crypt0.net/post/security-surprises-arising-from-the-internet-of-things-iot--stuart/</link>
+      <pubDate>Tue, 15 Aug 2017 07:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/security-surprises-arising-from-the-internet-of-things-iot--stuart/</guid>
+      <description>Security surprises arising from the Internet of Things (IoT) Stuart Madnick. August 14, 2017 3:22 pm. MIT Sloan Professor Stuart Madnick. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Practical Examples Of How Blockchains Will Be Used In Legal Firms</title>
@@ -18300,36 +18310,6 @@
       <guid>//crypt0.net/post/googles-autumn-adopt-a-startup-opens-up-for-irish-applicants/</guid>
       <description>Seven runners-up will also be eligible for the program, along with $20,000 Google Cloud Credits while one company will also win 6 months free hot &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Nick Gibbons: Secure your drone  or pay the price</title>
-      <link>//crypt0.net/post/nick-gibbons-secure-your-drone--or-pay-the-price/</link>
-      <pubDate>Mon, 31 Jul 2017 07:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nick-gibbons-secure-your-drone--or-pay-the-price/</guid>
-      <description>In these cases, hacking of the drone itself or its supporting software may result in either physical misuse or data breaches. Hacking for the physical &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>review.openstack Code Review - openstack/zaqar.git/commitdiff</title>
-      <link>//crypt0.net/post/reviewopenstack-code-review--openstackzaqargitcommitdiff/</link>
-      <pubDate>Mon, 31 Jul 2017 06:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/reviewopenstack-code-review--openstackzaqargitcommitdiff/</guid>
-      <description>+0000 (05:11 +0000). committer, Gerrit Code Review &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Somewhat Positive News Coverage Extremely Likely to Affect Acorn Energy</title>
-      <link>//crypt0.net/post/somewhat-positive-news-coverage-extremely-likely-to-affect-acorn-energy/</link>
-      <pubDate>Mon, 31 Jul 2017 06:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/somewhat-positive-news-coverage-extremely-likely-to-affect-acorn-energy/</guid>
-      <description>Chaffey Breeze &amp;hellip; Security Sonar Solutions (DSIT), Smart Grid Distribution Automation (GridSense) and Machine-to-Machine Critical Asset Monitoring &amp;amp; Control (M2M) &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
