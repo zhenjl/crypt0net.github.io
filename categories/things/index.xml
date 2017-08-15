@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 15 Aug 2017 15:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 16:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stuxnet: The smart person&#39;s guide</title>
+      <link>//crypt0.net/post/stuxnet-the-smart-persons-guide/</link>
+      <pubDate>Tue, 15 Aug 2017 16:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/stuxnet-the-smart-persons-guide/</guid>
+      <description>Stuxnet spreads from machine to machine while looking for Siemen&amp;rsquo;s STEP 7 software used to control PLCs. Once it locates a machine with STEP 7 &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Wireless temperature monitoring and tracking solution now available for</title>
+      <link>//crypt0.net/post/wireless-temperature-monitoring-and-tracking-solution-now-available-for/</link>
+      <pubDate>Tue, 15 Aug 2017 16:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/wireless-temperature-monitoring-and-tracking-solution-now-available-for/</guid>
+      <description>Pizza Marketplace Digi International, a global provider of machine-to-machine and Internet of Things, connectivity products and services, has launched the Digi Data &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Create your own Weather Station with SAP Cloud Platform Internet of Things</title>
