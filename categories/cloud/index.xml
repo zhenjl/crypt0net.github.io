@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 15 Aug 2017 01:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 02:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1710743 In case of HA with different openstack/config node...</title>
+      <link>//crypt0.net/post/bug-1710743-in-case-of-ha-with-different-openstackconfig-node/</link>
+      <pubDate>Tue, 15 Aug 2017 02:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1710743-in-case-of-ha-with-different-openstackconfig-node/</guid>
+      <description>not starting. Bug #1710743 reported by wenqing liang 15 minutes ago. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>AWS still &#39;cheetah in the room&#39; despite Google, Microsoft gaining speed,</title>
