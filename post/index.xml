@@ -7,10 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 15 Aug 2017 20:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 21:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon Web Services announce Amazon Macie</title>
+      <link>//crypt0.net/post/amazon-web-services-announce-amazon-macie/</link>
+      <pubDate>Tue, 15 Aug 2017 21:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-web-services-announce-amazon-macie/</guid>
+      <description>Amazon Web Services announced a new security service called Amazon Macie at an event in NY on Monday. AWS will charge by the GBs of S3 &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Barracuda Adds AWS Support to Backup Product</title>
+      <link>//crypt0.net/post/barracuda-adds-aws-support-to-backup-product/</link>
+      <pubDate>Tue, 15 Aug 2017 21:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/barracuda-adds-aws-support-to-backup-product/</guid>
+      <description>Barracuda Networks on Tuesday expanded support for its Barracuda Backup Intronis MSP Edition to Amazon Web Services (AWS). Up until now &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Movers &amp; Shakers: IBM Sues CIO, IT Execs Change Industries</title>
+      <link>//crypt0.net/post/movers--shakers-ibm-sues-cio-it-execs-change-industries/</link>
+      <pubDate>Tue, 15 Aug 2017 21:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/movers--shakers-ibm-sues-cio-it-execs-change-industries/</guid>
+      <description>Smith signed on with Amazon Web Services (AWS), the world&amp;rsquo;s leading cloud storage company and direct competitor to IBM. The suit alleges Smith is &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Uber agrees to 20 years of audits after FTC raised privacy, security</title>
+      <link>//crypt0.net/post/uber-agrees-to-20-years-of-audits-after-ftc-raised-privacy-security/</link>
+      <pubDate>Tue, 15 Aug 2017 21:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/uber-agrees-to-20-years-of-audits-after-ftc-raised-privacy-security/</guid>
+      <description>CNET &amp;hellip; complaint include giving all engineers a single access key to all the data Uber stores with Amazon Web Services, lacking multifactor authentication &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Blockchain startup to establish VC fund off the back of an initial coin</title>
@@ -18830,16 +18870,6 @@
       <guid>//crypt0.net/post/global-cellular-machinetomachine-market-professional-survey-report-2017/</guid>
       <description>satPRnews (press release) Global Cellular Machine-To-Machine Market Research Report 2017 Purchase This Report by calling ResearchnReports.com at +1-888-631-6977. more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Stand up infrastructure on a budget with Azure DevTest Labs</title>
-      <link>//crypt0.net/post/stand-up-infrastructure-on-a-budget-with-azure-devtest-labs/</link>
-      <pubDate>Mon, 31 Jul 2017 21:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/stand-up-infrastructure-on-a-budget-with-azure-devtest-labs/</guid>
-      <description>Instead, administrators can turn to the cloud to develop and test applications in Microsoft&amp;rsquo;s Azure DevTest Labs. This enables companies to trade in &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
