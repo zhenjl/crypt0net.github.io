@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 15 Aug 2017 19:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 20:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure Time Series Insights API, Reference Data, Ingress, and Azure Portal</title>
+      <link>//crypt0.net/post/azure-time-series-insights-api-reference-data-ingress-and-azure-portal/</link>
+      <pubDate>Tue, 15 Aug 2017 20:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-time-series-insights-api-reference-data-ingress-and-azure-portal/</guid>
+      <description>Similarly, Microsoft is also using Time Series Insights internally with innovative services like Microsoft IoT Central and Azure IoT&amp;rsquo;s Connected Factory &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Freeus, LLC to sponsor the Parks Associates&#39; Connected Health Summit:</title>
@@ -19306,16 +19316,6 @@ Site reveals little known data breaches ATLANTA, Ga.</description>
       
       <guid>//crypt0.net/post/leverage-scom-to-monitor-citrix-vdas-on-microsoft-azure/</guid>
       <description>solution gives you insights into the availability and health of your XenApp &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>SRV421 Deep Dive with AWS Mobile Services</title>
-      <link>//crypt0.net/post/srv421-deep-dive-with-aws-mobile-services/</link>
-      <pubDate>Mon, 31 Jul 2017 19:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/srv421-deep-dive-with-aws-mobile-services/</guid>
-      <description>Georgie Mathews, Product Manager, Amazon Pinpoint Dennis Hills, Solutions &amp;hellip; more.
 @crypt0net</description>
     </item>
     
