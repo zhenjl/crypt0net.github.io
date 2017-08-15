@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 15 Aug 2017 12:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 12:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS sticks to taking the hassle out of cloud data analytics with Glue</title>
+      <link>//crypt0.net/post/aws-sticks-to-taking-the-hassle-out-of-cloud-data-analytics-with-glue/</link>
+      <pubDate>Tue, 15 Aug 2017 12:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-sticks-to-taking-the-hassle-out-of-cloud-data-analytics-with-glue/</guid>
+      <description>Amazon Web Services has launched a new ETL service and a new security service that uses machine learning to classify the sensitivity of customers&amp;rsquo; &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>HOPZERO Corporation Develops New Security Control Technology To Protect</title>
@@ -18429,46 +18439,6 @@
       
       <guid>//crypt0.net/post/words-to-go-google-cloud-machine-learning-services/</guid>
       <description>Looking to infuse machine learning into your cloud apps? Use this list of terms to explore which Google cloud services offer features for speech-to-text, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>15.19% to Target, JP Morgan Reaffirms Buy Rating for Amazon (AMZN) Stock,</title>
-      <link>//crypt0.net/post/1519-to-target-jp-morgan-reaffirms-buy-rating-for-amazon-amzn-stock/</link>
-      <pubDate>Mon, 31 Jul 2017 12:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/1519-to-target-jp-morgan-reaffirms-buy-rating-for-amazon-amzn-stock/</guid>
-      <description>San Times The company has market cap of $487.55 billion. The Firm operates through three divisions: North America, International and Amazon Web Services . more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Bug #1707595 swift-init fails with TypeError: reduce() of empty...</title>
-      <link>//crypt0.net/post/bug-1707595-swiftinit-fails-with-typeerror-reduce-of-empty/</link>
-      <pubDate>Mon, 31 Jul 2017 12:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1707595-swiftinit-fails-with-typeerror-reduce-of-empty/</guid>
-      <description>2017-07-31 08:19:47.008 | +lib/swift:start_swift:831 [[ True == \T\r\u\e ]] 2017-07-31 &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cloud infra sales close to USD 11 bln in Q2 as top 4 pull away</title>
-      <link>//crypt0.net/post/cloud-infra-sales-close-to-usd-11-bln-in-q2-as-top-4-pull-away/</link>
-      <pubDate>Mon, 31 Jul 2017 12:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloud-infra-sales-close-to-usd-11-bln-in-q2-as-top-4-pull-away/</guid>
-      <description>&amp;hellip; the four leading cloud providers all maintained or grew their share in the April to June period, with Amazon Web Services (AWS) accounting for 34 &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Rackspace secures strategic channel relationship with AWS</title>
-      <link>//crypt0.net/post/rackspace-secures-strategic-channel-relationship-with-aws/</link>
-      <pubDate>Mon, 31 Jul 2017 12:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rackspace-secures-strategic-channel-relationship-with-aws/</guid>
-      <description>Back in 2015, Rackspace decided that since it couldn&amp;rsquo;t beat Amazon Web Services, it would partner with the cloud giant. Then last year, Rackspace &amp;hellip; more.
 @crypt0net</description>
     </item>
     
