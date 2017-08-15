@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 15 Aug 2017 00:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 00:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Macie secures sensitive cloud data using AI</title>
+      <link>//crypt0.net/post/aws-macie-secures-sensitive-cloud-data-using-ai/</link>
+      <pubDate>Tue, 15 Aug 2017 00:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-macie-secures-sensitive-cloud-data-using-ai/</guid>
+      <description>The service is designed to protect companies from large-scale data breaches using machine learning. For example, the system should be able to flag &amp;hellip; more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>Lessons Learned from 2017 OCR HIPAA Enforcement Actions</title>
+      <link>//crypt0.net/post/lessons-learned-from-2017-ocr-hipaa-enforcement-actions/</link>
+      <pubDate>Tue, 15 Aug 2017 00:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/lessons-learned-from-2017-ocr-hipaa-enforcement-actions/</guid>
+      <description>New features include: 1) breaches currently under investigation and reported within the last 24 months; 2) an archive of all older data breaches; 3) tips &amp;hellip; more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>The New Pandemic: Healthcare Data Breaches</title>
+      <link>//crypt0.net/post/the-new-pandemic-healthcare-data-breaches/</link>
+      <pubDate>Tue, 15 Aug 2017 00:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-new-pandemic-healthcare-data-breaches/</guid>
+      <description>Exposed medical data can cost healthcare companies millions of dollars in federal and state fines, civil actions, corrective action plans, credit &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>MQTT protocol with Psoc5lp and W5100</title>
