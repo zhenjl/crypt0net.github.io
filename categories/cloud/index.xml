@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 15 Aug 2017 02:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 03:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Job fails to download container from docker.io</title>
+      <link>//crypt0.net/post/job-fails-to-download-container-from-dockerio/</link>
+      <pubDate>Tue, 15 Aug 2017 03:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/job-fails-to-download-container-from-dockerio/</guid>
+      <description>reverse proxy cache in openstack-infra, which should be used. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon&#39;s Whole Foods Acquisition Could Hurt Microsoft</title>
@@ -6897,16 +6907,6 @@ Microsoft Azure achieves a new set of ISO and CSA certifications Microsoft has r
       
       <guid>//crypt0.net/post/microsoft-introduces-new-azure-container-instances-service-and-per-second/</guid>
       <description>InfoQ.com In a recent blog post, Microsoft introduced a new container service called Azure Container Instances. This service has been positioned, by Microsoft, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Enable cold migration with target host - Queens</title>
-      <link>//crypt0.net/post/enable-cold-migration-with-target-host--queens/</link>
-      <pubDate>Mon, 31 Jul 2017 02:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/enable-cold-migration-with-target-host--queens/</guid>
-      <description>target host currently. So add the function to specify a target host. And also &amp;hellip; more.
 @crypt0net</description>
     </item>
     
