@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 19:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 19:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft acquires Cycle Computing to bolster high performance computing on</title>
+      <link>//crypt0.net/post/microsoft-acquires-cycle-computing-to-bolster-high-performance-computing-on/</link>
+      <pubDate>Wed, 16 Aug 2017 19:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-acquires-cycle-computing-to-bolster-high-performance-computing-on/</guid>
+      <description>Cloud Tech The Cycle team can&amp;rsquo;t wait to combine CycleCloud&amp;rsquo;s technology for managing Linux and Windows compute and data workloads, with Microsoft Azure&amp;rsquo;s &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Use Azure Container Instances during workload spikes</title>
+      <link>//crypt0.net/post/use-azure-container-instances-during-workload-spikes/</link>
+      <pubDate>Wed, 16 Aug 2017 19:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/use-azure-container-instances-during-workload-spikes/</guid>
+      <description>Use Azure Container Instances during workload spikes &amp;hellip; do &amp;ndash; that is, until Microsoft recently announced its new Azure Container Instances offering. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Building security into IoT devices: the new potential for security</title>
@@ -19240,36 +19260,6 @@
       <guid>//crypt0.net/post/the-most-important-corporate-server-linux-gets-refreshed-red-hat/</guid>
       <description>ZDNet &amp;hellip; applications to start sooner. It also now supports Amazon Web Services (AWS)&amp;rsquo;s Elastic Network Adapter (ENA) to enable new network capabilities. more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Breach at Third Party Contractor Affects 18000 Anthem Members</title>
-      <link>//crypt0.net/post/breach-at-third-party-contractor-affects-18000-anthem-members/</link>
-      <pubDate>Tue, 01 Aug 2017 19:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/breach-at-third-party-contractor-affects-18000-anthem-members/</guid>
-      <description>&amp;hellip; on July 24 to the U.S. Department of Health and Human Services Office for Civil Rights, which keeps track of data breaches per 2009&amp;rsquo;s HITECH Act. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>CSX&#39;s Turnaround Strategy Faces Challenges</title>
-      <link>//crypt0.net/post/csxs-turnaround-strategy-faces-challenges/</link>
-      <pubDate>Tue, 01 Aug 2017 19:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/csxs-turnaround-strategy-faces-challenges/</guid>
-      <description>IIoT technologies will appear in real-time machine-to-machine (M2M) communication, signaling, train radios, lineside communication, level-crossings, &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Scam Report: Comparing costs: ransomware, CEO-targeting fraud</title>
-      <link>//crypt0.net/post/scam-report-comparing-costs-ransomware-ceotargeting-fraud/</link>
-      <pubDate>Tue, 01 Aug 2017 19:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/scam-report-comparing-costs-ransomware-ceotargeting-fraud/</guid>
-      <description>There are different ways to monetize all this phishing data, and it looks like the bad guys have got that down too, from selling the stolen credentials to &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
