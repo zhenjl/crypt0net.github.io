@@ -7,10 +7,90 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 22:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 23:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cybersecurity IT pros vs. policy wonks: How to bridge the communication gap</title>
+      <link>//crypt0.net/post/cybersecurity-it-pros-vs-policy-wonks-how-to-bridge-the-communication-gap/</link>
+      <pubDate>Wed, 16 Aug 2017 23:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cybersecurity-it-pros-vs-policy-wonks-how-to-bridge-the-communication-gap/</guid>
+      <description>Data breaches and cyberattacks can be extremely damaging to businesses and to people&amp;rsquo;s personal and professional lives. But two of the big &amp;ldquo;camps&amp;rdquo; &amp;hellip; more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>Geneformics Sees Lossless Compression as Answer to Cloud Genomics</title>
+      <link>//crypt0.net/post/geneformics-sees-lossless-compression-as-answer-to-cloud-genomics/</link>
+      <pubDate>Wed, 16 Aug 2017 23:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/geneformics-sees-lossless-compression-as-answer-to-cloud-genomics/</guid>
+      <description>The initial release is currently integrated into Amazon Web Services infrastructure. Geneformics, which is based in Sunnyvale, California, and has its &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Acquires Cycle Computing to Bulk Up its HPC Cloud Services</title>
+      <link>//crypt0.net/post/microsoft-acquires-cycle-computing-to-bulk-up-its-hpc-cloud-services/</link>
+      <pubDate>Wed, 16 Aug 2017 23:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-acquires-cycle-computing-to-bulk-up-its-hpc-cloud-services/</guid>
+      <description>In his announcement, Jason Zander, corporate vice president of Microsoft Azure, said his company&amp;rsquo;s extensive global cloud and Cycle Computing&amp;rsquo;s &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Introduces &#39;Event Grid&#39; to Automate Azure Serverless Computing</title>
+      <link>//crypt0.net/post/microsoft-introduces-event-grid-to-automate-azure-serverless-computing/</link>
+      <pubDate>Wed, 16 Aug 2017 23:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-introduces-event-grid-to-automate-azure-serverless-computing/</guid>
+      <description>fulfill one of the promises of so-called &amp;ldquo;serverless computing.&amp;rdquo; Event Grid lets &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft advances in the cloud computing space with latest acquisition</title>
+      <link>//crypt0.net/post/microsoft-advances-in-the-cloud-computing-space-with-latest-acquisition/</link>
+      <pubDate>Wed, 16 Aug 2017 23:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-advances-in-the-cloud-computing-space-with-latest-acquisition/</guid>
+      <description>Most significantly, the platform is currently used by all three of the major cloud vendors (Google, Amazon Web Services and Microsoft Azure), giving &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft debuts Azure Event Grid to enable more automated apps</title>
+      <link>//crypt0.net/post/microsoft-debuts-azure-event-grid-to-enable-more-automated-apps/</link>
+      <pubDate>Wed, 16 Aug 2017 23:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-debuts-azure-event-grid-to-enable-more-automated-apps/</guid>
+      <description>Companies can trigger actions using custom tooling or Azure Functions. Modeled after Amazon Web Services Inc.&amp;rsquo;s Lambda, the latter service makes &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>NAIC data security model law a mixed bag for insurers</title>
+      <link>//crypt0.net/post/naic-data-security-model-law-a-mixed-bag-for-insurers/</link>
+      <pubDate>Wed, 16 Aug 2017 23:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/naic-data-security-model-law-a-mixed-bag-for-insurers/</guid>
+      <description>Companies will have to certify compliance annually to their state insurance commissioner and give notification of data breaches within 72 hours. more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>Uber settles federal agency charges for privacy breaches</title>
+      <link>//crypt0.net/post/uber-settles-federal-agency-charges-for-privacy-breaches/</link>
+      <pubDate>Wed, 16 Aug 2017 23:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/uber-settles-federal-agency-charges-for-privacy-breaches/</guid>
+      <description>&amp;hellip; in May 2014, including more than 100,000 names and drivers&amp;rsquo; license numbers that Uber stored in a datastore operated by Amazon Web Services. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Could the security industry have it all wrong?</title>
@@ -19864,66 +19944,6 @@ Dropbox, Microsoft Vet Named Carbon Black&amp;rsquo;s Chief Revenue Officer Carb
       
       <guid>//crypt0.net/post/cloud-visibility-manage-devops-and-other-vulnerabilities/</guid>
       <description>&amp;hellip; challenges have emerged, as enterprises migrate infrastructure to Amazon Web Services (AWS), Microsoft Azure and the Google Cloud Platform. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon Cloud Customers Are Told: Don&#39;t Bypass China&#39;s internet Gates</title>
-      <link>//crypt0.net/post/amazon-cloud-customers-are-told-dont-bypass-chinas-internet-gates/</link>
-      <pubDate>Tue, 01 Aug 2017 23:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-cloud-customers-are-told-dont-bypass-chinas-internet-gates/</guid>
-      <description>Amazon Web Services&amp;rsquo; Chinese partner, Beijing Sinnet Technology Co. Ltd., sent out emails to its users asking them to delete tools enabling them to &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>ChannelLife NZ - Rackspace secures strategic channel partnership with AWS</title>
-      <link>//crypt0.net/post/channellife-nz--rackspace-secures-strategic-channel-partnership-with-aws/</link>
-      <pubDate>Tue, 01 Aug 2017 23:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/channellife-nz--rackspace-secures-strategic-channel-partnership-with-aws/</guid>
-      <description>Rackspace have sealed a channel relationship with cloud provider Amazon Web Services (AWS) in a move it says will streamline the process for &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft eats own dogfood as Bing Ads moves to Azure SQL Database</title>
-      <link>//crypt0.net/post/microsoft-eats-own-dogfood-as-bing-ads-moves-to-azure-sql-database/</link>
-      <pubDate>Tue, 01 Aug 2017 22:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-eats-own-dogfood-as-bing-ads-moves-to-azure-sql-database/</guid>
-      <description>In a recent post, Microsoft announced it has moved Bing Ads to Azure SQL Database to address performance and scalability requirements. Microsoft &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft project manager sees good fit for Node.js in Azure</title>
-      <link>//crypt0.net/post/microsoft-project-manager-sees-good-fit-for-nodejs-in-azure/</link>
-      <pubDate>Tue, 01 Aug 2017 22:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-project-manager-sees-good-fit-for-nodejs-in-azure/</guid>
-      <description>Microsoft&amp;rsquo;s recent announcement of Azure Container Instances, a new service designed to run software containers in the cloud more easily, is yet &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Rockmetric Releases Its &#39;Cognitive Search&#39; for Analytics on Microsoft Azure</title>
-      <link>//crypt0.net/post/rockmetric-releases-its-cognitive-search-for-analytics-on-microsoft-azure/</link>
-      <pubDate>Tue, 01 Aug 2017 22:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rockmetric-releases-its-cognitive-search-for-analytics-on-microsoft-azure/</guid>
-      <description>Mumbai July 31, 2017 Rockmetric launched its natural language-driven &amp;lsquo;Cognitive Search&amp;rsquo; for Analytics on Microsoft Azure. The solution &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>What is ACI? Microsoft&#39;s Azure Container Instances explained</title>
-      <link>//crypt0.net/post/what-is-aci-microsofts-azure-container-instances-explained/</link>
-      <pubDate>Tue, 01 Aug 2017 22:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-is-aci-microsofts-azure-container-instances-explained/</guid>
-      <description>Azure is rapidly turning into a container-driven public cloud, with strategic investments in tools and hires. It&amp;rsquo;s also running fast, launching new &amp;hellip; more.
 @crypt0net</description>
     </item>
     
