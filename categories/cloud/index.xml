@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 18:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Failed to start openstack image service glance</title>
+      <link>//crypt0.net/post/failed-to-start-openstack-image-service-glance/</link>
+      <pubDate>Wed, 16 Aug 2017 18:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/failed-to-start-openstack-image-service-glance/</guid>
+      <description>Systemctl status shows that OpenStack-glance-api.service has failed to start OpenStack image service but openstac-glance-registry.service is &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Aug 16, 2017</title>

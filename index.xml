@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 18:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 18:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Failed to start openstack image service glance</title>
+      <link>//crypt0.net/post/failed-to-start-openstack-image-service-glance/</link>
+      <pubDate>Wed, 16 Aug 2017 18:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/failed-to-start-openstack-image-service-glance/</guid>
+      <description>Systemctl status shows that OpenStack-glance-api.service has failed to start OpenStack image service but openstac-glance-registry.service is &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Austrian Researchers Find Security Options for RFID in Open IoT</title>
@@ -19815,36 +19825,6 @@ Dropbox, Microsoft Vet Named Carbon Black&amp;rsquo;s Chief Revenue Officer Carb
       <guid>//crypt0.net/post/you-need-a-cloud-exit-plan-even-for-aws-google-microsoft-or-ibm/</guid>
       <description>The cloud computing infrastructure marketIaaS, PaaS, and private hostingcontinues to consolidate around the four major providers, as they &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>New Zigbee Extender Expands Range of Networks in Industrial and IoT</title>
-      <link>//crypt0.net/post/new-zigbee-extender-expands-range-of-networks-in-industrial-and-iot/</link>
-      <pubDate>Tue, 01 Aug 2017 18:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/new-zigbee-extender-expands-range-of-networks-in-industrial-and-iot/</guid>
-      <description>Electronics360 &amp;hellip; by CEL has introduced a new Zigbee range extender for use in various wireless sensor network (WSN), machine-to-machine (M2M) and the Internet &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>US Army Leaders Delve Deep Into Cyberspace and Electronic Warfare Issues</title>
-      <link>//crypt0.net/post/us-army-leaders-delve-deep-into-cyberspace-and-electronic-warfare-issues/</link>
-      <pubDate>Tue, 01 Aug 2017 18:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/us-army-leaders-delve-deep-into-cyberspace-and-electronic-warfare-issues/</guid>
-      <description>TechNet Augusta also will feature TechTalk sessions that will center on subjects such as network physical security shortcomings, threat hunting and &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Why aren&#39;t distributed systems engineers working on blockchain technology?</title>
-      <link>//crypt0.net/post/why-arent-distributed-systems-engineers-working-on-blockchain-technology/</link>
-      <pubDate>Tue, 01 Aug 2017 18:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-arent-distributed-systems-engineers-working-on-blockchain-technology/</guid>
-      <description>an extremely interesting technology for Distributed Systems engineers to &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>
