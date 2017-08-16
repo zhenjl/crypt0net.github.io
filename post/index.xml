@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 02:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 03:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rivetz, Protecting Devices with Rivet Tokens</title>
+      <link>//crypt0.net/post/rivetz-protecting-devices-with-rivet-tokens/</link>
+      <pubDate>Wed, 16 Aug 2017 03:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/rivetz-protecting-devices-with-rivet-tokens/</guid>
+      <description>One of the biggest challenges facing the Internet of Things (IoT), whether it&amp;rsquo;s commercial or consumer-based, is security. How do we protect all these &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Google&#39;s speech recognition now supports Urdu</title>
@@ -19110,36 +19120,6 @@
       <guid>//crypt0.net/post/new-initiative-aims-to-deliver-on-the-promise-of-blockchain-for-identity/</guid>
       <description>A view of the 3rd annual Blockchain Summit 2017 on Necker Island hosted by The Bitfury Group. Photo by: David Paul Morris / The Bitfury Group. more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Aussie start-up&#39;s app makes it to the Microsoft Azure Marketplace</title>
-      <link>//crypt0.net/post/aussie-startups-app-makes-it-to-the-microsoft-azure-marketplace/</link>
-      <pubDate>Tue, 01 Aug 2017 02:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aussie-startups-app-makes-it-to-the-microsoft-azure-marketplace/</guid>
-      <description>The company recently announced that its software application NetConnect is now a certified solution on the Microsoft Azure Marketplace. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Rackspace wants to make AWS migrations point and click</title>
-      <link>//crypt0.net/post/rackspace-wants-to-make-aws-migrations-point-and-click/</link>
-      <pubDate>Tue, 01 Aug 2017 02:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rackspace-wants-to-make-aws-migrations-point-and-click/</guid>
-      <description>Rackspace&amp;rsquo;s &amp;ldquo;if you can&amp;rsquo;t beat them, join them&amp;rdquo; pivot around cloud partnerships has also extended to Microsoft Azure and Google Cloud Platform. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>&#39;Game of Thrones&#39; Season 7, &#39;Ballers&#39; Spoilers Leak In HBO Hack</title>
-      <link>//crypt0.net/post/game-of-thrones-season-7-ballers-spoilers-leak-in-hbo-hack/</link>
-      <pubDate>Tue, 01 Aug 2017 02:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/game-of-thrones-season-7-ballers-spoilers-leak-in-hbo-hack/</guid>
-      <description>&amp;hellip; in databases and file servers, and that also helps them to quickly quarantine risky users to prevent and contain data breaches proactively, he said. more.
-@trustpath</description>
     </item>
     
   </channel>
