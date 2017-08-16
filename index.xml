@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 21:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 21:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing Azure Event Grid  an event service for modern applications</title>
+      <link>//crypt0.net/post/introducing-azure-event-grid--an-event-service-for-modern-applications/</link>
+      <pubDate>Wed, 16 Aug 2017 21:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/introducing-azure-event-grid--an-event-service-for-modern-applications/</guid>
+      <description>serverless applications even easier to build on Azure. Azure Event Grid is a &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>ShadowPad: Attackers Hid Backdoor in Software Used by Hundreds of Large</title>
