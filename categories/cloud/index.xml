@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 15 Aug 2017 23:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 00:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft to open two new Azure regions in Australia</title>
+      <link>//crypt0.net/post/microsoft-to-open-two-new-azure-regions-in-australia/</link>
+      <pubDate>Wed, 16 Aug 2017 00:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-to-open-two-new-azure-regions-in-australia/</guid>
+      <description>Microsoft has announced the opening of two new Azure regions in Australia for serving highly-secured government data. Partnering with the local &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Consider how the DevOps process impacts infrastructure</title>
@@ -7157,16 +7167,6 @@ Amazon&amp;rsquo;s Secret Lab Will Challenge Apple in the Health Sector That&amp
       
       <guid>//crypt0.net/post/triggering-actions-with-webhooks-in-azure/</guid>
       <description>In this post, I will explain what a webhook is, in the context of Azure, and &amp;hellip; We can create a webhook in the Azure Portal or a runbook. &amp;hellip; If one of my colleagues opens the Microsoft Flow app on their phone, a new button will appear. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft&#39;s Courts Hollywood with Secure Media Cloud Services</title>
-      <link>//crypt0.net/post/microsofts-courts-hollywood-with-secure-media-cloud-services/</link>
-      <pubDate>Tue, 01 Aug 2017 00:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsofts-courts-hollywood-with-secure-media-cloud-services/</guid>
-      <description>During the SIGGRAPH 2017 computer graphics conference in Los Angeles this week, the Microsoft is showcasing its Azure Cloud Platform Hardening &amp;hellip; more.
 @crypt0net</description>
     </item>
     
