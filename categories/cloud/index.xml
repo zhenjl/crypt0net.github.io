@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 06:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 06:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Love cloudy HPC? Microsoft does, slurps Cycle Computing</title>
+      <link>//crypt0.net/post/love-cloudy-hpc-microsoft-does-slurps-cycle-computing/</link>
+      <pubDate>Wed, 16 Aug 2017 06:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/love-cloudy-hpc-microsoft-does-slurps-cycle-computing/</guid>
+      <description>Announcing the acquisition in this blog post, Microsoft Azure veep Jason Zander plugs Cycle&amp;rsquo;s tight fit with Microsoft&amp;rsquo;s cloud infrastructure, InfiniBand &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Growing allies in the OpenStack community</title>
