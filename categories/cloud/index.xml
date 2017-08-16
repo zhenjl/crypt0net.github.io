@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 07:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 07:50:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bug #1710908 scheduler.utils.merge_resources allows zero value ...</title>
+      <link>//crypt0.net/post/bug-1710908-schedulerutilsmergeresources-allows-zero-value-/</link>
+      <pubDate>Wed, 16 Aug 2017 07:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bug-1710908-schedulerutilsmergeresources-allows-zero-value-/</guid>
+      <description>can result in a sum of zero, or one of the provided keys has a value of zero &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Pexip Infinity Fusion Earns Interoperability Certification for Microsoft</title>
+      <link>//crypt0.net/post/pexip-infinity-fusion-earns-interoperability-certification-for-microsoft/</link>
+      <pubDate>Wed, 16 Aug 2017 07:50:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/pexip-infinity-fusion-earns-interoperability-certification-for-microsoft/</guid>
+      <description>CommsTrader The system can be deployed to run entirely on-premise, or in a cloud such as that offered by Microsoft Azure. Additionally, there are options available &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How are you feeling today? Don&#39;t tell us, save for it this handy</title>
