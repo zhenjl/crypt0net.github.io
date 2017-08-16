@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 23:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 23:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unable to run inventory-manage script</title>
+      <link>//crypt0.net/post/unable-to-run-inventorymanage-script/</link>
+      <pubDate>Wed, 16 Aug 2017 23:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/unable-to-run-inventorymanage-script/</guid>
+      <description>root@ubuntu:/opt/openstack-ansible/scripts# ./inventory-manage.py Traceback (most &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google Drops Big Update On Productivity Tools</title>
