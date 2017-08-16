@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 16:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 17:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Symantec Endpoint Protection for Mac does not collect Mac hardware serial</title>
+      <link>//crypt0.net/post/symantec-endpoint-protection-for-mac-does-not-collect-mac-hardware-serial/</link>
+      <pubDate>Wed, 16 Aug 2017 17:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/symantec-endpoint-protection-for-mac-does-not-collect-mac-hardware-serial/</guid>
+      <description>Unlike Windows Symantec Endpoint Protection for Mac is not collecting Hardware serial no. Serial no. is required to check comliance againts &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>5 Technologies to Investigate at VMworld</title>
@@ -19290,86 +19300,6 @@
       <guid>//crypt0.net/post/why-arent-distributed-systems-engineers-working-on-blockchain-technology/</guid>
       <description>an extremely interesting technology for Distributed Systems engineers to &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Senators introduce bill to secure Internet of Things devices</title>
-      <link>//crypt0.net/post/senators-introduce-bill-to-secure-internet-of-things-devices/</link>
-      <pubDate>Tue, 01 Aug 2017 17:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/senators-introduce-bill-to-secure-internet-of-things-devices/</guid>
-      <description>Here are 2017&amp;rsquo;s biggest hacks, leaks, and data breaches so far. Dozens of data breaches, millions of people affected. Read More. The distributed &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Study: Majority of retailers feel &#39;vulnerable&#39; to a data breach</title>
-      <link>//crypt0.net/post/study-majority-of-retailers-feel-vulnerable-to-a-data-breach/</link>
-      <pubDate>Tue, 01 Aug 2017 17:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/study-majority-of-retailers-feel-vulnerable-to-a-data-breach/</guid>
-      <description>On a positive note, U.S. retail data breaches in the past year dropped from 22% in the 2016 survey to 19% this year. This number is lower than any &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Your GDPR checklist: A step-by-step guide to ensure compliance by next</title>
-      <link>//crypt0.net/post/your-gdpr-checklist-a-stepbystep-guide-to-ensure-compliance-by-next/</link>
-      <pubDate>Tue, 01 Aug 2017 17:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/your-gdpr-checklist-a-stepbystep-guide-to-ensure-compliance-by-next/</guid>
-      <description>Director of Finance &amp;hellip; to how personal data is processed and stored, how consent is attained and how data breaches should be reported (among many other things). more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Amazon&#39;s Cloud Operations in China Faces Censors Scrutiny</title>
-      <link>//crypt0.net/post/amazons-cloud-operations-in-china-faces-censors-scrutiny/</link>
-      <pubDate>Tue, 01 Aug 2017 17:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazons-cloud-operations-in-china-faces-censors-scrutiny/</guid>
-      <description>Beijing Sinnet Technology, the operator of Amazon.com&amp;rsquo;s ( AMZN) cloud unit Amazon Web Services in China, said Tuesday that it has sent emails to &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Big Brother Knows What You Look Like, and That&#39;s OK?</title>
-      <link>//crypt0.net/post/big-brother-knows-what-you-look-like-and-thats-ok/</link>
-      <pubDate>Tue, 01 Aug 2017 17:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/big-brother-knows-what-you-look-like-and-thats-ok/</guid>
-      <description>They hope to expand the cane&amp;rsquo;s capabilities by incorporating social media facial recognition data andeventuallydeveloping machine-to-machine &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Rackspace Deepens Amazon AWS Cloud Migration Services</title>
-      <link>//crypt0.net/post/rackspace-deepens-amazon-aws-cloud-migration-services/</link>
-      <pubDate>Tue, 01 Aug 2017 17:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rackspace-deepens-amazon-aws-cloud-migration-services/</guid>
-      <description>Managed cloud provider Rackspace introduces Amazon Web Services (AWS) customer migration services. Rackspace VP Prashanth Chandrasekar &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>TV Globo team wins Best Conference Paper Award for paper on data analytics</title>
-      <link>//crypt0.net/post/tv-globo-team-wins-best-conference-paper-award-for-paper-on-data-analytics/</link>
-      <pubDate>Tue, 01 Aug 2017 17:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/tv-globo-team-wins-best-conference-paper-award-for-paper-on-data-analytics/</guid>
-      <description>Using data hosting and processing in the Amazon Web Services cloud, the solutions demonstrated operational advantages and required the &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>What To Expect From Tableau&#39;s Q2 Earnings</title>
-      <link>//crypt0.net/post/what-to-expect-from-tableaus-q2-earnings/</link>
-      <pubDate>Tue, 01 Aug 2017 17:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-to-expect-from-tableaus-q2-earnings/</guid>
-      <description>With Tableau&amp;rsquo;s announcement of deployment of Tableau Online using Amazon Web Services (AWS) and a revised pricing structure across product &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
