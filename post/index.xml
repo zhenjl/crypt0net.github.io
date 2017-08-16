@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 01:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 01:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rackspace Brings Encryption to the Cloud</title>
+      <link>//crypt0.net/post/rackspace-brings-encryption-to-the-cloud/</link>
+      <pubDate>Wed, 16 Aug 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/rackspace-brings-encryption-to-the-cloud/</guid>
+      <description>&amp;hellip; with Pivotal to offer a managed version of Pivotal Cloud Foundry and one with Google to offer managed services support for Google Cloud Platform. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>AWS launches &#39;Macie&#39;, its newest machine learning security service</title>
