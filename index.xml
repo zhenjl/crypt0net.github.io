@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 07:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2017 08:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Non-Geek&#39;s A-to-Z Guide To the Internet of Things</title>
+      <link>//crypt0.net/post/a-nongeeks-atoz-guide-to-the-internet-of-things/</link>
+      <pubDate>Wed, 16 Aug 2017 08:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/a-nongeeks-atoz-guide-to-the-internet-of-things/</guid>
+      <description>things. It&amp;rsquo;s not an exhaustive list, given that IoT is evolving so quickly, but rather &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Bug #1710908 scheduler.utils.merge_resources allows zero value ...</title>
