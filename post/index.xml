@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 17 Aug 2017 13:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 13:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CoreOS Extends Enterprise Kubernetes Solution to Microsoft Azure</title>
+      <link>//crypt0.net/post/coreos-extends-enterprise-kubernetes-solution-to-microsoft-azure/</link>
+      <pubDate>Thu, 17 Aug 2017 13:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/coreos-extends-enterprise-kubernetes-solution-to-microsoft-azure/</guid>
+      <description>Now in general availability on the Microsoft Azure cloud, Tectonic is enabling enterprises to benefit from using a single consistent platform managing &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>CoreOS&#39;s Tectonic container platform gets full support for Microsoft Azure</title>
+      <link>//crypt0.net/post/coreoss-tectonic-container-platform-gets-full-support-for-microsoft-azure/</link>
+      <pubDate>Thu, 17 Aug 2017 13:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/coreoss-tectonic-container-platform-gets-full-support-for-microsoft-azure/</guid>
+      <description>CoreOS today announced the general availability of Microsoft Azure support for its Kubernetes-based Tectonic container management platform. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft makes a cool extension for Chrome, and should make more</title>
+      <link>//crypt0.net/post/microsoft-makes-a-cool-extension-for-chrome-and-should-make-more/</link>
+      <pubDate>Thu, 17 Aug 2017 13:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-makes-a-cool-extension-for-chrome-and-should-make-more/</guid>
+      <description>&amp;hellip; to services integrated with Microsoft Azure AD (e.g. Office 365, Exchange Online, OneDrive for Business, and even non-Microsoft apps and services) &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Why we&#39;re embracing open with Google Cloud Platform</title>
