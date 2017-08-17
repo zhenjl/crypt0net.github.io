@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 17 Aug 2017 20:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 20:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Box hooks into Google&#39;s cloud to improve image search</title>
+      <link>//crypt0.net/post/box-hooks-into-googles-cloud-to-improve-image-search/</link>
+      <pubDate>Thu, 17 Aug 2017 20:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/box-hooks-into-googles-cloud-to-improve-image-search/</guid>
+      <description>Google&amp;rsquo;s cloud computing tools include a robust machine vision service that can identify the contents of images. If a picture contains a blue shirt, the AI &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Introducing Hosted Elasticsearch on Google Cloud Platform (GCP)</title>
+      <link>//crypt0.net/post/introducing-hosted-elasticsearch-on-google-cloud-platform-gcp/</link>
+      <pubDate>Thu, 17 Aug 2017 20:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/introducing-hosted-elasticsearch-on-google-cloud-platform-gcp/</guid>
+      <description>(GCP) with a beta release of Elastic Cloud on GCP. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Serverless launches open source Event Gateway to tie cloud functions</title>
+      <link>//crypt0.net/post/serverless-launches-open-source-event-gateway-to-tie-cloud-functions/</link>
+      <pubDate>Thu, 17 Aug 2017 20:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/serverless-launches-open-source-event-gateway-to-tie-cloud-functions/</guid>
+      <description>VentureBeat &amp;hellip; across cloud providers, so that developers can tie together AWS Lambda, Microsoft Azure functions, Google Cloud Functions, and IBM OpenWhisk. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Debuts Voice Service Device SDK For Alexa</title>
