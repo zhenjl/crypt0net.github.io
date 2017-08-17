@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>//crypt0.net/post/amazon-aurora-under-the-hood-quorum-reads-and-mutating-state/</loc>
+    <lastmod>2017-08-17T09:20:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//crypt0.net/post/how-azure-event-grid-can-become-the-foundation-of-microsoft-serverless/</loc>
+    <lastmod>2017-08-17T09:20:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//crypt0.net/post/tintri-extends-its-enterprise-cloud-platform-to-amazon-web-services-and-ibm/</loc>
+    <lastmod>2017-08-17T09:20:03+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//crypt0.net/post/get-started-with-aipowered-openstack-monitoring/</loc>
     <lastmod>2017-08-17T09:00:02+00:00</lastmod>
   </url>
@@ -163,11 +178,6 @@
   
   <url>
     <loc>//crypt0.net/post/blockchain-development-opportunity-for-graduate-students/</loc>
-    <lastmod>2017-08-17T04:20:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//crypt0.net/post/tintri-extends-its-enterprise-cloud-platform-to-amazon-web-services-and-ibm/</loc>
     <lastmod>2017-08-17T04:20:03+00:00</lastmod>
   </url>
   
@@ -10057,16 +10067,6 @@
   </url>
   
   <url>
-    <loc>//crypt0.net/post/after-apple-amazon-bows-to-chinese-firewall-advises-users-against/</loc>
-    <lastmod>2017-08-02T09:10:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//crypt0.net/post/dumfries-and-galloway-council-under-investigation-after-kid-report-bungle/</loc>
-    <lastmod>2017-08-02T09:10:02+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//crypt0.net/daily/daily-cloud-news-2017-08-01/</loc>
     <lastmod>2017-08-01T18:05:01+00:00</lastmod>
   </url>
@@ -16869,13 +16869,13 @@
   
   <url>
     <loc>//crypt0.net/categories/cloud/</loc>
-    <lastmod>2017-08-17T09:00:02+00:00</lastmod>
+    <lastmod>2017-08-17T09:20:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>//crypt0.net/</loc>
-    <lastmod>2017-08-17T09:00:02+00:00</lastmod>
+    <lastmod>2017-08-17T09:20:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -16905,7 +16905,7 @@
   
   <url>
     <loc>//crypt0.net/post/</loc>
-    <lastmod>2017-08-17T09:00:02+00:00</lastmod>
+    <lastmod>2017-08-17T09:20:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
