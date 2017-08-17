@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 17 Aug 2017 22:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 23:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to track down the infrastructure supporting malware distribution</title>
+      <link>//crypt0.net/post/how-to-track-down-the-infrastructure-supporting-malware-distribution/</link>
+      <pubDate>Thu, 17 Aug 2017 23:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-track-down-the-infrastructure-supporting-malware-distribution/</guid>
+      <description>One way to flex the muscles of the threat hunting team might be to take a look at a blog this week from Jeff White of Palo Alto Networks&amp;rsquo; Unit 42 threat &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Governor Carney Signs Legislation Extending Cybersecurity Protections for</title>
