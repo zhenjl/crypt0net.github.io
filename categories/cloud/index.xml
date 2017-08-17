@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 17 Aug 2017 21:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 21:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Optimize a public cloud storage service with these performance tips</title>
+      <link>//crypt0.net/post/optimize-a-public-cloud-storage-service-with-these-performance-tips/</link>
+      <pubDate>Thu, 17 Aug 2017 21:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/optimize-a-public-cloud-storage-service-with-these-performance-tips/</guid>
+      <description>Consider a native monitoring service from a cloud provider, such as Amazon CloudWatch, Azure Monitor and Google Cloud Platform (GCP) &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Hackathon challenges teens to think, act like a pro</title>
