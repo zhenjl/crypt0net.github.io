@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 18 Aug 2017 07:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 07:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Previews Just-in-Time VM Access, Other Azure Tools</title>
+      <link>//crypt0.net/post/microsoft-previews-justintime-vm-access-other-azure-tools/</link>
+      <pubDate>Fri, 18 Aug 2017 07:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-previews-justintime-vm-access-other-azure-tools/</guid>
+      <description>Microsoft this week spotlighted some new Azure security and management tools that are currently in preview. One is a new Just-in-Time VM Access &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How to Migrate Your Data Warehouse to Amazon Redshift Using the AWS Schema</title>
