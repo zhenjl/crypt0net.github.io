@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 18 Aug 2017 05:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 05:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Big data fusion in Internet of Things</title>
+      <link>//crypt0.net/post/big-data-fusion-in-internet-of-things/</link>
+      <pubDate>Fri, 18 Aug 2017 05:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/big-data-fusion-in-internet-of-things/</guid>
+      <description>Journal, Information Fusion. Volume, 40. State, Published - 1 Mar 2018. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Microsoft Acquires A Cloud Technology Company From Right Under Google And</title>
@@ -19960,26 +19970,6 @@
       <guid>//crypt0.net/post/what-is-the-future-of-it-purchasing-less-hardware-more-services/</guid>
       <description>In February, Cavallo and SBA CIO Maria Roat began migrating applications to Microsoft Azure&amp;rsquo;s Infrastructure as a Service (IaaS) offering. They expect &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft: We beat Google, AWS to cloudy GPU VMs in Blighty</title>
-      <link>//crypt0.net/post/microsoft-we-beat-google-aws-to-cloudy-gpu-vms-in-blighty/</link>
-      <pubDate>Thu, 03 Aug 2017 05:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-we-beat-google-aws-to-cloudy-gpu-vms-in-blighty/</guid>
-      <description>Microsoft believes they will save Brit customers who need G, H or N instances a little bit of latency time compared to connecting to Azure data centers &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Why Your Enterprise Needs An Internet of Things Platform</title>
-      <link>//crypt0.net/post/why-your-enterprise-needs-an-internet-of-things-platform/</link>
-      <pubDate>Thu, 03 Aug 2017 05:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-your-enterprise-needs-an-internet-of-things-platform/</guid>
-      <description>reduce costs and provide enhanced services to attract and retain &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
