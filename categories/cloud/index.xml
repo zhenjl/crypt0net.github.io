@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 18 Aug 2017 03:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 04:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Updating Azure Log Analytics with New Query Language</title>
+      <link>//crypt0.net/post/microsoft-updating-azure-log-analytics-with-new-query-language/</link>
+      <pubDate>Fri, 18 Aug 2017 04:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-updating-azure-log-analytics-with-new-query-language/</guid>
+      <description>Microsoft started rolling out an update this week to its Azure Log Analytics service that promises to bring improved search, plus a new query language. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Interview with Prakash Manden, Co-founder of FittedCloud</title>
@@ -7866,36 +7876,6 @@ Microsoft&amp;rsquo;s new unified log-in experience is now in public preview Mic
       
       <guid>//crypt0.net/post/microsoft-we-beat-google-aws-to-cloudy-gpu-vms-in-blighty/</guid>
       <description>Microsoft believes they will save Brit customers who need G, H or N instances a little bit of latency time compared to connecting to Azure data centers &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft prepares to unify its Azure AD and Microsoft Account login</title>
-      <link>//crypt0.net/post/microsoft-prepares-to-unify-its-azure-ad-and-microsoft-account-login/</link>
-      <pubDate>Thu, 03 Aug 2017 04:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-prepares-to-unify-its-azure-ad-and-microsoft-account-login/</guid>
-      <description>Neowin Microsoft officially announced on August 2 the public preview of its new login experience for the Azure Active Directory and Microsoft Account. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon&#39;s billowing cloud: Amazon Web Services posts big growth</title>
-      <link>//crypt0.net/post/amazons-billowing-cloud-amazon-web-services-posts-big-growth/</link>
-      <pubDate>Thu, 03 Aug 2017 04:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazons-billowing-cloud-amazon-web-services-posts-big-growth/</guid>
-      <description>The cloud business is growing so fast that Amazon is hiring at a faster rate than the overall company&amp;rsquo;s sales growth. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Startupbootcamp is seeking smart energy startups</title>
-      <link>//crypt0.net/post/startupbootcamp-is-seeking-smart-energy-startups/</link>
-      <pubDate>Thu, 03 Aug 2017 04:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/startupbootcamp-is-seeking-smart-energy-startups/</guid>
-      <description>Startupbootcamp is a Melbourne-based program backed by EnergyAustralia, Amazon Web Services, Cisco and Spotless Group. Startup accelerator &amp;hellip; more.
 @crypt0net</description>
     </item>
     
