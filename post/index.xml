@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 18 Aug 2017 03:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 03:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Microsoft Tool Locks Down Virtual Machine Access in Azure</title>
+      <link>//crypt0.net/post/new-microsoft-tool-locks-down-virtual-machine-access-in-azure/</link>
+      <pubDate>Fri, 18 Aug 2017 03:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/new-microsoft-tool-locks-down-virtual-machine-access-in-azure/</guid>
+      <description>The security measure, called Just-in-Time VM Access, is a new tool that&amp;rsquo;s now in preview. Microsoft also unveiled a &amp;ldquo;private preview&amp;rdquo; of PowerShell &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>ESET: Five good questions to ask before buying encryption</title>
@@ -19989,66 +19999,6 @@
       
       <guid>//crypt0.net/post/daniel-zakrisson-speaker-at-blockchain--bitcoin-conference-stockholm-to/</guid>
       <description>CalvinAyre.com On September 7, Daniel Zakrisson, one of Cofound.it&amp;rsquo;s founders, will share his experience in conducting a successful crowdsale campaign and reveal &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services Releases Lumberyard Beta 1.10</title>
-      <link>//crypt0.net/post/amazon-web-services-releases-lumberyard-beta-110/</link>
-      <pubDate>Thu, 03 Aug 2017 03:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-web-services-releases-lumberyard-beta-110/</guid>
-      <description>Amazon Web Services launched a new version of their Lumberyard game engine at SIGGRAPH. They advertise that the new version, Lumberyard &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>ESET, NITDA Collaborate on Cyberspace Security</title>
-      <link>//crypt0.net/post/eset-nitda-collaborate-on-cyberspace-security/</link>
-      <pubDate>Thu, 03 Aug 2017 03:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/eset-nitda-collaborate-on-cyberspace-security/</guid>
-      <description>Large-scale data breaches, ransomware attack, cybercrime, surveillance and other online threats are eroding Nigerians&amp;rsquo; trust on government &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>IRS Criminal Investigation chief plans new enforcement programs</title>
-      <link>//crypt0.net/post/irs-criminal-investigation-chief-plans-new-enforcement-programs/</link>
-      <pubDate>Thu, 03 Aug 2017 03:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/irs-criminal-investigation-chief-plans-new-enforcement-programs/</guid>
-      <description>The account takeovers, data breaches of return preparers, CPAs and payroll providers are kind of the evolution of where we see identity theft, and &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Previews Web Server Security Baseline Tool</title>
-      <link>//crypt0.net/post/microsoft-previews-web-server-security-baseline-tool/</link>
-      <pubDate>Thu, 03 Aug 2017 03:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-previews-web-server-security-baseline-tool/</guid>
-      <description>It also can be used to scan the Web server security baselines used on Microsoft Azure or &amp;ldquo;other cloud platforms&amp;rdquo; that OMS can monitor. OMS is &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Research focused on the internet of things (IoT) industry report for 2017</title>
-      <link>//crypt0.net/post/research-focused-on-the-internet-of-things-iot-industry-report-for-2017/</link>
-      <pubDate>Thu, 03 Aug 2017 03:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/research-focused-on-the-internet-of-things-iot-industry-report-for-2017/</guid>
-      <description>Internet of Things (IoT): Technology, Outlook &amp;amp; Significance 2017&amp;rdquo;, report analyzes industry opinion on the implementation status of IoT technology or &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>SSH inventor analyzes tools the CIA wrote to exploit his protocol</title>
-      <link>//crypt0.net/post/ssh-inventor-analyzes-tools-the-cia-wrote-to-exploit-his-protocol/</link>
-      <pubDate>Thu, 03 Aug 2017 03:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ssh-inventor-analyzes-tools-the-cia-wrote-to-exploit-his-protocol/</guid>
-      <description>The PrivX On-Demand Access Manager secures machine-to-machine communications without any permanent access keys at all, instead using only &amp;hellip; more.
 @surgethings</description>
     </item>
     

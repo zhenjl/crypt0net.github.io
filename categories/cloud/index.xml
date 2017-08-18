@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 18 Aug 2017 03:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 03:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Microsoft Tool Locks Down Virtual Machine Access in Azure</title>
+      <link>//crypt0.net/post/new-microsoft-tool-locks-down-virtual-machine-access-in-azure/</link>
+      <pubDate>Fri, 18 Aug 2017 03:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/new-microsoft-tool-locks-down-virtual-machine-access-in-azure/</guid>
+      <description>The security measure, called Just-in-Time VM Access, is a new tool that&amp;rsquo;s now in preview. Microsoft also unveiled a &amp;ldquo;private preview&amp;rdquo; of PowerShell &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Launches Cloud Service for Event-Based Applications</title>
@@ -7876,26 +7886,6 @@ Microsoft&amp;rsquo;s new unified log-in experience is now in public preview Mic
       
       <guid>//crypt0.net/post/startupbootcamp-is-seeking-smart-energy-startups/</guid>
       <description>Startupbootcamp is a Melbourne-based program backed by EnergyAustralia, Amazon Web Services, Cisco and Spotless Group. Startup accelerator &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services Releases Lumberyard Beta 1.10</title>
-      <link>//crypt0.net/post/amazon-web-services-releases-lumberyard-beta-110/</link>
-      <pubDate>Thu, 03 Aug 2017 03:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-web-services-releases-lumberyard-beta-110/</guid>
-      <description>Amazon Web Services launched a new version of their Lumberyard game engine at SIGGRAPH. They advertise that the new version, Lumberyard &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Previews Web Server Security Baseline Tool</title>
-      <link>//crypt0.net/post/microsoft-previews-web-server-security-baseline-tool/</link>
-      <pubDate>Thu, 03 Aug 2017 03:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-previews-web-server-security-baseline-tool/</guid>
-      <description>It also can be used to scan the Web server security baselines used on Microsoft Azure or &amp;ldquo;other cloud platforms&amp;rdquo; that OMS can monitor. OMS is &amp;hellip; more.
 @crypt0net</description>
     </item>
     
