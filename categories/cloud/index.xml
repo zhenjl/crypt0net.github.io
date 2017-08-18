@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 18 Aug 2017 06:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 07:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Migrate Your Data Warehouse to Amazon Redshift Using the AWS Schema</title>
+      <link>//crypt0.net/post/how-to-migrate-your-data-warehouse-to-amazon-redshift-using-the-aws-schema/</link>
+      <pubDate>Fri, 18 Aug 2017 07:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-migrate-your-data-warehouse-to-amazon-redshift-using-the-aws-schema/</guid>
+      <description>Michael Soo is a database engineer at Amazon Web Services. This blog post gives you a quick overview of how you can use the AWS Schema &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>&#39;Astonishing Opportunities&#39; Coming From Rapid Cloud Migration</title>
@@ -7856,16 +7866,6 @@ Microsoft&amp;rsquo;s new unified log-in experience is now in public preview Mic
       
       <guid>//crypt0.net/post/mazikthings-comprehensive-digital-transformation-solution-now-accessible/</guid>
       <description>PR Web (press release) MazikThings, the Mazik Global IoT solution built on Microsoft&amp;rsquo;s Dynamics 365 and Azure platforms, will bring a seamless remote monitoring, predictive &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>report_interval must be located in AGENT section</title>
-      <link>//crypt0.net/post/reportinterval-must-be-located-in-agent-section/</link>
-      <pubDate>Thu, 03 Aug 2017 07:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/reportinterval-must-be-located-in-agent-section/</guid>
-      <description>is inaccurate in this way: ______ - [ ] This is a doc addition request. more.
 @crypt0net</description>
     </item>
     
