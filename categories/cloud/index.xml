@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 18 Aug 2017 08:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 08:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Box intros image recognition to cloud service with Google</title>
+      <link>//crypt0.net/post/box-intros-image-recognition-to-cloud-service-with-google/</link>
+      <pubDate>Fri, 18 Aug 2017 08:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/box-intros-image-recognition-to-cloud-service-with-google/</guid>
+      <description>Box has teamed up with Google Cloud Vision to introduce an image recognition feature to its cloud storage service, helping businesses improve &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Investing deeply in Terraform on Azure</title>
