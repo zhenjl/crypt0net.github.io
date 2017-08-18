@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 18 Aug 2017 11:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 11:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Strategize wisely for a legacy application migration to cloud</title>
+      <link>//crypt0.net/post/strategize-wisely-for-a-legacy-application-migration-to-cloud/</link>
+      <pubDate>Fri, 18 Aug 2017 11:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/strategize-wisely-for-a-legacy-application-migration-to-cloud/</guid>
+      <description>Lift-and-shift migrations typically move Linux or Windows application images to cloud VMs, such as EC2 or Microsoft Azure VMs, and run without code &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Talend Helps Travis Perkins Extract Better Business Insight Out of</title>
@@ -19,16 +29,6 @@
       
       <guid>//crypt0.net/post/talend-helps-travis-perkins-extract-better-business-insight-out-of/</guid>
       <description>New Talend Data Fabric Connectors for Google Cloud Platform Empower Enterprise Customers to Rapidly Analyze Disparate Data Sources for &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Strategize wisely for a legacy application migration to cloud</title>
-      <link>//crypt0.net/post/strategize-wisely-for-a-legacy-application-migration-to-cloud/</link>
-      <pubDate>Fri, 18 Aug 2017 10:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/strategize-wisely-for-a-legacy-application-migration-to-cloud/</guid>
-      <description>But the continued success of Amazon Web Services (AWS) and other providers belies claims that public cloud can&amp;rsquo;t handle enterprise systems. more.
 @crypt0net</description>
     </item>
     
