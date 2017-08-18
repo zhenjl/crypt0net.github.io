@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 18 Aug 2017 20:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 20:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cloudera Recognized for Cloud-Native Platform-as-a-Service Innovation</title>
+      <link>//crypt0.net/post/cloudera-recognized-for-cloudnative-platformasaservice-innovation/</link>
+      <pubDate>Fri, 18 Aug 2017 20:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cloudera-recognized-for-cloudnative-platformasaservice-innovation/</guid>
+      <description>&amp;hellip; a platform-as-a-service that makes it easy and cost-effective to process large-scale data sets in the public cloud, such as with Amazon Web Services &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Vendor Exposes Backup of Chicago Voter Roll via AWS Bucket</title>
+      <link>//crypt0.net/post/vendor-exposes-backup-of-chicago-voter-roll-via-aws-bucket/</link>
+      <pubDate>Fri, 18 Aug 2017 20:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/vendor-exposes-backup-of-chicago-voter-roll-via-aws-bucket/</guid>
+      <description>Voter registration data belonging to the entirety of Chicago&amp;rsquo;s electoral roll1.8 million recordswas found a week ago in an Amazon Web Services &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Hospitals must factor patient safety into security strategies</title>
@@ -250,16 +270,6 @@
       <guid>//crypt0.net/post/how-the-internet-of-things-changes-everything/</guid>
       <description>The Internet of Things (IoT) has been called the next Industrial Revolution, and it will have a profound effect on how marketers will need to understand, &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Cloudera Recognized for Cloud-Native Platform-as-a-Service Innovation</title>
-      <link>//crypt0.net/post/cloudera-recognized-for-cloudnative-platformasaservice-innovation/</link>
-      <pubDate>Fri, 18 Aug 2017 17:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloudera-recognized-for-cloudnative-platformasaservice-innovation/</guid>
-      <description>PALO ALTO, Calif, Aug. 18, 2017 /PRNewswire/ &amp;ndash; Cloudera, Inc. (NYSE: CLDR), the leading platform provider for machine learning, advanced &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -19930,26 +19940,6 @@
       <guid>//crypt0.net/post/varonis-announces-second-quarter-2017-financial-results/</guid>
       <description>&amp;hellip; we are delivering a strategic approach to not only protect enterprise data from cyberattacks, but also from insider threats and data breaches.. more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Buy Sierra Wireless on pullback: National Bank Financial</title>
-      <link>//crypt0.net/post/buy-sierra-wireless-on-pullback-national-bank-financial/</link>
-      <pubDate>Thu, 03 Aug 2017 20:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/buy-sierra-wireless-on-pullback-national-bank-financial/</guid>
-      <description>On Wednesday, Sierra Wireless announced it had acquired machine-to-machine device company Numerex for approximately (U.S.) $107-million. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>What&#39;s New in RHEL 7.4</title>
-      <link>//crypt0.net/post/whats-new-in-rhel-74/</link>
-      <pubDate>Thu, 03 Aug 2017 20:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/whats-new-in-rhel-74/</guid>
-      <description>These include decreased boot times and support for the Elastic Network Adapter on Amazon Web Services to enable new network capabilities. more.
-@crypt0net</description>
     </item>
     
   </channel>

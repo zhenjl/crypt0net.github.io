@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 18 Aug 2017 19:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 20:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cloudera Recognized for Cloud-Native Platform-as-a-Service Innovation</title>
+      <link>//crypt0.net/post/cloudera-recognized-for-cloudnative-platformasaservice-innovation/</link>
+      <pubDate>Fri, 18 Aug 2017 20:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cloudera-recognized-for-cloudnative-platformasaservice-innovation/</guid>
+      <description>&amp;hellip; a platform-as-a-service that makes it easy and cost-effective to process large-scale data sets in the public cloud, such as with Amazon Web Services &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Vendor Exposes Backup of Chicago Voter Roll via AWS Bucket</title>
+      <link>//crypt0.net/post/vendor-exposes-backup-of-chicago-voter-roll-via-aws-bucket/</link>
+      <pubDate>Fri, 18 Aug 2017 20:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/vendor-exposes-backup-of-chicago-voter-roll-via-aws-bucket/</guid>
+      <description>Voter registration data belonging to the entirety of Chicago&amp;rsquo;s electoral roll1.8 million recordswas found a week ago in an Amazon Web Services &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Can CNCF Avoid Pitfalls That Have Hampered OpenStack?</title>
@@ -132,16 +152,6 @@
 CoreOS extends Kubernetes to Microsoft Azure But, more than that, Tectonic is now available on the Microsoft Azure cloud. This enables enterprises to use a single, consistent Kubernetes platform &amp;hellip; more.
 Microsoft partners to improve Terraform integration with Azure Microsoft (NASDAQ:MSFT) and HashiCorp will team up to better integrate Terraform, infrastructure management software, into Microsoft&amp;rsquo;s Azure cloud &amp;hellip; more.
 Cisco (CSCO) Meets Q4 Earnings Estimates, Revenues Beat Moreover, the companies are collaborating to enable businesses build and host their IoT applications in Microsoft Azure while extending the power of &amp;hellip; more.</description>
-    </item>
-    
-    <item>
-      <title>Cloudera Recognized for Cloud-Native Platform-as-a-Service Innovation</title>
-      <link>//crypt0.net/post/cloudera-recognized-for-cloudnative-platformasaservice-innovation/</link>
-      <pubDate>Fri, 18 Aug 2017 17:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloudera-recognized-for-cloudnative-platformasaservice-innovation/</guid>
-      <description>PALO ALTO, Calif, Aug. 18, 2017 /PRNewswire/ &amp;ndash; Cloudera, Inc. (NYSE: CLDR), the leading platform provider for machine learning, advanced &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -7847,16 +7857,6 @@ Could Amazon&amp;rsquo;s cloudy appetite crush your startup dreams? Amazon Web S
       
       <guid>//crypt0.net/post/bindep-files-expect-python2pyopenssl-to-be-presen--bugs/</guid>
       <description>installed, but this package is only available from the RDO QEMU repository. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>What&#39;s New in RHEL 7.4</title>
-      <link>//crypt0.net/post/whats-new-in-rhel-74/</link>
-      <pubDate>Thu, 03 Aug 2017 20:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/whats-new-in-rhel-74/</guid>
-      <description>These include decreased boot times and support for the Elastic Network Adapter on Amazon Web Services to enable new network capabilities. more.
 @crypt0net</description>
     </item>
     
