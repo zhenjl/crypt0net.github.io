@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 19 Aug 2017 10:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Aug 2017 11:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Super-customized web experience is on the way</title>
+      <link>//crypt0.net/post/supercustomized-web-experience-is-on-the-way/</link>
+      <pubDate>Sat, 19 Aug 2017 11:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/supercustomized-web-experience-is-on-the-way/</guid>
+      <description>Data breaches are big news, and justifiably so. It&amp;rsquo;s to be expected that users will feel like Big Brother is watching. We expect users to be concerned &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Can CNCF Avoid Pitfalls That Have Hampered OpenStack?</title>
@@ -19430,16 +19440,6 @@
       <guid>//crypt0.net/post/openstack-server-create-missed-password-option/</guid>
       <description>&amp;ndash;password option like openstack server rebuild. more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How can I make my home Wi-Fi faster?</title>
-      <link>//crypt0.net/post/how-can-i-make-my-home-wifi-faster/</link>
-      <pubDate>Fri, 04 Aug 2017 11:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-can-i-make-my-home-wifi-faster/</guid>
-      <description>Eero CEO Nick Weaver answers your Wi-Fi questions on the latest Too Embarrassed to Ask. by Eric Johnson@HeyHeyESJ Aug 4, 2017, 6:30am EDT. more.
-@surgethings</description>
     </item>
     
   </channel>
