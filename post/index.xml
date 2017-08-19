@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 19 Aug 2017 11:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Aug 2017 11:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Lawyer&#39;s Use of Blockchain Technology</title>
+      <link>//crypt0.net/post/a-lawyers-use-of-blockchain-technology/</link>
+      <pubDate>Sat, 19 Aug 2017 11:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/a-lawyers-use-of-blockchain-technology/</guid>
+      <description>An advantage for clients is that smart-contracts remove the need for human interaction, opening up the possibility for machine to machine relationships &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Super-customized web experience is on the way</title>
@@ -60,16 +70,6 @@
       <guid>//crypt0.net/post/neonazis-expose-the-internets-big-vulnerability-opinion/</guid>
       <description>More recently, a cloud-storage malfunction reminded the world that Amazon Web Services controls 31% of the global cloud infrastructure market. more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>A Lawyer&#39;s Use of Blockchain Technology</title>
-      <link>//crypt0.net/post/a-lawyers-use-of-blockchain-technology/</link>
-      <pubDate>Sat, 19 Aug 2017 09:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/a-lawyers-use-of-blockchain-technology/</guid>
-      <description>The legal implications of Bitcoin, ICOs and even blockchain technology itself have been widely discussed. For Russia&amp;rsquo;s move to legalise the ICO and &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>
@@ -19429,16 +19429,6 @@
       
       <guid>//crypt0.net/post/did-google-try-to-acquire-snapchat-for-30-billion/</guid>
       <description>Snap also runs on Google&amp;rsquo;s productivity suite and has committed to spending $2billion on Google&amp;rsquo;s cloud servers over the next five years. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>openstack server create missed --password option</title>
-      <link>//crypt0.net/post/openstack-server-create-missed-password-option/</link>
-      <pubDate>Fri, 04 Aug 2017 11:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-server-create-missed-password-option/</guid>
-      <description>&amp;ndash;password option like openstack server rebuild. more.
 @crypt0net</description>
     </item>
     
