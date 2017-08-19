@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 19 Aug 2017 03:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Aug 2017 04:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Run your graphics-intensive Windows applications</title>
+      <link>//crypt0.net/post/run-your-graphicsintensive-windows-applications/</link>
+      <pubDate>Sat, 19 Aug 2017 04:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/run-your-graphicsintensive-windows-applications/</guid>
+      <description>Windows applications on G3 with NVIDIA GRID! http://amzn.to/2xcrQhp &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Cloud a &#39;Tempting Target&#39; for Attacks</title>
@@ -7747,26 +7757,6 @@ Could Amazon&amp;rsquo;s cloudy appetite crush your startup dreams? Amazon Web S
       
       <guid>//crypt0.net/post/the-secret-to-googles-success/</guid>
       <description>The incredible growth in the Google cloud sector doesn&amp;rsquo;t even necessarily consider the artificial intelligence elements of the business either. The IaaS &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon: This is just the start</title>
-      <link>//crypt0.net/post/amazon-this-is-just-the-start/</link>
-      <pubDate>Fri, 04 Aug 2017 04:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-this-is-just-the-start/</guid>
-      <description>Amazon Web Services launched an Australian region in 2012 and Amazon launched a Kindle Store on Amazon.com.au in 2013. Amazon has almost &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Delphix&#39;s New Data Management Platform Uses DataOps, Data Pods</title>
-      <link>//crypt0.net/post/delphixs-new-data-management-platform-uses-dataops-data-pods/</link>
-      <pubDate>Fri, 04 Aug 2017 04:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/delphixs-new-data-management-platform-uses-dataops-data-pods/</guid>
-      <description>3 also announced support for Microsoft Azure. Delphix Dynamic Data Platform already is optimized to run on Amazon Web Services and IBM Cloud. more.
 @crypt0net</description>
     </item>
     
