@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 20 Aug 2017 17:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2017 17:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Launches Machine Learning-Based Tool to Track US Hate Crimes</title>
+      <link>//crypt0.net/post/google-launches-machine-learningbased-tool-to-track-us-hate-crimes/</link>
+      <pubDate>Sun, 20 Aug 2017 17:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-launches-machine-learningbased-tool-to-track-us-hate-crimes/</guid>
+      <description>It will only work with a raw feed of Google News articles, which will then be put through the Google Cloud Natural language API to create a visual tool. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Deep-tech investments require patient risk capital: Dr Lily Chan, NUS</title>
@@ -18380,16 +18390,6 @@
       <guid>//crypt0.net/post/india-team-helps-ibm-create-technology-to-battle-hackers/</guid>
       <description>The company said IBM Z&amp;rsquo;s new data encryption capabilities are designed to address the global epidemic of data breaches, a major factor in the $8 &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Amazon.com Stock Slides on Lower Profitability</title>
-      <link>//crypt0.net/post/amazoncom-stock-slides-on-lower-profitability/</link>
-      <pubDate>Sat, 05 Aug 2017 17:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazoncom-stock-slides-on-lower-profitability/</guid>
-      <description>It seems, a couple of years ago, that with the growth of Amazon Web Services, which has pretty high margins, that Amazon was finally getting to be &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
