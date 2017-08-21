@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 21 Aug 2017 08:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 09:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Village Roadshow ditches data centres for Microsoft Azure</title>
+      <link>//crypt0.net/post/village-roadshow-ditches-data-centres-for-microsoft-azure/</link>
+      <pubDate>Mon, 21 Aug 2017 09:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/village-roadshow-ditches-data-centres-for-microsoft-azure/</guid>
+      <description>Microsoft has added new customers to its cloud platform following the announcement of two new Azure regions in Canberra. Village Roadshow, the &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>mLab announces hosted MongoDB support for all AWS regions</title>
+      <link>//crypt0.net/post/mlab-announces-hosted-mongodb-support-for-all-aws-regions/</link>
+      <pubDate>Mon, 21 Aug 2017 09:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mlab-announces-hosted-mongodb-support-for-all-aws-regions/</guid>
+      <description>&amp;hellip; which it says is largely due to a continual geographic expansion of data center availability across AWS, Google Cloud Platform, and Microsoft Azure. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Global Hosting Infrastructure Service Market Status and Forecast 2022 -</title>
@@ -39,16 +59,6 @@
       
       <guid>//crypt0.net/post/netgate-announces-pfsense-firewalls-on-aws-govcloud-us/</guid>
       <description>For 11 years, Amazon Web Services has been the world&amp;rsquo;s most comprehensive and broadly adopted cloud platform. AWS offers over 90 fully featured &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>mLab announces hosted MongoDB support for all AWS regions</title>
-      <link>//crypt0.net/post/mlab-announces-hosted-mongodb-support-for-all-aws-regions/</link>
-      <pubDate>Mon, 21 Aug 2017 07:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mlab-announces-hosted-mongodb-support-for-all-aws-regions/</guid>
-      <description>&amp;hellip; which it says is largely due to a continual geographic expansion of data center availability across AWS, Google Cloud Platform, and Microsoft Azure. more.
 @crypt0net</description>
     </item>
     
