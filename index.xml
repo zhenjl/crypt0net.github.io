@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 21 Aug 2017 07:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 07:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>mLab announces hosted MongoDB support for all AWS regions</title>
+      <link>//crypt0.net/post/mlab-announces-hosted-mongodb-support-for-all-aws-regions/</link>
+      <pubDate>Mon, 21 Aug 2017 07:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mlab-announces-hosted-mongodb-support-for-all-aws-regions/</guid>
+      <description>&amp;hellip; which it says is largely due to a continual geographic expansion of data center availability across AWS, Google Cloud Platform, and Microsoft Azure. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Securing the network in the age of IoT</title>
