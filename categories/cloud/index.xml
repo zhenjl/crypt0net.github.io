@@ -7,10 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 22 Aug 2017 22:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2017 23:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS, Azure tie for top spot in 2017 Gartner ranking</title>
+      <link>//crypt0.net/post/aws-azure-tie-for-top-spot-in-2017-gartner-ranking/</link>
+      <pubDate>Tue, 22 Aug 2017 23:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-azure-tie-for-top-spot-in-2017-gartner-ranking/</guid>
+      <description>Google Cloud Platform followed with 80%. Each provider rose in the ranking from 2016 &amp;ndash; AWS is up from 92% and Azure from 88%. The increases &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Google is trying again to push Chromebooks into big businesses, the core</title>
+      <link>//crypt0.net/post/google-is-trying-again-to-push-chromebooks-into-big-businesses-the-core/</link>
+      <pubDate>Tue, 22 Aug 2017 23:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-is-trying-again-to-push-chromebooks-into-big-businesses-the-core/</guid>
+      <description>CNBC Diane Greene, Sr. Vice President for Google&amp;rsquo;s Cloud businesses. Source: Google. Diane Greene, Sr. Vice President for Google&amp;rsquo;s Cloud businesses. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Google launches Chrome Enterprise subscription service for Chrome OS</title>
+      <link>//crypt0.net/post/google-launches-chrome-enterprise-subscription-service-for-chrome-os/</link>
+      <pubDate>Tue, 22 Aug 2017 23:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-launches-chrome-enterprise-subscription-service-for-chrome-os/</guid>
+      <description>With this update, enterprise users will be able to use their existing credentials to log into their Chrome OS devices and access their Google Cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Google touts Titan security chip to market cloud services</title>
+      <link>//crypt0.net/post/google-touts-titan-security-chip-to-market-cloud-services/</link>
+      <pubDate>Tue, 22 Aug 2017 23:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-touts-titan-security-chip-to-market-cloud-services/</guid>
+      <description>Titan scans hardware to ensure it has not been tampered with, Neal Mueller, head of infrastructure product marketing for Google Cloud Platform, said &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Brainwave aims to accelerate deep learning with FPGAs</title>
+      <link>//crypt0.net/post/microsoft-brainwave-aims-to-accelerate-deep-learning-with-fpgas/</link>
+      <pubDate>Tue, 22 Aug 2017 23:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-brainwave-aims-to-accelerate-deep-learning-with-fpgas/</guid>
+      <description>Mipsology, an FPGA-obsessed startup has been working closely with Amazon to make the technology accessible over Amazon Web Services and &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Skytap raises $45M for its enterprise cloud</title>
+      <link>//crypt0.net/post/skytap-raises-45m-for-its-enterprise-cloud/</link>
+      <pubDate>Tue, 22 Aug 2017 23:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/skytap-raises-45m-for-its-enterprise-cloud/</guid>
+      <description>&amp;hellip; Azure and Google Cloud Platform. Instead, the company actually runs its own cloud with the goal of helping enterprises that want to modernize their &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>No cloud business in China means Google lags behind Amazon</title>
@@ -39,26 +99,6 @@
       
       <guid>//crypt0.net/post/come-to-grips-with-immutable-infrastructure-in-production/</guid>
       <description>Otherwise, apply this process to public clouds, such as Microsoft Azure, Amazon Web Services (AWS) and Google Cloud Platform. Organizations &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google touts Titan security chip to market cloud services</title>
-      <link>//crypt0.net/post/google-touts-titan-security-chip-to-market-cloud-services/</link>
-      <pubDate>Tue, 22 Aug 2017 21:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-touts-titan-security-chip-to-market-cloud-services/</guid>
-      <description>Google has struggled to compete with Amazon Web Services, which has more features, and Microsoft, which has long-standing relationships with &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>AWS, Azure tie for top spot in 2017 Gartner ranking</title>
-      <link>//crypt0.net/post/aws-azure-tie-for-top-spot-in-2017-gartner-ranking/</link>
-      <pubDate>Tue, 22 Aug 2017 20:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aws-azure-tie-for-top-spot-in-2017-gartner-ranking/</guid>
-      <description>Amazon Web Services and Microsoft Azure tied for first place, both garnering a score of 94%. Google Cloud Platform followed with 80%. Each provider &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -7738,26 +7778,6 @@ New Kids On The Block: Fairfax County Amazon Web Services has selected One Dulle
       
       <guid>//crypt0.net/post/new-services-roundup-telarus-centurylink-level-3-cisco-more/</guid>
       <description>Level 3 Communications introduced a single vendor-managed UC offering that runs on Amazon Web Services (AWS) with end-to-end customer &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Learn About Microsoft Azure Site Recovery and Backup Capabilities</title>
-      <link>//crypt0.net/post/learn-about-microsoft-azure-site-recovery-and-backup-capabilities/</link>
-      <pubDate>Mon, 07 Aug 2017 23:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/learn-about-microsoft-azure-site-recovery-and-backup-capabilities/</guid>
-      <description>If you paid attention to Microsoft&amp;rsquo;s most recent financial report you know that cloud has become a big part of their business model. In fact, it has been &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How many times can Snapchat say not for sale before it&#39;s too late?</title>
-      <link>//crypt0.net/post/how-many-times-can-snapchat-say-not-for-sale-before-its-too-late/</link>
-      <pubDate>Mon, 07 Aug 2017 22:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-many-times-can-snapchat-say-not-for-sale-before-its-too-late/</guid>
-      <description>&amp;hellip; Google&amp;rsquo;s investment fund, CapitalG, was there for financial support. In turn, Snapchat has also vowed to spend $2 billion towards Google Cloud in &amp;hellip; more.
 @crypt0net</description>
     </item>
     
