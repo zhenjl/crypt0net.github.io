@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 22 Aug 2017 09:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2017 10:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Openshift 3.6 on Openstack  developer cluster setup</title>
+      <link>//crypt0.net/post/openshift-36-on-openstack--developer-cluster-setup/</link>
+      <pubDate>Tue, 22 Aug 2017 10:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openshift-36-on-openstack--developer-cluster-setup/</guid>
+      <description>Openstack cluster. The Cloud-Robotics crew decided to take it for a spin, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Rackspace Opens VMware-Powered Private Cloud</title>
