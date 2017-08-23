@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 17:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 18:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Moving The New York Times Games Platform to Google App Engine</title>
+      <link>//crypt0.net/post/moving-the-new-york-times-games-platform-to-google-app-engine/</link>
+      <pubDate>Wed, 23 Aug 2017 18:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/moving-the-new-york-times-games-platform-to-google-app-engine/</guid>
+      <description>&amp;hellip; like syncing game progress across multiple devices, our backend systems were running on Amazon Web Services with a LAMP-like architecture. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Aginity Amp 2.7 Extends Analytics Management to New Platforms</title>
@@ -18769,16 +18779,6 @@
       <guid>//crypt0.net/post/kore-and-cooltrax-partner-to-provide-uninterrupted-realtime-cold-chain/</guid>
       <description>Business Wire (press release) &amp;hellip; the world&amp;rsquo;s largest managed network services provider specializing in Internet of Things (IoT) and Machine to Machine (M2M) communications. more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Masergy Adds Endpoint Detection and Response to Its Integrated Managed</title>
-      <link>//crypt0.net/post/masergy-adds-endpoint-detection-and-response-to-its-integrated-managed/</link>
-      <pubDate>Tue, 08 Aug 2017 17:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/masergy-adds-endpoint-detection-and-response-to-its-integrated-managed/</guid>
-      <description>GlobeNewswire (press release) 08, 2017 (GLOBE NEWSWIRE) &amp;ndash; Masergy, a leading provider of managed security solutions, today announced its Managed Endpoint Detection and &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
