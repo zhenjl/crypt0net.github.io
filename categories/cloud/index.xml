@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 00:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 00:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft, Red Hat extend their partnership with container support</title>
+      <link>//crypt0.net/post/microsoft-red-hat-extend-their-partnership-with-container-support/</link>
+      <pubDate>Wed, 23 Aug 2017 00:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-red-hat-extend-their-partnership-with-container-support/</guid>
+      <description>&amp;hellip; also bring its OpenShift Dedicated service - its fully-managed version of OpenShift that can now run on AWS and Google Cloud Platform - to Azure. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Skytap raises $45M for its enterprise cloud</title>
+      <link>//crypt0.net/post/skytap-raises-45m-for-its-enterprise-cloud/</link>
+      <pubDate>Wed, 23 Aug 2017 00:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/skytap-raises-45m-for-its-enterprise-cloud/</guid>
+      <description>&amp;hellip; it&amp;rsquo;s not trying to offer enterprises specific cloud computing services on top of one of the big platforms like AWS, Azure and Google Cloud Platform. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Brainwave aims to accelerate deep learning with FPGAs</title>
@@ -69,16 +89,6 @@
       
       <guid>//crypt0.net/post/google-touts-titan-security-chip-to-market-cloud-services/</guid>
       <description>Titan scans hardware to ensure it has not been tampered with, Neal Mueller, head of infrastructure product marketing for Google Cloud Platform, said &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Skytap raises $45M for its enterprise cloud</title>
-      <link>//crypt0.net/post/skytap-raises-45m-for-its-enterprise-cloud/</link>
-      <pubDate>Tue, 22 Aug 2017 23:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/skytap-raises-45m-for-its-enterprise-cloud/</guid>
-      <description>&amp;hellip; Azure and Google Cloud Platform. Instead, the company actually runs its own cloud with the goal of helping enterprises that want to modernize their &amp;hellip; more.
 @crypt0net</description>
     </item>
     
