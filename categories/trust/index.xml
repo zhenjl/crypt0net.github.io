@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 05:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 08:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The self-driving car of security automation</title>
+      <link>//crypt0.net/post/the-selfdriving-car-of-security-automation/</link>
+      <pubDate>Wed, 23 Aug 2017 08:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-selfdriving-car-of-security-automation/</guid>
+      <description>On one hand, you have solutions such as User Behavior Analytics and Network Traffic Analysis that profess to automatically analyze normal &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>The butler did it? Finding out who did what in Incident Response</title>
