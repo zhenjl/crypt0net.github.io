@@ -7,10 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 01:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 01:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comparing Private and Public Cloud Threat Vectors</title>
+      <link>//crypt0.net/post/comparing-private-and-public-cloud-threat-vectors/</link>
+      <pubDate>Wed, 23 Aug 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/comparing-private-and-public-cloud-threat-vectors/</guid>
+      <description>Now consider storage in Amazon Web Services. You store data in Amazon&amp;rsquo;s Simple Storage Service (S3). But if you fail to configure things correctly, &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Salesforce&#39;s partnership with Amazon is helping solve one of its biggest</title>
+      <link>//crypt0.net/post/salesforces-partnership-with-amazon-is-helping-solve-one-of-its-biggest/</link>
+      <pubDate>Wed, 23 Aug 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/salesforces-partnership-with-amazon-is-helping-solve-one-of-its-biggest/</guid>
+      <description>CNBC Salesforce has struck a number of partnership deals with Amazon Web Services over the past year, suddenly becoming a close ally of Amazon&amp;rsquo;s cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Startup Spotlight: Customer-focused telecom software company Audian boasts</title>
+      <link>//crypt0.net/post/startup-spotlight-customerfocused-telecom-software-company-audian-boasts/</link>
+      <pubDate>Wed, 23 Aug 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/startup-spotlight-customerfocused-telecom-software-company-audian-boasts/</guid>
+      <description>GeekWire Selfishly, Amazon Web Services (AWS) was a game-changer for us, and the new server-less stuff they are doing with Lambda is very exciting. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>VMware partners with Google to manage Chrome devices</title>
+      <link>//crypt0.net/post/vmware-partners-with-google-to-manage-chrome-devices/</link>
+      <pubDate>Wed, 23 Aug 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/vmware-partners-with-google-to-manage-chrome-devices/</guid>
+      <description>VMware&amp;rsquo;s AirWatch subsidiary has partnered with Google to enable unified end-point management (UEM) of all Chrome OS devices in an enterprise. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>OpenStack Sessions at VMworld 2017 Las Vegas</title>
@@ -18789,26 +18829,6 @@
       <guid>//crypt0.net/post/weekly-roundup--july-31aug-6/</guid>
       <description>One American bill was welcomed by the cryptography community; the Internet of Things (IoT) Cybersecurity Improvements Act aims to free hackers to &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Blockchain Gears Up To Conquer Ad Tech</title>
-      <link>//crypt0.net/post/blockchain-gears-up-to-conquer-ad-tech/</link>
-      <pubDate>Tue, 08 Aug 2017 01:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-gears-up-to-conquer-ad-tech/</guid>
-      <description>The blockchain is the technology that drives Bitcoin, a cryptocurrency that has recently seen a massive surge in value. While many remain skeptical &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>KM Beta: Amazon Web Services Update</title>
-      <link>//crypt0.net/post/km-beta-amazon-web-services-update/</link>
-      <pubDate>Tue, 08 Aug 2017 01:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/km-beta-amazon-web-services-update/</guid>
-      <description>to the AWS KM - specifically: IoT, CloudFront and CloudWatch custom &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
