@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 20:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 20:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mohammad Amer Shallah: [Infographic] Definition of Automatic Identification</title>
+      <link>//crypt0.net/post/mohammad-amer-shallah-infographic-definition-of-automatic-identification/</link>
+      <pubDate>Wed, 23 Aug 2017 20:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mohammad-amer-shallah-infographic-definition-of-automatic-identification/</guid>
+      <description>This diagram lays out the definition of Automatic Identification &amp;amp; Data Collection Technologies (AIDC) in an infographic form inspired mainly from the &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Hyper-converged technology gives higher-ed IT teams a lift</title>
@@ -18519,26 +18529,6 @@
       <guid>//crypt0.net/post/hpe-recruits-data-center-company-big-switch-for-its-open-networking/</guid>
       <description>DataCenterNews Asia The solution has built-in integration for VMware Software-Defined Data Centers (SDDC), OpenStack clouds and container environments, and can be &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Aeron.aero: Launching a Blockchain Solution to Make Aviation Safer</title>
-      <link>//crypt0.net/post/aeronaero-launching-a-blockchain-solution-to-make-aviation-safer/</link>
-      <pubDate>Tue, 08 Aug 2017 20:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aeronaero-launching-a-blockchain-solution-to-make-aviation-safer/</guid>
-      <description>Aeron&amp;rsquo;s solution relies on blockchain technology to track aircraft maintenance and pilot logs. Aeron is constructing a database and an online system &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>API based device model creation in SAP Cloud Platform Internet of Things</title>
-      <link>//crypt0.net/post/api-based-device-model-creation-in-sap-cloud-platform-internet-of-things/</link>
-      <pubDate>Tue, 08 Aug 2017 20:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/api-based-device-model-creation-in-sap-cloud-platform-internet-of-things/</guid>
-      <description>In contrast to my first blog we deal now how we can use the APIs from the SAP Cloud Platform Internet of Things Service. After the successfully &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
