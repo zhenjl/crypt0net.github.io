@@ -7,10 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 22:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 22:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>As software eats the world, it will also destroy the way we define</title>
+      <link>//crypt0.net/post/as-software-eats-the-world-it-will-also-destroy-the-way-we-define/</link>
+      <pubDate>Wed, 23 Aug 2017 22:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/as-software-eats-the-world-it-will-also-destroy-the-way-we-define/</guid>
+      <description>Quartz &amp;hellip; all managed remotely in globe-spanning cloud computing systems of companies like Amazon Web Services, Microsoft Azure, and Google Cloud. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud: How to Reduce Data Storage Costs and Maximize Performance</title>
+      <link>//crypt0.net/post/google-cloud-how-to-reduce-data-storage-costs-and-maximize-performance/</link>
+      <pubDate>Wed, 23 Aug 2017 22:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-how-to-reduce-data-storage-costs-and-maximize-performance/</guid>
+      <description>The Google Cloud Platform (GCP) has gained serious momentum in recent months. Data storage companies such as NetApp, Veritas, Cohesity, &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Google&#39;s Cloud Platform gets a cheaper, lower-performance networking tier</title>
+      <link>//crypt0.net/post/googles-cloud-platform-gets-a-cheaper-lowerperformance-networking-tier/</link>
+      <pubDate>Wed, 23 Aug 2017 22:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/googles-cloud-platform-gets-a-cheaper-lowerperformance-networking-tier/</guid>
+      <description>Currently, all Google Cloud users are using what&amp;rsquo;s now branded as the Premium Tier. This traffic stays on Google&amp;rsquo;s own network for as long as &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Making a business&#39;s data cloud-ready</title>
+      <link>//crypt0.net/post/making-a-businesss-data-cloudready/</link>
+      <pubDate>Wed, 23 Aug 2017 22:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/making-a-businesss-data-cloudready/</guid>
+      <description>Depending on the public cloud environment you use, you may find IAM included as a basic service, or as part of a marketplace offering. Amazon Web &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>SUSE Now Offers Linux Enterprise Server for SAP Applications on the Google</title>
+      <link>//crypt0.net/post/suse-now-offers-linux-enterprise-server-for-sap-applications-on-the-google/</link>
+      <pubDate>Wed, 23 Aug 2017 22:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/suse-now-offers-linux-enterprise-server-for-sap-applications-on-the-google/</guid>
+      <description>Database Trends and Applications SUSE Linux Enterprise Server for SAP Applications is now available as the operating system for SAP solutions on the Google Cloud Platform (GCP), &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>The Internet of What? - From HPE enterprise.nxt</title>
+      <link>//crypt0.net/post/the-internet-of-what--from-hpe-enterprisenxt/</link>
+      <pubDate>Wed, 23 Aug 2017 22:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-internet-of-what--from-hpe-enterprisenxt/</guid>
+      <description>a HPE video, hosted by Paul Muller, with Dana Gardner, Interarbor Solutions, &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>We want to democratise artificial intelligence: Google</title>
+      <link>//crypt0.net/post/we-want-to-democratise-artificial-intelligence-google/</link>
+      <pubDate>Wed, 23 Aug 2017 22:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/we-want-to-democratise-artificial-intelligence-google/</guid>
+      <description>Google as a company has always been at the forefront of computing AI,&amp;rdquo; Fei-Fei Li, Chief Scientist of Google Cloud AI and ML, told reporters during a &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Default codes and the RemoteLock 6i: A cautionary IoT tale</title>
@@ -350,16 +420,6 @@
       <guid>//crypt0.net/post/the-era-of-public-databases-of-personal-data/</guid>
       <description>Data is a toxic asset: Bruce Schneier put it best: What all these data breaches are teaching us is that data is a toxic asset and saving it is dangerous. more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>As software eats the world, it will also destroy the way we define</title>
-      <link>//crypt0.net/post/as-software-eats-the-world-it-will-also-destroy-the-way-we-define/</link>
-      <pubDate>Wed, 23 Aug 2017 12:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/as-software-eats-the-world-it-will-also-destroy-the-way-we-define/</guid>
-      <description>Quartz &amp;hellip; all managed remotely in globe-spanning cloud computing systems of companies like Amazon Web Services, Microsoft Azure, and Google Cloud. more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -18399,46 +18459,6 @@
       <guid>//crypt0.net/post/samsung-enterprise-iot-vp-we-cant-succeed-without-our-partners-in-iot/</guid>
       <description>As more vendors begin to invest in the Internet of Things, Samsung is powering ahead to stay at the forefront of the market. The company in 2015 &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning Thrives in Cancer Moonshot</title>
-      <link>//crypt0.net/post/deep-learning-thrives-in-cancer-moonshot/</link>
-      <pubDate>Tue, 08 Aug 2017 22:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/deep-learning-thrives-in-cancer-moonshot/</guid>
-      <description>Google, of course, has shown no inclination to sell TPU2 on the open market beyond providing access in the Google cloud (See HPCwire article, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Everything you ever wanted to know about serverless computing but were</title>
-      <link>//crypt0.net/post/everything-you-ever-wanted-to-know-about-serverless-computing-but-were/</link>
-      <pubDate>Tue, 08 Aug 2017 22:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/everything-you-ever-wanted-to-know-about-serverless-computing-but-were/</guid>
-      <description>Diginomica Amazon Lambda works very differently from Microsoft Azure Functions, which works very differently from Google Cloud Functions. This means that an &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google cuts prices on cloud SSDs by up to 63%</title>
-      <link>//crypt0.net/post/google-cuts-prices-on-cloud-ssds-by-up-to-63/</link>
-      <pubDate>Tue, 08 Aug 2017 22:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cuts-prices-on-cloud-ssds-by-up-to-63/</guid>
-      <description>Customers will pay up to 63 percent less for Local SSD storage that&amp;rsquo;s attached to the virtual machines they use in Google Cloud Platform. Local SSD &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Trai to start consultation process on data ownership</title>
-      <link>//crypt0.net/post/trai-to-start-consultation-process-on-data-ownership/</link>
-      <pubDate>Tue, 08 Aug 2017 22:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/trai-to-start-consultation-process-on-data-ownership/</guid>
-      <description>The regulator will seek views of carriers and entities allied with the sector besides the public, amid a spate of allegations around data breaches in the &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
