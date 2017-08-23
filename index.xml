@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 05:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 05:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The butler did it? Finding out who did what in Incident Response</title>
+      <link>//crypt0.net/post/the-butler-did-it-finding-out-who-did-what-in-incident-response/</link>
+      <pubDate>Wed, 23 Aug 2017 05:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-butler-did-it-finding-out-who-did-what-in-incident-response/</guid>
+      <description>Some log management tools will centrally collect, filter, normalise and store log data from a wide range of sources making this far easier. For cases &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Google Reveals That It&#39;s Preparing Chrome OS for Enterprise</title>
