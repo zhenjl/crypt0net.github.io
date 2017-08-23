@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 08:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 08:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft launches &#39;Project Brainwave&#39; for real-time AI</title>
+      <link>//crypt0.net/post/microsoft-launches-project-brainwave-for-realtime-ai/</link>
+      <pubDate>Wed, 23 Aug 2017 08:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-launches-project-brainwave-for-realtime-ai/</guid>
+      <description>&amp;ldquo;With the &amp;lsquo;Project Brainwave&amp;rsquo; system incorporated at scale and available to our customers, Microsoft Azure will have industry-leading capabilities for &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>So you&#39;re planning on outsourcing some enterprise security</title>
+      <link>//crypt0.net/post/so-youre-planning-on-outsourcing-some-enterprise-security/</link>
+      <pubDate>Wed, 23 Aug 2017 08:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/so-youre-planning-on-outsourcing-some-enterprise-security/</guid>
+      <description>First, just because you&amp;rsquo;ve moved your services to, say, the Microsoft or Google cloud, this doesn&amp;rsquo;t mean you shouldn&amp;rsquo;t hop back to the previous section &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>VEXXHOST Launches New Managed Container Services Featuring Kubernetes</title>
@@ -7798,36 +7818,6 @@ New Kids On The Block: Fairfax County Amazon Web Services has selected One Dulle
       
       <guid>//crypt0.net/post/google-pledges-3m-over-3-years-to-60-african-startups/</guid>
       <description>The start-up also gets product credits, Google Cloud probably offering the biggest value. Access to full suite of Launchpad initiatives and connections &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Extending versioned notifications for searchlight integration</title>
-      <link>//crypt0.net/post/extending-versioned-notifications-for-searchlight-integration/</link>
-      <pubDate>Tue, 08 Aug 2017 08:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/extending-versioned-notifications-for-searchlight-integration/</guid>
-      <description>Add &amp;lsquo;status&amp;rsquo; field for the instance notifications. See the discussion on the ML &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Zun changes the format of &#39;addresses&#39; attribute</title>
-      <link>//crypt0.net/post/zun-changes-the-format-of-addresses-attribute/</link>
-      <pubDate>Tue, 08 Aug 2017 08:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/zun-changes-the-format-of-addresses-attribute/</guid>
-      <description>is of format: { &amp;lsquo;private&amp;rsquo;: [{ &amp;lsquo;version&amp;rsquo;: 4, &amp;lsquo;addr&amp;rsquo;: &amp;lsquo;10.0.0.12&amp;rsquo;, &amp;lsquo;port&amp;rsquo;: &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>error openstack newton by Hamada S</title>
-      <link>//crypt0.net/post/error-openstack-newton-by-hamada-s/</link>
-      <pubDate>Tue, 08 Aug 2017 08:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/error-openstack-newton-by-hamada-s/</guid>
-      <description>i have prob. oslo_db.exception.DBError: (pymysql.err.InternalError) &amp;hellip; more.
 @crypt0net</description>
     </item>
     
