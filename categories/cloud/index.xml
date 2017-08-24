@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 24 Aug 2017 12:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 13:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google introduces tiers for its Google Cloud Platform</title>
+      <link>//crypt0.net/post/google-introduces-tiers-for-its-google-cloud-platform/</link>
+      <pubDate>Thu, 24 Aug 2017 13:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-introduces-tiers-for-its-google-cloud-platform/</guid>
+      <description>Google has introduced two separate tiers for its Google Cloud Platform (GCP) in an attempt to offer a wider selection of services for its customers. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Azure Log Analytics - Container Monitoring Solution general availability,</title>
