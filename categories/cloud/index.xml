@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 24 Aug 2017 01:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 01:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Benefits of Multi-Cloud Computing Architectures for MSPs</title>
+      <link>//crypt0.net/post/the-benefits-of-multicloud-computing-architectures-for-msps/</link>
+      <pubDate>Thu, 24 Aug 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-benefits-of-multicloud-computing-architectures-for-msps/</guid>
+      <description>For example, perhaps you use both Alibaba&amp;rsquo;s public cloud and Amazon Web Services (AWS) so that your clients can choose which company hosts &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google will let its cloud customers give up a huge advantage to save a wad</title>
@@ -39,16 +49,6 @@
       
       <guid>//crypt0.net/post/microsoft-heats-up-cold-storage-war-with-archive-blob/</guid>
       <description>Microsoft introduced the lowest-cost storage option Wednesday to its Azure public cloud, challenging rivals Amazon Web Services and Google Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>The Benefits of Multi-Cloud Computing Architectures for MSPs</title>
-      <link>//crypt0.net/post/the-benefits-of-multicloud-computing-architectures-for-msps/</link>
-      <pubDate>Thu, 24 Aug 2017 01:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-benefits-of-multicloud-computing-architectures-for-msps/</guid>
-      <description>A multi-cloud architecture could involve multiple public clouds &amp;ndash; such as AWS, Azure and Google Cloud Platform. Multi-cloud could also take the form &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -7858,16 +7858,6 @@ Gamma partners with Amazon to launch cloud services Gamma launched its new Cloud
       
       <guid>//crypt0.net/post/ibm-sues-former-cloud-cio-to-prevent-his-joining-amazon-web-services/</guid>
       <description>IBM Corp. is taking one of its former executives to court in a bid to stop him from starting a new job at its cloud rival Amazon Web Services. Big Blue &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Bug #1709497 new openstack installation fails  : Bugs : openstack-ansible</title>
-      <link>//crypt0.net/post/bug-1709497-new-openstack-installation-fails---bugs--openstackansible/</link>
-      <pubDate>Wed, 09 Aug 2017 01:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1709497-new-openstack-installation-fails---bugs--openstackansible/</guid>
-      <description>setup-hosts.yml. Variable files: &amp;ldquo;-e @/etc/openstack_deploy/user_secrets.yml -e &amp;hellip; more.
 @crypt0net</description>
     </item>
     

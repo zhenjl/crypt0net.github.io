@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 24 Aug 2017 01:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 01:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SME segment boosts MYOB&#39;s six-month profit to AU$28.3m</title>
+      <link>//crypt0.net/post/sme-segment-boosts-myobs-sixmonth-profit-to-au283m/</link>
+      <pubDate>Thu, 24 Aug 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/sme-segment-boosts-myobs-sixmonth-profit-to-au283m/</guid>
+      <description>In February, Reed said AI, machine learning, data and the Internet of Things (IoT), and people and the future of work were going to be the biggest &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>The Benefits of Multi-Cloud Computing Architectures for MSPs</title>
+      <link>//crypt0.net/post/the-benefits-of-multicloud-computing-architectures-for-msps/</link>
+      <pubDate>Thu, 24 Aug 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-benefits-of-multicloud-computing-architectures-for-msps/</guid>
+      <description>For example, perhaps you use both Alibaba&amp;rsquo;s public cloud and Amazon Web Services (AWS) so that your clients can choose which company hosts &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>50 Blocks to SegWit: Bitcoin&#39;s Coming Upgrade Is a Blockchain Game-Changer</title>
@@ -90,16 +110,6 @@
       <guid>//crypt0.net/post/silicon-blockchain-intels-distributed-ledger-strategy-is-all-about/</guid>
       <description>CoinDesk In the age of advanced blockchain software, some companies are turning to something more familiar in their search for security and scalability &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>The Benefits of Multi-Cloud Computing Architectures for MSPs</title>
-      <link>//crypt0.net/post/the-benefits-of-multicloud-computing-architectures-for-msps/</link>
-      <pubDate>Thu, 24 Aug 2017 01:20:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-benefits-of-multicloud-computing-architectures-for-msps/</guid>
-      <description>A multi-cloud architecture could involve multiple public clouds &amp;ndash; such as AWS, Azure and Google Cloud Platform. Multi-cloud could also take the form &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -18479,16 +18489,6 @@
       <guid>//crypt0.net/post/unable-to-compile-cayenne--mqtt-library-file-not-found/</guid>
       <description>program it gives me the below error. Unable to fine a solution. If anyone has &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Bug #1709497 new openstack installation fails  : Bugs : openstack-ansible</title>
-      <link>//crypt0.net/post/bug-1709497-new-openstack-installation-fails---bugs--openstackansible/</link>
-      <pubDate>Wed, 09 Aug 2017 01:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1709497-new-openstack-installation-fails---bugs--openstackansible/</guid>
-      <description>setup-hosts.yml. Variable files: &amp;ldquo;-e @/etc/openstack_deploy/user_secrets.yml -e &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
