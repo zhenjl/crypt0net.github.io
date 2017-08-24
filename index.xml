@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 24 Aug 2017 22:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 22:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cloud infrastructure monitoring checklist: Are you covered?</title>
+      <link>//crypt0.net/post/cloud-infrastructure-monitoring-checklist-are-you-covered/</link>
+      <pubDate>Thu, 24 Aug 2017 22:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cloud-infrastructure-monitoring-checklist-are-you-covered/</guid>
+      <description>Whether it&amp;rsquo;s on AWS, Azure, Google Cloud, OpenStack or CloudFoundry, you might want to consider the following questions before starting to monitor &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>FBI arrests Chinese national in OPM data breach</title>
@@ -566,16 +576,6 @@ Digital Threat Management Spending to Benefit Channel Even service providers tha
       <guid>//crypt0.net/post/how-real-is-the-blockchain-market-right-now/</guid>
       <description>Blockchain today is no more of a product or technology; it is a process or journey that companies are going through to understand what the blockchain &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Cloud infrastructure monitoring checklist: Are you covered?</title>
-      <link>//crypt0.net/post/cloud-infrastructure-monitoring-checklist-are-you-covered/</link>
-      <pubDate>Thu, 24 Aug 2017 17:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloud-infrastructure-monitoring-checklist-are-you-covered/</guid>
-      <description>One of their key requirements was that log management and log analytics are built-in features. Quite understandably: being able to monitor application &amp;hellip; more.
-@trustpath</description>
     </item>
     
     <item>
