@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 24 Aug 2017 05:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 05:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sliver.tv raises $9.8M to let esports fans watch in VR</title>
+      <link>//crypt0.net/post/slivertv-raises-98m-to-let-esports-fans-watch-in-vr/</link>
+      <pubDate>Thu, 24 Aug 2017 05:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/slivertv-raises-98m-to-let-esports-fans-watch-in-vr/</guid>
+      <description>&amp;hellip; to its in-house game engine, Lumberyard, and Twitch benefits from the massive networking infrastructure provided by Amazon Web Services. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>CrowdStrike Expands Operations in APAC and Achieves Strong Growth in First</title>
@@ -18639,46 +18649,6 @@
       <guid>//crypt0.net/post/the-future-of-vr-and-the-blockchain/</guid>
       <description>The following is a guest post from Ari Meilich, the project lead for Decentraland, a virtual reality platform powered by the Ethereum blockchain in which &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Bug #1709506 Random live migration failures due to ComputeServi...</title>
-      <link>//crypt0.net/post/bug-1709506-random-live-migration-failures-due-to-computeservi/</link>
-      <pubDate>Wed, 09 Aug 2017 05:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1709506-random-live-migration-failures-due-to-computeservi/</guid>
-      <description>http://logs.openstack.org/39/491439/3/gate/gate-tempest-dsvm-multinode-live -migration-ubuntu-xenial/d5c3c02/logs/subnode-2/screen-n- &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Masergy Unveils Managed Endpoint Detection and Response</title>
-      <link>//crypt0.net/post/masergy-unveils-managed-endpoint-detection-and-response/</link>
-      <pubDate>Wed, 09 Aug 2017 05:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/masergy-unveils-managed-endpoint-detection-and-response/</guid>
-      <description>launches Managed Endpoint Detection and Response service. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Agencies Need A STEM Talent Management System</title>
-      <link>//crypt0.net/post/agencies-need-a-stem-talent-management-system/</link>
-      <pubDate>Wed, 09 Aug 2017 05:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/agencies-need-a-stem-talent-management-system/</guid>
-      <description>But high-profile data breaches have shifted the focus. Government&amp;rsquo;s technology problems are as complex and difficult to address as any in the world. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Bay Area GCs Aren&#39;t Highest Paid, But Don&#39;t Feel Too Sorry for Them</title>
-      <link>//crypt0.net/post/bay-area-gcs-arent-highest-paid-but-dont-feel-too-sorry-for-them/</link>
-      <pubDate>Wed, 09 Aug 2017 05:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bay-area-gcs-arent-highest-paid-but-dont-feel-too-sorry-for-them/</guid>
-      <description>&amp;hellip; believed Bell took the blame for his failing company&amp;rsquo;s mistakes, including two separate data breaches, one of which affected 500 million customers. more.
-@trustpath</description>
     </item>
     
   </channel>
