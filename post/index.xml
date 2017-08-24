@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 24 Aug 2017 13:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 13:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,71 @@
     <item>
       <title>All the Ways US Government Cybersecurity Falls Flat</title>
       <link>//crypt0.net/post/all-the-ways-us-government-cybersecurity-falls-flat/</link>
-      <pubDate>Thu, 24 Aug 2017 13:20:04 +0000</pubDate>
+      <pubDate>Thu, 24 Aug 2017 13:50:04 +0000</pubDate>
       
       <guid>//crypt0.net/post/all-the-ways-us-government-cybersecurity-falls-flat/</guid>
-      <description>Data breaches and hacks of US government networks, once novel and shocking, have become a problematic fact of life over the last few years. more.
-@trustpath</description>
+      <description>&amp;hellip; defense (particularly when it comes to exposed Internet of Things devices), and IP address reputationmeaning that many IP addresses designated &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Aqua Security Joins the Microsoft Enterprise Cloud Alliance</title>
+      <link>//crypt0.net/post/aqua-security-joins-the-microsoft-enterprise-cloud-alliance/</link>
+      <pubDate>Thu, 24 Aug 2017 13:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aqua-security-joins-the-microsoft-enterprise-cloud-alliance/</guid>
+      <description>&amp;ldquo;Joining the Enterprise Cloud Alliance ensures enterprise customers with containerized environments on Microsoft Azure can rely on Aqua to deliver &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Dublin-based Cubic Telecom gets 40m injection to boost IoT tech</title>
+      <link>//crypt0.net/post/dublinbased-cubic-telecom-gets-40m-injection-to-boost-iot-tech/</link>
+      <pubDate>Thu, 24 Aug 2017 13:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/dublinbased-cubic-telecom-gets-40m-injection-to-boost-iot-tech/</guid>
+      <description>&amp;hellip; ambitions and, in the case of Cubic, the potential to become a leader in providing IoT/machine-to-machine solutions for the world&amp;rsquo;s leading OEMs.. more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Red Hat &amp; Microsoft on a mission to simplify container adoption for</title>
+      <link>//crypt0.net/post/red-hat--microsoft-on-a-mission-to-simplify-container-adoption-for/</link>
+      <pubDate>Thu, 24 Aug 2017 13:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/red-hat--microsoft-on-a-mission-to-simplify-container-adoption-for/</guid>
+      <description>IT Brief NZ This includes native support for Windows Server containers on Red Hat OpenShift, Red Hat OpenShift Dedicated on Microsoft Azure, and SQL Server &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Siemens Spinoff Osram Just Bought This US Industrial Light Startup</title>
+      <link>//crypt0.net/post/siemens-spinoff-osram-just-bought-this-us-industrial-light-startup/</link>
+      <pubDate>Thu, 24 Aug 2017 13:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/siemens-spinoff-osram-just-bought-this-us-industrial-light-startup/</guid>
+      <description>&amp;hellip; the actual lights are connected to each other and to a controlling hub via the Internet, is a subset of the growing Internet of Things phenomenon. more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>TraqIQ, Inc. Completes Two Acquisitions to Form Internet of Things and Data</title>
+      <link>//crypt0.net/post/traqiq-inc-completes-two-acquisitions-to-form-internet-of-things-and-data/</link>
+      <pubDate>Thu, 24 Aug 2017 13:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/traqiq-inc-completes-two-acquisitions-to-form-internet-of-things-and-data/</guid>
+      <description>Marketwired (press release) BELLEVUE, WA&amp;ndash;(Marketwired - Aug 24, 2017) - TraqIQ, Inc. (the &amp;ldquo;Company&amp;rdquo;) announced today that it has completed the acquisition of OmniM2M, Inc. more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>VIA Collaborates with Microsoft to Accelerate Internet of Things Solutions</title>
+      <link>//crypt0.net/post/via-collaborates-with-microsoft-to-accelerate-internet-of-things-solutions/</link>
+      <pubDate>Thu, 24 Aug 2017 13:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/via-collaborates-with-microsoft-to-accelerate-internet-of-things-solutions/</guid>
+      <description>Microsoft Azure Certified for IoT allows businesses to reach customers where they are, working with an ecosystem of devices and platforms, allowing &amp;hellip; more.
+@crypt0net</description>
     </item>
     
     <item>
@@ -120,16 +180,6 @@
       <guid>//crypt0.net/post/microsoft-azure-monitor-enhanced-capabilities-for-routing-logs-and-metrics/</guid>
       <description>Today we are pleased to announce a new set of capabilities within Azure Monitor for routing your Azure resource diagnostic logs and metrics to &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>VIA Collaborates with Microsoft to Accelerate Internet of Things Solutions</title>
-      <link>//crypt0.net/post/via-collaborates-with-microsoft-to-accelerate-internet-of-things-solutions/</link>
-      <pubDate>Thu, 24 Aug 2017 12:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/via-collaborates-with-microsoft-to-accelerate-internet-of-things-solutions/</guid>
-      <description>With trusted offerings and verified partners, Microsoft Azure Certified for IoT accelerates the deployment of IoT even further. Jerry Lee, Director of &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>
