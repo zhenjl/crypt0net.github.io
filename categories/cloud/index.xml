@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 24 Aug 2017 22:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 23:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tripleo-puppet-elements 7.0.0.0rc1</title>
+      <link>//crypt0.net/post/tripleopuppetelements-7000rc1/</link>
+      <pubDate>Thu, 24 Aug 2017 23:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/tripleopuppetelements-7000rc1/</guid>
+      <description>https://git.openstack.org/openstack/tripleo-puppet-elements.git more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Cloud infrastructure monitoring checklist: Are you covered?</title>
@@ -8329,16 +8339,6 @@ Mobile Helix Announces the Release of LINK 3.3 with Local Edit and Digital Marke
       
       <guid>//crypt0.net/post/microsoft-previews-office-365-groups-expiration-settings/</guid>
       <description>The new capability is at the preview stage today, Microsoft announced. It can be accessed via the Azure Portal or Azure Active Directory PowerShell. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft: Best way to host Microsoft R Server in Azure</title>
-      <link>//crypt0.net/post/microsoft-best-way-to-host-microsoft-r-server-in-azure/</link>
-      <pubDate>Wed, 09 Aug 2017 23:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-best-way-to-host-microsoft-r-server-in-azure/</guid>
-      <description>Today I was asked whether it was better to run Microsoft R Server on a Virtual Machine / Azure Container Instance or DevTest Labs. The requirement &amp;hellip; more.
 @crypt0net</description>
     </item>
     
