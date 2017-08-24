@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 24 Aug 2017 03:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 03:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aginity Amp 2.7 Extends Analytics Management to New Platforms</title>
+      <link>//crypt0.net/post/aginity-amp-27-extends-analytics-management-to-new-platforms/</link>
+      <pubDate>Thu, 24 Aug 2017 03:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aginity-amp-27-extends-analytics-management-to-new-platforms/</guid>
+      <description>Amp customers can host data or applications both on-premises and on cloud-based service platforms such as IBM BlueMix, Microsoft Azure and &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Google to out its Titan kill-switch protecting its cloud infrastructure</title>
+      <link>//crypt0.net/post/google-to-out-its-titan-killswitch-protecting-its-cloud-infrastructure/</link>
+      <pubDate>Thu, 24 Aug 2017 03:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-to-out-its-titan-killswitch-protecting-its-cloud-infrastructure/</guid>
+      <description>&amp;hellip; the company hopes, give it the jump on its biggest rivals in the $50bn projected space, Amazon Web Services (AWS) and Microsoft Azure. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How IBM is using analytics to help companies make better products</title>
@@ -643,16 +663,6 @@
     </item>
     
     <item>
-      <title>Aginity Amp 2.7 Extends Analytics Management to New Platforms</title>
-      <link>//crypt0.net/post/aginity-amp-27-extends-analytics-management-to-new-platforms/</link>
-      <pubDate>Wed, 23 Aug 2017 17:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aginity-amp-27-extends-analytics-management-to-new-platforms/</guid>
-      <description>&amp;hellip; or applications both on-premises and on cloud-based service platforms such as IBM BlueMix, Microsoft Azure and Amazon Web Services (AWS). more.
-@crypt0net</description>
-    </item>
-    
-    <item>
       <title>Level 3 offers self-service path to AWS cloud, expands private networking</title>
       <link>//crypt0.net/post/level-3-offers-selfservice-path-to-aws-cloud-expands-private-networking/</link>
       <pubDate>Wed, 23 Aug 2017 17:20:03 +0000</pubDate>
@@ -1050,16 +1060,6 @@
       <guid>//crypt0.net/post/do-iot-applications-need-intelligent-sensors/</guid>
       <description>Internet of Things applications can be complex, and many engineers are now searching for better ways to deal with the massive amounts of data &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Google to out its Titan kill-switch protecting its cloud infrastructure</title>
-      <link>//crypt0.net/post/google-to-out-its-titan-killswitch-protecting-its-cloud-infrastructure/</link>
-      <pubDate>Wed, 23 Aug 2017 10:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-to-out-its-titan-killswitch-protecting-its-cloud-infrastructure/</guid>
-      <description>&amp;hellip; more) will, the company hopes, give it the jump on its biggest rivals in the $50bn projected space, Amazon Web Services (AWS) and Microsoft Azure &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -18599,36 +18599,6 @@
       <guid>//crypt0.net/post/ibm-cio-leaves-for-aws-and-big-blue-flings-sueball-to-stop-him/</guid>
       <description>IBM has flung a sueball at Jeff Smith, its former chief information officer, because he&amp;rsquo;s trying to go to work for Amazon Web Services. Big Blue filed a &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Four Ways to Protect Yourself From Ransomware Attacks</title>
-      <link>//crypt0.net/post/four-ways-to-protect-yourself-from-ransomware-attacks/</link>
-      <pubDate>Wed, 09 Aug 2017 03:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/four-ways-to-protect-yourself-from-ransomware-attacks/</guid>
-      <description>In the first 6 months of 2017, 149 healthcare data breaches have been reported to HHS. While only one-third of breaches involved hacking/IT incidents &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Sophos advises companies to tread carefully with IoT</title>
-      <link>//crypt0.net/post/sophos-advises-companies-to-tread-carefully-with-iot/</link>
-      <pubDate>Wed, 09 Aug 2017 03:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sophos-advises-companies-to-tread-carefully-with-iot/</guid>
-      <description>THE Internet of Things (IoT) promises to deliver a world that is truly connected, where computing devices are embedded in everyday objects and are &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Mattr Innovates Marketing Payments with Blockchain-based Ethereum</title>
-      <link>//crypt0.net/post/mattr-innovates-marketing-payments-with-blockchainbased-ethereum/</link>
-      <pubDate>Wed, 09 Aug 2017 03:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mattr-innovates-marketing-payments-with-blockchainbased-ethereum/</guid>
-      <description>A blockchain-based technology, Ethereum features smart contract functionality that facilitates online contractual agreements. By integrating Ethereum &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
