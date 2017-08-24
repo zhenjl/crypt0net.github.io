@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 24 Aug 2017 09:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 09:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft: Azure AD and Intune now support macOS in conditional access!</title>
+      <link>//crypt0.net/post/microsoft-azure-ad-and-intune-now-support-macos-in-conditional-access/</link>
+      <pubDate>Thu, 24 Aug 2017 09:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-ad-and-intune-now-support-macos-in-conditional-access/</guid>
+      <description>So I&amp;rsquo;m excited to share that Azure Active Directory and Intune now support macOS platform for device-based conditional access! Administrators can &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Openstack operations are failing with &#39;ascii&#39; codec can&#39;t decode byte 0xc3</title>
+      <link>//crypt0.net/post/openstack-operations-are-failing-with-ascii-codec-cant-decode-byte-0xc3/</link>
+      <pubDate>Thu, 24 Aug 2017 09:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-operations-are-failing-with-ascii-codec-cant-decode-byte-0xc3/</guid>
+      <description>something similar on openstack logs: to present failed: Not managing &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Careless disposal of paper documents can have serious consequences: experts</title>
