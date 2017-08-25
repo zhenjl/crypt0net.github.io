@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 25 Aug 2017 10:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 10:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Review: Securing the Internet of Things</title>
+      <link>//crypt0.net/post/review-securing-the-internet-of-things/</link>
+      <pubDate>Fri, 25 Aug 2017 10:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/review-securing-the-internet-of-things/</guid>
+      <description>In the book&amp;rsquo;s introduction, the authors do a good job explaining the current situation regarding the Internet of Things: the complexities, the security &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>VIA collaborates with Microsoft to accelerate IoT solutions</title>
@@ -19979,56 +19989,6 @@
       <guid>//crypt0.net/post/larry-prior-csra-eyes-dod-private-cloud-migration-in-april-under-498m/</guid>
       <description>GovConWire CSRA also plans to expand its contract authorization to cover storage capabilities and public cloud platforms such as Amazon Web Services and &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Bug #1709663 Horizon not refreshing newly created endpoints via...</title>
-      <link>//crypt0.net/post/bug-1709663-horizon-not-refreshing-newly-created-endpoints-via/</link>
-      <pubDate>Thu, 10 Aug 2017 10:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1709663-horizon-not-refreshing-newly-created-endpoints-via/</guid>
-      <description>new service and endpoint via CLI. The Horizon dashboard wouldn&amp;rsquo;t show &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>6th Annual IoT Innovation India Conclave showcases Internet of Things will</title>
-      <link>//crypt0.net/post/6th-annual-iot-innovation-india-conclave-showcases-internet-of-things-will/</link>
-      <pubDate>Thu, 10 Aug 2017 10:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/6th-annual-iot-innovation-india-conclave-showcases-internet-of-things-will/</guid>
-      <description>Outlook India New Delhi [India], Aug 10 (-NewsVoir): The 6th Annual IoT Innovation Conclave &amp;amp; Exhibition 2017 ended on a high note with 300+ participants being &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Are you willing to pay more for 5G?</title>
-      <link>//crypt0.net/post/are-you-willing-to-pay-more-for-5g/</link>
-      <pubDate>Thu, 10 Aug 2017 10:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/are-you-willing-to-pay-more-for-5g/</guid>
-      <description>More interestingly, though, the majority respondents (57 per cent) believe that their organization&amp;rsquo;s main intention is to use 5G to drive Internet of Things &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Smashing Security #037: Boobs, dragons and data breaches</title>
-      <link>//crypt0.net/post/smashing-security-037-boobs-dragons-and-data-breaches/</link>
-      <pubDate>Thu, 10 Aug 2017 10:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/smashing-security-037-boobs-dragons-and-data-breaches/</guid>
-      <description>Hackers are holding HBO to ransom after a massive data breach, and have leaked the phone numbers and email addresses of &amp;ldquo;Game of Thrones&amp;rdquo; &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>iVEDiX Partners with Litum IoT to Expand Internet of Things Capabilities</title>
-      <link>//crypt0.net/post/ivedix-partners-with-litum-iot-to-expand-internet-of-things-capabilities/</link>
-      <pubDate>Thu, 10 Aug 2017 10:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ivedix-partners-with-litum-iot-to-expand-internet-of-things-capabilities/</guid>
-      <description>IT Business Net (press release) iVEDiX, the innovative leader in digital visualization, analytics, and workflow solutions, announced today a partnership with Litum IoT to expand the &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
