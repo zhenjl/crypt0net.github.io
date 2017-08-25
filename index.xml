@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 25 Aug 2017 11:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 11:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Here&#39;s how IoT is transforming the workspace</title>
+      <link>//crypt0.net/post/heres-how-iot-is-transforming-the-workspace/</link>
+      <pubDate>Fri, 25 Aug 2017 11:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/heres-how-iot-is-transforming-the-workspace/</guid>
+      <description>The Internet of things (IoT) is becoming an increasingly growing topic of conversation both in the workplace and outside of it. It&amp;rsquo;s a concept that not &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Latin America Internet of Things and Smart Industries</title>
+      <link>//crypt0.net/post/latin-america-internet-of-things-and-smart-industries/</link>
+      <pubDate>Fri, 25 Aug 2017 11:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/latin-america-internet-of-things-and-smart-industries/</guid>
+      <description>ability to become more efficient and able to get closer to customers and react &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Technology is the key driver for advanced healthcare</title>
+      <link>//crypt0.net/post/technology-is-the-key-driver-for-advanced-healthcare/</link>
+      <pubDate>Fri, 25 Aug 2017 11:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/technology-is-the-key-driver-for-advanced-healthcare/</guid>
+      <description>The Internet of Things has a plethora of applications in healthcare which ranges from monitoring to smart sensors and medical device integration. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>How one small agency is cutting its IT spending</title>
@@ -20365,36 +20395,6 @@ IRS Warns of Fake Tax Software Update Scheme Once the information has been colle
       
       <guid>//crypt0.net/post/google-slashes-prices-for-local-ssd-and-preemptible-vm-storage/</guid>
       <description>That brings the price down to between $0.08 and about $0.11 per GB of data per month for most of Google&amp;rsquo;s cloud regions in the U.S.. Google has also &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon will hire at least 1000 software professionals in India: The Times</title>
-      <link>//crypt0.net/post/amazon-will-hire-at-least-1000-software-professionals-in-india-the-times/</link>
-      <pubDate>Thu, 10 Aug 2017 11:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-will-hire-at-least-1000-software-professionals-in-india-the-times/</guid>
-      <description>Scroll.in It wishes to hire 195 individuals for Amazon Web Services. Currently, the firm employs around 50,000 people in India, placing the country second to &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>MongoDB, Tableau Expand Integration With BI Link</title>
-      <link>//crypt0.net/post/mongodb-tableau-expand-integration-with-bi-link/</link>
-      <pubDate>Thu, 10 Aug 2017 11:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mongodb-tableau-expand-integration-with-bi-link/</guid>
-      <description>MongoDB also has expanded into the cloud, offering its Atlas NoSQL database as a service on the Amazon Web Services (NASDAQ: AMZN), Google &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>k8s with OpenStack as cloud provider, Keystone auth token used by k8s may</title>
-      <link>//crypt0.net/post/k8s-with-openstack-as-cloud-provider-keystone-auth-token-used-by-k8s-may/</link>
-      <pubDate>Thu, 10 Aug 2017 11:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/k8s-with-openstack-as-cloud-provider-keystone-auth-token-used-by-k8s-may/</guid>
-      <description>What happened: With OpenStack as cloud provider, k8s uses the same keystone auth token to talk to OpenStack, but the keystone auth token sends to &amp;hellip; more.
 @crypt0net</description>
     </item>
     
