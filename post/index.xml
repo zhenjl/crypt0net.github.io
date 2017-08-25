@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 25 Aug 2017 10:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 11:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How one small agency is cutting its IT spending</title>
+      <link>//crypt0.net/post/how-one-small-agency-is-cutting-its-it-spending/</link>
+      <pubDate>Fri, 25 Aug 2017 11:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-one-small-agency-is-cutting-its-it-spending/</guid>
+      <description>&amp;hellip; should see bigger benefits from the cloud this year since it moved almost all of its infrastructure and applications to AWS and Microsoft Azure. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>A CRN event developed by YOU</title>
@@ -19,16 +29,6 @@
       
       <guid>//crypt0.net/post/a-crn-event-developed-by-you/</guid>
       <description>&amp;hellip; of the industry&amp;rsquo;s most disruptive player, whose revenue runrate has gone from zero to $16bn in a little more than a decade: Amazon Web Services. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How one small agency is cutting its IT spending</title>
-      <link>//crypt0.net/post/how-one-small-agency-is-cutting-its-it-spending/</link>
-      <pubDate>Fri, 25 Aug 2017 10:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-one-small-agency-is-cutting-its-it-spending/</guid>
-      <description>We migrated very successfully last year from a co-located data center in Northern Virginia to Amazon Web Services. That immediately created a lot of &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -19889,116 +19889,6 @@
       <guid>//crypt0.net/post/k8s-with-openstack-as-cloud-provider-keystone-auth-token-used-by-k8s-may/</guid>
       <description>What happened: With OpenStack as cloud provider, k8s uses the same keystone auth token to talk to OpenStack, but the keystone auth token sends to &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>037: Boobs, dragons and data breaches</title>
-      <link>//crypt0.net/post/037-boobs-dragons-and-data-breaches/</link>
-      <pubDate>Thu, 10 Aug 2017 11:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/037-boobs-dragons-and-data-breaches/</guid>
-      <description>leaked the phone numbers and email addresses of &amp;ldquo;Game of Thrones&amp;rdquo; &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Internet of Things Cybersecurity Act  An &#39;A&#39; for effort [Commentary]</title>
-      <link>//crypt0.net/post/internet-of-things-cybersecurity-act--an-a-for-effort-commentary/</link>
-      <pubDate>Thu, 10 Aug 2017 11:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/internet-of-things-cybersecurity-act--an-a-for-effort-commentary/</guid>
-      <description>2017 (IoTCA) attempts to avoid repeating history. We all know that the internet is &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Major Companies Taking Interest In Blockchain; Microsoft, VISA, IBM, And</title>
-      <link>//crypt0.net/post/major-companies-taking-interest-in-blockchain-microsoft-visa-ibm-and/</link>
-      <pubDate>Thu, 10 Aug 2017 11:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/major-companies-taking-interest-in-blockchain-microsoft-visa-ibm-and/</guid>
-      <description>EconoTimes IBM and Microsoft both are investing heavily on Blockchain, with both &amp;hellip; a product, with Microsoft putting some huge investments in Azure and cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>New in Windows security: Automatically log off suspicious users</title>
-      <link>//crypt0.net/post/new-in-windows-security-automatically-log-off-suspicious-users/</link>
-      <pubDate>Thu, 10 Aug 2017 11:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/new-in-windows-security-automatically-log-off-suspicious-users/</guid>
-      <description>The new feature in Cloud App Security (CAS), a security service launched in August 2016, collaborates with Azure Active Directory (AAD), another &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>As bitcoin comes off its record high, the next step is to avoid a</title>
-      <link>//crypt0.net/post/as-bitcoin-comes-off-its-record-high-the-next-step-is-to-avoid-a/</link>
-      <pubDate>Thu, 10 Aug 2017 10:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/as-bitcoin-comes-off-its-record-high-the-next-step-is-to-avoid-a/</guid>
-      <description>CNBC &amp;ldquo;It can also be implemented to facilitate machine to machine payments, using its smart contract framework, so that firms running various automated &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud Slashes Price On Local Flash Storage</title>
-      <link>//crypt0.net/post/google-cloud-slashes-price-on-local-flash-storage/</link>
-      <pubDate>Thu, 10 Aug 2017 10:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-slashes-price-on-local-flash-storage/</guid>
-      <description>Customers running on-demand Google Cloud Platform instances will see savings up to 63 percent for Local SSD storage; and the cost of Local SSDs &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google makes final call for next Irish cohort of Adopt A Startup</title>
-      <link>//crypt0.net/post/google-makes-final-call-for-next-irish-cohort-of-adopt-a-startup/</link>
-      <pubDate>Thu, 10 Aug 2017 10:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-makes-final-call-for-next-irish-cohort-of-adopt-a-startup/</guid>
-      <description>Seven runners-up will also be eligible for the program, along with $20,000 Google Cloud Credits while one company will also win six months&amp;rsquo; free hot &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Highlights From Iridium Communications&#39; Q2 2017 Report</title>
-      <link>//crypt0.net/post/highlights-from-iridium-communications-q2-2017-report/</link>
-      <pubDate>Thu, 10 Aug 2017 10:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/highlights-from-iridium-communications-q2-2017-report/</guid>
-      <description>Many of the new subscribers are utilizing Iridium&amp;rsquo;s 100% coverage of the globe to track assets and to enable machine-to-machine communications. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Internet and Technology: Video to Dominate Internet Traffic by 2021</title>
-      <link>//crypt0.net/post/internet-and-technology-video-to-dominate-internet-traffic-by-2021/</link>
-      <pubDate>Thu, 10 Aug 2017 10:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/internet-and-technology-video-to-dominate-internet-traffic-by-2021/</guid>
-      <description>But beyond users, the Internet of Things (IoT) and Machine-to-Machine (M2M) connections is rapidly growing and will account for half of all &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>IoT&#39;s key feature is the pennies it can pinch</title>
-      <link>//crypt0.net/post/iots-key-feature-is-the-pennies-it-can-pinch/</link>
-      <pubDate>Thu, 10 Aug 2017 10:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/iots-key-feature-is-the-pennies-it-can-pinch/</guid>
-      <description>The Internet of things (IoT), once known as the industrial Internet, or machine to machine (M2M), or wireless telemetry, is not new. What is new? more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Sapply inks Maestro and Falcom distribution deal in IoT push</title>
-      <link>//crypt0.net/post/sapply-inks-maestro-and-falcom-distribution-deal-in-iot-push/</link>
-      <pubDate>Thu, 10 Aug 2017 10:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sapply-inks-maestro-and-falcom-distribution-deal-in-iot-push/</guid>
-      <description>Falcom became a part of Maestro in 2014, forming a global group of machine to machine specialists. The new distribution agreement is part of the &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>

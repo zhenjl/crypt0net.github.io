@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 25 Aug 2017 10:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 11:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How one small agency is cutting its IT spending</title>
+      <link>//crypt0.net/post/how-one-small-agency-is-cutting-its-it-spending/</link>
+      <pubDate>Fri, 25 Aug 2017 11:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-one-small-agency-is-cutting-its-it-spending/</guid>
+      <description>&amp;hellip; should see bigger benefits from the cloud this year since it moved almost all of its infrastructure and applications to AWS and Microsoft Azure. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>A CRN event developed by YOU</title>
@@ -19,16 +29,6 @@
       
       <guid>//crypt0.net/post/a-crn-event-developed-by-you/</guid>
       <description>&amp;hellip; of the industry&amp;rsquo;s most disruptive player, whose revenue runrate has gone from zero to $16bn in a little more than a decade: Amazon Web Services. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How one small agency is cutting its IT spending</title>
-      <link>//crypt0.net/post/how-one-small-agency-is-cutting-its-it-spending/</link>
-      <pubDate>Fri, 25 Aug 2017 10:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-one-small-agency-is-cutting-its-it-spending/</guid>
-      <description>We migrated very successfully last year from a co-located data center in Northern Virginia to Amazon Web Services. That immediately created a lot of &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -8439,46 +8439,6 @@ Mobile Helix Announces the Release of LINK 3.3 with Local Edit and Digital Marke
       
       <guid>//crypt0.net/post/k8s-with-openstack-as-cloud-provider-keystone-auth-token-used-by-k8s-may/</guid>
       <description>What happened: With OpenStack as cloud provider, k8s uses the same keystone auth token to talk to OpenStack, but the keystone auth token sends to &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Major Companies Taking Interest In Blockchain; Microsoft, VISA, IBM, And</title>
-      <link>//crypt0.net/post/major-companies-taking-interest-in-blockchain-microsoft-visa-ibm-and/</link>
-      <pubDate>Thu, 10 Aug 2017 11:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/major-companies-taking-interest-in-blockchain-microsoft-visa-ibm-and/</guid>
-      <description>EconoTimes IBM and Microsoft both are investing heavily on Blockchain, with both &amp;hellip; a product, with Microsoft putting some huge investments in Azure and cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>New in Windows security: Automatically log off suspicious users</title>
-      <link>//crypt0.net/post/new-in-windows-security-automatically-log-off-suspicious-users/</link>
-      <pubDate>Thu, 10 Aug 2017 11:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/new-in-windows-security-automatically-log-off-suspicious-users/</guid>
-      <description>The new feature in Cloud App Security (CAS), a security service launched in August 2016, collaborates with Azure Active Directory (AAD), another &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud Slashes Price On Local Flash Storage</title>
-      <link>//crypt0.net/post/google-cloud-slashes-price-on-local-flash-storage/</link>
-      <pubDate>Thu, 10 Aug 2017 10:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-slashes-price-on-local-flash-storage/</guid>
-      <description>Customers running on-demand Google Cloud Platform instances will see savings up to 63 percent for Local SSD storage; and the cost of Local SSDs &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google makes final call for next Irish cohort of Adopt A Startup</title>
-      <link>//crypt0.net/post/google-makes-final-call-for-next-irish-cohort-of-adopt-a-startup/</link>
-      <pubDate>Thu, 10 Aug 2017 10:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-makes-final-call-for-next-irish-cohort-of-adopt-a-startup/</guid>
-      <description>Seven runners-up will also be eligible for the program, along with $20,000 Google Cloud Credits while one company will also win six months&amp;rsquo; free hot &amp;hellip; more.
 @crypt0net</description>
     </item>
     
