@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 25 Aug 2017 09:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 09:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VMware, ADLINK join hands to simplify Internet of Things adoption</title>
+      <link>//crypt0.net/post/vmware-adlink-join-hands-to-simplify-internet-of-things-adoption/</link>
+      <pubDate>Fri, 25 Aug 2017 09:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/vmware-adlink-join-hands-to-simplify-internet-of-things-adoption/</guid>
+      <description>VMware on Friday announced a collaboration with Taiwan-based company ADLINK Technology to provide mutual customers with a pre-integrated &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>:  backup   RHV  Red Hat OpenStack  CommVault</title>
@@ -19989,26 +19999,6 @@
       <guid>//crypt0.net/post/ivedix-partners-with-litum-iot-to-expand-internet-of-things-capabilities/</guid>
       <description>IT Business Net (press release) iVEDiX, the innovative leader in digital visualization, analytics, and workflow solutions, announced today a partnership with Litum IoT to expand the &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Bug #1709788 AllocationCandidates return duplicated allocation ...</title>
-      <link>//crypt0.net/post/bug-1709788-allocationcandidates-return-duplicated-allocation-/</link>
-      <pubDate>Thu, 10 Aug 2017 09:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bug-1709788-allocationcandidates-return-duplicated-allocation-/</guid>
-      <description>sharedstrorage1, computenode3 has local disk. The expected result from &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Dashlane Shares Its Security Report, Apps &amp; Sites Tested</title>
-      <link>//crypt0.net/post/dashlane-shares-its-security-report-apps--sites-tested/</link>
-      <pubDate>Thu, 10 Aug 2017 09:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/dashlane-shares-its-security-report-apps--sites-tested/</guid>
-      <description>At the other end of the spectrum, both Amazon Web Services and Freshbooks have considerably poor password safeguards. With a score of 1, &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
