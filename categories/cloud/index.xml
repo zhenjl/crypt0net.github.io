@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 25 Aug 2017 02:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 03:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Telstra leverages tech from Readify in new security centre</title>
+      <link>//crypt0.net/post/telstra-leverages-tech-from-readify-in-new-security-centre/</link>
+      <pubDate>Fri, 25 Aug 2017 03:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/telstra-leverages-tech-from-readify-in-new-security-centre/</guid>
+      <description>Telstra is also leveraging Microsoft Azure for its management platform. We don&amp;rsquo;t have to store racks and racks to run management platform. We run &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>azure-mgmt-servicefabric 0.1.0</title>
+      <link>//crypt0.net/post/azuremgmtservicefabric-010/</link>
+      <pubDate>Fri, 25 Aug 2017 03:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azuremgmtservicefabric-010/</guid>
+      <description>https://www.google.com/url?rct=j&amp;amp;sa=t&amp;amp;url=https://pypi.python.org/pypi/azure-mgmt-servicefabric/0.1.0&amp;amp;ct=ga&amp;amp;cd=CAEYACoTNjEyOTU2MDA5Nzg0MDQ0MTAxNjIaYTI0ODY5YjE2YjlkZDFmMDpjb206ZW46VVM&amp;amp;usg=AFQjCNHKMoFzUdsxhbNz3AUHMdAzm592BQ Securely Enabling a Hybrid Cloud in Microsoft Azure In a 2016 IDC CloudView survey, 80% of the enterprises contacted were actively engaged in public-cloud projects. The driving forces are a realization &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google Cloud Platform announces tiered cloud network</title>
@@ -8429,16 +8449,6 @@ Mobile Helix Announces the Release of LINK 3.3 with Local Edit and Digital Marke
       
       <guid>//crypt0.net/post/red-hat-updates-openshift-container-management-platform/</guid>
       <description>New hybrid cloud reference architectures run Red Hat OpenShift Container Platform on OpenStack, VMware, Amazon Web Services (AWS), Google &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Exclusive: Rackspace launches support for Microsoft Azure Stack</title>
-      <link>//crypt0.net/post/exclusive-rackspace-launches-support-for-microsoft-azure-stack/</link>
-      <pubDate>Thu, 10 Aug 2017 03:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/exclusive-rackspace-launches-support-for-microsoft-azure-stack/</guid>
-      <description>Managed cloud company Rackspace has announced its Fanatical Support service will be available for Microsoft Azure Stack. As a launch-day global &amp;hellip; more.
 @crypt0net</description>
     </item>
     
