@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 10 Sep 2017 11:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2017 11:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Shows Off Automated IoT Device Configuration Service</title>
+      <link>//crypt0.net/post/microsoft-shows-off-automated-iot-device-configuration-service/</link>
+      <pubDate>Sun, 10 Sep 2017 11:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-shows-off-automated-iot-device-configuration-service/</guid>
+      <description>6, Microsoft announced that Azure App Service has been made generally available on Linux along with a new Web App for Containers feature that &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Management Skills Training To Use Learning Reinforcement and Gamification</title>
@@ -299,16 +309,6 @@
       
       <guid>//crypt0.net/post/breaking-down-the-blockchain-understanding-the-future-of-cryptocurrency/</guid>
       <description>Influencive I was listening to Tim Ferriss&amp;rsquo; interview recently where he was comparing blockchain to a fly in amber and the way that works. Let&amp;rsquo;s start at the basic &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Shows Off Automated IoT Device Configuration Service</title>
-      <link>//crypt0.net/post/microsoft-shows-off-automated-iot-device-configuration-service/</link>
-      <pubDate>Sun, 10 Sep 2017 02:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-shows-off-automated-iot-device-configuration-service/</guid>
-      <description>&amp;hellip; can be accomplished manually, acknowledged Sam George, partner Director of Azure Internet of Things at Microsoft in a Sept. 6 announcement. more.
 @surgethings</description>
     </item>
     
@@ -17679,26 +17679,6 @@
       <guid>//crypt0.net/post/visionet-systems-becomes-amazon-web-services-advanced-technology-partner/</guid>
       <description>Visionet Systems has been accepted into the Advanced tier of the Amazon Web Services (AWS) Partner Network (APN). Visionet has been using AWS &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>DetectorToken Announces an ICO for Blockchain Based Bot</title>
-      <link>//crypt0.net/post/detectortoken-announces-an-ico-for-blockchain-based-bot/</link>
-      <pubDate>Sat, 26 Aug 2017 11:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/detectortoken-announces-an-ico-for-blockchain-based-bot/</guid>
-      <description>DetectorToken, a Polish-based blockchain start-up is the creator of a bot software called &amp;lsquo;Bot Detector&amp;rsquo;, which automates the process of guiding new &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>IOTA price: Building next generation blockchain without blocks or chain</title>
-      <link>//crypt0.net/post/iota-price-building-next-generation-blockchain-without-blocks-or-chain/</link>
-      <pubDate>Sat, 26 Aug 2017 11:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/iota-price-building-next-generation-blockchain-without-blocks-or-chain/</guid>
-      <description>In blockchain-based networks such as Bitcoin, transactions are validated by miners, who use special software and expensive computer hardware to &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
