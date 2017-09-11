@@ -7,10 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 11 Sep 2017 22:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Sep 2017 22:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure Archive Storage and Blob-Level Tiering</title>
+      <link>//crypt0.net/post/azure-archive-storage-and-bloblevel-tiering/</link>
+      <pubDate>Mon, 11 Sep 2017 22:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-archive-storage-and-bloblevel-tiering/</guid>
+      <description>You can think of an Azure storage stamp as a massive, resilient database cluster. &amp;hellip; Microsoft made this possible by using some form of offline storage. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Digital media disruptors become latest target for cyber criminals</title>
+      <link>//crypt0.net/post/digital-media-disruptors-become-latest-target-for-cyber-criminals/</link>
+      <pubDate>Mon, 11 Sep 2017 22:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/digital-media-disruptors-become-latest-target-for-cyber-criminals/</guid>
+      <description>As new business models take the digital economy by storm, innovative methods of monetising stolen credentials found on the dark web are emerging, &amp;hellip; more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>Fresh concerns after cops bust gang cloning fingerprints of Aadhaar</title>
+      <link>//crypt0.net/post/fresh-concerns-after-cops-bust-gang-cloning-fingerprints-of-aadhaar/</link>
+      <pubDate>Mon, 11 Sep 2017 22:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/fresh-concerns-after-cops-bust-gang-cloning-fingerprints-of-aadhaar/</guid>
+      <description>Hindustan Times &amp;hellip; adding that fingerprint stamps and technical knowhow was widely distributed to allow multiple logins and enrolments using the stolen credentials. more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure gets a new VM family for bursty workloads</title>
+      <link>//crypt0.net/post/microsoft-azure-gets-a-new-vm-family-for-bursty-workloads/</link>
+      <pubDate>Mon, 11 Sep 2017 22:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-gets-a-new-vm-family-for-bursty-workloads/</guid>
+      <description>Microsoft today announced the preview launch of a new family of virtual machines for its Azure cloud computing platform that&amp;rsquo;s specifically geared &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Rackspace Is Buying This Rival to Expand Cloud Computing Options</title>
+      <link>//crypt0.net/post/rackspace-is-buying-this-rival-to-expand-cloud-computing-options/</link>
+      <pubDate>Mon, 11 Sep 2017 22:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/rackspace-is-buying-this-rival-to-expand-cloud-computing-options/</guid>
+      <description>Prior to that, Datapipe bought GoGrid, a public cloud competitor to AWS and Microsoft Azure. Datapipe has more of a presence among large &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Blockchain Providing Bridge for Unbanked, Lifting Global Economy</title>
@@ -18139,26 +18189,6 @@
       <guid>//crypt0.net/post/amazon-web-services-on-linkedin-new-10minute-tutorial-makes-it/</guid>
       <description>between microservices using SQS: http://amzn.to/2wKsXZL &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Crypto Analysis Engine Trackr Raises nearly $150K  ICO is currently LIVE</title>
-      <link>//crypt0.net/post/crypto-analysis-engine-trackr-raises-nearly-150k--ico-is-currently-live/</link>
-      <pubDate>Sun, 27 Aug 2017 22:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/crypto-analysis-engine-trackr-raises-nearly-150k--ico-is-currently-live/</guid>
-      <description>Blockchain News Built on the immutable Ethereum blockchain technology and crypto exchange API&amp;rsquo;s, the team have developed an analysis engine with an &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Ninth Edition of d10e Conference To Host The First Official Blockchain</title>
-      <link>//crypt0.net/post/ninth-edition-of-d10e-conference-to-host-the-first-official-blockchain/</link>
-      <pubDate>Sun, 27 Aug 2017 22:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ninth-edition-of-d10e-conference-to-host-the-first-official-blockchain/</guid>
-      <description>Blockchain News d10e is proud to announce the first official gathering of the Blockchain Investors Consortium (BIC) at the ninth edition of d10e, which will be hosted in &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>

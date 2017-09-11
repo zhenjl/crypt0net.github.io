@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 11 Sep 2017 20:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Sep 2017 22:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure Archive Storage and Blob-Level Tiering</title>
+      <link>//crypt0.net/post/azure-archive-storage-and-bloblevel-tiering/</link>
+      <pubDate>Mon, 11 Sep 2017 22:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-archive-storage-and-bloblevel-tiering/</guid>
+      <description>You can think of an Azure storage stamp as a massive, resilient database cluster. &amp;hellip; Microsoft made this possible by using some form of offline storage. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure gets a new VM family for bursty workloads</title>
+      <link>//crypt0.net/post/microsoft-azure-gets-a-new-vm-family-for-bursty-workloads/</link>
+      <pubDate>Mon, 11 Sep 2017 22:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-gets-a-new-vm-family-for-bursty-workloads/</guid>
+      <description>Microsoft today announced the preview launch of a new family of virtual machines for its Azure cloud computing platform that&amp;rsquo;s specifically geared &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Rackspace Is Buying This Rival to Expand Cloud Computing Options</title>
+      <link>//crypt0.net/post/rackspace-is-buying-this-rival-to-expand-cloud-computing-options/</link>
+      <pubDate>Mon, 11 Sep 2017 22:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/rackspace-is-buying-this-rival-to-expand-cloud-computing-options/</guid>
+      <description>Prior to that, Datapipe bought GoGrid, a public cloud competitor to AWS and Microsoft Azure. Datapipe has more of a presence among large &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>What is AWS Security? Risks, Best Practices, and More</title>
