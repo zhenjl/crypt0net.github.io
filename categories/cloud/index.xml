@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 12 Sep 2017 21:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 21:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Azure Analysis Services with Azure Data Lake Storage</title>
+      <link>//crypt0.net/post/using-azure-analysis-services-with-azure-data-lake-storage/</link>
+      <pubDate>Tue, 12 Sep 2017 21:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/using-azure-analysis-services-with-azure-data-lake-storage/</guid>
+      <description>Power BI, Microsoft Office Excel, and Microsoft SQL Server Reporting &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Trusting the cloud can improve your business performance and you&#39;ll be</title>
