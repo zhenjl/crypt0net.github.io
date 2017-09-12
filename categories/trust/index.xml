@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 12 Sep 2017 11:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 11:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Top 10 Docker logging gotchas every Docker user should know</title>
+      <link>//crypt0.net/post/top-10-docker-logging-gotchas-every-docker-user-should-know/</link>
+      <pubDate>Tue, 12 Sep 2017 11:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/top-10-docker-logging-gotchas-every-docker-user-should-know/</guid>
+      <description>Docker changed the way applications are deployed, as well as the workflow for log management. In this article, Stefan Thies reveals the top 10 Docker &amp;hellip; more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>VMware Charges Into OpenStack VIM Market</title>
+      <link>//crypt0.net/post/vmware-charges-into-openstack-vim-market/</link>
+      <pubDate>Tue, 12 Sep 2017 11:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/vmware-charges-into-openstack-vim-market/</guid>
+      <description>&amp;hellip; bringing the integrated management tools of its infrastructure to OpenStack, including analytics, fault performance, managed data, log management, &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>AIB admits to old-fashioned data breach of 500 Galway customers</title>
