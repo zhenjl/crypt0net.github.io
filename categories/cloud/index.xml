@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 12 Sep 2017 00:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 01:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to get the Kubernetes help you need</title>
+      <link>//crypt0.net/post/how-to-get-the-kubernetes-help-you-need/</link>
+      <pubDate>Tue, 12 Sep 2017 01:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-get-the-kubernetes-help-you-need/</guid>
+      <description>Canonical announces further enterprise Kubernetes support options CoreOS extends Kubernetes to Microsoft Azure Kubernetes 1.7 released. 0. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Adds Guest Access to Microsoft Teams</title>
+      <link>//crypt0.net/post/microsoft-adds-guest-access-to-microsoft-teams/</link>
+      <pubDate>Tue, 12 Sep 2017 01:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-adds-guest-access-to-microsoft-teams/</guid>
+      <description>The guest invite capability in Microsoft Teams is enabled through the Azure AD B2B service, which is currently available in Europe and North America. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Take a test drive of Chef Automate on Microsoft Azure</title>
+      <link>//crypt0.net/post/take-a-test-drive-of-chef-automate-on-microsoft-azure/</link>
+      <pubDate>Tue, 12 Sep 2017 01:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/take-a-test-drive-of-chef-automate-on-microsoft-azure/</guid>
+      <description>provides the tools for automating modern and legacy architectures. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Container adoption still low barks Cloud Foundation</title>
