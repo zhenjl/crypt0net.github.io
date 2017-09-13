@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 13 Sep 2017 08:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2017 08:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft&#39;s latest cloud instances carry over unused performance</title>
+      <link>//crypt0.net/post/microsofts-latest-cloud-instances-carry-over-unused-performance/</link>
+      <pubDate>Wed, 13 Sep 2017 08:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsofts-latest-cloud-instances-carry-over-unused-performance/</guid>
+      <description>Amazon Web Services Inc., the market leader, has offered a similar capability with its T2 instances since 2014. Google Inc. likewise provides virtual &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Massachusetts Will Hit Equifax With First State Lawsuit Over Data Breach</title>
@@ -1179,16 +1189,6 @@
       
       <guid>//crypt0.net/post/goldman-sachs-leads-38m-investment-in-cloud-storage-firm-nasuni/</guid>
       <description>The software stores all of a customer&amp;rsquo;s files in the cloud (with partners like Microsoft Azure, Amazon Web Services, IBM, and Dell EMC), but it also &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft&#39;s latest cloud instances carry over unused performance</title>
-      <link>//crypt0.net/post/microsofts-latest-cloud-instances-carry-over-unused-performance/</link>
-      <pubDate>Tue, 12 Sep 2017 17:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsofts-latest-cloud-instances-carry-over-unused-performance/</guid>
-      <description>Microsoft&amp;rsquo;s Azure Functions offering provides an even more fine-grained billing model. The service enables customers to run code on-demand in &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -19290,26 +19290,6 @@
       <guid>//crypt0.net/post/cios-are-turning-to-blockchain-technology/</guid>
       <description>Blockchain is a rising star in the business world. It has moved beyond a tool for financial services and transactions and is filtering into diverse &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Evolution of Smart Home and the Internet of Things</title>
-      <link>//crypt0.net/post/evolution-of-smart-home-and-the-internet-of-things/</link>
-      <pubDate>Tue, 29 Aug 2017 08:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/evolution-of-smart-home-and-the-internet-of-things/</guid>
-      <description>The Internet of Things can be easily called the next big leap that will enhance the evolution of wireless networking, big data and connected devices &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>VMworld 2017: VMware Brings Its Cloud Services to AWS</title>
-      <link>//crypt0.net/post/vmworld-2017-vmware-brings-its-cloud-services-to-aws/</link>
-      <pubDate>Tue, 29 Aug 2017 08:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vmworld-2017-vmware-brings-its-cloud-services-to-aws/</guid>
-      <description>On Monday at the VMworld 2017 conference in Las Vegas, VMware announced the initial availability of VMware Cloud on Amazon Web Services &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
