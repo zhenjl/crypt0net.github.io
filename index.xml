@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 13 Sep 2017 19:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2017 19:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NuoDB On Why Cloud Data Has Elasticity, Flexibility, But Also Persistence</title>
+      <link>//crypt0.net/post/nuodb-on-why-cloud-data-has-elasticity-flexibility-but-also-persistence/</link>
+      <pubDate>Wed, 13 Sep 2017 19:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/nuodb-on-why-cloud-data-has-elasticity-flexibility-but-also-persistence/</guid>
+      <description>This integration currently includes support for Amazon Web Services and Docker containers and now added support for Google Cloud, Microsoft &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>VMware aims to make multi-cloud world an easy place to be</title>
+      <link>//crypt0.net/post/vmware-aims-to-make-multicloud-world-an-easy-place-to-be/</link>
+      <pubDate>Wed, 13 Sep 2017 19:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/vmware-aims-to-make-multicloud-world-an-easy-place-to-be/</guid>
+      <description>At the US event in Las Vegas, a significant announcement was the availability on Amazon Web Services (AWS) of VMware Cloud. On stage in &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Xilinx Software Defined Development Environment for Data Center</title>
+      <link>//crypt0.net/post/xilinx-software-defined-development-environment-for-data-center/</link>
+      <pubDate>Wed, 13 Sep 2017 19:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/xilinx-software-defined-development-environment-for-data-center/</guid>
+      <description>Broadway World &amp;hellip; environment, SDAccel, is now available on Amazon Web Services (AWS) for use with Amazon Elastic Compute Cloud (Amazon EC2) F1 instances. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Even Auntie Maxine knows, we&#39;ll need more than outrage to prevent another</title>
@@ -99,16 +129,6 @@
       
       <guid>//crypt0.net/post/microsoft-has-entered-the-cryptocurrency-market-with-blockchain-contract/</guid>
       <description>When it comes down to service delivery, Microsoft Azure will be at the forefront. This is great news for the company as it aims to use its cloud services &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>NuoDB On Why Cloud Data Has Elasticity, Flexibility, But Also Persistence</title>
-      <link>//crypt0.net/post/nuodb-on-why-cloud-data-has-elasticity-flexibility-but-also-persistence/</link>
-      <pubDate>Wed, 13 Sep 2017 18:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nuodb-on-why-cloud-data-has-elasticity-flexibility-but-also-persistence/</guid>
-      <description>&amp;hellip; support for Amazon Web Services and Docker containers and now added support for Google Cloud, Microsoft Azure and Red Hat environments. more.
 @crypt0net</description>
     </item>
     
