@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 13 Sep 2017 22:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2017 23:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dell EMC and VMware NFV Solution Accelerates Production Deployment for CSPs</title>
+      <link>//crypt0.net/post/dell-emc-and-vmware-nfv-solution-accelerates-production-deployment-for-csps/</link>
+      <pubDate>Wed, 13 Sep 2017 23:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/dell-emc-and-vmware-nfv-solution-accelerates-production-deployment-for-csps/</guid>
+      <description>Dell EMC and VMware have pre-integrated and pre-validated Dell EMC cloud infrastructure hardware and the OpenStack-ready VMware vCloud NFV &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amagi announces Microsoft Azure integration for Cloudport</title>
@@ -19240,26 +19250,6 @@
       <guid>//crypt0.net/post/gen-re-partners-with-ixledger-on-blockchain-for-life--health-insurance/</guid>
       <description>iXledger and Gen Re have announced a partnership to use blockchain and other technologies to develop life and health insurance cover products. more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Google Introduces Beta Version of App Engine Firewall</title>
-      <link>//crypt0.net/post/google-introduces-beta-version-of-app-engine-firewall/</link>
-      <pubDate>Tue, 29 Aug 2017 23:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-introduces-beta-version-of-app-engine-firewall/</guid>
-      <description>Developers can implement their firewall rules within the Google Cloud Console, the App Engine Admin API, or gcloud command-line tool. Within the &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Pivotal, Google Cloud at Center of Recent VMware Collaboration</title>
-      <link>//crypt0.net/post/pivotal-google-cloud-at-center-of-recent-vmware-collaboration/</link>
-      <pubDate>Tue, 29 Aug 2017 23:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/pivotal-google-cloud-at-center-of-recent-vmware-collaboration/</guid>
-      <description>August 29, 2017 - LAS VEGAS &amp;ndash; VMworld 2017 day two started with VMware announcing its collaboration with Pivotal and Google Cloud on the &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
