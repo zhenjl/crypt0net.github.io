@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 12 Sep 2017 23:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2017 00:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weintek Changes The HMI Market With Remote Access</title>
+      <link>//crypt0.net/post/weintek-changes-the-hmi-market-with-remote-access/</link>
+      <pubDate>Wed, 13 Sep 2017 00:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/weintek-changes-the-hmi-market-with-remote-access/</guid>
+      <description>Remote access through the cMT Viewer application (or EasyAccess 2.0 and OPC-UA and MQTT compatibility) provides unlimited control and &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Blockchain Foundry Launches Revolutionary Platform for Business</title>
@@ -8529,16 +8539,6 @@
       
       <guid>//crypt0.net/post/utrust-joins-blockchain-consortium-crypto-valley-in-switzerland/</guid>
       <description>leading internet technologies and multibillion-dollar businesses were born. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Enhancement: Add support for availability_topic to MQTT Light, MQTT Sensor</title>
-      <link>//crypt0.net/post/enhancement-add-support-for-availabilitytopic-to-mqtt-light-mqtt-sensor/</link>
-      <pubDate>Tue, 29 Aug 2017 00:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/enhancement-add-support-for-availabilitytopic-to-mqtt-light-mqtt-sensor/</guid>
-      <description>The MQTT Switch component optionally supports an &amp;ldquo;availability_topic&amp;rdquo; (and the corresponding &amp;ldquo;payload_available&amp;rdquo; and &amp;ldquo;payload_not_available&amp;rdquo; &amp;hellip; more.
 @surgethings</description>
     </item>
     
