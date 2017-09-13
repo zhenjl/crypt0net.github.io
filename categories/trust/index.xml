@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 13 Sep 2017 08:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2017 08:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>configure SNMP and remote sys log</title>
+      <link>//crypt0.net/post/configure-snmp-and-remote-sys-log/</link>
+      <pubDate>Wed, 13 Sep 2017 08:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/configure-snmp-and-remote-sys-log/</guid>
+      <description>configure sophos for this and verify that every setting is done at sophos end. more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Massachusetts Will Hit Equifax With First State Lawsuit Over Data Breach</title>
