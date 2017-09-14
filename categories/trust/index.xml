@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 14 Sep 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2017 18:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sophos Endpoint protection no firewall service?</title>
+      <link>//crypt0.net/post/sophos-endpoint-protection-no-firewall-service/</link>
+      <pubDate>Thu, 14 Sep 2017 18:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/sophos-endpoint-protection-no-firewall-service/</guid>
+      <description>Is this a separate product? Do I need to enable Windows Firewall? If so, are &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Daily Security News from @trustpath - Sep 14, 2017</title>

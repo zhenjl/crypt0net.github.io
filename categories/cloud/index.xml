@@ -7,10 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 14 Sep 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2017 18:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS now offers a virtual machine with over 4TB of memory</title>
+      <link>//crypt0.net/post/aws-now-offers-a-virtual-machine-with-over-4tb-of-memory/</link>
+      <pubDate>Thu, 14 Sep 2017 18:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-now-offers-a-virtual-machine-with-over-4tb-of-memory/</guid>
+      <description>It&amp;rsquo;s worth noting that Microsoft Azure&amp;rsquo;s largest memory-optimized machine currently tops out at just over 2TB and that Google already calls it quits at &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Azure confidential computing brings data in use encryption to the platform</title>
+      <link>//crypt0.net/post/azure-confidential-computing-brings-data-in-use-encryption-to-the-platform/</link>
+      <pubDate>Thu, 14 Sep 2017 18:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-confidential-computing-brings-data-in-use-encryption-to-the-platform/</guid>
+      <description>Extending its commitment to data security and user privacy, Microsoft has just announced the addition to its platform of something it calls Azure &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Equinix invests $122m on standard-setting Silicon Valley data center</title>
+      <link>//crypt0.net/post/equinix-invests-122m-on-standardsetting-silicon-valley-data-center/</link>
+      <pubDate>Thu, 14 Sep 2017 18:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/equinix-invests-122m-on-standardsetting-silicon-valley-data-center/</guid>
+      <description>Equinix Silicon Valley sites also include 125 network providers and cloud services such as AWS, Microsoft Azure, Google Cloud Platform, Oracle &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft introduces Azure confidential computing, a cutting-edge security</title>
+      <link>//crypt0.net/post/microsoft-introduces-azure-confidential-computing-a-cuttingedge-security/</link>
+      <pubDate>Thu, 14 Sep 2017 18:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-introduces-azure-confidential-computing-a-cuttingedge-security/</guid>
+      <description>MSPoweruser Microsoft today announced Azure confidential computing, an industry first solution to secure data in the cloud even when it is in use. Cloud platforms &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>WANdisco Fusion(R) Now Available in the Oracle Cloud Marketplace</title>
+      <link>//crypt0.net/post/wandisco-fusionr-now-available-in-the-oracle-cloud-marketplace/</link>
+      <pubDate>Thu, 14 Sep 2017 18:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/wandisco-fusionr-now-available-in-the-oracle-cloud-marketplace/</guid>
+      <description>&amp;hellip; Google Cloud, Hewlett Packard Enterprise, Microsoft Azure, and Oracle to resell its patented technology. WANdisco also works directly with Fortune &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Sep 14, 2017</title>
@@ -7419,46 +7469,6 @@ Cisco begins field tests for ACI Virtual Edge &amp;hellip; announcing it intends
       
       <guid>//crypt0.net/post/pivotal-container-service-hardwires-cloud-foundry-kubo-to-google-cloud/</guid>
       <description>president of product management for Google Cloud Platform. All of you running &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Altamira Lumify Now Available on Microsoft Azure</title>
-      <link>//crypt0.net/post/altamira-lumify-now-available-on-microsoft-azure/</link>
-      <pubDate>Wed, 30 Aug 2017 18:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/altamira-lumify-now-available-on-microsoft-azure/</guid>
-      <description>Altamira Lumify Now Available on Microsoft Azure Altamira&amp;rsquo;s Lumify can now be purchased through the Microsoft Azure Marketplace and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Auditing Azure Usage Using Activity Log</title>
-      <link>//crypt0.net/post/auditing-azure-usage-using-activity-log/</link>
-      <pubDate>Wed, 30 Aug 2017 18:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/auditing-azure-usage-using-activity-log/</guid>
-      <description>In this post, I will explain how all actions in Azure are recorded, can be archived &amp;hellip; Compute/Virtual Machines) or Network Security Groups (Microsoft. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Diving into Azure Stack with this batch of FAQs</title>
-      <link>//crypt0.net/post/diving-into-azure-stack-with-this-batch-of-faqs/</link>
-      <pubDate>Wed, 30 Aug 2017 18:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/diving-into-azure-stack-with-this-batch-of-faqs/</guid>
-      <description>These are listed at https://azure.microsoft.com/en-us/overview/azure-stack/how-to-buy/. This billing works by sending the metering data to Azure. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>New Microsoft Azure Blog Storage Features Launched in Preview</title>
-      <link>//crypt0.net/post/new-microsoft-azure-blog-storage-features-launched-in-preview/</link>
-      <pubDate>Wed, 30 Aug 2017 18:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/new-microsoft-azure-blog-storage-features-launched-in-preview/</guid>
-      <description>Over the course of the last week Microsoft made two separate announcements about features for their Azure Blog Storage service that have begun to &amp;hellip; more.
 @crypt0net</description>
     </item>
     
