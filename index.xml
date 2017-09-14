@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 14 Sep 2017 06:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2017 07:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Video: Best Practices for Security at Scale</title>
+      <link>//crypt0.net/post/aws-video-best-practices-for-security-at-scale/</link>
+      <pubDate>Thu, 14 Sep 2017 07:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-video-best-practices-for-security-at-scale/</guid>
+      <description>&amp;hellip; AWS Three-Tier Web Architecture benchmarks. Come learn how to Just Turn It On! This video is from the fine folks at Amazon Web Services (AWS) &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Xilinx Software Defined Development Environment for Data Center</title>
+      <link>//crypt0.net/post/xilinx-software-defined-development-environment-for-data-center/</link>
+      <pubDate>Thu, 14 Sep 2017 07:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/xilinx-software-defined-development-environment-for-data-center/</guid>
+      <description>Design and Reuse (press release) &amp;hellip; SDAccel, is now available on Amazon Web Services (AWS) for use with Amazon Elastic Compute Cloud (Amazon EC2) F1 instances. Amazon &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>WANdisco Fusion now Available in the Oracle Cloud Marketplace</title>
@@ -929,16 +949,6 @@
       
       <guid>//crypt0.net/post/nuodb-on-why-cloud-data-has-elasticity-flexibility-but-also-persistence/</guid>
       <description>This integration currently includes support for Amazon Web Services and Docker containers and now added support for Google Cloud, Microsoft &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Xilinx Software Defined Development Environment for Data Center</title>
-      <link>//crypt0.net/post/xilinx-software-defined-development-environment-for-data-center/</link>
-      <pubDate>Wed, 13 Sep 2017 19:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/xilinx-software-defined-development-environment-for-data-center/</guid>
-      <description>Broadway World &amp;hellip; environment, SDAccel, is now available on Amazon Web Services (AWS) for use with Amazon Elastic Compute Cloud (Amazon EC2) F1 instances. more.
 @crypt0net</description>
     </item>
     
@@ -20064,26 +20074,6 @@ You may need cyber insurance, whether you want it or not Hacking and data breach
       
       <guid>//crypt0.net/post/hackers-rewrite-jimmy-nukebot-malware-to-change-its-goals-and-tasks/</guid>
       <description>Then, security teams can survey the environment to cross-reference where Jimmy could be hiding threat hunting, he said. Secondly, organisations &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Adopting simple cyber hygiene key to stop breaches: VMware CEO</title>
-      <link>//crypt0.net/post/adopting-simple-cyber-hygiene-key-to-stop-breaches-vmware-ceo/</link>
-      <pubDate>Wed, 30 Aug 2017 06:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/adopting-simple-cyber-hygiene-key-to-stop-breaches-vmware-ceo/</guid>
-      <description>As cyber attacks gain momentum despite the technology giants investing over $100 billion a year to protect data breaches, the time is ripe to turn to &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Most small businesses are failing basic IT security</title>
-      <link>//crypt0.net/post/most-small-businesses-are-failing-basic-it-security/</link>
-      <pubDate>Wed, 30 Aug 2017 06:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/most-small-businesses-are-failing-basic-it-security/</guid>
-      <description>Despite widely publicised data breaches in 2016 and 2017, and looming changes to the laws around data protection, most small businesses do not &amp;hellip; more.
 @trustpath</description>
     </item>
     
