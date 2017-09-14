@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 14 Sep 2017 07:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2017 08:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>China&#39;s Internet of Vehicles set for fast growth</title>
+      <link>//crypt0.net/post/chinas-internet-of-vehicles-set-for-fast-growth/</link>
+      <pubDate>Thu, 14 Sep 2017 08:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/chinas-internet-of-vehicles-set-for-fast-growth/</guid>
+      <description>BEIJING, Sept. 14 (Xinhua) &amp;ndash; Self-driving cars, semi-autonomous vehicles and smart cars turned the recently-concluded World Internet of Things Expo &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Chirpy, chirpy, cheap, cheap: printable IoT radios for 10 cents each</title>
+      <link>//crypt0.net/post/chirpy-chirpy-cheap-cheap-printable-iot-radios-for-10-cents-each/</link>
+      <pubDate>Thu, 14 Sep 2017 08:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/chirpy-chirpy-cheap-cheap-printable-iot-radios-for-10-cents-each/</guid>
+      <description>One of the favourite low-power radio techniques in Internet of Things research is backscatter communications: the transmitter sends a signal to a &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Scams &amp; Swindles: Protect yourself in wake of Equifax breach</title>
+      <link>//crypt0.net/post/scams--swindles-protect-yourself-in-wake-of-equifax-breach/</link>
+      <pubDate>Thu, 14 Sep 2017 08:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/scams--swindles-protect-yourself-in-wake-of-equifax-breach/</guid>
+      <description>Hopefully we&amp;rsquo;ll get to a point where these data breaches are few and far between, but until that time comes we all must do our best to protect ourselves &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Microsoft: Protecting applications and data on Azure Stack</title>
@@ -19540,66 +19570,6 @@
       <guid>//crypt0.net/post/controle-releases-new-legal-hold-ediscovery-tool-for-office-365/</guid>
       <description>&amp;hellip; that it has launched eNotify, a legal hold management Software-as-a-Service (SaaS) solution for Microsoft Office 365 built in Microsoft Azure. more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Azure Active Directory Domain Services Gets Preview Support for Resource</title>
-      <link>//crypt0.net/post/azure-active-directory-domain-services-gets-preview-support-for-resource/</link>
-      <pubDate>Wed, 30 Aug 2017 08:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-active-directory-domain-services-gets-preview-support-for-resource/</guid>
-      <description>Redmondmag.com Microsoft today announced a public preview of new Azure Active Directory Domain Services support for virtual networks using Azure Resource &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How VMware on AWS compares to Microsoft Azure Stack</title>
-      <link>//crypt0.net/post/how-vmware-on-aws-compares-to-microsoft-azure-stack/</link>
-      <pubDate>Wed, 30 Aug 2017 08:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-vmware-on-aws-compares-to-microsoft-azure-stack/</guid>
-      <description>Some analysis presents the moves as a counter to Microsoft&amp;rsquo;s Azure Stack, though VCF and Azure Stack solve two different sets of problems. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft&#39;s Project Brainwave Might Be Better Than Google&#39;s Cloud TPU</title>
-      <link>//crypt0.net/post/microsofts-project-brainwave-might-be-better-than-googles-cloud-tpu/</link>
-      <pubDate>Wed, 30 Aug 2017 08:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsofts-project-brainwave-might-be-better-than-googles-cloud-tpu/</guid>
-      <description>Project Brainwave&amp;rsquo;s real-time AI capability could help Microsoft catch up &amp;hellip; Azure&amp;rsquo;s lead over Google Cloud is likely going to grow further because of &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OSNEXUS and Pogo Linux Announce Hybrid Cloud Storage Solution for Microsoft</title>
-      <link>//crypt0.net/post/osnexus-and-pogo-linux-announce-hybrid-cloud-storage-solution-for-microsoft/</link>
-      <pubDate>Wed, 30 Aug 2017 08:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/osnexus-and-pogo-linux-announce-hybrid-cloud-storage-solution-for-microsoft/</guid>
-      <description>PR Newswire (press release) QuantaStor Virtual Storage Appliances are Microsoft Azure-hosted virtual SAN/NAS storage appliances that support all major protocols including &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Target is plotting a big move away from AWS as Amazon takes over retail</title>
-      <link>//crypt0.net/post/target-is-plotting-a-big-move-away-from-aws-as-amazon-takes-over-retail/</link>
-      <pubDate>Wed, 30 Aug 2017 08:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/target-is-plotting-a-big-move-away-from-aws-as-amazon-takes-over-retail/</guid>
-      <description>Microsoft, Google and Oracle are all pursuing the cloud business of big &amp;hellip; Microsoft Azure is among the rival cloud vendors vying to nab Target&amp;rsquo;s cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Caradigm and RightPatient Partner to Offer Complementary Solutions for</title>
-      <link>//crypt0.net/post/caradigm-and-rightpatient-partner-to-offer-complementary-solutions-for/</link>
-      <pubDate>Wed, 30 Aug 2017 07:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/caradigm-and-rightpatient-partner-to-offer-complementary-solutions-for/</guid>
-      <description>PR Web (press release) &amp;hellip; and secure PHI access to protect privacy, reduce medical errors, and prevent data breaches that compromise provider reputation, costs, and quality. more.
-@trustpath</description>
     </item>
     
   </channel>
