@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 14 Sep 2017 00:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2017 00:10:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[MQTTP10] MQTT Mobile Client not working locally</title>
+      <link>//crypt0.net/post/mqttp10-mqtt-mobile-client-not-working-locally/</link>
+      <pubDate>Thu, 14 Sep 2017 00:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mqttp10-mqtt-mobile-client-not-working-locally/</guid>
+      <description>(Mosquitto) to create a intranet (No Internet access) messaging system, I have tested &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Blockchain startup CrowdWiz puts a decentralized spin on fund management</title>
