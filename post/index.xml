@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 08:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2017 08:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon CloudWatch Logs and AWS Lambda: A Match Made in Heaven</title>
+      <link>//crypt0.net/post/amazon-cloudwatch-logs-and-aws-lambda-a-match-made-in-heaven/</link>
+      <pubDate>Fri, 15 Sep 2017 08:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-cloudwatch-logs-and-aws-lambda-a-match-made-in-heaven/</guid>
+      <description>Amazon CloudWatch Logs and AWS Lambda: A Match Made in Heaven Leo &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Keep credentials out of code: Introducing Azure AD Managed Service Identity</title>
@@ -19990,46 +20000,6 @@
       <guid>//crypt0.net/post/dell-emc-upgrades-infrastructure-portfolio-optimized-for-vmware/</guid>
       <description>Dell EMC Enterprise Hybrid Cloud (EHC) now supports integration with Microsoft Azure clouds alongside existing support for Amazon Web Services &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>It&#39;s About to Become Even Easier to Issue Blockchain-Based Coins</title>
-      <link>//crypt0.net/post/its-about-to-become-even-easier-to-issue-blockchainbased-coins/</link>
-      <pubDate>Thu, 31 Aug 2017 08:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/its-about-to-become-even-easier-to-issue-blockchainbased-coins/</guid>
-      <description>millions of dollars in minutes by issuing digital tokens in what have become &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Latest Blockchain Fundings in Southeast Asia</title>
-      <link>//crypt0.net/post/latest-blockchain-fundings-in-southeast-asia/</link>
-      <pubDate>Thu, 31 Aug 2017 08:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/latest-blockchain-fundings-in-southeast-asia/</guid>
-      <description>fundraising. We look at the most recent fundings raised by blockchain startups in &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>The Missing Link: We Need ICO PRIZE That Starts with Blockchain Problems?</title>
-      <link>//crypt0.net/post/the-missing-link-we-need-ico-prize-that-starts-with-blockchain-problems/</link>
-      <pubDate>Thu, 31 Aug 2017 08:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-missing-link-we-need-ico-prize-that-starts-with-blockchain-problems/</guid>
-      <description>great advice that we are working to incorporate into the white paper (so &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>WISeKey WISeAuthentic Blockchain for Brand Protection and Monetization</title>
-      <link>//crypt0.net/post/wisekey-wiseauthentic-blockchain-for-brand-protection-and-monetization/</link>
-      <pubDate>Thu, 31 Aug 2017 08:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/wisekey-wiseauthentic-blockchain-for-brand-protection-and-monetization/</guid>
-      <description>The blockchain technology reinforces the WISeKey patent, method and apparatus for digital authentication of valuable goods, which covers an &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>

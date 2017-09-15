@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 08:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2017 08:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon CloudWatch Logs and AWS Lambda: A Match Made in Heaven</title>
+      <link>//crypt0.net/post/amazon-cloudwatch-logs-and-aws-lambda-a-match-made-in-heaven/</link>
+      <pubDate>Fri, 15 Sep 2017 08:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-cloudwatch-logs-and-aws-lambda-a-match-made-in-heaven/</guid>
+      <description>Amazon CloudWatch Logs and AWS Lambda: A Match Made in Heaven Leo &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Keep credentials out of code: Introducing Azure AD Managed Service Identity</title>
