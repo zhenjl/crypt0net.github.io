@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 09:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2017 10:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Equifax data breach: Beware these 3 scams</title>
+      <link>//crypt0.net/post/equifax-data-breach-beware-these-3-scams/</link>
+      <pubDate>Fri, 15 Sep 2017 10:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/equifax-data-breach-beware-these-3-scams/</guid>
+      <description>The agency cites data breaches as one of the main ways that con artists get the relevant information to pull off tax identity theft. Victims often get the &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>AWS gets boost from Defense Department</title>
@@ -19930,26 +19940,6 @@
       <guid>//crypt0.net/post/verizon-report-finds-vendors-lagging-on-card-payment-security/</guid>
       <description>Verizon said that of the nearly 300 card data breaches it had investigated between 2010 and 2016, all took place at organisations that were not &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Announcing Deploy to Kubernetes &amp; Azure Container Service and Container</title>
-      <link>//crypt0.net/post/announcing-deploy-to-kubernetes--azure-container-service-and-container/</link>
-      <pubDate>Thu, 31 Aug 2017 10:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/announcing-deploy-to-kubernetes--azure-container-service-and-container/</guid>
-      <description>We are excited to debut our native Jenkins on Azure support for Kubernetes; make it easy for you to build using container agent and deploy a &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Zimbabwe: Liquid Telecom Partners Microsoft for Cloud Solutions</title>
-      <link>//crypt0.net/post/zimbabwe-liquid-telecom-partners-microsoft-for-cloud-solutions/</link>
-      <pubDate>Thu, 31 Aug 2017 10:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/zimbabwe-liquid-telecom-partners-microsoft-for-cloud-solutions/</guid>
-      <description>The Cloud Service Provider partnership will see Liquid Telecom offering for the first time, cloud services and products, such as Microsoft Azure, &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
