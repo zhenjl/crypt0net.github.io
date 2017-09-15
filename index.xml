@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 00:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2017 00:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Oracle&#39;s Larry Ellison takes aim at Amazon Web Services, promises a new</title>
+      <link>//crypt0.net/post/oracles-larry-ellison-takes-aim-at-amazon-web-services-promises-a-new/</link>
+      <pubDate>Fri, 15 Sep 2017 00:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/oracles-larry-ellison-takes-aim-at-amazon-web-services-promises-a-new/</guid>
+      <description>GeekWire Oracle&amp;rsquo;s Larry Ellison takes aim at Amazon Web Services, promises a new &amp;hellip; but he hasn&amp;rsquo;t lost his passion for taking shots at Amazon Web Services. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Brings Back the GUI with &#39;Project Honolulu&#39; for Windows Server</title>
@@ -20244,46 +20254,6 @@ Where does a business&amp;rsquo;s data live?</description>
       
       <guid>//crypt0.net/post/equinox-it-appoints-solution-architect-faranak-torabi/</guid>
       <description>Torabi takes up the role of Senior Solution Architect where she will be responsible for designing and delivering Microsoft Azure and other technical &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How Google&#39;s Custom Security Chip Secures Servers at Boot</title>
-      <link>//crypt0.net/post/how-googles-custom-security-chip-secures-servers-at-boot/</link>
-      <pubDate>Thu, 31 Aug 2017 00:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-googles-custom-security-chip-secures-servers-at-boot/</guid>
-      <description>On Thursday, some Google Cloud Platform engineers posted a blog detailing how Titan works to make its data centers more secure. Titan consists of &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>MapR automates data tiering for the hybrid cloud</title>
-      <link>//crypt0.net/post/mapr-automates-data-tiering-for-the-hybrid-cloud/</link>
-      <pubDate>Thu, 31 Aug 2017 00:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mapr-automates-data-tiering-for-the-hybrid-cloud/</guid>
-      <description>&amp;hellip; to data kept in cloud object storage systems; initially, AWS S3 and Azure BLOB Storage are supported, with Google Cloud Storage to come later. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Pivotal, VMware &amp; Google Team Up For Enterprise Kubernetes</title>
-      <link>//crypt0.net/post/pivotal-vmware--google-team-up-for-enterprise-kubernetes/</link>
-      <pubDate>Thu, 31 Aug 2017 00:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/pivotal-vmware--google-team-up-for-enterprise-kubernetes/</guid>
-      <description>PKS features Kubernetes Distribution, which has been built on Kubo, the open source technology created by Pivotal and Google Cloud to give &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>VMware, Pivotal, Google Execs: The New Pivotal Container Service Brings</title>
-      <link>//crypt0.net/post/vmware-pivotal-google-execs-the-new-pivotal-container-service-brings/</link>
-      <pubDate>Thu, 31 Aug 2017 00:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vmware-pivotal-google-execs-the-new-pivotal-container-service-brings/</guid>
-      <description>CRN It comes out of the box with integration with Google Cloud and the Google Cloud platform services.&amp;rdquo; VMware CEO Pat Gelsinger said Pivotal Container &amp;hellip; more.
 @crypt0net</description>
     </item>
     
