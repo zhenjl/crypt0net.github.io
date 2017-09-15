@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 05:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2017 05:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Symantic Endpoint Protection, Windows 2016 - Network Connectivity Problems</title>
+      <link>//crypt0.net/post/symantic-endpoint-protection-windows-2016--network-connectivity-problems/</link>
+      <pubDate>Fri, 15 Sep 2017 05:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/symantic-endpoint-protection-windows-2016--network-connectivity-problems/</guid>
+      <description>the Endpoint Protection firewall to permit Port 80,443 and RDP - First &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Microsoft offers improved cloud computing security</title>
