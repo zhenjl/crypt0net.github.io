@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 08:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2017 08:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Keep credentials out of code: Introducing Azure AD Managed Service Identity</title>
+      <link>//crypt0.net/post/keep-credentials-out-of-code-introducing-azure-ad-managed-service-identity/</link>
+      <pubDate>Fri, 15 Sep 2017 08:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/keep-credentials-out-of-code-introducing-azure-ad-managed-service-identity/</guid>
+      <description>authenticate to cloud services. Today, I am happy to announce the &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Adam Vaziri: Blockchain is the future regulator</title>
@@ -20020,16 +20030,6 @@
       <guid>//crypt0.net/post/wisekey-wiseauthentic-blockchain-for-brand-protection-and-monetization/</guid>
       <description>The blockchain technology reinforces the WISeKey patent, method and apparatus for digital authentication of valuable goods, which covers an &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Do not compute: As cyber attacks grow, Sac State readies next generation of</title>
-      <link>//crypt0.net/post/do-not-compute-as-cyber-attacks-grow-sac-state-readies-next-generation-of/</link>
-      <pubDate>Thu, 31 Aug 2017 08:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/do-not-compute-as-cyber-attacks-grow-sac-state-readies-next-generation-of/</guid>
-      <description>Sacramento News &amp;amp; Review The weeklong course instructed students about common online security threats and how to prevent data breaches, which have increased in both &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
