@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 08:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2017 09:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>China Telecom launches SD-WAN services with Versa Networks</title>
+      <link>//crypt0.net/post/china-telecom-launches-sdwan-services-with-versa-networks/</link>
+      <pubDate>Fri, 15 Sep 2017 09:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/china-telecom-launches-sdwan-services-with-versa-networks/</guid>
+      <description>In addition, CTG&amp;rsquo;s SD-WAN service is designed to enable direct access to public cloud services such as Microsoft Azure and Amazon via backbone &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Podcast: OpenStack OpenDev Highlights Edge vs Cloud Computing Confusion</title>
+      <link>//crypt0.net/post/podcast-openstack-opendev-highlights-edge-vs-cloud-computing-confusion/</link>
+      <pubDate>Fri, 15 Sep 2017 09:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/podcast-openstack-opendev-highlights-edge-vs-cloud-computing-confusion/</guid>
+      <description>conference focused on Edge Computing. This podcast is part of a three &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon CloudWatch Logs and AWS Lambda: A Match Made in Heaven</title>
@@ -7619,46 +7639,6 @@ Cisco begins field tests for ACI Virtual Edge &amp;hellip; announcing it intends
       
       <guid>//crypt0.net/post/zimbabwe-liquid-telecom-partners-microsoft-for-cloud-solutions/</guid>
       <description>The Cloud Service Provider partnership will see Liquid Telecom offering for the first time, cloud services and products, such as Microsoft Azure, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>New MapR Orbit Cloud Suite Extends Analytics and Applications Across Clouds</title>
-      <link>//crypt0.net/post/new-mapr-orbit-cloud-suite-extends-analytics-and-applications-across-clouds/</link>
-      <pubDate>Thu, 31 Aug 2017 09:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/new-mapr-orbit-cloud-suite-extends-analytics-and-applications-across-clouds/</guid>
-      <description>Database Trends and Applications In addition, a plugin for OpenStack Manila allows the OpenStack cloud operating system to provision MapR file resources in a multi-tenant way, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OpenStack &#39;Pike&#39; Focuses on Basics Instead of Gee-Whiz New Features</title>
-      <link>//crypt0.net/post/openstack-pike-focuses-on-basics-instead-of-geewhiz-new-features/</link>
-      <pubDate>Thu, 31 Aug 2017 09:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-pike-focuses-on-basics-instead-of-geewhiz-new-features/</guid>
-      <description>There&amp;rsquo;s a new release of OpenStack, the open source infrastructure-as-a-service platform for cloud computing. The new release, Pike, isn&amp;rsquo;t chock-full &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OpenStack Pike capitalizes on the &#39;mix and match&#39; approach</title>
-      <link>//crypt0.net/post/openstack-pike-capitalizes-on-the-mix-and-match-approach/</link>
-      <pubDate>Thu, 31 Aug 2017 09:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-pike-capitalizes-on-the-mix-and-match-approach/</guid>
-      <description>The OpenStack foundation currently supports 46 official projects, with new entries added regularly, and users are free to mix and match any modules &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>VMware modernizing data centres with new software updates</title>
-      <link>//crypt0.net/post/vmware-modernizing-data-centres-with-new-software-updates/</link>
-      <pubDate>Thu, 31 Aug 2017 09:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vmware-modernizing-data-centres-with-new-software-updates/</guid>
-      <description>28 to 30, with its latest focusing on updating data centres. The company has unveiled new releases for its VMware Integrated OpenStack and VMware &amp;hellip; more.
 @crypt0net</description>
     </item>
     
