@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 16:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2017 16:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Docker on Windows Server allows for container use and management</title>
+      <link>//crypt0.net/post/docker-on-windows-server-allows-for-container-use-and-management/</link>
+      <pubDate>Fri, 15 Sep 2017 16:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/docker-on-windows-server-allows-for-container-use-and-management/</guid>
+      <description>on premises, in the cloud &amp;ndash; such as with Microsoft Azure &amp;ndash; or on other systems &amp;ndash; such as user endpoints. Docker isn&amp;rsquo;t included on Windows Server &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>How to choose the right SQL Server on Azure deployment option</title>
+      <link>//crypt0.net/post/how-to-choose-the-right-sql-server-on-azure-deployment-option/</link>
+      <pubDate>Fri, 15 Sep 2017 16:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-choose-the-right-sql-server-on-azure-deployment-option/</guid>
+      <description>Azure SQL Database is Microsoft&amp;rsquo;s platform as a service (PaaS) offering for SQL Server users. As such, it&amp;rsquo;s primarily geared toward organizations that &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon&#39;s AWS is Now Hosting the Defense Department&#39;s Most Classified Data</title>
