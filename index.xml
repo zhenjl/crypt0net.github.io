@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 23:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2017 23:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google and Spotify open-source a new cloud security toolkit</title>
+      <link>//crypt0.net/post/google-and-spotify-opensource-a-new-cloud-security-toolkit/</link>
+      <pubDate>Fri, 15 Sep 2017 23:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-and-spotify-opensource-a-new-cloud-security-toolkit/</guid>
+      <description>Last month, Amazon Web Services Inc. introduced a tool called Macie that uses machine learning algorithms to help customers keep an eye on &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>NetApp Shows Storage Sales Growth, But The Big Gains In Q2 2017 Came From</title>
+      <link>//crypt0.net/post/netapp-shows-storage-sales-growth-but-the-big-gains-in-q2-2017-came-from/</link>
+      <pubDate>Fri, 15 Sep 2017 23:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/netapp-shows-storage-sales-growth-but-the-big-gains-in-q2-2017-came-from/</guid>
+      <description>CRN The storage market continues to shift away from traditional storage vendors and towards the hyperscalers like AWS (Amazon Web Services), with one &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How to set up performance load tests using Microsoft Azure</title>
@@ -409,16 +429,6 @@
       
       <guid>//crypt0.net/post/how-an-amazon-hq-might-change-how-philly-operates/</guid>
       <description>Taxes. Though Amazon Web Services makes a lot of money, Amazon&amp;rsquo;s main retail business barely breaks even, considering its scale. Philadelphia&amp;rsquo;s &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google and Spotify open-source a new cloud security toolkit</title>
-      <link>//crypt0.net/post/google-and-spotify-opensource-a-new-cloud-security-toolkit/</link>
-      <pubDate>Fri, 15 Sep 2017 18:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-and-spotify-opensource-a-new-cloud-security-toolkit/</guid>
-      <description>The technology giant today open-sourced Forseti Security, a toolkit for protecting Google Cloud Platform deployments. It&amp;rsquo;s the fruit of a collaboration &amp;hellip; more.
 @crypt0net</description>
     </item>
     
