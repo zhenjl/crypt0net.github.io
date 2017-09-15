@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 02:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2017 02:30:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Unveils Azure Confidential Computing for Secure Cloud Data</title>
+      <link>//crypt0.net/post/microsoft-unveils-azure-confidential-computing-for-secure-cloud-data/</link>
+      <pubDate>Fri, 15 Sep 2017 02:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-unveils-azure-confidential-computing-for-secure-cloud-data/</guid>
+      <description>eWeek The other is Intel&amp;rsquo;s Software Guard Extensions (SGX) technology built into the processors running on Azure cloud servers. Microsoft is working with &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Pivotal Takes Greenplum to the Cloud</title>
+      <link>//crypt0.net/post/pivotal-takes-greenplum-to-the-cloud/</link>
+      <pubDate>Fri, 15 Sep 2017 02:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/pivotal-takes-greenplum-to-the-cloud/</guid>
+      <description>&amp;hellip; (NASDAQ: MSFT), Google Cloud Platform (NASDAQ: GOOGL) along with private clouds based on VMware vSphere (NYSE: VMW) and OpenStack. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google Cloud Pub/Sub Incident #17003</title>
@@ -7549,36 +7569,6 @@ Cisco begins field tests for ACI Virtual Edge &amp;hellip; announcing it intends
       
       <guid>//crypt0.net/post/ovh-brings-clarity-for-vcloud-air-strategy-as-pure-infrastructure-play/</guid>
       <description>As a result, companies like VMware Inc. are spinning off business units where they are not competitive enough, such as the sale of vCloud Air to OVH, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Apple to Unveil New iPhone Models at Sept. 12 Media Event: Reports</title>
-      <link>//crypt0.net/post/apple-to-unveil-new-iphone-models-at-sept-12-media-event-reports/</link>
-      <pubDate>Thu, 31 Aug 2017 02:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/apple-to-unveil-new-iphone-models-at-sept-12-media-event-reports/</guid>
-      <description>All traffic from enterprise endpoints to Google&amp;rsquo;s cloud hosted apps travels over the same network that Google uses to deliver its own services such as &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Benefits of public cloud: Unilog&#39;s Google adoption</title>
-      <link>//crypt0.net/post/benefits-of-public-cloud-unilogs-google-adoption/</link>
-      <pubDate>Thu, 31 Aug 2017 02:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/benefits-of-public-cloud-unilogs-google-adoption/</guid>
-      <description>Unilog, an e-commerce platform provider, cites increased operational efficiency and faster customer onboarding among the benefits of Google Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Walmart will rely on Nvidia chips to pivot away from Amazon&#39;s cloud in wake</title>
-      <link>//crypt0.net/post/walmart-will-rely-on-nvidia-chips-to-pivot-away-from-amazons-cloud-in-wake/</link>
-      <pubDate>Thu, 31 Aug 2017 02:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/walmart-will-rely-on-nvidia-chips-to-pivot-away-from-amazons-cloud-in-wake/</guid>
-      <description>Silicon Valley Business Journal Microsoft Azure and Google Cloud Platform are both viable alternatives to AWS for many businesses. Walmart also uses a cloud computing &amp;hellip; more.
 @crypt0net</description>
     </item>
     
