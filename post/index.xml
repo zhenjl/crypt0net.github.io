@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 17:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2017 17:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Azure Confidential Computing keeps your business data secret</title>
+      <link>//crypt0.net/post/microsoft-azure-confidential-computing-keeps-your-business-data-secret/</link>
+      <pubDate>Fri, 15 Sep 2017 17:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-confidential-computing-keeps-your-business-data-secret/</guid>
+      <description>Microsoft has revealed a major new addition to its Azure cloud platform, aimed at keeping user data safe. The feature, called &amp;lsquo;Confidential Compute&amp;rsquo; &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Square Box Systems&#39; Worker 7 Now Includes Plug-in Architecture for</title>
+      <link>//crypt0.net/post/square-box-systems-worker-7-now-includes-plugin-architecture-for/</link>
+      <pubDate>Fri, 15 Sep 2017 17:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/square-box-systems-worker-7-now-includes-plugin-architecture-for/</guid>
+      <description>Broadcasting &amp;amp; Cable &amp;hellip; Worker 7 plug-in enables automatic archiving to third-party storage solutions that have integrated with CatDV, such as Amazon S3, Microsoft Azure, &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Tips for moving VMs with Managed Disks; Accelerated Networking; Azure</title>
+      <link>//crypt0.net/post/tips-for-moving-vms-with-managed-disks-accelerated-networking-azure/</link>
+      <pubDate>Fri, 15 Sep 2017 17:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/tips-for-moving-vms-with-managed-disks-accelerated-networking-azure/</guid>
+      <description>WindowsItPro (subscription) Q. If I use accelerated networking in Azure do I lose the ability to communicate with any services? Q. I&amp;rsquo;m trying to move a VM that uses managed disks &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Promising Growth for the IDaaS Market After the Shift from CAPEX to the</title>
@@ -19910,16 +19940,6 @@
       <guid>//crypt0.net/post/yahoo-faces-nationwide-litigation-over-massive-data-breaches/</guid>
       <description>A judge said Yahoo must face nationwide litigation brought on behalf of well over 1 billion users who said their personal information was compromised &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Nuco launches Aion Framework to Tackle Blockchain&#39;s Interoperability</title>
-      <link>//crypt0.net/post/nuco-launches-aion-framework-to-tackle-blockchains-interoperability/</link>
-      <pubDate>Thu, 31 Aug 2017 17:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nuco-launches-aion-framework-to-tackle-blockchains-interoperability/</guid>
-      <description>Toronto-based Nuco has launched Aion, an interoperable blockchain network and framework that allows communication between blockchains. more.
-@surgethings</description>
     </item>
     
   </channel>
