@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 16 Sep 2017 12:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Sep 2017 13:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon now authorized to host DoD&#39;s most sensitive data</title>
+      <link>//crypt0.net/post/amazon-now-authorized-to-host-dods-most-sensitive-data/</link>
+      <pubDate>Sat, 16 Sep 2017 13:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-now-authorized-to-host-dods-most-sensitive-data/</guid>
+      <description>Amazon Web Services has been granted provisional authorization to host Level 5 data for the US Department of Defense (DoD). With the approval &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Building blockchain opportunities, insights with Christopher Clements,</title>
@@ -19980,56 +19990,6 @@
       <guid>//crypt0.net/post/why-does-cloud-need-elastic-pam/</guid>
       <description>Disconnected Residual Access with plausible data breaches/leakages. Lack of well-defined user lifecycle processes often result in terminated users &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>A mixed bag of FAQs around Windows 10 and Azure template deployments</title>
-      <link>//crypt0.net/post/a-mixed-bag-of-faqs-around-windows-10-and-azure-template-deployments/</link>
-      <pubDate>Fri, 01 Sep 2017 12:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/a-mixed-bag-of-faqs-around-windows-10-and-azure-template-deployments/</guid>
-      <description>With Windows AutoPilot a new machine is registered with the organizations Azure AD by using the machines hardware ID via Windows Store for &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Automation of Azure Analysis Services with Service Principals and</title>
-      <link>//crypt0.net/post/automation-of-azure-analysis-services-with-service-principals-and/</link>
-      <pubDate>Fri, 01 Sep 2017 12:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/automation-of-azure-analysis-services-with-service-principals-and/</guid>
-      <description>Azure Analysis Services presents considerable opportunities for automation of administrative tasks including server provisioning, scale up/down, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Debra Solomon: Ecovention Europe: Art to Transform Ecologies 1957-2017</title>
-      <link>//crypt0.net/post/debra-solomon-ecovention-europe-art-to-transform-ecologies-19572017/</link>
-      <pubDate>Fri, 01 Sep 2017 12:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/debra-solomon-ecovention-europe-art-to-transform-ecologies-19572017/</guid>
-      <description>honoured that two of my works will be shown in this historic, group exhibition. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Sold out Raspberry Pi kit for building Google AI assistant goes back on</title>
-      <link>//crypt0.net/post/sold-out-raspberry-pi-kit-for-building-google-ai-assistant-goes-back-on/</link>
-      <pubDate>Fri, 01 Sep 2017 12:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sold-out-raspberry-pi-kit-for-building-google-ai-assistant-goes-back-on/</guid>
-      <description>TechRepublic An online guide walks users through how to build the assistant and how to link it to the Google Assistant SDK and Google Cloud Speech API that &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Twogap - The Worlds First Blockchain-Based Asset Manager</title>
-      <link>//crypt0.net/post/twogap--the-worlds-first-blockchainbased-asset-manager/</link>
-      <pubDate>Fri, 01 Sep 2017 12:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/twogap--the-worlds-first-blockchainbased-asset-manager/</guid>
-      <description>manager. Blockchain will change the world, especially with TwoGap &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>

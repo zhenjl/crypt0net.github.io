@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 16 Sep 2017 12:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Sep 2017 13:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon now authorized to host DoD&#39;s most sensitive data</title>
+      <link>//crypt0.net/post/amazon-now-authorized-to-host-dods-most-sensitive-data/</link>
+      <pubDate>Sat, 16 Sep 2017 13:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-now-authorized-to-host-dods-most-sensitive-data/</guid>
+      <description>Amazon Web Services has been granted provisional authorization to host Level 5 data for the US Department of Defense (DoD). With the approval &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Canadian securities regulators publish MFDA oversight review report</title>
@@ -7928,36 +7938,6 @@ AWS partnership big news for VMware. The Google Cloud deal? Not so much, Silicon
       
       <guid>//crypt0.net/post/sword-active-risk-sees-enthusiastic-take-up-of-new-saas-delivery-options/</guid>
       <description>ResponseSource (press release) Maidenhead, UK - Sword Active Risk, a supplier of specialist risk management software and services, has extended its delivery options for Active Risk &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>A mixed bag of FAQs around Windows 10 and Azure template deployments</title>
-      <link>//crypt0.net/post/a-mixed-bag-of-faqs-around-windows-10-and-azure-template-deployments/</link>
-      <pubDate>Fri, 01 Sep 2017 12:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/a-mixed-bag-of-faqs-around-windows-10-and-azure-template-deployments/</guid>
-      <description>With Windows AutoPilot a new machine is registered with the organizations Azure AD by using the machines hardware ID via Windows Store for &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Automation of Azure Analysis Services with Service Principals and</title>
-      <link>//crypt0.net/post/automation-of-azure-analysis-services-with-service-principals-and/</link>
-      <pubDate>Fri, 01 Sep 2017 12:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/automation-of-azure-analysis-services-with-service-principals-and/</guid>
-      <description>Azure Analysis Services presents considerable opportunities for automation of administrative tasks including server provisioning, scale up/down, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Sold out Raspberry Pi kit for building Google AI assistant goes back on</title>
-      <link>//crypt0.net/post/sold-out-raspberry-pi-kit-for-building-google-ai-assistant-goes-back-on/</link>
-      <pubDate>Fri, 01 Sep 2017 12:50:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sold-out-raspberry-pi-kit-for-building-google-ai-assistant-goes-back-on/</guid>
-      <description>TechRepublic An online guide walks users through how to build the assistant and how to link it to the Google Assistant SDK and Google Cloud Speech API that &amp;hellip; more.
 @crypt0net</description>
     </item>
     
