@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 16 Sep 2017 05:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Sep 2017 05:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon&#39;s AWS is Now Hosting the Defense Department&#39;s Most Classified Data</title>
+      <link>//crypt0.net/post/amazons-aws-is-now-hosting-the-defense-departments-most-classified-data/</link>
+      <pubDate>Sat, 16 Sep 2017 05:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazons-aws-is-now-hosting-the-defense-departments-most-classified-data/</guid>
+      <description>Amazon.com&amp;rsquo;s AMZN cloud computing division Amazon Web Services (AWS) is one of the company&amp;rsquo;s most profitable arms, and it recently gained a &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Contract Lifecycle Management: Blockchain and Smart Contracts</title>
@@ -939,16 +949,6 @@
       
       <guid>//crypt0.net/post/how-to-choose-the-right-sql-server-on-azure-deployment-option/</guid>
       <description>Azure SQL Database is Microsoft&amp;rsquo;s platform as a service (PaaS) offering for SQL Server users. As such, it&amp;rsquo;s primarily geared toward organizations that &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon&#39;s AWS is Now Hosting the Defense Department&#39;s Most Classified Data</title>
-      <link>//crypt0.net/post/amazons-aws-is-now-hosting-the-defense-departments-most-classified-data/</link>
-      <pubDate>Fri, 15 Sep 2017 16:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazons-aws-is-now-hosting-the-defense-departments-most-classified-data/</guid>
-      <description>Amazon.com&amp;rsquo;s (AMZN - Free Report) cloud computing division Amazon Web Services (AWS) is one of the company&amp;rsquo;s most profitable arms, and it &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -20170,36 +20170,6 @@
       <guid>//crypt0.net/post/the-real-extent-of-britains-hidden-data-breaches/</guid>
       <description>The real extent of Britain&amp;rsquo;s problem with data breaches has been revealed by a survey which suggests almost one in three IT workers are keeping &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Inspur signs up to ONOS project for stronger data center SDN</title>
-      <link>//crypt0.net/post/inspur-signs-up-to-onos-project-for-stronger-data-center-sdn/</link>
-      <pubDate>Fri, 01 Sep 2017 05:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/inspur-signs-up-to-onos-project-for-stronger-data-center-sdn/</guid>
-      <description>The company is a member of the OpenStack open source cloud computing project. It has also released InCloud OS 5.0, a cloud data center operating &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Latest OpenStack Release Delivers Composable Infrastructure</title>
-      <link>//crypt0.net/post/latest-openstack-release-delivers-composable-infrastructure/</link>
-      <pubDate>Fri, 01 Sep 2017 05:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/latest-openstack-release-delivers-composable-infrastructure/</guid>
-      <description>The OpenStack community released the sixteenth version of its open source software, called Pike. Release highlights include allowing users to pick &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Report: Target to leave AWS after Amazon buys Whole Foods</title>
-      <link>//crypt0.net/post/report-target-to-leave-aws-after-amazon-buys-whole-foods/</link>
-      <pubDate>Fri, 01 Sep 2017 05:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/report-target-to-leave-aws-after-amazon-buys-whole-foods/</guid>
-      <description>The company began experimenting with OpenStack in 2014, and was a major presence at the summit in Boston in May, where it was sponsoring the &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
