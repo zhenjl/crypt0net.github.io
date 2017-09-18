@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 18 Sep 2017 09:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Sep 2017 09:30:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Federation: google cloud dns records aren&#39;t properly when</title>
+      <link>//crypt0.net/post/federation-google-cloud-dns-records-arent-properly-when/</link>
+      <pubDate>Mon, 18 Sep 2017 09:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/federation-google-cloud-dns-records-arent-properly-when/</guid>
+      <description>Federation: google cloud dns records aren&amp;rsquo;t properly when create/update/delete endpoints or LB service #52643. Open. mozhuli opened this Issue 19 &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>IoT gateway uses OPC UA Publisher to link devices to the cloud</title>
+      <link>//crypt0.net/post/iot-gateway-uses-opc-ua-publisher-to-link-devices-to-the-cloud/</link>
+      <pubDate>Mon, 18 Sep 2017 09:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/iot-gateway-uses-opc-ua-publisher-to-link-devices-to-the-cloud/</guid>
+      <description>The gateway will simplify the transfer of device data to Microsoft&amp;rsquo;s Azure IoT hub. It includes interfaces for connecting Ethernet, serial and I/O devices, &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>OpenStack Discovery and Networking Assurance - Koren Lev - Meetup</title>
+      <link>//crypt0.net/post/openstack-discovery-and-networking-assurance--koren-lev--meetup/</link>
+      <pubDate>Mon, 18 Sep 2017 09:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-discovery-and-networking-assurance--koren-lev--meetup/</guid>
+      <description>preventing customers from moving OpenStack into production for wider &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>AWS&#39;s 4TB virtual machines target your data-heavy workloads</title>
