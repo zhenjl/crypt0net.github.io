@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 19 Sep 2017 06:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2017 07:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Are Biometrics in K12 Schools Really Necessary?</title>
+      <link>//crypt0.net/post/are-biometrics-in-k12-schools-really-necessary/</link>
+      <pubDate>Tue, 19 Sep 2017 07:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/are-biometrics-in-k12-schools-really-necessary/</guid>
+      <description>But, we know that data breaches happen to even the most sophisticated of systems, and if a hacker gets ahold of that code, then they&amp;rsquo;ve virtually stolen &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>AWS announces per minute pricing for EC2</title>
@@ -21212,36 +21222,6 @@ IT Brief Australia - Are we letting the data race cloud our judgement? But in re
       <guid>//crypt0.net/post/three-reasons-why-pacemakers-are-vulnerable-to-hacking/</guid>
       <description>Medical devices are now part of the internet of things (IoT), where small battery-powered sensors combined with embedded and customised &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Internet of things creates web of hacker risks</title>
-      <link>//crypt0.net/post/internet-of-things-creates-web-of-hacker-risks/</link>
-      <pubDate>Mon, 04 Sep 2017 06:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/internet-of-things-creates-web-of-hacker-risks/</guid>
-      <description>While the internet of things was intended to make life easier by connecting everyday objects to the internet, enabling them to send and receive data, &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Smart appliances get even smarter at IFA Berlin</title>
-      <link>//crypt0.net/post/smart-appliances-get-even-smarter-at-ifa-berlin/</link>
-      <pubDate>Mon, 04 Sep 2017 06:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/smart-appliances-get-even-smarter-at-ifa-berlin/</guid>
-      <description>The world&amp;rsquo;s biggest consumer electronics show is underway in Berlin and the big thing this year is the internet of things. Soon everything will be &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>TigerSwan data leak: Thousands of military and intelligence personnel files</title>
-      <link>//crypt0.net/post/tigerswan-data-leak-thousands-of-military-and-intelligence-personnel-files/</link>
-      <pubDate>Mon, 04 Sep 2017 06:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/tigerswan-data-leak-thousands-of-military-and-intelligence-personnel-files/</guid>
-      <description>International Business Times UK Chris Vickery, a researcher at security firm Upguard, discovered the Amazon Web Services S3 storage bucket that was accidentally configured for &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
