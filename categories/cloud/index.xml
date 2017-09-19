@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 19 Sep 2017 19:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2017 19:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bright Computing Announces Support for Ubuntu</title>
+      <link>//crypt0.net/post/bright-computing-announces-support-for-ubuntu/</link>
+      <pubDate>Tue, 19 Sep 2017 19:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bright-computing-announces-support-for-ubuntu/</guid>
+      <description>Udi Nachmany, VP of Cloud Alliances at Canonical, said: Ubuntu runs most public cloud and OpenStack workloads, and is rapidly gaining ground in &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Web Services introduces billing by the second for EC2</title>
