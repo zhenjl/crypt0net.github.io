@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 19 Sep 2017 11:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2017 12:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EDNS Client Subnet support in Azure Traffic Manager</title>
+      <link>//crypt0.net/post/edns-client-subnet-support-in-azure-traffic-manager/</link>
+      <pubDate>Tue, 19 Sep 2017 12:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/edns-client-subnet-support-in-azure-traffic-manager/</guid>
+      <description>Routing, Fast failover, and TCP probing using Azure Traffic Manager. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Market Facts Are Changing - Cramer&#39;s Mad Money (9/18/17)</title>
+      <link>//crypt0.net/post/market-facts-are-changing--cramers-mad-money-91817/</link>
+      <pubDate>Tue, 19 Sep 2017 12:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/market-facts-are-changing--cramers-mad-money-91817/</guid>
+      <description>&amp;hellip; and CEO Richard Smith as the poor performer due to his company&amp;rsquo;s involvement in one of the worse data breaches in history of financial institutions. more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>What retirees should do after the Equifax breach</title>
+      <link>//crypt0.net/post/what-retirees-should-do-after-the-equifax-breach/</link>
+      <pubDate>Tue, 19 Sep 2017 12:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/what-retirees-should-do-after-the-equifax-breach/</guid>
+      <description>If you believe your private information has been compromised by this or one of the many past data breaches, then you need to take our advice to &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Webinar: OpenStack Pike is here, what&#39;s new?</title>
