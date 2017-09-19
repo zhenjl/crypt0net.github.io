@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 19 Sep 2017 11:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2017 11:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Webinar: OpenStack Pike is here, what&#39;s new?</title>
+      <link>//crypt0.net/post/webinar-openstack-pike-is-here-whats-new/</link>
+      <pubDate>Tue, 19 Sep 2017 11:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/webinar-openstack-pike-is-here-whats-new/</guid>
+      <description>Join us to learn about the new features and how to upgrade from Ocata to &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon&#39;s Cloud Service Just Got Cheaper</title>
