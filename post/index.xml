@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 20 Sep 2017 03:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2017 03:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,21 @@
     <item>
       <title>Amazon Web Services Is Now Charging By The Second</title>
       <link>//crypt0.net/post/amazon-web-services-is-now-charging-by-the-second/</link>
-      <pubDate>Wed, 20 Sep 2017 03:30:06 +0000</pubDate>
+      <pubDate>Wed, 20 Sep 2017 03:40:04 +0000</pubDate>
       
       <guid>//crypt0.net/post/amazon-web-services-is-now-charging-by-the-second/</guid>
       <description>Amazon announced Monday that its Amazon EC2 service would switch from a pay-by-the-hour model to a pay-by-the-second model beginning Oct. 2. more.
 @crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Learn how to protect, detect, and respond: taking Windows Defender ATP into</title>
+      <link>//crypt0.net/post/learn-how-to-protect-detect-and-respond-taking-windows-defender-atp-into/</link>
+      <pubDate>Wed, 20 Sep 2017 03:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/learn-how-to-protect-detect-and-respond-taking-windows-defender-atp-into/</guid>
+      <description>TechRepublic WD ATP expands into a completely new market category that will blur the lines between endpoint protection (EPP) and endpoint detection and &amp;hellip; more.
+@trustpath</description>
     </item>
     
     <item>
@@ -290,16 +300,6 @@
       <guid>//crypt0.net/post/ellison-promises-cost-savings-in-switch-from-aws-to-oracle-cloud/</guid>
       <description>Oracle co-founder Larry Ellison is not backing down from Amazon Web Services (AWS), promising customers that Oracle Cloud will be cheaper and &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Learn how to protect, detect, and respond: taking Windows Defender ATP into</title>
-      <link>//crypt0.net/post/learn-how-to-protect-detect-and-respond-taking-windows-defender-atp-into/</link>
-      <pubDate>Wed, 20 Sep 2017 00:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/learn-how-to-protect-detect-and-respond-taking-windows-defender-atp-into/</guid>
-      <description>TechRepublic WD ATP expands into a completely new market category that will blur the lines between endpoint protection (EPP) and endpoint detection and &amp;hellip; more.
-@trustpath</description>
     </item>
     
     <item>
@@ -21190,16 +21190,6 @@
       <guid>//crypt0.net/post/juha-saarinen-lets-kill-logins/</guid>
       <description>If you have an account with a popular web service provider, like Gmail, Hotmail or Yahoo, you should change your password now. Actually, doesn&amp;rsquo;t &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>BT launches cloud-based platform for digital service delivery</title>
-      <link>//crypt0.net/post/bt-launches-cloudbased-platform-for-digital-service-delivery/</link>
-      <pubDate>Tue, 05 Sep 2017 03:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bt-launches-cloudbased-platform-for-digital-service-delivery/</guid>
-      <description>&amp;hellip; customer and third-party data centers, and public cloud services such as Amazon Web Services, Microsoft Azure, IBM Softlayer and others. With the &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>

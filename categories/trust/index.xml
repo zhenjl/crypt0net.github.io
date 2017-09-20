@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 20 Sep 2017 03:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2017 03:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learn how to protect, detect, and respond: taking Windows Defender ATP into</title>
+      <link>//crypt0.net/post/learn-how-to-protect-detect-and-respond-taking-windows-defender-atp-into/</link>
+      <pubDate>Wed, 20 Sep 2017 03:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/learn-how-to-protect-detect-and-respond-taking-windows-defender-atp-into/</guid>
+      <description>TechRepublic WD ATP expands into a completely new market category that will blur the lines between endpoint protection (EPP) and endpoint detection and &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>How Equifax&#39;s data breach threatens Israeli security</title>
@@ -39,16 +49,6 @@
       
       <guid>//crypt0.net/post/digital-guardian-commissioned-451-research-report-calls-for-a-datacentric/</guid>
       <description>Business Wire (press release) &amp;hellip; leveraging the same endpoint agent and management console to deliver Data Loss Prevention (DLP) and Endpoint Detection &amp;amp; Response (EDR). more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Learn how to protect, detect, and respond: taking Windows Defender ATP into</title>
-      <link>//crypt0.net/post/learn-how-to-protect-detect-and-respond-taking-windows-defender-atp-into/</link>
-      <pubDate>Wed, 20 Sep 2017 00:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/learn-how-to-protect-detect-and-respond-taking-windows-defender-atp-into/</guid>
-      <description>TechRepublic WD ATP expands into a completely new market category that will blur the lines between endpoint protection (EPP) and endpoint detection and &amp;hellip; more.
 @trustpath</description>
     </item>
     
