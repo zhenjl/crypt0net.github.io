@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 20 Sep 2017 07:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2017 08:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is the difference between VMware vRealize Suite and vCloud Suite</title>
+      <link>//crypt0.net/post/what-is-the-difference-between-vmware-vrealize-suite-and-vcloud-suite/</link>
+      <pubDate>Wed, 20 Sep 2017 08:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/what-is-the-difference-between-vmware-vrealize-suite-and-vcloud-suite/</guid>
+      <description>other words, vCloud Suite includes everything as vRealize Suite plus vSphere &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>AirTrunk opens $200m Sydney data centre</title>
@@ -8427,26 +8437,6 @@ High Adoption of Cloud-based Storage to Boost the Growth of Hyperscale Data Busi
       
       <guid>//crypt0.net/post/liquid-telecom-upgrades-east-africa-fibre-ring/</guid>
       <description>In terms of the agreement, Liquid will provide businesses with cloud services and products, including Microsoft Azure, Dynamics 365, Office 365, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Bitnami And StackpointCloud Partner To Deliver Managed Multi-Cloud</title>
-      <link>//crypt0.net/post/bitnami-and-stackpointcloud-partner-to-deliver-managed-multicloud/</link>
-      <pubDate>Tue, 05 Sep 2017 08:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bitnami-and-stackpointcloud-partner-to-deliver-managed-multicloud/</guid>
-      <description>HostReview.com (press release) &amp;hellip; a Kubernetes cluster, delivering a serverless implementation out of the box that is CLI compatible with Google cloud functions and supports Python, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Liquid Telecom mum on hosting Azure servers in South Africa</title>
-      <link>//crypt0.net/post/liquid-telecom-mum-on-hosting-azure-servers-in-south-africa/</link>
-      <pubDate>Tue, 05 Sep 2017 07:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/liquid-telecom-mum-on-hosting-azure-servers-in-south-africa/</guid>
-      <description>As a CSP partner, Liquid Telecom will serve African businesses with Microsoft&amp;rsquo;s suite of cloud products, including Azure, Dynamics 365, Office 365, &amp;hellip; more.
 @crypt0net</description>
     </item>
     
