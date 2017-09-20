@@ -7,10 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 20 Sep 2017 17:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2017 18:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Per-Second Billing Reflects Push to More Granular Cloud Workloads</title>
+      <link>//crypt0.net/post/aws-persecond-billing-reflects-push-to-more-granular-cloud-workloads/</link>
+      <pubDate>Wed, 20 Sep 2017 18:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-persecond-billing-reflects-push-to-more-granular-cloud-workloads/</guid>
+      <description>Amazon Web Services (AWS) is taking it even further by launching per-second billing on EC2 and EBS starting Oct. 2. According to a blog post by &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Amazon on the Hunt for Small TV Channels: Report</title>
+      <link>//crypt0.net/post/amazon-on-the-hunt-for-small-tv-channels-report/</link>
+      <pubDate>Wed, 20 Sep 2017 18:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/amazon-on-the-hunt-for-small-tv-channels-report/</guid>
+      <description>&amp;hellip; Video, who will be in charge of creating the platform for the video channels. (See also: Hulu Partners With Amazon Web Services for Live TV.) &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Clustrix and MEGAZONE Partner to Offer Scale-out Database in the Cloud</title>
+      <link>//crypt0.net/post/clustrix-and-megazone-partner-to-offer-scaleout-database-in-the-cloud/</link>
+      <pubDate>Wed, 20 Sep 2017 18:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/clustrix-and-megazone-partner-to-offer-scaleout-database-in-the-cloud/</guid>
+      <description>MEGAZONE is the top ranking premier partner of Amazon Web Services (AWS), Asia&amp;rsquo;s #1 premier partner and the largest premier consulting partner in &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Puppet acquires Distelli to bolster cloud computing automation platform</title>
+      <link>//crypt0.net/post/puppet-acquires-distelli-to-bolster-cloud-computing-automation-platform/</link>
+      <pubDate>Wed, 20 Sep 2017 18:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/puppet-acquires-distelli-to-bolster-cloud-computing-automation-platform/</guid>
+      <description>Singh previously spent eight years at Amazon working on key platform technologies that helped power Amazon Web Services through its early stages &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Viacom&#39;s Secret Cloud Keys Exposed</title>
+      <link>//crypt0.net/post/viacoms-secret-cloud-keys-exposed/</link>
+      <pubDate>Wed, 20 Sep 2017 18:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/viacoms-secret-cloud-keys-exposed/</guid>
+      <description>A misconfigured Amazon Web Services (AWS) S3 bucket recently put Viacom&amp;rsquo;s keys to its cloud kingdom at risk, according to UpGuard, which made &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Arista unveils Any Cloud Platform for hybrid cloud networking; supports</title>
@@ -21159,56 +21209,6 @@
       
       <guid>//crypt0.net/post/report-pirates-turning-to-google-drive-to-distribute-warez/</guid>
       <description>&amp;hellip; that already have a reputation for piracy, which is yet another reason why Google&amp;rsquo;s cloud service is gaining popularity among this demographic. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>CENTRI IoTAS Delivers Chip to Cloud IoT Security with STMicroelectronics</title>
-      <link>//crypt0.net/post/centri-iotas-delivers-chip-to-cloud-iot-security-with-stmicroelectronics/</link>
-      <pubDate>Tue, 05 Sep 2017 18:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/centri-iotas-delivers-chip-to-cloud-iot-security-with-stmicroelectronics/</guid>
-      <description>&amp;hellip; an STM32L476RC device with connected server applications running on both Microsoft Azure and Amazon Elastic Compute Cloud (Amazon EC2) &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Containers drive evolution of Red Hat / Microsoft collaboration</title>
-      <link>//crypt0.net/post/containers-drive-evolution-of-red-hat--microsoft-collaboration/</link>
-      <pubDate>Tue, 05 Sep 2017 18:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/containers-drive-evolution-of-red-hat--microsoft-collaboration/</guid>
-      <description>Enterprise customers are increasingly taking a hybrid approach that spans on and off-premise, including Microsoft&amp;rsquo;s public cloud, Azure, and once &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Eurobites: Juniper Lands NFV Gig at Liberty Global</title>
-      <link>//crypt0.net/post/eurobites-juniper-lands-nfv-gig-at-liberty-global/</link>
-      <pubDate>Tue, 05 Sep 2017 18:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/eurobites-juniper-lands-nfv-gig-at-liberty-global/</guid>
-      <description>&amp;hellip; NL-IX and France-IX, offering its customers the opportunity to connect to cloud service providers such as AWS, Microsoft Azure and Google Cloud. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Evaluate hyper-converged for high-density data centers</title>
-      <link>//crypt0.net/post/evaluate-hyperconverged-for-highdensity-data-centers/</link>
-      <pubDate>Tue, 05 Sep 2017 18:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/evaluate-hyperconverged-for-highdensity-data-centers/</guid>
-      <description>&amp;hellip; like Amazon Web Services (AWS) and Microsoft Azure &amp;ndash; or is a predictable set of workloads, such as those that run at Netflix, Facebook or Twitter. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How To Create Nested Virtual Machines in Microsoft Azure</title>
-      <link>//crypt0.net/post/how-to-create-nested-virtual-machines-in-microsoft-azure/</link>
-      <pubDate>Tue, 05 Sep 2017 18:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-create-nested-virtual-machines-in-microsoft-azure/</guid>
-      <description>Last month we looked at how to set up nested VMs in Hyper-V on Windows Server 2016. Azure, of course, runs on Hyper-V and some regions already &amp;hellip; more.
 @crypt0net</description>
     </item>
     
