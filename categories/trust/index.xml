@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 21 Sep 2017 02:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2017 03:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Twistlock 2.2 Improves Container Security with Cloud Native Firewall</title>
+      <link>//crypt0.net/post/twistlock-22-improves-container-security-with-cloud-native-firewall/</link>
+      <pubDate>Thu, 21 Sep 2017 03:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/twistlock-22-improves-container-security-with-cloud-native-firewall/</guid>
+      <description>Twistlock 2.2 introduces the new Incident Explorer that provides a threat hunting capability to discover container security risks. &amp;ldquo;All the sensors we &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>1.9 Billion Data Records Exposed in First Half of 2017</title>
