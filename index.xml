@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 21 Sep 2017 01:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2017 01:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS will charge EC2 customers by the second</title>
+      <link>//crypt0.net/post/aws-will-charge-ec2-customers-by-the-second/</link>
+      <pubDate>Thu, 21 Sep 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-will-charge-ec2-customers-by-the-second/</guid>
+      <description>Microsoft&amp;rsquo;s Azure also adopted a similar pricing model shortly after. By charging customers that use its Linux virtual machines by the second, AWS will &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Local profile folder cannot be deleted due to Symantec Endpoint Protection</title>
