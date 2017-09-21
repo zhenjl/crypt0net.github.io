@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 21 Sep 2017 01:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2017 01:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Local profile folder cannot be deleted due to Symantec Endpoint Protection</title>
+      <link>//crypt0.net/post/local-profile-folder-cannot-be-deleted-due-to-symantec-endpoint-protection/</link>
+      <pubDate>Thu, 21 Sep 2017 01:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/local-profile-folder-cannot-be-deleted-due-to-symantec-endpoint-protection/</guid>
+      <description>14.0.2349.0100. This in essence utilizes the Windows Roaming profile &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Cloud encryption: Using data encryption in the cloud</title>
@@ -21751,36 +21761,6 @@ Seven Steps to Improve Your Security Operations and Response To accomplish this,
       
       <guid>//crypt0.net/post/ms-extends-cloud-service-with-liquid-telecom/</guid>
       <description>The partnership will see Liquid Telecom offer products such as Microsoft Azure, Microsoft Dynamics 365, Microsoft Office 365, Enterprise Mobility Suite &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>AI-driven Robocars are here to burn some serious rubber</title>
-      <link>//crypt0.net/post/aidriven-robocars-are-here-to-burn-some-serious-rubber/</link>
-      <pubDate>Wed, 06 Sep 2017 01:10:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aidriven-robocars-are-here-to-burn-some-serious-rubber/</guid>
-      <description>It is the Internet of Things, but with an enterprise angle. Take that to mean industry vertical applications, development ecosystems, product design, &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>ForgeRock Gives the Internet of Things its Identity</title>
-      <link>//crypt0.net/post/forgerock-gives-the-internet-of-things-its-identity/</link>
-      <pubDate>Wed, 06 Sep 2017 01:10:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/forgerock-gives-the-internet-of-things-its-identity/</guid>
-      <description>critically important for the Internet of Things where low cost, low power devices &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Get up and running and consume on Microsoft Azure with these funding</title>
-      <link>//crypt0.net/post/get-up-and-running-and-consume-on-microsoft-azure-with-these-funding/</link>
-      <pubDate>Wed, 06 Sep 2017 01:10:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/get-up-and-running-and-consume-on-microsoft-azure-with-these-funding/</guid>
-      <description>With 100,000 New Azure customer subscriptions per month, now is the time to transform your business operations. Microsoft&amp;rsquo;s Azure Everywhere &amp;hellip; more.
 @crypt0net</description>
     </item>
     
