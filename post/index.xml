@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 21 Sep 2017 23:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2017 00:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>One-Click React Native Starter Project Now on AWS Cloud</title>
+      <link>//crypt0.net/post/oneclick-react-native-starter-project-now-on-aws-cloud/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/oneclick-react-native-starter-project-now-on-aws-cloud/</guid>
+      <description>One of the hottest mobile app development tools is now available on the Amazon Web Services Inc. (AWS) cloud in an open source starter project &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>SEC under fire for being hacked despite warnings on security</title>
+      <link>//crypt0.net/post/sec-under-fire-for-being-hacked-despite-warnings-on-security/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/sec-under-fire-for-being-hacked-despite-warnings-on-security/</guid>
+      <description>&amp;hellip; an attorney at Dorsey &amp;amp; Whitney and former trial attorney for the Justice Department, whose work includes cybersecurity and data breaches. more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>State rep&#39;s bill would require public notification of data breaches</title>
+      <link>//crypt0.net/post/state-reps-bill-would-require-public-notification-of-data-breaches/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/state-reps-bill-would-require-public-notification-of-data-breaches/</guid>
+      <description>This proposal simply requires information about data breaches be disclosed on entities&amp;rsquo; websites and reported to the Michigan attorney general. &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>A $1.6 billion rival to Oracle and Amazon just filed to go public</title>
@@ -90,16 +120,6 @@
       <guid>//crypt0.net/post/google-cloud-makes-good-on-promise-to-add-nvidia-p100-gpus/</guid>
       <description>21) the beta launch of the high-end P100 Nvidia Tesla GPUs on the Google Cloud Platform as well as general availability of Tesla P80s, which have &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>SEC under fire for being hacked despite warnings on security</title>
-      <link>//crypt0.net/post/sec-under-fire-for-being-hacked-despite-warnings-on-security/</link>
-      <pubDate>Thu, 21 Sep 2017 23:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sec-under-fire-for-being-hacked-despite-warnings-on-security/</guid>
-      <description>&amp;hellip; whose work includes cybersecurity and data breaches. The integrity of our whole trading system is dependent on keeping this information secure. more.
-@trustpath</description>
     </item>
     
     <item>
@@ -21550,56 +21570,6 @@
       <guid>//crypt0.net/post/walmart-will-use-nvidia-and-ai-to-dump-aws/</guid>
       <description>&amp;hellip; assistant behind its Echo family of smart speakers, as well as integrate these capabilities into its Amazon Web Services (AWS) cloud computing. more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Clients migrating to the cloud? Prepare for these challenges</title>
-      <link>//crypt0.net/post/clients-migrating-to-the-cloud-prepare-for-these-challenges/</link>
-      <pubDate>Wed, 06 Sep 2017 23:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/clients-migrating-to-the-cloud-prepare-for-these-challenges/</guid>
-      <description>Microsoft&amp;rsquo;s Azure Websites Migration Assistant produces reports that outline which application items are ready to move, elements that may need to be &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>IoT a Windfall for Mobile Network Operators</title>
-      <link>//crypt0.net/post/iot-a-windfall-for-mobile-network-operators/</link>
-      <pubDate>Wed, 06 Sep 2017 23:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/iot-a-windfall-for-mobile-network-operators/</guid>
-      <description>Generally, these telecoms are supplementing their licensed mobile networks with low-power LTE-M (Long Term Evolution-M) machine-to-machine &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Is Symantec getting ready to buy Splunk?</title>
-      <link>//crypt0.net/post/is-symantec-getting-ready-to-buy-splunk/</link>
-      <pubDate>Wed, 06 Sep 2017 23:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/is-symantec-getting-ready-to-buy-splunk/</guid>
-      <description>As the IoT markets evolve and Machine to Machine (M2M) communication grows, the volume of data will rise. Long Beach Container Terminal plans to &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Releases Azure App Service on Linux</title>
-      <link>//crypt0.net/post/microsoft-releases-azure-app-service-on-linux/</link>
-      <pubDate>Wed, 06 Sep 2017 23:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-releases-azure-app-service-on-linux/</guid>
-      <description>Microsoft on Wednesday announced the &amp;ldquo;general availability&amp;rdquo; of the Azure App Service on Linux, adding infrastructure support for Linux Web and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>TRAI proposes norms for machine-to-machine communications</title>
-      <link>//crypt0.net/post/trai-proposes-norms-for-machinetomachine-communications/</link>
-      <pubDate>Wed, 06 Sep 2017 23:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/trai-proposes-norms-for-machinetomachine-communications/</guid>
-      <description>TRAI has come with proposals on machine-to-machine communications that include a new kind of permit for companies keen on providing services for &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
