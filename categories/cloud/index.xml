@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 22 Sep 2017 09:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2017 11:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing Azure Availability Zones for resiliency and high availability</title>
+      <link>//crypt0.net/post/introducing-azure-availability-zones-for-resiliency-and-high-availability/</link>
+      <pubDate>Fri, 22 Sep 2017 11:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/introducing-azure-availability-zones-for-resiliency-and-high-availability/</guid>
+      <description>about Availability Zones and sign up for the Preview, visit: http://aka.ms/az. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure Monitoring - Azure Performance Monitoring</title>
+      <link>//crypt0.net/post/microsoft-azure-monitoring--azure-performance-monitoring/</link>
+      <pubDate>Fri, 22 Sep 2017 11:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-monitoring--azure-performance-monitoring/</guid>
+      <description>Azure cloud environment. Whether you have production applications running &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Canonical builds a special Ubuntu kernel for Microsoft</title>
@@ -8377,26 +8397,6 @@ Technical snafu involving security contractor exposes thousand of former Federal
       
       <guid>//crypt0.net/post/google-cloud-platform-expands-market-opportunity-with-new-tiers/</guid>
       <description>Google Cloud Platform (GCP), embroiled in an intense battle with Amazon Web Services and Microsoft&amp;rsquo;s Azure, made several recent moves to expand &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Data Solutions&#39; 5th annual Secure Computing Forum takes place September 21</title>
-      <link>//crypt0.net/post/data-solutions-5th-annual-secure-computing-forum-takes-place-september-21/</link>
-      <pubDate>Thu, 07 Sep 2017 11:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/data-solutions-5th-annual-secure-computing-forum-takes-place-september-21/</guid>
-      <description>&amp;hellip; will have the opportunity to interact with leading IT vendors such as Check Point, RSA, Aruba, Citrix, Amazon Web Services, F5 and Strencom. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>EY, Microsoft and Shipping Giant Maersk Develop Blockchain Marine Insurance</title>
-      <link>//crypt0.net/post/ey-microsoft-and-shipping-giant-maersk-develop-blockchain-marine-insurance/</link>
-      <pubDate>Thu, 07 Sep 2017 11:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ey-microsoft-and-shipping-giant-maersk-develop-blockchain-marine-insurance/</guid>
-      <description>CryptoCoinsNews Build using Microsoft&amp;rsquo;s Azure cloud platform, the blockchain solution is the first of its kind in the marine insurance industry and connects clients, brokers &amp;hellip; more.
 @crypt0net</description>
     </item>
     
