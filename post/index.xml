@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 22 Sep 2017 09:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2017 09:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Navigating the challenges of a hybrid cloud strategy</title>
+      <link>//crypt0.net/post/navigating-the-challenges-of-a-hybrid-cloud-strategy/</link>
+      <pubDate>Fri, 22 Sep 2017 09:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/navigating-the-challenges-of-a-hybrid-cloud-strategy/</guid>
+      <description>Challengers include Google Cloud Services and Aliyun (the cloud service arm of Alibaba). Unlike early adopters of cloud technologies, enterprises &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>What Equifax Got Wrong  but Others Get Right</title>
@@ -20,16 +30,6 @@
       <guid>//crypt0.net/post/what-equifax-got-wrong--but-others-get-right/</guid>
       <description>The intrusions are ramping up: 2016 was a record year for data breaches, with over 1,000 reported data breaches at U.S. companies and government &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Navigating the challenges of a hybrid cloud strategy</title>
-      <link>//crypt0.net/post/navigating-the-challenges-of-a-hybrid-cloud-strategy/</link>
-      <pubDate>Fri, 22 Sep 2017 08:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/navigating-the-challenges-of-a-hybrid-cloud-strategy/</guid>
-      <description>Two dominant players have emerged in the public cloud computing market Microsoft Azure and Amazon Web Services (AWS). Challengers include &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -21330,26 +21330,6 @@
       <guid>//crypt0.net/post/how-much-of-your-adtech-audience-is-for-real/</guid>
       <description>Given that the sums at risk are so much larger that those from data breaches, should this not be getting more attention than the GDPR. Or is this &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Google is trying to use Chromebooks to lure Microsoft&#39;s Azure partners away</title>
-      <link>//crypt0.net/post/google-is-trying-to-use-chromebooks-to-lure-microsofts-azure-partners-away/</link>
-      <pubDate>Thu, 07 Sep 2017 09:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-is-trying-to-use-chromebooks-to-lure-microsofts-azure-partners-away/</guid>
-      <description>It&amp;rsquo;s also a play at getting more vendors to offer Google Cloud alongside Amazon Web Services and Azure, the two dominant platforms in this market. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OPINION: The internet of things: SA opportunity on a knife edge</title>
-      <link>//crypt0.net/post/opinion-the-internet-of-things-sa-opportunity-on-a-knife-edge/</link>
-      <pubDate>Thu, 07 Sep 2017 09:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/opinion-the-internet-of-things-sa-opportunity-on-a-knife-edge/</guid>
-      <description>The internet of things (IoT) comprises intelligent sensors linked to low power wide area networks (LPWAN) will allow cross-sectoral companies to &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
