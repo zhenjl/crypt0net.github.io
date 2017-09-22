@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 22 Sep 2017 00:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2017 01:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft To Preview Remote Desktop Services Improvements</title>
+      <link>//crypt0.net/post/microsoft-to-preview-remote-desktop-services-improvements/</link>
+      <pubDate>Fri, 22 Sep 2017 01:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-to-preview-remote-desktop-services-improvements/</guid>
+      <description>They can use cloud infrastructure such as Microsoft Azure, as well as hybrid deployments where the Application and Desktop Host role gets located on &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How To: Watch the Microsoft Ignite 2017 Keynotes and Other Sessions</title>
@@ -8437,46 +8447,6 @@ Technical snafu involving security contractor exposes thousand of former Federal
       
       <guid>//crypt0.net/post/microsoftazuremanagementfluent-120/</guid>
       <description>for Microsoft Azure. Package Manager .NET CLI. Install-Package &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>EY, Maersk, Microsoft build blockchain for marine insurance</title>
-      <link>//crypt0.net/post/ey-maersk-microsoft-build-blockchain-for-marine-insurance/</link>
-      <pubDate>Thu, 07 Sep 2017 01:20:08 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ey-maersk-microsoft-build-blockchain-for-marine-insurance/</guid>
-      <description>The platform is built on Microsoft&amp;rsquo;s Azure cloud-based technology. International insurance industry standards body ACORD and advisory firm Willis &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Hurricane Irma: Florida Solution Providers Batten Down The Hatches As</title>
-      <link>//crypt0.net/post/hurricane-irma-florida-solution-providers-batten-down-the-hatches-as/</link>
-      <pubDate>Thu, 07 Sep 2017 01:20:08 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hurricane-irma-florida-solution-providers-batten-down-the-hatches-as/</guid>
-      <description>CRN United Data Technologies made a good living from selling on-premises IT infrastructure, but is now heavily focused on using the Microsoft Azure cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>It&#39;s back-to-school season! Dive back</title>
-      <link>//crypt0.net/post/its-backtoschool-season-dive-back/</link>
-      <pubDate>Thu, 07 Sep 2017 01:20:08 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/its-backtoschool-season-dive-back/</guid>
-      <description>back into learning with this month&amp;rsquo;s Tech Talks covering re:Invent, AI, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OpenStack Pike Cloud Platform Still Provides AWS Compatibility Layer</title>
-      <link>//crypt0.net/post/openstack-pike-cloud-platform-still-provides-aws-compatibility-layer/</link>
-      <pubDate>Thu, 07 Sep 2017 01:20:08 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-pike-cloud-platform-still-provides-aws-compatibility-layer/</guid>
-      <description>The latest release of the OpenStack cloud platform landed on Aug. 30 with the debut of OpenStack Pike. While there are many incremental feature &amp;hellip; more.
 @crypt0net</description>
     </item>
     
