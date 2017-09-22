@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 22 Sep 2017 12:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2017 12:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Massive Viacom Data Exposed Through Amazon Web Services</title>
+      <link>//crypt0.net/post/massive-viacom-data-exposed-through-amazon-web-services/</link>
+      <pubDate>Fri, 22 Sep 2017 12:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/massive-viacom-data-exposed-through-amazon-web-services/</guid>
+      <description>Amazon Web Services S3 is in the news for all the wrong reasons as its Cloud storage has been accused of leaking massive amounts of data. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Canonical and Microsoft enable new Azure-tailored Ubuntu kernel</title>
@@ -8407,16 +8417,6 @@ Technical snafu involving security contractor exposes thousand of former Federal
       
       <guid>//crypt0.net/post/crateio-named-a-cloud-enabler-in-microsoft-2017-growth-accelerator/</guid>
       <description>We&amp;rsquo;re excited to see their offering join the Azure ecosystem. The Microsoft Growth Accelerator is one of the top programs of its type worldwide, with its &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Could Halliburton&#39;s Technology Focus Improve Returns in 2017?</title>
-      <link>//crypt0.net/post/could-halliburtons-technology-focus-improve-returns-in-2017/</link>
-      <pubDate>Thu, 07 Sep 2017 12:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/could-halliburtons-technology-focus-improve-returns-in-2017/</guid>
-      <description>On August 22, 2017, software giant Microsoft (MSFT) and Halliburton &amp;hellip; HAL has already initiated real-time data streaming into Microsoft&amp;rsquo;s Azure &amp;hellip; more.
 @crypt0net</description>
     </item>
     
