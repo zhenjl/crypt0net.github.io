@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 23 Sep 2017 21:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Sep 2017 21:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Over Half a Million Vehicle Records from SVR Tracking Leaked Online</title>
+      <link>//crypt0.net/post/over-half-a-million-vehicle-records-from-svr-tracking-leaked-online/</link>
+      <pubDate>Sat, 23 Sep 2017 21:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/over-half-a-million-vehicle-records-from-svr-tracking-leaked-online/</guid>
+      <description>The data was available in publicly accessible Amazon Web Services S3 bucket where nearly 540,642 SVR accounts&amp;rsquo; information is present. The data &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How the oldest IT company IBM is discovering its India story</title>
@@ -20850,36 +20860,6 @@
       <guid>//crypt0.net/post/remote-desktop-manager-twofactor-authentication-solution-for-enterprises/</guid>
       <description>To help you choose 2FA solutions for your enterprise we&amp;rsquo;ve compared three popular solutions: SAAS, Entrust IdentityGuard and Microsoft Azure &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Blockchain Firms Ripple, R3 File Dueling Lawsuits Over Cryptocurrency</title>
-      <link>//crypt0.net/post/blockchain-firms-ripple-r3-file-dueling-lawsuits-over-cryptocurrency/</link>
-      <pubDate>Fri, 08 Sep 2017 21:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-firms-ripple-r3-file-dueling-lawsuits-over-cryptocurrency/</guid>
-      <description>CoinDesk Distributed ledger startups Ripple and R3 have become embroiled in a new legal battle, with both startups filing lawsuits related to a contract dispute &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Equifax breach disclosure would have failed Europe&#39;s tough new rules</title>
-      <link>//crypt0.net/post/equifax-breach-disclosure-would-have-failed-europes-tough-new-rules/</link>
-      <pubDate>Fri, 08 Sep 2017 21:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/equifax-breach-disclosure-would-have-failed-europes-tough-new-rules/</guid>
-      <description>&amp;hellip; the tight timescales for reporting a breach it is important to have robust breach detection, investigation and internal reporting procedures in place.. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Plurilock Ramps Up Market Footprint as Demand for its &#39;Proof of Presence&#39;</title>
-      <link>//crypt0.net/post/plurilock-ramps-up-market-footprint-as-demand-for-its-proof-of-presence/</link>
-      <pubDate>Fri, 08 Sep 2017 21:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/plurilock-ramps-up-market-footprint-as-demand-for-its-proof-of-presence/</guid>
-      <description>Markets Insider This cuts the average breach detection time dramatically, from more than six months to less than 30 seconds. &amp;ldquo;Our latest market traction confirms that &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
