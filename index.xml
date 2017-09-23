@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 23 Sep 2017 04:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Sep 2017 05:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,20 @@
     <item>
       <title>Microsoft Switches to Multi-Zone Cloud Regions, Catching Up to AWS, Google</title>
       <link>//crypt0.net/post/microsoft-switches-to-multizone-cloud-regions-catching-up-to-aws-google/</link>
-      <pubDate>Sat, 23 Sep 2017 04:30:02 +0000</pubDate>
+      <pubDate>Sat, 23 Sep 2017 05:30:04 +0000</pubDate>
       
       <guid>//crypt0.net/post/microsoft-switches-to-multizone-cloud-regions-catching-up-to-aws-google/</guid>
-      <description>Data Center Knowledge Catching up to its biggest competitors, Microsoft Azure is adding availability zones in its cloud regions. For the uninitiated, availability zones are &amp;hellip; more.
+      <description>Data Center Knowledge You can look at availability zones as a type of redundancy that&amp;rsquo;s been built-in to Amazon Web Services, Google Cloud Platform, and Oracle Cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>MongoDB sets up to go public, reveals $101m yearly revenues in filing</title>
+      <link>//crypt0.net/post/mongodb-sets-up-to-go-public-reveals-101m-yearly-revenues-in-filing/</link>
+      <pubDate>Sat, 23 Sep 2017 05:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mongodb-sets-up-to-go-public-reveals-101m-yearly-revenues-in-filing/</guid>
+      <description>&amp;hellip; non-relational database providers and cloud providers, with Amazon Web Services (AWS), Google Cloud Platform (GCP) and Microsoft Azure cited. more.
 @crypt0net</description>
     </item>
     
@@ -570,16 +580,6 @@
       <guid>//crypt0.net/post/could-europe-teach-the-us-a-lesson-about-cyber-regulation/</guid>
       <description>James Langevin (D-RI) introduced a bill in 2015 that called on companies to report data breaches within 30 days of discovery. In addition, they would &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>MongoDB sets up to go public, reveals $101m yearly revenues in filing</title>
-      <link>//crypt0.net/post/mongodb-sets-up-to-go-public-reveals-101m-yearly-revenues-in-filing/</link>
-      <pubDate>Fri, 22 Sep 2017 21:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mongodb-sets-up-to-go-public-reveals-101m-yearly-revenues-in-filing/</guid>
-      <description>&amp;hellip; non-relational database providers and cloud providers, with Amazon Web Services (AWS), Google Cloud Platform (GCP) and Microsoft Azure cited. more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -21940,76 +21940,6 @@ Avast Debuts Consolidated Portfolio, New Channel Program Post AVG Buy To support
       
       <guid>//crypt0.net/post/startup-nanoport-wants-your-obsolete-smart-phones-to-be-your-new-best/</guid>
       <description>IEEE Spectrum &amp;hellip; and more powerful devices, or to connect to wall plates or other peripherals that would turn them into powerful components of the Internet of Things, &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>RIMES lance un nouveau service pour aider les intervenants ct acheteur </title>
-      <link>//crypt0.net/post/rimes-lance-un-nouveau-service-pour-aider-les-intervenants-ct-acheteur/</link>
-      <pubDate>Fri, 08 Sep 2017 05:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rimes-lance-un-nouveau-service-pour-aider-les-intervenants-ct-acheteur/</guid>
-      <description>SYS-CON Media (press release) Cloud Academy provides continuous learning solutions for individuals and enterprise teams for Amazon Web Services, Microsoft Azure, Google Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Datadog acquires Logmatic.io to add log management to its cloud monitoring</title>
-      <link>//crypt0.net/post/datadog-acquires-logmaticio-to-add-log-management-to-its-cloud-monitoring/</link>
-      <pubDate>Fri, 08 Sep 2017 05:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/datadog-acquires-logmaticio-to-add-log-management-to-its-cloud-monitoring/</guid>
-      <description>TechCrunch The addition of Logmatic, the company argues, will make it the first vendor to offer APM, infrastructure metrics and log management on a single &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Insurance business will see biggest impact from blockchain, says Deloitte</title>
-      <link>//crypt0.net/post/insurance-business-will-see-biggest-impact-from-blockchain-says-deloitte/</link>
-      <pubDate>Fri, 08 Sep 2017 05:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/insurance-business-will-see-biggest-impact-from-blockchain-says-deloitte/</guid>
-      <description>The insurance sector will see the most significant change from the adoption of blockchain technology, according to professional services giant Deloitte &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Internet of things how does it work</title>
-      <link>//crypt0.net/post/internet-of-things-how-does-it-work/</link>
-      <pubDate>Fri, 08 Sep 2017 05:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/internet-of-things-how-does-it-work/</guid>
-      <description>What exactly is the &amp;ldquo;Internet of things&amp;rdquo; and what impact is it going to have on &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>What Consumers Need to Know About the Equifax Data Breach</title>
-      <link>//crypt0.net/post/what-consumers-need-to-know-about-the-equifax-data-breach/</link>
-      <pubDate>Fri, 08 Sep 2017 05:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-consumers-need-to-know-about-the-equifax-data-breach/</guid>
-      <description>Credit reporting agency Equifax Thursday disclosed one of the most signifiant data breaches in recent history, saying information including Social &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Adobe and Microsoft expand productivity partnership</title>
-      <link>//crypt0.net/post/adobe-and-microsoft-expand-productivity-partnership/</link>
-      <pubDate>Fri, 08 Sep 2017 05:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/adobe-and-microsoft-expand-productivity-partnership/</guid>
-      <description>Adobe and Microsoft have announced an expansion to their strategic &amp;hellip; Adobe will also be making Microsoft Azure its preferred cloud platform for &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>MQTT light: Order of packets: command_topic and brightness_command_topic</title>
-      <link>//crypt0.net/post/mqtt-light-order-of-packets-commandtopic-and-brightnesscommandtopic/</link>
-      <pubDate>Fri, 08 Sep 2017 05:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mqtt-light-order-of-packets-commandtopic-and-brightnesscommandtopic/</guid>
-      <description>#9330. Open. lukie80 opened this Issue 44 minutes ago 0 comments &amp;hellip; more.
 @surgethings</description>
     </item>
     

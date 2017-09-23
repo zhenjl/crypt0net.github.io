@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 23 Sep 2017 04:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Sep 2017 05:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,20 @@
     <item>
       <title>Microsoft Switches to Multi-Zone Cloud Regions, Catching Up to AWS, Google</title>
       <link>//crypt0.net/post/microsoft-switches-to-multizone-cloud-regions-catching-up-to-aws-google/</link>
-      <pubDate>Sat, 23 Sep 2017 04:30:02 +0000</pubDate>
+      <pubDate>Sat, 23 Sep 2017 05:30:04 +0000</pubDate>
       
       <guid>//crypt0.net/post/microsoft-switches-to-multizone-cloud-regions-catching-up-to-aws-google/</guid>
-      <description>Data Center Knowledge Catching up to its biggest competitors, Microsoft Azure is adding availability zones in its cloud regions. For the uninitiated, availability zones are &amp;hellip; more.
+      <description>Data Center Knowledge You can look at availability zones as a type of redundancy that&amp;rsquo;s been built-in to Amazon Web Services, Google Cloud Platform, and Oracle Cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>MongoDB sets up to go public, reveals $101m yearly revenues in filing</title>
+      <link>//crypt0.net/post/mongodb-sets-up-to-go-public-reveals-101m-yearly-revenues-in-filing/</link>
+      <pubDate>Sat, 23 Sep 2017 05:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mongodb-sets-up-to-go-public-reveals-101m-yearly-revenues-in-filing/</guid>
+      <description>&amp;hellip; non-relational database providers and cloud providers, with Amazon Web Services (AWS), Google Cloud Platform (GCP) and Microsoft Azure cited. more.
 @crypt0net</description>
     </item>
     
@@ -179,16 +189,6 @@
       
       <guid>//crypt0.net/post/toshiba-selling-its-thriving-nand-flash-memory-unit-for-18b/</guid>
       <description>Google Cloud Search, introduced in February, is a scaled-down version of Google Search released specifically for use within enterprises. The tool is &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>MongoDB sets up to go public, reveals $101m yearly revenues in filing</title>
-      <link>//crypt0.net/post/mongodb-sets-up-to-go-public-reveals-101m-yearly-revenues-in-filing/</link>
-      <pubDate>Fri, 22 Sep 2017 21:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mongodb-sets-up-to-go-public-reveals-101m-yearly-revenues-in-filing/</guid>
-      <description>&amp;hellip; non-relational database providers and cloud providers, with Amazon Web Services (AWS), Google Cloud Platform (GCP) and Microsoft Azure cited. more.
 @crypt0net</description>
     </item>
     
@@ -8417,26 +8417,6 @@ Microsoft and Adobe&amp;rsquo;s friendship deepens with partnership on e-signatu
       
       <guid>//crypt0.net/post/iij-authorized-as-indirect-provider-for-microsoft-azure-csp-program/</guid>
       <description>Until now, IIJ has provided its enterprise clients with cloud-based services as a direct provider in the CSP program, by combining Microsoft Azure with &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>RIMES lance un nouveau service pour aider les intervenants ct acheteur </title>
-      <link>//crypt0.net/post/rimes-lance-un-nouveau-service-pour-aider-les-intervenants-ct-acheteur/</link>
-      <pubDate>Fri, 08 Sep 2017 05:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rimes-lance-un-nouveau-service-pour-aider-les-intervenants-ct-acheteur/</guid>
-      <description>SYS-CON Media (press release) Cloud Academy provides continuous learning solutions for individuals and enterprise teams for Amazon Web Services, Microsoft Azure, Google Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Adobe and Microsoft expand productivity partnership</title>
-      <link>//crypt0.net/post/adobe-and-microsoft-expand-productivity-partnership/</link>
-      <pubDate>Fri, 08 Sep 2017 05:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/adobe-and-microsoft-expand-productivity-partnership/</guid>
-      <description>Adobe and Microsoft have announced an expansion to their strategic &amp;hellip; Adobe will also be making Microsoft Azure its preferred cloud platform for &amp;hellip; more.
 @crypt0net</description>
     </item>
     
