@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 23 Sep 2017 04:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Sep 2017 04:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kubernetes 1.7 is loaded with cool new features</title>
+      <link>//crypt0.net/post/kubernetes-17-is-loaded-with-cool-new-features/</link>
+      <pubDate>Sat, 23 Sep 2017 04:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/kubernetes-17-is-loaded-with-cool-new-features/</guid>
+      <description>The commercial Google Cloud Platform (GCP) Container Engine (GKE) offers the latest release of Kubernetes 1.7 and continue their support for their &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Switches to Multi-Zone Cloud Regions, Catching Up to AWS, Google</title>
+      <link>//crypt0.net/post/microsoft-switches-to-multizone-cloud-regions-catching-up-to-aws-google/</link>
+      <pubDate>Sat, 23 Sep 2017 04:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-switches-to-multizone-cloud-regions-catching-up-to-aws-google/</guid>
+      <description>Data Center Knowledge You can look at availability zones as a type of redundancy that&amp;rsquo;s been built-in to Amazon Web Services, Google Cloud Platform, and Oracle Cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Debuts Azure Availability Zones to Reduce Outage Risk</title>
