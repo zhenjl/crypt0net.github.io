@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 23 Sep 2017 03:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Sep 2017 04:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Debuts Azure Availability Zones to Reduce Outage Risk</title>
+      <link>//crypt0.net/post/microsoft-debuts-azure-availability-zones-to-reduce-outage-risk/</link>
+      <pubDate>Sat, 23 Sep 2017 04:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-debuts-azure-availability-zones-to-reduce-outage-risk/</guid>
+      <description>And in February, an Amazon Web Services (AWS) outage highlighted the need for redundancy in critical cloud applications. To help ensure that cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Digital Guardian Showcases Collaboration with Microsoft Azure Information</title>
@@ -39,16 +49,6 @@
       
       <guid>//crypt0.net/post/google-puts-nvidia-k80-and-p100-gpus-into-its-cloud-services/</guid>
       <description>If you need access to GPU cycles, it just got a little easier to have access today. Google Cloud Platform (GCP), now has K80 GPUs in production as &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Debuts Azure Availability Zones to Reduce Outage Risk</title>
-      <link>//crypt0.net/post/microsoft-debuts-azure-availability-zones-to-reduce-outage-risk/</link>
-      <pubDate>Sat, 23 Sep 2017 01:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-debuts-azure-availability-zones-to-reduce-outage-risk/</guid>
-      <description>Microsoft wants to take the worry out of deploying critical applications on its Azure cloud computing platform with Azure Availability Zones, a new high &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -8427,16 +8427,6 @@ Microsoft and Adobe&amp;rsquo;s friendship deepens with partnership on e-signatu
       
       <guid>//crypt0.net/post/amazon-opens-bidding-to-cities-for-us5bil-hq2-a-second-headquarters/</guid>
       <description>&amp;hellip; (RM1bil) Baron Opportunity Fund, said the dual-city strategy pushed Amazon toward an eventual split between its Amazon Web Services business &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>What Every Investor Needs to Know About Dropbox</title>
-      <link>//crypt0.net/post/what-every-investor-needs-to-know-about-dropbox/</link>
-      <pubDate>Fri, 08 Sep 2017 03:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-every-investor-needs-to-know-about-dropbox/</guid>
-      <description>Larger vendors such as Amazon Web Services and Microsoft Azure have faced several issues with reliability in the past few years, and we think &amp;hellip; more.
 @crypt0net</description>
     </item>
     
