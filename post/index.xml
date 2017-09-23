@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 23 Sep 2017 00:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Sep 2017 00:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>In cloud migration services, what&#39;s old is new again</title>
+      <link>//crypt0.net/post/in-cloud-migration-services-whats-old-is-new-again/</link>
+      <pubDate>Sat, 23 Sep 2017 00:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/in-cloud-migration-services-whats-old-is-new-again/</guid>
+      <description>Inside this essential guide, discover everything you need to know regarding OpenStack private cloud&amp;ndash; including what sets it apart from its competitors, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Blockchain Technology is a Space I Love, Says Frank Holmes</title>
@@ -150,16 +160,6 @@
       <guid>//crypt0.net/post/equifax-and-why-its-so-hard-to-sue-a-company-for-losing-your-personal/</guid>
       <description>Harvard Business Review After years of screaming headlines about data breaches, we all know the drill. A major company announces it has been hacked, a brief public outcry &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>In cloud migration services, what&#39;s old is new again</title>
-      <link>//crypt0.net/post/in-cloud-migration-services-whats-old-is-new-again/</link>
-      <pubDate>Fri, 22 Sep 2017 23:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/in-cloud-migration-services-whats-old-is-new-again/</guid>
-      <description>The data-transfer appliance is similar to offerings from Amazon Web Services and Google Cloud Platform, and it shows that even with advancements &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -21560,16 +21560,6 @@
       <guid>//crypt0.net/post/vmware-workstation-still-useful-after-all-these-years/</guid>
       <description>&amp;hellip; thin and thick client devices I can&amp;rsquo;t run as VMs, I&amp;rsquo;ll set up a simple router to bounce the connection through a VM to modify the network&amp;rsquo;s behavior. more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Analyze your business data with Explore in Google Sheets, use BigQuery too</title>
-      <link>//crypt0.net/post/analyze-your-business-data-with-explore-in-google-sheets-use-bigquery-too/</link>
-      <pubDate>Fri, 08 Sep 2017 00:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/analyze-your-business-data-with-explore-in-google-sheets-use-bigquery-too/</guid>
-      <description>sync Sheets with BigQueryGoogle Cloud&amp;rsquo;s low cost data warehouse for &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
