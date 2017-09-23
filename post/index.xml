@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 23 Sep 2017 00:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Sep 2017 00:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Port of New Bedford joins global marine research network</title>
+      <link>//crypt0.net/post/port-of-new-bedford-joins-global-marine-research-network/</link>
+      <pubDate>Sat, 23 Sep 2017 00:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/port-of-new-bedford-joins-global-marine-research-network/</guid>
+      <description>Located in New Bedford, MA, ImpactLABS pilots early stage Internet of Things (IoT) solutions with small and mid-sized businesses in Southeastern &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>System requirements for SEP 12.1.2 &amp; 12.1.3</title>
+      <link>//crypt0.net/post/system-requirements-for-sep-1212--1213/</link>
+      <pubDate>Sat, 23 Sep 2017 00:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/system-requirements-for-sep-1212--1213/</guid>
+      <description>12.1.3, for enterprise version and Small Business Edition, and Network &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Key speaker from America at data protection seminar</title>
@@ -21560,36 +21580,6 @@
       <guid>//crypt0.net/post/winding-tree-is-the-new-kid-on-the-blockchain-set-on-disrupting-airbnb-and/</guid>
       <description>TNW Bitcoin and Ethereum may be the stars of the cryptocurrency story, but the real hero is the technology behind them: blockchain. Platforms like Winding &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Capturing and Inspecting Traffic in Azure Networks</title>
-      <link>//crypt0.net/post/capturing-and-inspecting-traffic-in-azure-networks/</link>
-      <pubDate>Fri, 08 Sep 2017 00:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/capturing-and-inspecting-traffic-in-azure-networks/</guid>
-      <description>In this post, I will teach how to capture packets from the NICs of Azure virtual machines using &amp;hellip; Engineers at Microsoft consider this an important skill. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Consumer Law Requires Tax Preparers to Protect Against ID Theft</title>
-      <link>//crypt0.net/post/consumer-law-requires-tax-preparers-to-protect-against-id-theft/</link>
-      <pubDate>Fri, 08 Sep 2017 00:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/consumer-law-requires-tax-preparers-to-protect-against-id-theft/</guid>
-      <description>&amp;hellip; risk assessment, and failed to implement the safeguards to control those risksspecifically, the risk that hackers would use the stolen credentials. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Dragonfly 2.0 hacker group seen targeting US power grid</title>
-      <link>//crypt0.net/post/dragonfly-20-hacker-group-seen-targeting-us-power-grid/</link>
-      <pubDate>Fri, 08 Sep 2017 00:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/dragonfly-20-hacker-group-seen-targeting-us-power-grid/</guid>
-      <description>&amp;hellip; to gather network credentials, then using those stolen credentials in follow-up attacks against targeted organizations involved in the energy sector. more.
-@trustpath</description>
     </item>
     
   </channel>
