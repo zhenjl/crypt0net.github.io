@@ -7,10 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 25 Sep 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2017 19:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>At Ignite, Microsoft extends hybrid cloud beyond just infrastructure</title>
+      <link>//crypt0.net/post/at-ignite-microsoft-extends-hybrid-cloud-beyond-just-infrastructure/</link>
+      <pubDate>Mon, 25 Sep 2017 19:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/at-ignite-microsoft-extends-hybrid-cloud-beyond-just-infrastructure/</guid>
+      <description>Amazon Web Services, for example, offers gateways for customers to link their storage platforms in with its Simple Storage Service (S3). AWS also &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure&#39;s new AI services target data scientists and developers</title>
+      <link>//crypt0.net/post/microsoft-azures-new-ai-services-target-data-scientists-and-developers/</link>
+      <pubDate>Mon, 25 Sep 2017 19:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azures-new-ai-services-target-data-scientists-and-developers/</guid>
+      <description>All of these new capabilities are designed to help Microsoft compete with Amazon Web Services, Google Cloud, and other players in the cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft just unleashed three long-anticipated secret weapons in the cloud</title>
+      <link>//crypt0.net/post/microsoft-just-unleashed-three-longanticipated-secret-weapons-in-the-cloud/</link>
+      <pubDate>Mon, 25 Sep 2017 19:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-just-unleashed-three-longanticipated-secret-weapons-in-the-cloud/</guid>
+      <description>Markets Insider &amp;hellip; for Microsoft customers to buy. Here&amp;rsquo;s how Microsoft hopes these products will give it a leg up against Amazon Web Services and Google Cloud. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Tech Giant Outage  Google, Netflix, Facebook and Amazon</title>
+      <link>//crypt0.net/post/tech-giant-outage--google-netflix-facebook-and-amazon/</link>
+      <pubDate>Mon, 25 Sep 2017 19:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/tech-giant-outage--google-netflix-facebook-and-amazon/</guid>
+      <description>&amp;hellip; of this year, a large number of sites were crippled for four hours when AWS (Amazon Web Services) went down due to a single employee&amp;rsquo;s error. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Sep 25, 2017</title>
@@ -67,32 +107,12 @@ Equifax data breach could have effect for years to come In many previous data br
     </item>
     
     <item>
-      <title>Microsoft Azure&#39;s new AI services target data scientists and developers</title>
-      <link>//crypt0.net/post/microsoft-azures-new-ai-services-target-data-scientists-and-developers/</link>
-      <pubDate>Mon, 25 Sep 2017 13:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azures-new-ai-services-target-data-scientists-and-developers/</guid>
-      <description>Microsoft announced a smorgasbord of updates and new features to its Azure cloud platform today as part of the company&amp;rsquo;s Ignite conference in &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
       <title>Microsoft Ignite kicks off with cross-platform SQL and on-premise Azure</title>
       <link>//crypt0.net/post/microsoft-ignite-kicks-off-with-crossplatform-sql-and-onpremise-azure/</link>
       <pubDate>Mon, 25 Sep 2017 13:30:04 +0000</pubDate>
       
       <guid>//crypt0.net/post/microsoft-ignite-kicks-off-with-crossplatform-sql-and-onpremise-azure/</guid>
       <description>The general availability of SQL Server 2017 for Windows and Linux is among the announcements made by Microsoft at its Ignite conference in &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft just unleashed three long-anticipated secret weapons in the cloud</title>
-      <link>//crypt0.net/post/microsoft-just-unleashed-three-longanticipated-secret-weapons-in-the-cloud/</link>
-      <pubDate>Mon, 25 Sep 2017 13:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-just-unleashed-three-longanticipated-secret-weapons-in-the-cloud/</guid>
-      <description>Business Insider Microsoft&amp;rsquo;s hope is that SQL Server for Linux will stop existing customers from &amp;hellip; from Oracle, or others and move it up into the Microsoft Azure cloud. more.
 @crypt0net</description>
     </item>
     
@@ -823,16 +843,6 @@ Equifax data breach could have effect for years to come In many previous data br
       
       <guid>//crypt0.net/post/usqlcognitive-imaging-face-detection-hello-world/</guid>
       <description>https://www.google.com/url?rct=j&amp;amp;sa=t&amp;amp;url=https://azure.microsoft.com/en-us/resources/samples/usql-cognitive-imaging-face-detection-hello-world/&amp;amp;ct=ga&amp;amp;cd=CAEYACoSMzA0NDA4MjAyMzIyMjY5OTYzMhphMjQ4NjliMTZiOWRkMWYwOmNvbTplbjpVUw&amp;amp;usg=AFQjCNFmdmsRundiIQ9A9aZaKnRH_Z-xTQ USQL/Cognitive Imaging OCR Hello World Azure Sample: U-SQL/Cognitive Imaging OCR Hello World. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Tech Giant Outage  Google, Netflix, Facebook and Amazon</title>
-      <link>//crypt0.net/post/tech-giant-outage--google-netflix-facebook-and-amazon/</link>
-      <pubDate>Sun, 24 Sep 2017 22:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/tech-giant-outage--google-netflix-facebook-and-amazon/</guid>
-      <description>In March of this year, a large number of sites were crippled for four hours when AWS (Amazon Web Services) went down due to a single employee&amp;rsquo;s &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -20591,36 +20601,6 @@ Sellers Learn to Distrust eBay Emails It&amp;rsquo;s vital for sellers to trust 
     </item>
     
     <item>
-      <title>All the major business events coming up in the week ahead</title>
-      <link>//crypt0.net/post/all-the-major-business-events-coming-up-in-the-week-ahead/</link>
-      <pubDate>Sun, 10 Sep 2017 18:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/all-the-major-business-events-coming-up-in-the-week-ahead/</guid>
-      <description>&amp;hellip; fibre optic communications, medical diagnostic sensors, the control of self-driving cars and emerging mass markets in the internet of things. Today &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>B3i moves blockchain to market with working reinsurance prototype</title>
-      <link>//crypt0.net/post/b3i-moves-blockchain-to-market-with-working-reinsurance-prototype/</link>
-      <pubDate>Sun, 10 Sep 2017 18:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/b3i-moves-blockchain-to-market-with-working-reinsurance-prototype/</guid>
-      <description>transactions, B3i, the Blockchain Insurance Industry Initiative, &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Reinsurance blockchain prototype launched by B3i</title>
-      <link>//crypt0.net/post/reinsurance-blockchain-prototype-launched-by-b3i/</link>
-      <pubDate>Sun, 10 Sep 2017 18:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/reinsurance-blockchain-prototype-launched-by-b3i/</guid>
-      <description>At the Monte Carlo Reinsurance Rendez-vous event a working prototype of a blockchain powered reinsurance transaction platform was launched by &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Sep 10, 2017</title>
       <link>//crypt0.net/daily/daily-cloud-news-2017-09-10/</link>
       <pubDate>Sun, 10 Sep 2017 18:05:01 +0000</pubDate>
@@ -20652,156 +20632,6 @@ Illinois CIO Hardik Bhatt resigns for smart cities post at Amazon Bhatt confirme
       <description>Daily Security news from @trustpath.
 Data Breach Victims Talk of Initial Terror, Then Vigilance Some previous victims of data breaches have also taken to Twitter. David Anderson said his personal information had been stolen four times in four &amp;hellip; more.
 Half a million Mainers exposed in Equifax data breach &amp;ldquo;As far as data breaches go this is in the major leagues you know this is a big one,&amp;rdquo; Leach said. &amp;ldquo;You know this is in line with the Yahoo data breach.</description>
-    </item>
-    
-    <item>
-      <title>&#39;Roaches&#39;: SEC Director Excoriates ICO Scamsters</title>
-      <link>//crypt0.net/post/roaches-sec-director-excoriates-ico-scamsters/</link>
-      <pubDate>Sun, 10 Sep 2017 17:20:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/roaches-sec-director-excoriates-ico-scamsters/</guid>
-      <description>A recent report from blockchain-tracing firm Chainalysis stated that Ethereum-based cyber crimes have netted attackers more than $225 million. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>5 Blockchain Innovations That Will Affect Everyone You Know</title>
-      <link>//crypt0.net/post/5-blockchain-innovations-that-will-affect-everyone-you-know/</link>
-      <pubDate>Sun, 10 Sep 2017 17:20:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/5-blockchain-innovations-that-will-affect-everyone-you-know/</guid>
-      <description>It&amp;rsquo;s no secret that at CCN, we are long-term believers in the power of the blockchain to reshape and better society in innumerable ways. Following the &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Consumer credit data safe in Australia and New Zealand, says Equifax</title>
-      <link>//crypt0.net/post/consumer-credit-data-safe-in-australia-and-new-zealand-says-equifax/</link>
-      <pubDate>Sun, 10 Sep 2017 17:20:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/consumer-credit-data-safe-in-australia-and-new-zealand-says-equifax/</guid>
-      <description>The office investigates data breaches to determine if customers were properly notified of the breach and whether appropriate safeguards were in place &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Hacked Equifax Suffers A Big Hit To Its Credibility Score</title>
-      <link>//crypt0.net/post/hacked-equifax-suffers-a-big-hit-to-its-credibility-score/</link>
-      <pubDate>Sun, 10 Sep 2017 17:20:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hacked-equifax-suffers-a-big-hit-to-its-credibility-score/</guid>
-      <description>Credit report agencies are particularly vulnerable to massive data breaches, since they tend to contain a comprehensive package of identity &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Publishers need to learn from mega platforms like Facebook</title>
-      <link>//crypt0.net/post/publishers-need-to-learn-from-mega-platforms-like-facebook/</link>
-      <pubDate>Sun, 10 Sep 2017 17:20:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/publishers-need-to-learn-from-mega-platforms-like-facebook/</guid>
-      <description>&amp;hellip; Amazon Studios, which he said could be the fourth pillar of Amazon&amp;rsquo;s entire business (after retail, Prime as a whole, and Amazon Web Services). more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>The Promise of IoT-Connected Healthcare: a Diabetic Emergency</title>
-      <link>//crypt0.net/post/the-promise-of-iotconnected-healthcare-a-diabetic-emergency/</link>
-      <pubDate>Sun, 10 Sep 2017 17:20:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-promise-of-iotconnected-healthcare-a-diabetic-emergency/</guid>
-      <description>The economic impact from the Internet of Things (IoT) on health and wellness could reach $1.6 trillion dollars a year by 2025. Much of that value will &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>ChainLink connects smart contracts to data, APIs and bank payments</title>
-      <link>//crypt0.net/post/chainlink-connects-smart-contracts-to-data-apis-and-bank-payments/</link>
-      <pubDate>Sun, 10 Sep 2017 16:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/chainlink-connects-smart-contracts-to-data-apis-and-bank-payments/</guid>
-      <description>Former RSA chief scientist and cryptography academic Ari Juels and the team behind blockchain middleware provider SmartContract have release a &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>China wins inaugural Asean Makerthon 2017, Malaysia bags third spot</title>
-      <link>//crypt0.net/post/china-wins-inaugural-asean-makerthon-2017-malaysia-bags-third-spot/</link>
-      <pubDate>Sun, 10 Sep 2017 16:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/china-wins-inaugural-asean-makerthon-2017-malaysia-bags-third-spot/</guid>
-      <description>Chen and her teammates, Zhao Chen and Xing Rui, were only given two days to put together their innovation in the Internet of Things (IoT) challenge. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>CoinTelegraph: Ukraine to auction seized assets through blockchain showing</title>
-      <link>//crypt0.net/post/cointelegraph-ukraine-to-auction-seized-assets-through-blockchain-showing/</link>
-      <pubDate>Sun, 10 Sep 2017 16:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cointelegraph-ukraine-to-auction-seized-assets-through-blockchain-showing/</guid>
-      <description>Kyiv Post Ukraines justice ministry shows their interest to digitally auction seized assets through the Blockchain. Blockchain is set to progress to manage &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>China&#39;s Internet of Things industry exceeds 900 bln yuan</title>
-      <link>//crypt0.net/post/chinas-internet-of-things-industry-exceeds-900-bln-yuan/</link>
-      <pubDate>Sun, 10 Sep 2017 15:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/chinas-internet-of-things-industry-exceeds-900-bln-yuan/</guid>
-      <description>value exceed 900 billion yuan ($140 billion), with a compound annual growth &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Genesis Vision, Blockchain Based Trust Management Platform Annou - WBOY</title>
-      <link>//crypt0.net/post/genesis-vision-blockchain-based-trust-management-platform-annou--wboy/</link>
-      <pubDate>Sun, 10 Sep 2017 15:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/genesis-vision-blockchain-based-trust-management-platform-annou--wboy/</guid>
-      <description>blockchain technology, is ready to be launched. Dublin, Ireland - September 10, &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Swiss Crypto Valley Association Calls for &#39;Careful&#39; ICO Regulation</title>
-      <link>//crypt0.net/post/swiss-crypto-valley-association-calls-for-careful-ico-regulation/</link>
-      <pubDate>Sun, 10 Sep 2017 15:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/swiss-crypto-valley-association-calls-for-careful-ico-regulation/</guid>
-      <description>The Crypto Valley Association (CVA), a non-profit association that promotes the development of blockchain technologies, has announced its support &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>The Internet of Things will kill privacy for good unless we act now</title>
-      <link>//crypt0.net/post/the-internet-of-things-will-kill-privacy-for-good-unless-we-act-now/</link>
-      <pubDate>Sun, 10 Sep 2017 14:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-internet-of-things-will-kill-privacy-for-good-unless-we-act-now/</guid>
-      <description>This increase in wifi-enabled devices is called the Internet of Things and Gartner, a research firm, says there will be more than 20-billion smart &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Fintech means Blockchain? Is there anything else?</title>
-      <link>//crypt0.net/post/fintech-means-blockchain-is-there-anything-else/</link>
-      <pubDate>Sun, 10 Sep 2017 13:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/fintech-means-blockchain-is-there-anything-else/</guid>
-      <description>Blockchain technology is just about the first thing that comes to mind whenever a discussion centers on the topic of fintech innovations. The tendency &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Israel, an emerging financial tech leader, makes latest gains in digital</title>
-      <link>//crypt0.net/post/israel-an-emerging-financial-tech-leader-makes-latest-gains-in-digital/</link>
-      <pubDate>Sun, 10 Sep 2017 13:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/israel-an-emerging-financial-tech-leader-makes-latest-gains-in-digital/</guid>
-      <description>JNS.org Meanwhile, Israel&amp;rsquo;s first blockchain incubator, Alignment, and the Israeli Securities Authority (ISA) recently announced that they will establish a &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>

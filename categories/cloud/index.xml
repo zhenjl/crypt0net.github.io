@@ -7,10 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 25 Sep 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2017 19:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>At Ignite, Microsoft extends hybrid cloud beyond just infrastructure</title>
+      <link>//crypt0.net/post/at-ignite-microsoft-extends-hybrid-cloud-beyond-just-infrastructure/</link>
+      <pubDate>Mon, 25 Sep 2017 19:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/at-ignite-microsoft-extends-hybrid-cloud-beyond-just-infrastructure/</guid>
+      <description>Amazon Web Services, for example, offers gateways for customers to link their storage platforms in with its Simple Storage Service (S3). AWS also &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure&#39;s new AI services target data scientists and developers</title>
+      <link>//crypt0.net/post/microsoft-azures-new-ai-services-target-data-scientists-and-developers/</link>
+      <pubDate>Mon, 25 Sep 2017 19:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azures-new-ai-services-target-data-scientists-and-developers/</guid>
+      <description>All of these new capabilities are designed to help Microsoft compete with Amazon Web Services, Google Cloud, and other players in the cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft just unleashed three long-anticipated secret weapons in the cloud</title>
+      <link>//crypt0.net/post/microsoft-just-unleashed-three-longanticipated-secret-weapons-in-the-cloud/</link>
+      <pubDate>Mon, 25 Sep 2017 19:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-just-unleashed-three-longanticipated-secret-weapons-in-the-cloud/</guid>
+      <description>Markets Insider &amp;hellip; for Microsoft customers to buy. Here&amp;rsquo;s how Microsoft hopes these products will give it a leg up against Amazon Web Services and Google Cloud. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Tech Giant Outage  Google, Netflix, Facebook and Amazon</title>
+      <link>//crypt0.net/post/tech-giant-outage--google-netflix-facebook-and-amazon/</link>
+      <pubDate>Mon, 25 Sep 2017 19:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/tech-giant-outage--google-netflix-facebook-and-amazon/</guid>
+      <description>&amp;hellip; of this year, a large number of sites were crippled for four hours when AWS (Amazon Web Services) went down due to a single employee&amp;rsquo;s error. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Sep 25, 2017</title>
@@ -34,32 +74,12 @@ LinkTime secures business operations across AWS and Alicloud with Hillstone Netw
     </item>
     
     <item>
-      <title>Microsoft Azure&#39;s new AI services target data scientists and developers</title>
-      <link>//crypt0.net/post/microsoft-azures-new-ai-services-target-data-scientists-and-developers/</link>
-      <pubDate>Mon, 25 Sep 2017 13:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azures-new-ai-services-target-data-scientists-and-developers/</guid>
-      <description>Microsoft announced a smorgasbord of updates and new features to its Azure cloud platform today as part of the company&amp;rsquo;s Ignite conference in &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
       <title>Microsoft Ignite kicks off with cross-platform SQL and on-premise Azure</title>
       <link>//crypt0.net/post/microsoft-ignite-kicks-off-with-crossplatform-sql-and-onpremise-azure/</link>
       <pubDate>Mon, 25 Sep 2017 13:30:04 +0000</pubDate>
       
       <guid>//crypt0.net/post/microsoft-ignite-kicks-off-with-crossplatform-sql-and-onpremise-azure/</guid>
       <description>The general availability of SQL Server 2017 for Windows and Linux is among the announcements made by Microsoft at its Ignite conference in &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft just unleashed three long-anticipated secret weapons in the cloud</title>
-      <link>//crypt0.net/post/microsoft-just-unleashed-three-longanticipated-secret-weapons-in-the-cloud/</link>
-      <pubDate>Mon, 25 Sep 2017 13:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-just-unleashed-three-longanticipated-secret-weapons-in-the-cloud/</guid>
-      <description>Business Insider Microsoft&amp;rsquo;s hope is that SQL Server for Linux will stop existing customers from &amp;hellip; from Oracle, or others and move it up into the Microsoft Azure cloud. more.
 @crypt0net</description>
     </item>
     
@@ -410,16 +430,6 @@ LinkTime secures business operations across AWS and Alicloud with Hillstone Netw
       
       <guid>//crypt0.net/post/usqlcognitive-imaging-face-detection-hello-world/</guid>
       <description>https://www.google.com/url?rct=j&amp;amp;sa=t&amp;amp;url=https://azure.microsoft.com/en-us/resources/samples/usql-cognitive-imaging-face-detection-hello-world/&amp;amp;ct=ga&amp;amp;cd=CAEYACoSMzA0NDA4MjAyMzIyMjY5OTYzMhphMjQ4NjliMTZiOWRkMWYwOmNvbTplbjpVUw&amp;amp;usg=AFQjCNFmdmsRundiIQ9A9aZaKnRH_Z-xTQ USQL/Cognitive Imaging OCR Hello World Azure Sample: U-SQL/Cognitive Imaging OCR Hello World. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Tech Giant Outage  Google, Netflix, Facebook and Amazon</title>
-      <link>//crypt0.net/post/tech-giant-outage--google-netflix-facebook-and-amazon/</link>
-      <pubDate>Sun, 24 Sep 2017 22:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/tech-giant-outage--google-netflix-facebook-and-amazon/</guid>
-      <description>In March of this year, a large number of sites were crippled for four hours when AWS (Amazon Web Services) went down due to a single employee&amp;rsquo;s &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -7899,16 +7909,6 @@ Are you aligned with the fastest growing cloud platform on the planet? The Amazo
       <description>Daily Cloud Computing news from @cloudfeednet.
 Can unicorn Dropbox avoid a down-round IPO? Larger vendors such as Amazon Web Services and Microsoft Azure have faced several issues with reliability in the past couple of years, and we think &amp;hellip; more.
 Synopsys to Repatriate $775-$850 Million of International Cash MOUNTAIN VIEW, Calif., Sept. 8, 2017 /PRNewswire/ &amp;ndash; Synopsys, Inc. (Nasdaq: SNPS) today announced that its board of directors has approved a &amp;hellip; more.</description>
-    </item>
-    
-    <item>
-      <title>Publishers need to learn from mega platforms like Facebook</title>
-      <link>//crypt0.net/post/publishers-need-to-learn-from-mega-platforms-like-facebook/</link>
-      <pubDate>Sun, 10 Sep 2017 17:20:06 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/publishers-need-to-learn-from-mega-platforms-like-facebook/</guid>
-      <description>&amp;hellip; Amazon Studios, which he said could be the fourth pillar of Amazon&amp;rsquo;s entire business (after retail, Prime as a whole, and Amazon Web Services). more.
-@crypt0net</description>
     </item>
     
     <item>
