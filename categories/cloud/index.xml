@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 26 Sep 2017 16:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2017 17:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Java 8 on App Engine standard environment is now generally available</title>
+      <link>//crypt0.net/post/java-8-on-app-engine-standard-environment-is-now-generally-available/</link>
+      <pubDate>Tue, 26 Sep 2017 17:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/java-8-on-app-engine-standard-environment-is-now-generally-available/</guid>
+      <description>everything that OpenJDK 8 and Google Cloud Platform (GCP) have to offer, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>AppDirect Now Two-Tier Google Cloud Distributor</title>
