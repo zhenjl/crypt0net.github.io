@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 26 Sep 2017 20:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2017 21:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Pinpoint Launches Two-Way Text Messaging</title>
+      <link>//crypt0.net/post/aws-pinpoint-launches-twoway-text-messaging/</link>
+      <pubDate>Tue, 26 Sep 2017 21:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-pinpoint-launches-twoway-text-messaging/</guid>
+      <description>on 26 SEP 2017 | in Amazon Mobile Hub, Amazon Pinpoint, Amazon &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google acquires cloud access management company</title>
@@ -7937,36 +7947,6 @@ Private cloud use grows, and ZeroStack wants to help spin them up We think about
       
       <guid>//crypt0.net/post/microsoft-azure-gets-a-new-vm-family-for-bursty-workloads/</guid>
       <description>Microsoft today announced the preview launch of a new family of virtual machines for its Azure cloud computing platform that&amp;rsquo;s specifically geared &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>What is AWS Security? Risks, Best Practices, and More</title>
-      <link>//crypt0.net/post/what-is-aws-security-risks-best-practices-and-more/</link>
-      <pubDate>Mon, 11 Sep 2017 20:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-is-aws-security-risks-best-practices-and-more/</guid>
-      <description>series on the fundamentals of information security. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>FAQ: Microsoft gives away Windows 10, Office 365 in try-before-you-buy deal</title>
-      <link>//crypt0.net/post/faq-microsoft-gives-away-windows-10-office-365-in-trybeforeyoubuy-deal/</link>
-      <pubDate>Mon, 11 Sep 2017 20:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/faq-microsoft-gives-away-windows-10-office-365-in-trybeforeyoubuy-deal/</guid>
-      <description>ARNnet The invitation-only &amp;lsquo;Windows Insider Lab for Enterprise&amp;rsquo; lets users, most of &amp;hellip; in Tumwater - and a real network, the latter via Azure Active Directory. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft adds guest access capabilities to Teams</title>
-      <link>//crypt0.net/post/microsoft-adds-guest-access-capabilities-to-teams/</link>
-      <pubDate>Mon, 11 Sep 2017 20:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-adds-guest-access-capabilities-to-teams/</guid>
-      <description>While guest users must have an Azure Active Directory account to use Teams, there are plans to allow anyone with a Microsoft Account to be added as &amp;hellip; more.
 @crypt0net</description>
     </item>
     

@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 26 Sep 2017 20:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2017 21:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Pinpoint Launches Two-Way Text Messaging</title>
+      <link>//crypt0.net/post/aws-pinpoint-launches-twoway-text-messaging/</link>
+      <pubDate>Tue, 26 Sep 2017 21:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-pinpoint-launches-twoway-text-messaging/</guid>
+      <description>on 26 SEP 2017 | in Amazon Mobile Hub, Amazon Pinpoint, Amazon &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google acquires cloud access management company</title>
@@ -20180,76 +20190,6 @@
       <guid>//crypt0.net/post/why-cryptocurrency-and-blockchain-risks-look-overblown-for-amd-and-nvidia/</guid>
       <description>It is no secret that virtual reality, augmented reality, stronger video game graphics, artificial intelligence and machine learning have all been major &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Litigation Ebbs Even As Data Breaches Rise, Report Says</title>
-      <link>//crypt0.net/post/litigation-ebbs-even-as-data-breaches-rise-report-says/</link>
-      <pubDate>Mon, 11 Sep 2017 21:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/litigation-ebbs-even-as-data-breaches-rise-report-says/</guid>
-      <description>life, the risk companies face of being sued following a breach remains &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>34% of data breach class action lawsuits targeted health industry in 2016</title>
-      <link>//crypt0.net/post/34-of-data-breach-class-action-lawsuits-targeted-health-industry-in-2016/</link>
-      <pubDate>Mon, 11 Sep 2017 20:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/34-of-data-breach-class-action-lawsuits-targeted-health-industry-in-2016/</guid>
-      <description>Only 3.3 percent of publicly reported data breaches led to class action litigation. This percentage was less than prior years, in which an average of 4 &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>How healthcare providers can curb medical identity theft</title>
-      <link>//crypt0.net/post/how-healthcare-providers-can-curb-medical-identity-theft/</link>
-      <pubDate>Mon, 11 Sep 2017 20:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-healthcare-providers-can-curb-medical-identity-theft/</guid>
-      <description>Data breaches appear to be the leading cause of this growth, and the number of data breaches continues to grow. The number of healthcare &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Massive Equifax Data Breach Should Not Affect Credit Reports Ordered by</title>
-      <link>//crypt0.net/post/massive-equifax-data-breach-should-not-affect-credit-reports-ordered-by/</link>
-      <pubDate>Mon, 11 Sep 2017 20:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/massive-equifax-data-breach-should-not-affect-credit-reports-ordered-by/</guid>
-      <description>ESR NEWS In July 2016, ESR News reported that statistics from the Identity Theft Resource Center (ITRC) and CyberScout revealed the number of data breaches &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>What is AWS Security? Risks, Best Practices, and More</title>
-      <link>//crypt0.net/post/what-is-aws-security-risks-best-practices-and-more/</link>
-      <pubDate>Mon, 11 Sep 2017 20:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/what-is-aws-security-risks-best-practices-and-more/</guid>
-      <description>series on the fundamentals of information security. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>FAQ: Microsoft gives away Windows 10, Office 365 in try-before-you-buy deal</title>
-      <link>//crypt0.net/post/faq-microsoft-gives-away-windows-10-office-365-in-trybeforeyoubuy-deal/</link>
-      <pubDate>Mon, 11 Sep 2017 20:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/faq-microsoft-gives-away-windows-10-office-365-in-trybeforeyoubuy-deal/</guid>
-      <description>ARNnet The invitation-only &amp;lsquo;Windows Insider Lab for Enterprise&amp;rsquo; lets users, most of &amp;hellip; in Tumwater - and a real network, the latter via Azure Active Directory. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft adds guest access capabilities to Teams</title>
-      <link>//crypt0.net/post/microsoft-adds-guest-access-capabilities-to-teams/</link>
-      <pubDate>Mon, 11 Sep 2017 20:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-adds-guest-access-capabilities-to-teams/</guid>
-      <description>While guest users must have an Azure Active Directory account to use Teams, there are plans to allow anyone with a Microsoft Account to be added as &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
