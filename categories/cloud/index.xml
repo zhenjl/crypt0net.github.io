@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 27 Sep 2017 14:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2017 15:30:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Feasting on Azure blobs: Caringo and Scality are doing it</title>
+      <link>//crypt0.net/post/feasting-on-azure-blobs-caringo-and-scality-are-doing-it/</link>
+      <pubDate>Wed, 27 Sep 2017 15:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/feasting-on-azure-blobs-caringo-and-scality-are-doing-it/</guid>
+      <description>Both Caringo and Scality are adding S3 gateways between their object storage and Microsoft&amp;rsquo;s Azure Blob storage. This is a bit old hat really startup &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>RapidMiner Announces New Integration with Microsoft Azure</title>
+      <link>//crypt0.net/post/rapidminer-announces-new-integration-with-microsoft-azure/</link>
+      <pubDate>Wed, 27 Sep 2017 15:30:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/rapidminer-announces-new-integration-with-microsoft-azure/</guid>
+      <description>&amp;ldquo;We are thrilled to announce our integrations with Microsoft Azure Marketplace and Azure HDInsight,&amp;rdquo; said Lars Bauerle, Chief Product Officer at &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon gets its most bullish Wall Street call yet: $1400 price forecast</title>
