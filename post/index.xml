@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 27 Sep 2017 23:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2017 23:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CorreLog, Inc. Announces Support for New IBM z/OS V2R3 and IBM&#39;s Newest</title>
+      <link>//crypt0.net/post/correlog-inc-announces-support-for-new-ibm-zos-v2r3-and-ibms-newest/</link>
+      <pubDate>Wed, 27 Sep 2017 23:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/correlog-inc-announces-support-for-new-ibm-zos-v2r3-and-ibms-newest/</guid>
+      <description>PR Web (press release) CorreLog, Inc., the leader in multi-platform IT security event log management, today announced that zDefender for z/OS comes pre-configured to &amp;hellip; more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>Google Expands Per Second Billing Option for Cloud Customers</title>
+      <link>//crypt0.net/post/google-expands-per-second-billing-option-for-cloud-customers/</link>
+      <pubDate>Wed, 27 Sep 2017 23:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-expands-per-second-billing-option-for-cloud-customers/</guid>
+      <description>Google group product manager Paul Nash announced the extended billing option in a blog that somewhat paradoxically also informed Google cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Palo Alto Networks Announces Availability of New Cloud-Based Logging</title>
+      <link>//crypt0.net/post/palo-alto-networks-announces-availability-of-new-cloudbased-logging/</link>
+      <pubDate>Wed, 27 Sep 2017 23:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/palo-alto-networks-announces-availability-of-new-cloudbased-logging/</guid>
+      <description>Markets Insider This new offering significantly reduces the complexity and economics of log management, enabling customers to make better correlations, and &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Dell EMC Updates Newest Servers for Azure, SQL Server</title>
@@ -30,16 +60,6 @@
       <guid>//crypt0.net/post/global-m2m-healthcare-market-2017-expected-to-grow-at-gagr-of-43-market/</guid>
       <description>Medgadget (blog) Machine to machine (M2M) is a broad label that can be used to describe any technology that enables networked devices to exchange information and &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Google Expands Per Second Billing Option for Cloud Customers</title>
-      <link>//crypt0.net/post/google-expands-per-second-billing-option-for-cloud-customers/</link>
-      <pubDate>Wed, 27 Sep 2017 22:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-expands-per-second-billing-option-for-cloud-customers/</guid>
-      <description>Barely 10 days after Amazon announced a per-second billing option for customers of its Amazon Web Services cloud platform, Google has responded &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -20200,46 +20220,6 @@
       <guid>//crypt0.net/post/easily-deploy-a-kubernetes-cluster-on-openstack/</guid>
       <description>post we will show how to deploy a Kubernetes cluster with Magnum. more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Blockchain Foundry Launches Revolutionary Platform for Business</title>
-      <link>//crypt0.net/post/blockchain-foundry-launches-revolutionary-platform-for-business/</link>
-      <pubDate>Tue, 12 Sep 2017 23:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-foundry-launches-revolutionary-platform-for-business/</guid>
-      <description>Built Entirely on the Syscoin Blockchain. Information contained on this &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Blockchain Foundry officially launches Blockmarket Desktop v1.0</title>
-      <link>//crypt0.net/post/blockchain-foundry-officially-launches-blockmarket-desktop-v10/</link>
-      <pubDate>Tue, 12 Sep 2017 23:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-foundry-officially-launches-blockmarket-desktop-v10/</guid>
-      <description>Following several months of testing and an unprecedented and successful security audit, Blockchain Foundry Inc. today officially announced the &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>DHS Awards Grants to Develop Blockchain-based Solutions for Commercial</title>
-      <link>//crypt0.net/post/dhs-awards-grants-to-develop-blockchainbased-solutions-for-commercial/</link>
-      <pubDate>Tue, 12 Sep 2017 23:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/dhs-awards-grants-to-develop-blockchainbased-solutions-for-commercial/</guid>
-      <description>CoinTelegraph The US Department of Homeland Security (DHS) has awarded a grant of $750,000 each to two Blockchain startup companies: Digital Bazaar and &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>The &#39;Building America&#39;s Trust Act&#39; May Affect Blockchain-Based Currency</title>
-      <link>//crypt0.net/post/the-building-americas-trust-act-may-affect-blockchainbased-currency/</link>
-      <pubDate>Tue, 12 Sep 2017 23:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-building-americas-trust-act-may-affect-blockchainbased-currency/</guid>
-      <description>ETHNews On September 5, 2017, the &amp;ldquo;Building America&amp;rsquo;s Trust Act&amp;rdquo; was placed on the calendar for the 115th Congress. As summarized, the act was introduced &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>

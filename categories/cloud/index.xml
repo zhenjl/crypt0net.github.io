@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 27 Sep 2017 23:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2017 23:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Expands Per Second Billing Option for Cloud Customers</title>
+      <link>//crypt0.net/post/google-expands-per-second-billing-option-for-cloud-customers/</link>
+      <pubDate>Wed, 27 Sep 2017 23:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-expands-per-second-billing-option-for-cloud-customers/</guid>
+      <description>Google group product manager Paul Nash announced the extended billing option in a blog that somewhat paradoxically also informed Google cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Dell EMC Updates Newest Servers for Azure, SQL Server</title>
@@ -19,16 +29,6 @@
       
       <guid>//crypt0.net/post/dell-emc-updates-newest-servers-for-azure-sql-server/</guid>
       <description>Dell EMC Cloud for Microsoft Azure Stack, introduced last May, is a turnkey, hybrid cloud platform, offering infrastructure and platform as a service; it is &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Expands Per Second Billing Option for Cloud Customers</title>
-      <link>//crypt0.net/post/google-expands-per-second-billing-option-for-cloud-customers/</link>
-      <pubDate>Wed, 27 Sep 2017 22:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-expands-per-second-billing-option-for-cloud-customers/</guid>
-      <description>Barely 10 days after Amazon announced a per-second billing option for customers of its Amazon Web Services cloud platform, Google has responded &amp;hellip; more.
 @crypt0net</description>
     </item>
     
