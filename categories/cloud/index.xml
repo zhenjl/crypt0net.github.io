@@ -7,10 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 27 Sep 2017 13:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2017 14:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Caringo Announces Swarm Hybrid Cloud for Microsoft Azure</title>
+      <link>//crypt0.net/post/caringo-announces-swarm-hybrid-cloud-for-microsoft-azure/</link>
+      <pubDate>Wed, 27 Sep 2017 14:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/caringo-announces-swarm-hybrid-cloud-for-microsoft-azure/</guid>
+      <description>Microsoft Azure, allowing its customers to replicate files from S3, NFS, &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>DXC Technology Announces Service Offerings for Microsoft Azure to Enable</title>
+      <link>//crypt0.net/post/dxc-technology-announces-service-offerings-for-microsoft-azure-to-enable/</link>
+      <pubDate>Wed, 27 Sep 2017 14:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/dxc-technology-announces-service-offerings-for-microsoft-azure-to-enable/</guid>
+      <description>DXC announced new application and managed service offerings for Microsoft Azure and Azure Stack that provide a wide range of services to &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft previews 100TB Azure Data Box for physical transfer to cloud</title>
+      <link>//crypt0.net/post/microsoft-previews-100tb-azure-data-box-for-physical-transfer-to-cloud/</link>
+      <pubDate>Wed, 27 Sep 2017 14:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-previews-100tb-azure-data-box-for-physical-transfer-to-cloud/</guid>
+      <description>After the data is uploaded to Azure, Microsoft promises it will be securely erased. Microsoft describes the box as &amp;lsquo;secure and ruggedized&amp;rsquo;; that is to say, &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>NTT Com Expands DRaaS Offering by Leveraging Microsoft Azure Site Recovery</title>
+      <link>//crypt0.net/post/ntt-com-expands-draas-offering-by-leveraging-microsoft-azure-site-recovery/</link>
+      <pubDate>Wed, 27 Sep 2017 14:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/ntt-com-expands-draas-offering-by-leveraging-microsoft-azure-site-recovery/</guid>
+      <description>An automated disaster recovery software solution, Microsoft Azure Site Recovery is built upon the capabilities of Azure, named by Gartner as a leader &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Qubole Data Service Now Supports Microsoft Azure Data Lake Store</title>
+      <link>//crypt0.net/post/qubole-data-service-now-supports-microsoft-azure-data-lake-store/</link>
+      <pubDate>Wed, 27 Sep 2017 14:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/qubole-data-service-now-supports-microsoft-azure-data-lake-store/</guid>
+      <description>Qubole has announced deeper integration with Microsoft Azure, adding support in the Qubole Data Service (QDS) for the Microsoft Azure Data Lake &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Qubole Deepens Integration with Microsoft Azure</title>
+      <link>//crypt0.net/post/qubole-deepens-integration-with-microsoft-azure/</link>
+      <pubDate>Wed, 27 Sep 2017 14:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/qubole-deepens-integration-with-microsoft-azure/</guid>
+      <description>Now, Qubole Data Service (QDS) supports Microsoft Azure Data Lake Store and adds workload aware auto-scaling capabilities that leverage Azure&amp;rsquo;s &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Saviynt to Provide Identity Governance to Microsoft Azure Active Directory</title>
+      <link>//crypt0.net/post/saviynt-to-provide-identity-governance-to-microsoft-azure-active-directory/</link>
+      <pubDate>Wed, 27 Sep 2017 14:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/saviynt-to-provide-identity-governance-to-microsoft-azure-active-directory/</guid>
+      <description>PR Newswire (press release) Sachin Nayyar, CEO and Founder of Saviynt said, &amp;ldquo;With a single click, Microsoft Azure AD premium customers will now be able to turn on Identity &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Early Movers: NKE, MU, TWTR, F, BA, MON, TRVG &amp; more</title>
@@ -8017,36 +8087,6 @@ Private cloud use grows, and ZeroStack wants to help spin them up We think about
       
       <guid>//crypt0.net/post/vmware-debuts-more-services-for-data-centres-cloud/</guid>
       <description>Finally, the company has announced its VMware vCloud NFV-OpenStack, to help users deploy production NFV services on OpenStack. The platform &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Data Centre Growth in Gulf States Levels Off</title>
-      <link>//crypt0.net/post/data-centre-growth-in-gulf-states-levels-off/</link>
-      <pubDate>Tue, 12 Sep 2017 14:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/data-centre-growth-in-gulf-states-levels-off/</guid>
-      <description>DataCentrePricing.Com&amp;rsquo;s latest Middle East Data Centre 2017 to 2020 report finds that Data Centre Providers in the six Gulf States (Bahrain, Kuwait, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google steps up its game with new offer of cloud services from Germany</title>
-      <link>//crypt0.net/post/google-steps-up-its-game-with-new-offer-of-cloud-services-from-germany/</link>
-      <pubDate>Tue, 12 Sep 2017 14:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-steps-up-its-game-with-new-offer-of-cloud-services-from-germany/</guid>
-      <description>Some of the biggest customers of Google&amp;rsquo;s cloud services currently in Germany are Europe&amp;rsquo;s largest software group SAP, manufacturer of cleaning &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Pitney Bowes Creates Small Business Partner Program to Accelerate</title>
-      <link>//crypt0.net/post/pitney-bowes-creates-small-business-partner-program-to-accelerate/</link>
-      <pubDate>Tue, 12 Sep 2017 14:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/pitney-bowes-creates-small-business-partner-program-to-accelerate/</guid>
-      <description>Business Wire (press release) To scale an increased breadth of partner applications over time, a Pitney Bowes App Store, leveraging Google Cloud&amp;rsquo;s Orbitera technology, will be &amp;hellip; more.
 @crypt0net</description>
     </item>
     
