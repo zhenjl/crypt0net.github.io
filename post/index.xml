@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 27 Sep 2017 01:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2017 02:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Equifax CEO Resigns Following Massive Data Breach</title>
+      <link>//crypt0.net/post/equifax-ceo-resigns-following-massive-data-breach/</link>
+      <pubDate>Wed, 27 Sep 2017 02:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/equifax-ceo-resigns-following-massive-data-breach/</guid>
+      <description>&amp;hellip; that list of Things a CEO Doesn&amp;rsquo;t Want on Their Resum is Being the one in charge at the time of one of the biggest data breaches in U.S. history. more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Anaconda and Microsoft Partner to Deliver Python-Powered Machine Learning</title>
@@ -20180,46 +20190,6 @@
       <guid>//crypt0.net/post/digital-readiness-were-not-even-close/</guid>
       <description>We know that data breaches now occur on a regular basis, and that millions of credit card numbers are all over the web. We know the legal system has &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>A look at censorship resilience of blockchain networks and how governments</title>
-      <link>//crypt0.net/post/a-look-at-censorship-resilience-of-blockchain-networks-and-how-governments/</link>
-      <pubDate>Tue, 12 Sep 2017 01:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/a-look-at-censorship-resilience-of-blockchain-networks-and-how-governments/</guid>
-      <description>tvOS 11 firmware leak suggests Apple TV 4K name, potential Siri Remote update with haptic feedback, references to HDR Modes in settings &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>How to get the Kubernetes help you need</title>
-      <link>//crypt0.net/post/how-to-get-the-kubernetes-help-you-need/</link>
-      <pubDate>Tue, 12 Sep 2017 01:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-get-the-kubernetes-help-you-need/</guid>
-      <description>Canonical announces further enterprise Kubernetes support options CoreOS extends Kubernetes to Microsoft Azure Kubernetes 1.7 released. 0. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Adds Guest Access to Microsoft Teams</title>
-      <link>//crypt0.net/post/microsoft-adds-guest-access-to-microsoft-teams/</link>
-      <pubDate>Tue, 12 Sep 2017 01:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-adds-guest-access-to-microsoft-teams/</guid>
-      <description>The guest invite capability in Microsoft Teams is enabled through the Azure AD B2B service, which is currently available in Europe and North America. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Take a test drive of Chef Automate on Microsoft Azure</title>
-      <link>//crypt0.net/post/take-a-test-drive-of-chef-automate-on-microsoft-azure/</link>
-      <pubDate>Tue, 12 Sep 2017 01:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/take-a-test-drive-of-chef-automate-on-microsoft-azure/</guid>
-      <description>provides the tools for automating modern and legacy architectures. more.
-@crypt0net</description>
     </item>
     
   </channel>
