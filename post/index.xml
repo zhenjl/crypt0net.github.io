@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 27 Sep 2017 18:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2017 19:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Cloud ups game against Amazon, buys cloud-services firm Bitium</title>
+      <link>//crypt0.net/post/google-cloud-ups-game-against-amazon-buys-cloudservices-firm-bitium/</link>
+      <pubDate>Wed, 27 Sep 2017 19:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-ups-game-against-amazon-buys-cloudservices-firm-bitium/</guid>
+      <description>Google Cloud has bought Santa Monica cloud-services firm Bitium. In this Tuesday, March 23, 2010 file photo, the Google logo is seen at the Google &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google Cloud IoT Core Platform Public Beta Is Here, Company Says It&#39;s A</title>
@@ -1429,16 +1439,6 @@
       
       <guid>//crypt0.net/post/anaconda-and-microsoft-partner-to-deliver-pythonpowered-machine-learning/</guid>
       <description>Anaconda for Microsoft will initially be included in Microsoft Azure Machine Learning, Machine Learning Server, Visual Studio and SQL Server. In SQL &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud ups game against Amazon, buys cloud-services firm Bitium</title>
-      <link>//crypt0.net/post/google-cloud-ups-game-against-amazon-buys-cloudservices-firm-bitium/</link>
-      <pubDate>Wed, 27 Sep 2017 01:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-ups-game-against-amazon-buys-cloudservices-firm-bitium/</guid>
-      <description>Google Cloud has moved to boost its market share against Amazon in the lucrative cloud, buying Santa Monica cloud-services firm Bitium. more.
 @crypt0net</description>
     </item>
     
@@ -20279,76 +20279,6 @@
       
       <guid>//crypt0.net/post/michigan-school-districts-make-concerted-move-to-the-cloud/</guid>
       <description>But I thought I should at least take a look at [Amazon Web Services] to check it off my list, do my due diligence. I realized Amazon&amp;rsquo;s infrastructure was &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud opens regions in Germany, Brazil</title>
-      <link>//crypt0.net/post/google-cloud-opens-regions-in-germany-brazil/</link>
-      <pubDate>Tue, 12 Sep 2017 19:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-opens-regions-in-germany-brazil/</guid>
-      <description>Last week, at the Citi 2017 Global Technology Conference, Google Cloud head Diane Greene said: We&amp;rsquo;ve done over 100,000 miles of fiber optic &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Drive is changinghere&#39;s how to prepare</title>
-      <link>//crypt0.net/post/google-drive-is-changingheres-how-to-prepare/</link>
-      <pubDate>Tue, 12 Sep 2017 19:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-drive-is-changingheres-how-to-prepare/</guid>
-      <description>servers at a Google Cloud data center. Servers at a Google data center help support cloud-storage services such as Google Drive. Google. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Internet Of Things (IoT) Software and Services Market Global Tre</title>
-      <link>//crypt0.net/post/internet-of-things-iot-software-and-services-market-global-tre/</link>
-      <pubDate>Tue, 12 Sep 2017 19:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/internet-of-things-iot-software-and-services-market-global-tre/</guid>
-      <description>2012-2022 Market Research Report&amp;rsquo; is a professional and in-depth study on the &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>TimeLive is now on Microsoft Azure Cloud</title>
-      <link>//crypt0.net/post/timelive-is-now-on-microsoft-azure-cloud/</link>
-      <pubDate>Tue, 12 Sep 2017 19:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/timelive-is-now-on-microsoft-azure-cloud/</guid>
-      <description>Miami - September 12, 2017 - Livetecs has announced that its latest software, Timelive timesheet software is now available on Microsoft Azure Cloud. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Investigation after council accidentally shares people&#39;s email addresses</title>
-      <link>//crypt0.net/post/investigation-after-council-accidentally-shares-peoples-email-addresses/</link>
-      <pubDate>Tue, 12 Sep 2017 18:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/investigation-after-council-accidentally-shares-peoples-email-addresses/</guid>
-      <description>We take data breaches very seriously and have started an investigation in order to identify the root cause and to prevent a reoccurrence in the future. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Sanford Heisler Sharp Takes On Equifax In Tennessee</title>
-      <link>//crypt0.net/post/sanford-heisler-sharp-takes-on-equifax-in-tennessee/</link>
-      <pubDate>Tue, 12 Sep 2017 18:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sanford-heisler-sharp-takes-on-equifax-in-tennessee/</guid>
-      <description>&amp;ldquo;Equifax has a long history of data breaches going back to 2013. The company should have rectified its processes and bolstered its security to ensure &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>AWS Summit Manila Customer Keynote - Standard Insurance</title>
-      <link>//crypt0.net/post/aws-summit-manila-customer-keynote--standard-insurance/</link>
-      <pubDate>Tue, 12 Sep 2017 18:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aws-summit-manila-customer-keynote--standard-insurance/</guid>
-      <description>Opening Keynote Kenneth Pinpin Chief Technology Officer and Chief Information &amp;hellip; more.
 @crypt0net</description>
     </item>
     
