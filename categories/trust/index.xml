@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 27 Sep 2017 08:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2017 08:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Joomla 3.8 patches eight-year-old credential stealing flaw</title>
+      <link>//crypt0.net/post/joomla-38-patches-eightyearold-credential-stealing-flaw/</link>
+      <pubDate>Wed, 27 Sep 2017 08:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/joomla-38-patches-eightyearold-credential-stealing-flaw/</guid>
+      <description>The attacker could then use the stolen credentials to login in to the administrator control panel and take over the Joomla installation and potentially the &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Bernard Mendelman: Protecting our personal information</title>
