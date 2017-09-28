@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 28 Sep 2017 21:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2017 22:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Unveils Three New Azure Exams</title>
+      <link>//crypt0.net/post/microsoft-unveils-three-new-azure-exams/</link>
+      <pubDate>Thu, 28 Sep 2017 22:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-unveils-three-new-azure-exams/</guid>
+      <description>Azure-related certification exams in 2018. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Ixia extends CloudLens, now supports all major cloud platforms</title>
@@ -8045,36 +8055,6 @@ NuoDB On Why Cloud Data Has Elasticity, Flexibility, But Also Persistence This i
       
       <guid>//crypt0.net/post/the-analytics-workshop-for-google-cloud-platform--washington-dc/</guid>
       <description>registration by Cvent. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>3 Reasons to Buy Micron Technology Stock</title>
-      <link>//crypt0.net/post/3-reasons-to-buy-micron-technology-stock/</link>
-      <pubDate>Wed, 13 Sep 2017 22:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/3-reasons-to-buy-micron-technology-stock/</guid>
-      <description>&amp;hellip; jumped from just 26% to 43% of late, according to RightScale&amp;rsquo;s State of the Cloud report, while rival Amazon Web Services&amp;rsquo; enterprise adoption rate &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>BDNA Partners with Amazon to Develop New Cloud Tool</title>
-      <link>//crypt0.net/post/bdna-partners-with-amazon-to-develop-new-cloud-tool/</link>
-      <pubDate>Wed, 13 Sep 2017 22:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bdna-partners-with-amazon-to-develop-new-cloud-tool/</guid>
-      <description>BDNA, a provider of comprehensive technology asset information, is entering an agreement with Amazon Web Services (AWS) to develop BDNA &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Thousands of Elasticsearch Servers Hijacked to Host PoS Malware</title>
-      <link>//crypt0.net/post/thousands-of-elasticsearch-servers-hijacked-to-host-pos-malware/</link>
-      <pubDate>Wed, 13 Sep 2017 22:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/thousands-of-elasticsearch-servers-hijacked-to-host-pos-malware/</guid>
-      <description>Kromtech said 99 percent of compromised ElasticSearch servers were hosted on Amazon Web Services&amp;rsquo; platform. Every infected ES Server became &amp;hellip; more.
 @crypt0net</description>
     </item>
     
