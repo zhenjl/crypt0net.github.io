@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 28 Sep 2017 06:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2017 07:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How DNAnexus and Edico Genome are Powering Precision Medicine on Amazon Web</title>
+      <link>//crypt0.net/post/how-dnanexus-and-edico-genome-are-powering-precision-medicine-on-amazon-web/</link>
+      <pubDate>Thu, 28 Sep 2017 07:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-dnanexus-and-edico-genome-are-powering-precision-medicine-on-amazon-web/</guid>
+      <description>Aaron Friedman is a Healthcare and Life Sciences Partner Solutions Architect at AWS. Ujjwal Ratan is a Healthcare and Life Sciences Solutions &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Infosys Accelerates Private Cloud Adoption with Micro Focus SUSE Openstack</title>
@@ -7966,26 +7976,6 @@ TimeLive is now on Microsoft Azure Cloud Miami - September 12, 2017 - Livetecs h
       
       <guid>//crypt0.net/post/microsofts-latest-cloud-instances-carry-over-unused-performance/</guid>
       <description>Amazon Web Services Inc., the market leader, has offered a similar capability with its T2 instances since 2014. Google Inc. likewise provides virtual &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>NTT Com startet globale Einfhrung seiner Enterprise Cloud WebRTC-Plattform</title>
-      <link>//crypt0.net/post/ntt-com-startet-globale-einfhrung-seiner-enterprise-cloud-webrtcplattform/</link>
-      <pubDate>Wed, 13 Sep 2017 07:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ntt-com-startet-globale-einfhrung-seiner-enterprise-cloud-webrtcplattform/</guid>
-      <description>NTT Communications Corporation (NTT Com), das Unternehmen fr ICT-Lsungen und internationale Kommunikation innerhalb der NTT Group &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Domo BYOK Generates New Data Encryption Keys Every Hour</title>
-      <link>//crypt0.net/post/domo-byok-generates-new-data-encryption-keys-every-hour/</link>
-      <pubDate>Wed, 13 Sep 2017 07:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/domo-byok-generates-new-data-encryption-keys-every-hour/</guid>
-      <description>&amp;hellip; every hour and includes a built-in kill switch. It supports data stored in Amazon Web Services&amp;rsquo; (AWS) public cloud and Domo&amp;rsquo;s private data centers. more.
 @crypt0net</description>
     </item>
     
