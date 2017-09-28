@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 28 Sep 2017 07:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2017 07:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Security for Microsoft Office 365 and Azure</title>
+      <link>//crypt0.net/post/security-for-microsoft-office-365-and-azure/</link>
+      <pubDate>Thu, 28 Sep 2017 07:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/security-for-microsoft-office-365-and-azure/</guid>
+      <description>security for Microsoft O365 apps such as OneDrive, SharePoint and Exchange. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How DNAnexus and Edico Genome are Powering Precision Medicine on Amazon Web</title>
