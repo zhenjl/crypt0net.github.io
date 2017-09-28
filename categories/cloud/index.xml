@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 28 Sep 2017 14:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2017 15:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Merkle Becomes a Google Cloud Partner</title>
+      <link>//crypt0.net/post/merkle-becomes-a-google-cloud-partner/</link>
+      <pubDate>Thu, 28 Sep 2017 15:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/merkle-becomes-a-google-cloud-partner/</guid>
+      <description>of the most advanced Cloud platforms to leverage our expertise on &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Caringo Announces Swarm Hybrid Cloud for Microsoft Azure</title>
@@ -119,16 +129,6 @@
       
       <guid>//crypt0.net/post/how-we-built-a-brand-new-bank-on-gcp-and-cloud-spanner-shine/</guid>
       <description>built a new bank on Google Cloud Platform, and in particular Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Merkle Becomes a Google Cloud Partner</title>
-      <link>//crypt0.net/post/merkle-becomes-a-google-cloud-partner/</link>
-      <pubDate>Thu, 28 Sep 2017 13:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/merkle-becomes-a-google-cloud-partner/</guid>
-      <description>As a Google Cloud Platform partner, we now have the global reach into one of the most advanced Cloud platforms to leverage our expertise on &amp;hellip; more.
 @crypt0net</description>
     </item>
     
