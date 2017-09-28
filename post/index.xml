@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 28 Sep 2017 00:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2017 00:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LogicMonitor Launches Amazon AWS, Microsoft Azure Cloud Monitoring Platform</title>
+      <link>//crypt0.net/post/logicmonitor-launches-amazon-aws-microsoft-azure-cloud-monitoring-platform/</link>
+      <pubDate>Thu, 28 Sep 2017 00:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/logicmonitor-launches-amazon-aws-microsoft-azure-cloud-monitoring-platform/</guid>
+      <description>LogicMonitor launches LM Cloud, a cloud services monitoring platform for Amazon Web Services (AWS) and Microsoft Azure resources. Will MSPs &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Left Behind by AWS, What&#39;s New?</title>
+      <link>//crypt0.net/post/microsoft-left-behind-by-aws-whats-new/</link>
+      <pubDate>Thu, 28 Sep 2017 00:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-left-behind-by-aws-whats-new/</guid>
+      <description>Amazon Web Services is totally dominating the global infrastructure-as-a-service market, with 44.2 percent of the action, according to a new Gartner &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Data Breaches on the Rise: How to Protect Yourself</title>
@@ -170,16 +190,6 @@
       <guid>//crypt0.net/post/private-optical-networks-a-catalyst-for-enterprise-excellence/</guid>
       <description>Enterprises that embrace analytic computing, mobile and machine-to-machine connectivity, social media, and cloud storage can make rapid decisions &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>LogicMonitor Launches Amazon AWS, Microsoft Azure Cloud Monitoring Platform</title>
-      <link>//crypt0.net/post/logicmonitor-launches-amazon-aws-microsoft-azure-cloud-monitoring-platform/</link>
-      <pubDate>Wed, 27 Sep 2017 21:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/logicmonitor-launches-amazon-aws-microsoft-azure-cloud-monitoring-platform/</guid>
-      <description>LogicMonitor launches LM Cloud, a cloud services monitoring platform for Amazon Web Services (AWS) and Microsoft Azure resources. Will MSPs &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -20150,56 +20160,6 @@
       <guid>//crypt0.net/post/protect-your-credit-individuals-must-actively-safeguard-our-own-financial/</guid>
       <description>Chinook Observer Data breaches like the one reported by credit-reporting company Equifax are a great calamity of modern life. The ancient Egyptians had swarms of &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Over 4000 ElasticSearch Servers Found Hosting PoS Malware Files</title>
-      <link>//crypt0.net/post/over-4000-elasticsearch-servers-found-hosting-pos-malware-files/</link>
-      <pubDate>Wed, 13 Sep 2017 00:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/over-4000-elasticsearch-servers-found-hosting-pos-malware-files/</guid>
-      <description>Because on Amazon Web Services you can get a free t2 micro (EC2) instance with up to 10 Gb of disk space,&amp;rdquo; Bob Diachenko, Kromtech&amp;rsquo;s Chief &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>PSI to Test for Amazon Web Certifications</title>
-      <link>//crypt0.net/post/psi-to-test-for-amazon-web-certifications/</link>
-      <pubDate>Wed, 13 Sep 2017 00:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/psi-to-test-for-amazon-web-certifications/</guid>
-      <description>PSI Services has signed an agreement with Amazon.com Inc. to administer certification tests for technical expertise using Amazon Web Services. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Blockchain Company Aims to Transform Australia&#39;s Medical Cannabis Sector</title>
-      <link>//crypt0.net/post/blockchain-company-aims-to-transform-australias-medical-cannabis-sector/</link>
-      <pubDate>Wed, 13 Sep 2017 00:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-company-aims-to-transform-australias-medical-cannabis-sector/</guid>
-      <description>Blockchain, the technology that powers digital currencies like Bitcoin, will make a cannabis-sector debut in Australia with the help of Canadian &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Lacework Recognized in Independent Cloud Workload Security Solutions Vendor</title>
-      <link>//crypt0.net/post/lacework-recognized-in-independent-cloud-workload-security-solutions-vendor/</link>
-      <pubDate>Wed, 13 Sep 2017 00:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/lacework-recognized-in-independent-cloud-workload-security-solutions-vendor/</guid>
-      <description>Markets Insider Providing unprecedented visibility, Lacework Polygraph compresses the breach detection cycle, reduces false positives, delivers precise alerts and &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Rackspace Acquires Datapipe for Multi-Cloud Managed Services Push</title>
-      <link>//crypt0.net/post/rackspace-acquires-datapipe-for-multicloud-managed-services-push/</link>
-      <pubDate>Wed, 13 Sep 2017 00:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rackspace-acquires-datapipe-for-multicloud-managed-services-push/</guid>
-      <description>Rackspace acquires Datapipe for multi-cloud managed services push across Amazon AWS, Microsoft Azure, VMware, Google Cloud Platform &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
