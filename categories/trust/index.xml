@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 28 Sep 2017 22:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2017 23:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to find the best SIEM system for your company</title>
+      <link>//crypt0.net/post/how-to-find-the-best-siem-system-for-your-company/</link>
+      <pubDate>Thu, 28 Sep 2017 23:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-find-the-best-siem-system-for-your-company/</guid>
+      <description>A SIEM system is a centralized enterprise security log management and analysis product. It centrally automates all the work of collecting logged &amp;hellip; more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>Sqrrl ferrets out network traffic anomalies to find hidden threats</title>
+      <link>//crypt0.net/post/sqrrl-ferrets-out-network-traffic-anomalies-to-find-hidden-threats/</link>
+      <pubDate>Thu, 28 Sep 2017 23:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/sqrrl-ferrets-out-network-traffic-anomalies-to-find-hidden-threats/</guid>
+      <description>The Sqrrl Threat Hunting Platform has network traffic analysis at its core. It requires no network taps to operate, gathering all the data it requires from &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Here&#39;s what you need to protect yourself online</title>
@@ -99,16 +119,6 @@
       
       <guid>//crypt0.net/post/laying-the-foundation-for-a-proactive-soc/</guid>
       <description>Based on the interest our recent article on getting a start on cyber threat hunting has garnered, we&amp;rsquo;ve decided to do a deeper dive into Sqrrl Enterprise, &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Sqrrl ferrets out network traffic anomalies to find hidden threats</title>
-      <link>//crypt0.net/post/sqrrl-ferrets-out-network-traffic-anomalies-to-find-hidden-threats/</link>
-      <pubDate>Thu, 28 Sep 2017 19:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sqrrl-ferrets-out-network-traffic-anomalies-to-find-hidden-threats/</guid>
-      <description>Using a threat hunting platform like Sqrrl may take a little bit of a shift in thinking for cybersecurity teams. It&amp;rsquo;s less like being a beat cop and more like &amp;hellip; more.
 @trustpath</description>
     </item>
     
@@ -4906,26 +4916,6 @@ Even Auntie Maxine knows, we&amp;rsquo;ll need more than outrage to prevent anot
       
       <guid>//crypt0.net/post/protecting-your-information-online-equifax-data-breach-exposes-information/</guid>
       <description>KDLT News MADISON, S.D.- It&amp;rsquo;s one of the biggest data breaches, cyber security experts say they have ever seen. An attack on Equifax exposed information like &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Could an Identity Data Breach Get Any Worse Than Equifax&#39;s?</title>
-      <link>//crypt0.net/post/could-an-identity-data-breach-get-any-worse-than-equifaxs/</link>
-      <pubDate>Wed, 13 Sep 2017 23:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/could-an-identity-data-breach-get-any-worse-than-equifaxs/</guid>
-      <description>But one thing I am very sure of, data breaches will continue to happen. It just happened to be Equifax this time. It&amp;rsquo;s going to be someone else next time. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Equifax Faces Bumpy Legal Terrain as Consumer Suits Mount</title>
-      <link>//crypt0.net/post/equifax-faces-bumpy-legal-terrain-as-consumer-suits-mount/</link>
-      <pubDate>Wed, 13 Sep 2017 23:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/equifax-faces-bumpy-legal-terrain-as-consumer-suits-mount/</guid>
-      <description>A few years ago, consumer litigation over data breaches had trouble even getting onto the docket. But as the number of hacking cases rises, judges &amp;hellip; more.
 @trustpath</description>
     </item>
     
