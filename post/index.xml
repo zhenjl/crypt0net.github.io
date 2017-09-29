@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 29 Sep 2017 05:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2017 05:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>trigger object does not exist in MQTT.publish service when used in</title>
+      <link>//crypt0.net/post/trigger-object-does-not-exist-in-mqttpublish-service-when-used-in/</link>
+      <pubDate>Fri, 29 Sep 2017 05:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/trigger-object-does-not-exist-in-mqttpublish-service-when-used-in/</guid>
+      <description>trigger object does not exist in MQTT.publish service when used in automation #9618. Open. hcoohb opened this Issue 20 minutes ago 0 comments &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Google Cloud region for India to arrive later this year: Rick Harshman</title>
@@ -19990,36 +20000,6 @@
       <guid>//crypt0.net/post/ensilo-partners-with-coalfire-to-enhance-pci-dss-and-hipaa-security/</guid>
       <description>PR Newswire (press release) enSilo&amp;rsquo;s single lightweight agent includes next generation antivirus (NGAV), application communication control, automated endpoint detection and &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Vistara launches Hackathon to address aviation sector-related challenges</title>
-      <link>//crypt0.net/post/vistara-launches-hackathon-to-address-aviation-sectorrelated-challenges/</link>
-      <pubDate>Thu, 14 Sep 2017 05:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vistara-launches-hackathon-to-address-aviation-sectorrelated-challenges/</guid>
-      <description>Vistara is offering prizes worth lakhs that include Amazon Kindle, Firestick TV, gift cards and credits of Amazon Web Services. Those who win the &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>New Power BI connector gives Microsoft Azure enterprise users extra</title>
-      <link>//crypt0.net/post/new-power-bi-connector-gives-microsoft-azure-enterprise-users-extra/</link>
-      <pubDate>Thu, 14 Sep 2017 05:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/new-power-bi-connector-gives-microsoft-azure-enterprise-users-extra/</guid>
-      <description>Microsoft has announced the release of Azure Consumption and Insights connector, allowing you to use Power BI Desktop to connect to Azure and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OpenStack on Edge? 4 Ways Edge Is Distinct From Cloud</title>
-      <link>//crypt0.net/post/openstack-on-edge-4-ways-edge-is-distinct-from-cloud/</link>
-      <pubDate>Thu, 14 Sep 2017 05:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-on-edge-4-ways-edge-is-distinct-from-cloud/</guid>
-      <description>hosted by the OpenStack Foundation to help RackN understand the &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
