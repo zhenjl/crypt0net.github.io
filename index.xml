@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 29 Sep 2017 11:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2017 12:10:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nested virtualization comes to Google&#39;s cloud</title>
+      <link>//crypt0.net/post/nested-virtualization-comes-to-googles-cloud/</link>
+      <pubDate>Fri, 29 Sep 2017 12:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/nested-virtualization-comes-to-googles-cloud/</guid>
+      <description>Microsoft&amp;rsquo;s Azure switched on its own nested virtualization in January 2017 and AWS&amp;rsquo; EC2 can do so with help from third parties like Ravello. . more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Westcon-Comstor Southern Africa provides African Resellers Access to Azure</title>
+      <link>//crypt0.net/post/westconcomstor-southern-africa-provides-african-resellers-access-to-azure/</link>
+      <pubDate>Fri, 29 Sep 2017 12:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/westconcomstor-southern-africa-provides-african-resellers-access-to-azure/</guid>
+      <description>Microsoft Azure continues to grow in popularity and use cases. It is fast being recognised as the cloud solution platform of choice for African customers &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Beyond Facebook  Social Internet of Things  ThingBook</title>
@@ -569,16 +589,6 @@
       
       <guid>//crypt0.net/post/archive360-pursues-microsoft-cloud-triple-play/</guid>
       <description>Archive360 updates FastCollect for SharePoint data migration platform; supports new Azure storage tier &amp;amp; supports Azure cognitive services. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Nested virtualization comes to Google&#39;s cloud</title>
-      <link>//crypt0.net/post/nested-virtualization-comes-to-googles-cloud/</link>
-      <pubDate>Fri, 29 Sep 2017 02:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nested-virtualization-comes-to-googles-cloud/</guid>
-      <description>The service is a beta for now, and requires you to get the KVM hypervisor running inside a Google Cloud VM, which itself runs on KVM. Google&amp;rsquo;s not &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -20584,26 +20594,6 @@ Even Auntie Maxine knows, we&amp;rsquo;ll need more than outrage to prevent anot
       <guid>//crypt0.net/post/us-officials-looking-at-apache-vulnerability-as-cause-for-equifax-breach/</guid>
       <description>The official&amp;rsquo;s comments to CyberScoop are the first from a government source regarding the cause behind one of the largest data breaches in history, &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>OT-Morpho Unveils Biometric and Digital Journey of Tomorrow in Redwood</title>
-      <link>//crypt0.net/post/otmorpho-unveils-biometric-and-digital-journey-of-tomorrow-in-redwood/</link>
-      <pubDate>Thu, 14 Sep 2017 12:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/otmorpho-unveils-biometric-and-digital-journey-of-tomorrow-in-redwood/</guid>
-      <description>Cellular News It will use the new center as a hands on lab to showcase cutting edge &amp;hellip; to cover the entire digital identity value chain - from identity registration and &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Why won&#39;t enterprises take IoT security seriously?</title>
-      <link>//crypt0.net/post/why-wont-enterprises-take-iot-security-seriously/</link>
-      <pubDate>Thu, 14 Sep 2017 12:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-wont-enterprises-take-iot-security-seriously/</guid>
-      <description>Further, the harm caused by Internet of Things (IoT) devices is more permanent. &amp;ldquo;If someone has access to a live video stream of a security camera in &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>
