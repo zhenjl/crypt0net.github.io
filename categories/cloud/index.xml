@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 29 Sep 2017 01:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2017 02:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nested virtualization comes to Google&#39;s cloud</title>
+      <link>//crypt0.net/post/nested-virtualization-comes-to-googles-cloud/</link>
+      <pubDate>Fri, 29 Sep 2017 02:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/nested-virtualization-comes-to-googles-cloud/</guid>
+      <description>The service is a beta for now, and requires you to get the KVM hypervisor running inside a Google Cloud VM, which itself runs on KVM. Google&amp;rsquo;s not &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>System Center Configuration Manager and Microsoft Intune To Get</title>
