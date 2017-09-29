@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 29 Sep 2017 08:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2017 08:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Cloud IoT Core wants to manage your device data</title>
+      <link>//crypt0.net/post/google-cloud-iot-core-wants-to-manage-your-device-data/</link>
+      <pubDate>Fri, 29 Sep 2017 08:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-iot-core-wants-to-manage-your-device-data/</guid>
+      <description>The latest release of Google Cloud IoT Core is now available to those that have signed up to the trial, helping businesses connect and centrally &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>New Notifiable Data Breaches scheme resources released</title>
@@ -20000,26 +20010,6 @@
       <guid>//crypt0.net/post/texas-research-and-technology-foundation-plans-innovation-center/</guid>
       <description>The initial focus for VelocityTX will be on companies looking to innovate in bioscience, cybersecurity, and in the machine-to-machine internet of things &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Chirpy, chirpy, cheap, cheap: printable IoT radios for 10 cents each</title>
-      <link>//crypt0.net/post/chirpy-chirpy-cheap-cheap-printable-iot-radios-for-10-cents-each/</link>
-      <pubDate>Thu, 14 Sep 2017 08:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/chirpy-chirpy-cheap-cheap-printable-iot-radios-for-10-cents-each/</guid>
-      <description>One of the favourite low-power radio techniques in Internet of Things research is backscatter communications: the transmitter sends a signal to a &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Scams &amp; Swindles: Protect yourself in wake of Equifax breach</title>
-      <link>//crypt0.net/post/scams--swindles-protect-yourself-in-wake-of-equifax-breach/</link>
-      <pubDate>Thu, 14 Sep 2017 08:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/scams--swindles-protect-yourself-in-wake-of-equifax-breach/</guid>
-      <description>Hopefully we&amp;rsquo;ll get to a point where these data breaches are few and far between, but until that time comes we all must do our best to protect ourselves &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
