@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 29 Sep 2017 08:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2017 08:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scality Extends Multi-Cloud Storage to Azure</title>
+      <link>//crypt0.net/post/scality-extends-multicloud-storage-to-azure/</link>
+      <pubDate>Fri, 29 Sep 2017 08:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/scality-extends-multicloud-storage-to-azure/</guid>
+      <description>&amp;hellip; week it is offering a cloud connection tool that extends its object storage beyond Amazon Web Services&amp;rsquo; (NASDAQ: AMZN) Simple Storage Service, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Google Cloud IoT Core wants to manage your device data</title>
@@ -289,16 +299,6 @@
       
       <guid>//crypt0.net/post/google-cloud-iot-core-debuts-for-public-testing/</guid>
       <description>features and partners and compatibility with other Google products. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Scality Extends Multi-Cloud Storage to Azure</title>
-      <link>//crypt0.net/post/scality-extends-multicloud-storage-to-azure/</link>
-      <pubDate>Thu, 28 Sep 2017 22:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/scality-extends-multicloud-storage-to-azure/</guid>
-      <description>&amp;hellip; adds support for Google Cloud Platform along with application support for Azure Stack and new services backing AWS government cloud offerings. more.
 @crypt0net</description>
     </item>
     
