@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 30 Sep 2017 02:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2017 03:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Developer Mailing List Digest September 23-29 2017</title>
+      <link>//crypt0.net/post/developer-mailing-list-digest-september-2329-2017/</link>
+      <pubDate>Sat, 30 Sep 2017 03:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/developer-mailing-list-digest-september-2329-2017/</guid>
+      <description>Register for The OpenStack Sydney Summit and show up! Deadline for &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Best practices to keep your online information safe</title>
@@ -20542,16 +20552,6 @@ Equifax data breach: Warning, scammers are calling Scammers follow closely on th
       
       <guid>//crypt0.net/post/microsoft-azure-becomes-first-cloud-to-offer-new-data-security-capabilities/</guid>
       <description>Azure confidential computing, a collection of features and services introduced Thursday, makes Microsoft Azure the first cloud to offer new data &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Monitoring Amazon Aurora Audit Events with Amazon CloudWatch</title>
-      <link>//crypt0.net/post/monitoring-amazon-aurora-audit-events-with-amazon-cloudwatch/</link>
-      <pubDate>Fri, 15 Sep 2017 02:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/monitoring-amazon-aurora-audit-events-with-amazon-cloudwatch/</guid>
-      <description>Auditing capability in Amazon Aurora allows you to capture detailed &amp;hellip; more.
 @crypt0net</description>
     </item>
     
