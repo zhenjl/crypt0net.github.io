@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 30 Sep 2017 10:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2017 10:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kubernetes launches version 1.8 with focus on security and sustainability</title>
+      <link>//crypt0.net/post/kubernetes-launches-version-18-with-focus-on-security-and-sustainability/</link>
+      <pubDate>Sat, 30 Sep 2017 10:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/kubernetes-launches-version-18-with-focus-on-security-and-sustainability/</guid>
+      <description>&amp;hellip; take a cloud infrastructure built in one cloud environment, such as AWS, and move it into another environment, including Azure or Google Cloud. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Why STEM needs fresh ideas to bring about the fourth Industrial Revolution</title>
+      <link>//crypt0.net/post/why-stem-needs-fresh-ideas-to-bring-about-the-fourth-industrial-revolution/</link>
+      <pubDate>Sat, 30 Sep 2017 10:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-stem-needs-fresh-ideas-to-bring-about-the-fourth-industrial-revolution/</guid>
+      <description>&amp;hellip; smart factories by bringing together computing, the internet of things, artificial intelligence and cobotics humans and machines working together &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Code for private bus service app to be released to the public for</title>
@@ -20040,26 +20060,6 @@
       <guid>//crypt0.net/post/massive-data-breaches-what-are-the-legal-consequences/</guid>
       <description>ramifications of data breaches. more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Microsoft launches Azure confidential computing to protect data encrypted</title>
-      <link>//crypt0.net/post/microsoft-launches-azure-confidential-computing-to-protect-data-encrypted/</link>
-      <pubDate>Fri, 15 Sep 2017 10:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-launches-azure-confidential-computing-to-protect-data-encrypted/</guid>
-      <description>Cloud Tech Microsoft has announced the launch of &amp;lsquo;confidential computing&amp;rsquo; in Azure, claiming to be the first public cloud provider to offer encryption of data while &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>axle ai launches Microsoft Video Indexer integration</title>
-      <link>//crypt0.net/post/axle-ai-launches-microsoft-video-indexer-integration/</link>
-      <pubDate>Fri, 15 Sep 2017 10:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/axle-ai-launches-microsoft-video-indexer-integration/</guid>
-      <description>Kunal Malhotra, product marketing manager, Microsoft Azure, Microsoft Corp. says: We are pleased to see axle ai benefit from the visual management &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>

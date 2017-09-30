@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 30 Sep 2017 10:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2017 10:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kubernetes launches version 1.8 with focus on security and sustainability</title>
+      <link>//crypt0.net/post/kubernetes-launches-version-18-with-focus-on-security-and-sustainability/</link>
+      <pubDate>Sat, 30 Sep 2017 10:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/kubernetes-launches-version-18-with-focus-on-security-and-sustainability/</guid>
+      <description>&amp;hellip; take a cloud infrastructure built in one cloud environment, such as AWS, and move it into another environment, including Azure or Google Cloud. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Code for private bus service app to be released to the public for</title>
@@ -8165,26 +8175,6 @@ Amazon.Com: Google Does A Stealth Cloud Pricing Cut Right now, the Amazon.com (A
       
       <guid>//crypt0.net/post/chinese-spending-on-innovation-technology-growing-twice-as-fast-as-in-the/</guid>
       <description>South China Morning Post &amp;hellip; said: Our survey shows that IBM, which is in partnership with Wanda, stands out in public cloud ahead of Amazon Web Services (AWS) and Azure.. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft launches Azure confidential computing to protect data encrypted</title>
-      <link>//crypt0.net/post/microsoft-launches-azure-confidential-computing-to-protect-data-encrypted/</link>
-      <pubDate>Fri, 15 Sep 2017 10:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-launches-azure-confidential-computing-to-protect-data-encrypted/</guid>
-      <description>Cloud Tech Microsoft has announced the launch of &amp;lsquo;confidential computing&amp;rsquo; in Azure, claiming to be the first public cloud provider to offer encryption of data while &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>axle ai launches Microsoft Video Indexer integration</title>
-      <link>//crypt0.net/post/axle-ai-launches-microsoft-video-indexer-integration/</link>
-      <pubDate>Fri, 15 Sep 2017 10:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/axle-ai-launches-microsoft-video-indexer-integration/</guid>
-      <description>Kunal Malhotra, product marketing manager, Microsoft Azure, Microsoft Corp. says: We are pleased to see axle ai benefit from the visual management &amp;hellip; more.
 @crypt0net</description>
     </item>
     
