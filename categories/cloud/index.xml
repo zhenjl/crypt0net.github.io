@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 30 Sep 2017 21:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2017 22:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google May Replace Two-Factor Authentication With Advanced Protection Keys</title>
+      <link>//crypt0.net/post/google-may-replace-twofactor-authentication-with-advanced-protection-keys/</link>
+      <pubDate>Sat, 30 Sep 2017 22:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-may-replace-twofactor-authentication-with-advanced-protection-keys/</guid>
+      <description>You need to insert them into a USB port. They can work with websites that support the FIDO U2F protocol. These would include Gmail, Google Cloud, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Splice Machine Cloudifies Its Database Management System for AWS</title>
@@ -7815,36 +7825,6 @@ Avid&amp;rsquo;s New MediaCentral for Post Brings Collaborative Features to Medi
       
       <guid>//crypt0.net/post/the-week-in-cybersecurity-kaspersky-out-in-the-cold-azure-releases/</guid>
       <description>EnterpriseTech Another significant cybersecurity development this week: Microsoft announced yesterday the availability on its Azure cloud platform of confidential &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>AMD Bringing eGPU Support To Mobile Workstations Via XConnect</title>
-      <link>//crypt0.net/post/amd-bringing-egpu-support-to-mobile-workstations-via-xconnect/</link>
-      <pubDate>Fri, 15 Sep 2017 21:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amd-bringing-egpu-support-to-mobile-workstations-via-xconnect/</guid>
-      <description>Amazon Web Services has also announced the availability of machines configured with AWS Appstream Pro 2.0 powered by Radeon Pro, giving a &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Liberty CTO Nair: 5G a &#39;game-changer,&#39; but not a wireline replacement</title>
-      <link>//crypt0.net/post/liberty-cto-nair-5g-a-gamechanger-but-not-a-wireline-replacement/</link>
-      <pubDate>Fri, 15 Sep 2017 21:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/liberty-cto-nair-5g-a-gamechanger-but-not-a-wireline-replacement/</guid>
-      <description>&amp;hellip; Liberty invested in its own cloud infrastructure, it could never match leading cloud services vendors Amazon Web Services, Google and Microsoft. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Previews Azure Confidential Computing and Managed Service</title>
-      <link>//crypt0.net/post/microsoft-previews-azure-confidential-computing-and-managed-service/</link>
-      <pubDate>Fri, 15 Sep 2017 21:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-previews-azure-confidential-computing-and-managed-service/</guid>
-      <description>Redmondmag.com Microsoft this week announced previews of two new Microsoft Azure security measures that possibly add assurances for organizations wary of trusting &amp;hellip; more.
 @crypt0net</description>
     </item>
     
