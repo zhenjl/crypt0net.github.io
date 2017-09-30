@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 30 Sep 2017 01:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2017 02:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Cloud App Security Getting Conditional Access Protections</title>
+      <link>//crypt0.net/post/microsoft-cloud-app-security-getting-conditional-access-protections/</link>
+      <pubDate>Sat, 30 Sep 2017 02:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-cloud-app-security-getting-conditional-access-protections/</guid>
+      <description>Microsoft Cloud App Security Getting Conditional Access Protections &amp;hellip; integration between Microsoft Cloud App Security and Azure AD conditional &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Released: vCloud Director 9.0  The Most Significant Update To Date!</title>
@@ -8225,36 +8235,6 @@ Amazon.Com: Google Does A Stealth Cloud Pricing Cut Right now, the Amazon.com (A
       
       <guid>//crypt0.net/post/monitoring-amazon-aurora-audit-events-with-amazon-cloudwatch/</guid>
       <description>Auditing capability in Amazon Aurora allows you to capture detailed &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Unveils Azure Confidential Computing for Secure Cloud Data</title>
-      <link>//crypt0.net/post/microsoft-unveils-azure-confidential-computing-for-secure-cloud-data/</link>
-      <pubDate>Fri, 15 Sep 2017 02:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-unveils-azure-confidential-computing-for-secure-cloud-data/</guid>
-      <description>eWeek The other is Intel&amp;rsquo;s Software Guard Extensions (SGX) technology built into the processors running on Azure cloud servers. Microsoft is working with &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Pivotal Takes Greenplum to the Cloud</title>
-      <link>//crypt0.net/post/pivotal-takes-greenplum-to-the-cloud/</link>
-      <pubDate>Fri, 15 Sep 2017 02:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/pivotal-takes-greenplum-to-the-cloud/</guid>
-      <description>&amp;hellip; (NASDAQ: MSFT), Google Cloud Platform (NASDAQ: GOOGL) along with private clouds based on VMware vSphere (NYSE: VMW) and OpenStack. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud Pub/Sub Incident #17003</title>
-      <link>//crypt0.net/post/google-cloud-pubsub-incident-17003/</link>
-      <pubDate>Fri, 15 Sep 2017 02:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-pubsub-incident-17003/</guid>
-      <description>06:47 and ended at 2017-09-14 08:20 (all times are US/Pacific). more.
 @crypt0net</description>
     </item>
     
