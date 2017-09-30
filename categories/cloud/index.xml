@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 30 Sep 2017 09:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2017 09:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Will IT Ever Become Self-Managing?</title>
+      <link>//crypt0.net/post/will-it-ever-become-selfmanaging/</link>
+      <pubDate>Sat, 30 Sep 2017 09:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/will-it-ever-become-selfmanaging/</guid>
+      <description>The Qubole Data Service (QDS) now provides native support for Microsoft Azure and the Azure Data Lake Store to enable tools like workload-aware &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Anheuser-Busch InBev launches Hack the World in Australia</title>
@@ -8175,26 +8185,6 @@ Amazon.Com: Google Does A Stealth Cloud Pricing Cut Right now, the Amazon.com (A
       
       <guid>//crypt0.net/post/aws-gets-boost-from-defense-department/</guid>
       <description>In a major step for the cloud computing giant, Amazon Web Services (NASDAQ:AMZN) has a new market for its analytics and storage services. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>China Telecom launches SD-WAN services with Versa Networks</title>
-      <link>//crypt0.net/post/china-telecom-launches-sdwan-services-with-versa-networks/</link>
-      <pubDate>Fri, 15 Sep 2017 09:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/china-telecom-launches-sdwan-services-with-versa-networks/</guid>
-      <description>In addition, CTG&amp;rsquo;s SD-WAN service is designed to enable direct access to public cloud services such as Microsoft Azure and Amazon via backbone &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Podcast: OpenStack OpenDev Highlights Edge vs Cloud Computing Confusion</title>
-      <link>//crypt0.net/post/podcast-openstack-opendev-highlights-edge-vs-cloud-computing-confusion/</link>
-      <pubDate>Fri, 15 Sep 2017 09:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/podcast-openstack-opendev-highlights-edge-vs-cloud-computing-confusion/</guid>
-      <description>conference focused on Edge Computing. This podcast is part of a three &amp;hellip; more.
 @crypt0net</description>
     </item>
     
