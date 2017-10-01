@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 01 Oct 2017 21:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 22:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why Monitoring Cloud Computing Costs is Crucial</title>
+      <link>//crypt0.net/post/why-monitoring-cloud-computing-costs-is-crucial/</link>
+      <pubDate>Sun, 01 Oct 2017 22:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-monitoring-cloud-computing-costs-is-crucial/</guid>
+      <description>AWS Lambda and Microsoft&amp;rsquo;s Azure Functions, for example, both offer a million function calls for free each month followed by a charge of $0.2 per &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon&#39;s quest to become the next Apple</title>
@@ -7505,26 +7515,6 @@ Microsoft (MSFT) Stock Rose While Geller Family Office Services Has FlintDaily.c
       
       <guid>//crypt0.net/post/synechron-to-join-microsoft-azure-blockchain-council/</guid>
       <description>Each council member has dedicated blockchain practice, and commitments to build and launch projects in production in the Microsoft Azure &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>CAGR of &#43;22% Estimation on Cloud Storage Market Outlook (2017-2022) - IBM</title>
-      <link>//crypt0.net/post/cagr-of-22-estimation-on-cloud-storage-market-outlook-20172022--ibm/</link>
-      <pubDate>Sat, 16 Sep 2017 22:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cagr-of-22-estimation-on-cloud-storage-market-outlook-20172022--ibm/</guid>
-      <description>satPRnews (press release) Cloud storage providers such as Amazon Web Services own and maintain the network-connected hardware and software, while you provision and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Previews New Azure Security Services</title>
-      <link>//crypt0.net/post/microsoft-previews-new-azure-security-services/</link>
-      <pubDate>Sat, 16 Sep 2017 22:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-previews-new-azure-security-services/</guid>
-      <description>One, called Azure &amp;ldquo;confidential computing,&amp;rdquo; provides protections for data when it gets processed &amp;ldquo;in the clear&amp;rdquo; from Microsoft&amp;rsquo;s datacenters, according &amp;hellip; more.
 @crypt0net</description>
     </item>
     
