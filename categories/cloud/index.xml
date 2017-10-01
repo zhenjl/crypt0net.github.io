@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 30 Sep 2017 22:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 00:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Updates AI Services and Tools for Data Scientists and Developers</title>
+      <link>//crypt0.net/post/microsoft-updates-ai-services-and-tools-for-data-scientists-and-developers/</link>
+      <pubDate>Sun, 01 Oct 2017 00:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-updates-ai-services-and-tools-for-data-scientists-and-developers/</guid>
+      <description>&amp;hellip; Experimentation service, Azure ML Model Management service, Azure ML Workbench and the general availability of Microsoft Cognitive Services. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Web Services Releases Lumberyard Beta 1.11</title>
@@ -7755,36 +7765,6 @@ Avid&amp;rsquo;s New MediaCentral for Post Brings Collaborative Features to Medi
       
       <guid>//crypt0.net/post/basic-deployment-of-ibm-integration-bus-in-amazon-web-services/</guid>
       <description>Amazon Web Services (AWS) AMI instance and how to then invoke a &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google and Spotify open-source a new cloud security toolkit</title>
-      <link>//crypt0.net/post/google-and-spotify-opensource-a-new-cloud-security-toolkit/</link>
-      <pubDate>Fri, 15 Sep 2017 23:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-and-spotify-opensource-a-new-cloud-security-toolkit/</guid>
-      <description>Last month, Amazon Web Services Inc. introduced a tool called Macie that uses machine learning algorithms to help customers keep an eye on &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>NetApp Shows Storage Sales Growth, But The Big Gains In Q2 2017 Came From</title>
-      <link>//crypt0.net/post/netapp-shows-storage-sales-growth-but-the-big-gains-in-q2-2017-came-from/</link>
-      <pubDate>Fri, 15 Sep 2017 23:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/netapp-shows-storage-sales-growth-but-the-big-gains-in-q2-2017-came-from/</guid>
-      <description>CRN The storage market continues to shift away from traditional storage vendors and towards the hyperscalers like AWS (Amazon Web Services), with one &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How to set up performance load tests using Microsoft Azure</title>
-      <link>//crypt0.net/post/how-to-set-up-performance-load-tests-using-microsoft-azure/</link>
-      <pubDate>Fri, 15 Sep 2017 23:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-set-up-performance-load-tests-using-microsoft-azure/</guid>
-      <description>Fortunately, for organizations running Microsoft Azure&amp;rsquo;s PaaS offering, setting up the initial performance test is not a head-banging experience. more.
 @crypt0net</description>
     </item>
     
