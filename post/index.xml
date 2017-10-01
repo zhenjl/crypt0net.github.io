@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 01 Oct 2017 01:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 02:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to... hack-proof your home</title>
+      <link>//crypt0.net/post/how-to-hackproof-your-home/</link>
+      <pubDate>Sun, 01 Oct 2017 02:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-hackproof-your-home/</guid>
+      <description>These gadgets are known collectively as the internet of things (IoT), and about eight billion of them are installed worldwide, due to rise to 25 billion by &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Head to Head Analysis: Alliance Data Systems Corporation (NYSE:ADS) &amp;</title>
@@ -19369,96 +19379,6 @@
       
       <guid>//crypt0.net/post/researcher-says-equifax-executives-used-alarmingly-simplistic-passwords/</guid>
       <description>An audit of 10 million stolen credentials by Keeper Security Inc. last year found that 17 percent of users safeguard their accounts with the password &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Amazon API Gateway Now Supports Enhanced Request Authorizers</title>
-      <link>//crypt0.net/post/amazon-api-gateway-now-supports-enhanced-request-authorizers/</link>
-      <pubDate>Sat, 16 Sep 2017 02:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-api-gateway-now-supports-enhanced-request-authorizers/</guid>
-      <description>Credentials Request Service Limit Increases Contact Us. Amazon Web Services. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Amazon Web Services Now Approved to Host Defense Department Secrets</title>
-      <link>//crypt0.net/post/amazon-web-services-now-approved-to-host-defense-department-secrets/</link>
-      <pubDate>Sat, 16 Sep 2017 02:40:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/amazon-web-services-now-approved-to-host-defense-department-secrets/</guid>
-      <description>We are pleased to announce that Amazon Web Services has achieved a Provisional Authorization (PA) by the Defense Information Systems Agency &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Azure Cloud Security Encrypts In-Use Data</title>
-      <link>//crypt0.net/post/microsoft-azure-cloud-security-encrypts-inuse-data/</link>
-      <pubDate>Sat, 16 Sep 2017 02:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-azure-cloud-security-encrypts-inuse-data/</guid>
-      <description>Microsoft Azure today said it developed public cloud security technology that &amp;hellip; The new security services and features are called Azure confidential &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>ADEPT Driver launches exciting new technologies at GHSA 2017 Annual Meeting</title>
-      <link>//crypt0.net/post/adept-driver-launches-exciting-new-technologies-at-ghsa-2017-annual-meeting/</link>
-      <pubDate>Sat, 16 Sep 2017 02:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/adept-driver-launches-exciting-new-technologies-at-ghsa-2017-annual-meeting/</guid>
-      <description>Background: ADEPT Driver, a pioneering research and development company that builds proven crash avoidance training software, will participate in &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>AEye Demos First Commercial 360 Degree Solid State LiDAR System</title>
-      <link>//crypt0.net/post/aeye-demos-first-commercial-360-degree-solid-state-lidar-system/</link>
-      <pubDate>Sat, 16 Sep 2017 02:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aeye-demos-first-commercial-360-degree-solid-state-lidar-system/</guid>
-      <description>AEye Inc, a robotic vision pioneer, today announced completion of a successful live metropolitan demo showcasing its solid state commercial LiDAR &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Azure Roof Power to Electrify Government of India Buildings Across 10</title>
-      <link>//crypt0.net/post/azure-roof-power-to-electrify-government-of-india-buildings-across-10/</link>
-      <pubDate>Sat, 16 Sep 2017 02:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-roof-power-to-electrify-government-of-india-buildings-across-10/</guid>
-      <description>SYS-CON Media (press release) Azure Power (NYSE:AZRE), a leading solar power producer in India, announced that it has won a 50 MW solar project in an auction conducted by &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Hitachi to Strengthen Information Security Structure</title>
-      <link>//crypt0.net/post/hitachi-to-strengthen-information-security-structure/</link>
-      <pubDate>Sat, 16 Sep 2017 02:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hitachi-to-strengthen-information-security-structure/</guid>
-      <description>TOKYO, Sept 15, 2017 - (JCN Newswire) - Hitachi, Ltd. (TSE:6501) announced today that on October 1, 2017, it will strengthen its information security &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Biometric Audit Trails Can Thwart Data Center Insider Attacks: BioConnect</title>
-      <link>//crypt0.net/post/biometric-audit-trails-can-thwart-data-center-insider-attacks-bioconnect/</link>
-      <pubDate>Sat, 16 Sep 2017 02:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/biometric-audit-trails-can-thwart-data-center-insider-attacks-bioconnect/</guid>
-      <description>&amp;hellip; Shannon notes that somewhere between 9 and 18 percent of all colocation center data breaches are accidental, costing the data center industry &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>No end in sight for huge data breaches</title>
-      <link>//crypt0.net/post/no-end-in-sight-for-huge-data-breaches/</link>
-      <pubDate>Sat, 16 Sep 2017 02:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/no-end-in-sight-for-huge-data-breaches/</guid>
-      <description>Bank tech trends can make your head spin. So regularly longtime Tech Exchange Editor John Ginovsky does his best to make sense of it all. By now &amp;hellip; more.
 @trustpath</description>
     </item>
     
