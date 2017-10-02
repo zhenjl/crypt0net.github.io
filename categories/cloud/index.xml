@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 02 Oct 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Oct 2017 18:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Amazon Redshift for Fast Analytical Reports</title>
+      <link>//crypt0.net/post/using-amazon-redshift-for-fast-analytical-reports/</link>
+      <pubDate>Mon, 02 Oct 2017 18:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/using-amazon-redshift-for-fast-analytical-reports/</guid>
+      <description>finding it difficult to ingest, store, and analyze the data quickly while keeping &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Daily Cloud Computing News from @cloudfeednet - Oct 2, 2017</title>
