@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 03 Oct 2017 16:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2017 17:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenStack vs hyper-converged: Open-source cloud in the datacentre</title>
+      <link>//crypt0.net/post/openstack-vs-hyperconverged-opensource-cloud-in-the-datacentre/</link>
+      <pubDate>Tue, 03 Oct 2017 17:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/openstack-vs-hyperconverged-opensource-cloud-in-the-datacentre/</guid>
+      <description>The OpenStack project has developed into an open-source cloud platform that can be deployed on-premise and encompasses all the major cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Atmosera Selects Array Networks Virtual Application Delivery Controllers to</title>
