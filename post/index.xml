@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 03 Oct 2017 23:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2017 23:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Threat Hunting: How to Pick a Service to Help</title>
+      <link>//crypt0.net/post/threat-hunting-how-to-pick-a-service-to-help/</link>
+      <pubDate>Tue, 03 Oct 2017 23:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/threat-hunting-how-to-pick-a-service-to-help/</guid>
+      <description>Although some aspects of threat analysis may be performed with automated tools, true threat hunting requires a good deal of human investigation as &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Cybersecurity failures lead to huge business losses</title>
