@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 03 Oct 2017 06:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2017 07:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Cloud IoT Core Arrives in Public Beta</title>
+      <link>//crypt0.net/post/google-cloud-iot-core-arrives-in-public-beta/</link>
+      <pubDate>Tue, 03 Oct 2017 07:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-cloud-iot-core-arrives-in-public-beta/</guid>
+      <description>Google has officially announced that Google Cloud IoT Core is now available in public beta. The service was first introduced through the Google I/O &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Collect equipment data from global facilities</title>
