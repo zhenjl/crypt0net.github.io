@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 04 Oct 2017 02:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Oct 2017 02:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NetApp expands hybrid cloud partnership with Microsoft Azure</title>
+      <link>//crypt0.net/post/netapp-expands-hybrid-cloud-partnership-with-microsoft-azure/</link>
+      <pubDate>Wed, 04 Oct 2017 02:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/netapp-expands-hybrid-cloud-partnership-with-microsoft-azure/</guid>
+      <description>On Tuesday the company launched its Microsoft Azure Enterprise Network File System as a service in the Azure cloud. The service makes it easier to &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>ATC-Authorization header gets corrupted - Google Cloud Identity Aware Proxy</title>
