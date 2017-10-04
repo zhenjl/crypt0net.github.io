@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 04 Oct 2017 12:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Oct 2017 13:30:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Disaster Recovery as a Service: Get back from the brink with these products</title>
+      <link>//crypt0.net/post/disaster-recovery-as-a-service-get-back-from-the-brink-with-these-products/</link>
+      <pubDate>Wed, 04 Oct 2017 13:30:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/disaster-recovery-as-a-service-get-back-from-the-brink-with-these-products/</guid>
+      <description>Microsoft Azure offers a wide range of cloud-based services, and has added Disaster Recovery as a Service into the mix as well, delivering disaster &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>AWS CEO: &#39;We have plenty of things to keep working on&#39;</title>
@@ -8035,46 +8045,6 @@ Spotify and Google Release Forseti GCP Security Tools It does this by using the 
       
       <guid>//crypt0.net/post/netgear-readynas-rr2312--industryfirst-1u-12bay-high-density-network/</guid>
       <description>Nasdaq With backup to the Cloud, ReadyNAS can sync your data to the public cloud of your choice, including Amazon Web Services (AWS), Amazon Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Avigilon Announces Avigilon Blue, a New Subscription-based Cloud Service</title>
-      <link>//crypt0.net/post/avigilon-announces-avigilon-blue-a-new-subscriptionbased-cloud-service/</link>
-      <pubDate>Tue, 19 Sep 2017 13:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/avigilon-announces-avigilon-blue-a-new-subscriptionbased-cloud-service/</guid>
-      <description>Collaborating with Microsoft allows us to use their trusted Microsoft Azure cloud platform to build a cutting-edge solution that provides inherent value &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cloudflare Collaborates with Google Cloud to Fund Developer Innovation</title>
-      <link>//crypt0.net/post/cloudflare-collaborates-with-google-cloud-to-fund-developer-innovation/</link>
-      <pubDate>Tue, 19 Sep 2017 13:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloudflare-collaborates-with-google-cloud-to-fund-developer-innovation/</guid>
-      <description>Google Cloud Platform provides a comprehensive set of solutions and highly-scalable, reliable infrastructure to build applications. Through this &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Minio Secures $20 Million Series A and Launches Multi-Cloud Object Storage</title>
-      <link>//crypt0.net/post/minio-secures-20-million-series-a-and-launches-multicloud-object-storage/</link>
-      <pubDate>Tue, 19 Sep 2017 13:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/minio-secures-20-million-series-a-and-launches-multicloud-object-storage/</guid>
-      <description>Business Wire (press release) &amp;hellip; with popular public and private cloud environments based on Docker, Kubernetes, Cloud Foundry, DC/OS, Azure and Google Cloud Platform. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>The Rackspace Experience, Part 3: Operating Your OpenStack Private Cloud</title>
-      <link>//crypt0.net/post/the-rackspace-experience-part-3-operating-your-openstack-private-cloud/</link>
-      <pubDate>Tue, 19 Sep 2017 13:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-rackspace-experience-part-3-operating-your-openstack-private-cloud/</guid>
-      <description>you&amp;rsquo;ll receive with a managed OpenStack private cloud from Rackspace. As one of &amp;hellip; more.
 @crypt0net</description>
     </item>
     
