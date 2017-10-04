@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 04 Oct 2017 16:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Oct 2017 16:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft&#39;s Azure Functions adds support for Java</title>
+      <link>//crypt0.net/post/microsofts-azure-functions-adds-support-for-java/</link>
+      <pubDate>Wed, 04 Oct 2017 16:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsofts-azure-functions-adds-support-for-java/</guid>
+      <description>Azure Functions, Microsoft&amp;rsquo;s platform for building serverless applications, has long supported a variety of programming languages but it&amp;rsquo;s adding an &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon to bring Echo-Alexa, Prime Music to India</title>
