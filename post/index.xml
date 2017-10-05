@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 05 Oct 2017 21:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2017 21:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Red Hat Stretches Gluster Clustered Storage Under Containers</title>
+      <link>//crypt0.net/post/red-hat-stretches-gluster-clustered-storage-under-containers/</link>
+      <pubDate>Thu, 05 Oct 2017 21:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/red-hat-stretches-gluster-clustered-storage-under-containers/</guid>
+      <description>A couple of weeks later, Red Hat and Microsoft expanded their alliance to make it easier for organizations to adopt containers. &amp;hellip; native support for Windows Server containers on OpenShift, OpenShift Dedicated on Microsoft Azure, &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Scality Connect ports S3 apps to Azure Blob storage</title>
+      <link>//crypt0.net/post/scality-connect-ports-s3-apps-to-azure-blob-storage/</link>
+      <pubDate>Thu, 05 Oct 2017 21:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/scality-connect-ports-s3-apps-to-azure-blob-storage/</guid>
+      <description>Scality&amp;rsquo;s Connect software opens access to Microsoft Azure Blob services for S3 API-compatible applications, making it easier to port S3 API apps to &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Yahoo-oops! All 3 Billion Yahoo Users Were Exposed in 2013 Breach</title>
+      <link>//crypt0.net/post/yahoooops-all-3-billion-yahoo-users-were-exposed-in-2013-breach/</link>
+      <pubDate>Thu, 05 Oct 2017 21:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/yahoooops-all-3-billion-yahoo-users-were-exposed-in-2013-breach/</guid>
+      <description>Products What&amp;rsquo;s Changed? Gartner&amp;rsquo;s 2016 Security Information and &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Google Cloud instances can now use 96 vCPUs and 624GB of memory</title>
