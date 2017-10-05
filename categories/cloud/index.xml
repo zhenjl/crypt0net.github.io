@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 05 Oct 2017 02:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2017 02:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Red Hat OpenStack Platform director to deploy co-located Ceph storage</title>
+      <link>//crypt0.net/post/using-red-hat-openstack-platform-director-to-deploy-colocated-ceph-storage/</link>
+      <pubDate>Thu, 05 Oct 2017 02:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/using-red-hat-openstack-platform-director-to-deploy-colocated-ceph-storage/</guid>
+      <description>services directly on compute nodes in a co-located fashion. This time, we dive &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Is Multicloud a True Virtue or a Mere Convenience?</title>
@@ -8186,16 +8196,6 @@ Amazon: Built For Greatness, Not Built For Profitability &amp;hellip; significan
       
       <guid>//crypt0.net/post/report-microsofts-azure-cloud-rated-best-for-security-as-concerns-persist/</guid>
       <description>Just under half of the respondents said Microsoft Azure offers the best security of the three cloud platforms, compared to just 20 percent who said &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Igloo Leverages Microsoft Azure to Help Companies Improve The Digital</title>
-      <link>//crypt0.net/post/igloo-leverages-microsoft-azure-to-help-companies-improve-the-digital/</link>
-      <pubDate>Wed, 20 Sep 2017 02:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/igloo-leverages-microsoft-azure-to-help-companies-improve-the-digital/</guid>
-      <description>Markets Insider 19, 2017 /CNW/ &amp;ndash; Igloo Software, the leading provider of digital workplace solutions, announced today that it will leverage Microsoft Azure for data &amp;hellip; more.
 @crypt0net</description>
     </item>
     
