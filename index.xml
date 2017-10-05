@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 05 Oct 2017 22:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2017 22:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deloitte: would two-factor authentication really have helped?</title>
+      <link>//crypt0.net/post/deloitte-would-twofactor-authentication-really-have-helped/</link>
+      <pubDate>Thu, 05 Oct 2017 22:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/deloitte-would-twofactor-authentication-really-have-helped/</guid>
+      <description>We&amp;rsquo;re seeing breach after breach leveraging stolen credentials as an attack vector and even skilled information security practitioners are struggling &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Google Announces A Hands-Free Clips Camera</title>
@@ -21881,56 +21891,6 @@ Breaches ain&amp;rsquo;t getting better can GDPR help? Now you can argue that re
       
       <guid>//crypt0.net/post/veritas-strengthens-azure-data-management-functions-for-a-more-solid/</guid>
       <description>ComputerWeekly.com (blog) Microsoft is working to partner with everybody and be open to everything as we know, Microsoft loves Linux, well, now it does. In this regard then, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Arista CloudVision vs. Cisco CloudCenter in the hybrid cloud</title>
-      <link>//crypt0.net/post/arista-cloudvision-vs-cisco-cloudcenter-in-the-hybrid-cloud/</link>
-      <pubDate>Wed, 20 Sep 2017 22:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/arista-cloudvision-vs-cisco-cloudcenter-in-the-hybrid-cloud/</guid>
-      <description>The new Arista technology includes a virtualized version of its EOS network operating system for Amazon Web Services (AWS), Google Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Arista unveils Any Cloud Platform for hybrid cloud networking; supports</title>
-      <link>//crypt0.net/post/arista-unveils-any-cloud-platform-for-hybrid-cloud-networking-supports/</link>
-      <pubDate>Wed, 20 Sep 2017 22:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/arista-unveils-any-cloud-platform-for-hybrid-cloud-networking-supports/</guid>
-      <description>CTR &amp;hellip; Google Cloud Platform and Oracle Cloud Infrastructure. Support in each environment is coupled with validation and registration of these solutions in &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Adds Natural Language Support to Enterprise Search Tool</title>
-      <link>//crypt0.net/post/google-adds-natural-language-support-to-enterprise-search-tool/</link>
-      <pubDate>Wed, 20 Sep 2017 22:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-adds-natural-language-support-to-enterprise-search-tool/</guid>
-      <description>Google Cloud Search, introduced in February this year, is basically a scaled-down version of Google Search released specifically for use within &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google sets up Brazil data center</title>
-      <link>//crypt0.net/post/google-sets-up-brazil-data-center/</link>
-      <pubDate>Wed, 20 Sep 2017 22:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-sets-up-brazil-data-center/</guid>
-      <description>So Paulo became Google&amp;rsquo;s first Google Cloud Platform (GCP) region in Latin America with the opening on Tuesday of the Southamerica-East1 . more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Sophos Adds Cloud Security Provider Specialty for Partners</title>
-      <link>//crypt0.net/post/sophos-adds-cloud-security-provider-specialty-for-partners/</link>
-      <pubDate>Wed, 20 Sep 2017 22:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sophos-adds-cloud-security-provider-specialty-for-partners/</guid>
-      <description>While AWS and Azure, as well as Google Cloud Platform, increasingly see the channel as critical to growth, sales through their marketplaces aren&amp;rsquo;t &amp;hellip; more.
 @crypt0net</description>
     </item>
     
