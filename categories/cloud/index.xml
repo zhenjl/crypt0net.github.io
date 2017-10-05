@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 05 Oct 2017 11:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2017 11:50:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Egton migrates to UKCloud&#39;s award-winning Cloud Native Infrastructure</title>
+      <link>//crypt0.net/post/egton-migrates-to-ukclouds-awardwinning-cloud-native-infrastructure/</link>
+      <pubDate>Thu, 05 Oct 2017 11:50:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/egton-migrates-to-ukclouds-awardwinning-cloud-native-infrastructure/</guid>
+      <description>In May UKCloud won the global OpenStack SuperUser Award at the Boston &amp;hellip; &amp;ldquo;Innovating on Red Hat&amp;rsquo;s OpenStack Platform and Red Hat OpenShift, &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft releases detailed report on Azure outage in Europe</title>
@@ -861,16 +871,6 @@ NFS is now on tap in Azure and NetApp is Microsoft&amp;rsquo;s provider NetApp i
       
       <guid>//crypt0.net/post/rollsroyce-to-build-autonomous-ships-with-google-ai/</guid>
       <description>Under an agreement signed on October 3, 2017, Rolls-Royce will start using Google cloud-based software to improve its system for detecting objects &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Egton migrates to UKCloud&#39;s award-winning Cloud Native Infrastructure</title>
-      <link>//crypt0.net/post/egton-migrates-to-ukclouds-awardwinning-cloud-native-infrastructure/</link>
-      <pubDate>Wed, 04 Oct 2017 11:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/egton-migrates-to-ukclouds-awardwinning-cloud-native-infrastructure/</guid>
-      <description>In May UKCloud won the global OpenStack SuperUser Award at the Boston &amp;hellip; Innovating on Red Hat&amp;rsquo;s OpenStack Platform and Red Hat OpenShift, &amp;hellip; more.
 @crypt0net</description>
     </item>
     
