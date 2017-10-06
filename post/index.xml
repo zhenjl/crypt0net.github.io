@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 06 Oct 2017 00:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2017 00:40:06 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,61 @@
     <item>
       <title>GE picks AWS as preferred cloud provider</title>
       <link>//crypt0.net/post/ge-picks-aws-as-preferred-cloud-provider/</link>
-      <pubDate>Fri, 06 Oct 2017 00:20:03 +0000</pubDate>
+      <pubDate>Fri, 06 Oct 2017 00:40:06 +0000</pubDate>
       
       <guid>//crypt0.net/post/ge-picks-aws-as-preferred-cloud-provider/</guid>
-      <description>In addition to relying on AWS, Reuters said GE would be using Microsoft Azure by late October. Last month, new GE CEO John Flannery declared in a &amp;hellip; more.
+      <description>Amazon Web Services announced Thursday that General Electric has chosen it as its preferred cloud provider. GE began an enterprise-wide &amp;hellip; more.
 @crypt0net</description>
+    </item>
+    
+    <item>
+      <title>How Overconfidence Can Lead to Lax Cybersecurity</title>
+      <link>//crypt0.net/post/how-overconfidence-can-lead-to-lax-cybersecurity/</link>
+      <pubDate>Fri, 06 Oct 2017 00:40:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-overconfidence-can-lead-to-lax-cybersecurity/</guid>
+      <description>New forms of threats, such as ransomware, combined with new vectors of attack, including mobile and Internet of Things (IoT) devices, make for a &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>IRS Chief Says Aborting Equifax Contract Could Harm Hurricane Victims</title>
+      <link>//crypt0.net/post/irs-chief-says-aborting-equifax-contract-could-harm-hurricane-victims/</link>
+      <pubDate>Fri, 06 Oct 2017 00:40:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/irs-chief-says-aborting-equifax-contract-could-harm-hurricane-victims/</guid>
+      <description>Internal Revenue Service Commissioner John Koskinen leaves after testifying before the House Judiciary Committee for three and a half hours in the &amp;hellip; more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>More Banks Join IBM&#39;s Blockchain Trade-Finance Project</title>
+      <link>//crypt0.net/post/more-banks-join-ibms-blockchain-tradefinance-project/</link>
+      <pubDate>Fri, 06 Oct 2017 00:40:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/more-banks-join-ibms-blockchain-tradefinance-project/</guid>
+      <description>While International Business Machines (NYSE: IBM) is not typically viewed as a tech company at the bleeding edge, blockchain is one area where Big &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Unable to create a new host against Openstack (with docker version &gt; 13.03)</title>
+      <link>//crypt0.net/post/unable-to-create-a-new-host-against-openstack-with-docker-version--1303/</link>
+      <pubDate>Fri, 06 Oct 2017 00:40:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/unable-to-create-a-new-host-against-openstack-with-docker-version--1303/</guid>
+      <description>#10017. Open. pdonorio opened this Issue 18 minutes ago 0 comments &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>[Webinar] - Your Money or Your PHI: HHS Guidance on Ransomware - October</title>
+      <link>//crypt0.net/post/webinar--your-money-or-your-phi-hhs-guidance-on-ransomware--october/</link>
+      <pubDate>Fri, 06 Oct 2017 00:40:06 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/webinar--your-money-or-your-phi-hhs-guidance-on-ransomware--october/</guid>
+      <description>JD Supra (press release) Ms. Huger&amp;rsquo;s practice also focuses on providing counsel on data breaches, including those involving health information privacy and security matters &amp;hellip; more.
+@trustpath</description>
     </item>
     
     <item>
@@ -21360,46 +21410,6 @@
       <guid>//crypt0.net/post/newly-uncovered-iranian-hacking-group-targeted-energy-aerospace-firms-to/</guid>
       <description>CyberScoop Prominent cybersecurity firms, including Symantec, Kaspersky Lab, FireEye, RSA and Palo Alto Networks, have each identified data breaches in the &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>ASG wins deal to take coal miner into the cloud</title>
-      <link>//crypt0.net/post/asg-wins-deal-to-take-coal-miner-into-the-cloud/</link>
-      <pubDate>Thu, 21 Sep 2017 00:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/asg-wins-deal-to-take-coal-miner-into-the-cloud/</guid>
-      <description>Under the terms of the deal, ASG will deliver SAP&amp;rsquo;s ERP solution for 2000 users at Yancoal, hosted on Amazon Web Services (AWS). The deal also &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Hitachi Merges IT Work Under Vantara, Boosts Container Support</title>
-      <link>//crypt0.net/post/hitachi-merges-it-work-under-vantara-boosts-container-support/</link>
-      <pubDate>Thu, 21 Sep 2017 00:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hitachi-merges-it-work-under-vantara-boosts-container-support/</guid>
-      <description>&amp;hellip; hinted to Fortune that the company would not compete against established cloud providers like Microsoft Azure and Amazon Web Services (AWS). more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Partner Communications Selects Cloudify and VMware to Help Deliver an</title>
-      <link>//crypt0.net/post/partner-communications-selects-cloudify-and-vmware-to-help-deliver-an/</link>
-      <pubDate>Thu, 21 Sep 2017 00:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/partner-communications-selects-cloudify-and-vmware-to-help-deliver-an/</guid>
-      <description>Marketwired (press release) Users of Cloudify with VMware vCloud NFV can deploy new VNFs over their hybrid cloud deployments, automating lifecycle management. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Paxata and Microsoft Simplify Information Management for Business Consumers</title>
-      <link>//crypt0.net/post/paxata-and-microsoft-simplify-information-management-for-business-consumers/</link>
-      <pubDate>Thu, 21 Sep 2017 00:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/paxata-and-microsoft-simplify-information-management-for-business-consumers/</guid>
-      <description>Markets Insider REDWOOD CITY, Calif., Sept. 20, 2017 (GLOBE NEWSWIRE) &amp;ndash; Microsoft and Paxata, the pioneer and leader in empowering all business consumers &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
