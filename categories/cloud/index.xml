@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 06 Oct 2017 01:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2017 01:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Red Hat Rolls &#39;Container-Native&#39; Storage</title>
+      <link>//crypt0.net/post/red-hat-rolls-containernative-storage/</link>
+      <pubDate>Fri, 06 Oct 2017 01:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/red-hat-rolls-containernative-storage/</guid>
+      <description>That was preceded late last year by the release of a &amp;ldquo;dedicated&amp;rdquo; version of the OpenShift container platform running on Google&amp;rsquo;s Cloud Platform &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>General Electric Names AWS Its Preferred Cloud Provider</title>
