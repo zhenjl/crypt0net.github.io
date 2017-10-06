@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 06 Oct 2017 22:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2017 23:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Developing Microsoft Azure Solutions (70-532)</title>
+      <link>//crypt0.net/post/developing-microsoft-azure-solutions-70532/</link>
+      <pubDate>Fri, 06 Oct 2017 23:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/developing-microsoft-azure-solutions-70532/</guid>
+      <description>expertise in designing, programming, implementing, automating, and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Apple&#39;s head of iCloud infrastructure technology departs the company</title>
@@ -8565,16 +8575,6 @@ Brush up your cloud automation and orchestration skills Other tools, such as Goo
       
       <guid>//crypt0.net/post/dell-emc-microsoft-win-1-billion-us-air-force-deal/</guid>
       <description>This could include Microsoft Azure Stack, which lets organizations build a private-cloud version of the Azure public cloud in their own data centers. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud Makes Good on Promise to Add Nvidia P100 GPUs</title>
-      <link>//crypt0.net/post/google-cloud-makes-good-on-promise-to-add-nvidia-p100-gpus/</link>
-      <pubDate>Thu, 21 Sep 2017 23:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-makes-good-on-promise-to-add-nvidia-p100-gpus/</guid>
-      <description>21) the beta launch of the high-end P100 Nvidia Tesla GPUs on the Google Cloud Platform as well as general availability of Tesla P80s, which have &amp;hellip; more.
 @crypt0net</description>
     </item>
     
