@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 07 Oct 2017 09:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Oct 2017 10:00:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Consumer and Object Experience in the Internet of Things</title>
+      <link>//crypt0.net/post/consumer-and-object-experience-in-the-internet-of-things/</link>
+      <pubDate>Sat, 07 Oct 2017 10:00:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/consumer-and-object-experience-in-the-internet-of-things/</guid>
+      <description>consumer experience. Because consumers can actively interact with smart &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>iCloud services infrastructure executive leaves the company; signals</title>
@@ -21560,46 +21570,6 @@
       <guid>//crypt0.net/post/taipa-chairman-akhil-gupta-reveals-new-demands-of-tower-cos/</guid>
       <description>&amp;hellip; analytics, cloud, Internet of Things (IoT), Machine to Machine (M2M) Communications are playing a key role in implementing the Digital India vision, &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Canonical builds a special Ubuntu kernel for Microsoft</title>
-      <link>//crypt0.net/post/canonical-builds-a-special-ubuntu-kernel-for-microsoft/</link>
-      <pubDate>Fri, 22 Sep 2017 09:50:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/canonical-builds-a-special-ubuntu-kernel-for-microsoft/</guid>
-      <description>They are releasing a new Ubuntu kernel optimised for Azure which they built in partnership with Microsoft. This new kernel will offer the following &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Former Top CIA Executive Joins Cybereason Advisory Board</title>
-      <link>//crypt0.net/post/former-top-cia-executive-joins-cybereason-advisory-board/</link>
-      <pubDate>Fri, 22 Sep 2017 09:50:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/former-top-cia-executive-joins-cybereason-advisory-board/</guid>
-      <description>Cybereason, creators of the first and only proprietary cybersecurity data analytics platform, offers endpoint detection and response (EDR), &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Navigating the challenges of a hybrid cloud strategy</title>
-      <link>//crypt0.net/post/navigating-the-challenges-of-a-hybrid-cloud-strategy/</link>
-      <pubDate>Fri, 22 Sep 2017 09:50:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/navigating-the-challenges-of-a-hybrid-cloud-strategy/</guid>
-      <description>Two dominant players have emerged in the public cloud computing market Microsoft Azure and Amazon Web Services (AWS). Challengers include &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Sandy Bateh Joins the Bit-Wizards Team in Jacksonville, Florida</title>
-      <link>//crypt0.net/post/sandy-bateh-joins-the-bitwizards-team-in-jacksonville-florida/</link>
-      <pubDate>Fri, 22 Sep 2017 09:50:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sandy-bateh-joins-the-bitwizards-team-in-jacksonville-florida/</guid>
-      <description>Bit-Wizards is a Microsoft Gold Partner and has been working with Microsoft Azure since its launch in 2010. Since then, the Azure product has gone &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
