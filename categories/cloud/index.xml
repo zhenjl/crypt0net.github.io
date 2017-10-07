@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 07 Oct 2017 02:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Oct 2017 02:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Brave New World: Pat Gelsinger Leads VMware Into The Multi-Cloud Era</title>
+      <link>//crypt0.net/post/a-brave-new-world-pat-gelsinger-leads-vmware-into-the-multicloud-era/</link>
+      <pubDate>Sat, 07 Oct 2017 02:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/a-brave-new-world-pat-gelsinger-leads-vmware-into-the-multicloud-era/</guid>
+      <description>Could VMware partner with Amazon Web Services? Could it trust Microsoft? Would Google emerge as a serious enterprise player? As difficult as &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Multicloud storage mitigates risk of public cloud lock-in</title>
+      <link>//crypt0.net/post/multicloud-storage-mitigates-risk-of-public-cloud-lockin/</link>
+      <pubDate>Sat, 07 Oct 2017 02:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/multicloud-storage-mitigates-risk-of-public-cloud-lockin/</guid>
+      <description>Amazon Web Services (AWS) pioneered public cloud storage when it introduced Simple Storage Service (S3) more than 10 years ago. The public &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>SDxCentral Weekly News Roundup  October 6, 2017</title>
@@ -39,16 +59,6 @@
       
       <guid>//crypt0.net/post/larry-ellison-loves-to-rail-against-amazon-but-this-analyst-says-microsoft/</guid>
       <description>Business Insider UK &amp;ldquo;Microsoft is their big competitor,&amp;rdquo; says Larry Carvalho, lead analyst on &amp;hellip; in a market full of semi-autonomous databases, like Microsoft Azure&amp;rsquo;s SQL. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Multicloud storage mitigates risk of public cloud lock-in</title>
-      <link>//crypt0.net/post/multicloud-storage-mitigates-risk-of-public-cloud-lockin/</link>
-      <pubDate>Sat, 07 Oct 2017 01:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/multicloud-storage-mitigates-risk-of-public-cloud-lockin/</guid>
-      <description>The primary data storage services must support at least one large public cloud vendor, such as Amazon Web Services (AWS), Google Cloud Platform &amp;hellip; more.
 @crypt0net</description>
     </item>
     
