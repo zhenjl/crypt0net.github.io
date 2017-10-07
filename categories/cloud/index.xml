@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 07 Oct 2017 17:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Oct 2017 18:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google launches Cloud Firestore to help developers store app data easily</title>
+      <link>//crypt0.net/post/google-launches-cloud-firestore-to-help-developers-store-app-data-easily/</link>
+      <pubDate>Sat, 07 Oct 2017 18:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-launches-cloud-firestore-to-help-developers-store-app-data-easily/</guid>
+      <description>built as an upgrade to the existing Firebase Realtime Database that offers &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Davis RM Decreased Its Microsoft (MSFT) Stake by $405076 as Share Price</title>
@@ -8436,16 +8446,6 @@ MongoDB Looking To Create Unholy Trinity Of Terrible NYC Tech IPOs We also compe
       <description>Daily Cloud Computing news from @cloudfeednet.
 Google Cloud adds support for more powerful Nvidia GPUs For starters, the company is making Nvidia K80 GPUs generally available. At the same time, it&amp;rsquo;s launching support for Nvidia P100 GPUs in Beta along &amp;hellip; more.
 Brush up your cloud automation and orchestration skills Other tools, such as Google Cloud Resource Manager and Google Container Engine, also have elements to automate management and deployment. more.</description>
-    </item>
-    
-    <item>
-      <title>Azure Stack Finally Takes Microsoft Public Cloud Private</title>
-      <link>//crypt0.net/post/azure-stack-finally-takes-microsoft-public-cloud-private/</link>
-      <pubDate>Fri, 22 Sep 2017 18:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-stack-finally-takes-microsoft-public-cloud-private/</guid>
-      <description>Microsoft announced Azure Stack at its Ignite event in September 2016 and soft-launched Azure Stack at its Inspire event in July, when it announced &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
