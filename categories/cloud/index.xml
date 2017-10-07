@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 07 Oct 2017 02:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Oct 2017 02:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open source technology promises to alter enterprise storage</title>
+      <link>//crypt0.net/post/open-source-technology-promises-to-alter-enterprise-storage/</link>
+      <pubDate>Sat, 07 Oct 2017 02:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/open-source-technology-promises-to-alter-enterprise-storage/</guid>
+      <description>Swift is the object storage component of OpenStack. It provides a scale-out node-based object store that can be run on commodity servers. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>A Brave New World: Pat Gelsinger Leads VMware Into The Multi-Cloud Era</title>
@@ -8575,16 +8585,6 @@ Brush up your cloud automation and orchestration skills Other tools, such as Goo
       
       <guid>//crypt0.net/post/fluccs-acquires-hosting-business-from-itgenius-will-reverse-clients-out-of/</guid>
       <description>CRN Australia HostGenius&amp;rsquo; sister company itGenius will retain the domain name registration, while the remaining customers will be migrated from Google Cloud and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Veritas announces new software-defined cloud storage solution</title>
-      <link>//crypt0.net/post/veritas-announces-new-softwaredefined-cloud-storage-solution/</link>
-      <pubDate>Fri, 22 Sep 2017 02:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/veritas-announces-new-softwaredefined-cloud-storage-solution/</guid>
-      <description>At the conference, Veritas also announced a partnership with Microsoft Azure and innovations in its Veritas NetBackup, Veritas Information Map and &amp;hellip; more.
 @crypt0net</description>
     </item>
     
