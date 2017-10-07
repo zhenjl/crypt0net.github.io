@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 07 Oct 2017 01:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Oct 2017 01:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Has AMD Become a Significant Threat to NVIDIA?</title>
+      <link>//crypt0.net/post/has-amd-become-a-significant-threat-to-nvidia/</link>
+      <pubDate>Sat, 07 Oct 2017 01:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/has-amd-become-a-significant-threat-to-nvidia/</guid>
+      <description>&amp;hellip; announced that it will use AMD&amp;rsquo;s Radeon Pro GPUs to run graphics software on its Amazon Web Services (AWS) cloud computing platform. Amazon &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Larry Ellison loves to rail against Amazon but this analyst says Microsoft</title>
@@ -8555,16 +8565,6 @@ Brush up your cloud automation and orchestration skills Other tools, such as Goo
       
       <guid>//crypt0.net/post/veritas-announces-new-softwaredefined-cloud-storage-solution/</guid>
       <description>At the conference, Veritas also announced a partnership with Microsoft Azure and innovations in its Veritas NetBackup, Veritas Information Map and &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft To Preview Remote Desktop Services Improvements</title>
-      <link>//crypt0.net/post/microsoft-to-preview-remote-desktop-services-improvements/</link>
-      <pubDate>Fri, 22 Sep 2017 01:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-to-preview-remote-desktop-services-improvements/</guid>
-      <description>They can use cloud infrastructure such as Microsoft Azure, as well as hybrid deployments where the Application and Desktop Host role gets located on &amp;hellip; more.
 @crypt0net</description>
     </item>
     
