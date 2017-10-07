@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 06 Oct 2017 23:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Oct 2017 00:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Branching Out with Advanced Threat Protection Services</title>
+      <link>//crypt0.net/post/microsoft-branching-out-with-advanced-threat-protection-services/</link>
+      <pubDate>Sat, 07 Oct 2017 00:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-branching-out-with-advanced-threat-protection-services/</guid>
+      <description>Microsoft described Azure ATP for Users as a new cloud service for finding &amp;ldquo;advanced attacks and insider threats&amp;rdquo; in a network. It profiles user &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Samsung Galaxy S8 and Note 8 smartphones can now run Windows 10 more easily</title>
@@ -8545,16 +8555,6 @@ Brush up your cloud automation and orchestration skills Other tools, such as Goo
       
       <guid>//crypt0.net/post/microsoft-intune-gets-security-boost-with-zimperium-support/</guid>
       <description>In May, Zimperium had announced that its Mobile Threat Defense solution was integrated with the Microsoft Azure cloud service to ward off &amp;ldquo;real-time&amp;rdquo; &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>One-Click React Native Starter Project Now on AWS Cloud</title>
-      <link>//crypt0.net/post/oneclick-react-native-starter-project-now-on-aws-cloud/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/oneclick-react-native-starter-project-now-on-aws-cloud/</guid>
-      <description>One of the hottest mobile app development tools is now available on the Amazon Web Services Inc. (AWS) cloud in an open source starter project &amp;hellip; more.
 @crypt0net</description>
     </item>
     

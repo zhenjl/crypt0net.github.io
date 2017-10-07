@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 07 Oct 2017 00:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Oct 2017 00:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Branching Out with Advanced Threat Protection Services</title>
+      <link>//crypt0.net/post/microsoft-branching-out-with-advanced-threat-protection-services/</link>
+      <pubDate>Sat, 07 Oct 2017 00:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-branching-out-with-advanced-threat-protection-services/</guid>
+      <description>Microsoft described Azure ATP for Users as a new cloud service for finding &amp;ldquo;advanced attacks and insider threats&amp;rdquo; in a network. It profiles user &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Cyber security seminar in Shenandoah next Sunday</title>
@@ -21500,46 +21510,6 @@
       <guid>//crypt0.net/post/y-combinator-president-calls-icos-a-bubble--but-his-firm-might-use/</guid>
       <description>CoinDesk Y Combinator, the Silicon Valley-based startup accelerator, is looking at blockchain as a possible way to boost access for investors. Sam Altman, who &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Opinion A 9-step guide to prepare for GDPR compliance</title>
-      <link>//crypt0.net/post/opinion-a-9step-guide-to-prepare-for-gdpr-compliance/</link>
-      <pubDate>Fri, 22 Sep 2017 00:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/opinion-a-9step-guide-to-prepare-for-gdpr-compliance/</guid>
-      <description>Among other things, organizations will be required to maintain a data breach detection plan, regularly evaluate the effectiveness of security practices, &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>One-Click React Native Starter Project Now on AWS Cloud</title>
-      <link>//crypt0.net/post/oneclick-react-native-starter-project-now-on-aws-cloud/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/oneclick-react-native-starter-project-now-on-aws-cloud/</guid>
-      <description>One of the hottest mobile app development tools is now available on the Amazon Web Services Inc. (AWS) cloud in an open source starter project &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>SEC under fire for being hacked despite warnings on security</title>
-      <link>//crypt0.net/post/sec-under-fire-for-being-hacked-despite-warnings-on-security/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sec-under-fire-for-being-hacked-despite-warnings-on-security/</guid>
-      <description>&amp;hellip; an attorney at Dorsey &amp;amp; Whitney and former trial attorney for the Justice Department, whose work includes cybersecurity and data breaches. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>State rep&#39;s bill would require public notification of data breaches</title>
-      <link>//crypt0.net/post/state-reps-bill-would-require-public-notification-of-data-breaches/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/state-reps-bill-would-require-public-notification-of-data-breaches/</guid>
-      <description>This proposal simply requires information about data breaches be disclosed on entities&amp;rsquo; websites and reported to the Michigan attorney general. &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
