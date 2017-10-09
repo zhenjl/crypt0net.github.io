@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 09 Oct 2017 06:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2017 07:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FlashGrid Automates Provisioning of HA Database Clusters in Azure</title>
+      <link>//crypt0.net/post/flashgrid-automates-provisioning-of-ha-database-clusters-in-azure/</link>
+      <pubDate>Mon, 09 Oct 2017 07:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/flashgrid-automates-provisioning-of-ha-database-clusters-in-azure/</guid>
+      <description>FlashGrid has released an online tool for configuring and deploying Oracle RAC clusters in Microsoft Azure cloud. FlashGrid Cloud Provisioning for &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Bentley AssetWise Users to Benefit from Situational Intelligence through</title>
