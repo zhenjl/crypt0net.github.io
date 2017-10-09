@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 09 Oct 2017 15:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2017 16:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hackers took advantage of companies on Amazon&#39;s cloud to mine Bitcoin</title>
+      <link>//crypt0.net/post/hackers-took-advantage-of-companies-on-amazons-cloud-to-mine-bitcoin/</link>
+      <pubDate>Mon, 09 Oct 2017 16:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/hackers-took-advantage-of-companies-on-amazons-cloud-to-mine-bitcoin/</guid>
+      <description>The security firm also found that a number of Kubernetes consoles on Microsoft Azure and Google Cloud were also not password protected, on top of &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Digitalization is main topic at Bentley&#39;s Year in Infrastructure Conference</title>
@@ -29,16 +39,6 @@
       
       <guid>//crypt0.net/post/faqs-time-stamps-date-differentials-and-finding-an-entry-in-an-arrray/</guid>
       <description>Windows IT Pro Home &amp;gt; Cloud &amp;amp; Data Center &amp;gt; Microsoft Azure &amp;gt; FAQs: Time Stamps, Date Differentials, and Finding an Entry in an Arrray with PowerShell &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Hackers took advantage of companies on Amazon&#39;s cloud to mine Bitcoin</title>
-      <link>//crypt0.net/post/hackers-took-advantage-of-companies-on-amazons-cloud-to-mine-bitcoin/</link>
-      <pubDate>Mon, 09 Oct 2017 15:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hackers-took-advantage-of-companies-on-amazons-cloud-to-mine-bitcoin/</guid>
-      <description>The security firm also found that a number of Kubernetes consoles on Microsoft Azure and Google Cloud were also not password protected, on top of &amp;hellip; more.
 @crypt0net</description>
     </item>
     
