@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 09 Oct 2017 20:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2017 21:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building reliable deployments with Spinnaker, Container Engine and</title>
+      <link>//crypt0.net/post/building-reliable-deployments-with-spinnaker-container-engine-and/</link>
+      <pubDate>Mon, 09 Oct 2017 21:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/building-reliable-deployments-with-spinnaker-container-engine-and/</guid>
+      <description>By Vic Iglesias, Cloud Solutions Architect Kubernetes has some amazing primitives to help you deploy your applications, which let Kubernetes handle &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>AWS Cloud Hacked by Bitcoin Miners</title>
