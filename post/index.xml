@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 09 Oct 2017 18:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2017 18:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Point-to-Site (P2S) connection using OpenVPN infrastructure</title>
+      <link>//crypt0.net/post/pointtosite-p2s-connection-using-openvpn-infrastructure/</link>
+      <pubDate>Mon, 09 Oct 2017 18:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/pointtosite-p2s-connection-using-openvpn-infrastructure/</guid>
+      <description>(P2S) connection from a client computer based on a Unix-like operating &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Blockchain technology has potential to create wonders: CM Naidu</title>
