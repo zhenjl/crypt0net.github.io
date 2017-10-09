@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 09 Oct 2017 18:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2017 18:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hackers took advantage of companies on Amazon&#39;s cloud to mine Bitcoin</title>
+      <link>//crypt0.net/post/hackers-took-advantage-of-companies-on-amazons-cloud-to-mine-bitcoin/</link>
+      <pubDate>Mon, 09 Oct 2017 18:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/hackers-took-advantage-of-companies-on-amazons-cloud-to-mine-bitcoin/</guid>
+      <description>Bitcoin At least two multi-billion-dollar companies have been hacked in order to use their Amazon Web Services (AWS) computing resources to mine &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>The five most common OpenStack questions, answered</title>
@@ -140,16 +150,6 @@ Amazon Mulls Expanding Into Prescription Drug Business Amazon already has a stak
       
       <guid>//crypt0.net/post/standardizing-and-securing-navy-systems-in-the-cloud/</guid>
       <description>&amp;hellip; systems, mobile apps, and training systems and materials for people in the field in one place on Amazon Web Services&amp;rsquo; GovCloud infrastructure. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Hackers took advantage of companies on Amazon&#39;s cloud to mine Bitcoin</title>
-      <link>//crypt0.net/post/hackers-took-advantage-of-companies-on-amazons-cloud-to-mine-bitcoin/</link>
-      <pubDate>Mon, 09 Oct 2017 16:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hackers-took-advantage-of-companies-on-amazons-cloud-to-mine-bitcoin/</guid>
-      <description>The security firm also found that a number of Kubernetes consoles on Microsoft Azure and Google Cloud were also not password protected, on top of &amp;hellip; more.
 @crypt0net</description>
     </item>
     
