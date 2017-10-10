@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 10 Oct 2017 18:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2017 18:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Public Cloud Doesn&#39;t Dominate IT Quite Yet</title>
+      <link>//crypt0.net/post/public-cloud-doesnt-dominate-it-quite-yet/</link>
+      <pubDate>Tue, 10 Oct 2017 18:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/public-cloud-doesnt-dominate-it-quite-yet/</guid>
+      <description>&amp;hellip; necessary interconnection sold on public clouds like Amazon Web Services, Microsoft Azure, Google Cloud Platform, Alibaba Cloud, IBM Bluemix &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>California Tech Company Offers Data Storage-as-a-Service Disaster Relief to</title>
@@ -29,16 +39,6 @@
       
       <guid>//crypt0.net/post/leverage-openstack-for-your-production-workloads/</guid>
       <description>applications on top of an open source platform, also known to be the industry &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Public Cloud Doesn&#39;t Dominate IT Quite Yet</title>
-      <link>//crypt0.net/post/public-cloud-doesnt-dominate-it-quite-yet/</link>
-      <pubDate>Tue, 10 Oct 2017 18:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/public-cloud-doesnt-dominate-it-quite-yet/</guid>
-      <description>&amp;hellip; necessary interconnection sold on public clouds like Amazon Web Services, Microsoft Azure, Google Cloud Platform, Alibaba Cloud, IBM Bluemix &amp;hellip; more.
 @crypt0net</description>
     </item>
     
