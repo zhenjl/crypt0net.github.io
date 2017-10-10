@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 10 Oct 2017 13:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2017 17:10:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IBM Z: Tackling Data Breaches through Encrypted Transactions</title>
+      <link>//crypt0.net/post/ibm-z-tackling-data-breaches-through-encrypted-transactions/</link>
+      <pubDate>Tue, 10 Oct 2017 17:10:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/ibm-z-tackling-data-breaches-through-encrypted-transactions/</guid>
+      <description>has launched a new mainframe data encryption system called IBM Z. more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Accenture left a huge trove of highly sensitive data on exposed servers</title>
