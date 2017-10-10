@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 10 Oct 2017 12:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2017 13:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Salesforce takes another shot at IoT</title>
+      <link>//crypt0.net/post/salesforce-takes-another-shot-at-iot/</link>
+      <pubDate>Tue, 10 Oct 2017 13:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/salesforce-takes-another-shot-at-iot/</guid>
+      <description>Everyone wants a piece of the Internet of Things, and why not? If predictions come to fruition, there are going to be billions and billions of devices and &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Tech companies to create SEP code of conduct</title>
+      <link>//crypt0.net/post/tech-companies-to-create-sep-code-of-conduct/</link>
+      <pubDate>Tue, 10 Oct 2017 13:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/tech-companies-to-create-sep-code-of-conduct/</guid>
+      <description>According to IP Europe, the goal is to help technology contributors and users in the internet of things ecosystem find Fair, Reasonable and &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Tenna Brings IoT, RFID to Industrial Asset Tracking</title>
+      <link>//crypt0.net/post/tenna-brings-iot-rfid-to-industrial-asset-tracking/</link>
+      <pubDate>Tue, 10 Oct 2017 13:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/tenna-brings-iot-rfid-to-industrial-asset-tracking/</guid>
+      <description>&amp;hellip; has launched an updated version of its solution that employs radio frequency identification and other Internet of Things (IoT) technologies to help its &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>4 Microsoft Azure Security Features to Give You Peace of Mind</title>
@@ -22994,46 +23024,6 @@ Equifax data breach could have effect for years to come In many previous data br
       <guid>//crypt0.net/post/weather-source-brings-big-weather-data-to-google-cloud-platform/</guid>
       <description>Weather Source, a leading provider of past, present and forecast weather data, recently made OnPoint Weather available through Google Cloud &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Osirium Technologies Pleased With Strong Interim Sales, Loss Widens</title>
-      <link>//crypt0.net/post/osirium-technologies-pleased-with-strong-interim-sales-loss-widens/</link>
-      <pubDate>Mon, 25 Sep 2017 13:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/osirium-technologies-pleased-with-strong-interim-sales-loss-widens/</guid>
-      <description>Guyatt said that an increase in high profile data breaches and the impending in implementation of general data protection regulation from May 2018, &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Yubico Launches the YubiKey 4C Nano, the World&#39;s Smallest USB-C</title>
-      <link>//crypt0.net/post/yubico-launches-the-yubikey-4c-nano-the-worlds-smallest-usbc/</link>
-      <pubDate>Mon, 25 Sep 2017 13:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/yubico-launches-the-yubikey-4c-nano-the-worlds-smallest-usbc/</guid>
-      <description>GlobeNewswire (press release) As we continue to see an onslaught of hacks and data breaches resulting from weak or stolen login credentials, two-factor authentication with the &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Schneider Electric&#39;s PacDrive 3: Smart machine drive for safe and flexible</title>
-      <link>//crypt0.net/post/schneider-electrics-pacdrive-3-smart-machine-drive-for-safe-and-flexible/</link>
-      <pubDate>Mon, 25 Sep 2017 12:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/schneider-electrics-pacdrive-3-smart-machine-drive-for-safe-and-flexible/</guid>
-      <description>Design World Network &amp;hellip; standard for vertical integration. By combining C2C and OPC UA on the PacDrive 3 controllers, the basis for machine-to-machine communication is &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>v5.8.0 sonoff.bin missing</title>
-      <link>//crypt0.net/post/v580-sonoffbin-missing/</link>
-      <pubDate>Mon, 25 Sep 2017 12:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/v580-sonoffbin-missing/</guid>
-      <description>v5.8.0 sonoff.bin missing &amp;ldquo;/&amp;rdquo; in mqtt state messages causes failed read in &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>
