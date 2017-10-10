@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 10 Oct 2017 09:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2017 09:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Customizing Stackdriver Logs for Container Engine with Fluentd</title>
+      <link>//crypt0.net/post/customizing-stackdriver-logs-for-container-engine-with-fluentd/</link>
+      <pubDate>Tue, 10 Oct 2017 09:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/customizing-stackdriver-logs-for-container-engine-with-fluentd/</guid>
+      <description>workloads to Container Engine, our managed Kubernetes environment. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>KnowBe4 Announces Growth and Focus on European Market</title>
@@ -23074,26 +23084,6 @@ Equifax data breach could have effect for years to come In many previous data br
       <guid>//crypt0.net/post/revealed-tfl-and-met-hit-by-hundreds-of-personal-data-leaks/</guid>
       <description>Part of the problem is everybody is focusing on big cyber hacks and criminal actions&amp;hellip; but I can tell you that 95 per cent of the data breaches that are &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>In the Works  AWS Region in the Middle East</title>
-      <link>//crypt0.net/post/in-the-works--aws-region-in-the-middle-east/</link>
-      <pubDate>Mon, 25 Sep 2017 09:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/in-the-works--aws-region-in-the-middle-east/</guid>
-      <description>the United States, and announced that new regions are coming to &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Miracle Framework for Microsoft Azure and Power BI</title>
-      <link>//crypt0.net/post/miracle-framework-for-microsoft-azure-and-power-bi/</link>
-      <pubDate>Mon, 25 Sep 2017 09:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/miracle-framework-for-microsoft-azure-and-power-bi/</guid>
-      <description>Power BI, which defines an approach for enabling self-service analytics, &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
