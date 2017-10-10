@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 10 Oct 2017 07:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2017 07:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Serverless Analytics with Amazon Redshift Spectrum, AWS Glue, and Ama</title>
+      <link>//crypt0.net/post/serverless-analytics-with-amazon-redshift-spectrum-aws-glue-and-ama/</link>
+      <pubDate>Tue, 10 Oct 2017 07:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/serverless-analytics-with-amazon-redshift-spectrum-aws-glue-and-ama/</guid>
+      <description>Snively, Specialist Solutions Architect Data and Analytics October 12, 2017 &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Going Digital: Bentley Announces Microsoft Azure-based Cloud Services</title>
