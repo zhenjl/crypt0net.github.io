@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 11 Oct 2017 22:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2017 22:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Container Runtime Brings Greater Flexibility to Kubernetes and BOSH</title>
+      <link>//crypt0.net/post/container-runtime-brings-greater-flexibility-to-kubernetes-and-bosh/</link>
+      <pubDate>Wed, 11 Oct 2017 22:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/container-runtime-brings-greater-flexibility-to-kubernetes-and-bosh/</guid>
+      <description>CFCR now provides default support for persistence of Google Cloud Platform, Amazon Web Services and Vsphere. &amp;ldquo;Application Runtime is the &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Informatica to Accelerate Microsoft Azure Customer Deployments</title>
+      <link>//crypt0.net/post/informatica-to-accelerate-microsoft-azure-customer-deployments/</link>
+      <pubDate>Wed, 11 Oct 2017 22:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/informatica-to-accelerate-microsoft-azure-customer-deployments/</guid>
+      <description>Microsoft Corp. said, Customers choose Microsoft Azure for it is productivity, &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>The Promise of P4 Runtime and How It&#39;s Propelling the ONF</title>
+      <link>//crypt0.net/post/the-promise-of-p4-runtime-and-how-its-propelling-the-onf/</link>
+      <pubDate>Wed, 11 Oct 2017 22:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-promise-of-p4-runtime-and-how-its-propelling-the-onf/</guid>
+      <description>Just last week, Google Cloud and Barefoot Networks announced they had created an open source P4 Runtime application programming interface &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Leverage OpenStack for your Production Workloads</title>
@@ -160,16 +190,6 @@
       <guid>//crypt0.net/post/why-blockchain-technology-and-p2p-platforms-are-natural-allies/</guid>
       <description>Blockchain technology is mostly understood in the context of cryptocurrencies such as Bitcoin, Ethereum, and Dogecoin. This arguably undersells its &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Informatica to Accelerate Microsoft Azure Customer Deployments</title>
-      <link>//crypt0.net/post/informatica-to-accelerate-microsoft-azure-customer-deployments/</link>
-      <pubDate>Wed, 11 Oct 2017 21:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/informatica-to-accelerate-microsoft-azure-customer-deployments/</guid>
-      <description>Informatica, the Enterprise Cloud Data Management leader accelerating data-driven digital transformation, today announced it is working with &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
