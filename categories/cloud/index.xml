@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 11 Oct 2017 23:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2017 23:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Container Runtime Brings Greater Flexibility to Kubernetes and BOSH</title>
+      <link>//crypt0.net/post/container-runtime-brings-greater-flexibility-to-kubernetes-and-bosh/</link>
+      <pubDate>Wed, 11 Oct 2017 23:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/container-runtime-brings-greater-flexibility-to-kubernetes-and-bosh/</guid>
+      <description>CFCR now provides default support for persistence of Google Cloud Platform, Amazon Web Services and Vsphere. &amp;ldquo;Application Runtime is the &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Azure September 2017 Software Defined Data Infrastructure Updates</title>
@@ -39,16 +49,6 @@
       
       <guid>//crypt0.net/post/more-than-316000-patient-blood-tests-exposed-in-breach-linked-to-home/</guid>
       <description>FierceHealthcare Bob Diachenko, chief security communications officer at Kromtech Security, told FierceHealthcare the repository hosted on Amazon Web Services was &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Container Runtime Brings Greater Flexibility to Kubernetes and BOSH</title>
-      <link>//crypt0.net/post/container-runtime-brings-greater-flexibility-to-kubernetes-and-bosh/</link>
-      <pubDate>Wed, 11 Oct 2017 22:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/container-runtime-brings-greater-flexibility-to-kubernetes-and-bosh/</guid>
-      <description>CFCR now provides default support for persistence of Google Cloud Platform, Amazon Web Services and Vsphere. &amp;ldquo;Application Runtime is the &amp;hellip; more.
 @crypt0net</description>
     </item>
     
