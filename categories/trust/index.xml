@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 11 Oct 2017 11:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2017 12:10:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accenture Exposes Sensitive Data On Unprotected AWS Servers</title>
+      <link>//crypt0.net/post/accenture-exposes-sensitive-data-on-unprotected-aws-servers/</link>
+      <pubDate>Wed, 11 Oct 2017 12:10:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/accenture-exposes-sensitive-data-on-unprotected-aws-servers/</guid>
+      <description>It comes as rules concerning data breaches of customer data tighten up under the incoming GDPR rules, and could result in large fines for companies &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Data Breach Notification Most Clicked Subject in Phishing Tests</title>
