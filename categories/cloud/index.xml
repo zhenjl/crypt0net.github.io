@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 11 Oct 2017 18:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2017 18:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OnePlus Phones Collecting Users&#39; Private Data without Permission</title>
+      <link>//crypt0.net/post/oneplus-phones-collecting-users-private-data-without-permission/</link>
+      <pubDate>Wed, 11 Oct 2017 18:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/oneplus-phones-collecting-users-private-data-without-permission/</guid>
+      <description>&amp;hellip; Moore reported discovering that his OnePlus 2 phone was sending a large amount of activity data to an Amazon Web Services (AWS) server. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Box adds AI to automate content analysis of cloud files</title>
@@ -9337,36 +9347,6 @@ Google Cloud acquires cloud identity management company Bitium Google Cloud anno
       
       <guid>//crypt0.net/post/amazon-web-services-announces-the-opening-of-data-centers-in-the-middle/</guid>
       <description>Amazon Web Services Announces the Opening of Data Centers in the Middle East by Early 2019. New AWS Infrastructure will enable customers to &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google acquires Bitium to boost its cloud identity management capabilities</title>
-      <link>//crypt0.net/post/google-acquires-bitium-to-boost-its-cloud-identity-management-capabilities/</link>
-      <pubDate>Tue, 26 Sep 2017 18:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-acquires-bitium-to-boost-its-cloud-identity-management-capabilities/</guid>
-      <description>Google today announced it is acquiring Bitium. Financial details were not disclosed, but Bitium will be joining the Google Cloud team. Founded in &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft&#39;s quantum future, Red Hat launches Enterprise Linux for SAP</title>
-      <link>//crypt0.net/post/microsofts-quantum-future-red-hat-launches-enterprise-linux-for-sap/</link>
-      <pubDate>Tue, 26 Sep 2017 18:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsofts-quantum-future-red-hat-launches-enterprise-linux-for-sap/</guid>
-      <description>SDTimes.com Network visibility and security solution developer Ixia announced support for Microsoft Azure, Google Cloud Platform, IBM Bluemix and Alibaba Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>SAP on Google Cloud Platformnew certifications and more</title>
-      <link>//crypt0.net/post/sap-on-google-cloud-platformnew-certifications-and-more/</link>
-      <pubDate>Tue, 26 Sep 2017 18:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sap-on-google-cloud-platformnew-certifications-and-more/</guid>
-      <description>applications. Last spring, we joined forces with SAP to help you run your &amp;hellip; more.
 @crypt0net</description>
     </item>
     

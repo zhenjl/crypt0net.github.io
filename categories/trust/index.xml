@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 11 Oct 2017 18:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2017 18:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unsecure data repositories to blame for recent data breaches</title>
+      <link>//crypt0.net/post/unsecure-data-repositories-to-blame-for-recent-data-breaches/</link>
+      <pubDate>Wed, 11 Oct 2017 18:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/unsecure-data-repositories-to-blame-for-recent-data-breaches/</guid>
+      <description>unsecured Amazon S3 repository leaked an estimated 47 gigabytes of &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Daily Security News from @trustpath - Oct 11, 2017</title>
