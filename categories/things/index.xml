@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 12 Oct 2017 06:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2017 06:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech Talk replay: Blockchain to Docker, with scalability and security from</title>
+      <link>//crypt0.net/post/tech-talk-replay-blockchain-to-docker-with-scalability-and-security-from/</link>
+      <pubDate>Thu, 12 Oct 2017 06:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/tech-talk-replay-blockchain-to-docker-with-scalability-and-security-from/</guid>
+      <description>Recorded: Oct. 11, 2017. This talk goes into the process of building chain code and using Docker containers at scale. Discover how to use &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>My Journey into the Cloud (19): A simple web server using the ESP32</title>
