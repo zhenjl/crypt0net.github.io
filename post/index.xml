@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 12 Oct 2017 12:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2017 12:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,20 @@
     <item>
       <title>IBM Combines PowerAI, Data Science Experience in Enterprise AI Push</title>
       <link>//crypt0.net/post/ibm-combines-powerai-data-science-experience-in-enterprise-ai-push/</link>
-      <pubDate>Thu, 12 Oct 2017 12:20:02 +0000</pubDate>
+      <pubDate>Thu, 12 Oct 2017 12:30:02 +0000</pubDate>
       
       <guid>//crypt0.net/post/ibm-combines-powerai-data-science-experience-in-enterprise-ai-push/</guid>
-      <description>&amp;hellip; cloud providers like Amazon Web Services (AWS), Microsoft Azure and Google Cloud. IBM also has put many of its capabilities into its own cloud. more.
+      <description>&amp;hellip; have been done in the cloud, promoted by hyperscale cloud providers like Amazon Web Services (AWS), Microsoft Azure and Google Cloud. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Why cloud rivals are laying down their arms and calling a truce</title>
+      <link>//crypt0.net/post/why-cloud-rivals-are-laying-down-their-arms-and-calling-a-truce/</link>
+      <pubDate>Thu, 12 Oct 2017 12:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/why-cloud-rivals-are-laying-down-their-arms-and-calling-a-truce/</guid>
+      <description>&amp;hellip; market leader Amazon Web Services (AWS) alongside fast-growing competitors Microsoft Azure and Google with its Google Cloud Platform (GCP). more.
 @crypt0net</description>
     </item>
     
@@ -180,16 +190,6 @@
       <guid>//crypt0.net/post/support-a-command-to-configure-whether-tasmota-sets-the-mqtt-retain-flag-on/</guid>
       <description>It would be useful if there was an EnergyRetain command that allowed the MQTT retain flag to be sent on messages such as this one: more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Why cloud rivals are laying down their arms and calling a truce</title>
-      <link>//crypt0.net/post/why-cloud-rivals-are-laying-down-their-arms-and-calling-a-truce/</link>
-      <pubDate>Thu, 12 Oct 2017 11:10:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-cloud-rivals-are-laying-down-their-arms-and-calling-a-truce/</guid>
-      <description>600m-plus service provider Daisy recently announced an overhaul of its approach, forming a tight partnership with Microsoft Azure that will see it &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -24130,76 +24130,6 @@
       <guid>//crypt0.net/post/veeam-extends-no-1-availability-solutions-to-microsoft-azure-st/</guid>
       <description>Enterprise innovator, today announced its support for Microsoft Azure Stack &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Boston&#39;s High-Tech Plan to Tackle Income Inequality</title>
-      <link>//crypt0.net/post/bostons-hightech-plan-to-tackle-income-inequality/</link>
-      <pubDate>Wed, 27 Sep 2017 12:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/bostons-hightech-plan-to-tackle-income-inequality/</guid>
-      <description>Hype about using enormous sets of sensor-collected data to drive results in US cities is getting pretty thick. Local government officials across the &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Case Study: Using the Internet of Things to compete with the best</title>
-      <link>//crypt0.net/post/case-study-using-the-internet-of-things-to-compete-with-the-best/</link>
-      <pubDate>Wed, 27 Sep 2017 12:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/case-study-using-the-internet-of-things-to-compete-with-the-best/</guid>
-      <description>In a world advancing in technology as quickly as ours, the Internet of Things (IoT) is destined to make a meaningful and resounding impact on nearly &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Deloitte Breach: Simple Oversight, Major Consequences</title>
-      <link>//crypt0.net/post/deloitte-breach-simple-oversight-major-consequences/</link>
-      <pubDate>Wed, 27 Sep 2017 12:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/deloitte-breach-simple-oversight-major-consequences/</guid>
-      <description>&amp;ldquo;The data breaches for Deloitte, Equifax, or Uber can prove to be catastrophic, but it hasn&amp;rsquo;t always done so, said Jamal Hartenstein, Data Privacy &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>How the Internet of Things has Changed Computer Forensics</title>
-      <link>//crypt0.net/post/how-the-internet-of-things-has-changed-computer-forensics/</link>
-      <pubDate>Wed, 27 Sep 2017 12:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-the-internet-of-things-has-changed-computer-forensics/</guid>
-      <description>how data is recorded and stored on IoT devices and how companies use &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Semiconductor Wireless Sensor Internet of Things (IoT) Sales Market</title>
-      <link>//crypt0.net/post/semiconductor-wireless-sensor-internet-of-things-iot-sales-market/</link>
-      <pubDate>Wed, 27 Sep 2017 12:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/semiconductor-wireless-sensor-internet-of-things-iot-sales-market/</guid>
-      <description>E News Access (press release) Global Semiconductor Wireless Sensor Internet of Things (IoT) Sales Market Research Report 2017 to 2022 presents an assessment of the &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Vodacom Passes 3 Million Internet of Things Connections</title>
-      <link>//crypt0.net/post/vodacom-passes-3-million-internet-of-things-connections/</link>
-      <pubDate>Wed, 27 Sep 2017 12:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vodacom-passes-3-million-internet-of-things-connections/</guid>
-      <description>Vodacom announced on Wednesday that it has exceeded 3 million Internet of Things (IoT) connections in South Africa. The Vodafone-owned mobile &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Vodafone share price: Merger in India to be &#39;next exciting chapter&#39;</title>
-      <link>//crypt0.net/post/vodafone-share-price-merger-in-india-to-be-next-exciting-chapter/</link>
-      <pubDate>Wed, 27 Sep 2017 12:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vodafone-share-price-merger-in-india-to-be-next-exciting-chapter/</guid>
-      <description>&amp;hellip; added that the company will look beyond voice, more into mobile data, in converse services, in cloud services, in IOT, and in machine to machine. more.
-@surgethings</description>
     </item>
     
   </channel>
