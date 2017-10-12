@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 12 Oct 2017 05:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2017 06:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Journey into the Cloud (19): A simple web server using the ESP32</title>
+      <link>//crypt0.net/post/my-journey-into-the-cloud-19-a-simple-web-server-using-the-esp32/</link>
+      <pubDate>Thu, 12 Oct 2017 06:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/my-journey-into-the-cloud-19-a-simple-web-server-using-the-esp32/</guid>
+      <description>In the last episode of this series, we used the MQTT protocol to pass messages containing measurement values and commands between different &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Air France Tests the Blockchain to Trace Aviation Supply Chain</title>
@@ -24230,36 +24240,6 @@
       <guid>//crypt0.net/post/welcome-to-the-game-of-phones/</guid>
       <description>Obviously, that contributes a massive chunk, but other future business models based on machine-to-machine systems will be here to challenge data &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud says it&#39;s first-to per-second cloud server billing, twice</title>
-      <link>//crypt0.net/post/google-cloud-says-its-firstto-persecond-cloud-server-billing-twice/</link>
-      <pubDate>Wed, 27 Sep 2017 06:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-says-its-firstto-persecond-cloud-server-billing-twice/</guid>
-      <description>Google Cloud started charging by the second for all of its cloudy VMs as of Tuesday, September 26th US time. The company&amp;rsquo;s Compute Engine, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>ChannelLife Australia - SonicWall unveils &#39;biggest innovations in company&#39;s</title>
-      <link>//crypt0.net/post/channellife-australia--sonicwall-unveils-biggest-innovations-in-companys/</link>
-      <pubDate>Wed, 27 Sep 2017 05:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/channellife-australia--sonicwall-unveils-biggest-innovations-in-companys/</guid>
-      <description>ChannelLife Australia This automated, real-time breach detection and prevention platform ensures organisations can build smart, consistent and sound security postures &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>SonicWall Releases A Slew Of New Products</title>
-      <link>//crypt0.net/post/sonicwall-releases-a-slew-of-new-products/</link>
-      <pubDate>Wed, 27 Sep 2017 05:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sonicwall-releases-a-slew-of-new-products/</guid>
-      <description>This firewall promises to deliver automated, real-time breach detection and prevention, as well as TLS/SSL decryption and inspection, over &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>

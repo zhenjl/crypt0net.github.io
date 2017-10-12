@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 12 Oct 2017 05:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2017 06:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Journey into the Cloud (19): A simple web server using the ESP32</title>
+      <link>//crypt0.net/post/my-journey-into-the-cloud-19-a-simple-web-server-using-the-esp32/</link>
+      <pubDate>Thu, 12 Oct 2017 06:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/my-journey-into-the-cloud-19-a-simple-web-server-using-the-esp32/</guid>
+      <description>In the last episode of this series, we used the MQTT protocol to pass messages containing measurement values and commands between different &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Air France Tests the Blockchain to Trace Aviation Supply Chain</title>
