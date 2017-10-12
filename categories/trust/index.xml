@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 12 Oct 2017 03:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2017 04:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Machine Learning is Helping Combat Insider Threats</title>
+      <link>//crypt0.net/post/how-machine-learning-is-helping-combat-insider-threats/</link>
+      <pubDate>Thu, 12 Oct 2017 04:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-machine-learning-is-helping-combat-insider-threats/</guid>
+      <description>Another tool gaining traction in the federal space is Sqrrl&amp;rsquo;s Threat Hunting Platform, built on a foundation of Apache Hadoop and Accumulo, an open &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>WhiteHat Launches New Partner Network for Resellers, SIs, Tech Partners</title>
