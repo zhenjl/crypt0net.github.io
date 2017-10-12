@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 12 Oct 2017 18:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2017 19:00:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mixing Public Cloud Services for Multicloud Workloads</title>
+      <link>//crypt0.net/post/mixing-public-cloud-services-for-multicloud-workloads/</link>
+      <pubDate>Thu, 12 Oct 2017 19:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mixing-public-cloud-services-for-multicloud-workloads/</guid>
+      <description>The two services that Amazon AWS, Microsoft Azure, and Google Cloud Platform have become known for over the years, are hosting virtual machines &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Machine Learning Helps Box Make Cloud Storage Smarter</title>
