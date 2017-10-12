@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 12 Oct 2017 11:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2017 11:10:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Support a command to configure whether Tasmota sets the MQTT retain flag on</title>
+      <link>//crypt0.net/post/support-a-command-to-configure-whether-tasmota-sets-the-mqtt-retain-flag-on/</link>
+      <pubDate>Thu, 12 Oct 2017 11:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/support-a-command-to-configure-whether-tasmota-sets-the-mqtt-retain-flag-on/</guid>
+      <description>It would be useful if there was an EnergyRetain command that allowed the MQTT retain flag to be sent on messages such as this one: more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Global Internet of Things market to hit $1.29 trillion by 2020: Report</title>
