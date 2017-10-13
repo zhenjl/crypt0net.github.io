@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Oct 2017 12:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2017 12:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FAQs: Passwords &amp; Replicated Accts, Guest Access to Azure Service,</title>
+      <link>//crypt0.net/post/faqs-passwords--replicated-accts-guest-access-to-azure-service/</link>
+      <pubDate>Fri, 13 Oct 2017 12:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/faqs-passwords--replicated-accts-guest-access-to-azure-service/</guid>
+      <description>WindowsItPro Q. I am replicating accounts from AD to Azure AD however when the password expires in AD the user is not prompted to change via Azure AD, why? more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>60-65% startups in India working on Internet on Things: Aeris&#39;s President</title>
