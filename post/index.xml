@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Oct 2017 20:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2017 20:40:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>5 Companies That Had A Rough Week</title>
+      <link>//crypt0.net/post/5-companies-that-had-a-rough-week/</link>
+      <pubDate>Fri, 13 Oct 2017 20:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/5-companies-that-had-a-rough-week/</guid>
+      <description>&amp;hellip; which this week found itself in the embarrassing position of having to answer for leaving private data unprotected on Amazon Web Services servers. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Salesforce Reshuffles SaaS, PaaS in Internet of Things and AI</title>
+      <link>//crypt0.net/post/salesforce-reshuffles-saas-paas-in-internet-of-things-and-ai/</link>
+      <pubDate>Fri, 13 Oct 2017 20:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/salesforce-reshuffles-saas-paas-in-internet-of-things-and-ai/</guid>
+      <description>The line of demarcation between PaaS and Infrastructure as a Service offerings from Amazon Web Services, Microsoft Azure and other cloud service &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>While Amazon and Microsoft battle in the cloud wars, this startup quietly</title>
+      <link>//crypt0.net/post/while-amazon-and-microsoft-battle-in-the-cloud-wars-this-startup-quietly/</link>
+      <pubDate>Fri, 13 Oct 2017 20:40:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/while-amazon-and-microsoft-battle-in-the-cloud-wars-this-startup-quietly/</guid>
+      <description>Business Insider DigitalOcean is a cloud computing startup based in New York, competing with Amazon Web Services and Microsoft Azure by focusing on smaller &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Cellular IoT Industry Europe and Regional Market Growth, Analysis</title>
@@ -29,16 +59,6 @@
       
       <guid>//crypt0.net/post/azure-stack-and-comparisons-with-eucalyptus/</guid>
       <description>Azure Stack is a Microsoft offering that (although Microsoft themselves surely hates the metaphor) can be thought of as Azure in a box. Azure Stack &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Salesforce Reshuffles SaaS, PaaS in Internet of Things and AI</title>
-      <link>//crypt0.net/post/salesforce-reshuffles-saas-paas-in-internet-of-things-and-ai/</link>
-      <pubDate>Fri, 13 Oct 2017 20:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/salesforce-reshuffles-saas-paas-in-internet-of-things-and-ai/</guid>
-      <description>The line of demarcation between PaaS and Infrastructure as a Service offerings from Amazon Web Services, Microsoft Azure and other cloud service &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -24470,56 +24490,6 @@
       <guid>//crypt0.net/post/senator-brooks-sponsors-legislation-to-protect-consumers-from-data-breaches/</guid>
       <description>The legislation would require consumer credit reporting agencies to disclose data breaches within 15 days of discovery (S6880). It would also place &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>5 Key Elements Of VMware&#39;s &#39;Containers And Virtual Machines&#39; Strategy</title>
-      <link>//crypt0.net/post/5-key-elements-of-vmwares-containers-and-virtual-machines-strategy/</link>
-      <pubDate>Thu, 28 Sep 2017 20:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/5-key-elements-of-vmwares-containers-and-virtual-machines-strategy/</guid>
-      <description>&amp;hellip; and Google Cloud last month, and arguing that containers work better and are more easily managed when they&amp;rsquo;re inside vSphere virtual machines. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Arm-based IoT Kit for Cloud IoT Core</title>
-      <link>//crypt0.net/post/armbased-iot-kit-for-cloud-iot-core/</link>
-      <pubDate>Thu, 28 Sep 2017 20:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/armbased-iot-kit-for-cloud-iot-core/</guid>
-      <description>Today we are announcing support for the public beta of Google Cloud IoT Core, a fully managed service on Google Cloud Platform (GCP), to securely &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Dialpad raises $17 million in follow-on round, adds Bill Maris&#39; Section 32</title>
-      <link>//crypt0.net/post/dialpad-raises-17-million-in-followon-round-adds-bill-maris-section-32/</link>
-      <pubDate>Thu, 28 Sep 2017 20:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/dialpad-raises-17-million-in-followon-round-adds-bill-maris-section-32/</guid>
-      <description>VentureBeat Dialpad operates across nine data centers around the world, hosted on the Google Cloud Platform. Pricing plans range from $15 to $35 a month on an &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>GlobalSign to Participate in Joint Demonstration Aimed at Improving</title>
-      <link>//crypt0.net/post/globalsign-to-participate-in-joint-demonstration-aimed-at-improving/</link>
-      <pubDate>Thu, 28 Sep 2017 20:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/globalsign-to-participate-in-joint-demonstration-aimed-at-improving/</guid>
-      <description>Broadway World 27, 2017 /PRNewswire/ GMO GlobalSign (www.globalsign.com), a leading provider of identity and security solutions for the Internet of Things (IoT), &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>SAP Data Hub debuts at SAP TechEd 2017</title>
-      <link>//crypt0.net/post/sap-data-hub-debuts-at-sap-teched-2017/</link>
-      <pubDate>Thu, 28 Sep 2017 20:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sap-data-hub-debuts-at-sap-teched-2017/</guid>
-      <description>&amp;hellip; products like the SAP analytics portfolio to run on that infrastructure, and we released SAP Cloud Platform on Google Cloud Platform,&amp;rdquo; he said. more.
-@crypt0net</description>
     </item>
     
   </channel>
