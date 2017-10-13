@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Oct 2017 11:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2017 11:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IBM and Google combine forces to tackle container security</title>
+      <link>//crypt0.net/post/ibm-and-google-combine-forces-to-tackle-container-security/</link>
+      <pubDate>Fri, 13 Oct 2017 11:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/ibm-and-google-combine-forces-to-tackle-container-security/</guid>
+      <description>The Grafeas Project is a Google Cloud API designed to audit and govern supply chains, and it will be implemented with the Vulnerability Advisor tool &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Facebook charts enterprise stack with @Workplace, Messenger and Oculus</title>
@@ -9297,16 +9307,6 @@ Cloudera Introduces Altus Data Engineering for Microsoft Azure Beta PR Newswire 
       
       <guid>//crypt0.net/post/nextgate-unveils-new-cloud-offering-for-positive-patient-identification/</guid>
       <description>NextGate&amp;rsquo;s cloud-enabled EMPI on Amazon Web Services (AWS) is offered on a subscription basis and can be deployed rapidly, helping healthcare &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>CloudLanes Integrates With Microsoft Azure Data Box To Help Customers Move</title>
-      <link>//crypt0.net/post/cloudlanes-integrates-with-microsoft-azure-data-box-to-help-customers-move/</link>
-      <pubDate>Thu, 28 Sep 2017 11:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloudlanes-integrates-with-microsoft-azure-data-box-to-help-customers-move/</guid>
-      <description>HostReview.com (press release) Orlando, FL (PRWEB)September 27, 2017 - CloudLanes, a Microsoft Ventures and Cervin Ventures portfolio company, announced the integration of &amp;hellip; more.
 @crypt0net</description>
     </item>
     
