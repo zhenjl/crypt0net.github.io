@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>//crypt0.net/post/why-the-hybrid-it-control-plane-is-destined-for-the-public-cloud/</loc>
+    <lastmod>2017-10-13T23:30:02+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//crypt0.net/post/endtoend-updates-for-securing-and-managing-your-virtual-machines-in-azure/</loc>
     <lastmod>2017-10-13T23:20:03+00:00</lastmod>
   </url>
@@ -258,11 +263,6 @@
   
   <url>
     <loc>//crypt0.net/post/microsoft-introduces-mobile-app-kaizala-for-secured-communication-needs/</loc>
-    <lastmod>2017-10-13T17:20:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//crypt0.net/post/why-the-hybrid-it-control-plane-is-destined-for-the-public-cloud/</loc>
     <lastmod>2017-10-13T17:20:02+00:00</lastmod>
   </url>
   
@@ -12432,21 +12432,6 @@
   </url>
   
   <url>
-    <loc>//crypt0.net/post/google-cloud-platform-scale-computing-deliver-hybrid-it-for-msps/</loc>
-    <lastmod>2017-09-28T23:30:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//crypt0.net/post/rivetz-joins-chamber-of-digital-commerce-as-executive-committee-member/</loc>
-    <lastmod>2017-09-28T23:30:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//crypt0.net/post/ubiquiti-networks-inc-nasdaqubnt-experiences-heavier-than-average/</loc>
-    <lastmod>2017-09-28T23:30:02+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//crypt0.net/daily/daily-cloud-news-2017-09-28/</loc>
     <lastmod>2017-09-28T18:05:01+00:00</lastmod>
   </url>
@@ -20119,13 +20104,13 @@
   
   <url>
     <loc>//crypt0.net/categories/cloud/</loc>
-    <lastmod>2017-10-13T23:20:03+00:00</lastmod>
+    <lastmod>2017-10-13T23:30:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>//crypt0.net/</loc>
-    <lastmod>2017-10-13T23:20:03+00:00</lastmod>
+    <lastmod>2017-10-13T23:30:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20155,7 +20140,7 @@
   
   <url>
     <loc>//crypt0.net/post/</loc>
-    <lastmod>2017-10-13T23:20:03+00:00</lastmod>
+    <lastmod>2017-10-13T23:30:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
