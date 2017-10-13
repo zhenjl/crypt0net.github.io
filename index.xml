@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Oct 2017 20:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2017 20:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure Stack and Comparisons with Eucalyptus</title>
+      <link>//crypt0.net/post/azure-stack-and-comparisons-with-eucalyptus/</link>
+      <pubDate>Fri, 13 Oct 2017 20:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-stack-and-comparisons-with-eucalyptus/</guid>
+      <description>Azure Stack is a Microsoft offering that (although Microsoft themselves surely hates the metaphor) can be thought of as Azure in a box. Azure Stack &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Salesforce Reshuffles SaaS, PaaS in Internet of Things and AI</title>
+      <link>//crypt0.net/post/salesforce-reshuffles-saas-paas-in-internet-of-things-and-ai/</link>
+      <pubDate>Fri, 13 Oct 2017 20:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/salesforce-reshuffles-saas-paas-in-internet-of-things-and-ai/</guid>
+      <description>The line of demarcation between PaaS and Infrastructure as a Service offerings from Amazon Web Services, Microsoft Azure and other cloud service &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>ScaleArc on Google  Hitting the Cloud Trifecta</title>
@@ -24997,56 +25017,6 @@ Steven Merrell, Financial Planning: Improving Your Personal Digital Monterey Cou
       
       <guid>//crypt0.net/post/sap-data-hub-debuts-at-sap-teched-2017/</guid>
       <description>&amp;hellip; products like the SAP analytics portfolio to run on that infrastructure, and we released SAP Cloud Platform on Google Cloud Platform,&amp;rdquo; he said. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Actifio Accelerates Hybrid Cloud With Solutions For Microsoft Azure Stack</title>
-      <link>//crypt0.net/post/actifio-accelerates-hybrid-cloud-with-solutions-for-microsoft-azure-stack/</link>
-      <pubDate>Thu, 28 Sep 2017 20:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/actifio-accelerates-hybrid-cloud-with-solutions-for-microsoft-azure-stack/</guid>
-      <description>BOSTON, Sept. 27, 2017/PRNewswire/ &amp;ndash; Actifio, the Enterprise Data-as-a-Service (EDaaS) company, today announced solutions for Microsoft Azure &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Compute Engine now lets you play nesting dolls with your VMs</title>
-      <link>//crypt0.net/post/google-compute-engine-now-lets-you-play-nesting-dolls-with-your-vms/</link>
-      <pubDate>Thu, 28 Sep 2017 20:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-compute-engine-now-lets-you-play-nesting-dolls-with-your-vms/</guid>
-      <description>It&amp;rsquo;s worth noting that Microsoft Azure already supported nested virtualization (using the Hyper-V hypervisor). On AWS, developers can use tools like &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft&#39;s Satya Nadella shares the leadership lesson in watching Amazon</title>
-      <link>//crypt0.net/post/microsofts-satya-nadella-shares-the-leadership-lesson-in-watching-amazon/</link>
-      <pubDate>Thu, 28 Sep 2017 20:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsofts-satya-nadella-shares-the-leadership-lesson-in-watching-amazon/</guid>
-      <description>Quartz Microsoft&amp;rsquo;s Satya Nadella shares the leadership lesson in watching Amazon win the &amp;hellip; Microsoft&amp;rsquo;s former CEO, Steve Ballmer, tapped Nadella to take over the company&amp;rsquo;s cloud infrastructure business (now called Azure) in 2011. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Navy R&amp;D awards $34M cloud migration contract to CSRA</title>
-      <link>//crypt0.net/post/navy-rd-awards-34m-cloud-migration-contract-to-csra/</link>
-      <pubDate>Thu, 28 Sep 2017 20:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/navy-rd-awards-34m-cloud-migration-contract-to-csra/</guid>
-      <description>&amp;hellip; engineering and maintenance services to the Navy&amp;rsquo;s Science and Technology community through both Amazon Web Services and Microsoft Azure &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>On Windows, PowerShell vs. Bash comparison gets interesting</title>
-      <link>//crypt0.net/post/on-windows-powershell-vs-bash-comparison-gets-interesting/</link>
-      <pubDate>Thu, 28 Sep 2017 20:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/on-windows-powershell-vs-bash-comparison-gets-interesting/</guid>
-      <description>But Bash doesn&amp;rsquo;t stack up one-to-one with PowerShell for Windows &amp;hellip;. It enables you to edit the registry, manage Microsoft Azure cloud and Exchange &amp;hellip; more.
 @crypt0net</description>
     </item>
     
