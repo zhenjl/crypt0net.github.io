@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Oct 2017 14:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2017 15:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bitcoin Miners Hack Amazon Web Services</title>
+      <link>//crypt0.net/post/bitcoin-miners-hack-amazon-web-services/</link>
+      <pubDate>Fri, 13 Oct 2017 15:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bitcoin-miners-hack-amazon-web-services/</guid>
+      <description>used Amazon&amp;rsquo;s Web Services (AWS) computing resources to mine bitcoin. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Dynamics Partner Roundup: HP taps CafeX; No-cost AX</title>
@@ -9207,76 +9217,6 @@ Cloudera Introduces Altus Data Engineering for Microsoft Azure Beta PR Newswire 
       
       <guid>//crypt0.net/post/merkle-becomes-a-google-cloud-partner/</guid>
       <description>of the most advanced Cloud platforms to leverage our expertise on &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Caringo Announces Swarm Hybrid Cloud for Microsoft Azure</title>
-      <link>//crypt0.net/post/caringo-announces-swarm-hybrid-cloud-for-microsoft-azure/</link>
-      <pubDate>Thu, 28 Sep 2017 14:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/caringo-announces-swarm-hybrid-cloud-for-microsoft-azure/</guid>
-      <description>Caringo announced today the availability of Caringo Swarm Hybrid Cloud for Microsoft Azure, allowing its customers to replicate files from S3, NFS, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cloudera Introduces Altus Data Engineering for Microsoft Azure Beta</title>
-      <link>//crypt0.net/post/cloudera-introduces-altus-data-engineering-for-microsoft-azure-beta/</link>
-      <pubDate>Thu, 28 Sep 2017 14:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloudera-introduces-altus-data-engineering-for-microsoft-azure-beta/</guid>
-      <description>Markets Insider &amp;ldquo;Cloudera makes it easy, cost-effective, and convenient to deploy data analytic workloads on cloud providers, like Microsoft Azure, taking advantage of &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>EY and Microsoft to bring enhanced analytics to the automotive industry</title>
-      <link>//crypt0.net/post/ey-and-microsoft-to-bring-enhanced-analytics-to-the-automotive-industry/</link>
-      <pubDate>Thu, 28 Sep 2017 14:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ey-and-microsoft-to-bring-enhanced-analytics-to-the-automotive-industry/</guid>
-      <description>&amp;ldquo;EY chose Microsoft Azure for its advanced analytics, machine learning and cognitive services capabilities, ease of integration and access to data for &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google buys Bitium to bolster identity management in the cloud</title>
-      <link>//crypt0.net/post/google-buys-bitium-to-bolster-identity-management-in-the-cloud/</link>
-      <pubDate>Thu, 28 Sep 2017 14:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-buys-bitium-to-bolster-identity-management-in-the-cloud/</guid>
-      <description>The security stakes are higher for Google, though. In that same survey, Microsoft Azure was ranked as the most secure public cloud IaaS offering, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Storage Spaces Direct and Clusters; Anti-Malware in Nano Server; Managing</title>
-      <link>//crypt0.net/post/storage-spaces-direct-and-clusters-antimalware-in-nano-server-managing/</link>
-      <pubDate>Thu, 28 Sep 2017 14:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/storage-spaces-direct-and-clusters-antimalware-in-nano-server-managing/</guid>
-      <description>Windows IT Pro How can I tell Azure to use one circuit as preference over the other? &amp;hellip; A. For Redstone 3 (the first semi-annual channel release of Windows Server) &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Enabling Nested Virtualization for VM Instances</title>
-      <link>//crypt0.net/post/enabling-nested-virtualization-for-vm-instances/</link>
-      <pubDate>Thu, 28 Sep 2017 14:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/enabling-nested-virtualization-for-vm-instances/</guid>
-      <description>Pricing Customers Documentation Support Partners. Sign in to see the &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Mumbai to have three Google cloud zones by December</title>
-      <link>//crypt0.net/post/mumbai-to-have-three-google-cloud-zones-by-december/</link>
-      <pubDate>Thu, 28 Sep 2017 14:30:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mumbai-to-have-three-google-cloud-zones-by-december/</guid>
-      <description>Claiming that there is a &amp;ldquo;great momentum&amp;rdquo; for Google Cloud in the market, he said it is a strong area of focus and it continues to invest in it. In India, it &amp;hellip; more.
 @crypt0net</description>
     </item>
     
