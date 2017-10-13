@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Oct 2017 23:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2017 23:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hyatt Hotels Suffers International Payment Card Data Breach</title>
+      <link>//crypt0.net/post/hyatt-hotels-suffers-international-payment-card-data-breach/</link>
+      <pubDate>Fri, 13 Oct 2017 23:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/hyatt-hotels-suffers-international-payment-card-data-breach/</guid>
+      <description>For the second time since 2015, Hyatt Hotels has suffered a breach of customers&amp;rsquo; payment card data due to attackers infecting its systems with &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Thune hosts cybersecurity roundtable at Dakota State University</title>
@@ -179,16 +189,6 @@
       
       <guid>//crypt0.net/post/hyatt-hotels-says-card-data-breach-affected-41-properties/</guid>
       <description>The data breaches, which stretch from Tijuana to Tokyo, occurred between March 18 and July 2, 2017, and are the result of malicious code that got &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Hyatt Hotels Suffers International Payment Card Data Breach</title>
-      <link>//crypt0.net/post/hyatt-hotels-suffers-international-payment-card-data-breach/</link>
-      <pubDate>Fri, 13 Oct 2017 21:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hyatt-hotels-suffers-international-payment-card-data-breach/</guid>
-      <description>Verizon&amp;rsquo;s study, based on an analysis of 175 point-of-sale breaches, found that about two-thirds involved attackers using stolen credentials to remotely &amp;hellip; more.
 @trustpath</description>
     </item>
     
@@ -24390,46 +24390,6 @@
       <guid>//crypt0.net/post/google-pixel-2-and-pixel-xl-2-specs-leaked-ahead-of-launch/</guid>
       <description>Lastly, the source claims that the Google Pixel 2 and Pixel XL 2 will come bundled with unlimited Google Cloud storage until 2023. We will be on the &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Global cyber premiums to increase six- to eightfold within a decade: Fitch</title>
-      <link>//crypt0.net/post/global-cyber-premiums-to-increase-six-to-eightfold-within-a-decade-fitch/</link>
-      <pubDate>Thu, 28 Sep 2017 23:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/global-cyber-premiums-to-increase-six-to-eightfold-within-a-decade-fitch/</guid>
-      <description>The GDPR will also expose organizations to large fines for data breaches up to 4% of turnover although it is not clear whether insurance would be &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Time for cyber security plans to swing into action</title>
-      <link>//crypt0.net/post/time-for-cyber-security-plans-to-swing-into-action/</link>
-      <pubDate>Thu, 28 Sep 2017 23:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/time-for-cyber-security-plans-to-swing-into-action/</guid>
-      <description>&amp;hellip; at a cost, with the same survey finding that 37 per cent of the respondents had suffered losses of at least S$140,000 as a result of data breaches. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>How to find the best SIEM system for your company</title>
-      <link>//crypt0.net/post/how-to-find-the-best-siem-system-for-your-company/</link>
-      <pubDate>Thu, 28 Sep 2017 23:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-find-the-best-siem-system-for-your-company/</guid>
-      <description>A SIEM system is a centralized enterprise security log management and analysis product. It centrally automates all the work of collecting logged &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Sqrrl ferrets out network traffic anomalies to find hidden threats</title>
-      <link>//crypt0.net/post/sqrrl-ferrets-out-network-traffic-anomalies-to-find-hidden-threats/</link>
-      <pubDate>Thu, 28 Sep 2017 23:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/sqrrl-ferrets-out-network-traffic-anomalies-to-find-hidden-threats/</guid>
-      <description>The Sqrrl Threat Hunting Platform has network traffic analysis at its core. It requires no network taps to operate, gathering all the data it requires from &amp;hellip; more.
-@trustpath</description>
     </item>
     
   </channel>
