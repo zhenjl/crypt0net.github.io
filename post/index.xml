@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Oct 2017 04:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2017 05:20:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Will IoT Sensors Lead to Test Headaches?</title>
+      <link>//crypt0.net/post/will-iot-sensors-lead-to-test-headaches/</link>
+      <pubDate>Fri, 13 Oct 2017 05:20:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/will-iot-sensors-lead-to-test-headaches/</guid>
+      <description>To me, the modern super-sensored car is a forerunner of the much-heralded Internet of Things (IoT). Indeed, for many car models, it is an IoT scenario &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Ep. 15. What the hell is Segwit2x, enterprise Blockchain and more</title>
@@ -24569,36 +24579,6 @@
       
       <guid>//crypt0.net/post/bahrain-drafts-new-data-law-to-boost-tech-sector/</guid>
       <description>Al Rumaihi was speaking at a media event at which Amazon Web Services, the cloud computing subsidiary of e-commerce giant Amazon, unveiled &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>ASX increasingly confident about blockchain replacement for Chess</title>
-      <link>//crypt0.net/post/asx-increasingly-confident-about-blockchain-replacement-for-chess/</link>
-      <pubDate>Thu, 28 Sep 2017 05:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/asx-increasingly-confident-about-blockchain-replacement-for-chess/</guid>
-      <description>ASX is due to make a decision in December on whether to dismantle its existing Chess system in favour of a new blockchain-based platform built &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Google adds per-second billing to Compute Engine, Container Engine and App</title>
-      <link>//crypt0.net/post/google-adds-persecond-billing-to-compute-engine-container-engine-and-app/</link>
-      <pubDate>Thu, 28 Sep 2017 04:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-adds-persecond-billing-to-compute-engine-container-engine-and-app/</guid>
-      <description>Cloud Tech The Google Cloud Platform has duly been updated with per-second billing, under the tagline you pay per-second, which is how a cloud should work. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>NXP Leverages Google&#39;s Cloud IoT Core to Enable Smart Devices for Edge</title>
-      <link>//crypt0.net/post/nxp-leverages-googles-cloud-iot-core-to-enable-smart-devices-for-edge/</link>
-      <pubDate>Thu, 28 Sep 2017 04:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nxp-leverages-googles-cloud-iot-core-to-enable-smart-devices-for-edge/</guid>
-      <description>Markets Insider SAN JOSE, Calif., Sept. 27, 2017 (GLOBE NEWSWIRE) &amp;ndash; As an early partner for Android Things, NXP Semiconductors N.V. (NASDAQ:NXPI) today &amp;hellip; more.
 @crypt0net</description>
     </item>
     
