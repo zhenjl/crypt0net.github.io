@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Oct 2017 12:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2017 13:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS, Microsoft Offer New Open Source AI Framework</title>
+      <link>//crypt0.net/post/aws-microsoft-offer-new-open-source-ai-framework/</link>
+      <pubDate>Fri, 13 Oct 2017 13:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/aws-microsoft-offer-new-open-source-ai-framework/</guid>
+      <description>Amazon Web Services and Microsoft on Thursday announced the availability of Gluon, an open source deep learning library for building artificial &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>AWS and Microsoft join forces to release deep learning interface</title>
@@ -9267,26 +9277,6 @@ Cloudera Introduces Altus Data Engineering for Microsoft Azure Beta PR Newswire 
       
       <guid>//crypt0.net/post/google-scale-computing-partner-to-sell-cloud-dr-to-hyperconverged/</guid>
       <description>Data Center Knowledge Amazon Web Services has a hybrid-cloud partnership with VMware, while Microsoft Azure has been partnering with hardware vendors to get Azure &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How we built a brand new bank on GCP and Cloud Spanner: Shine</title>
-      <link>//crypt0.net/post/how-we-built-a-brand-new-bank-on-gcp-and-cloud-spanner-shine/</link>
-      <pubDate>Thu, 28 Sep 2017 13:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-we-built-a-brand-new-bank-on-gcp-and-cloud-spanner-shine/</guid>
-      <description>built a new bank on Google Cloud Platform, and in particular Cloud &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Scale Computing Collaborates with Google Cloud to Remove Barriers to Cloud</title>
-      <link>//crypt0.net/post/scale-computing-collaborates-with-google-cloud-to-remove-barriers-to-cloud/</link>
-      <pubDate>Thu, 28 Sep 2017 13:30:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/scale-computing-collaborates-with-google-cloud-to-remove-barriers-to-cloud/</guid>
-      <description>EconoTimes With HC3 running both on-premises and in Google Cloud Platform, Cloud Unity creates a virtual LAN that seamlessly bridges an on-prem local LAN &amp;hellip; more.
 @crypt0net</description>
     </item>
     
