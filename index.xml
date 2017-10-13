@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 13 Oct 2017 19:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2017 19:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Azure: Design a Management, Monitoring, and Business Continuity</title>
+      <link>//crypt0.net/post/microsoft-azure-design-a-management-monitoring-and-business-continuity/</link>
+      <pubDate>Fri, 13 Oct 2017 19:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-design-a-management-monitoring-and-business-continuity/</guid>
+      <description>Learn the intermediate-level skills needed to configure monitoring, business continuity, and disaster recovery in Microsoft Azure for highly available &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Control and granularity with Spark and Hadoop on Cloud Dataproc</title>
@@ -25048,36 +25058,6 @@ Steven Merrell, Financial Planning: Improving Your Personal Digital Monterey Cou
       <guid>//crypt0.net/post/scale-slaps-hybrid-cloud-in-hyperconverged-kit/</guid>
       <description>Scale Computing has replicated its HC3 hyper-converged platform in Google&amp;rsquo;s cloud and provided app and data interchange between the &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Equifax&#39;s data flaws are more the rule than the exception</title>
-      <link>//crypt0.net/post/equifaxs-data-flaws-are-more-the-rule-than-the-exception/</link>
-      <pubDate>Thu, 28 Sep 2017 19:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/equifaxs-data-flaws-are-more-the-rule-than-the-exception/</guid>
-      <description>No organization is immune to data breaches, and a lot of potentially personal data was out there already thanks to all the screw-ups that preceded &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Ransomware keeping cops, NHS and local UK gov bods awake at night</title>
-      <link>//crypt0.net/post/ransomware-keeping-cops-nhs-and-local-uk-gov-bods-awake-at-night/</link>
-      <pubDate>Thu, 28 Sep 2017 19:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ransomware-keeping-cops-nhs-and-local-uk-gov-bods-awake-at-night/</guid>
-      <description>&amp;hellip; computers; two years ago it was data breaches like TalkTalk, this year its been the use of ransomware attacks on individuals and corporate systems. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Steven Merrell, Financial Planning: Improving Your Personal Digital</title>
-      <link>//crypt0.net/post/steven-merrell-financial-planning-improving-your-personal-digital/</link>
-      <pubDate>Thu, 28 Sep 2017 19:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/steven-merrell-financial-planning-improving-your-personal-digital/</guid>
-      <description>Monterey County Herald Internet security firm Keeper Security analyzed 10 million passwords made publicly available from data breaches in 2016. The most common &amp;hellip; more.
-@trustpath</description>
     </item>
     
     <item>
