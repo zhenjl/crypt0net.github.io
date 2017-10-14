@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 14 Oct 2017 13:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2017 13:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure Database for MySQL &#43; Azure Database for PostgreSQL Billing Changes</title>
+      <link>//crypt0.net/post/azure-database-for-mysql--azure-database-for-postgresql-billing-changes/</link>
+      <pubDate>Sat, 14 Oct 2017 13:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-database-for-mysql--azure-database-for-postgresql-billing-changes/</guid>
+      <description>PostgreSQL-related billing, we&amp;rsquo;ll be changing resource GUIDs. View our meter updates &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>A Bitcoin Beginner&#39;s Guide to Surviving the Bgold and SegWit2x Forks</title>
