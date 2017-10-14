@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 14 Oct 2017 08:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2017 09:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lufthansa Is Using Blockchain To Improve Flight Booking</title>
+      <link>//crypt0.net/post/lufthansa-is-using-blockchain-to-improve-flight-booking/</link>
+      <pubDate>Sat, 14 Oct 2017 09:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/lufthansa-is-using-blockchain-to-improve-flight-booking/</guid>
+      <description>German airline Lufthansa has joined forces with Swiss startup Winding Tree to create a blockchain platform to make traveling easier. The partnership &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Retirement planning could see benefits from blockchain</title>
@@ -24380,36 +24390,6 @@
       <guid>//crypt0.net/post/technology-valuations-painting-overly-rosy-scenarios/</guid>
       <description>&amp;hellip; are shifting more and more workloads to infrastructure-as-a-service (IaaS) vendors, such as Amazon&amp;rsquo;s Web Services, Microsoft Azure and Google. more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Azure vs aws vs google vs rackspace</title>
-      <link>//crypt0.net/post/azure-vs-aws-vs-google-vs-rackspace/</link>
-      <pubDate>Fri, 29 Sep 2017 09:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/azure-vs-aws-vs-google-vs-rackspace/</guid>
-      <description>Cloud; Linode; Vultr Oct 11, 2016 Amazon and Azure are the two &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Inadequate IT processes continue to create major security and compliance</title>
-      <link>//crypt0.net/post/inadequate-it-processes-continue-to-create-major-security-and-compliance/</link>
-      <pubDate>Fri, 29 Sep 2017 08:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/inadequate-it-processes-continue-to-create-major-security-and-compliance/</guid>
-      <description>Help Net Security &amp;hellip; or other threat actors, who can exploit the accounts and gain access to sensitive systems and information, resulting in data breaches or compliance &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>[hbmqtt.broker] [MQTT-3.1.0-1] Can&#39;t read first packet an CONNECT</title>
-      <link>//crypt0.net/post/hbmqttbroker-mqtt3101-cant-read-first-packet-an-connect/</link>
-      <pubDate>Fri, 29 Sep 2017 08:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hbmqttbroker-mqtt3101-cant-read-first-packet-an-connect/</guid>
-      <description>data #9619. Open. stuart12 opened this Issue 24 minutes ago 0 &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
