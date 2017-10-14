@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 14 Oct 2017 05:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2017 05:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Google Can Play Catch-Up in the Cloud</title>
+      <link>//crypt0.net/post/how-google-can-play-catchup-in-the-cloud/</link>
+      <pubDate>Sat, 14 Oct 2017 05:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-google-can-play-catchup-in-the-cloud/</guid>
+      <description>&amp;hellip; to use a version of VMs running at Amazon&amp;rsquo;s data centers, giving birth to Amazon Web Services. Microsoft did the same with its Azure cloud division. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Godsey &amp; Gibb Associates Has Trimmed Its Microsoft (MSFT) Position as</title>
@@ -39,26 +49,6 @@
       
       <guid>//crypt0.net/post/microsoft-to-share-insights-on-future-data-centre-challenges-at-dcd-event/</guid>
       <description>This year Microsoft will be taking centre stage to discuss how they are &amp;hellip; designs for data centres Microsoft&amp;rsquo;s general manager for Azure Hardware, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Zilliqa is a Speedy Blockchain that Can Top 2400 Transactions per Second</title>
-      <link>//crypt0.net/post/zilliqa-is-a-speedy-blockchain-that-can-top-2400-transactions-per-second/</link>
-      <pubDate>Sat, 14 Oct 2017 04:20:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/zilliqa-is-a-speedy-blockchain-that-can-top-2400-transactions-per-second/</guid>
-      <description>The team used all of the available Amazon Web Services EC2 instances in Singapore within the category they required. In total, they used 3,600 &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How Google Can Play Catch-Up in the Cloud</title>
-      <link>//crypt0.net/post/how-google-can-play-catchup-in-the-cloud/</link>
-      <pubDate>Sat, 14 Oct 2017 04:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-google-can-play-catchup-in-the-cloud/</guid>
-      <description>The Google executive tasked with playing catch-up is, ironically, one of the godparents of the cloud: Diane Greene, appointed to run Google&amp;rsquo;s cloud &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -9197,16 +9187,6 @@ Google Compute Engine now lets you play nesting dolls with your VMs Here is a cl
       
       <guid>//crypt0.net/post/the-cpu-burst-bseries-azure-virtual-machine/</guid>
       <description>This post contains information about a new ultra-low-cost series of Azure &amp;hellip; This was before Microsoft eventually announced the new Azure virtual &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud region for India to arrive later this year: Rick Harshman</title>
-      <link>//crypt0.net/post/google-cloud-region-for-india-to-arrive-later-this-year-rick-harshman/</link>
-      <pubDate>Fri, 29 Sep 2017 05:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-region-for-india-to-arrive-later-this-year-rick-harshman/</guid>
-      <description>Rick Harshman, Managing Director, Asia Pacific, Google Cloud, talks to ET&amp;rsquo;s Megha Mandavia about the importance of opening a data centre in India, &amp;hellip; more.
 @crypt0net</description>
     </item>
     
