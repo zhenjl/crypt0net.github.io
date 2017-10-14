@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 14 Oct 2017 00:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2017 00:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 Major Cloud Storage Security Slip-Ups (So Far) this Year</title>
+      <link>//crypt0.net/post/10-major-cloud-storage-security-slipups-so-far-this-year/</link>
+      <pubDate>Sat, 14 Oct 2017 00:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/10-major-cloud-storage-security-slipups-so-far-this-year/</guid>
+      <description>&amp;hellip; exposure of cloud data via misconfigured Simple Storage Service (S3) buckets from Amazon Web Services. This year has been marked with several &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>IPI Solutions Wins Microsoft CSP Partner of the Year</title>
@@ -9157,16 +9167,6 @@ Google Compute Engine now lets you play nesting dolls with your VMs Here is a cl
       
       <guid>//crypt0.net/post/verizon-ceo-says-480p-video-restriction-will-help-save-10-billion/</guid>
       <description>More importantly, Bitium&amp;rsquo;s market-leading IAM technology will help Google Cloud compete against Microsoft Azure, which currently offers its own &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Releases SQL Server 2017 Database on Linux Systems</title>
-      <link>//crypt0.net/post/microsoft-releases-sql-server-2017-database-on-linux-systems/</link>
-      <pubDate>Fri, 29 Sep 2017 00:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-releases-sql-server-2017-database-on-linux-systems/</guid>
-      <description>Select enterprise customers will be able to run more intensive simulations involving 40 or more quantum bits, or qubits, on the Microsoft Azure cloud &amp;hellip; more.
 @crypt0net</description>
     </item>
     
