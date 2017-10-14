@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 14 Oct 2017 05:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2017 05:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cloud Migration Part IV: Assessing Cloud Performance with DEM</title>
+      <link>//crypt0.net/post/cloud-migration-part-iv-assessing-cloud-performance-with-dem/</link>
+      <pubDate>Sat, 14 Oct 2017 05:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/cloud-migration-part-iv-assessing-cloud-performance-with-dem/</guid>
+      <description>Depending on which types of cloud services you are using, your monitoring scenarios will be somewhat different. But all cloud services can be &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>How Google Can Play Catch-Up in the Cloud</title>
@@ -24908,16 +24918,6 @@ Steven Merrell, Financial Planning: Improving Your Personal Digital Monterey Cou
       <guid>//crypt0.net/post/the-cpu-burst-bseries-azure-virtual-machine/</guid>
       <description>This post contains information about a new ultra-low-cost series of Azure &amp;hellip; This was before Microsoft eventually announced the new Azure virtual &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>trigger object does not exist in MQTT.publish service when used in</title>
-      <link>//crypt0.net/post/trigger-object-does-not-exist-in-mqttpublish-service-when-used-in/</link>
-      <pubDate>Fri, 29 Sep 2017 05:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/trigger-object-does-not-exist-in-mqttpublish-service-when-used-in/</guid>
-      <description>trigger object does not exist in MQTT.publish service when used in automation #9618. Open. hcoohb opened this Issue 20 minutes ago 0 comments &amp;hellip; more.
-@surgethings</description>
     </item>
     
     <item>
