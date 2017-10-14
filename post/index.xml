@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 14 Oct 2017 00:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2017 00:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gluon brings AI developers self-tuning machine learning</title>
+      <link>//crypt0.net/post/gluon-brings-ai-developers-selftuning-machine-learning/</link>
+      <pubDate>Sat, 14 Oct 2017 00:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/gluon-brings-ai-developers-selftuning-machine-learning/</guid>
+      <description>Hard-coding a network is slow, and altering that coding to improve the network&amp;rsquo;s behavior is also slow. Likewise, figuring out the best weights to use in &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>IPI Solutions Wins Microsoft CSP Partner of the Year</title>
@@ -24440,16 +24450,6 @@
       <guid>//crypt0.net/post/what-digital-devices-are-minnesotans-using/</guid>
       <description>&amp;hellip; fitness trackers, along with internet-connected home devices like thermostats, televisions and kitchen appliances known as the internet of things. more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Google Pixel 2 and Pixel XL 2 specs leaked ahead of launch</title>
-      <link>//crypt0.net/post/google-pixel-2-and-pixel-xl-2-specs-leaked-ahead-of-launch/</link>
-      <pubDate>Fri, 29 Sep 2017 00:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-pixel-2-and-pixel-xl-2-specs-leaked-ahead-of-launch/</guid>
-      <description>Lastly, the source claims that the Google Pixel 2 and Pixel XL 2 will come bundled with unlimited Google Cloud storage until 2023. We will be on the &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>

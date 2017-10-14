@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 14 Oct 2017 00:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2017 00:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/trust/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gluon brings AI developers self-tuning machine learning</title>
+      <link>//crypt0.net/post/gluon-brings-ai-developers-selftuning-machine-learning/</link>
+      <pubDate>Sat, 14 Oct 2017 00:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/gluon-brings-ai-developers-selftuning-machine-learning/</guid>
+      <description>Hard-coding a network is slow, and altering that coding to improve the network&amp;rsquo;s behavior is also slow. Likewise, figuring out the best weights to use in &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>Kaspersky news, Equinox security hack push CIOs to trust no one</title>
