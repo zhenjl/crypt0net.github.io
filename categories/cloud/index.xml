@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 01:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 02:50:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure a series vs d series</title>
+      <link>//crypt0.net/post/azure-a-series-vs-d-series/</link>
+      <pubDate>Sun, 15 Oct 2017 02:50:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/azure-a-series-vs-d-series/</guid>
+      <description>Infrastructure as a Service (IaaS), significantly improving on the A-Series (17. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Base2Sevices becomes first Australian company to secure AWS APN DevOps</title>
@@ -8768,16 +8778,6 @@ Oracle introduces Live Experience Cloud for customer engagement Oracle&amp;rsquo
       
       <guid>//crypt0.net/post/developer-mailing-list-digest-september-2329-2017/</guid>
       <description>Register for The OpenStack Sydney Summit and show up! Deadline for &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft Cloud App Security Getting Conditional Access Protections</title>
-      <link>//crypt0.net/post/microsoft-cloud-app-security-getting-conditional-access-protections/</link>
-      <pubDate>Sat, 30 Sep 2017 02:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-cloud-app-security-getting-conditional-access-protections/</guid>
-      <description>Microsoft Cloud App Security Getting Conditional Access Protections &amp;hellip; integration between Microsoft Cloud App Security and Azure AD conditional &amp;hellip; more.
 @crypt0net</description>
     </item>
     
