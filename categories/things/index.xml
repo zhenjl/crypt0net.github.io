@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 17 Oct 2017 22:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2017 22:10:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SSH privileged access has minimal control at most organisations</title>
+      <link>//crypt0.net/post/ssh-privileged-access-has-minimal-control-at-most-organisations/</link>
+      <pubDate>Tue, 17 Oct 2017 22:10:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/ssh-privileged-access-has-minimal-control-at-most-organisations/</guid>
+      <description>Cyber-criminals can abuse SSH keys to secure and automate administrator-to-machine and machine-to-machine access to critical business functions. more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>The Five Habits of Successful Data-Driven Financial Institutions</title>
