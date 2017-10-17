@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 17 Oct 2017 18:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2017 19:00:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>API design: Choosing between names and identifiers in URLs</title>
+      <link>//crypt0.net/post/api-design-choosing-between-names-and-identifiers-in-urls/</link>
+      <pubDate>Tue, 17 Oct 2017 19:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/api-design-choosing-between-names-and-identifiers-in-urls/</guid>
+      <description>design, working both internally and with customers, and I want to share with &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Tableau unveils high-scale Hyper engine, previews self-service data-prep</title>
+      <link>//crypt0.net/post/tableau-unveils-highscale-hyper-engine-previews-selfservice-dataprep/</link>
+      <pubDate>Tue, 17 Oct 2017 19:00:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/tableau-unveils-highscale-hyper-engine-previews-selfservice-dataprep/</guid>
+      <description>ZDNet Big enterprise customers more typically deploy Tableau Server themselves on AWS, Azure, or the Google Cloud Platform, but here, too, there wasn&amp;rsquo;t &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft and Amazon Partner Up on AI Software, Gluon</title>
