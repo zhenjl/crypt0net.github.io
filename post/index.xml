@@ -7,10 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 18 Oct 2017 17:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2017 18:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Match Made In Hyperscale: Docker Borgs Kubernetes</title>
+      <link>//crypt0.net/post/a-match-made-in-hyperscale-docker-borgs-kubernetes/</link>
+      <pubDate>Wed, 18 Oct 2017 18:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/a-match-made-in-hyperscale-docker-borgs-kubernetes/</guid>
+      <description>&amp;hellip; highly popular, gaining momentum with top cloud providers like Amazon Web Services and Microsoft Azure, and obviously Google Cloud Platform, &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Chrome for Android developing Breaking News push notification</title>
+      <link>//crypt0.net/post/chrome-for-android-developing-breaking-news-push-notification/</link>
+      <pubDate>Wed, 18 Oct 2017 18:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/chrome-for-android-developing-breaking-news-push-notification/</guid>
+      <description>According to its description, the flag will listen for breaking news content suggestions, and deliver them to devices using Google&amp;rsquo;s Cloud Messaging &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>How to Use Container Stacking to Drive Cloud Savings of Up to 80%</title>
+      <link>//crypt0.net/post/how-to-use-container-stacking-to-drive-cloud-savings-of-up-to-80/</link>
+      <pubDate>Wed, 18 Oct 2017 18:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-to-use-container-stacking-to-drive-cloud-savings-of-up-to-80/</guid>
+      <description>As enterprises push more application workloads into public clouds such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud, high &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Kaspersky Lab Receives Platinum Award in Endpoint Protection Platforms</title>
+      <link>//crypt0.net/post/kaspersky-lab-receives-platinum-award-in-endpoint-protection-platforms/</link>
+      <pubDate>Wed, 18 Oct 2017 18:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/kaspersky-lab-receives-platinum-award-in-endpoint-protection-platforms/</guid>
+      <description>As of 1 September 2017, Kaspersky Lab achieved an overall rating of 4.6 out of 5 in the Endpoint Protection Platforms market, based on evaluation of &amp;hellip; more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>The Blockchain Revolution: State of the World Address</title>
+      <link>//crypt0.net/post/the-blockchain-revolution-state-of-the-world-address/</link>
+      <pubDate>Wed, 18 Oct 2017 18:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/the-blockchain-revolution-state-of-the-world-address/</guid>
+      <description>Brothers fell, and identified a number of deep problems with the financial &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Unifying Architecture Between Private and Google Cloud Platforms</title>
+      <link>//crypt0.net/post/unifying-architecture-between-private-and-google-cloud-platforms/</link>
+      <pubDate>Wed, 18 Oct 2017 18:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/unifying-architecture-between-private-and-google-cloud-platforms/</guid>
+      <description>HTBASE, a composable infrastructure and multi-cloud solution provider, and Google Cloud Platform have announced a partnership to provide users a &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>What are containers, how they relate to Kubernetes, and why this matters to</title>
+      <link>//crypt0.net/post/what-are-containers-how-they-relate-to-kubernetes-and-why-this-matters-to/</link>
+      <pubDate>Wed, 18 Oct 2017 18:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/what-are-containers-how-they-relate-to-kubernetes-and-why-this-matters-to/</guid>
+      <description>SYS-CON Media (press release) And while OpenStack didn&amp;rsquo;t replace AWS, it clearly is a success story in the open infrastructure space. Here&amp;rsquo;s what you need to know about them, and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Alibaba Group Holding Ltd (NYSE:BABA) on Track to Become the Second Biggest</title>
@@ -29,16 +99,6 @@
       
       <guid>//crypt0.net/post/hackers-and-scammers-run-amok-in-attempts-to-produce-bitcoin/</guid>
       <description>According to a recent report, nefarious actors through the use of Amazon Web Services (AWS) are attempting to employ an illegal means of producing &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>How to Use Container Stacking to Drive Cloud Savings of Up to 80%</title>
-      <link>//crypt0.net/post/how-to-use-container-stacking-to-drive-cloud-savings-of-up-to-80/</link>
-      <pubDate>Wed, 18 Oct 2017 17:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-to-use-container-stacking-to-drive-cloud-savings-of-up-to-80/</guid>
-      <description>As enterprises push more application workloads into public clouds such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud, high &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -169,16 +229,6 @@
       
       <guid>//crypt0.net/post/365mc-unveils-worlds-first-aiassisted-liposuction-system-mail-system/</guid>
       <description>SYS-CON Media (press release) &amp;hellip; Liposuction System (M.A.I.L System), developed in collaboration with Microsoft Korea using Microsoft Azure. The world&amp;rsquo;s first AI-assisted liposuction &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>A Match Made In Hyperscale: Docker Borgs Kubernetes</title>
-      <link>//crypt0.net/post/a-match-made-in-hyperscale-docker-borgs-kubernetes/</link>
-      <pubDate>Wed, 18 Oct 2017 15:00:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/a-match-made-in-hyperscale-docker-borgs-kubernetes/</guid>
-      <description>Kubernetes has become highly popular, gaining momentum with top cloud providers like Amazon Web Services and Microsoft Azure, and obviously &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -26450,16 +26500,6 @@
       <guid>//crypt0.net/post/rockwell-automation-revolutionizes-manufacturing-decisionmaking-with/</guid>
       <description>Sign in. Microsoft Internet of Things About. Rockwell Automation revolutionizes manufacturing decision-making with Microsoft IoT technology. Oct 3 &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>OpenStack vs hyper-converged: Open-source cloud in the datacentre</title>
-      <link>//crypt0.net/post/openstack-vs-hyperconverged-opensource-cloud-in-the-datacentre/</link>
-      <pubDate>Tue, 03 Oct 2017 17:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/openstack-vs-hyperconverged-opensource-cloud-in-the-datacentre/</guid>
-      <description>The OpenStack project has developed into an open-source cloud platform that can be deployed on-premise and encompasses all the major cloud &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
