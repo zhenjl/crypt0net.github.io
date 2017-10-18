@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 18 Oct 2017 02:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2017 03:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bentley Embraces Microsoft Azure for Cloud-Based Project Management</title>
+      <link>//crypt0.net/post/bentley-embraces-microsoft-azure-for-cloudbased-project-management/</link>
+      <pubDate>Wed, 18 Oct 2017 03:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/bentley-embraces-microsoft-azure-for-cloudbased-project-management/</guid>
+      <description>Software provider Bentley Systems has announced a number of new cloud-based services powered by Microsoft Azure. The services join Bentley&amp;rsquo;s &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon Web Services&#39; re:Start programme addresses demand to train future</title>
@@ -9249,26 +9259,6 @@ Twitch debuts first official merchandise store, powered by Amazon Amazon has als
       
       <guid>//crypt0.net/post/why-theres-still-room-for-cloud-solution-startups/</guid>
       <description>Google Cloud Platform and IBM round up the list of top providers. This dominance of big-name tech companies should come as no surprise. AWS had &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Freebie alert! Try Azure Cosmos DB at no cost for a limited time</title>
-      <link>//crypt0.net/post/freebie-alert-try-azure-cosmos-db-at-no-cost-for-a-limited-time/</link>
-      <pubDate>Tue, 03 Oct 2017 02:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/freebie-alert-try-azure-cosmos-db-at-no-cost-for-a-limited-time/</guid>
-      <description>Microsoft just announced the launch of Try Azure Cosmos DB for free, an experience that lets anyone try out the capabilities of Azure Cosmos DB &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Genomic ancestry inference with deep learning Google Cloud Big Data and</title>
-      <link>//crypt0.net/post/genomic-ancestry-inference-with-deep-learning-google-cloud-big-data-and/</link>
-      <pubDate>Tue, 03 Oct 2017 02:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/genomic-ancestry-inference-with-deep-learning-google-cloud-big-data-and/</guid>
-      <description>We&amp;rsquo;ll examine an analytical technique for verifying the ancestry of a human DNA sample, and show you how to implement it as a system using Google &amp;hellip; more.
 @crypt0net</description>
     </item>
     
