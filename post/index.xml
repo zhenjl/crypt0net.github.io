@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 18 Oct 2017 05:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2017 05:40:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>41% of Health Data Breaches Stem from Unintended Disclosure</title>
+      <link>//crypt0.net/post/41-of-health-data-breaches-stem-from-unintended-disclosure/</link>
+      <pubDate>Wed, 18 Oct 2017 05:40:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/41-of-health-data-breaches-stem-from-unintended-disclosure/</guid>
+      <description>&amp;hellip; and implementing two-factor authentication to prevent unauthorized users from using stolen credentials to log into email remotely, report authors &amp;hellip; more.
+@trustpath</description>
+    </item>
     
     <item>
       <title>KEYPR Appoints Philippe Dias as Chief Technology Officer</title>
@@ -559,16 +569,6 @@
       
       <guid>//crypt0.net/post/wows-legacy-server-elysium-down-due-to-unscrupulous-admin-actions/</guid>
       <description>As a result, the support team members were prevented from setting up a log management server as the initiative was covered up. All staff members &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>41% of Health Data Breaches Stem from Unintended Disclosure</title>
-      <link>//crypt0.net/post/41-of-health-data-breaches-stem-from-unintended-disclosure/</link>
-      <pubDate>Tue, 17 Oct 2017 22:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/41-of-health-data-breaches-stem-from-unintended-disclosure/</guid>
-      <description>Organizations need to understand the underlying causes of data breaches so necessary mitigation and management techniques can be put in place, &amp;hellip; more.
 @trustpath</description>
     </item>
     
@@ -26150,56 +26150,6 @@
       <guid>//crypt0.net/post/rubicon-labs-will-showcase-the-rubicon-secure-identity-platform-at-the-iot/</guid>
       <description>Marketwired (press release) SAN FRANCISCO, CA&amp;ndash;(Marketwired - Oct 3, 2017) - Rubicon Labs, a leader in secure identity services for IoT devices, will showcase its Rubicon &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>Google Cloud expands NVIDIA GPU offerings</title>
-      <link>//crypt0.net/post/google-cloud-expands-nvidia-gpu-offerings/</link>
-      <pubDate>Tue, 03 Oct 2017 05:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-cloud-expands-nvidia-gpu-offerings/</guid>
-      <description>Google Cloud expands NVIDIA GPU offerings In a recent post in on the Google Cloud Platform Blog written by Chris Kleban and Ari Liberman, Product &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Lieberman RED Suite  Rapid Enterprise Defense  in &#39;ASTORS&#39;</title>
-      <link>//crypt0.net/post/lieberman-red-suite--rapid-enterprise-defense--in-astors/</link>
-      <pubDate>Tue, 03 Oct 2017 05:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/lieberman-red-suite--rapid-enterprise-defense--in-astors/</guid>
-      <description>Nearly all security breaches stem from stolen credentials or compromised accounts. No security or identity infrastructure is complete without a solution &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Mi3 Security Accelerates Global Expansion in Asia with SecNeo Partnership</title>
-      <link>//crypt0.net/post/mi3-security-accelerates-global-expansion-in-asia-with-secneo-partnership/</link>
-      <pubDate>Tue, 03 Oct 2017 05:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mi3-security-accelerates-global-expansion-in-asia-with-secneo-partnership/</guid>
-      <description>SecNeo, based out of Beijing, China and San Jose, California, protects customers against financial loss, brand damage, IP theft, stolen credentials, &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Prehistoric bugs in dnsmasq strike Android, Linux and Google&#39;s Kubernetes</title>
-      <link>//crypt0.net/post/prehistoric-bugs-in-dnsmasq-strike-android-linux-and-googles-kubernetes/</link>
-      <pubDate>Tue, 03 Oct 2017 05:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/prehistoric-bugs-in-dnsmasq-strike-android-linux-and-googles-kubernetes/</guid>
-      <description>&amp;hellip; software for steering containerized applications, Kubernetes, which Google offers as a container engine on the Google Cloud Platform. Dnsmasq is &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Why There&#39;s Still Room for Cloud Solution Startups</title>
-      <link>//crypt0.net/post/why-theres-still-room-for-cloud-solution-startups/</link>
-      <pubDate>Tue, 03 Oct 2017 05:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/why-theres-still-room-for-cloud-solution-startups/</guid>
-      <description>Google Cloud Platform and IBM round up the list of top providers. This dominance of big-name tech companies should come as no surprise. AWS had &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
