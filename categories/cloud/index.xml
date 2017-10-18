@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 18 Oct 2017 19:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2017 19:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing Amazon S3 and Microsoft Azure SQL Database Connectors in AWS</title>
+      <link>//crypt0.net/post/introducing-amazon-s3-and-microsoft-azure-sql-database-connectors-in-aws/</link>
+      <pubDate>Wed, 18 Oct 2017 19:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/introducing-amazon-s3-and-microsoft-azure-sql-database-connectors-in-aws/</guid>
+      <description>We are excited to announce the addition of two new database connectors in AWS Database Migration Service (AWS DMS)Amazon S3 as a source &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>21 new open-source solutions available from Google Cloud Launcher</title>
