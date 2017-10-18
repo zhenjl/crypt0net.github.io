@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 18 Oct 2017 00:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2017 00:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RSA&#39;s Middle East cyber security conference gains its own identity</title>
+      <link>//crypt0.net/post/rsas-middle-east-cyber-security-conference-gains-its-own-identity/</link>
+      <pubDate>Wed, 18 Oct 2017 00:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/rsas-middle-east-cyber-security-conference-gains-its-own-identity/</guid>
+      <description>The Middle East&amp;rsquo;s growing use of, and dependence on, digital technology has made the region an important location for RSA&amp;rsquo;s series of cyber security &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>FG Recommits To Industrial Sector Dev</title>
@@ -26110,36 +26120,6 @@
       <guid>//crypt0.net/post/track-request-for-openstack-gnocchi-and-cinder-snaps/</guid>
       <description>snaps listed below? Tracks: ocata, pike, queens Snaps: gnocchi, cinder &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Mastercard launches Early Detection System to prevent data breaches</title>
-      <link>//crypt0.net/post/mastercard-launches-early-detection-system-to-prevent-data-breaches/</link>
-      <pubDate>Tue, 03 Oct 2017 00:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mastercard-launches-early-detection-system-to-prevent-data-breaches/</guid>
-      <description>Mastercard has announced the launch of its Early Detection System, a new service that provides banks with a unique advanced alert for high-risk &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Frontier Spotlight: The Top Data Center Stories for September 2017</title>
-      <link>//crypt0.net/post/frontier-spotlight-the-top-data-center-stories-for-september-2017/</link>
-      <pubDate>Tue, 03 Oct 2017 00:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/frontier-spotlight-the-top-data-center-stories-for-september-2017/</guid>
-      <description>Industrial Internet of Things and the Data Center: You&amp;rsquo;ve heard a lot about the Internet of Things and how mountains of data will soon overwhelm your &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>The UPS opportunity: What efficiencies are you missing in your business?</title>
-      <link>//crypt0.net/post/the-ups-opportunity-what-efficiencies-are-you-missing-in-your-business/</link>
-      <pubDate>Tue, 03 Oct 2017 00:10:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-ups-opportunity-what-efficiencies-are-you-missing-in-your-business/</guid>
-      <description>It is the Internet of Things, but with an enterprise angle. &amp;hellip; The Internet of Things (IoT) world may be exciting, but there are serious technical challenges &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
