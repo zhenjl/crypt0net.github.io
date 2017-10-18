@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 18 Oct 2017 06:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2017 06:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Quotas - Cloud Endpoints Frameworks for App Engine</title>
+      <link>//crypt0.net/post/about-quotas--cloud-endpoints-frameworks-for-app-engine/</link>
+      <pubDate>Wed, 18 Oct 2017 06:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/about-quotas--cloud-endpoints-frameworks-for-app-engine/</guid>
+      <description>backward-incompatible ways and is not subject to any SLA or deprecation &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Microsoft Cosmos DB in Azure Storage Explorer  public preview</title>
