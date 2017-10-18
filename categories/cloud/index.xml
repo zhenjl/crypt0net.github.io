@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 18 Oct 2017 05:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2017 06:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Cosmos DB in Azure Storage Explorer  public preview</title>
+      <link>//crypt0.net/post/microsoft-cosmos-db-in-azure-storage-explorer--public-preview/</link>
+      <pubDate>Wed, 18 Oct 2017 06:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-cosmos-db-in-azure-storage-explorer--public-preview/</guid>
+      <description>Explorer (ASE). Cosmos DB in ASE fully inherits ASE UI principles and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>KEYPR Appoints Philippe Dias as Chief Technology Officer</title>
@@ -9249,16 +9259,6 @@ Twitch debuts first official merchandise store, powered by Amazon Amazon has als
       
       <guid>//crypt0.net/post/google-cloud-iot-core-arrives-in-public-beta/</guid>
       <description>Google has officially announced that Google Cloud IoT Core is now available in public beta. The service was first introduced through the Google I/O &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Collect equipment data from global facilities</title>
-      <link>//crypt0.net/post/collect-equipment-data-from-global-facilities/</link>
-      <pubDate>Tue, 03 Oct 2017 06:00:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/collect-equipment-data-from-global-facilities/</guid>
-      <description>machine and equipment data in Google Sheets. They set up protected tabs for &amp;hellip; more.
 @crypt0net</description>
     </item>
     
