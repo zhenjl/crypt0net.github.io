@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Oct 2017 20:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 20:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Easing Enterprise Migration To The Cloud</title>
+      <link>//crypt0.net/post/easing-enterprise-migration-to-the-cloud/</link>
+      <pubDate>Thu, 19 Oct 2017 20:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/easing-enterprise-migration-to-the-cloud/</guid>
+      <description>Most recently, Nokia this week announced a partnership with Amazon Web Services to help service providers more easily migrate to AWS. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Fog computing is in the forecast for IoT deployments</title>
+      <link>//crypt0.net/post/fog-computing-is-in-the-forecast-for-iot-deployments/</link>
+      <pubDate>Thu, 19 Oct 2017 20:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/fog-computing-is-in-the-forecast-for-iot-deployments/</guid>
+      <description>Take, for instance, Amazon Web Services&amp;rsquo; (AWS) Snowball Edge. It&amp;rsquo;s an appliance that stores local data and transfers it to the cloud and is designed to &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>On the Edge of Industrial IoT</title>
+      <link>//crypt0.net/post/on-the-edge-of-industrial-iot/</link>
+      <pubDate>Thu, 19 Oct 2017 20:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/on-the-edge-of-industrial-iot/</guid>
+      <description>From our partnerships with IBM Watson to Amazon Web Services to Dell, the common theme is they all need access to the plant floor datawhich is &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Looking back on our migration from bare metal to GCP: Sentry</title>
@@ -9450,16 +9480,6 @@ Actifio Announces Sky Platform 8.0 &amp;hellip; grade data management for cloud 
       
       <guid>//crypt0.net/post/pentagon-aims-high-in-cloud-adoption-strategy-this-is-it/</guid>
       <description>If it&amp;rsquo;s one vendor, Amazon.com Inc.&amp;rsquo;s Amazon Web Services unit could have an advantage after the CIA trusted the cloud vendor with classified &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>NetApp on cloud-focused mission with channel partners</title>
-      <link>//crypt0.net/post/netapp-on-cloudfocused-mission-with-channel-partners/</link>
-      <pubDate>Wed, 04 Oct 2017 20:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/netapp-on-cloudfocused-mission-with-channel-partners/</guid>
-      <description>In addition, company officials announced deeper integrations with Azure and NetApp&amp;rsquo;s Cloud Control for Microsoft Office 365 and NetApp AltaVault. more.
 @crypt0net</description>
     </item>
     
