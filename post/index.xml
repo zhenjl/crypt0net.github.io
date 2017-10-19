@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Oct 2017 10:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 10:30:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VMware cloud services offer security, integration and more</title>
+      <link>//crypt0.net/post/vmware-cloud-services-offer-security-integration-and-more/</link>
+      <pubDate>Thu, 19 Oct 2017 10:30:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/vmware-cloud-services-offer-security-integration-and-more/</guid>
+      <description>major cloud providers, like Amazon and Microsoft, VMware changed tack after a string of failures, selling off its vCloud Air business to OVH in April &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>SS8 Achieves Integration With McAfee Enterprise Security Manager for</title>
@@ -1560,16 +1570,6 @@
       <guid>//crypt0.net/post/major-companies-are-investing-in-blockchain/</guid>
       <description>blockchain companies. more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>VMware cloud services offer security, integration and more</title>
-      <link>//crypt0.net/post/vmware-cloud-services-offer-security-integration-and-more/</link>
-      <pubDate>Wed, 18 Oct 2017 13:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vmware-cloud-services-offer-security-integration-and-more/</guid>
-      <description>Organizations increasingly use the cloud to make their workloads available; VMware has followed suit by integrating OpenStack into vSphere with &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -26260,16 +26260,6 @@
       <guid>//crypt0.net/post/intel-offers-innovative-approach-to-iot-scaling-and-security/</guid>
       <description>The Intel SDO also leverages Intel&amp;rsquo;s unique privacy-preserving IoT identity solution, the Intel Enhanced Privacy ID (Intel EPID), to anonymously &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>T-Systems SA gets behind Microsoft Azure</title>
-      <link>//crypt0.net/post/tsystems-sa-gets-behind-microsoft-azure/</link>
-      <pubDate>Wed, 04 Oct 2017 10:20:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/tsystems-sa-gets-behind-microsoft-azure/</guid>
-      <description>T-Systems South Africa will partners with Microsoft offer Azure services to &amp;hellip; our customers&amp;rsquo; investments and build on our partnership with Microsoft. more.
-@crypt0net</description>
     </item>
     
   </channel>
