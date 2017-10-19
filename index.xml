@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Oct 2017 20:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 20:10:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Looking back on our migration from bare metal to GCP: Sentry</title>
+      <link>//crypt0.net/post/looking-back-on-our-migration-from-bare-metal-to-gcp-sentry/</link>
+      <pubDate>Thu, 19 Oct 2017 20:10:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/looking-back-on-our-migration-from-bare-metal-to-gcp-sentry/</guid>
+      <description>thought of migrating to Google Cloud Platform (GCP) simultaneously exciting &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Product as a service, brought to you by IoT</title>
@@ -26890,66 +26900,6 @@ Qualys Releases Highly Scalable IOC Cloud App Providing 2-Second Visibility Mark
       
       <guid>//crypt0.net/post/netapp-on-cloudfocused-mission-with-channel-partners/</guid>
       <description>In addition, company officials announced deeper integrations with Azure and NetApp&amp;rsquo;s Cloud Control for Microsoft Office 365 and NetApp AltaVault. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Banks team up with IBM in trade finance blockchain</title>
-      <link>//crypt0.net/post/banks-team-up-with-ibm-in-trade-finance-blockchain/</link>
-      <pubDate>Wed, 04 Oct 2017 20:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/banks-team-up-with-ibm-in-trade-finance-blockchain/</guid>
-      <description>A group of banks are teaming up with IBM to build a new global system for trade finance using blockchain technology that is designed to track goods &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Boston Fed&#39;s Senior VP Downplays Blockchain&#39;s Threat To Finance Giants</title>
-      <link>//crypt0.net/post/boston-feds-senior-vp-downplays-blockchains-threat-to-finance-giants/</link>
-      <pubDate>Wed, 04 Oct 2017 20:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/boston-feds-senior-vp-downplays-blockchains-threat-to-finance-giants/</guid>
-      <description>Jim Cunha, the senior vice president of the Federal Reserve Bank of Boston, has expressed confidence that the advent of blockchain technology will &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>MyScript Partners with Google to Bring Powerful Interactive Ink Technology</title>
-      <link>//crypt0.net/post/myscript-partners-with-google-to-bring-powerful-interactive-ink-technology/</link>
-      <pubDate>Wed, 04 Oct 2017 20:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/myscript-partners-with-google-to-bring-powerful-interactive-ink-technology/</guid>
-      <description>SYS-CON Media (press release) MyScript, a pioneering market leader in accurate, high-performance handwriting recognition and interactive digital ink technology, today announces it &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Newtown Partners invests in blockchain startup Wala</title>
-      <link>//crypt0.net/post/newtown-partners-invests-in-blockchain-startup-wala/</link>
-      <pubDate>Wed, 04 Oct 2017 20:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/newtown-partners-invests-in-blockchain-startup-wala/</guid>
-      <description>Wala, a blockchain-powered financial services platform for the unbanked and underbanked, has today announced an equity investment from &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Qualys Releases Highly Scalable IOC Cloud App Providing 2-Second Visibility</title>
-      <link>//crypt0.net/post/qualys-releases-highly-scalable-ioc-cloud-app-providing-2second-visibility/</link>
-      <pubDate>Wed, 04 Oct 2017 20:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/qualys-releases-highly-scalable-ioc-cloud-app-providing-2second-visibility/</guid>
-      <description>Markets Insider Qualys Releases Highly Scalable IOC Cloud App Providing 2-Second Visibility of Compromised Assets and Threat Hunting Capabilities. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Vendasta Launches Website Pro, WordPress Hosting on Google Cloud</title>
-      <link>//crypt0.net/post/vendasta-launches-website-pro-wordpress-hosting-on-google-cloud/</link>
-      <pubDate>Wed, 04 Oct 2017 20:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/vendasta-launches-website-pro-wordpress-hosting-on-google-cloud/</guid>
-      <description>solution on the Google Cloud Platform. Saskatoon, SK (PRWEB) &amp;hellip; more.
 @crypt0net</description>
     </item>
     
