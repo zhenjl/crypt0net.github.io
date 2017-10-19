@@ -7,10 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Oct 2017 16:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 17:00:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analysis: How far has Google Cloud come?</title>
+      <link>//crypt0.net/post/analysis-how-far-has-google-cloud-come/</link>
+      <pubDate>Thu, 19 Oct 2017 17:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/analysis-how-far-has-google-cloud-come/</guid>
+      <description>Meanwhile, under the &amp;lsquo;Other&amp;rsquo; category filing, which many analysts believe is where Google&amp;rsquo;s cloud turnover is parked (Google does not break out &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Canadian Internet of Things Forecast, 20172021</title>
+      <link>//crypt0.net/post/canadian-internet-of-things-forecast-20172021/</link>
+      <pubDate>Thu, 19 Oct 2017 17:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/canadian-internet-of-things-forecast-20172021/</guid>
+      <description>(IDC #CA40625016, August 2016) and provides a detailed IoT market &amp;hellip; more.
+@surgethings</description>
+    </item>
+    
+    <item>
+      <title>Get a 1-year SelectTV subscription for $14.99</title>
+      <link>//crypt0.net/post/get-a-1year-selecttv-subscription-for-1499/</link>
+      <pubDate>Thu, 19 Oct 2017 17:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/get-a-1year-selecttv-subscription-for-1499/</guid>
+      <description>The Pixma ticks all the important boxes for a basic home printer: tiny footprint, 100-sheet input tray and support for both AirPrint and Google Cloud &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Google Advanced Protection Trades Ease-of-Use for Security</title>
+      <link>//crypt0.net/post/google-advanced-protection-trades-easeofuse-for-security/</link>
+      <pubDate>Thu, 19 Oct 2017 17:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/google-advanced-protection-trades-easeofuse-for-security/</guid>
+      <description>&amp;hellip; Google is offering are services available as part of its existing G Suite licenses or as paid add-on services running on the Google Cloud Platform. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>New AlphaGo Zero Unsupervised AI is 100X Better While Using 10% Computing</title>
+      <link>//crypt0.net/post/new-alphago-zero-unsupervised-ai-is-100x-better-while-using-10-computing/</link>
+      <pubDate>Thu, 19 Oct 2017 17:00:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/new-alphago-zero-unsupervised-ai-is-100x-better-while-using-10-computing/</guid>
+      <description>Edgy Labs (blog) For instance, it uses less computing power because it runs on just four Tensor Processor Unit (TPU) chip, Google&amp;rsquo;s cloud computing hardware and &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Lincoln completes 253MW Amazon Wind Farm Texas</title>
@@ -26159,46 +26209,6 @@
       
       <guid>//crypt0.net/post/faqs-diving-into-the-new-azure-files-sync-capability/</guid>
       <description>Azure Files Sync adds to this capability to enable Azure Files to be populated and replicated with on-premises Windows Server based file servers. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Cloud Firestore with Dan McGrath and Alex Dufetel</title>
-      <link>//crypt0.net/post/cloud-firestore-with-dan-mcgrath-and-alex-dufetel/</link>
-      <pubDate>Wed, 04 Oct 2017 17:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cloud-firestore-with-dan-mcgrath-and-alex-dufetel/</guid>
-      <description>to discuss Cloud Firestore, the brand new, fully-managed NoSQL &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>93% of companies have password rules, but it may not protect them from data</title>
-      <link>//crypt0.net/post/93-of-companies-have-password-rules-but-it-may-not-protect-them-from-data/</link>
-      <pubDate>Wed, 04 Oct 2017 16:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/93-of-companies-have-password-rules-but-it-may-not-protect-them-from-data/</guid>
-      <description>TechRepublic Weak password policies may be putting your organization at risk for data breaches, according to a new survey from security firm OneLogin. While 93% &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>A Show of Innovation: Industry innovators collaborate at Digital</title>
-      <link>//crypt0.net/post/a-show-of-innovation-industry-innovators-collaborate-at-digital/</link>
-      <pubDate>Wed, 04 Oct 2017 16:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/a-show-of-innovation-industry-innovators-collaborate-at-digital/</guid>
-      <description>Planning &amp;amp; Building Control Today &amp;hellip; collaborative work taking place between Google Cloud Platform and Flux; gain insight from the teams behind the Thames Tideway and HS2 projects &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Rolls-Royce partners with Google on autonomous ships</title>
-      <link>//crypt0.net/post/rollsroyce-partners-with-google-on-autonomous-ships/</link>
-      <pubDate>Wed, 04 Oct 2017 16:50:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rollsroyce-partners-with-google-on-autonomous-ships/</guid>
-      <description>The new deal allows Rolls-Royce to use Google&amp;rsquo;s Cloud Machine Learning Engine to further train the company&amp;rsquo;s artificial intelligence (AI) based &amp;hellip; more.
 @crypt0net</description>
     </item>
     
