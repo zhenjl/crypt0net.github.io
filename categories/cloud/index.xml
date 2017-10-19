@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Oct 2017 22:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 22:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MongoDB&#39;s IPO Beats the Market Out of the Gate</title>
+      <link>//crypt0.net/post/mongodbs-ipo-beats-the-market-out-of-the-gate/</link>
+      <pubDate>Thu, 19 Oct 2017 22:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mongodbs-ipo-beats-the-market-out-of-the-gate/</guid>
+      <description>Its Database as a Service cloud offering, Atlas, started about a year-and-a-half ago available on Amazon Web Services only, but is today available on &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Dell EMC, Lenovo Add Support for Microsoft Azure Stack</title>
@@ -39,16 +49,6 @@
       
       <guid>//crypt0.net/post/cloud-network-services-adjust-to-enterprise-demands/</guid>
       <description>&amp;hellip; England, prefers to run most of its workloads on private bare metal, but it uses AWS and Google Cloud Platform in certain locations to get as close to &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>MongoDB&#39;s IPO Beats the Market Out of the Gate</title>
-      <link>//crypt0.net/post/mongodbs-ipo-beats-the-market-out-of-the-gate/</link>
-      <pubDate>Thu, 19 Oct 2017 22:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mongodbs-ipo-beats-the-market-out-of-the-gate/</guid>
-      <description>&amp;hellip; about a year-and-a-half ago available on Amazon Web Services only, but is today available on Google Cloud Platform and Microsoft Azure as well. more.
 @crypt0net</description>
     </item>
     
@@ -9430,16 +9430,6 @@ Actifio Announces Sky Platform 8.0 &amp;hellip; grade data management for cloud 
       
       <guid>//crypt0.net/post/knightfox-wins-amazon-accreditation-continues-to-go-as-app-builder/</guid>
       <description>App solutions builder Knightfox by is the first company in the Caribbean to be accredited by Amazon web services as a tech partner. In this Loop video, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>NetApp To Bring Enterprise NFS File Service to Microsoft Azure</title>
-      <link>//crypt0.net/post/netapp-to-bring-enterprise-nfs-file-service-to-microsoft-azure/</link>
-      <pubDate>Wed, 04 Oct 2017 22:30:05 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/netapp-to-bring-enterprise-nfs-file-service-to-microsoft-azure/</guid>
-      <description>network file system to Azure and will offer added protection of Office 365 &amp;hellip; more.
 @crypt0net</description>
     </item>
     
