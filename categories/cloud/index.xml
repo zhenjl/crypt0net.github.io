@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Oct 2017 19:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 19:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NewSQL databases rise anew -- MemSQL, Spanner among contenders</title>
+      <link>//crypt0.net/post/newsql-databases-rise-anew--memsql-spanner-among-contenders/</link>
+      <pubDate>Thu, 19 Oct 2017 19:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/newsql-databases-rise-anew--memsql-spanner-among-contenders/</guid>
+      <description>For its part, Google gave a type of endorsement to NewSQL databases this year, as the company formally released Google Cloud Spanner as a &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>CyrusOne to Offer Direct Access to AWS Cloud Services Via Private Network</title>
@@ -69,16 +79,6 @@
       
       <guid>//crypt0.net/post/childrens-hospital-of-philadelphia-and-edico-genome-achieve-fastestever/</guid>
       <description>PR Newswire (press release) Utilizing Edico Genome&amp;rsquo;s DRAGEN Genome Pipeline, deployed on 1,000 Amazon EC2 F1 instances on the Amazon Web Services (AWS) Cloud, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>NewSQL databases rise anew -- MemSQL, Spanner among contenders</title>
-      <link>//crypt0.net/post/newsql-databases-rise-anew--memsql-spanner-among-contenders/</link>
-      <pubDate>Thu, 19 Oct 2017 18:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/newsql-databases-rise-anew--memsql-spanner-among-contenders/</guid>
-      <description>&amp;hellip; to its enterprise version for development and testing. And Splice Machine launched its database platform on the Amazon Web Services Marketplace. more.
 @crypt0net</description>
     </item>
     

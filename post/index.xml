@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Oct 2017 19:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 19:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NewSQL databases rise anew -- MemSQL, Spanner among contenders</title>
+      <link>//crypt0.net/post/newsql-databases-rise-anew--memsql-spanner-among-contenders/</link>
+      <pubDate>Thu, 19 Oct 2017 19:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/newsql-databases-rise-anew--memsql-spanner-among-contenders/</guid>
+      <description>For its part, Google gave a type of endorsement to NewSQL databases this year, as the company formally released Google Cloud Spanner as a &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Blockchain: A new aid to nuclear export controls?</title>
@@ -189,16 +199,6 @@
       
       <guid>//crypt0.net/post/childrens-hospital-of-philadelphia-and-edico-genome-achieve-fastestever/</guid>
       <description>PR Newswire (press release) Utilizing Edico Genome&amp;rsquo;s DRAGEN Genome Pipeline, deployed on 1,000 Amazon EC2 F1 instances on the Amazon Web Services (AWS) Cloud, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>NewSQL databases rise anew -- MemSQL, Spanner among contenders</title>
-      <link>//crypt0.net/post/newsql-databases-rise-anew--memsql-spanner-among-contenders/</link>
-      <pubDate>Thu, 19 Oct 2017 18:50:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/newsql-databases-rise-anew--memsql-spanner-among-contenders/</guid>
-      <description>&amp;hellip; to its enterprise version for development and testing. And Splice Machine launched its database platform on the Amazon Web Services Marketplace. more.
 @crypt0net</description>
     </item>
     
@@ -26420,46 +26420,6 @@
       <guid>//crypt0.net/post/vendasta-launches-website-pro-wordpress-hosting-on-google-cloud/</guid>
       <description>solution on the Google Cloud Platform. Saskatoon, SK (PRWEB) &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>AWS CEO: &#39;We have plenty of things to keep working on&#39;</title>
-      <link>//crypt0.net/post/aws-ceo-we-have-plenty-of-things-to-keep-working-on/</link>
-      <pubDate>Wed, 04 Oct 2017 19:40:42 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/aws-ceo-we-have-plenty-of-things-to-keep-working-on/</guid>
-      <description>The first is serverless computing models seen in AWS Lambda and its use for building mobile, processing and Internet of Things (IoT) applications. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>African states chart own Internet of Things path</title>
-      <link>//crypt0.net/post/african-states-chart-own-internet-of-things-path/</link>
-      <pubDate>Wed, 04 Oct 2017 19:40:42 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/african-states-chart-own-internet-of-things-path/</guid>
-      <description>These are futuristic scenarios triggered by the phrase Internet of Things(IoT) smart homes, smart cars, smart devices that use the Internet to &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Here&#39;s a look at the top 2018 strategic IT budget priorities: AI, IoT,</title>
-      <link>//crypt0.net/post/heres-a-look-at-the-top-2018-strategic-it-budget-priorities-ai-iot/</link>
-      <pubDate>Wed, 04 Oct 2017 19:40:42 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/heres-a-look-at-the-top-2018-strategic-it-budget-priorities-ai-iot/</guid>
-      <description>ZDNet Enterprise IoT in 2017: The state of play Infographic: Companies are using IoT to monitor environments and improve products Internet of Things: &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>McAfee to launch solutions to protect privacy, keep kids safe</title>
-      <link>//crypt0.net/post/mcafee-to-launch-solutions-to-protect-privacy-keep-kids-safe/</link>
-      <pubDate>Wed, 04 Oct 2017 19:40:42 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mcafee-to-launch-solutions-to-protect-privacy-keep-kids-safe/</guid>
-      <description>McAfee also plans to announce a security portfolio for Internet of Things (IoT) security issues, said John Giamatteo, general manager, consumer &amp;hellip; more.
-@surgethings</description>
     </item>
     
   </channel>
