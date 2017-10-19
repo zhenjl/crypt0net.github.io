@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Oct 2017 11:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 12:00:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>McAfee Folds Analytics Into Security Tools</title>
+      <link>//crypt0.net/post/mcafee-folds-analytics-into-security-tools/</link>
+      <pubDate>Thu, 19 Oct 2017 12:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mcafee-folds-analytics-into-security-tools/</guid>
+      <description>Another tool announced this week, a threat defense sandbox technology, is available on the Microsoft Azure cloud (NASDAQ: MSFT). The company &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Accenture Data Exposed: The Importance of Protecting Your Cloud</title>
@@ -239,16 +249,6 @@
       
       <guid>//crypt0.net/post/googles-deepmind-ai-unit-releases-new-version-of-alphago-that-learns-on/</guid>
       <description>GeekWire Google&amp;rsquo;s Deepmind artificial intelligence unit has been working on systems that play the ancient board game called Go. (Wikimedia Commons Photo). more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>McAfee Folds Analytics Into Security Tools</title>
-      <link>//crypt0.net/post/mcafee-folds-analytics-into-security-tools/</link>
-      <pubDate>Thu, 19 Oct 2017 00:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/mcafee-folds-analytics-into-security-tools/</guid>
-      <description>The security firm&amp;rsquo;s web gateway is available on Amazon Web Services (NASDAQ: AMZN). Another tool announced this week, a threat defense &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -9410,26 +9410,6 @@ NFS is now on tap in Azure and NetApp is Microsoft&amp;rsquo;s provider NetApp i
       
       <guid>//crypt0.net/post/in-case-you-missed-itthe-journey-to-the-cloud/</guid>
       <description>Google Cloud&amp;rsquo;s Chief Technology Officer Jeff Kember told delegates during the session Cloud: How far can it go? that the $30bn investment Google &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Global Big Data Security Market 2017- IBM, Microsoft, Oracle, Amazon Web</title>
-      <link>//crypt0.net/post/global-big-data-security-market-2017-ibm-microsoft-oracle-amazon-web/</link>
-      <pubDate>Wed, 04 Oct 2017 11:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/global-big-data-security-market-2017-ibm-microsoft-oracle-amazon-web/</guid>
-      <description>News of Columnist: Research News By Market.Biz The Report entitled Global Big Data Security Market 2017 analyses the crucial factors of the Big Data Security market based on present industry &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Rolls-Royce to Build Autonomous Ships with Google AI</title>
-      <link>//crypt0.net/post/rollsroyce-to-build-autonomous-ships-with-google-ai/</link>
-      <pubDate>Wed, 04 Oct 2017 11:40:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/rollsroyce-to-build-autonomous-ships-with-google-ai/</guid>
-      <description>Under an agreement signed on October 3, 2017, Rolls-Royce will start using Google cloud-based software to improve its system for detecting objects &amp;hellip; more.
 @crypt0net</description>
     </item>
     
