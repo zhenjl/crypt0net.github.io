@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 19 Oct 2017 02:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 02:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apple and GE just put iOS inside Industry 4.0</title>
+      <link>//crypt0.net/post/apple-and-ge-just-put-ios-inside-industry-40/</link>
+      <pubDate>Thu, 19 Oct 2017 02:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/apple-and-ge-just-put-ios-inside-industry-40/</guid>
+      <description>Meanwhile, Apple intends to promote GE&amp;rsquo;s Predix solution as the industrial Internet of Things (IoT) analytics platform of choice to its customers and &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Amazon Web Services investigating connectivity issues in Oregon region</title>
@@ -26360,26 +26370,6 @@
       <guid>//crypt0.net/post/yahoo-now-says-all-3-billion-user-accounts-were-affected-by-2013-hack/</guid>
       <description>This is only one of several high-profile data breaches that have plagued Yahoo over recent years. Last year, the company confirmed that a 2014 hack &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>CDC eyes blockchain for exchanging health data during disasters</title>
-      <link>//crypt0.net/post/cdc-eyes-blockchain-for-exchanging-health-data-during-disasters/</link>
-      <pubDate>Wed, 04 Oct 2017 02:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/cdc-eyes-blockchain-for-exchanging-health-data-during-disasters/</guid>
-      <description>Health care researchers have suggested blockchain technology as a way to securely manage patients&amp;rsquo; electronic records, track pharmaceuticals and &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>NetApp expands hybrid cloud partnership with Microsoft Azure</title>
-      <link>//crypt0.net/post/netapp-expands-hybrid-cloud-partnership-with-microsoft-azure/</link>
-      <pubDate>Wed, 04 Oct 2017 02:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/netapp-expands-hybrid-cloud-partnership-with-microsoft-azure/</guid>
-      <description>On Tuesday the company launched its Microsoft Azure Enterprise Network File System as a service in the Azure cloud. The service makes it easier to &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
