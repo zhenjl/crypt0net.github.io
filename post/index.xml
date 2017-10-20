@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Oct 2017 23:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2017 23:20:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>vCloud Director 8.10  Renew SSL Certificates AZ</title>
+      <link>//crypt0.net/post/vcloud-director-810--renew-ssl-certificates-az/</link>
+      <pubDate>Fri, 20 Oct 2017 23:20:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/vcloud-director-810--renew-ssl-certificates-az/</guid>
+      <description>certificates for a vCD 8.10 cell which had expired. I could not find a &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Governor Inslee, Secretary General Jan Egeland to Address NetHope Global</title>
