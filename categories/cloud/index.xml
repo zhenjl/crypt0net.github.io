@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Oct 2017 21:40:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2017 22:40:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On cloud-first policy, not all companies are equal</title>
+      <link>//crypt0.net/post/on-cloudfirst-policy-not-all-companies-are-equal/</link>
+      <pubDate>Fri, 20 Oct 2017 22:40:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/on-cloudfirst-policy-not-all-companies-are-equal/</guid>
+      <description>The company uses a cloud infrastructure deployment by Amazon Web Services as an archive and moved to Workday&amp;rsquo;s cloud application for human &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Amazon earnings: Analysts await news of the Whole Foods impact</title>
@@ -9090,26 +9100,6 @@ Babel Fish Is Real, But Who Pays? The heavy lifting is being done by the associa
       
       <guid>//crypt0.net/post/how-to-make-money-like-amazon-billionaire-jeff-bezos/</guid>
       <description>&amp;hellip; how you shop with Amazon Dash or Prime Wardrobe; how you consume media, now that even Netflix Inc. (NFLX) runs on Amazon Web Services. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Announces A Hands-Free Clips Camera</title>
-      <link>//crypt0.net/post/google-announces-a-handsfree-clips-camera/</link>
-      <pubDate>Thu, 05 Oct 2017 22:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-announces-a-handsfree-clips-camera/</guid>
-      <description>However, Google assures that your data will remain secured locally and encrypted on the device. The data won&amp;rsquo;t be synced over the Google Cloud, &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google Launches Cloud Firestore NoSQL Document Database</title>
-      <link>//crypt0.net/post/google-launches-cloud-firestore-nosql-document-database/</link>
-      <pubDate>Thu, 05 Oct 2017 22:00:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-launches-cloud-firestore-nosql-document-database/</guid>
-      <description>Google Cloud Firestore features real-time data synchronization and automatic multi-region data replication. The product includes SDKs for iOS, &amp;hellip; more.
 @crypt0net</description>
     </item>
     
