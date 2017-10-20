@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Oct 2017 15:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2017 16:00:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>No more mister nice GUI: Visual tools stapled to Azure Data Factory</title>
+      <link>//crypt0.net/post/no-more-mister-nice-gui-visual-tools-stapled-to-azure-data-factory/</link>
+      <pubDate>Fri, 20 Oct 2017 16:00:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/no-more-mister-nice-gui-visual-tools-stapled-to-azure-data-factory/</guid>
+      <description>Azure Data Factory is Redmond&amp;rsquo;s data pipeline management and integration service, kind of like Google Cloud Dataflow or AWS Data Pipeline. more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Taste the Redmond: Dell strengthens its Azure Stackery</title>
