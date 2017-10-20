@@ -7,10 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Oct 2017 02:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2017 02:20:05 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2017 Security Breaches: Frequency and Severity on the Rise (Updated)</title>
+      <link>//crypt0.net/post/2017-security-breaches-frequency-and-severity-on-the-rise-updated/</link>
+      <pubDate>Fri, 20 Oct 2017 02:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/2017-security-breaches-frequency-and-severity-on-the-rise-updated/</guid>
+      <description>Now that we&amp;rsquo;re into the final quarter of 2017, it&amp;rsquo;s time to look back at the largest data breaches of 2017. We shouldn&amp;rsquo;t be surprised at the number of &amp;hellip; more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>Friday Notebook, October 20: Ron Oglesby will lead Citrix Communities</title>
+      <link>//crypt0.net/post/friday-notebook-october-20-ron-oglesby-will-lead-citrix-communities/</link>
+      <pubDate>Fri, 20 Oct 2017 02:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/friday-notebook-october-20-ron-oglesby-will-lead-citrix-communities/</guid>
+      <description>VMware shared some technical information about Horizon Cloud on Microsoft Azure. Among the details are integration with Workspace ONE, their &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>How CTI Advances Threat Hunting Capabilities and Outcomes</title>
+      <link>//crypt0.net/post/how-cti-advances-threat-hunting-capabilities-and-outcomes/</link>
+      <pubDate>Fri, 20 Oct 2017 02:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/how-cti-advances-threat-hunting-capabilities-and-outcomes/</guid>
+      <description>interpretations in recent years, ranging from very simplistic measures to more &amp;hellip; more.
+@trustpath</description>
+    </item>
+    
+    <item>
+      <title>Microsoft rolls out DoD-cleared government cloud service</title>
+      <link>//crypt0.net/post/microsoft-rolls-out-dodcleared-government-cloud-service/</link>
+      <pubDate>Fri, 20 Oct 2017 02:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-rolls-out-dodcleared-government-cloud-service/</guid>
+      <description>Microsoft is expanding the scope of its Azure Government cloud service, creating an extension for all branches of the US military, defense agencies &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Nokia, Amazon Web Services partner to facilitate service provider, business</title>
+      <link>//crypt0.net/post/nokia-amazon-web-services-partner-to-facilitate-service-provider-business/</link>
+      <pubDate>Fri, 20 Oct 2017 02:20:05 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/nokia-amazon-web-services-partner-to-facilitate-service-provider-business/</guid>
+      <description>FierceTelecom Nokia has established a strategic alliance with Amazon Web Services (AWS) with an eye towards helping service providers and their business &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Attackers hijack state agency server for malware</title>
@@ -1103,16 +1153,6 @@ A Tale of Two Credit Card Breaches: Pizza Hut, Hyatt Expose Customer Data &amp;h
       
       <guid>//crypt0.net/post/dell-emc-beefs-up-its-azure-stack-appliance-with-new-silicon-more-memory/</guid>
       <description>Dell EMC Cloud for Microsoft Azure Stack will be available in three configurations. Specifications range from 24 processing cores with 384GB of &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Nokia, Amazon Web Services partner to facilitate service provider, business</title>
-      <link>//crypt0.net/post/nokia-amazon-web-services-partner-to-facilitate-service-provider-business/</link>
-      <pubDate>Thu, 19 Oct 2017 16:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/nokia-amazon-web-services-partner-to-facilitate-service-provider-business/</guid>
-      <description>FierceTelecom Such partnerships are relevant at a time when service providers have become onramps to cloud providers like AWS and Microsoft Azure. For Nokia &amp;hellip; more.
 @crypt0net</description>
     </item>
     
@@ -26761,26 +26801,6 @@ Qualys Releases Highly Scalable IOC Cloud App Providing 2-Second Visibility Mark
       <guid>//crypt0.net/post/yahoos-credibility-is-in-shreds-but-will-our-data-protection-chief-act/</guid>
       <description>This is usually what happens to companies investigated by the DPC for data breaches. Our legislative enforcement climate is arguably very lax. more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Is Multicloud a True Virtue or a Mere Convenience?</title>
-      <link>//crypt0.net/post/is-multicloud-a-true-virtue-or-a-mere-convenience/</link>
-      <pubDate>Thu, 05 Oct 2017 02:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/is-multicloud-a-true-virtue-or-a-mere-convenience/</guid>
-      <description>Its users throughout the world provision services on the platform much the same way they would for Amazon, Microsoft Azure, or Google Cloud. more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>The Best Of World Blockchain Forum 2017 in London - ICO Highlights</title>
-      <link>//crypt0.net/post/the-best-of-world-blockchain-forum-2017-in-london--ico-highlights/</link>
-      <pubDate>Thu, 05 Oct 2017 02:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/the-best-of-world-blockchain-forum-2017-in-london--ico-highlights/</guid>
-      <description>Like the cloud hosting services of Amazon&amp;rsquo;s AWS and Microsoft Azure, Bluzelle is trying to build an enterprise-level database service that fully works &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
