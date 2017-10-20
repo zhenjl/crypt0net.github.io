@@ -7,10 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Oct 2017 16:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2017 16:20:04 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HPE bets on hybrid IT to combat public cloud</title>
+      <link>//crypt0.net/post/hpe-bets-on-hybrid-it-to-combat-public-cloud/</link>
+      <pubDate>Fri, 20 Oct 2017 16:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/hpe-bets-on-hybrid-it-to-combat-public-cloud/</guid>
+      <description>The analyst said HPE&amp;rsquo;s decision to stop selling custom-designed commodity servers to the tier-one service providers (such as Amazon Web Services &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure IoT Edge: Conclusion &amp; Next Steps</title>
+      <link>//crypt0.net/post/microsoft-azure-iot-edge-conclusion--next-steps/</link>
+      <pubDate>Fri, 20 Oct 2017 16:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-azure-iot-edge-conclusion--next-steps/</guid>
+      <description>In Part 1, we were able to learn a bit about what Microsoft&amp;rsquo;s Azure IoT Edge does, ran a sample app, and modified it. In Part 2, you got a couple &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>MongoDB CTO and Founder Eliot Horowitz on IPO Day</title>
+      <link>//crypt0.net/post/mongodb-cto-and-founder-eliot-horowitz-on-ipo-day/</link>
+      <pubDate>Fri, 20 Oct 2017 16:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/mongodb-cto-and-founder-eliot-horowitz-on-ipo-day/</guid>
+      <description>It has developed a solution called &amp;ldquo;MongoDB Atlas&amp;rdquo; to work across multiple platforms such as AWS, Microsoft Azure, or Google Cloud. more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>No more mister nice GUI: Visual tools stapled to Azure Data Factory</title>
+      <link>//crypt0.net/post/no-more-mister-nice-gui-visual-tools-stapled-to-azure-data-factory/</link>
+      <pubDate>Fri, 20 Oct 2017 16:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/no-more-mister-nice-gui-visual-tools-stapled-to-azure-data-factory/</guid>
+      <description>In a move that will delight factory workers developers everywhere, Microsoft has added more graphical user interface features to Azure Data Factory &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Nokia &amp; Amazon Web Services announce collaboration to enable easier</title>
+      <link>//crypt0.net/post/nokia--amazon-web-services-announce-collaboration-to-enable-easier/</link>
+      <pubDate>Fri, 20 Oct 2017 16:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/nokia--amazon-web-services-announce-collaboration-to-enable-easier/</guid>
+      <description>Nokiapoweruser Nokia has entered into a strategic collaboration with Amazon Web services to help the enterprises in migrating easily to the cloud. Nokia will bring IoT &amp;hellip; more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Ready for the Next Nightmare: The Art of Incident Response</title>
+      <link>//crypt0.net/post/ready-for-the-next-nightmare-the-art-of-incident-response/</link>
+      <pubDate>Fri, 20 Oct 2017 16:20:04 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/ready-for-the-next-nightmare-the-art-of-incident-response/</guid>
+      <description>Beyond an automated machine-to-machine linear response, the best incident response platform creates the clearest situational awareness so that an &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Driven by New Technologies, IT Spending to Look a Lot Different in 2021</title>
@@ -20,16 +80,6 @@
       <guid>//crypt0.net/post/driven-by-new-technologies-it-spending-to-look-a-lot-different-in-2021/</guid>
       <description>As traditional ICT spending matures, emerging areas of technology including the Internet of Things, AI, and next-gen security will drive new spending &amp;hellip; more.
 @surgethings</description>
-    </item>
-    
-    <item>
-      <title>No more mister nice GUI: Visual tools stapled to Azure Data Factory</title>
-      <link>//crypt0.net/post/no-more-mister-nice-gui-visual-tools-stapled-to-azure-data-factory/</link>
-      <pubDate>Fri, 20 Oct 2017 16:00:04 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/no-more-mister-nice-gui-visual-tools-stapled-to-azure-data-factory/</guid>
-      <description>Azure Data Factory is Redmond&amp;rsquo;s data pipeline management and integration service, kind of like Google Cloud Dataflow or AWS Data Pipeline. more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -290,16 +340,6 @@
       <guid>//crypt0.net/post/takeaways-on-data-protection-and-insider-threats-from-verizons-2017-report/</guid>
       <description>&amp;hellip; (DBIR), a comprehensive study that draws on the collective experience of 65 organizations for a sample of security incidents and data breaches. more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>HPE bets on hybrid IT to combat public cloud</title>
-      <link>//crypt0.net/post/hpe-bets-on-hybrid-it-to-combat-public-cloud/</link>
-      <pubDate>Fri, 20 Oct 2017 14:20:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/hpe-bets-on-hybrid-it-to-combat-public-cloud/</guid>
-      <description>HPE plans to shift its business to support hybrid IT and technologies such as the Microsoft Azure Stack, which enables businesses to deploy cloud &amp;hellip; more.
-@crypt0net</description>
     </item>
     
     <item>
@@ -25940,146 +25980,6 @@
       <guid>//crypt0.net/post/managed-security-services-market-outlook-to-2025--dell-secureworks/</guid>
       <description>MilTech &amp;hellip; Vulnerability Management, Log Management, Compliance Management, and SIEM); Threat Management Type, Deployment Type, Enterprise Size, &amp;hellip; more.
 @trustpath</description>
-    </item>
-    
-    <item>
-      <title>Tech Quiz Of The Week: What Do You Know About Oracle?</title>
-      <link>//crypt0.net/post/tech-quiz-of-the-week-what-do-you-know-about-oracle/</link>
-      <pubDate>Thu, 05 Oct 2017 16:10:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/tech-quiz-of-the-week-what-do-you-know-about-oracle/</guid>
-      <description>It may face huge competition from AWS, Microsoft Azure and Google Cloud Platform in the public cloud space, and some wonder whether its efforts &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Blockchain Driven P2P Lending &amp; Investment Platform Announces Crowdsale</title>
-      <link>//crypt0.net/post/blockchain-driven-p2p-lending--investment-platform-announces-crowdsale/</link>
-      <pubDate>Thu, 05 Oct 2017 16:00:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/blockchain-driven-p2p-lending--investment-platform-announces-crowdsale/</guid>
-      <description>LoanBit is one of the more unique projects in both the blockchain and lending ecosystems, as it offers a modern solution to an age old problem. more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Commerzbank, other banks join UBS and IBM trade finance blockchain</title>
-      <link>//crypt0.net/post/commerzbank-other-banks-join-ubs-and-ibm-trade-finance-blockchain/</link>
-      <pubDate>Thu, 05 Oct 2017 16:00:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/commerzbank-other-banks-join-ubs-and-ibm-trade-finance-blockchain/</guid>
-      <description>N&amp;gt; aimed at building blockchain-based technology to support trade finance transactions. The platform called Batavia would help banks and their &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>GOP chairman backs national data breach notification standard</title>
-      <link>//crypt0.net/post/gop-chairman-backs-national-data-breach-notification-standard/</link>
-      <pubDate>Thu, 05 Oct 2017 16:00:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/gop-chairman-backs-national-data-breach-notification-standard/</guid>
-      <description>&amp;hellip; expressed support for a national standard for notifying individuals impacted by corporate data breaches, amid scrutiny over the Equifax breach. more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Global IT spending to hit $3.7 trillion in 2018</title>
-      <link>//crypt0.net/post/global-it-spending-to-hit-37-trillion-in-2018/</link>
-      <pubDate>Thu, 05 Oct 2017 16:00:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/global-it-spending-to-hit-37-trillion-in-2018/</guid>
-      <description>&amp;hellip; middleware (MOM), security (endpoint detection and response), analytics (smart data discovery) and storage (in-memory data grids). more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>How Amazon.com, Inc (AMZN) Stock Can See $1000 Again</title>
-      <link>//crypt0.net/post/how-amazoncom-inc-amzn-stock-can-see-1000-again/</link>
-      <pubDate>Thu, 05 Oct 2017 16:00:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/how-amazoncom-inc-amzn-stock-can-see-1000-again/</guid>
-      <description>Revenue from Amazon Web Services (AWS) will likely beat consensus estimates. Demand for cloud-based solutions keep growing, thanks to heavy &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>IRS Hires Equifax To Safeguard Taxpayer Data</title>
-      <link>//crypt0.net/post/irs-hires-equifax-to-safeguard-taxpayer-data/</link>
-      <pubDate>Thu, 05 Oct 2017 16:00:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/irs-hires-equifax-to-safeguard-taxpayer-data/</guid>
-      <description>In the wake of one of the most massive data breaches in a decade, it&amp;rsquo;s irresponsible for the IRS to turn over millions in taxpayer dollars to a company &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Internet of Things Podcast: Ring&#39;s new security systems and more</title>
-      <link>//crypt0.net/post/internet-of-things-podcast-rings-new-security-systems-and-more/</link>
-      <pubDate>Thu, 05 Oct 2017 16:00:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/internet-of-things-podcast-rings-new-security-systems-and-more/</guid>
-      <description>On this week&amp;rsquo;s Internet of Things Podcast, Stacey Higginbotham and Kevin Tofel discuss Ring&amp;rsquo;s new security system, ADT pairing up with SmartThings &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Key Takeaways From Oracle OpenWorld: AI, Security, &#39;Cheap&#39; Cloud</title>
-      <link>//crypt0.net/post/key-takeaways-from-oracle-openworld-ai-security-cheap-cloud/</link>
-      <pubDate>Thu, 05 Oct 2017 16:00:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/key-takeaways-from-oracle-openworld-ai-security-cheap-cloud/</guid>
-      <description>There was a lot of news this year, starting with the announcement of a virtual price war with Amazon Web Services for processing workloads in their &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Microsoft tries to Spark relationship with cluster lusters: Promises 5-min</title>
-      <link>//crypt0.net/post/microsoft-tries-to-spark-relationship-with-cluster-lusters-promises-5min/</link>
-      <pubDate>Thu, 05 Oct 2017 16:00:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/microsoft-tries-to-spark-relationship-with-cluster-lusters-promises-5min/</guid>
-      <description>The Register First apps on Windows, then Linuxes in Hyper-V and on Azure, now big data via Spark. In another effort to win over the open source crowd, Microsoft &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Post-Equifax Breach, It&#39;s Time for a Digital Universal ID</title>
-      <link>//crypt0.net/post/postequifax-breach-its-time-for-a-digital-universal-id/</link>
-      <pubDate>Thu, 05 Oct 2017 16:00:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/postequifax-breach-its-time-for-a-digital-universal-id/</guid>
-      <description>Perhaps we have become numb to these hacks and data breaches. What, my credit card number was compromised? The credit card company will &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>RedLock Report Indicates Data Breaches in the Cloud Will Continu</title>
-      <link>//crypt0.net/post/redlock-report-indicates-data-breaches-in-the-cloud-will-continu/</link>
-      <pubDate>Thu, 05 Oct 2017 16:00:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/redlock-report-indicates-data-breaches-in-the-cloud-will-continu/</guid>
-      <description>cloud security. MENLO PARK, Calif. &amp;ndash;(BUSINESS WIRE). RedLock, the &amp;hellip; more.
-@trustpath</description>
-    </item>
-    
-    <item>
-      <title>Ripple CEO Takes Swipe at Science Experiment &#39;Blockchain Tourists&#39;</title>
-      <link>//crypt0.net/post/ripple-ceo-takes-swipe-at-science-experiment-blockchain-tourists/</link>
-      <pubDate>Thu, 05 Oct 2017 16:00:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/ripple-ceo-takes-swipe-at-science-experiment-blockchain-tourists/</guid>
-      <description>Chief executive of cryptocurrency start-up Ripple, Brad Garlinghouse, has spoken out at the number of companies and people using Blockchain &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>T-Systems SA&#39;s Microsoft Azure partnership to affect plans with Huawei</title>
-      <link>//crypt0.net/post/tsystems-sas-microsoft-azure-partnership-to-affect-plans-with-huawei/</link>
-      <pubDate>Thu, 05 Oct 2017 16:00:07 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/tsystems-sas-microsoft-azure-partnership-to-affect-plans-with-huawei/</guid>
-      <description>T-Systems South Africa&amp;rsquo;s announcement of a partnership with Microsoft to offer Azure services to enterprise customers across Sub-Saharan Africa will &amp;hellip; more.
-@crypt0net</description>
     </item>
     
   </channel>
