@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 20 Oct 2017 16:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2017 16:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/things/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Attack of the Clones  can you trust your machines?</title>
+      <link>//crypt0.net/post/attack-of-the-clones--can-you-trust-your-machines/</link>
+      <pubDate>Fri, 20 Oct 2017 16:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/attack-of-the-clones--can-you-trust-your-machines/</guid>
+      <description>The number of machines in use is exploding due to growth in trends like the IoT and DevOps. At best estimates, the amount of machine identities in &amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>Ready for the Next Nightmare: The Art of Incident Response</title>
