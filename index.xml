@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 21 Oct 2017 13:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Oct 2017 13:10:02 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Mqtt as websocket Channel as backend worker</title>
+      <link>//crypt0.net/post/using-mqtt-as-websocket-channel-as-backend-worker/</link>
+      <pubDate>Sat, 21 Oct 2017 13:10:02 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/using-mqtt-as-websocket-channel-as-backend-worker/</guid>
+      <description>channel in backend. I have already import channel asgi in python,&amp;hellip; more.
+@surgethings</description>
+    </item>
     
     <item>
       <title>CFPB releases consumer protection principles for consumer-authorized</title>
