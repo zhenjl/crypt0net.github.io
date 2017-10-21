@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 21 Oct 2017 07:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Oct 2017 07:50:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Custom domain over SSL on Google cloud storage</title>
+      <link>//crypt0.net/post/custom-domain-over-ssl-on-google-cloud-storage/</link>
+      <pubDate>Sat, 21 Oct 2017 07:50:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/custom-domain-over-ssl-on-google-cloud-storage/</guid>
+      <description>setting of Google Cloud Storage part, because I don&amp;rsquo;t know how to set credentials &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Honkamp Krueger Financial Services Inc. Has $2.51 Million Position in</title>
@@ -25490,56 +25500,6 @@
       <guid>//crypt0.net/post/telefonica-integrates-sealsign-platform-with-microsoft-azure/</guid>
       <description>Telefonica announced at its fifth Security Innovation Day that it will be integrating its digital and biometric signature platform SealSign with the &amp;hellip; more.
 @crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Google to Present Cloud Job Discovery at the Job Board Summit</title>
-      <link>//crypt0.net/post/google-to-present-cloud-job-discovery-at-the-job-board-summit/</link>
-      <pubDate>Fri, 06 Oct 2017 07:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/google-to-present-cloud-job-discovery-at-the-job-board-summit/</guid>
-      <description>Tarquin Clark will share how Google Cloud Job Discovery works to improve the job search experience and hiring process at Europe&amp;rsquo;s largest &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>OOW17  An ICYMI review of seven BFDs from Oracle OpenWorld</title>
-      <link>//crypt0.net/post/oow17--an-icymi-review-of-seven-bfds-from-oracle-openworld/</link>
-      <pubDate>Fri, 06 Oct 2017 07:50:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/oow17--an-icymi-review-of-seven-bfds-from-oracle-openworld/</guid>
-      <description>Skim the OOW17 headlines, and you&amp;rsquo;ll see that founder and CTO Larry Ellison took potshots at Amazon Web Services and Splunk, while the company &amp;hellip; more.
-@crypt0net</description>
-    </item>
-    
-    <item>
-      <title>Harnessing new blockchain tech for inter-bank payments</title>
-      <link>//crypt0.net/post/harnessing-new-blockchain-tech-for-interbank-payments/</link>
-      <pubDate>Fri, 06 Oct 2017 07:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/harnessing-new-blockchain-tech-for-interbank-payments/</guid>
-      <description>The increasingly popular blockchain technology could soon be harnessed to make inter-bank payments more efficient. Three new software prototypes &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>Iridium Certus  Goes Live for On-Orbit Satellite Testing</title>
-      <link>//crypt0.net/post/iridium-certus--goes-live-for-onorbit-satellite-testing/</link>
-      <pubDate>Fri, 06 Oct 2017 07:40:03 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/iridium-certus--goes-live-for-onorbit-satellite-testing/</guid>
-      <description>Iridium Certus is going to fundamentally change the status quo in satellite connectivity for aviation, maritime, land-mobile, Internet of Things (IoT) and &amp;hellip; more.
-@surgethings</description>
-    </item>
-    
-    <item>
-      <title>At Equifax Hearings, Senators Complain of Deja Vu - Roll Call</title>
-      <link>//crypt0.net/post/at-equifax-hearings-senators-complain-of-deja-vu--roll-call/</link>
-      <pubDate>Fri, 06 Oct 2017 07:30:02 +0000</pubDate>
-      
-      <guid>//crypt0.net/post/at-equifax-hearings-senators-complain-of-deja-vu--roll-call/</guid>
-      <description>The panel held a similar hearing in November 2015 on the handling of consumer information after data breaches at Target, Home Depot and Anthem. more.
-@trustpath</description>
     </item>
     
   </channel>
