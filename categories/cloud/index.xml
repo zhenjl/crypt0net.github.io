@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dataence. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 21 Nov 2017 07:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2017 08:30:03 +0000</lastBuildDate>
     
 	<atom:link href="//crypt0.net/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft: Measuring Latency and Throughput Between Azure Regions</title>
+      <link>//crypt0.net/post/microsoft-measuring-latency-and-throughput-between-azure-regions/</link>
+      <pubDate>Tue, 21 Nov 2017 08:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/microsoft-measuring-latency-and-throughput-between-azure-regions/</guid>
+      <description>When Microsoft picks locations for Azure regions, they are selected to be a safe distance apart for most major disasters (earthquake, flood, and so on). more.
+@crypt0net</description>
+    </item>
+    
+    <item>
+      <title>Wine analytics experts leverage Microsoft Azure to unlock profitability for</title>
+      <link>//crypt0.net/post/wine-analytics-experts-leverage-microsoft-azure-to-unlock-profitability-for/</link>
+      <pubDate>Tue, 21 Nov 2017 07:30:03 +0000</pubDate>
+      
+      <guid>//crypt0.net/post/wine-analytics-experts-leverage-microsoft-azure-to-unlock-profitability-for/</guid>
+      <description>Reseller News Wine industry analytics specialists, NZWineMetrics, is unlocking new profitability for wine producers in New Zealand, leveraging Microsoft software &amp;hellip; more.
+@crypt0net</description>
+    </item>
     
     <item>
       <title>Chaos Sumo Aims To Solve IoT Data Headaches With Smart Object Storage For</title>
